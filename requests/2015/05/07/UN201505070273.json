@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505070273",
+    "requested_datetime": "2015-05-07 20:40:00.0",
+    "status": {
+
+    },
+    "keyword": "0",
+    "area": "學甲區",
+    "service_name": "動物救援",
+    "agency": "0",
+    "subproject": "遊蕩犬隻捕捉管制",
+    "description": "學甲區中正路與中華路三段口 捕犬",
+    "address_string": "中正路與中華路三段口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-07 20:40:00.0"
+}
