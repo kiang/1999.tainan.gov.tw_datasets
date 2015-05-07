@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505070012",
+    "requested_datetime": "2015-05-07 07:29:00.0",
+    "status": {
+
+    },
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "安平區安平路406巷 民權路四段391巷 違規停車",
+    "address_string": "安平區安平路406巷",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-07 07:29:00.0"
+}

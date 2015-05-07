@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504240258",
+    "requested_datetime": "2015-04-24 16:30:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "民生管線",
+    "agency": "0",
+    "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
+    "description": "中西區南寧街25號-2和25號-3  中西區南門路227巷8號和8號-1前方 孔蓋鬆動",
+    "address_string": "中西區南寧街25號-2和25號-3  中西區南門路227巷8號和8號-1前方",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-01 15:52:00.0",
+    "expected_datetime": "2015-05-01 16:30:00.0"
+}
