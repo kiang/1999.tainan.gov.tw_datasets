@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504250169",
+    "requested_datetime": "2015-04-25 15:55:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "髒亂及汙染",
+    "agency": "0",
+    "subproject": "環境髒亂",
+    "description": "北區育德二路196巷口的正對面路邊及往南的榕樹下 環境髒亂",
+    "address_string": "北區育德二路196巷口的正對面路邊及往南的榕樹下",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-02 15:55:00.0"
+}
