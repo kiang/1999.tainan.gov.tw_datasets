@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504250023",
+    "requested_datetime": "2015-04-25 08:17:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "新化區",
+    "service_name": "民生管線",
+    "agency": "0",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "新化區南168鄉道往左鎮區方向約6K至7K處 漏水",
+    "address_string": "新化區南168鄉道往左鎮區方向約6K至7K處",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-02 08:17:00.0"
+}
