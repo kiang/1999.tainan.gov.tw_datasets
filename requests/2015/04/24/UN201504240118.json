@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504240118",
+    "requested_datetime": "2015-04-24 10:48:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "民生管線",
+    "agency": "0",
+    "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
+    "description": "北區大興街325巷1號 孔蓋",
+    "address_string": "北區大興街325巷1號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-01 10:48:00.0"
+}
