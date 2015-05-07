@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504250064",
+    "requested_datetime": "2015-04-25 10:05:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "北門區",
+    "service_name": "噪音舉發",
+    "agency": "0",
+    "subproject": "場所連續噪音",
+    "description": "北門區北門遊客中心後方的商鋪 噪音",
+    "address_string": "北門區北門遊客中心後方的商鋪",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-02 10:05:00.0"
+}
