@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505070140",
+    "requested_datetime": "2015-05-07 13:18:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "髒亂及汙染",
+    "agency": "0",
+    "subproject": "環境髒亂",
+    "description": "安平區同平路156巷8號對面工地  環境髒亂",
+    "address_string": "安平區同平路156巷8號對面工地",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-14 13:18:00.0"
+}
