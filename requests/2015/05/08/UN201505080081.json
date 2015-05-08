@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505080081",
+    "requested_datetime": "2015-05-08 09:59:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "髒亂及汙染",
+    "agency": "0",
+    "subproject": "道路散落物",
+    "description": "安平區平豐路上(札哈木公園旁的7-11附近 往五期方向)  道路散落物",
+    "address_string": "安平區平豐路上(札哈木公園旁的7-11附近往五期方向)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-15 09:59:00.0"
+}
