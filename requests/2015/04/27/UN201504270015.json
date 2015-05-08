@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504270015",
+    "requested_datetime": "2015-04-27 06:55:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "道路維修",
+    "agency": "0",
+    "subproject": "路面坑洞",
+    "description": "中西區中山路164巷5號(前面)溝蓋旁 坑洞",
+    "address_string": "中西區中山路164巷5號(前面)溝蓋旁",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-04 06:55:00.0"
+}
