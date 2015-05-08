@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505090005",
+    "requested_datetime": "2015-05-09 01:27:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "0",
+    "subproject": "妨礙安寧",
+    "description": "中西區慶中街114號 妨礙安寧",
+    "address_string": "中西區慶中街114號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-09 02:57:40.0",
+    "expected_datetime": "2015-05-16 01:27:00.0"
+}
