@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504260089",
+    "requested_datetime": "2015-04-26 12:20:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "0",
+    "subproject": "妨礙安寧",
+    "description": "北區公園南路跟西門路附近 廟會妨礙安寧",
+    "address_string": "北區公園南路跟西門路附近",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-04 16:53:00.0",
+    "expected_datetime": "2015-05-03 12:20:00.0"
+}
