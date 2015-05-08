@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504280373",
+    "requested_datetime": "2015-04-28 23:48:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "0",
+    "subproject": "妨礙安寧",
+    "description": "北區大興街325巷內的釣蝦場 妨礙安寧",
+    "address_string": "北區大興街325巷內的釣蝦場",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-05 23:48:00.0"
+}

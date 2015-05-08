@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504280356",
+    "requested_datetime": "2015-04-28 22:27:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "0",
+    "subproject": "空氣汙染",
+    "description": "永康區龍埔街接近四維街的區域 空氣污染",
+    "address_string": "永康區龍埔街接近四維街的區域",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-04-30 11:45:00.0",
+    "expected_datetime": "2015-05-05 22:27:00.0"
+}

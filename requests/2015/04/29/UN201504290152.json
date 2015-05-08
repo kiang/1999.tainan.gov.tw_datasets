@@ -7,13 +7,13 @@
     "service_name": "噪音舉發",
     "agency": "0",
     "subproject": "場所連續噪音",
-    "description": "安南區安和路四段36巷200弄60號 機械噪音",
+    "description": "安南區安和路四段36巷200弄60號 噪音",
     "address_string": "安南區安和路四段36巷200弄60號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-04-30 16:44:59.0",
+    "updated_datetime": "2015-04-30 16:44:00.0",
     "expected_datetime": "2015-05-06 12:27:00.0"
 }

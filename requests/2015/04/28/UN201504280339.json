@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504280339",
+    "requested_datetime": "2015-04-28 21:25:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "路燈故障",
+    "agency": "0",
+    "subproject": "9盞以下路燈故障",
+    "description": "仁德區中正西路510號前 路燈",
+    "address_string": "仁德區中正西路510號前",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-04-30 08:30:00.0",
+    "expected_datetime": "2015-05-05 21:25:00.0"
+}

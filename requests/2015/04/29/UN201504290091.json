@@ -6,14 +6,14 @@
     "area": "仁德區",
     "service_name": "髒亂及污染",
     "agency": "0",
-    "subproject": "空氣汙染",
-    "description": "仁德區成功二街31巷34號對面  民宅施工塵土飛揚",
+    "subproject": "其他汙染舉發",
+    "description": "仁德區成功二街31巷34號對面  汙染舉發",
     "address_string": "仁德區成功二街31巷34號對面",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-04-30 09:46:42.0",
+    "updated_datetime": "2015-04-30 09:46:00.0",
     "expected_datetime": "2015-05-06 09:58:00.0"
 }

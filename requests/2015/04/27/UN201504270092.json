@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504270092",
+    "requested_datetime": "2015-04-27 09:51:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "道路維修",
+    "agency": "0",
+    "subproject": "瓦斯管溝修補、孔蓋鬆動",
+    "description": "安南區海佃路二段166號前 孔蓋聲響",
+    "address_string": "安南區海佃路二段166號前",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-07 11:31:00.0",
+    "expected_datetime": "2015-05-04 09:51:00.0"
+}
