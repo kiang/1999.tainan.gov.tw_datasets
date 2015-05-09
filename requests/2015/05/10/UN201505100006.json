@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505100006",
+    "requested_datetime": "2015-05-10 01:06:00.0",
+    "status": {
+
+    },
+    "keyword": "0",
+    "area": "善化區",
+    "service_name": "髒亂及汙染",
+    "agency": "0",
+    "subproject": "空氣汙染",
+    "description": "善化區和平路146巷2號 空氣汙染",
+    "address_string": "善化區和平路146巷2號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-17 01:06:00.0"
+}
