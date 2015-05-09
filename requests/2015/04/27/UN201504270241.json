@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504270241",
+    "requested_datetime": "2015-04-27 14:38:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "0",
+    "subproject": "佔用道路",
+    "description": "北區北園街8巷2號前 佔用道路",
+    "address_string": "北區北園街8巷2號前",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-02 22:47:00.0",
+    "expected_datetime": "2015-05-04 14:38:00.0"
+}
