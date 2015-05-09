@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504270126",
+    "requested_datetime": "2015-04-27 10:34:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "交通運輸",
+    "agency": "0",
+    "subproject": "佔用道路",
+    "description": "仁德區開發一路與永德路口 佔用道路",
+    "address_string": "仁德區開發一路與永德路口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-03 10:03:00.0",
+    "expected_datetime": "2015-05-04 10:34:00.0"
+}

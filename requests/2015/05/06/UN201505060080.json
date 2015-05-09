@@ -6,14 +6,14 @@
     "area": "歸仁區",
     "service_name": "噪音舉發",
     "agency": "0",
-    "subproject": "妨害安寧",
-    "description": "歸仁區長大路1號(長榮大學) 妨害安寧",
+    "subproject": "妨礙安寧",
+    "description": "歸仁區長大路1號(長榮大學) 妨礙安寧",
     "address_string": "歸仁區長大路1號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-06 21:25:55.0",
+    "updated_datetime": "2015-05-06 21:25:00.0",
     "expected_datetime": "2015-05-13 10:03:00.0"
 }

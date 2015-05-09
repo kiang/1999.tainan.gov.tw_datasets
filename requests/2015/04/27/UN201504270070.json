@@ -7,8 +7,8 @@
     "service_name": "路燈故障",
     "agency": "0",
     "subproject": "9盞以下路燈故障",
-    "description": "東區崇明路(崇學路^中華東路) 路燈不亮",
-    "address_string": "東區崇明路(崇學路^中華東路)",
+    "description": "東區崇明路(崇學路到中華東路) 路燈不亮",
+    "address_string": "東區崇明路(崇學路到中華東路)",
     "lat": "0",
     "long": "0",
     "service_notice": {

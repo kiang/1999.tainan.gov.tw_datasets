@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504270180",
+    "requested_datetime": "2015-04-27 11:58:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "0",
+    "subproject": "公車動態LED跑馬燈資訊顯示異常",
+    "description": "南區三官廟站公車候車亭 跑馬燈故障",
+    "address_string": "南區三官廟站公車候車亭",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-04-30 17:22:00.0",
+    "expected_datetime": "2015-05-04 11:58:00.0"
+}

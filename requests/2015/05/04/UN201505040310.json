@@ -6,14 +6,14 @@
     "area": "中西區",
     "service_name": "噪音舉發",
     "agency": "0",
-    "subproject": "妨害安寧",
-    "description": "中西區府前路一段283號　妨害安寧",
+    "subproject": "妨礙安寧",
+    "description": "中西區府前路一段283號 妨礙安寧",
     "address_string": "中西區府前路一段283號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-04 22:46:22.0",
+    "updated_datetime": "2015-05-04 22:46:00.0",
     "expected_datetime": "2015-05-11 17:00:00.0"
 }
