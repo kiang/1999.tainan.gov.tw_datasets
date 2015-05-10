@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505100052",
+    "requested_datetime": "2015-05-10 10:21:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "0",
+    "subproject": "交通疏導",
+    "description": "北區公園路與和緯路交叉處  交通疏導",
+    "address_string": "北區公園路與和緯路交叉處",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-17 10:21:00.0"
+}
