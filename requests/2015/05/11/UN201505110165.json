@@ -7,13 +7,13 @@
     "service_name": "違規停車",
     "agency": "0",
     "subproject": "違規停車",
-    "description": "中西區西華南街28號 中西區興華街8號附近\/違停",
-    "address_string": "中西區西華南街28號 中西區興華街8號附近",
+    "description": "中西區西華南街28號 興華街8號附近 違停",
+    "address_string": "中西區西華南街28號 興華街8號附近",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-11 15:57:22.0",
+    "updated_datetime": "2015-05-11 15:57:00.0",
     "expected_datetime": "2015-05-18 13:00:00.0"
 }
