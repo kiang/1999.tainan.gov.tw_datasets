@@ -4,7 +4,7 @@
     "status": "已完工",
     "keyword": "0",
     "area": "新營區",
-    "service_name": "違規停車",
+    "service_name": "交通運輸",
     "agency": "0",
     "subproject": "佔用道路",
     "description": "新營交流道往鹽水方向中間有福懋加油站對面 佔用道路",
@@ -14,6 +14,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-11 17:10:32.0",
+    "updated_datetime": "2015-05-11 17:10:00.0",
     "expected_datetime": "2015-05-18 15:04:00.0"
 }

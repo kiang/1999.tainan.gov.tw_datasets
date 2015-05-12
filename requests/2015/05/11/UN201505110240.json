@@ -4,7 +4,7 @@
     "status": "已完工",
     "keyword": "0",
     "area": "麻豆區",
-    "service_name": "道路維修",
+    "service_name": "交通運輸",
     "agency": "0",
     "subproject": "佔用道路",
     "description": "麻豆區中山路52和54號 佔用道路",
@@ -14,6 +14,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-11 18:27:36.0",
+    "updated_datetime": "2015-05-11 18:27:00.0",
     "expected_datetime": "2015-05-18 15:46:00.0"
 }
