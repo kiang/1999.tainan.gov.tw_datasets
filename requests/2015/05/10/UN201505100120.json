@@ -6,7 +6,7 @@
     "area": "新市區",
     "service_name": "噪音舉發",
     "agency": "0",
-    "subproject": "妨害安寧",
+    "subproject": "妨礙安寧",
     "description": "新市區公所對面 妨礙安寧",
     "address_string": "新市區公所對面",
     "lat": "0",
@@ -14,6 +14,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-10 21:17:48.0",
+    "updated_datetime": "2015-05-10 21:17:00.0",
     "expected_datetime": "2015-05-17 14:59:00.0"
 }

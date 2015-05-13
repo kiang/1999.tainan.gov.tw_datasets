@@ -6,7 +6,7 @@
     "area": "永康區",
     "service_name": "噪音舉發",
     "agency": "0",
-    "subproject": "妨害安寧",
+    "subproject": "妨礙安寧",
     "description": "永康區大灣路40巷78弄22號 噪音",
     "address_string": "永康區大灣路40巷78弄22號",
     "lat": "0",
@@ -14,6 +14,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-09 01:20:42.0",
+    "updated_datetime": "2015-05-09 01:20:00.0",
     "expected_datetime": "2015-05-15 19:17:00.0"
 }

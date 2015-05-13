@@ -6,7 +6,7 @@
     "area": "南區",
     "service_name": "噪音舉發",
     "agency": "0",
-    "subproject": "妨害安寧",
+    "subproject": "妨礙安寧",
     "description": "南區永成路三段240巷6號  妨礙安寧",
     "address_string": "南區永成路三段240巷6號",
     "lat": "0",
@@ -14,6 +14,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-06 23:17:50.0",
+    "updated_datetime": "2015-05-06 23:17:00.0",
     "expected_datetime": "2015-05-13 21:59:00.0"
 }

@@ -6,7 +6,7 @@
     "area": "柳營區",
     "service_name": "噪音舉發",
     "agency": "0",
-    "subproject": "妨害安寧",
+    "subproject": "妨礙安寧",
     "description": "柳營區中山東路二段429號附近的田 妨礙安寧",
     "address_string": "柳營區中山東路二段429號附近的田",
     "lat": "0",
@@ -14,6 +14,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-06 21:24:44.0",
+    "updated_datetime": "2015-05-06 21:24:00.0",
     "expected_datetime": "2015-05-13 08:10:00.0"
 }

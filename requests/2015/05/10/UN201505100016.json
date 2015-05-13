@@ -6,7 +6,7 @@
     "area": "安南區",
     "service_name": "噪音舉發",
     "agency": "0",
-    "subproject": "妨害安寧",
+    "subproject": "妨礙安寧",
     "description": "安南區文南里安昌街和濟宮  廟會妨礙安寧",
     "address_string": "安南區文南里安昌街和濟宮",
     "lat": "0",
@@ -14,6 +14,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-10 20:29:40.0",
+    "updated_datetime": "2015-05-10 20:29:00.0",
     "expected_datetime": "2015-05-17 07:01:00.0"
 }
