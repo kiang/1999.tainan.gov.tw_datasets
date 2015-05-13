@@ -7,13 +7,13 @@
     "service_name": "交通運輸",
     "agency": "0",
     "subproject": "號誌秒差調整",
-    "description": "南區永成路二段與中華南路交叉處   號誌不同步",
+    "description": "南區永成路二段與中華南路交叉處   號誌秒差",
     "address_string": "南區永成路二段與中華南路交叉處",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-13 16:12:39.0",
+    "updated_datetime": "2015-05-13 16:12:00.0",
     "expected_datetime": "2015-05-20 10:54:00.0"
 }
