@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201505140037",
     "requested_datetime": "2015-05-14 08:19:00.0",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": {
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "null",
+    "updated_datetime": "2015-05-14 14:17:08.0",
     "expected_datetime": "2015-05-21 08:19:00.0"
 }
