@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505140350",
+    "requested_datetime": "2015-05-14 22:30:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "0",
+    "subproject": "路面坑洞",
+    "description": "東區裕農路606號 坑洞",
+    "address_string": "裕農路606號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-21 22:30:00.0"
+}
