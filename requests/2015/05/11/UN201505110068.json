@@ -7,13 +7,13 @@
     "service_name": "路燈故障",
     "agency": "0",
     "subproject": "9盞以下路燈故障",
-    "description": "南區大同一段175巷134弄13號前 路燈故障",
+    "description": "南區大同一段175巷134弄13號前 路燈",
     "address_string": "南區大同一段175巷134弄13號前",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-12 14:02:14.0",
+    "updated_datetime": "2015-05-12 14:02:00.0",
     "expected_datetime": "2015-05-18 09:42:00.0"
 }
