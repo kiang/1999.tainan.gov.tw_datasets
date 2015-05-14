@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505140082",
+    "requested_datetime": "2015-05-14 09:54:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": {
+
+    },
+    "subproject": "違規停車",
+    "description": "永康區中華路198號(玉山銀行)附近 違停",
+    "address_string": "永康區中華路198號(玉山銀行)附近",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-14 14:17:00.0",
+    "expected_datetime": "2015-05-21 09:54:00.0"
+}

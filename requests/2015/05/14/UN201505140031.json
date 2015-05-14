@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505140031",
+    "requested_datetime": "2015-05-14 08:05:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "西港區",
+    "service_name": "違規停車",
+    "agency": {
+
+    },
+    "subproject": "交通疏導",
+    "description": "西港大橋上往市區方向 交通輸導",
+    "address_string": "西港大橋上往市區方向",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-14 14:04:00.0",
+    "expected_datetime": "2015-05-21 08:05:00.0"
+}
