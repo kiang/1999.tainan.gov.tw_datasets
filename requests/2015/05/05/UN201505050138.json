@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "永康區台南應用科大校門旁及萊爾富前 違停",
     "address_string": "永康區台南應用科大校門旁及萊爾富前",
