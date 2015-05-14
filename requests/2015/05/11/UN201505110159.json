@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "仁德區",
     "service_name": "動物救援",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "遊蕩犬隻捕捉管制",
     "description": "仁德區都會公園北面管理中心的藍球場旁廁所 捕犬",
     "address_string": "都會公園北面管理中心的藍球場旁廁所",

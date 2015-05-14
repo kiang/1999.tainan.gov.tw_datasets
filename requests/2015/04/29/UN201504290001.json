@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "動物救援",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "犬貓急難救援",
     "description": "北區開元路66巷29號4樓和5樓中間的遮雨棚 犬貓救援",
     "address_string": "北區開元路66巷29號4樓和5樓中間的遮雨棚",

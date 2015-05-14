@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "南區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "道路散落物",
     "description": "南區萬年一街上 道路散落物",
     "address_string": "南區萬年一街上",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "西港區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨礙安寧",
     "description": "西港區慶安路32號 噪音",
     "address_string": "西港區慶安路32號",

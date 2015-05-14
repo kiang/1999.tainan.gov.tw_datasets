@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "仁德區",
     "service_name": "髒亂及污染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "其他汙染舉發",
     "description": "仁德區成功二街31巷34號對面  汙染舉發",
     "address_string": "仁德區成功二街31巷34號對面",

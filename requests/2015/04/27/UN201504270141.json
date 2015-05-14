@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "歸仁區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "環境髒亂",
     "description": "歸仁區中正三街51號 環境髒亂",
     "address_string": "歸仁區中正三街51號",

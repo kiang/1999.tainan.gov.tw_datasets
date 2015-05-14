@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "南區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "號誌秒差調整",
     "description": "南區大同路二段(從榮譽街往中華東路再往公英一街) 號誌秒差",
     "address_string": "南區大同路二段(從榮譽街往中華東路再往公英一街)",

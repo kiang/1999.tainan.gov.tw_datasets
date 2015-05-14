@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安南區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "場所連續噪音",
     "description": "安南區海環街101巷10號 噪音\/廟會",
     "address_string": "安南區海環街101巷10號",

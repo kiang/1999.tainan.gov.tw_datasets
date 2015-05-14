@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "騎樓舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "騎樓舉發",
     "description": "北區成功路2之6號賣捲餅和成功路2之35號賣紅豆餅攤販 佔用騎樓",
     "address_string": "北區成功路2之6號賣捲餅和成功路2之35號賣紅豆餅攤販",

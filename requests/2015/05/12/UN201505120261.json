@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "麻豆區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "其他汙染舉發",
     "description": "麻豆區安業里152號 汙染舉發",
     "address_string": "安業里152號",

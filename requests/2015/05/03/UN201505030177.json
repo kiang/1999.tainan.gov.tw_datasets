@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安南區",
     "service_name": "路燈故障",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "9盞以下路燈故障",
     "description": "安南區大安街278巷巷口處280號對面  路燈",
     "address_string": "安南區大安街278巷巷口處280號對面",

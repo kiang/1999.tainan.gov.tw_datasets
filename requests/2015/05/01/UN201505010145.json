@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "北區成大醫院勝利路上門口處 北區小東路未到勝利路路口處 北區舊台汽客運勝利路上 違停",
     "address_string": "北區成大醫院勝利路上門口處 北區小東路未到勝利路路口處 北區舊台汽客運勝利路上",

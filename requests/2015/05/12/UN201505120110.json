@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "新化區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "佔用道路",
     "description": "新化區崙頂里410旁 佔用道路",
     "address_string": "新化區崙頂里410旁",

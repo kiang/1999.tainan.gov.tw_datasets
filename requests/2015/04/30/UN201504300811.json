@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "佳里區",
     "service_name": "髒亂及污染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "空氣汙染",
     "description": "佳里區公園路260巷口 空氣污染",
     "address_string": "佳里區公園路260巷口",

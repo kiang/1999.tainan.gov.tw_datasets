@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安南區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "場所連續噪音",
     "description": "安南區海環街31巷與海尾路附近 噪音\/廟會",
     "address_string": "海環街31巷與海尾路附近",

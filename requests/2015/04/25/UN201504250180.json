@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "南區",
     "service_name": "騎樓舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "騎樓舉發",
     "description": "南區金華路二段87號 佔用騎樓",
     "address_string": "南區金華路二段87號",

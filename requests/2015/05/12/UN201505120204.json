@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安平區",
     "service_name": "道路維修",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "路樹傾倒",
     "description": "安平區永華六街184號和206號 路樹",
     "address_string": "安平區永華六街184號和206號",

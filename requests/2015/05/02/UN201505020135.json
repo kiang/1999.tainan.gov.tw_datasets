@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "新營區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "新營區新進路二段77號以後 違停",
     "address_string": "新營區新進路二段77號以後",

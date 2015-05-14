@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "髒亂及污染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "空氣汙染",
     "description": "北區文賢二街117巷25號 空氣汙染",
     "address_string": "北區文賢二街117巷25號",

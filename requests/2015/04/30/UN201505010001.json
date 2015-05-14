@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安平區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨礙安寧",
     "description": "安平區國平路599-1號(約3樓 4樓) 妨礙安寧",
     "address_string": "安平區國平路599-1號(約3樓 4樓)",

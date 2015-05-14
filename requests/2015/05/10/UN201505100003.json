@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安定區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨礙安寧",
     "description": "安定區蘇林里(轄區派出所正對面) 廟會噪音",
     "address_string": "安定區蘇林里(轄區派出所正對面)",

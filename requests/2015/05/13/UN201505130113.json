@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "歸仁區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "佔用道路",
     "description": "歸仁區中正三街51號 佔用道路",
     "address_string": "歸仁區中正三街51號",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨礙安寧",
     "description": "東區林森路上 東寧公園內的籃球場 妨礙安寧",
     "address_string": "東區林森路上 東寧公園內的籃球場",

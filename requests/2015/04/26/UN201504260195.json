@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "永康區新行街靠近台南應用大學轉角 中山路41巷內 違停",
     "address_string": "永康區新行街靠近台南應用大學轉角 中山路41巷內",

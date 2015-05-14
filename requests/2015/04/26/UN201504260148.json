@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "麻豆區",
     "service_name": "民生管線",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "寬頻管線、孔蓋損壞",
     "description": "麻豆區民族路6-4號前 孔蓋",
     "address_string": "麻豆區民族路6-4號前",

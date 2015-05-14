@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "佔用道路",
     "description": "永康探索公園 永康街(永康國小對面)  佔用道路",
     "address_string": "永康探索公園 永康街(永康國小對面)",

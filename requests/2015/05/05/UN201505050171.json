@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "台南大學五妃街側門全家便利商店對面的人行道 違停",
     "address_string": "台南大學五妃街側門全家便利商店對面的人行道",

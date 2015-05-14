@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安南區",
     "service_name": "路燈故障",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "10盞以上路燈故障",
     "description": "安南區國安里國安街210巷178號整片 路燈不亮",
     "address_string": "安南區國安里國安街210巷178號整片區域",

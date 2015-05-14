@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "佳里區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "號誌故障",
     "description": "佳里區延平路和平等街交叉處 號誌故障",
     "address_string": "佳里區延平路和平等街交叉處",

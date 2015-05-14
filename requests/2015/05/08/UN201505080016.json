@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "道路散落物",
     "description": "北區立賢路(西門路-育德路) 道路散落物",
     "address_string": "北區立賢路(西門路-育德路)",

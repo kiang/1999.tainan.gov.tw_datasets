@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "善化區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "場所連續噪音",
     "description": "善化區陽光南一路85巷1號 噪音",
     "address_string": "善化區陽光南一路85巷1號",

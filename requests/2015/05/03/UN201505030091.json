@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "永康區",
     "service_name": "騎樓舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "騎樓舉發",
     "description": "永康區台南應用科技大學周遭的中正路 中正七街 新民街  佔用騎樓",
     "address_string": "永康區台南應用科技大學周遭的中正路 中正七街 新民街",

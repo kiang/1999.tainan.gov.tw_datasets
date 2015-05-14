@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "學甲區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨害安寧",
     "description": "學甲區濟生路慈濟宮 廟會妨礙安寧",
     "address_string": "學甲區濟生路慈濟宮",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨害安寧",
     "description": "北區中華北路二段30巷附近 妨礙安寧",
     "address_string": "區中華北路二段30巷附近",

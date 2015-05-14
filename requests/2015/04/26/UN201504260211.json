@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨礙安寧",
     "description": "永康區大灣路40巷76號上恩幼稚園旁邊巷子進去 妨礙安寧",
     "address_string": "永康區大灣路40巷76號上恩幼稚園旁邊巷子進去",

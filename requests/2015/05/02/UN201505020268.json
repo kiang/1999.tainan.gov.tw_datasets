@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安南區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "場所連續噪音",
     "description": "十二佃南天宮(安南區公學路四段212號) 廟會噪音",
     "address_string": "十二佃南天宮(安南區公學路四段212號)",

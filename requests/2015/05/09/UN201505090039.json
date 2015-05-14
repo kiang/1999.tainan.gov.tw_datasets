@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "後壁區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "號誌故障",
     "description": "後壁區烏樹里(172市道上) 號誌故障",
     "address_string": "後壁區烏樹里(172市道上)",

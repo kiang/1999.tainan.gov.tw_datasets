@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "柳營區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨害安寧",
     "description": "柳營區東昇二街12號前 妨礙安寧",
     "address_string": "柳營區東昇二街12號前",

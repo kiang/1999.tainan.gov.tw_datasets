@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "學甲區",
     "service_name": "騎樓舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "騎樓舉發",
     "description": "學甲區濟生路(最熱鬧的路段) 佔用騎樓",
     "address_string": "學甲區濟生路(最熱鬧的路段)",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "鹽水區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨礙安寧",
     "description": "鹽水區朝琴路178號南榮科大 妨礙安寧",
     "address_string": "鹽水區朝琴路178號",

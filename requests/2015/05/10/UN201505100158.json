@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安南區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "安南區海佃路二段和同安路口 違停",
     "address_string": "安南區海佃路二段和同安路口",

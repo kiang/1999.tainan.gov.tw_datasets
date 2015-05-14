@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "東區",
     "service_name": "騎樓舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "騎樓舉發",
     "description": "東區北門路一段308-2號一帶 佔用騎樓",
     "address_string": "東區北門路一段308-2號一帶",

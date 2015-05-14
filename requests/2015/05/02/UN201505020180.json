@@ -7,7 +7,9 @@
     "keyword": "0",
     "area": "新市區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "佔用道路",
     "description": "新市區新市火車站右側 佔用道路",
     "address_string": "面對新市火車站右側",

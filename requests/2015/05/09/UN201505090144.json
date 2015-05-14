@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "號誌秒差調整",
     "description": "永康區中正北路與永安路口 號誌故障\/交通疏導",
     "address_string": "中正北路與永安路口",

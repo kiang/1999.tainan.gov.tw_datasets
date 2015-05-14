@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安平區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "佔用道路",
     "description": "安平區郡平路與平豐路 佔用道路",
     "address_string": "安平區郡平路與平豐路",

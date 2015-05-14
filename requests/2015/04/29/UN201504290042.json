@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "佔用道路",
     "description": "安平區建平七街(平豐路到育平路) 佔用道路",
     "address_string": "安平區建平七街(平豐路到育平路)",

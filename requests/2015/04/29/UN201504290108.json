@@ -7,7 +7,9 @@
     "keyword": "0",
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "永康區中正路與中正七街口 違停",
     "address_string": "永康區中正路與中正七街交叉口",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "騎樓舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "北區和緯路四段366號\/北區武聖路230號  佔用騎樓",
     "address_string": "北區和緯路四段366號\/北區武聖路230號",

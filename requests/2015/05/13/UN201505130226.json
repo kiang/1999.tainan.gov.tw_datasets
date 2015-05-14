@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "善化區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "號誌故障",
     "description": "善化區成功路3巷口 號誌故障",
     "address_string": "善化區成功路3巷口",

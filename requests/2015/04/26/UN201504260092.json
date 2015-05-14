@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "號誌秒差調整",
     "description": "東區崇善路 林森路一段 府連東路 號誌秒差",
     "address_string": "東區崇善路 林森路一段 府連東路",

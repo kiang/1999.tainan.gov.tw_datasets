@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "鹽水區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "道路散落物",
     "description": "過鹽水外環道路上的加油站未到殯儀館的雙黃線 道路散落物",
     "address_string": "過鹽水外環道路上的加油站未到殯儀館的雙黃線",

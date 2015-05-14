@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "佔用道路",
     "description": "東區東寧路457號 佔用路面",
     "address_string": "東區東寧路457號",

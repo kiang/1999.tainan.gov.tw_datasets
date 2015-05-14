@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安平區",
     "service_name": "髒亂及污染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "空氣汙染",
     "description": "夕遊出張所 空汙",
     "address_string": "夕遊出張所",

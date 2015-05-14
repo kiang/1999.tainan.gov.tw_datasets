@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "玉井區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨害安寧",
     "description": "玉井區中正路的興南客運總站  廟會妨礙安寧",
     "address_string": "玉井區中正路的興南客運總站",

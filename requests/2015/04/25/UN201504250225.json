@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "南區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "空氣汙染",
     "description": "南區永成路二段665號後方的工廠 空氣汙染",
     "address_string": "南區永成路二段665號後方的工廠",

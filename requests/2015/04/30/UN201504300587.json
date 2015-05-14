@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安平區",
     "service_name": "髒亂及污染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "空氣汙染",
     "description": "安平區安北路403號(西門國小萊爾富轉角處) 空汙",
     "address_string": "安北路403號(西門國小萊爾富轉角處)同記豆花店隔壁",

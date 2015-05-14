@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "官田區",
     "service_name": "動物救援",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "遊蕩犬隻捕捉管制",
     "description": "官田區隆田後火車站和中興路一段",
     "address_string": "官田區隆田後火車站和中興路一段",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "仁德區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "空氣汙染",
     "description": "仁德區太子路143號從太子加油站和7-11此路口開始一直到長興二街 空氣汙染",
     "address_string": "仁德區太子路143號從太子加油站和7-11此路口開始一直到長興二街",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "場所連續噪音",
     "description": "永康區中正二街399號 噪音",
     "address_string": "永康區中正二街399號",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "號誌故障",
     "description": "北區小東路與北門路 號誌故障",
     "address_string": "北區小東路與北門路",

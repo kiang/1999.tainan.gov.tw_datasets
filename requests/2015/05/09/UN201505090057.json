@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "六甲區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "六甲區公有臨售市場(六甲區中正路522號)附近 違停",
     "address_string": "六甲區公有臨售市場(中正路522號)附近",

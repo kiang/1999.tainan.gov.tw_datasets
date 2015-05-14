@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "路面坑洞",
     "description": "東區崇善路與崇善四街口(往仁德方向) 坑洞",
     "address_string": "東區崇善路與崇善四街口(往仁德方向)",

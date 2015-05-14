@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨礙安寧",
     "description": "北區公園南路跟西門路附近 廟會妨礙安寧",
     "address_string": "北區公園南路跟西門路附近",

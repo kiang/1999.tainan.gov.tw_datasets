@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "南區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "場所連續噪音",
     "description": "南區金華路二段101號 喇叭噪音",
     "address_string": "南區金華路二段101號",

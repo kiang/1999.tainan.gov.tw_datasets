@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安南區",
     "service_name": "動物救援",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "遊蕩犬隻捕捉管制",
     "description": "安南區海佃路二段653巷62號 捕犬",
     "address_string": "安南區海佃路二段653巷62號",

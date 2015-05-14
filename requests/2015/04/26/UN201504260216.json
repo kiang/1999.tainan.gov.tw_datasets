@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "場所連續噪音",
     "description": "永康區中山北路194號 廟會噪音",
     "address_string": "永康區中山北路194號",

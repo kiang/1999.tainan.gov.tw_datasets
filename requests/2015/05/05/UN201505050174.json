@@ -7,7 +7,9 @@
     "service_name": {
 
     },
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "中西區國華街三段1號與3號 違停",
     "address_string": "中西區國華街三段1號與3號",

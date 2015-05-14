@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "新營區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "新營區府西路與中正路39巷交叉口 違停",
     "address_string": "府西路與中正路39巷交叉口",

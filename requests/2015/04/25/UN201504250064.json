@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北門區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "場所連續噪音",
     "description": "北門區北門遊客中心後方的商鋪 噪音",
     "address_string": "北門區北門遊客中心後方的商鋪",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "東區",
     "service_name": "路燈故障",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "9盞以下路燈故障",
     "description": "東區崇學路259-3號 路燈不亮",
     "address_string": "東區崇學路259-3號",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "仁德區",
     "service_name": "道路維修",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "路面坑洞",
     "description": "仁德區文賢路一段與一號省道交叉口往機場路路口 坑洞",
     "address_string": "仁德區文賢路一段與一號省道交叉口往機場路路口",

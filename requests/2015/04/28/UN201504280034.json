@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "南區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "其他汙染舉發",
     "description": "南區新和二路13號後方 汙染舉發",
     "address_string": "南區新和二路13號後方",

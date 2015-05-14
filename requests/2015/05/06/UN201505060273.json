@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "南區健康路上從中華西路到大同路 違停",
     "address_string": "南區健康路上從中華西路到大同路",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "東區",
     "service_name": "民生管線",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "寬頻管線、孔蓋損壞",
     "description": "東區崇明十四街9號(前方) 孔蓋",
     "address_string": "東區崇明十四街9號(前方)",

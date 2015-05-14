@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "佳里區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "佔用道路",
     "description": "佳里區新生路新生醫院前 佔用道路",
     "address_string": "佳里區新生路新生醫院前",

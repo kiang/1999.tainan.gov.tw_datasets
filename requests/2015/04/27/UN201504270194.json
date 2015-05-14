@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安南區",
     "service_name": "路燈故障",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "9盞以下路燈故障",
     "description": "過安南區新順里北安路三段7-11後往北安路四段方向 路燈",
     "address_string": "過安南區新順里北安路三段7-11後往北安路四段方向",

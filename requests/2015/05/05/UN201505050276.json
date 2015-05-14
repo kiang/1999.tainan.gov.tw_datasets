@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "佔用道路",
     "description": "北區林森路三段153號之25附近 佔用道路",
     "address_string": "北區林森路三段153號之25附近",

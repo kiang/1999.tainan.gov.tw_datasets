@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安南區",
     "service_name": "動物救援",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "犬貓急難救援",
     "description": "安南區長溪路三段399號 狗受傷",
     "address_string": "長溪路三段399號",

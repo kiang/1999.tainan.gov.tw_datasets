@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "歸仁區",
     "service_name": "道路維修",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "寬頻管線、孔蓋損壞",
     "description": "歸仁區中山路三段403號前 人孔蓋聲響",
     "address_string": "歸仁區中山路三段403號",

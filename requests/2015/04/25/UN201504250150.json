@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "南區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "公車動態LED跑馬燈資訊顯示異常",
     "description": "南區新興路357號(京城銀行)前面及對向的公車亭 跑馬燈故障",
     "address_string": "南區新興路357號(京城銀行)前面及對向的公車亭",

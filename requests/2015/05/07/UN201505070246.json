@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "新市區",
     "service_name": "動物救援",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "遊蕩犬隻捕捉管制",
     "description": "新市區大社里285之21號附近  捕犬",
     "address_string": "新市區大社里285之21號附近",

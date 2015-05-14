@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "民生管線",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "北區公園路994巷22弄11號及大武街 停電",
     "address_string": "北區公園路994巷22弄11號及大武街",

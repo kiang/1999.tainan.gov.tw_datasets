@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨礙安寧",
     "description": "北區東豐路441號後方(趙子龍廟) 妨礙安寧\/廟會",
     "address_string": "東豐路441號後方(趙子龍廟)",

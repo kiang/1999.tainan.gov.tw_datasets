@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "歸仁區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨礙安寧",
     "description": "歸仁區長大路1號(長榮大學) 妨礙安寧",
     "address_string": "歸仁區長大路1號",

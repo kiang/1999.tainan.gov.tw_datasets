@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安南區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "交通疏導",
     "description": "台17線 安南區國姓橋往七股方向  交通疏導",
     "address_string": {

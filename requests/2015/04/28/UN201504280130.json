@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "號誌故障",
     "description": "東區崇明路與崇明十一街(南往北方向)  號誌故障",
     "address_string": "東區崇明路與崇明十一街(南往北方向)",

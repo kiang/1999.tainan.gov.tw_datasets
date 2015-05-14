@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "南區新興路22號周圍  違停",
     "address_string": "南區新興路22號周圍",

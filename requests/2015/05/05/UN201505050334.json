@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安南區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "場所連續噪音",
     "description": "安南區安和路一段459巷36弄85號 噪音",
     "address_string": "安南區安和路一段459巷36弄85號",

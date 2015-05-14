@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "台南文化中心旁的小巷子 違停",
     "address_string": "台南文化中心旁的小巷子",

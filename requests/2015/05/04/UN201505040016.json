@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安南區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "道路散落物",
     "description": "安南區土城聖母廟前 道路散落物",
     "address_string": "安南區土城聖母廟前",

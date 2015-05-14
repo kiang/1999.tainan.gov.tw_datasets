@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "歸仁區",
     "service_name": "路燈故障",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "9盞以下路燈故障",
     "description": "歸仁區交通大學校區前面 路燈",
     "address_string": "歸仁區交通大學校區前面",

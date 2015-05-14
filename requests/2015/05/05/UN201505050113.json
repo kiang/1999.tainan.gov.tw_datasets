@@ -7,7 +7,9 @@
     "service_name": {
 
     },
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "東區崇善路與生產路口 違停",
     "address_string": "東區崇善路與生產路口",

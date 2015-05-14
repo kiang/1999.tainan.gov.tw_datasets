@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "東區",
     "service_name": "民生管線",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "地下道積水",
     "description": "東區長榮地下道 積水",
     "address_string": "東區長榮地下道積水",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "柳營區",
     "service_name": "動物救援",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "遊蕩犬隻捕捉管制",
     "description": "柳營區人和里116號 捕犬",
     "address_string": "柳營區人和里116號",

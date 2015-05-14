@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "仁德區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨害安寧",
     "description": "仁德區新田里勝利路上 廟會噪音",
     "address_string": "仁德區新田里勝利路上",

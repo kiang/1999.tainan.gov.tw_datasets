@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安平區",
     "service_name": "髒亂及污染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "市區道路路面油漬",
     "description": "安平區健康三街與平通路口 路面油漬",
     "address_string": {

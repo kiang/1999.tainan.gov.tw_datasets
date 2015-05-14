@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "官田區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨礙安寧",
     "description": "官田區勝利路75號或73號中間的空地 妨礙安寧",
     "address_string": "官田區勝利路75號或73號中間的空地",

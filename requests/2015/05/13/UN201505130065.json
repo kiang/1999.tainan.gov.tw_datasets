@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安平區",
     "service_name": "騎樓舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "騎樓舉發",
     "description": "安平區華平路600多號 佔用騎樓",
     "address_string": "安平區華平路600多號",

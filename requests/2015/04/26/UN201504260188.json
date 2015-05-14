@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨礙安寧",
     "description": "永康區勝華街37巷隔壁巷子 廟會妨礙安寧",
     "address_string": "永康區勝華街37巷隔壁巷子",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "新市區",
     "service_name": "道路維修",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "瓦斯管溝修補、孔蓋鬆動",
     "description": "新市區忠孝街82號門口前 人孔蓋",
     "address_string": "新市區忠孝街82號門口前",

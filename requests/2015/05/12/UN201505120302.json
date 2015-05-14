@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北門區",
     "service_name": "動物救援",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "遊蕩犬隻捕捉管制",
     "description": "北門區中樞里溪底寮文昌國小附近 捕犬",
     "address_string": "北門區中樞里溪底寮文昌國小附近",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安平區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨礙安寧",
     "description": "安平區林默娘公園附近(藤南堂) 妨礙安寧\/空汙\/廟會",
     "address_string": "林默娘公園附近(藤南堂)",

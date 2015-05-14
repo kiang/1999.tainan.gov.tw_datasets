@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "南區",
     "service_name": "路燈故障",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "9盞以下路燈故障",
     "description": "南區黃金海岸清水公園 路燈",
     "address_string": "南區黃金海岸清水公園",

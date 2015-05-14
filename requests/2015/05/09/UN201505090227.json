@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "新化區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "其他汙染舉發",
     "description": "新化區知義里口碑國小附近 噪音",
     "address_string": "新化區知義里口碑國小附近",

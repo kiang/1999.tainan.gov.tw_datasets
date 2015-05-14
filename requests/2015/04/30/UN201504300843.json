@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安平區",
     "service_name": "髒亂及污染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "其他汙染舉發",
     "description": "安平區州平三街與世平五街的威鎮堂 廟會髒亂",
     "address_string": "安平區州平三街與世平五街的威鎮堂",

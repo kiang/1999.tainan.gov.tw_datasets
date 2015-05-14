@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安平區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "場所連續噪音",
     "description": "安平區育平二街83號附近 噪音",
     "address_string": "安平區育平二街83號附近",

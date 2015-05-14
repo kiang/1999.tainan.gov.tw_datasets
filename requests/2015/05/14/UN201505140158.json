@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安南區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "環境髒亂",
     "description": "安南區安通路四段51號斜對面 環境髒亂",
     "address_string": "安南區安通路四段51號斜對面",

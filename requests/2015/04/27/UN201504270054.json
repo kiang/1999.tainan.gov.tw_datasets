@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "學甲區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "學甲區濟生路到中正路 學甲菜市場 違停",
     "address_string": "學甲區濟生路到中正路 學甲菜市場",

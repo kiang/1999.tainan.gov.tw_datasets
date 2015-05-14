@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "交通疏導",
     "description": "永康交流道下來往中正南路方向 交通疏導",
     "address_string": "永康交流道下來往中正南路方向",

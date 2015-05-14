@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安南區",
     "service_name": "路燈故障",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "9盞以下路燈故障",
     "description": "安南區海佃路四段388巷134弄33-129號 路燈",
     "address_string": "海佃路四段388巷134弄33-129號",

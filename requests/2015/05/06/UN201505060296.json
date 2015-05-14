@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "白河區",
     "service_name": "動物救援",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "遊蕩犬隻捕捉管制",
     "description": "白河區虎山里在172線上要往關子嶺方向要左轉白河水庫前的紅路燈號誌四周　捕犬",
     "address_string": "白河區虎山里在172線上要往關子嶺方向要左轉白河水庫前的紅路燈號誌四周",

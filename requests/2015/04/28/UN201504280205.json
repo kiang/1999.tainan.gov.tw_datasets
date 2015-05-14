@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "中西區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "空氣汙染",
     "description": "中西區府前路二段237號的對面加油站旁   空氣汙染",
     "address_string": "中西區府前路二段237號的對面加油站旁",

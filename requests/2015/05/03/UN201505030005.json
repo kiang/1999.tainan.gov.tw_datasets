@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安定區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "場所連續噪音",
     "description": "安定區蘇厝里507號附近  廟會噪音\/妨礙安寧",
     "address_string": "安定區蘇厝里507號附近",

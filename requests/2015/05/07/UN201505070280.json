@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "南區三和街與三官路交叉處往金華街方向  違停",
     "address_string": "南區三和街*三官路往金華街方向",

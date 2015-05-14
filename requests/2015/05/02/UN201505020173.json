@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安南區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨害安寧",
     "description": "安南區本原街三段的本淵寮大廟 廟會妨礙安寧",
     "address_string": "安南區本原街三段的本淵寮大廟",

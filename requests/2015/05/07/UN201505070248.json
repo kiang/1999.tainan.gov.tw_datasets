@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "佳里區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "道路散落物",
     "description": "佳里區喜來登汽車旅館的對向車道的路中間 道路散落物",
     "address_string": "佳里區喜來登汽車旅館的對向車道的路中間",

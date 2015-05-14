@@ -7,7 +7,9 @@
     "keyword": "0",
     "area": "安南區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "安南區康寧大學正門口(大門出來右前方) 違停",
     "address_string": "康寧大學正門口",

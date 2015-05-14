@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安南區",
     "service_name": "道路維修",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "路面坑洞",
     "description": "安南區安和路五段59號 安和路五段81巷94號 坑洞",
     "address_string": "安和路五段59號 安和路五段81巷94號",

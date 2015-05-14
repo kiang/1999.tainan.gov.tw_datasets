@@ -7,7 +7,9 @@
     "keyword": "0",
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "安平區安平路406巷 民權路四段391巷 違停",
     "address_string": "安平區安平路406巷",

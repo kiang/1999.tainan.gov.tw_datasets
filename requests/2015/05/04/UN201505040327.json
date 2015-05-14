@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "麻豆區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "麻豆區民權路10號(7-11附近) 違停",
     "address_string": "麻豆區民權路10號(7-11附近)",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "七股區",
     "service_name": "動物救援",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "犬貓急難救援",
     "description": "七股區大潭里頂潭活動中心附近 犬貓救援",
     "address_string": "七股區大潭里頂潭活動中心附近",

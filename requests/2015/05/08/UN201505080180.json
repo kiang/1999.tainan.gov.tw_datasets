@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "麻豆區",
     "service_name": "道路維修",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "路面坑洞",
     "description": "麻豆區民族路及和平路12之11號 坑洞",
     "address_string": "麻豆區民族路(李記泡沫紅茶前)及和平路12之11號",

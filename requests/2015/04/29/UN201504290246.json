@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "永康區",
     "service_name": "道路維修",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "路面坑洞",
     "description": "永康區文賢街70號 坑洞",
     "address_string": "永康區文賢街70號",

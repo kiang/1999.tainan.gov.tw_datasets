@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "七股區",
     "service_name": "道路維修",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "路面坑洞",
     "description": "七股區西濱公路篤加國小前一左轉過去佳里區文化路方向的位置 坑洞",
     "address_string": "七股區西濱公路篤加國小前一左轉過去佳里區文化路方向的位置",

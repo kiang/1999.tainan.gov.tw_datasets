@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "新化區",
     "service_name": "路燈故障",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "9盞以下路燈故障",
     "description": "新化區東榮里護安街5號 路燈",
     "address_string": "東榮里護安街5號",

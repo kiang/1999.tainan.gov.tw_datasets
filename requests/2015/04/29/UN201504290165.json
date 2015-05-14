@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "髒亂及污染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "環境髒亂",
     "description": "北區公園路746巷32號 環境髒亂",
     "address_string": "北區公園路746巷32號",

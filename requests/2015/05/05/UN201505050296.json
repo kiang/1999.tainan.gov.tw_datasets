@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "鹽水區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "環境髒亂",
     "description": "鹽水區田寮里28號   環境髒亂",
     "address_string": "鹽水區田寮里28號",

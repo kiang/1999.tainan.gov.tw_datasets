@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "學甲區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "場所連續噪音",
     "description": "學甲區民生路上 廟會噪音\/妨礙安寧",
     "address_string": "學甲區民生路上",

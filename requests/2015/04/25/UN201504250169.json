@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "環境髒亂",
     "description": "北區育德二路196巷口的正對面路邊及往南的榕樹下 環境髒亂",
     "address_string": "北區育德二路196巷口的正對面路邊及往南的榕樹下",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "東區北門一段地球村補習班對面 違規迴轉",
     "address_string": "東區北門一段地球村補習班對面",

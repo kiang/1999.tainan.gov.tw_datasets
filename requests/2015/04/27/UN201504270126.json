@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "仁德區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "佔用道路",
     "description": "仁德區開發一路與永德路口 佔用道路",
     "address_string": "仁德區開發一路與永德路口",

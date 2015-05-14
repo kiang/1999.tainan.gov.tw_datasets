@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "環境髒亂",
     "description": "永康區三村一街83巷25號轉角處 汙染舉發",
     "address_string": "永康區三村一街83巷25號轉角處",

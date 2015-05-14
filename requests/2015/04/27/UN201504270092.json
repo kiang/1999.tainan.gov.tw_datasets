@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安南區",
     "service_name": "道路維修",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "瓦斯管溝修補、孔蓋鬆動",
     "description": "安南區海佃路二段166號前 孔蓋聲響",
     "address_string": "安南區海佃路二段166號前",

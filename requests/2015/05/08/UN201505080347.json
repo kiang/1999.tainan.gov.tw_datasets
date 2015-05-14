@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "北區育德一街和育德路199巷交叉處 育德一街與和緯路 轉角人行道 違停",
     "address_string": "北區育德一街和育德路199巷交叉處 育德一街與和緯路 轉角人行道",

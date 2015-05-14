@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "東區",
     "service_name": "動物救援",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "犬貓急難救援",
     "description": "東區崇明五街的停車場附近 犬貓救援",
     "address_string": "東區崇明五街的停車場附近",

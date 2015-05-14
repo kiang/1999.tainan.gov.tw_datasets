@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安南區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "號誌故障",
     "description": "安南區大聖路與安和路路口 號誌故障",
     "address_string": "大聖路與安和路路口",

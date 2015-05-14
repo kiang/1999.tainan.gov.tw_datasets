@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "新市區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨礙安寧",
     "description": "新市區公所對面 妨礙安寧",
     "address_string": "新市區公所對面",

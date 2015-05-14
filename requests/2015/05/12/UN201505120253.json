@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "南區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "佔用道路",
     "description": "南區金華路一段484巷99弄(巷弄內) 佔用道路",
     "address_string": "南區金華路一段484巷99弄(巷弄內)",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安平區",
     "service_name": "道路維修",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "路面下陷、凹陷",
     "description": "安平區中華西路二段與永華路二段路口(往北100公尺處) 中華西路上 路面塌陷",
     "address_string": "安平區中華西路二段與永華路二段路口(往北100公尺處) 中華西路上",

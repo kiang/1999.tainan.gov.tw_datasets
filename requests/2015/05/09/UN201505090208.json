@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安平區",
     "service_name": "道路維修",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "路面下陷、凹陷",
     "description": "安平區健康路與建平路口 凹陷",
     "address_string": "安平區健康路\/建平路口",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "鹽水區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨礙安寧",
     "description": "鹽水區月津國小附近 廟會噪音",
     "address_string": "鹽水區月津國小附近",

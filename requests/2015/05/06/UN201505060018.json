@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "南區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "號誌故障",
     "description": "南區南門路和國民路口 南區南門路和大成路口 號誌故障",
     "address_string": "南區南門路和國民路口 南區南門路和大成路口",

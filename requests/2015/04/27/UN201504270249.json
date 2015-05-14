@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "中西區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "佔用道路",
     "description": "中西區府緯街4巷2號 佔用道路",
     "address_string": "中西區府緯街4巷2號",

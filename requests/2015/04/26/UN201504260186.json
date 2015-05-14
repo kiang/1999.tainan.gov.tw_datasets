@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "佳里區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "場所連續噪音",
     "description": "佳里區長安街78-1號 噪音",
     "address_string": "佳里區長安街78-1號",

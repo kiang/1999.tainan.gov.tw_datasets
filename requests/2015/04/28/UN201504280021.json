@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "麻豆區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "麻豆區中山路與三民路口(麥當勞附近) 違停",
     "address_string": "麻豆區中山路與三民路口(麥當勞附近)",

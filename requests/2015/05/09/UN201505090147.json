@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "佳里區",
     "service_name": "民生管線",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
     "description": "佳里區中山路158號前面 電線垂落",
     "address_string": "佳里區中山路158號前面",

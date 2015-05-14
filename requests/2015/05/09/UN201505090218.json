@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安平區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "交通疏導",
     "description": "安平區中華西路和民生路路口 交通疏導",
     "address_string": "安平區中華西路和民生路路口",

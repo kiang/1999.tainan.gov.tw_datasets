@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "鹽水區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "空氣汙染",
     "description": "鹽水區下林里蜈蜞坑36號 空氣汙染",
     "address_string": "鹽水區下林里蜈蜞坑36號",

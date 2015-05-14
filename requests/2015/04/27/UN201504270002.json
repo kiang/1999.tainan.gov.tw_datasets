@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨礙安寧",
     "description": "東區南紡夢時代(面向東寧路上公園) 妨礙安寧",
     "address_string": "東區南紡夢時代(面向東寧路上公園)",

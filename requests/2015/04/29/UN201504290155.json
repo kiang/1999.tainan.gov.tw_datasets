@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "佔用道路",
     "description": "北區北門路二段14號機車 佔用道路",
     "address_string": "北區北門路二段14號",

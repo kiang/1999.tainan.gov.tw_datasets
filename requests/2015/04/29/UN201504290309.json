@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "後壁區",
     "service_name": "路燈故障",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "9盞以下路燈故障",
     "description": "後壁區平安里 路燈",
     "address_string": "後壁區平安里",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "北區文成路595號旁的轉角 違停",
     "address_string": "北區文成路595號旁的轉角",

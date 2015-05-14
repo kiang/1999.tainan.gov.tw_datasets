@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "號誌秒差調整",
     "description": "北區成功路往東邊圓環方向 號誌秒差",
     "address_string": "北區成功路往東邊圓環方向",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安南區",
     "service_name": "道路維修",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "路樹傾倒",
     "description": "安南區安和路二段98號 路樹",
     "address_string": "安南區安和路二段98號",

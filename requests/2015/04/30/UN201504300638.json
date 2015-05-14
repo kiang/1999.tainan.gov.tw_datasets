@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安平區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "佔用道路",
     "description": "古堡街近效忠街口 攤販",
     "address_string": "安平區古堡街近效忠街口",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "東山區",
     "service_name": "路燈故障",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "東山區三榮里下寮仔福安宮後面鐵路旁  路燈故障不亮電線掉落",
     "address_string": "東山區三榮里下寮仔福安宮後面鐵路旁",

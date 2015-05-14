@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安定區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "空氣汙染",
     "description": "安定國中後方 空氣汙染",
     "address_string": "安定國中後方",

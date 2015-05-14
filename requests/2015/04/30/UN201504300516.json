@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "仁德區",
     "service_name": "髒亂及污染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "空氣汙染",
     "description": "仁德區仁德交流道北上匝道口 空汙",
     "address_string": "仁德交流道北上匝道口(側邊處)",

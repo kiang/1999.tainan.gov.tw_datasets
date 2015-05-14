@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "路燈故障",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "9盞以下路燈故障",
     "description": "北區育德路17巷2號 路燈故障",
     "address_string": "北區育德路17巷2號",

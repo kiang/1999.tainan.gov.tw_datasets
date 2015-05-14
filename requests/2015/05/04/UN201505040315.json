@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "左鎮區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "號誌故障",
     "description": "左鎮區台20線台20乙線交叉口　號誌故障",
     "address_string": "左鎮區台20線台20乙線交叉口",

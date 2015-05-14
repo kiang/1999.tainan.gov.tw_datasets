@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安定區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "場所連續噪音",
     "description": "安定區許中營的廟 廟會噪音\/妨礙安寧",
     "address_string": "安定區許中營的廟",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "道路維修",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
     "description": "北區文賢路295號與297號中間 孔蓋鬆動",
     "address_string": "北區文賢路295號與297號中間",

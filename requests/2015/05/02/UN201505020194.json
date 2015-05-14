@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "善化區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨害安寧",
     "description": "善化區中山路上 廟會噪音",
     "address_string": "善化區中山路上",

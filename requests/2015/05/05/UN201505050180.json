@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "空氣汙染",
     "description": "永康區四維街與八德街 空汙",
     "address_string": "永康區四維街與八德街",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "佳里區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "佳里區義民街 文化路 中山路 新興路 延平路 仁愛路 違停",
     "address_string": "佳里區義民街 文化路 中山路 新興路 延平路 仁愛路",

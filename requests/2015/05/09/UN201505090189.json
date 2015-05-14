@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "路燈故障",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "10盞以上路燈故障",
     "description": "北區育德路1號開始整條 路燈",
     "address_string": "A-TB-2015-21681",

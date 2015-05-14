@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "龍崎區",
     "service_name": "路燈故障",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "9盞以下路燈故障",
     "description": "龍崎區崎頂段 編號2122 路燈",
     "address_string": "龍崎區崎頂段 編號2122",

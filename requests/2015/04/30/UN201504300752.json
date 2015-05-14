@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "學甲區",
     "service_name": "髒亂及污染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "空氣汙染",
     "description": "學甲區三慶里頂洲11號 空氣汙染",
     "address_string": "學甲區三慶里頂洲11號",

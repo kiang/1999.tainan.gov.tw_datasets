@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "白河區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "白河區新起街上白河分局圍牆旁白河戶政的轉角處 違停",
     "address_string": "白河區新起街上白河分局圍牆旁白河戶政的轉角處",

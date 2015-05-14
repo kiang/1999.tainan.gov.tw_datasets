@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "永康區",
     "service_name": "動物救援",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "犬貓急難救援",
     "description": "永康區中華路523號(古城豆花)對面50嵐旁的巷子 犬貓救援",
     "address_string": "永康區中華路523號(古城豆花)對面50嵐旁的巷子",

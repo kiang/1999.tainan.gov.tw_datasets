@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "東區大學路(長榮路到勝利路)  東區林森路(衛國街到東門路) 違停",
     "address_string": "東區大學路(長榮路到勝利路)  東區林森路(衛國街到東門路)",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "永康區",
     "service_name": "道路維修",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
     "description": "永康區忠義街28號 電信孔蓋聲響",
     "address_string": "永康區忠義街28號",

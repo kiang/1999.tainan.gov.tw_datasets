@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "北區大興街233巷到和緯路口 還有大興街與文賢路口(主要大興街) 違停",
     "address_string": "北區大興街233巷到和緯路口 還有大興街與文賢路口(主要大興街)",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "將軍區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "空氣汙染",
     "description": "將軍區福安宮週邊 空氣汙染",
     "address_string": "將軍區福安宮週邊",

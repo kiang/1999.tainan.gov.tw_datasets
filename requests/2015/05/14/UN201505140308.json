@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "永康區",
     "service_name": "路燈故障",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "10盞以上路燈故障",
     "description": "永康區中正南路383號(現代汽車)至628號(7-11) 路燈",
     "address_string": "中正南路383號(現代汽車)至628號(7-11)",

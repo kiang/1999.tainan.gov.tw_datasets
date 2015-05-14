@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "柳營區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨礙安寧",
     "description": "柳營區中山東路二段429號 妨礙安寧",
     "address_string": "柳營區中山東路二段429號",

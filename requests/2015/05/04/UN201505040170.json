@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "市區道路路面油漬",
     "description": "永康區正南一街107巷22號 路面油漬",
     "address_string": "永康區正南一街107巷22號",

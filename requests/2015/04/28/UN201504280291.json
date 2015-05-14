@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "安平區建平七街(健康三街到永華九街) 違停",
     "address_string": "安平區建平七街(健康三街到永華九街)",

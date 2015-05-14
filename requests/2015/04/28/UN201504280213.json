@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "六甲區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "空氣汙染",
     "description": "六甲區和平街185之7號附近 空氣汙染",
     "address_string": "六甲區和平街185之7號附近",

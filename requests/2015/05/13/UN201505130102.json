@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "南區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "號誌秒差調整",
     "description": "南區永成路二段與中華南路交叉處   號誌秒差",
     "address_string": "南區永成路二段與中華南路交叉處",

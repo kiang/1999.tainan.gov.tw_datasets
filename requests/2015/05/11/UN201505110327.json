@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "仁德區",
     "service_name": "路燈故障",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "10盞以上路燈故障",
     "description": "仁德區中正西路691號 路燈",
     "address_string": "仁德區中正西路691號對面",

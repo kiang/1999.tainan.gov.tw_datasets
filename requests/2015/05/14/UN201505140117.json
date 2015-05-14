@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安平區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "公車動態LED跑馬燈資訊顯示異常",
     "description": "承天橋候車亭 跑馬燈故障",
     "address_string": "承天橋候車亭",

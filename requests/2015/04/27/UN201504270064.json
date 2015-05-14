@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安南區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "號誌秒差調整",
     "description": "安南區長和路一段與河堤路口多時向號誌往南科方向 號誌秒數過短",
     "address_string": "安南區長和路一段與河堤路口多時向號誌往南科方向",

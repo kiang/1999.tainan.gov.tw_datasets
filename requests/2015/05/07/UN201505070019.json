@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安南區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "其他汙染舉發",
     "description": "安南區長溪路三段373巷51弄14號 環境汙染",
     "address_string": "安南區長溪路三段373巷51弄14號",

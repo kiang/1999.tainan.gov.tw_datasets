@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "成大醫院勝利路與東豐路交叉口 違停",
     "address_string": "成大醫院勝利路與東豐路交叉口",

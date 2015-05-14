@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "安平區郡平路274巷20弄內(違停)\/20弄7號對面(佔用道路)",
     "address_string": "安平區郡平路274巷20弄內及20弄7號對面",

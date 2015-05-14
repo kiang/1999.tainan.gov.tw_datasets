@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安平區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "號誌故障",
     "description": "安平區健康路三段與健康二街 號誌故障",
     "address_string": "安平區健康路三段與健康二街",

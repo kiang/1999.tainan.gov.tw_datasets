@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "仁德區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨礙安寧",
     "description": "仁德區和愛街6號2樓(B棟) 妨礙安寧",
     "address_string": "和愛街6號2樓(B棟)",

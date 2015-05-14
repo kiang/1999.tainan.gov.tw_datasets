@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨害安寧",
     "description": "中西區中華西路與民生路交叉口停車場(舊交通隊處) 妨礙安寧",
     "address_string": "中西區中華西路與民生路交叉口停車場(舊交通隊處)",

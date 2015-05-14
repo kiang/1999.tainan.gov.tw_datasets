@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "南區",
     "service_name": "動物救援",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "遊蕩犬隻捕捉管制",
     "description": "南區國民路567巷5弄2號旁的公園 捕犬\/汙染舉發",
     "address_string": "南區國民路567巷5弄2號旁的公園",

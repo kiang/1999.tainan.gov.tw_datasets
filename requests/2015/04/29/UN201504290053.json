@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "民生管線",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "寬頻管線、孔蓋損壞",
     "description": "北區文賢三街142號前 孔蓋聲響",
     "address_string": "北區文賢三街142號前",

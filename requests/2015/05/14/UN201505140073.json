@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "東區",
     "service_name": "路燈故障",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "9盞以下路燈故障",
     "description": "東區大同路一段175巷134弄13號 路燈",
     "address_string": "{此為派工案件請立即處理}",

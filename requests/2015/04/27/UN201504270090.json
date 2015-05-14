@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "民生路二段200號前 違停",
     "address_string": "民生路二段200號前",

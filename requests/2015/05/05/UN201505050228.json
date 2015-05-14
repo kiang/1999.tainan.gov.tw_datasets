@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "其他汙染舉發",
     "description": "永康區忠孝路6巷37弄底的水溝內 \/其他汙染舉發",
     "address_string": "永康區忠孝路6巷37弄底的水溝內",

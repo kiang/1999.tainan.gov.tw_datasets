@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "東區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "其他汙染舉發",
     "description": "東區東門路三段37巷12弄30號的巷口處 汙染舉發",
     "address_string": "東區東門路三段37巷12弄30號的巷口處",

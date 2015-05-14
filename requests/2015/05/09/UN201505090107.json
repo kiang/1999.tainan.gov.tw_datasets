@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "南區",
     "service_name": "路燈故障",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "9盞以下路燈故障",
     "description": "南區金華路一段200巷巷口 金華路一段200巷6號旁  路燈",
     "address_string": "金華路一段200巷巷口 金華路一段200巷6號旁",

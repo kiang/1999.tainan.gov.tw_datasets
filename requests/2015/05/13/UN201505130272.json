@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "交通疏導",
     "description": "北區西門路四段(靠近北安路及文成一路附近) 交通疏導",
     "address_string": "北區西門路四段(靠近北安路及文成一路附近)",

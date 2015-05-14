@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "號誌故障",
     "description": "台南火車站前站 號誌故障",
     "address_string": "台南火車站前站",

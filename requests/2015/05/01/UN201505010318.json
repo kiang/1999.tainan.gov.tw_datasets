@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安南區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "交通疏導",
     "description": "安南區聖母廟附近的國姓橋 交通疏導",
     "address_string": "聖母廟附近的國姓橋",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安南區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "交通疏導",
     "description": "安定區台19線靠近國道八號交流道處(往北方向)從海寮開始 交通疏導",
     "address_string": "安定區台19線靠近國道八號交流道處(往北方向)從海寮開始",

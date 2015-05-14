@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "號誌秒差調整",
     "description": "北區和緯路三段*文賢一路 號誌不連鎖",
     "address_string": "北區和緯路三段*文賢一路",

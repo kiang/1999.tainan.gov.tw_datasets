@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安定區",
     "service_name": "動物救援",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "犬貓急難救援",
     "description": "安定區蘇厝里(靠近安定國小橋梁旁) 犬貓救援",
     "address_string": "安定區蘇厝里(靠近安定國小橋梁旁)",

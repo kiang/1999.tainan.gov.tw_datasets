@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "新市區",
     "service_name": "路燈故障",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "9盞以下路燈故障",
     "description": "新市區南140區道2公里到2.5公里處 路燈故障",
     "address_string": "新市區南140區道2公里到2.5公里處",

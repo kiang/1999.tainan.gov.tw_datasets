@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "南區",
     "service_name": "道路維修",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "路面下陷、凹陷",
     "description": "南區鹽埕路與新都路十字路口 路面下陷",
     "address_string": "鹽埕路與新都路十字路口",

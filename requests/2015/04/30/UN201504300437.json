@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "官田區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "佔用道路",
     "description": "隆田區中山路一段隆田市場邊 擺攤",
     "address_string": "隆田區中山路一段",

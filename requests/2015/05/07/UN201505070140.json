@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安平區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "環境髒亂",
     "description": "安平區同平路156巷8號對面工地  環境髒亂",
     "address_string": "安平區同平路156巷8號對面工地",

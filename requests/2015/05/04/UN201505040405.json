@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "新化區",
     "service_name": "民生管線",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "寬頻管線、孔蓋損壞",
     "description": "新化區台20線上那拔里潭頂路口 人孔蓋",
     "address_string": "新化區台20線上那拔里潭頂路口",

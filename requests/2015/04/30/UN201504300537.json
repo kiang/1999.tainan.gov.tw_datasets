@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "交通疏導",
     "description": "永康區正南三街與東橋一路的自行車道 交通疏導",
     "address_string": "永康區正南三街與東橋一路的自行車道",

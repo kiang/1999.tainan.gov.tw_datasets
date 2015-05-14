@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "善化區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "空氣汙染",
     "description": "善化交流道南側(國道3號)",
     "address_string": "善化交流道南側(國道3號)",

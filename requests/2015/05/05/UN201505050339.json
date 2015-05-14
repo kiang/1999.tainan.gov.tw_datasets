@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "佔用道路",
     "description": "北區文成二路155號旁 佔用道路\/妨礙安寧",
     "address_string": "北區文成二路155號旁",

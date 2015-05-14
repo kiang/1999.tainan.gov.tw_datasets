@@ -7,7 +7,9 @@
     "keyword": "0",
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "體育公園田徑場東出口 違規停車",
     "address_string": "體育公園田徑場東出口",

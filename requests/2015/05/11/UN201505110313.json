@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安南區",
     "service_name": "路燈故障",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "10盞以上路燈故障",
     "description": "國道8號下接安南區安吉路三段 路燈",
     "address_string": "國道8號下接安南區安吉路三段",

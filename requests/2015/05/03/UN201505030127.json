@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "場所連續噪音",
     "description": "北區西門路四段的小北夜市廣場 噪音\/妨礙安寧",
     "address_string": "北區西門路四段的小北夜市廣場",

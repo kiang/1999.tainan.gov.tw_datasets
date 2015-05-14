@@ -7,7 +7,9 @@
     "service_name": {
 
     },
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "佔用道路",
     "description": "永康區小東路647巷全線 占用道路",
     "address_string": "永康區小東路647巷全線",

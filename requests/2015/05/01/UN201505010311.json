@@ -7,7 +7,9 @@
     "keyword": "0",
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "號誌故障",
     "description": "永康區永安路和仁愛街交叉口 號誌故障",
     "address_string": "永康區永安路和仁愛街交叉口",

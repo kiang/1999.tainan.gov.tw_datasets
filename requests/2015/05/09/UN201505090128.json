@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "南區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨礙安寧",
     "description": "南區德興路130巷對面元帥廟 廟會妨礙安寧",
     "address_string": "德興路130巷對面元帥廟",

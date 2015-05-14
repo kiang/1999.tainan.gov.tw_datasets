@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "南區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "環境髒亂",
     "description": "南區聖南街21號隔壁 環境髒亂",
     "address_string": "南區聖南街21號隔壁",

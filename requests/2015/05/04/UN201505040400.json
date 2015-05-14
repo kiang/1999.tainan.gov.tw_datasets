@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "左鎮區",
     "service_name": "路燈故障",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "9盞以下路燈故障",
     "description": "左鎮區榮和里玉南公路 台20線24.2K和24.3k附近 路燈故障",
     "address_string": "左鎮區榮和里玉南公路 台20線24.2K和24.3k附近",

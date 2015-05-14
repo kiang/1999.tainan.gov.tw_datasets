@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "動物救援",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "犬貓急難救援",
     "description": "北區中華西路往七股方向大港觀海橋下 捕犬",
     "address_string": "北區中華西路往七股方向大港觀海橋下",

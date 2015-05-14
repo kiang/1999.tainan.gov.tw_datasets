@@ -7,7 +7,9 @@
     "keyword": "0",
     "area": "南區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "其他汙染舉發",
     "description": "喜樹路206巷103號對面 髒亂及汙染",
     "address_string": "喜樹路206巷103號對面",

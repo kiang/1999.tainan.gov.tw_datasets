@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安南區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "妨礙安寧",
     "description": "安南區安中路六段土城聖母廟 廟會噪音",
     "address_string": "安南區安中路六段土城聖母廟",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "南區大林路111巷9弄21號前 違停",
     "address_string": "南區大林路111巷9弄21號前",

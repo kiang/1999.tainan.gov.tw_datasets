@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安平區",
     "service_name": "動物救援",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "犬貓急難救援",
     "description": "安平區世平路150號 鮮活工坊對面  犬貓救援",
     "address_string": "安平區世平路150號 鮮活工坊對面",

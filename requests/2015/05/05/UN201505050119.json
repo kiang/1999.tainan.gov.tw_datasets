@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "違規停車",
     "description": "永康區小東路591巷 忠勇街中華立體停車場和活動中心周圍  違停",
     "address_string": "永康區小東路591巷 忠勇街中華立體停車場和活動中心周圍",

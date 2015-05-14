@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "瓦斯管溝修補、孔蓋鬆動",
     "description": "北區中華北路過和緯路約500公尺處  人孔蓋",
     "address_string": "北區中華北路過和緯路約500公尺處",

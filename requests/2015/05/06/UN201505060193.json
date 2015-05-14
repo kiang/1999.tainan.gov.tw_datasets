@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "安平區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "號誌故障",
     "description": "安平區建平十一街與建平路路口 號誌故障",
     "address_string": "建平十一街與建平路路口",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "北區",
     "service_name": "髒亂及汙染",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "空氣汙染",
     "description": "北區長榮路五段452巷20號 空氣汙染",
     "address_string": "北區長榮路五段452巷20號",

@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "新營區",
     "service_name": "噪音舉發",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "場所連續噪音",
     "description": "新營區三民路46-42號 噪音",
     "address_string": "新營區三民路46-42號",

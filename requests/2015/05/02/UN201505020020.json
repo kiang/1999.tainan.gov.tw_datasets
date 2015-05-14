@@ -5,7 +5,9 @@
     "keyword": "0",
     "area": "玉井區",
     "service_name": "交通運輸",
-    "agency": "0",
+    "agency": {
+
+    },
     "subproject": "佔用道路",
     "description": "玉井區中正路和太子街路口 玉井菜市場  占用道路",
     "address_string": "玉井區中正路和太子街路口 玉井菜市場",
