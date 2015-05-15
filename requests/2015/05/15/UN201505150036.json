@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505150036",
+    "requested_datetime": "2015-05-15 08:30:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府水利局",
+    "subproject": "瓦斯管溝修補、孔蓋鬆動",
+    "description": "安平區健康路三段與健康二街交叉處  孔蓋噪音",
+    "address_string": "安平區健康路三段與健康二街交叉處",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-22 08:30:00.0"
+}
