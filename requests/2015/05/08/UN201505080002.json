@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505080002",
+    "requested_datetime": "2015-05-08 08:11:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "妨害安寧",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "妨害安寧",
+    "address_string": "717台灣台南市仁德區文賢路一段1511號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-08 13:36:00.0",
+    "expected_datetime": "2015-05-08 08:11:00.0"
+}
