@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505150107",
+    "requested_datetime": "2015-05-15 10:51:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "民生管線",
+    "agency": {
+
+    },
+    "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
+    "description": "安南區安和路一段91巷83號門口處 孔蓋鬆動",
+    "address_string": "安南區安和路一段91巷83號門口處",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-22 10:51:00.0"
+}
