@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505150094",
+    "requested_datetime": "2015-05-15 10:33:00.0",
+    "status": {
+
+    },
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "台南應用科技大學門口旁邊的禁停標誌旁邊   違規停車",
+    "address_string": "中正路(台南應用科技大學門口禁停標誌周圍)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-15 10:33:00.0"
+}
