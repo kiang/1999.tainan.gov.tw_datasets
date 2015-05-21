@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505180210",
+    "requested_datetime": "2015-05-18 14:57:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "官田區",
+    "service_name": "髒亂及汙染",
+    "agency": {
+
+    },
+    "subproject": "空氣汙染",
+    "description": "官田區中山路二段129號附近 空氣汙染",
+    "address_string": "官田區中山路二段129號附近",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-19 18:27:57",
+    "expected_datetime": "2015-05-25 14:57:00"
+}

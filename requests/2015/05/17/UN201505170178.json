@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505170178",
+    "requested_datetime": "2015-05-17 20:25:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局",
+    "subproject": "9盞以下路燈故障",
+    "description": "南區智南街4號及6號中間 路燈",
+    "address_string": "南區智南街4號及6號中間",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-18 15:19:00",
+    "expected_datetime": "2015-05-24 20:25:00"
+}

@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505180054",
+    "requested_datetime": "2015-05-18 09:03:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "騎樓舉發",
+    "agency": {
+
+    },
+    "subproject": "騎樓舉發",
+    "description": "北區西門路四段271號 佔用騎樓",
+    "address_string": "北區西門路四段271號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-18 10:23:15",
+    "expected_datetime": "2015-05-18 09:03:00"
+}

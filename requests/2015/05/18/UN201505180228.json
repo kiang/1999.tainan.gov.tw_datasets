@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505180228",
+    "requested_datetime": "2015-05-18 14:13:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "道路維修",
+    "agency": {
+
+    },
+    "subproject": "路面坑洞",
+    "description": "中西區西門路上往南要轉永華路交叉口坑洞",
+    "address_string": "中西區西門路上往南要轉永華路交叉口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-21 15:03:48",
+    "expected_datetime": "2015-05-25 14:13:00"
+}

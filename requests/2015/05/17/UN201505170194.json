@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505170194",
+    "requested_datetime": "2015-05-17 21:58:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "麻豆區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府民政局",
+    "subproject": "場所連續噪音",
+    "description": "麻豆區南勢里興中路靠近五王廟  廟會鞭炮噪音",
+    "address_string": "麻豆區南勢里興中路靠近五王廟",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-20 08:39:35",
+    "expected_datetime": "2015-05-24 21:58:00"
+}

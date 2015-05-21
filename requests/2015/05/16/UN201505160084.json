@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505160084",
+    "requested_datetime": "2015-05-16 13:00:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": {
+
+    },
+    "subproject": "違規停車",
+    "description": "安平區慶平路209號前方 違停",
+    "address_string": "安平區慶平路209號前方",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-16 18:28:37",
+    "expected_datetime": "2015-05-23 13:00:00"
+}

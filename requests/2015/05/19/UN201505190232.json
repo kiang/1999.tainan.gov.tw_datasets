@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505190232",
+    "requested_datetime": "2015-05-19 17:04:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "南區",
+    "service_name": "髒亂及汙染",
+    "agency": {
+
+    },
+    "subproject": "空氣汙染",
+    "description": "南區新興路和尊南街口 空氣汙染",
+    "address_string": "南區新興路和尊南街口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-21 09:15:19",
+    "expected_datetime": "2015-05-26 17:04:00"
+}

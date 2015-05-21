@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505170047",
+    "requested_datetime": "2015-05-17 10:02:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": {
+
+    },
+    "subproject": "違規停車",
+    "description": "中西區民族路三段整條延伸到西門路二段整條及海安路二段(水仙宮市場旁) 違停",
+    "address_string": "中西區民族路三段整條延伸到西門路二段整條及海安路二段(水仙宮市場旁)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-20 17:19:38",
+    "expected_datetime": "2015-05-24 10:02:00"
+}

@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505190247",
+    "requested_datetime": "2015-05-19 17:59:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安南區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "安南區台江大道三段 空氣汙染",
+    "address_string": "安南區台江大道三段",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-21 14:33:33",
+    "expected_datetime": "2015-05-26 17:59:00"
+}

@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201505180152",
+    "requested_datetime": "2015-05-18 11:51:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "安南區",
+    "service_name": "民生管線",
+    "agency": {
+
+    },
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "安南區安和路與台江大道口 漏水",
+    "address_string": "安和路與台江大道口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-05-25 11:51:00"
+}

@@ -1,10 +1,12 @@
 {
     "service_request_id": "UN201505150225",
-    "requested_datetime": "2015-05-15 15:02:00.0",
+    "requested_datetime": "2015-05-15 15:02:00",
     "status": {
 
     },
-    "keyword": "0",
+    "keyword": {
+
+    },
     "area": "新市區",
     "service_name": "違規停車",
     "agency": "警政",
@@ -16,6 +18,8 @@
     "service_notice": {
 
     },
-    "updated_datetime": "null",
-    "expected_datetime": "2015-05-22 15:02:00.0"
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-05-22 15:02:00"
 }

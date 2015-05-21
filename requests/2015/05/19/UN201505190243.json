@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505190243",
+    "requested_datetime": "2015-05-19 17:58:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": {
+
+    },
+    "subproject": "佔用道路",
+    "description": "中西區大智街和武英街口 佔用道路",
+    "address_string": "中西區大智街和武英街口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-19 21:45:37",
+    "expected_datetime": "2015-05-26 17:58:00"
+}

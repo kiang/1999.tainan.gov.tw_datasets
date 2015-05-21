@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505170055",
+    "requested_datetime": "2015-05-17 10:39:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "道路維修",
+    "agency": {
+
+    },
+    "subproject": "路面掏空、塌陷",
+    "description": "安平區民權路四段313號旁邊 掏空",
+    "address_string": "安平區民權路四段313號旁邊",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-20 13:23:24",
+    "expected_datetime": "2015-05-24 10:39:00"
+}

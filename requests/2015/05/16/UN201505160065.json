@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505160065",
+    "requested_datetime": "2015-05-16 11:22:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": {
+
+    },
+    "subproject": "佔用道路",
+    "description": "中西區神農街44號 佔用道路",
+    "address_string": "中西區神農街44號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-16 16:14:13",
+    "expected_datetime": "2015-05-23 11:22:00"
+}

@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505160114",
+    "requested_datetime": "2015-05-16 16:06:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "新營區",
+    "service_name": "髒亂及汙染",
+    "agency": {
+
+    },
+    "subproject": "空氣汙染",
+    "description": "新營區王公里義和街5-6號 空氣汙染",
+    "address_string": "新營區王公里義和街5-6號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-18 15:43:39",
+    "expected_datetime": "2015-05-23 16:06:00"
+}

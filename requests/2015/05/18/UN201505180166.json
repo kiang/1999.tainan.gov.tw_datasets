@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505180166",
+    "requested_datetime": "2015-05-18 12:46:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安南區",
+    "service_name": "民生管線",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
+    "description": "安南區公學路與濱海公路口(國姓橋邊) 電信桿傾倒",
+    "address_string": "安南區公學路與濱海公路口(國姓橋邊)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-20 17:23:08",
+    "expected_datetime": "2015-05-25 12:46:00"
+}

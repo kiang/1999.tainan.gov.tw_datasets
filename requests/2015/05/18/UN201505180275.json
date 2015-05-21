@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505180275",
+    "requested_datetime": "2015-05-18 17:11:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": {
+
+    },
+    "subproject": "違規停車",
+    "description": "南區金華路二段(接近健康路的台新銀行) 違停",
+    "address_string": "南區金華路二段(接近健康路的台新銀行)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-18 18:18:05",
+    "expected_datetime": "2015-05-25 17:11:00"
+}

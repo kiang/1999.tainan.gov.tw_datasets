@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505190181",
+    "requested_datetime": "2015-05-19 15:18:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌故障",
+    "description": "中西區和平街和海安路口   號誌故障",
+    "address_string": "700台灣台南市中西區和平街和海安路口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-19 17:42:00",
+    "expected_datetime": "2015-05-19 15:18:00"
+}

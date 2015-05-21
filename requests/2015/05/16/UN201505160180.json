@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505160180",
+    "requested_datetime": "2015-05-16 20:07:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "髒亂及汙染",
+    "agency": {
+
+    },
+    "subproject": "空氣汙染",
+    "description": "安平區健康一街巷57巷58號私人神壇　空氣汙染",
+    "address_string": "安平區健康一街57巷58號私人神壇",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-19 10:14:36",
+    "expected_datetime": "2015-05-23 20:07:00"
+}

@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505170180",
+    "requested_datetime": "2015-05-17 19:54:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "10盞以上路燈故障",
+    "description": "安平區世平五街與安北路  路燈不亮",
+    "address_string": "安平區世平五街與安北路",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-18 15:05:45",
+    "expected_datetime": "2015-05-24 19:54:00"
+}

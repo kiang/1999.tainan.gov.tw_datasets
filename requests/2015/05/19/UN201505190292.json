@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505190292",
+    "requested_datetime": "2015-05-19 20:44:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": {
+
+    },
+    "subproject": "9盞以下路燈故障",
+    "description": "永康區中山北路335號前355號旁邊和對面 316號左和右和對面各一支 路燈",
+    "address_string": "永康區中山北路335號前355號旁邊和對面 316號左和右和對面各一支",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-20 08:44:19",
+    "expected_datetime": "2015-05-26 20:44:00"
+}

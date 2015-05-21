@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505180238",
+    "requested_datetime": "2015-05-18 15:32:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "官田區",
+    "service_name": "交通運輸",
+    "agency": {
+
+    },
+    "subproject": "佔用道路",
+    "description": "官田區中山路一段菜市場旁 佔用道路",
+    "address_string": "官田區中山路一段菜市場旁",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-18 16:51:11",
+    "expected_datetime": "2015-05-25 15:32:00"
+}

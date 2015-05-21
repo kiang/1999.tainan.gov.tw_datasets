@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505170023",
+    "requested_datetime": "2015-05-17 08:22:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": {
+
+    },
+    "subproject": "佔用道路",
+    "description": "中西區南華街26號和34號 佔用道路",
+    "address_string": "中西區南華街26號和34號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-21 05:36:12",
+    "expected_datetime": "2015-05-24 08:22:00"
+}

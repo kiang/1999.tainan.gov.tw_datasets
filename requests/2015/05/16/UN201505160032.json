@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505160032",
+    "requested_datetime": "2015-05-16 09:05:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安定區",
+    "service_name": "交通運輸",
+    "agency": {
+
+    },
+    "subproject": "交通疏導",
+    "description": "安定區台19線上(海寮派出所附近) 交通疏導",
+    "address_string": "安定區台19線上(海寮派出所附近)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-16 16:00:36",
+    "expected_datetime": "2015-05-23 09:05:00"
+}

@@ -1,12 +1,14 @@
 {
     "service_request_id": "UN201505150072",
-    "requested_datetime": "2015-05-15 09:44:00.0",
+    "requested_datetime": "2015-05-15 09:44:00",
     "status": "已完工",
-    "keyword": "0",
+    "keyword": {
+
+    },
     "area": "北區",
     "service_name": "噪音舉發",
     "agency": "臺南市政府工務局,臺南市政府工務局",
-    "subproject": "妨害安寧",
+    "subproject": "妨礙安寧",
     "description": "北區長榮路五段300號 妨礙安寧",
     "address_string": "北區長榮路五段300號",
     "lat": "0",
@@ -14,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-15 13:38:51.0",
-    "expected_datetime": "2015-05-22 09:44:00.0"
+    "updated_datetime": "2015-05-15 13:38:00",
+    "expected_datetime": "2015-05-22 09:44:00"
 }

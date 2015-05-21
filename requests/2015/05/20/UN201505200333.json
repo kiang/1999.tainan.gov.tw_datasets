@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505200333",
+    "requested_datetime": "2015-05-20 08:00:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": {
+
+    },
+    "subproject": "違規停車",
+    "description": "北區育德路199巷與育德一街 北區育德路199巷與育德二路  違停",
+    "address_string": "北區育德路199巷與育德一街 北區育德路199巷與育德二路",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-20 16:08:00",
+    "expected_datetime": "2015-05-27 08:00:00"
+}

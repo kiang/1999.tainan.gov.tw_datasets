@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505170035",
+    "requested_datetime": "2015-05-17 09:18:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "中西區永華路與西門路 佔用道路",
+    "address_string": "中西區永華路與西門路",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-21 05:04:04",
+    "expected_datetime": "2015-05-24 09:18:00"
+}

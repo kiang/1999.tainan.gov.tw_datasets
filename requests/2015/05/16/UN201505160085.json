@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505160085",
+    "requested_datetime": "2015-05-16 13:03:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": {
+
+    },
+    "subproject": "佔用道路",
+    "description": "南區金華路一段475巷(日新國小周圍旁)及利南街6號前 佔用道路",
+    "address_string": "南區金華路一段475巷(日新國小周圍旁)及利南街6號前",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-16 18:30:00",
+    "expected_datetime": "2015-05-23 13:03:00"
+}

@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505180185",
+    "requested_datetime": "2015-05-18 13:46:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": {
+
+    },
+    "subproject": "違規停車",
+    "description": "永康區中華路21號附近 違停",
+    "address_string": "永康區中華路21號附近",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-18 15:15:00",
+    "expected_datetime": "2015-05-25 13:46:00"
+}

@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505190210",
+    "requested_datetime": "2015-05-19 15:59:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "東區崇德路上從崇學路一直到崇義黃昏市場附近 占用道路",
+    "address_string": "東區崇德路上從崇學路一直到崇義黃昏市場附近",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-19 18:50:06",
+    "expected_datetime": "2015-05-26 15:59:00"
+}

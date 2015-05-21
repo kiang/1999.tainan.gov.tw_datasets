@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505160092",
+    "requested_datetime": "2015-05-16 13:45:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": {
+
+    },
+    "subproject": "違規停車",
+    "description": "安南區海佃路一段191號附近 違停",
+    "address_string": "安南區海佃路一段191號附近",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-16 18:38:06",
+    "expected_datetime": "2015-05-23 13:45:00"
+}

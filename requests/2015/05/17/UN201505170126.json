@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505170126",
+    "requested_datetime": "2015-05-17 16:07:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "玉井區",
+    "service_name": "髒亂及汙染",
+    "agency": {
+
+    },
+    "subproject": "其他汙染舉發",
+    "description": "玉井區曾文溪支流(台84線橋下方) 汙染舉發",
+    "address_string": "玉井區曾文溪支流(台84線橋下方)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-19 15:41:00",
+    "expected_datetime": "2015-05-24 16:07:00"
+}

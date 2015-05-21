@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505180287",
+    "requested_datetime": "2015-05-18 17:56:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "官田區",
+    "service_name": "髒亂及汙染",
+    "agency": {
+
+    },
+    "subproject": "空氣汙染",
+    "description": "官田區中山路二段400巷內 空氣汙染",
+    "address_string": "官田區中山路二段400巷內",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-19 18:40:54",
+    "expected_datetime": "2015-05-25 17:56:00"
+}

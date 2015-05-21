@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505190017",
+    "requested_datetime": "2015-05-19 07:29:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": {
+
+    },
+    "subproject": "違規停車",
+    "description": "東區鐵軌旁邊(榮譽街口到中華東路三段490號巷口) 違停",
+    "address_string": "東區鐵軌旁邊(榮譽街口到中華東路三段490號巷口)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-19 12:03:40",
+    "expected_datetime": "2015-05-26 07:29:00"
+}

@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505190004",
+    "requested_datetime": "2015-05-19 00:58:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "麻豆區",
+    "service_name": "路燈故障",
+    "agency": {
+
+    },
+    "subproject": "10盞以上路燈故障",
+    "description": "麻豆區麻學路一段往小埤里方向的橋 路燈",
+    "address_string": "麻豆區麻學路一段往小埤里方向的橋",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-20 09:58:25",
+    "expected_datetime": "2015-05-26 00:58:00"
+}

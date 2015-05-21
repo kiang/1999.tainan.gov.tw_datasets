@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505180202",
+    "requested_datetime": "2015-05-18 14:31:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "麻豆區",
+    "service_name": "交通運輸",
+    "agency": {
+
+    },
+    "subproject": "號誌故障",
+    "description": "麻豆區176市道東西向快速道路橋下 號誌故障",
+    "address_string": "麻豆區176市道東西向快速道路橋下",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-18 17:06:13",
+    "expected_datetime": "2015-05-25 14:31:00"
+}

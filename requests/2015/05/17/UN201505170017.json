@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505170017",
+    "requested_datetime": "2015-05-17 07:06:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "歸仁區",
+    "service_name": "噪音舉發",
+    "agency": {
+
+    },
+    "subproject": "妨礙安寧",
+    "description": "歸仁區和平南街20號左右 妨礙安寧",
+    "address_string": "歸仁區和平南街20號左右",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-20 22:11:36",
+    "expected_datetime": "2015-05-24 07:06:00"
+}

@@ -1,8 +1,10 @@
 {
     "service_request_id": "UN201505140226",
-    "requested_datetime": "2015-05-14 15:07:00.0",
+    "requested_datetime": "2015-05-14 15:07:00",
     "status": "未處理",
-    "keyword": "0",
+    "keyword": {
+
+    },
     "area": "麻豆區",
     "service_name": "噪音舉發",
     "agency": {
@@ -16,6 +18,8 @@
     "service_notice": {
 
     },
-    "updated_datetime": "null",
-    "expected_datetime": "2015-05-21 15:07:00.0"
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-05-21 15:07:00"
 }

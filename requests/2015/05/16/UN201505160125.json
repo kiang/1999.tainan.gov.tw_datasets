@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505160125",
+    "requested_datetime": "2015-05-16 17:07:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "新營區三民路上從聖保羅麵包店前一直到圓石飲料店前 違停",
+    "address_string": "新營區三民路上從聖保羅麵包店前一直到圓石飲料店前",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-16 19:03:46",
+    "expected_datetime": "2015-05-23 17:07:00"
+}

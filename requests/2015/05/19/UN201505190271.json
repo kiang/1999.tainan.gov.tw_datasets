@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505190271",
+    "requested_datetime": "2015-05-19 19:38:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": {
+
+    },
+    "subproject": "妨害安寧",
+    "description": "南區金華路二段198號 妨害安寧",
+    "address_string": "南區金華路二段198號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-19 21:40:53",
+    "expected_datetime": "2015-05-26 19:38:00"
+}

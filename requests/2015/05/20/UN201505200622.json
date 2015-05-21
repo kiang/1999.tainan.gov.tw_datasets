@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505200622",
+    "requested_datetime": "2015-05-20 21:01:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": {
+
+    },
+    "subproject": "9盞以下路燈故障",
+    "description": "永康區龍國街和自強路口 路燈",
+    "address_string": "永康區龍國街和自強路口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-21 09:56:52",
+    "expected_datetime": "2015-05-27 21:01:00"
+}

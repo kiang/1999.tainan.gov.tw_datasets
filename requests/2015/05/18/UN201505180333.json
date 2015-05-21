@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505180333",
+    "requested_datetime": "2015-05-18 20:51:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": {
+
+    },
+    "subproject": "佔用道路",
+    "description": "中西區中成路52號前 佔用道路",
+    "address_string": "中西區中成路52號前",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-19 03:32:31",
+    "expected_datetime": "2015-05-25 20:51:00"
+}

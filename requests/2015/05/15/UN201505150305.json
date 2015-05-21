@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505150305",
+    "requested_datetime": "2015-05-15 19:16:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": {
+
+    },
+    "subproject": "違規停車",
+    "description": "永康區中華路144號 違停",
+    "address_string": "永康區中華路144號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-15 21:55:01",
+    "expected_datetime": "2015-05-22 19:16:00"
+}

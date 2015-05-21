@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505160070",
+    "requested_datetime": "2015-05-16 11:45:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": {
+
+    },
+    "subproject": "違規停車",
+    "description": "中西區民族路三段85號水仙宮市場附近 違停",
+    "address_string": "中西區民族路三段85號水仙宮市場附近",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-16 16:12:45",
+    "expected_datetime": "2015-05-23 11:45:00"
+}

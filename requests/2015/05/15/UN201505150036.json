@@ -1,8 +1,10 @@
 {
     "service_request_id": "UN201505150036",
-    "requested_datetime": "2015-05-15 08:30:00.0",
-    "status": "未處理",
-    "keyword": "0",
+    "requested_datetime": "2015-05-15 08:30:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
     "area": "安平區",
     "service_name": "交通運輸",
     "agency": "臺南市政府水利局",
@@ -14,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "null",
-    "expected_datetime": "2015-05-22 08:30:00.0"
+    "updated_datetime": "2015-05-18 08:19:29",
+    "expected_datetime": "2015-05-22 08:30:00"
 }

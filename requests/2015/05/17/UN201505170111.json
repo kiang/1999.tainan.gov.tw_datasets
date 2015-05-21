@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505170111",
+    "requested_datetime": "2015-05-17 14:24:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": {
+
+    },
+    "subproject": "違規停車",
+    "description": "東區大學路18巷整條 違停",
+    "address_string": "東區大學路18巷整條",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-20 16:52:47",
+    "expected_datetime": "2015-05-24 14:24:00"
+}

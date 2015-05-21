@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505180338",
+    "requested_datetime": "2015-05-18 21:05:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區自強路872巷內 違停",
+    "address_string": "永康區自強路872巷內",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-19 03:29:57",
+    "expected_datetime": "2015-05-25 21:05:00"
+}

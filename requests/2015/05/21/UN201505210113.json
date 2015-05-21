@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505210113",
+    "requested_datetime": "2015-05-21 12:20:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "永康區經華路6號 空氣汙染",
+    "address_string": "永康區經華路6號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-21 18:31:04",
+    "expected_datetime": "2015-05-28 12:20:00"
+}

@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505170112",
+    "requested_datetime": "2015-05-17 14:28:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": {
+
+    },
+    "subproject": "違規停車",
+    "description": "東區大學路西段(成功大學圍牆邊) 違停",
+    "address_string": "東區大學路西段(成功大學圍牆邊)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-20 16:42:57",
+    "expected_datetime": "2015-05-24 14:28:00"
+}

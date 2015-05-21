@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505160059",
+    "requested_datetime": "2015-05-16 10:50:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "新市區",
+    "service_name": "噪音舉發",
+    "agency": {
+
+    },
+    "subproject": "場所連續噪音",
+    "description": "新市區綠園二街和信義街交叉口 噪音",
+    "address_string": "新市區綠園二街和信義街交叉口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-18 14:45:14",
+    "expected_datetime": "2015-05-23 10:50:00"
+}

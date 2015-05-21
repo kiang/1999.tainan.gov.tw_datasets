@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505200320",
+    "requested_datetime": "2015-05-20 03:32:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "佳里區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "佳里區四維三街100號對面 空氣汙染",
+    "address_string": "佳里區四維三街100號對面",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-20 16:37:41",
+    "expected_datetime": "2015-05-27 03:32:00"
+}

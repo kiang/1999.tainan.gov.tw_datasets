@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505190060",
+    "requested_datetime": "2015-05-19 09:23:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "七股區",
+    "service_name": "髒亂及汙染",
+    "agency": {
+
+    },
+    "subproject": "其他汙染舉發",
+    "description": "七股區區道南26線往埕子內方向 汙染舉發",
+    "address_string": "七股區區道南26線往埕子內方向",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-19 16:10:00",
+    "expected_datetime": "2015-05-26 09:23:00"
+}

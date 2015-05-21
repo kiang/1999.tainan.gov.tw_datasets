@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201505210147",
+    "requested_datetime": "2015-05-21 13:44:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "髒亂及汙染",
+    "agency": {
+
+    },
+    "subproject": "空氣汙染",
+    "description": "東區中華東路二段77號旁停車場 空氣汙染",
+    "address_string": "東區中華東路二段77號旁停車場",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-05-28 13:44:00"
+}

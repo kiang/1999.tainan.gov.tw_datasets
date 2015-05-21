@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505160069",
+    "requested_datetime": "2015-05-16 11:37:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": {
+
+    },
+    "subproject": "其他汙染舉發",
+    "description": "永康區復國一路173巷46弄19號 汙染舉發",
+    "address_string": "永康區復國一路173巷46弄19號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-18 13:58:57",
+    "expected_datetime": "2015-05-23 11:37:00"
+}

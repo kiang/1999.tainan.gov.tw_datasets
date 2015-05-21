@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505200315",
+    "requested_datetime": "2015-05-20 00:31:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "鹽水區",
+    "service_name": "噪音舉發",
+    "agency": {
+
+    },
+    "subproject": "妨害安寧",
+    "description": "鹽水區文武街和康樂路口 妨礙安寧",
+    "address_string": "鹽水區文武街和康樂路口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-20 02:36:10",
+    "expected_datetime": "2015-05-27 00:31:00"
+}

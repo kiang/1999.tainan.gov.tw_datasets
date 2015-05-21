@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505160103",
+    "requested_datetime": "2015-05-16 14:55:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": {
+
+    },
+    "subproject": "場所連續噪音",
+    "description": "永康區復華六街93巷16號 噪音",
+    "address_string": "永康區復華六街93巷16號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-18 13:48:49",
+    "expected_datetime": "2015-05-23 14:55:00"
+}

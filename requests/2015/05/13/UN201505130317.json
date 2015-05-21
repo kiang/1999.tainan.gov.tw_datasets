@@ -1,10 +1,12 @@
 {
     "service_request_id": "UN201505130317",
-    "requested_datetime": "2015-05-13 21:04:00.0",
+    "requested_datetime": "2015-05-13 21:04:00",
     "status": {
 
     },
-    "keyword": "0",
+    "keyword": {
+
+    },
     "area": "安南區",
     "service_name": "路燈故障",
     "agency": {
@@ -18,6 +20,8 @@
     "service_notice": {
 
     },
-    "updated_datetime": "null",
-    "expected_datetime": "2015-05-20 21:04:00.0"
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-05-20 21:04:00"
 }

@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505200326",
+    "requested_datetime": "2015-05-20 07:05:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "騎樓舉發",
+    "agency": {
+
+    },
+    "subproject": "騎樓舉發",
+    "description": "永康區中正路529號635號(佔用騎樓)  \/ 永康區中正路926巷17之1號-17之5號(佔用道路)",
+    "address_string": "永康區中正路529號635號  永康區中正路926巷17之1號-17之5號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-21 08:25:01",
+    "expected_datetime": "2015-05-27 07:05:00"
+}

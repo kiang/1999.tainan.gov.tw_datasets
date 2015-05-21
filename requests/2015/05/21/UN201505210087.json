@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505210087",
+    "requested_datetime": "2015-05-21 10:56:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌故障",
+    "description": "南區新興路與慶南街口 號誌故障",
+    "address_string": "南區新興路與慶南街口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-21 15:18:31",
+    "expected_datetime": "2015-05-28 10:56:00"
+}

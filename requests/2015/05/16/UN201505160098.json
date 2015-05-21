@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505160098",
+    "requested_datetime": "2015-05-16 14:20:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "新營區",
+    "service_name": "道路維修",
+    "agency": {
+
+    },
+    "subproject": "路樹傾倒",
+    "description": "新營區東山路和東山五路交叉口 路樹",
+    "address_string": "新營區東山路和東山五路交叉口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-19 14:13:26",
+    "expected_datetime": "2015-05-23 14:20:00"
+}

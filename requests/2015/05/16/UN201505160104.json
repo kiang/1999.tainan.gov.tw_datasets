@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505160104",
+    "requested_datetime": "2015-05-16 14:56:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "噪音舉發",
+    "agency": {
+
+    },
+    "subproject": "妨礙安寧",
+    "description": "安平區國平路與府平路的壘球場 妨礙安寧",
+    "address_string": "安平區國平路與府平路的壘球場",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-16 18:41:00",
+    "expected_datetime": "2015-05-23 14:56:00"
+}

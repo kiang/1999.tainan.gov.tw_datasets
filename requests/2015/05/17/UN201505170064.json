@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505170064",
+    "requested_datetime": "2015-05-17 11:07:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府民政局",
+    "subproject": "妨礙安寧",
+    "description": "北區和緯路五段26巷內 廟會妨礙安寧",
+    "address_string": "北區和緯路五段26巷內",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-21 17:21:18",
+    "expected_datetime": "2015-05-24 11:07:00"
+}

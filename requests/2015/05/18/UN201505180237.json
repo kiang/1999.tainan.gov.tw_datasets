@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505180237",
+    "requested_datetime": "2015-05-18 15:30:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "歸仁區",
+    "service_name": "道路維修",
+    "agency": {
+
+    },
+    "subproject": "路面坑洞",
+    "description": "歸仁區民生南街一段58號 坑洞",
+    "address_string": "歸仁區民生南街一段58號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-19 09:35:09",
+    "expected_datetime": "2015-05-25 15:30:00"
+}

@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505170169",
+    "requested_datetime": "2015-05-17 19:32:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局",
+    "subproject": "9盞以下路燈故障",
+    "description": "安平區同平路17x到18x號 路燈",
+    "address_string": "安平區同平路17x到18x號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-19 09:55:08",
+    "expected_datetime": "2015-05-24 19:32:00"
+}

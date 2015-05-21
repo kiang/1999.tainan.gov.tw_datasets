@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505190303",
+    "requested_datetime": "2015-05-19 21:51:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "動物救援",
+    "agency": {
+
+    },
+    "subproject": "遊蕩犬隻捕捉管制",
+    "description": "北區民德路和海安路口全家對面空地上 捕犬",
+    "address_string": "北區民德路和海安路口全家對面空地上",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-21 18:07:01",
+    "expected_datetime": "2015-05-26 21:51:00"
+}

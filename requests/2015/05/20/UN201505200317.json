@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505200317",
+    "requested_datetime": "2015-05-20 01:29:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "佳里區",
+    "service_name": "髒亂及汙染",
+    "agency": {
+
+    },
+    "subproject": "空氣汙染",
+    "description": "佳里區興化里活動中心附近 空氣汙染",
+    "address_string": "佳里區興化里活動中心附近",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-20 16:29:49",
+    "expected_datetime": "2015-05-27 01:29:00"
+}

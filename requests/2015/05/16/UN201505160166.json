@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505160166",
+    "requested_datetime": "2015-05-16 19:44:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安南區安中路一段(靠近派出所和中油附近)  違停",
+    "address_string": "安南區安中路一段(靠近派出所和中油附近)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-16 22:25:05",
+    "expected_datetime": "2015-05-23 19:44:00"
+}

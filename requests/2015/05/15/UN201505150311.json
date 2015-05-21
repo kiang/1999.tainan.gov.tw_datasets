@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505150311",
+    "requested_datetime": "2015-05-15 19:39:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": {
+
+    },
+    "subproject": "佔用道路",
+    "description": "中西區神農街54號 中西區海安路二段243號 中西區海安路二段268號 中西區海安路二段268號旁 佔用道路",
+    "address_string": "中西區神農街54號 中西區海安路二段243號 中西區海安路二段268號 中西區海安路二段268號旁",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-16 03:42:53",
+    "expected_datetime": "2015-05-22 19:39:00"
+}

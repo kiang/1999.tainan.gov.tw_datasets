@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505200590",
+    "requested_datetime": "2015-05-20 19:22:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "西港區",
+    "service_name": "交通運輸",
+    "agency": {
+
+    },
+    "subproject": "交通疏導",
+    "description": "西港區慶安路188號 交通疏導",
+    "address_string": "723台灣台南市西港區慶安路188號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-21 05:27:00",
+    "expected_datetime": "2015-05-20 19:22:00"
+}

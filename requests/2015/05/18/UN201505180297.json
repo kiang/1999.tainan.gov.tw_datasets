@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505180297",
+    "requested_datetime": "2015-05-18 18:47:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": {
+
+    },
+    "subproject": "交通疏導",
+    "description": "安南區長和路一段212號前 交通疏導",
+    "address_string": "安南區長和路一段212號前",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-19 09:56:34",
+    "expected_datetime": "2015-05-18 18:47:00"
+}

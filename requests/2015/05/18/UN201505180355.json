@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505180355",
+    "requested_datetime": "2015-05-18 22:16:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": {
+
+    },
+    "subproject": "9盞以下路燈故障",
+    "description": "南區永成路二段399之2號到400巷口 路燈",
+    "address_string": "南區永成路二段399之2號到400巷口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-21 10:22:55",
+    "expected_datetime": "2015-05-25 22:16:00"
+}

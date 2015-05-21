@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505210008",
+    "requested_datetime": "2015-05-21 07:12:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安南區安和五段80到至安昌街 違停",
+    "address_string": "安南區安和五段80到至安昌街",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-21 09:34:25",
+    "expected_datetime": "2015-05-28 07:12:00"
+}

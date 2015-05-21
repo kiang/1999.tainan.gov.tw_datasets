@@ -1,8 +1,10 @@
 {
     "service_request_id": "UN201505130296",
-    "requested_datetime": "2015-05-13 19:22:00.0",
+    "requested_datetime": "2015-05-13 19:22:00",
     "status": "未處理",
-    "keyword": "0",
+    "keyword": {
+
+    },
     "area": "安定區",
     "service_name": "動物救援",
     "agency": {
@@ -16,6 +18,8 @@
     "service_notice": {
 
     },
-    "updated_datetime": "null",
-    "expected_datetime": "2015-05-20 19:22:00.0"
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-05-20 19:22:00"
 }

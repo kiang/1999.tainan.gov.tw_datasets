@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505180017",
+    "requested_datetime": "2015-05-18 07:47:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": {
+
+    },
+    "subproject": "違規停車",
+    "description": "仁德區土庫路139巷口 違停",
+    "address_string": "仁德區土庫路139巷口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-19 10:10:22",
+    "expected_datetime": "2015-05-25 07:47:00"
+}

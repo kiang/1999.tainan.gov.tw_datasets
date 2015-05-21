@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505190027",
+    "requested_datetime": "2015-05-19 08:17:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": {
+
+    },
+    "subproject": "違規停車",
+    "description": "永康區復國一路303巷口 違停",
+    "address_string": "永康區復國一路303巷口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-19 12:08:47",
+    "expected_datetime": "2015-05-26 08:17:00"
+}

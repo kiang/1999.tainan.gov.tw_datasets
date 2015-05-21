@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201505170015",
+    "requested_datetime": "2015-05-17 06:19:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "民生管線",
+    "agency": {
+
+    },
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "永康區華興街靠近591巷口(立體停車場右側入口處) 線路掉落\/交通疏導",
+    "address_string": "永康區華興街靠近591巷口(立體停車場右側入口處)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-05-24 06:19:00"
+}

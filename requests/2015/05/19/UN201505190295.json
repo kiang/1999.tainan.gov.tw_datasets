@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505190295",
+    "requested_datetime": "2015-05-19 21:01:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": {
+
+    },
+    "subproject": "違規停車",
+    "description": "南區金華路二段100巷20號 違停",
+    "address_string": "南區金華路二段100巷20號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-20 02:33:54",
+    "expected_datetime": "2015-05-26 21:01:00"
+}

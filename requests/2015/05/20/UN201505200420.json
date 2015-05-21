@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505200420",
+    "requested_datetime": "2015-05-20 10:34:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "永康區新中街115對面 空氣汙染",
+    "address_string": "永康區新中街115對面",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-21 15:06:16",
+    "expected_datetime": "2015-05-27 10:34:00"
+}

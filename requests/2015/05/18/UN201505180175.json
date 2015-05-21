@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505180175",
+    "requested_datetime": "2015-05-18 13:09:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "騎樓舉發",
+    "agency": {
+
+    },
+    "subproject": "騎樓舉發",
+    "description": "中西區開山路89號  佔用騎樓",
+    "address_string": "中西區開山路89號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-18 16:16:00",
+    "expected_datetime": "2015-05-25 13:09:00"
+}

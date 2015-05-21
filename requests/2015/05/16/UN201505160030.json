@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505160030",
+    "requested_datetime": "2015-05-16 08:41:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "鹽水區",
+    "service_name": "交通運輸",
+    "agency": {
+
+    },
+    "subproject": "公車動態LED跑馬燈資訊顯示異常",
+    "description": "鹽水區大豐國小外 跑馬燈故障",
+    "address_string": "鹽水區大豐國小外",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-19 09:55:03",
+    "expected_datetime": "2015-05-23 08:41:00"
+}

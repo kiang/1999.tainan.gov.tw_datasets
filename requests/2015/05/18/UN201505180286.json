@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505180286",
+    "requested_datetime": "2015-05-18 17:55:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "動物救援",
+    "agency": {
+
+    },
+    "subproject": "遊蕩犬隻捕捉管制",
+    "description": "北區北成路80巷口 捕犬",
+    "address_string": "北區北成路80巷口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-19 10:24:33",
+    "expected_datetime": "2015-05-25 17:55:00"
+}

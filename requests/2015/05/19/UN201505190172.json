@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505190172",
+    "requested_datetime": "2015-05-19 14:07:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "官田區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "官田區隆田火車站全家前方  佔用道路",
+    "address_string": "官田區隆田火車站全家前方",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-19 17:48:00",
+    "expected_datetime": "2015-05-26 14:07:00"
+}

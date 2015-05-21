@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505180034",
+    "requested_datetime": "2015-05-18 08:27:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "東區長榮路至大學路一整段 空氣汙染",
+    "address_string": "東區長榮路至大學路一整段",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-18 15:58:04",
+    "expected_datetime": "2015-05-25 08:27:00"
+}

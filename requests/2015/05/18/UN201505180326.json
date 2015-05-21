@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505180326",
+    "requested_datetime": "2015-05-18 20:29:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "仁德區",
+    "service_name": "路燈故障",
+    "agency": {
+
+    },
+    "subproject": "9盞以下路燈故障",
+    "description": "仁德區開發六路5號前 路燈",
+    "address_string": "仁德區開發六路5號前",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-20 08:51:21",
+    "expected_datetime": "2015-05-25 20:29:00"
+}

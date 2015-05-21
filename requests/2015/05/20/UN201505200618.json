@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505200618",
+    "requested_datetime": "2015-05-20 20:45:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "髒亂及汙染",
+    "agency": {
+
+    },
+    "subproject": "空氣汙染",
+    "description": "東區裕孝路4XX號附近 空氣汙染",
+    "address_string": "東區裕孝路4XX號附近",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-21 10:16:27",
+    "expected_datetime": "2015-05-27 20:45:00"
+}

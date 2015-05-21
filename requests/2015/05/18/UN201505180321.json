@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505180321",
+    "requested_datetime": "2015-05-18 20:15:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區府連東路87號對面人行道 違停",
+    "address_string": "東區府連東路87號對面人行道",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-19 03:31:44",
+    "expected_datetime": "2015-05-25 20:15:00"
+}

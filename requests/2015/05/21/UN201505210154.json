@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505210154",
+    "requested_datetime": "2015-05-21 14:00:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "南區金華路二段198號 妨愛安寧",
+    "address_string": "南區金華路二段198號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-21 15:19:00",
+    "expected_datetime": "2015-05-28 14:00:00"
+}

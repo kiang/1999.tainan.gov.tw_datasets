@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505190019",
+    "requested_datetime": "2015-05-19 07:44:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": {
+
+    },
+    "subproject": "佔用道路",
+    "description": "安南區安和路五段269巷和北安路交叉口 佔用道路",
+    "address_string": "安南區安和路五段269巷和北安路交叉口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-19 12:43:01",
+    "expected_datetime": "2015-05-26 07:44:00"
+}
