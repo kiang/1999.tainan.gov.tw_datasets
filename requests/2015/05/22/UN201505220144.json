@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201505220144",
+    "requested_datetime": "2015-05-22 13:47:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": {
+
+    },
+    "subproject": "違規停車",
+    "description": "中西區中正路 中西區北門路一段(信用文具店對面)  違停",
+    "address_string": "中西區中正路  中西區北門路一段(信用文具店對面)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-05-29 13:47:00"
+}
