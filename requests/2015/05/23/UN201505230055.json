@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201505230055",
+    "requested_datetime": "2015-05-23 10:42:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": {
+
+    },
+    "subproject": "違規停車",
+    "description": "中西區衛民街31號至57號 違停",
+    "address_string": "衛民街31號至57號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-05-30 10:42:00"
+}
