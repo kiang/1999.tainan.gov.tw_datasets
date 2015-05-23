@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201505230156",
+    "requested_datetime": "2015-05-23 19:40:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "佳里區",
+    "service_name": "道路維修",
+    "agency": {
+
+    },
+    "subproject": "路面坑洞",
+    "description": "佳里區南47道路1.5公里處\/佳里區子龍里40之31號旁邊農路上 坑洞",
+    "address_string": "佳里區南47道路1.5公里處\/佳里區子龍里40之31號旁邊農路上",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-05-30 19:40:00"
+}
