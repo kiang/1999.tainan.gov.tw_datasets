@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201505230088",
+    "requested_datetime": "2015-05-23 14:54:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": {
+
+    },
+    "subproject": "路面坑洞",
+    "description": "南區濱南路的喜樹抽水站對面車道 坑洞",
+    "address_string": "濱南路的喜樹抽水站對面車道",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-05-30 14:54:00"
+}
