@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505230007",
+    "requested_datetime": "2015-05-23 07:01:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "西港區",
+    "service_name": "噪音舉發",
+    "agency": {
+
+    },
+    "subproject": "妨害安寧",
+    "description": "西港區(西港派出所後的慶安宮) 妨礙安寧\/廟會",
+    "address_string": "西港區(西港派出所後的慶安宮)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-23 07:37:19",
+    "expected_datetime": "2015-05-30 07:01:00"
+}
