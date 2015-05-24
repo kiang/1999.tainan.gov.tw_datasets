@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505240159",
+    "requested_datetime": "2015-05-24 19:02:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "中西區民族路二段3號 路面坑洞",
+    "address_string": "中西區民族路二段3號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-05-31 19:02:00"
+}
