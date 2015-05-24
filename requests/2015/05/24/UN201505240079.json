@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505240079",
+    "requested_datetime": "2015-05-24 13:24:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": {
+
+    },
+    "subproject": "違規停車",
+    "description": "永康區大灣路上 違停",
+    "address_string": "永康區大灣路上",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-24 16:57:41",
+    "expected_datetime": "2015-05-31 13:24:00"
+}
