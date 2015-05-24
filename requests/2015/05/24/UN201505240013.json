@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505240013",
+    "requested_datetime": "2015-05-24 07:29:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府民政局",
+    "subproject": "妨礙安寧",
+    "description": "東區仁和路附近的上帝廟 妨礙安寧",
+    "address_string": "東區仁和路附近的上帝廟",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-24 07:52:46",
+    "expected_datetime": "2015-05-31 07:29:00"
+}
