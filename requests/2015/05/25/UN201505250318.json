@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505250318",
+    "requested_datetime": "2015-05-25 18:23:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區仁愛街108巷(靠近桂田酒店) 違停",
+    "address_string": "永康區仁愛街108巷(靠近桂田酒店)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-25 18:28:00",
+    "expected_datetime": "2015-06-01 18:23:00"
+}
