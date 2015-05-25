@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505240110",
+    "requested_datetime": "2015-05-24 15:54:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "學甲區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路樹傾倒",
+    "description": "學甲區174市道14.1k處(下營往學甲方向) 路樹",
+    "address_string": "學甲區174市道14.1k處(下營往學甲方向)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-25 13:48:00",
+    "expected_datetime": "2015-05-31 15:54:00"
+}
