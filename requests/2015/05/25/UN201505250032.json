@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505250032",
+    "requested_datetime": "2015-05-25 07:21:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "六甲區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路樹傾倒",
+    "description": "六甲區174區道36.6與37.7公里處 土石流",
+    "address_string": "六甲區174區道36.6與37.7公里處",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-25 08:49:48",
+    "expected_datetime": "2015-06-01 07:21:00"
+}
