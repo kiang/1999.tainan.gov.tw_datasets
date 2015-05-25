@@ -6,9 +6,7 @@
 
     },
     "area": "新營路",
-    "service_name": {
-
-    },
+    "service_name": "噪音舉發",
     "agency": "台南市政府",
     "subproject": "妨礙安寧",
     "description": "新營區新太路 廟會妨礙安寧",
@@ -18,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-24 14:59:45",
+    "updated_datetime": "2015-05-24 14:59:00",
     "expected_datetime": "2015-05-31 10:18:00"
 }
