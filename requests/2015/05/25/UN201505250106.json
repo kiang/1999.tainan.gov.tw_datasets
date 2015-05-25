@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505250106",
+    "requested_datetime": "2015-05-25 10:04:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "永康區大橋三街和中華路交叉口 交通疏導",
+    "address_string": "永康區大橋三街和中華路交叉口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-25 11:58:48",
+    "expected_datetime": "2015-06-01 10:04:00"
+}
