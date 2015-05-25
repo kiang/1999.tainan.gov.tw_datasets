@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505250125",
+    "requested_datetime": "2015-05-25 10:28:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "永康區王行路與中正北路 交通疏導",
+    "address_string": "永康區王行路與中正北路",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-25 10:41:21",
+    "expected_datetime": "2015-06-01 10:28:00"
+}
