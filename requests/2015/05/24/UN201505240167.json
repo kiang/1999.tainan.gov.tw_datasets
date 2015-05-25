@@ -9,13 +9,13 @@
     "service_name": "道路維修",
     "agency": "台南市政府",
     "subproject": "路面坑洞",
-    "description": "柳營區八翁里中山西路三段692巷11號 路面坑洞",
+    "description": "柳營區八翁里中山西路三段692巷11號 坑洞",
     "address_string": "柳營區八翁里中山西路三段692巷11號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-25 16:16:30",
+    "updated_datetime": "2015-05-25 16:16:00",
     "expected_datetime": "2015-05-31 19:24:00"
 }
