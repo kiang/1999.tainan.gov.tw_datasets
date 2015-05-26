@@ -9,13 +9,13 @@
     "service_name": "道路維修",
     "agency": "台南市政府",
     "subproject": "路面坑洞",
-    "description": "永康區中山南路635號前 道路坑洞",
+    "description": "永康區中山南路635號前 坑洞",
     "address_string": "永康區中山南路635號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-25 14:33:30",
+    "updated_datetime": "2015-05-25 14:33:00",
     "expected_datetime": "2015-06-01 12:16:00"
 }

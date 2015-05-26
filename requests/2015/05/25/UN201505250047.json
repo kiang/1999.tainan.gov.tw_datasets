@@ -9,13 +9,13 @@
     "service_name": "道路維修",
     "agency": "台南市政府",
     "subproject": "路面坑洞",
-    "description": "永康區永華路與永華路32巷口 路面坑洞",
+    "description": "永康區永華路與永華路32巷口 坑洞",
     "address_string": "永康區永華路與永華路32巷口",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-26 10:47:54",
+    "updated_datetime": "2015-05-26 10:47:00",
     "expected_datetime": "2015-06-01 08:16:00"
 }
