@@ -8,7 +8,7 @@
     "area": "東區",
     "service_name": "噪音舉發",
     "agency": "台南市政府",
-    "subproject": "妨害安寧",
+    "subproject": "妨礙安寧",
     "description": "東區崇德十六街2-3號(大聯盟美語補習班) 妨害安寧",
     "address_string": "東區崇德十六街2-3號(大聯盟美語補習班)",
     "lat": "0",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-26 20:20:30",
+    "updated_datetime": "2015-05-26 20:20:00",
     "expected_datetime": "2015-06-02 10:00:00"
 }

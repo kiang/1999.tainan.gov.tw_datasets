@@ -8,7 +8,7 @@
     "area": "北區",
     "service_name": "噪音舉發",
     "agency": "台南市政府",
-    "subproject": "妨害安寧",
+    "subproject": "妨礙安寧",
     "description": "北區中華北路一段76號 噪音",
     "address_string": "北區中華北路一段76號",
     "lat": "0",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-26 20:13:13",
+    "updated_datetime": "2015-05-26 20:13:00",
     "expected_datetime": "2015-06-02 16:52:00"
 }
