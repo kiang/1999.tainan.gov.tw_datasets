@@ -9,10 +9,8 @@
     "service_name": "道路維修",
     "agency": "台南市政府",
     "subproject": "寬頻管線、孔蓋損壞",
-    "description": "寬頻",
-    "address_string": {
-
-    },
+    "description": "新市區華美街12號 寬頻孔蓋",
+    "address_string": "新市區華美街12號",
     "lat": "0",
     "long": "0",
     "service_notice": {
