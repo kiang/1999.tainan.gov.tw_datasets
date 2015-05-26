@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505260327",
+    "requested_datetime": "2015-05-26 22:05:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安南區",
+    "service_name": "騎樓舉發",
+    "agency": "台南市政府",
+    "subproject": "騎樓舉發",
+    "description": "北區北安路一段64號 佔用騎樓\/佔用道路",
+    "address_string": "北區北安路一段64號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-26 23:27:12",
+    "expected_datetime": "2015-06-02 22:05:00"
+}
