@@ -8,7 +8,7 @@
     "area": "安南區",
     "service_name": "噪音舉發",
     "agency": "臺南市政府警察局勤務指揮中心",
-    "subproject": "妨害安寧",
+    "subproject": "妨礙安寧",
     "description": "安南區頂安街377巷1號(上華幼稚園)  妨礙安寧",
     "address_string": "安南區頂安街377巷1號(上華幼稚園)",
     "lat": "0",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-26 20:20:03",
+    "updated_datetime": "2015-05-26 20:20:00",
     "expected_datetime": "2015-06-02 09:43:00"
 }

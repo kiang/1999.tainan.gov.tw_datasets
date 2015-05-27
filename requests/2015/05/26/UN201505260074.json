@@ -9,13 +9,13 @@
     "service_name": "道路維修",
     "agency": "台南市政府",
     "subproject": "路面坑洞",
-    "description": "白河區165市道14K處 路面坑洞",
+    "description": "白河區165市道14K處 坑洞",
     "address_string": "白河區165市道14K處",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-27 11:02:30",
+    "updated_datetime": "2015-05-27 11:02:00",
     "expected_datetime": "2015-06-02 09:54:00"
 }
