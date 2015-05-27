@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201505270104",
+    "requested_datetime": "2015-05-27 11:24:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "北區長榮路五段地下道上面的停車場前面的人行道旁邊 坑洞",
+    "address_string": "北區長榮路五段地下道上面的停車場前面的人行道旁邊",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-06-03 11:24:00"
+}
