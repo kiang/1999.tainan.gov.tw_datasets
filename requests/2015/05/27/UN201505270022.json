@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505270022",
+    "requested_datetime": "2015-05-27 08:07:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區大仁街87號與89號巷口 違停",
+    "address_string": "永康區大仁街87號與89號巷口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-27 10:19:39",
+    "expected_datetime": "2015-06-03 08:07:00"
+}
