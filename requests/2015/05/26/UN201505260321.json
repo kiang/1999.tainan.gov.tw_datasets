@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201505260321",
     "requested_datetime": "2015-05-26 21:37:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安南區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "安南區海東八街 路燈",
     "address_string": "安南區海東八街",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-05-28 09:39:27",
     "expected_datetime": "2015-06-02 21:37:00"
 }
