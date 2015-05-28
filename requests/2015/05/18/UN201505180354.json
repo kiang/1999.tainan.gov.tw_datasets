@@ -7,7 +7,7 @@
     },
     "area": "南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府民政局,臺南市政府民政局",
     "subproject": "場所連續噪音",
     "description": "南區喜樹路(近濱海公路上)  廟會噪音\/妨礙安寧",
     "address_string": "南區喜樹路(近濱海公路上)",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-19 10:04:43",
+    "updated_datetime": "2015-05-28 12:04:28",
     "expected_datetime": "2015-05-25 22:01:00"
 }
