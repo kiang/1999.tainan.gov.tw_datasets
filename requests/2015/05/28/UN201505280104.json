@@ -9,13 +9,13 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "安南區海佃路一段114號 寶雅、康是美   違停",
-    "address_string": "安南區海佃路一段114號 寶雅、康是美",
+    "description": "安南區海佃路一段114號 寶雅 康是美   違停",
+    "address_string": "安南區海佃路一段114號 寶雅 康是美",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-28 18:04:12",
+    "updated_datetime": "2015-05-28 18:04:00",
     "expected_datetime": "2015-06-04 11:20:00"
 }

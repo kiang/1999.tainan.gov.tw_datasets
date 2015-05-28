@@ -9,8 +9,8 @@
     "service_name": "交通運輸",
     "agency": "臺南市政府交通局",
     "subproject": "號誌秒差調整",
-    "description": "中西區金華路三段、四段(永華路^民生路)   號誌不連續",
-    "address_string": "中西區金華路三段、四段(永華路^民生路)",
+    "description": "中西區金華路三段及四段(永華路到民生路)   號誌不連續",
+    "address_string": "中西區金華路三段及四段(永華路到民生路)",
     "lat": "0",
     "long": "0",
     "service_notice": {
