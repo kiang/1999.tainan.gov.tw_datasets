@@ -7,7 +7,7 @@
     },
     "area": "中西區",
     "service_name": "髒亂及汙染",
-    "agency": "臺南市政府民政局,臺南市政府民政局,臺南市政府民政局",
+    "agency": "臺南市政府民政局,臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "其他汙染舉發",
     "description": "中西區康樂街的西羅殿 汙染舉發\/妨礙安寧",
     "address_string": "中西區康樂街的西羅殿",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-25 09:49:13",
+    "updated_datetime": "2015-05-29 09:49:35",
     "expected_datetime": "2015-05-31 09:39:00"
 }
