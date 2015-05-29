@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201505290060",
     "requested_datetime": "2015-05-29 09:47:00",
-    "status": "已完工",
+    "status": "未處理",
     "keyword": {
 
     },
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "台南市政府",
     "subproject": "違規停車",
     "description": "北區和緯路一段185號前 違停",
     "address_string": "北區和緯路一段185號前",
@@ -16,6 +16,8 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-29 10:54:11",
+    "updated_datetime": {
+
+    },
     "expected_datetime": "2015-06-05 09:47:00"
 }
