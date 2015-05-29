@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201505280187",
     "requested_datetime": "2015-05-28 16:26:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌秒差調整",
     "description": "709台灣台南市安南區安和路一段166號  號誌秒差",
     "address_string": "709台灣台南市安南區安和路一段166號",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-05-29 13:27:06",
     "expected_datetime": "2015-05-28 16:26:00"
 }
