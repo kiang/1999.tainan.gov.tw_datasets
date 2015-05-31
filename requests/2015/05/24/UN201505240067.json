@@ -8,7 +8,7 @@
     "area": "佳里區",
     "service_name": "噪音舉發",
     "agency": "台南市政府",
-    "subproject": "妨害安寧",
+    "subproject": "妨礙安寧",
     "description": "佳里區延平路和文化路交叉口 廟會妨礙安寧",
     "address_string": "佳里區延平路和文化路交叉口",
     "lat": "0",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-24 14:36:16",
+    "updated_datetime": "2015-05-24 14:36:00",
     "expected_datetime": "2015-05-31 11:58:00"
 }

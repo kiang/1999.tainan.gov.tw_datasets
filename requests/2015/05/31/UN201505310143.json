@@ -8,7 +8,7 @@
     "area": "永康區",
     "service_name": "噪音舉發",
     "agency": "臺南市政府警察局勤務指揮中心",
-    "subproject": "妨害安寧",
+    "subproject": "妨礙安寧",
     "description": "永康區永春街25巷11號 妨礙安寧",
     "address_string": "永康區永春街25巷11號",
     "lat": "0",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-31 22:22:52",
+    "updated_datetime": "2015-05-31 22:22:00",
     "expected_datetime": "2015-06-07 21:13:00"
 }

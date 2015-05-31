@@ -8,7 +8,7 @@
     "area": "新營區",
     "service_name": "噪音舉發",
     "agency": "台南市政府",
-    "subproject": "妨害安寧",
+    "subproject": "妨礙安寧",
     "description": "新營區育德三街30多號空地上  妨礙安寧",
     "address_string": "新營區育德三街30多號空地上",
     "lat": "0",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-24 18:50:08",
+    "updated_datetime": "2015-05-24 18:50:00",
     "expected_datetime": "2015-05-31 16:54:00"
 }
