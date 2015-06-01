@@ -9,13 +9,13 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "仁德區中正路一段525號門口 違規停車",
+    "description": "仁德區中正路一段525號門口 違停",
     "address_string": "717台灣台南市仁德區中正路一段525號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-01 03:32:52",
+    "updated_datetime": "2015-06-01 03:32:00",
     "expected_datetime": "2015-05-31 22:53:00"
 }
