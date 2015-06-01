@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201505290001",
     "requested_datetime": "2015-05-29 01:21:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "永康區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市永康區公所",
     "subproject": "9盞以下路燈故障",
     "description": "永康區新民街66巷2號 永康區八德街230巷22號 永康區八德街230巷58弄27號 路燈",
     "address_string": "永康區新民街66巷2號 永康區八德街230巷22號 永康區八德街230巷58弄27號 路燈",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-01 14:20:31",
     "expected_datetime": "2015-06-05 01:21:00"
 }
