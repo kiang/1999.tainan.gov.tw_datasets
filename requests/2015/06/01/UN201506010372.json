@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201506010372",
+    "requested_datetime": "2015-06-01 21:41:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "新市區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "新市區大營里136之1號(7-11)左邊紅綠燈下的內車道 道路散落物",
+    "address_string": "大營里136之1號(7-11)左邊紅綠燈下的內車道",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-06-08 21:41:00"
+}
