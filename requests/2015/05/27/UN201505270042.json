@@ -7,7 +7,7 @@
     },
     "area": "安南區",
     "service_name": "道路維修",
-    "agency": "臺南市政府工務局",
+    "agency": "臺南市政府水利局",
     "subproject": "路面下陷、凹陷",
     "description": "安南區國安街156巷100號前 路面塌陷",
     "address_string": "安南區國安街156巷100號前",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-27 16:13:23",
+    "updated_datetime": "2015-06-02 08:51:17",
     "expected_datetime": "2015-06-03 08:59:00"
 }
