@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201506020018",
+    "requested_datetime": "2015-06-02 08:11:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "歸仁區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "歸仁區中正南路一段510號旁 噪音\/妨礙安寧",
+    "address_string": "歸仁區中正南路一段510號旁",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-06-02 11:24:22",
+    "expected_datetime": "2015-06-09 08:11:00"
+}
