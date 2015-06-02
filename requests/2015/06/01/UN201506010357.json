@@ -8,9 +8,7 @@
     "area": "善化區",
     "service_name": "違規停車",
     "agency": "台南市政府",
-    "subproject": {
-
-    },
+    "subproject": "違規停車",
     "description": "善化區大成路(整條) 違停",
     "address_string": "大成路(整條)",
     "lat": "0",
