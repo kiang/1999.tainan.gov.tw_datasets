@@ -7,7 +7,7 @@
     },
     "area": "永康區",
     "service_name": "道路維修",
-    "agency": "臺南市政府工務局",
+    "agency": "臺南市永康區公所,臺南市政府水利局",
     "subproject": "路面下陷、凹陷",
     "description": "永康區中山北路和王行路交叉口 路面凹陷\/路燈",
     "address_string": "永康區中山北路和王行路交叉口",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-26 14:16:32",
+    "updated_datetime": "2015-06-02 09:04:55",
     "expected_datetime": "2015-05-31 17:48:00"
 }

@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201506010337",
     "requested_datetime": "2015-06-01 19:06:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "市區道路路面油漬",
     "description": "永康區大灣路和大灣一街口 路面油漬",
     "address_string": "永康區大灣路和大灣一街口",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-02 09:08:39",
     "expected_datetime": "2015-06-08 19:06:00"
 }
