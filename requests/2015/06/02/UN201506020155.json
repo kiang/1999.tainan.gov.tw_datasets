@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201506020155",
+    "requested_datetime": "2015-06-02 14:17:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "北區中華北路一段上 妨礙安寧",
+    "address_string": "北區中華北路一段上",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-06-02 15:53:53",
+    "expected_datetime": "2015-06-09 14:17:00"
+}
