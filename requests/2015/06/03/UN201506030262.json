@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201506030262",
+    "requested_datetime": "2015-06-03 17:59:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區大武街597巷54弄口轉角紅線 違停",
+    "address_string": "北區大武街597巷54弄口轉角紅線",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-06-03 18:55:37",
+    "expected_datetime": "2015-06-10 17:59:00"
+}
