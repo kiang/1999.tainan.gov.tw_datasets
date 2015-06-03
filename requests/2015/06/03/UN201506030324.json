@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201506030324",
+    "requested_datetime": "2015-06-03 21:47:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "永康區中正七街與中正路交叉路口附近(萊爾富便利商店旁) 路燈",
+    "address_string": "永康區中正七街 (萊爾富便利商店旁)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-06-03 21:47:00"
+}

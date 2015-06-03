@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201506030301",
+    "requested_datetime": "2015-06-03 19:54:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區勝利路33號及35號 違停",
+    "address_string": "東區勝利路33號及35號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-06-03 22:28:40",
+    "expected_datetime": "2015-06-10 19:54:00"
+}
