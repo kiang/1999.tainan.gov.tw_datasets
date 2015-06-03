@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201506040001",
+    "requested_datetime": "2015-06-04 00:07:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區成功路396號到396-2號 臨安路二段169巷(違停)\/中西區海安路二段238號(佔用道路)",
+    "address_string": "北區成功路396號到396-2號 臨安路二段169巷(違停)\/中西區海安路二段238號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-06-04 00:32:32",
+    "expected_datetime": "2015-06-11 00:07:00"
+}
