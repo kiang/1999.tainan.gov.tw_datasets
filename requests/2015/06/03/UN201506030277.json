@@ -9,13 +9,13 @@
     "service_name": "交通運輸",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
-    "description": "東區崇德路(崇學路-中華東路)上 佔用道路",
-    "address_string": "東區崇德路(崇學路-中華東路)上",
+    "description": "東區崇德路(崇學路到中華東路)上 佔用道路",
+    "address_string": "東區崇德路(崇學路到中華東路)上",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-03 21:00:20",
+    "updated_datetime": "2015-06-03 21:00:00",
     "expected_datetime": "2015-06-10 18:33:00"
 }
