@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201506020134",
     "requested_datetime": "2015-06-02 13:05:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安南區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "安南區大安街201巷尾 漏水",
     "address_string": "安南區大安街201巷尾",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-04 15:12:32",
     "expected_datetime": "2015-06-09 13:05:00"
 }
