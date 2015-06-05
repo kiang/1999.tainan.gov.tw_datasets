@@ -1,13 +1,13 @@
 {
-    "service_request_id": "UN201506050303",
-    "requested_datetime": "2015-06-05 21:04:00",
-    "status": "已完工",
+    "service_request_id": "UN201506050318",
+    "requested_datetime": "2015-06-05 23:01:00",
+    "status": "未處理",
     "keyword": {
 
     },
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "台南市政府",
     "subproject": "妨礙安寧",
     "description": "北區成功路238巷(區公所旁城隍廟) 妨礙安寧",
     "address_string": "北區成功路238巷(區公所旁城隍廟)",
@@ -16,6 +16,8 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-05 23:47:18",
-    "expected_datetime": "2015-06-12 21:04:00"
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-06-12 23:01:00"
 }
