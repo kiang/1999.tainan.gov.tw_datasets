@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201506050027",
+    "requested_datetime": "2015-06-05 08:30:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區長榮路五段412號 違停",
+    "address_string": "北區長榮路五段412號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-06-12 08:30:00"
+}
