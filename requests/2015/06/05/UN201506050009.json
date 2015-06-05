@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201506050009",
+    "requested_datetime": "2015-06-05 07:22:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "環境髒亂",
+    "description": "永康區東橋七路198號  路面垃圾",
+    "address_string": "永康區東橋七路198號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-06-12 07:22:00"
+}
