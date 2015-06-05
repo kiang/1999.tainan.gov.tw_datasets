@@ -9,13 +9,13 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "北區勝利路357號 違規停車",
+    "description": "北區勝利路357號 違停",
     "address_string": "704台灣台南市北區勝利路357號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-05 11:53:41",
+    "updated_datetime": "2015-06-05 11:53:00",
     "expected_datetime": "2015-06-05 08:14:00"
 }

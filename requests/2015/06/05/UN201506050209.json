@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201506050209",
+    "requested_datetime": "2015-06-05 16:02:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區成功路396-6號 違停",
+    "address_string": "北區成功路396-6號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-06-05 16:54:22",
+    "expected_datetime": "2015-06-12 16:02:00"
+}
