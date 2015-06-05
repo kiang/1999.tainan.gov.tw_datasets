@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201506050324",
     "requested_datetime": "2015-06-05 23:54:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區健康三街187巷巷口轉角 違停",
     "address_string": "健康三街187巷巷口轉角",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-06 01:25:02",
     "expected_datetime": "2015-06-05 23:54:00"
 }
