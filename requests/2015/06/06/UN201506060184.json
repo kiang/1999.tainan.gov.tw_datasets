@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201506060184",
+    "requested_datetime": "2015-06-06 17:25:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區永華路一段與金華路二段交叉口(水萍塭公園旁) 違停",
+    "address_string": "南區永華路一段與金華路二段交叉口(水萍塭公園旁)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-06-06 17:50:44",
+    "expected_datetime": "2015-06-13 17:25:00"
+}
