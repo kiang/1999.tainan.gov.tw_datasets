@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201506050315",
     "requested_datetime": "2015-06-05 22:39:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "永康區東橋五路82號附近區域 空汙",
     "address_string": "永康區東橋五路82號附近區域",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-06 16:34:47",
     "expected_datetime": "2015-06-12 22:39:00"
 }
