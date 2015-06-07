@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201506080002",
+    "requested_datetime": "2015-06-07 23:29:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "永康區鹽行路146巷6弄(巷弄內) 妨礙安寧",
+    "address_string": "鹽行路146巷6弄(巷弄內)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-06-08 00:50:16",
+    "expected_datetime": "2015-06-14 23:29:00"
+}
