@@ -8,7 +8,7 @@
     "area": "中西區",
     "service_name": "噪音舉發",
     "agency": "臺南市政府警察局勤務指揮中心",
-    "subproject": "妨害安寧",
+    "subproject": "妨礙安寧",
     "description": "中西區武聖路 妨礙安寧",
     "address_string": "中西區武聖路",
     "lat": "0",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-07 15:10:47",
+    "updated_datetime": "2015-06-07 15:10:00",
     "expected_datetime": "2015-06-14 09:50:00"
 }

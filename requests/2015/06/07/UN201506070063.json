@@ -8,14 +8,14 @@
     "area": "東區",
     "service_name": "噪音舉發",
     "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
-    "subproject": "違規停車",
-    "description": "東區裕農路(東門路-後甲圓環) 廟會妨礙安寧",
+    "subproject": "妨礙安寧",
+    "description": "東區裕農路(東門路-後甲圓環) 廟會\/妨礙安寧",
     "address_string": "東區裕農路(東門路-後甲圓環) 廟會妨礙安寧",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-07 16:02:03",
+    "updated_datetime": "2015-06-07 16:02:00",
     "expected_datetime": "2015-06-14 11:54:00"
 }
