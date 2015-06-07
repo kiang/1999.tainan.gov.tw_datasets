@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201506070044",
+    "requested_datetime": "2015-06-07 10:42:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": {
+
+    },
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "永康區大灣路40巷78弄22號 妨礙安寧",
+    "address_string": "永康區大灣路40巷78弄22號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-06-07 14:49:20",
+    "expected_datetime": "2015-06-14 10:42:00"
+}
