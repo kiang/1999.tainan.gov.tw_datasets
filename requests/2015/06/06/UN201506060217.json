@@ -9,13 +9,13 @@
     "service_name": "噪音舉發",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
-    "description": "中西區大勇街與武英街口 廟會妨礙安寧",
+    "description": "中西區大勇街與武英街口 廟會\/妨礙安寧",
     "address_string": "中西區大勇街與武英街口",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-07 06:54:57",
+    "updated_datetime": "2015-06-07 06:54:00",
     "expected_datetime": "2015-06-13 19:38:00"
 }
