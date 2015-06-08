@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201506040309",
     "requested_datetime": "2015-06-04 19:11:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安平區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "安平區國平路(安平國中圍牆前) 路燈",
     "address_string": "安平區國平路(安平國中圍牆前)",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-08 10:06:23",
     "expected_datetime": "2015-06-11 19:11:00"
 }
