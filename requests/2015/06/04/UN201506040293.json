@@ -7,7 +7,7 @@
     },
     "area": "安南區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "寬頻管線、孔蓋損壞",
     "description": "安南區安中路和安吉路口 孔蓋",
     "address_string": "安南區安中路和安吉路口",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-05 16:42:49",
+    "updated_datetime": "2015-06-09 08:13:24",
     "expected_datetime": "2015-06-11 18:10:00"
 }
