@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201506100314",
+    "requested_datetime": "2015-06-10 19:43:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "鹽水區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "鹽水區北門路和武廟路口 空氣汙染",
+    "address_string": "鹽水區北門路和武廟路口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-06-17 19:43:00"
+}
