@@ -9,13 +9,13 @@
     "service_name": "路燈故障",
     "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
-    "description": "北區北忠街16巷43號 路燈不亮",
+    "description": "北區北忠街16巷43號 路燈",
     "address_string": "北區北忠街16巷43號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-10 09:21:32",
+    "updated_datetime": "2015-06-10 09:21:00",
     "expected_datetime": "2015-06-16 17:16:00"
 }
