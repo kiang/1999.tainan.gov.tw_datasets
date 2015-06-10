@@ -6,11 +6,9 @@
 
     },
     "area": "麻豆區",
-    "service_name": {
-
-    },
+    "service_name": "噪音舉發",
     "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
-    "subproject": "妨害安寧",
+    "subproject": "妨礙安寧",
     "description": "麻豆區南勢里關帝廟60號 妨礙安寧",
     "address_string": "麻豆區南勢里關帝廟60號",
     "lat": "0",
@@ -18,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-09 17:01:42",
+    "updated_datetime": "2015-06-09 17:01:00",
     "expected_datetime": "2015-06-16 09:31:00"
 }

@@ -6,18 +6,16 @@
 
     },
     "area": "東區",
-    "service_name": {
-
-    },
+    "service_name": "交通運輸",
     "agency": "臺南市政府工務局,臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
-    "description": "東區莊敬里東光路11巷口\/東區東興路284巷口 佔用道路\/路燈故障",
+    "description": "東區莊敬里東光路11巷口\/東區東興路284巷口 佔用道路\/路燈",
     "address_string": "東區莊敬里東光路11巷口\/東區東興路284巷口",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-09 17:58:14",
+    "updated_datetime": "2015-06-09 17:58:00",
     "expected_datetime": "2015-06-16 10:54:00"
 }

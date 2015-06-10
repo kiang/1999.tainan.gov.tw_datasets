@@ -6,9 +6,7 @@
 
     },
     "area": "北區",
-    "service_name": {
-
-    },
+    "service_name": "交通運輸",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "北區東豐路桌球館旁 佔用道路",
@@ -18,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-09 18:02:12",
+    "updated_datetime": "2015-06-09 18:02:00",
     "expected_datetime": "2015-06-16 10:34:00"
 }
