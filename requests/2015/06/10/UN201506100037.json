@@ -8,7 +8,7 @@
     "area": "東區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
-    "subproject": "環境髒亂",
+    "subproject": "違規停車",
     "description": "台南後火車站大學路人行道 違停",
     "address_string": "台南後火車站大學路人行道",
     "lat": "0",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-10 09:29:28",
+    "updated_datetime": "2015-06-10 09:29:00",
     "expected_datetime": "2015-06-10 08:31:00"
 }
