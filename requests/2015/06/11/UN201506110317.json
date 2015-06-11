@@ -5,20 +5,12 @@
     "keyword": {
 
     },
-    "area": {
-
-    },
-    "service_name": {
-
-    },
+    "area": "永康區",
+    "service_name": "民生管線",
     "agency": "台南市政府",
-    "subproject": {
-
-    },
-    "description": "大排",
-    "address_string": {
-
-    },
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "永康區龍中街707巷口對面 漏水",
+    "address_string": "龍中街707巷口對面",
     "lat": "0",
     "long": "0",
     "service_notice": {
