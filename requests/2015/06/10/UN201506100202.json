@@ -9,13 +9,13 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "『此為派工案件請立即處理』 違停",
+    "description": "永康區正南一街與鹽信街口沿線 違停",
     "address_string": "永康區正南一街與鹽信街口沿線",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-10 16:48:21",
+    "updated_datetime": "2015-06-10 16:48:00",
     "expected_datetime": "2015-06-17 14:29:00"
 }

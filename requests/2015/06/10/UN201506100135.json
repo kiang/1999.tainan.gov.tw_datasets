@@ -9,13 +9,13 @@
     "service_name": "交通運輸",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
-    "description": "中西區中成路56號",
+    "description": "中西區中成路56號 佔用道路",
     "address_string": "中西區中成路56號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-10 11:48:48",
+    "updated_datetime": "2015-06-10 11:48:00",
     "expected_datetime": "2015-06-17 11:11:00"
 }

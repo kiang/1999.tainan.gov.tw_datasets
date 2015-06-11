@@ -6,7 +6,7 @@
 
     },
     "area": "仁德區",
-    "service_name": "違規停車",
+    "service_name": "交通運輸",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "仁德區中正路二段388號前 佔用道路",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-10 10:55:30",
+    "updated_datetime": "2015-06-10 10:55:00",
     "expected_datetime": "2015-06-17 08:13:00"
 }
