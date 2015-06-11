@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201506100030",
     "requested_datetime": "2015-06-10 07:48:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "佳里區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
     "description": "佳里區鎮三里94-10號  犬貓救援",
     "address_string": "佳里區鎮三里94-10號",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-11 18:01:36",
     "expected_datetime": "2015-06-17 07:48:00"
 }

@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201506110233",
+    "requested_datetime": "2015-06-11 16:42:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "新市區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "新市區中華路88號 130號後面 100號到136號前面 43號前面遊戲阜的路口 711的路口 中華路168號前公車站牌前及後方馬路 違規停車",
+    "address_string": "新市區中華路88號 130號後面 100號到136號前面 43號前面遊戲阜的路口 711的路口 中華路168號前公車站牌前及後方馬路",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-06-11 16:42:00"
+}
