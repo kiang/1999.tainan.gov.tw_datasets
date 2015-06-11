@@ -7,7 +7,7 @@
     },
     "area": "安南區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府地政局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安南區海佃路一段158巷167號對面 違停",
     "address_string": "安南區海佃路一段158巷167號對面",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-11 08:41:43",
+    "updated_datetime": "2015-06-11 09:38:53",
     "expected_datetime": "2015-06-17 17:07:00"
 }
