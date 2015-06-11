@@ -9,13 +9,13 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "崇德19街109號 違停",
+    "description": "東區崇德19街109號 違停",
     "address_string": "東區崇德19街109號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-11 21:17:07",
+    "updated_datetime": "2015-06-11 21:17:00",
     "expected_datetime": "2015-06-18 18:40:00"
 }
