@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201506110074",
     "requested_datetime": "2015-06-11 09:53:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "新市區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新市區中華路43號前  中華路100～128號前  中華路168號前以及公車站牌前  \/  新市區永就里永就59-3號旁巷口以及7-11超商前    違規停車",
     "address_string": "新市區中華路43號前  中華路100～128號前  中華路168號前以及公車站牌前  \/  新市區永就里永就59-3號旁巷口以及7-11超商前",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-11 14:58:55",
     "expected_datetime": "2015-06-11 09:53:00"
 }

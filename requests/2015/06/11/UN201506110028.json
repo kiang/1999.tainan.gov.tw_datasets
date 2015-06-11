@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201506110028",
     "requested_datetime": "2015-06-11 08:05:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區崇學路20巷和榮譽街轉角紅線 違規停車",
     "address_string": "崇學路20巷和榮譽街轉角紅線",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-11 14:46:32",
     "expected_datetime": "2015-06-11 08:05:00"
 }
