@@ -10,12 +10,12 @@
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區建平九街60巷50號周邊 違停",
-    "address_string": "建平九街60巷50號周邊",
+    "address_string": "安平區建平九街60巷50號周邊",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-11 07:01:44",
+    "updated_datetime": "2015-06-11 07:01:00",
     "expected_datetime": "2015-06-10 19:54:00"
 }
