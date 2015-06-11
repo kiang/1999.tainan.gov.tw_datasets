@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201506100087",
     "requested_datetime": "2015-06-10 09:52:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "麻豆區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市麻豆區公所",
     "subproject": "9盞以下路燈故障",
     "description": "麻豆區新中路191號 路燈",
     "address_string": "麻豆區新中路191號",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-11 13:40:12",
     "expected_datetime": "2015-06-17 09:52:00"
 }
