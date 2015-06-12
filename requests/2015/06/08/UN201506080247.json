@@ -7,7 +7,7 @@
     },
     "area": "永康區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "永康區大灣路503號前(快車道上) 坑洞",
     "address_string": "永康區大灣路503號前(快車道上)",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-09 18:11:34",
+    "updated_datetime": "2015-06-12 07:30:28",
     "expected_datetime": "2015-06-15 15:23:00"
 }
