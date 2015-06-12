@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201506110283",
     "requested_datetime": "2015-06-11 18:55:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "東區林森路與東門路交叉口斑馬線上 道路散落物",
     "address_string": "林森路與東門路交叉口斑馬線上",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-12 09:26:02",
     "expected_datetime": "2015-06-18 18:55:00"
 }

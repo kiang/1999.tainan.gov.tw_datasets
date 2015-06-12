@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201506120028",
+    "requested_datetime": "2015-06-12 08:39:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "東區府連路119號前機車道 路面坑洞",
+    "address_string": "東區府連路119號前機車道",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-06-19 08:39:00"
+}
