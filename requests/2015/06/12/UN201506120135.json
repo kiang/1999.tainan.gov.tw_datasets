@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201506120135",
     "requested_datetime": "2015-06-12 12:34:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "新市區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新市區永就里中華路130號後面  中華路100號到136號前面  中華路43號前面  遊戲阜的路口  711的路口 違停",
     "address_string": "新市區永就里中華路130號後面  中華路100號到136號前面  中華路43號前面  遊戲阜的路口  711的路口",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-12 16:57:56",
     "expected_datetime": "2015-06-12 12:34:00"
 }
