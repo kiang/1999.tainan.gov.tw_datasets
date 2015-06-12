@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201506120169",
+    "requested_datetime": "2015-06-12 14:01:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區仁和路裡的紅線巷道 違停",
+    "address_string": "東區仁和路裡的紅線巷道",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-06-19 14:01:00"
+}
