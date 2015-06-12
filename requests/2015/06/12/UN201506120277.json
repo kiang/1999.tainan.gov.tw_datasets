@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201506120277",
+    "requested_datetime": "2015-06-12 17:58:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "其他汙染舉發",
+    "description": "北區大武街的永康橋下 汙染舉發",
+    "address_string": "大武街的永康橋下",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-06-19 17:58:00"
+}
