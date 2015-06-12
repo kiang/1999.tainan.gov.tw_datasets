@@ -5,20 +5,12 @@
     "keyword": {
 
     },
-    "area": {
-
-    },
-    "service_name": {
-
-    },
-    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
-    "subproject": {
-
-    },
-    "description": "廟會",
-    "address_string": {
-
-    },
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "安南區北安路三段135號 廟會\/噪音",
+    "address_string": "北安路三段135號",
     "lat": "0",
     "long": "0",
     "service_notice": {
