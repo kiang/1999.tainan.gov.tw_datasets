@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201506130168",
+    "requested_datetime": "2015-06-13 16:58:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區東寧路西段(育樂街接民族路)\/育樂街(博愛國際語言學校) 違停",
+    "address_string": "東區東寧路西段(育樂街接民族路)\/育樂街(博愛國際語言學校)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-06-20 16:58:00"
+}
