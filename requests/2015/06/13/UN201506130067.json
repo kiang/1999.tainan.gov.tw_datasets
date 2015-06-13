@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201506130067",
+    "requested_datetime": "2015-06-13 10:24:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "中西區民族路與國華街交叉口 交通疏導",
+    "address_string": "民族路與國華街交叉口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-06-20 10:24:00"
+}
