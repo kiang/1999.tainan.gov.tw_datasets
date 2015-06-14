@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201506140166",
+    "requested_datetime": "2015-06-14 19:28:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區法華街上法華寺門口前 違停",
+    "address_string": "中西區法華街上法華寺門口前",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-06-14 19:33:33",
+    "expected_datetime": "2015-06-21 19:28:00"
+}
