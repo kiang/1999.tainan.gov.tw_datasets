@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201506140150",
+    "requested_datetime": "2015-06-14 18:31:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區大學路與勝利路口 大學路與長榮路口 違停",
+    "address_string": "東區大學路與勝利路口 大學路與長榮路口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-06-14 18:53:33",
+    "expected_datetime": "2015-06-21 18:31:00"
+}
