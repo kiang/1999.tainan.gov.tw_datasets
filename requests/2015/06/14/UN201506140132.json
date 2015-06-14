@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201506140132",
+    "requested_datetime": "2015-06-14 17:25:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "東區中華東路和大同路口附近  噪音",
+    "address_string": "東區中華東路和大同路口附近",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-06-14 17:37:47",
+    "expected_datetime": "2015-06-21 17:25:00"
+}
