@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201506140026",
+    "requested_datetime": "2015-06-14 09:26:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "東區光明街201巷3號和8號 佔用道路",
+    "address_string": "東區光明街201巷3號和8號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-06-14 09:46:43",
+    "expected_datetime": "2015-06-21 09:26:00"
+}

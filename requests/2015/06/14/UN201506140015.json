@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201506140015",
+    "requested_datetime": "2015-06-14 08:48:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "南區",
+    "service_name": {
+
+    },
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "南區大同路二段482巷口 廟會妨礙安寧",
+    "address_string": "南區大同路二段482巷口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-06-14 09:44:13",
+    "expected_datetime": "2015-06-21 08:48:00"
+}
