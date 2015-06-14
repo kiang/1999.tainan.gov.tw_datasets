@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201506140104",
+    "requested_datetime": "2015-06-14 16:01:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區東門路二段上 麥當勞跟肯德基中間的巷子 違停",
+    "address_string": "東區東門路二段上 麥當勞跟肯德基中間的巷子",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-06-14 16:22:35",
+    "expected_datetime": "2015-06-21 16:01:00"
+}
