@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201506130184",
-    "requested_datetime": "2015-06-13 18:34:00",
+    "service_request_id": "UN201506140010",
+    "requested_datetime": "2015-06-14 08:14:00",
     "status": "已完工",
     "keyword": {
 
@@ -10,12 +10,12 @@
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區衛國街112巷1號 違停",
-    "address_string": "衛國街112巷1號",
+    "address_string": "東區衛國街112巷1號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-14 08:14:02",
-    "expected_datetime": "2015-06-20 18:34:00"
+    "updated_datetime": "2015-06-14 08:37:57",
+    "expected_datetime": "2015-06-21 08:14:00"
 }
