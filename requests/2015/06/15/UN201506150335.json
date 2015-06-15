@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201506150335",
+    "requested_datetime": "2015-06-15 21:27:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "歸仁區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "歸仁區保興二街39號 妨礙安寧",
+    "address_string": "歸仁區保興二街39號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-06-15 21:38:00",
+    "expected_datetime": "2015-06-22 21:27:00"
+}

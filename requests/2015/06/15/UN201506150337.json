@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201506150337",
+    "requested_datetime": "2015-06-15 21:27:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區東豐路241號前 違停",
+    "address_string": "北區東豐路241號前",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-06-15 21:38:00",
+    "expected_datetime": "2015-06-22 21:27:00"
+}
