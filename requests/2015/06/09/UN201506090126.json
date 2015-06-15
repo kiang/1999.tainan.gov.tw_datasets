@@ -7,7 +7,7 @@
     },
     "area": "永康區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府水利局",
     "subproject": "9盞以下路燈故障",
     "description": "永康區復興路1巷30弄157號 路燈",
     "address_string": "永康區復興路1巷30弄157號",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-11 08:36:56",
+    "updated_datetime": "2015-06-15 17:27:57",
     "expected_datetime": "2015-06-16 11:42:00"
 }

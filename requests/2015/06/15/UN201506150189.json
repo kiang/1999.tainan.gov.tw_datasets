@@ -10,12 +10,12 @@
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區南台街54巷49號對面 違停",
-    "address_string": "南台街54巷49號對面",
+    "address_string": "永康區南台街54巷49號對面",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-15 16:23:56",
+    "updated_datetime": "2015-06-15 16:23:00",
     "expected_datetime": "2015-06-22 13:50:00"
 }
