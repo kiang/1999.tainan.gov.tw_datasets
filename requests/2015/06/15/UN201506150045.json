@@ -10,12 +10,12 @@
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區文平路與怡平路口 違停",
-    "address_string": "文平路與怡平路口",
+    "address_string": "安平區文平路與怡平路口",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-15 11:19:41",
+    "updated_datetime": "2015-06-15 11:19:00",
     "expected_datetime": "2015-06-22 09:22:00"
 }
