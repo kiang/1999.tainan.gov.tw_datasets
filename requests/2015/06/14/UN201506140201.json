@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201506140201",
     "requested_datetime": "2015-06-14 23:13:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區復國一路150巷 違規停車",
     "address_string": "永康區復國一路150巷",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-15 08:23:20",
     "expected_datetime": "2015-06-14 23:13:00"
 }

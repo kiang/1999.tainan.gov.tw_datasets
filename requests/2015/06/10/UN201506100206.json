@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201506100206",
     "requested_datetime": "2015-06-10 14:37:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面下陷、凹陷",
     "description": "東區東寧路與南紡夢時代貨車入口前 凹陷",
     "address_string": "東寧路與南紡夢時代貨車入口前",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-15 08:57:50",
     "expected_datetime": "2015-06-10 14:37:00"
 }
