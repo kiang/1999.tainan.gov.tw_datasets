@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201506110266",
     "requested_datetime": "2015-06-11 17:56:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
@@ -9,7 +9,7 @@
     "service_name": {
 
     },
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "安南區環館路和環館五路口 漏水",
     "address_string": "安南區環館路和環館五路口",
@@ -18,8 +18,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-15 16:22:31",
     "expected_datetime": "2015-06-18 17:56:00"
 }
