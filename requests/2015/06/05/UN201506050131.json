@@ -7,7 +7,7 @@
     },
     "area": "永康區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市永康區公所",
     "subproject": "路面坑洞",
     "description": "永康區中華二路262號 路面坑洞",
     "address_string": "永康區中華二路262號",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-12 16:35:08",
+    "updated_datetime": "2015-06-15 10:22:37",
     "expected_datetime": "2015-06-12 12:14:00"
 }

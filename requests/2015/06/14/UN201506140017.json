@@ -9,13 +9,13 @@
     "service_name": "交通運輸",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
-    "description": "東區崇德路上 佔用道路",
-    "address_string": "東區崇德路上",
+    "description": "東區崇德路上崇德菜市場前 佔用道路",
+    "address_string": "東區崇德路上崇德菜市場前",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-14 09:45:36",
+    "updated_datetime": "2015-06-14 09:45:00",
     "expected_datetime": "2015-06-21 08:58:00"
 }
