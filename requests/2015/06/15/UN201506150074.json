@@ -9,13 +9,13 @@
     "service_name": "交通運輸",
     "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
-    "description": "歸仁區歸仁大道大武路一段 號誌燈",
+    "description": "歸仁區歸仁大道大武路一段 號誌故障",
     "address_string": "歸仁區歸仁大道大武路一段",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-15 14:48:16",
+    "updated_datetime": "2015-06-15 14:48:00",
     "expected_datetime": "2015-06-22 10:01:00"
 }
