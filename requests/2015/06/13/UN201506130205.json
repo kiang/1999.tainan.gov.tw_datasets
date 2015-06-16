@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201506130205",
     "requested_datetime": "2015-06-13 19:55:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "佳里區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市佳里區公所",
     "subproject": "路面坑洞",
     "description": "佳里區南47道路1點5公里至2公里處中間路段 子龍里40之31號旁邊農路上 坑洞",
     "address_string": "佳里區南47道路1點5公里至2公里處中間路段 子龍里40之31號旁邊農路上",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-16 15:01:41",
     "expected_datetime": "2015-06-20 19:55:00"
 }
