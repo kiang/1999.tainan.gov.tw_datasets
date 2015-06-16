@@ -9,13 +9,13 @@
     "service_name": "民生管線",
     "agency": "臺南市政府聯合服務中心",
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
-    "description": "南區大成路二段92巷3弄週邊區域 停電-",
+    "description": "南區大成路二段92巷3弄週邊區域 停電",
     "address_string": "南區大成路二段92巷3弄週邊區域",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-16 14:24:26",
+    "updated_datetime": "2015-06-16 14:24:00",
     "expected_datetime": "2015-06-23 03:49:00"
 }
