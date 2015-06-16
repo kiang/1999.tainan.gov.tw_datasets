@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201506160207",
+    "requested_datetime": "2015-06-16 15:47:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "善化區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "善化區大成路196號-228號 路霸違停",
+    "address_string": "善化區大成路196號-228號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-06-16 16:37:15",
+    "expected_datetime": "2015-06-23 15:47:00"
+}

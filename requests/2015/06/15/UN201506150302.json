@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201506150302",
     "requested_datetime": "2015-06-15 18:32:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "新營區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市新營區公所",
     "subproject": "路面坑洞",
     "description": "新營區府西路87巷32號 坑洞",
     "address_string": "新營區府西路87巷32號",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-16 16:36:43",
     "expected_datetime": "2015-06-22 18:32:00"
 }

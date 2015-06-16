@@ -7,7 +7,7 @@
     },
     "area": "南區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "南區新興路533巷23號 斜對面西北方路旁 坑洞",
     "address_string": "南區新興路533巷23號 斜對面西北方路旁",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-12 14:52:08",
+    "updated_datetime": "2015-06-16 16:51:32",
     "expected_datetime": "2015-06-17 17:09:00"
 }
