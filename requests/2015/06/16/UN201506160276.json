@@ -7,15 +7,15 @@
     },
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "臺南市政府警察局勤務指揮中心",
-    "subproject": "妨害安寧",
-    "description": "北區北忠街玉皇宮 妨害安寧",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "北區北忠街玉皇宮 廟會妨礙安寧",
     "address_string": "北忠街玉皇宮",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-16 23:02:04",
+    "updated_datetime": "2015-06-16 23:02:00",
     "expected_datetime": "2015-06-23 19:42:00"
 }
