@@ -1,5 +1,5 @@
 {
-    "service_request_id": "UN201506160121",
+    "service_request_id": "UN201506160119",
     "requested_datetime": "2015-06-16 11:36:00",
     "status": "已完工",
     "keyword": {
@@ -9,13 +9,13 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "中西區萬昌街與興華街 違停",
-    "address_string": "中西區萬昌街與興華街",
+    "description": "中西區國華街三段26號前 違停",
+    "address_string": "中西區國華街三段26號前",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-16 13:40:18",
+    "updated_datetime": "2015-06-16 13:53:50",
     "expected_datetime": "2015-06-23 11:36:00"
 }
