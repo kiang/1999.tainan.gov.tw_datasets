@@ -9,13 +9,13 @@
     "service_name": "交通運輸",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
-    "description": "安南區安中路四段197巷11號 用道路",
+    "description": "安南區安中路四段197巷11號 佔用道路",
     "address_string": "安南區安中路四段197巷11號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-16 13:27:10",
+    "updated_datetime": "2015-06-16 13:27:00",
     "expected_datetime": "2015-06-23 09:20:00"
 }

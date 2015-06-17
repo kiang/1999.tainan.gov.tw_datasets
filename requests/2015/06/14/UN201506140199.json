@@ -7,7 +7,7 @@
     },
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局永康分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "710台灣台南市永康區中正路256巷內 違停",
     "address_string": "710台灣台南市永康區中正路256巷",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-15 08:22:16",
+    "updated_datetime": "2015-06-17 11:40:50",
     "expected_datetime": "2015-06-14 22:37:00"
 }
