@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201506170043",
+    "requested_datetime": "2015-06-17 08:54:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "東 區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局",
+    "subproject": "佔用道路",
+    "description": "東區勝利路成大光復校區與成功校區 佔用道路",
+    "address_string": "704台灣台南市東區勝利路成大光復校區與成功校區",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-06-17 08:54:00"
+}
