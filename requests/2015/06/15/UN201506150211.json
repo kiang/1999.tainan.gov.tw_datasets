@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201506150211",
     "requested_datetime": "2015-06-15 14:58:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東山區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "東山區聖賢里頂窩56之7號 空氣汙染",
     "address_string": "東山區聖賢里頂窩56之7號",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-17 16:18:38",
     "expected_datetime": "2015-06-22 14:58:00"
 }
