@@ -8,14 +8,14 @@
     "area": "北區",
     "service_name": "噪音舉發",
     "agency": "臺南市政府警察局勤務指揮中心",
-    "subproject": "妨害安寧",
-    "description": "北區勝利路115號 妨害安寧",
-    "address_string": "勝利路115號",
+    "subproject": "妨礙安寧",
+    "description": "北區勝利路115號 妨礙安寧",
+    "address_string": "北區勝利路115號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-17 03:53:22",
+    "updated_datetime": "2015-06-17 03:53:00",
     "expected_datetime": "2015-06-23 20:57:00"
 }

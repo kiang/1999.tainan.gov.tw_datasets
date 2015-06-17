@@ -7,7 +7,7 @@
     },
     "area": "安南區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市安南區公所",
     "subproject": "路面坑洞",
     "description": "安南區府安路六段27巷45號前方 凹陷",
     "address_string": "安南區府安路六段27巷45號前方",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-15 14:21:37",
+    "updated_datetime": "2015-06-17 17:13:30",
     "expected_datetime": "2015-06-21 11:47:00"
 }
