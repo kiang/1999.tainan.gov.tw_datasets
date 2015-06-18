@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201506180222",
+    "requested_datetime": "2015-06-18 16:09:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "新市區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "新市區中華路96號\/新市區中華路130號後面\/新市區中華路100號到136號前面\/新市區中華路43號前面\/過新市橋的路口及遠東科大旁711的路口 違停",
+    "address_string": "新市區中華路96號\/新市區中華路130號後面\/新市區中華路100號到136號前面\/新市區中華路43號前面\/過新市橋的路口及遠東科大旁711的路口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-06-18 16:09:00"
+}

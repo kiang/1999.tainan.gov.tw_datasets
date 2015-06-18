@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201506180209",
     "requested_datetime": "2015-06-18 15:44:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "仁德區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "仁德區中清路與仁義三街(交叉口) 佔用道路",
     "address_string": "仁德區中清路與仁義三街(交叉口)",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-18 16:02:00",
     "expected_datetime": "2015-06-25 15:44:00"
 }
