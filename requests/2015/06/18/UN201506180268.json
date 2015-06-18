@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201506180268",
+    "requested_datetime": "2015-06-18 18:56:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "安南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "安南區安昌街174巷5號   坑洞",
+    "address_string": "安昌街174巷5號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-06-25 18:56:00"
+}
