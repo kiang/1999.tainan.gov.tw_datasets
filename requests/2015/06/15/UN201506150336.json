@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201506150336",
     "requested_datetime": "2015-06-15 21:25:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "東區東門路二段158巷底  東區東門路二段286號前方  東區崇善路(近德光街口) 路燈",
     "address_string": "東區東門路二段158巷底  東區東門路二段286號前方  東區崇善路(近德光街口)",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-18 10:48:57",
     "expected_datetime": "2015-06-22 21:25:00"
 }
