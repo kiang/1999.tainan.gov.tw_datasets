@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201506190118",
+    "requested_datetime": "2015-06-19 12:41:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區東豐路239號前 違停",
+    "address_string": "北區東豐路239號前",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-06-26 12:41:00"
+}
