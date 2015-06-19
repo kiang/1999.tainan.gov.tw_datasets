@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201506190267",
+    "requested_datetime": "2015-06-19 23:03:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "妨礙安寧",
+    "description": "北區延平里公園路746巷 延平國中附近   妨礙安寧",
+    "address_string": "北區延平里公園路746巷 延平國中附近",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-06-26 23:03:00"
+}
