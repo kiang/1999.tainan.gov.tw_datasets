@@ -6,7 +6,7 @@
 
     },
     "area": "新營區",
-    "service_name": "違規停車",
+    "service_name": "交通運輸",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "新營區復興路701號 佔用道路",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-18 17:50:17",
+    "updated_datetime": "2015-06-18 17:50:00",
     "expected_datetime": "2015-06-25 16:36:00"
 }
