@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201506200051",
     "requested_datetime": "2015-06-20 09:59:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "台南後火車站前鋒路上往民族路方向 違停",
     "address_string": "台南後火車站前鋒路上往民族路方向",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-20 13:09:55",
     "expected_datetime": "2015-06-27 09:59:00"
 }
