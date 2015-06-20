@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201506200152",
     "requested_datetime": "2015-06-20 17:05:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "南區永成路二段781號 佔用道路",
     "address_string": "南區永成路二段781號",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-20 19:00:58",
     "expected_datetime": "2015-06-27 17:05:00"
 }
