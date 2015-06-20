@@ -9,13 +9,13 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "東區林森路一段沿途  違規停車",
+    "description": "東區林森路一段沿途  違停",
     "address_string": "701台灣台南市東區林森路一段184號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-19 22:00:20",
+    "updated_datetime": "2015-06-19 22:00:00",
     "expected_datetime": "2015-06-19 20:42:00"
 }
