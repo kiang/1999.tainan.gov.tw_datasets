@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201506180104",
     "requested_datetime": "2015-06-18 10:52:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "歸仁區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "長榮大學附近 空氣汙染",
     "address_string": "歸仁區長榮大學附近",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-20 17:40:33",
     "expected_datetime": "2015-06-25 10:52:00"
 }
