@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201506210065",
+    "requested_datetime": "2015-06-21 13:06:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區柴頭港溪防汛道路(往南方向)右轉的林森路三段140巷對面小窄道 違停",
+    "address_string": "柴頭港溪防汛道路(往南方向)右轉的林森路三段140巷對面小窄道",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-06-28 13:06:00"
+}
