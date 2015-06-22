@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201506220187",
+    "requested_datetime": "2015-06-22 12:57:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區金華路一段與大成二段交叉口 違停",
+    "address_string": "金華路一段與大成二段交叉口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-06-22 14:38:18",
+    "expected_datetime": "2015-06-29 12:57:00"
+}

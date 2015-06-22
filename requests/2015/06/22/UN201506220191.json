@@ -1,21 +1,21 @@
 {
-    "service_request_id": "UN201506220190",
+    "service_request_id": "UN201506220191",
     "requested_datetime": "2015-06-22 13:09:00",
     "status": "已完工",
     "keyword": {
 
     },
     "area": "中西區",
-    "service_name": "騎樓舉發",
+    "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
-    "subproject": "騎樓舉發",
-    "description": "中西區中正路176號 騎樓",
-    "address_string": "中西區中正路176號",
+    "subproject": "違規停車",
+    "description": "中西區成功路和金華路交叉口 違停",
+    "address_string": "中西區成功路和金華路交叉口",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-22 14:32:52",
+    "updated_datetime": "2015-06-22 14:35:15",
     "expected_datetime": "2015-06-29 13:09:00"
 }
