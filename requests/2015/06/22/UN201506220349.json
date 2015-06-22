@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201506220349",
+    "requested_datetime": "2015-06-22 22:41:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "七股區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨礙安寧",
+    "description": "七股區永吉里17之21號 妨礙安寧",
+    "address_string": "七股區永吉里17之21號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-06-29 22:41:00"
+}
