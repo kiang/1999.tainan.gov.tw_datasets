@@ -5,20 +5,12 @@
     "keyword": {
 
     },
-    "area": {
-
-    },
-    "service_name": {
-
-    },
+    "area": "仁德區",
+    "service_name": "違規停車",
     "agency": "台南市政府",
-    "subproject": {
-
-    },
-    "description": "違停",
-    "address_string": {
-
-    },
+    "subproject": "違規停車",
+    "description": "仁德區中正路369號 違停",
+    "address_string": "中正路369號",
     "lat": "0",
     "long": "0",
     "service_notice": {
