@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201506220335",
+    "requested_datetime": "2015-06-22 20:50:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "仁德區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "仁德區中正路一段(保安工業區公車站牌的紅綠燈前) 電線垂落",
+    "address_string": "仁德區中正路一段(保安工業區公車站牌的紅綠燈前)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-06-22 20:50:00"
+}
