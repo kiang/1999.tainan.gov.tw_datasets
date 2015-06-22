@@ -7,7 +7,7 @@
     },
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區正興街6號\/西門路二段與正興街口 違停",
     "address_string": "700台灣台南市中西區正興街6號\/西門路二段與正興街口",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-20 18:58:42",
+    "updated_datetime": "2015-06-22 17:23:30",
     "expected_datetime": "2015-06-20 16:30:00"
 }
