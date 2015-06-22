@@ -7,7 +7,7 @@
     },
     "area": "南區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府水利局",
     "subproject": "路面坑洞",
     "description": "南區金華路一段220號 坑洞",
     "address_string": "南區金華路一段220號",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-18 14:02:23",
+    "updated_datetime": "2015-06-22 11:41:54",
     "expected_datetime": "2015-06-24 16:46:00"
 }
