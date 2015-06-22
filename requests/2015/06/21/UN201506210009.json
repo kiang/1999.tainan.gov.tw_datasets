@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201506210009",
     "requested_datetime": "2015-06-21 07:58:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "南化區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "南化區南化水庫大門口台20線上 號誌",
     "address_string": "南化區南化水庫大門口台20線上",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-22 13:54:45",
     "expected_datetime": "2015-06-28 07:58:00"
 }
