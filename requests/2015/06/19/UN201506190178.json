@@ -7,7 +7,7 @@
     },
     "area": "新營區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局永康分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區中正路256巷3號 違停",
     "address_string": "710台灣台南市永康區中正路256巷3號",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-19 18:59:24",
+    "updated_datetime": "2015-06-23 14:59:43",
     "expected_datetime": "2015-06-19 16:27:00"
 }
