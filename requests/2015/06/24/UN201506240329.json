@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201506240329",
+    "requested_datetime": "2015-06-24 23:00:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "安平區億載金城裡面 妨礙安寧",
+    "address_string": "安平區億載金城裡面",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-01 23:00:00"
+}
