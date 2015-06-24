@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201506240294",
+    "requested_datetime": "2015-06-24 19:20:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區西門路四段380巷2弄2號的轉角處 違停",
+    "address_string": "北區西門路四段380巷2弄2號的轉角處",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-01 19:20:00"
+}
