@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201506240152",
+    "requested_datetime": "2015-06-24 12:37:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "安南區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "安南區安中路三段366號 坑洞",
+    "address_string": "安南區安中路三段366號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-01 12:37:00"
+}
