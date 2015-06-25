@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201506210130",
     "requested_datetime": "2015-06-21 18:14:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "麻豆區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "麻豆區小埤里56之2號(附近區域) 區域停電",
     "address_string": "麻豆區小埤里56之2號(附近區域)",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-25 08:27:10",
     "expected_datetime": "2015-06-28 18:14:00"
 }
