@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201506250110",
+    "requested_datetime": "2015-06-25 12:25:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "新市區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "744台灣台南市新市區中華路168號  違停",
+    "address_string": "744台灣台南市新市區中華路168號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-06-25 12:25:00"
+}

@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201506240140",
     "requested_datetime": "2015-06-24 11:22:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
@@ -9,15 +9,13 @@
     "service_name": "動物救援",
     "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
-    "description": "北區和緯路與公園路交叉處  貓咪受傷",
+    "description": "北區和緯路與公園路交叉處  犬貓救援",
     "address_string": "北區和緯路與公園路交叉處",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-25 12:08:00",
     "expected_datetime": "2015-07-01 11:22:00"
 }
