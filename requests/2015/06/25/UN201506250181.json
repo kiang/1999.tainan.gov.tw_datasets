@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201506250181",
+    "requested_datetime": "2015-06-25 15:36:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "後壁區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "後壁區菁豐里(此區域) 空汙",
+    "address_string": "後壁區菁豐里(此區域)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-02 15:36:00"
+}
