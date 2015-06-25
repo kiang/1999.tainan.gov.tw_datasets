@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201506250010",
     "requested_datetime": "2015-06-25 05:06:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "楠西區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "楠西區茄拔路 停電",
     "address_string": "楠西區茄拔路",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-25 16:43:41",
     "expected_datetime": "2015-07-02 05:06:00"
 }

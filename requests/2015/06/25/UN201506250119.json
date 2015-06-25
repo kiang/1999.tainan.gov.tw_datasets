@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201506250119",
     "requested_datetime": "2015-06-25 12:50:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區中正七街(全家便利商店及永康會館周邊) 違停",
     "address_string": "永康區中正七街(全家便利商店及永康會館周邊)",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-25 16:36:19",
     "expected_datetime": "2015-06-25 12:50:00"
 }
