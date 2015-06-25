@@ -7,7 +7,7 @@
     },
     "area": "南區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "9盞以下路燈故障",
     "description": "四鯤鯓鳳鑾聖道院附近 路燈",
     "address_string": "四鯤鯓鳳鑾聖道院附近",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-18 17:12:11",
+    "updated_datetime": "2015-06-25 09:34:54",
     "expected_datetime": "2015-06-24 23:29:00"
 }
