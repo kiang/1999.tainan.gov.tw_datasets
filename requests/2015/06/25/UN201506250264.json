@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201506250264",
     "requested_datetime": "2015-06-25 20:01:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安平區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路樹傾倒",
     "description": "安平區漁光路上(接近舊秋茂園) 路樹",
     "address_string": "漁光路上(接近舊秋茂園)",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-26 16:09:36",
     "expected_datetime": "2015-07-02 20:01:00"
 }
