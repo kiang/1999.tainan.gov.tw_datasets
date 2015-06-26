@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201506260148",
+    "requested_datetime": "2015-06-26 14:02:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "南區金華路二段129號和137號 妨礙安寧",
+    "address_string": "南區金華路二段129號和137號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-06-26 14:27:10",
+    "expected_datetime": "2015-07-03 14:02:00"
+}
