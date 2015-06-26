@@ -7,7 +7,7 @@
     },
     "area": "仁德區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
     "description": "仁德區中正路一段 線路掉落",
     "address_string": "仁德區中正路一段，紅4公車站牌前(保安工業區站)",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-25 15:29:52",
+    "updated_datetime": "2015-06-26 17:03:14",
     "expected_datetime": "2015-06-24 01:11:00"
 }
