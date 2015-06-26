@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201506260285",
+    "requested_datetime": "2015-06-26 20:56:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "佳里區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "佳里區中山路和四安街口 廟會妨礙安寧",
+    "address_string": "佳里區中山路和四安街口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-06-27 00:35:14",
+    "expected_datetime": "2015-07-03 20:56:00"
+}
