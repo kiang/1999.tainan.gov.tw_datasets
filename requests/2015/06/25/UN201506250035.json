@@ -8,7 +8,7 @@
     "area": "中西區",
     "service_name": "髒亂及汙染",
     "agency": "臺南市政府環境保護局",
-    "subproject": "其他汙染舉發",
+    "subproject": "市區道路路面油漬",
     "description": "中西區公園路與慈英街口交叉處  油漬",
     "address_string": "中西區公園路與慈英街口交叉處",
     "lat": "0",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-25 14:03:32",
+    "updated_datetime": "2015-06-25 14:03:00",
     "expected_datetime": "2015-07-02 08:44:00"
 }

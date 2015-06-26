@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201506260054",
+    "requested_datetime": "2015-06-26 09:22:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "安南區公學路七段179巷1號前(轉彎處) 佔用道路",
+    "address_string": "安南區公學路七段179巷1號前(轉彎處)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-03 09:22:00"
+}
