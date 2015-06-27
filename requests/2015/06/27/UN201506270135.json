@@ -6,9 +6,7 @@
 
     },
     "area": "北區",
-    "service_name": {
-
-    },
+    "service_name": "噪音舉發",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "北區北門路三段1號旁 妨礙安寧",
@@ -18,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-27 16:29:03",
+    "updated_datetime": "2015-06-27 16:29:00",
     "expected_datetime": "2015-07-04 15:24:00"
 }
