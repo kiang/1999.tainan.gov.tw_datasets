@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201506270021",
+    "requested_datetime": "2015-06-27 06:59:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "安平區育平五街與健康三街口 線路掉落",
+    "address_string": "育平五街與健康三街口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-04 06:59:00"
+}
