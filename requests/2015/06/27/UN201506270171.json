@@ -1,21 +1,21 @@
 {
-    "service_request_id": "UN201506270170",
+    "service_request_id": "UN201506270171",
     "requested_datetime": "2015-06-27 18:08:00",
     "status": "已完工",
     "keyword": {
 
     },
-    "area": "中西區",
+    "area": "白河區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "中西區西門路2段387號 違規停車",
-    "address_string": "西門路2段387號",
+    "description": "白河區中山路上菜市場附近 違停",
+    "address_string": "白河區中山路上菜市場附近",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-27 19:31:00",
-    "expected_datetime": "2015-06-27 18:08:00"
+    "updated_datetime": "2015-06-27 20:56:38",
+    "expected_datetime": "2015-07-04 18:08:00"
 }
