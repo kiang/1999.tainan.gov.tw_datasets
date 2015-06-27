@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201506270018",
     "requested_datetime": "2015-06-27 08:10:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "北區開元路333巷4弄2號 妨礙安寧",
     "address_string": "開元路333巷4弄2號",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-27 17:24:21",
     "expected_datetime": "2015-07-04 08:10:00"
 }
