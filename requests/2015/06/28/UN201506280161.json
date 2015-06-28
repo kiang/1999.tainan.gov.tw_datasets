@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201506280161",
     "requested_datetime": "2015-06-28 19:06:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "新營區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新營區東明街80巷口 違規停車",
     "address_string": "新營區東明街80巷口",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-29 06:19:36",
     "expected_datetime": "2015-06-28 19:06:00"
 }
