@@ -7,7 +7,7 @@
     },
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區東和路 違停",
     "address_string": "東區東和路",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-27 16:55:09",
+    "updated_datetime": "2015-06-27 16:55:00",
     "expected_datetime": "2015-06-27 12:59:00"
 }

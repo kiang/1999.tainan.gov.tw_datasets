@@ -9,13 +9,13 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "東區崇善路 違規停車",
+    "description": "東區崇善路 違停",
     "address_string": "東區崇善路",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-27 16:37:53",
+    "updated_datetime": "2015-06-27 16:37:00",
     "expected_datetime": "2015-06-27 14:40:00"
 }

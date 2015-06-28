@@ -10,12 +10,12 @@
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區中華路與南台街口  違停",
-    "address_string": "中華路與南台街口",
+    "address_string": "永康區中華路與南台街口",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-27 19:30:02",
+    "updated_datetime": "2015-06-27 19:30:00",
     "expected_datetime": "2015-07-04 13:53:00"
 }
