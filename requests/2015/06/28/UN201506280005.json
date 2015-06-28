@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201506280005",
     "requested_datetime": "2015-06-28 00:55:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "北區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "長榮路地下道往北安橋方向 動物屍體",
     "address_string": "長榮路地下道往北安橋方向",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-28 11:06:57",
     "expected_datetime": "2015-06-28 00:55:00"
 }
