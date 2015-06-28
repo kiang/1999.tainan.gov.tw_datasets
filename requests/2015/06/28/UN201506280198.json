@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201506280198",
+    "requested_datetime": "2015-06-28 23:33:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區文賢路409號 北區文賢路292巷和文賢一路交叉口(違停) \/ 中西區海安路二段243號 中西區海安路二段268號 中西區海安路二段268號右邊 (佔用道路)",
+    "address_string": "北區文賢路409號 北區文賢路292巷和文賢一路交叉口 中西區海安路二段243號 中西區海安路二段268號 中西區海安路二段268號右邊",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-05 23:33:00"
+}
