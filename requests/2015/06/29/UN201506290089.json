@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201506290089",
+    "requested_datetime": "2015-06-29 10:31:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "鹽水區",
+    "service_name": "民生管線",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "鹽水區仁愛路110-19號 厚生橋下十字路口周邊  停電",
+    "address_string": "鹽水區仁愛路110-19號 厚生橋下十字路口周邊",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-06 10:31:00"
+}
