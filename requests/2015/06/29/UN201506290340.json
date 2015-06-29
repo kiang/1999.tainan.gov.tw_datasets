@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201506290340",
+    "requested_datetime": "2015-06-29 21:20:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "南區金華路二段與建南路 攤販",
+    "address_string": "南區金華路二段與建南路",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-06 21:20:00"
+}
