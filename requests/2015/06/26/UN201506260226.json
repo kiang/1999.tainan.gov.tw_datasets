@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201506260226",
     "requested_datetime": "2015-06-26 17:38:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "永康區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "永康區中正北路718號前面外側車道 孔蓋聲響",
     "address_string": "中正北路718號前面外側車道",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-29 14:08:27",
     "expected_datetime": "2015-06-26 17:38:00"
 }

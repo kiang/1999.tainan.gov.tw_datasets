@@ -10,12 +10,12 @@
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區東寧路233號 違規停車",
-    "address_string": "東寧路233號",
+    "address_string": "東區東寧路233號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-28 18:17:51",
+    "updated_datetime": "2015-06-28 18:17:00",
     "expected_datetime": "2015-06-28 16:00:00"
 }
