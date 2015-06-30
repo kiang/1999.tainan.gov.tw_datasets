@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201506270031",
     "requested_datetime": "2015-06-27 08:37:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安定區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市安定區公所",
     "subproject": "9盞以下路燈故障",
     "description": "安定區海寮106號之1 路燈",
     "address_string": "海寮106號之1",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-30 10:41:19",
     "expected_datetime": "2015-07-04 08:37:00"
 }
