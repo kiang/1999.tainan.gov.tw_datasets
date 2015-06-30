@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201506300051",
+    "requested_datetime": "2015-06-30 09:29:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區西門路四段與正覺街轉角 違停",
+    "address_string": "北區西門路四段與正覺街轉角",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-06-30 13:34:54",
+    "expected_datetime": "2015-07-07 09:29:00"
+}

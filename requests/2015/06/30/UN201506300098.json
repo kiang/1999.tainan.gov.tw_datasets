@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201506300098",
+    "requested_datetime": "2015-06-30 11:02:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "環境髒亂",
+    "description": "東區東成街182巷2弄電箱旁 路邊垃圾",
+    "address_string": "東區東成街182巷2弄電箱旁",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-07 11:02:00"
+}
