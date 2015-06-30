@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201506290332",
     "requested_datetime": "2015-06-29 20:45:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "南區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
     "description": "南區永成路三段377號前 犬貓救援",
     "address_string": "南區永成路三段377號前",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-30 16:35:08",
     "expected_datetime": "2015-07-06 20:45:00"
 }
