@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201506300240",
+    "requested_datetime": "2015-06-30 17:42:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區東安路223號附近 違停",
+    "address_string": "東區東安路223號附近",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-06-30 18:35:22",
+    "expected_datetime": "2015-07-07 17:42:00"
+}
