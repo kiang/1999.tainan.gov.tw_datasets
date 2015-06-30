@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201506300017",
+    "requested_datetime": "2015-06-30 07:56:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區育德路199巷與育德二路交叉處 違停",
+    "address_string": "北區育德路199巷與育德二路交叉處",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-06-30 08:49:44",
+    "expected_datetime": "2015-07-07 07:56:00"
+}
