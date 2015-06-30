@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201506300005",
     "requested_datetime": "2015-06-30 06:34:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "官田區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "官田區中山路一段隆田市場邊整排規擺攤路旁 違規攤販",
     "address_string": "官田區中山路一段隆田市場邊整排規擺攤路旁",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-06-30 09:25:59",
     "expected_datetime": "2015-07-07 06:34:00"
 }
