@@ -9,13 +9,13 @@
     "service_name": "交通運輸",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
-    "description": "官田區中山路一段隆田市場邊整排規擺攤路旁 違規攤販",
+    "description": "官田區中山路一段隆田市場邊整排規擺攤路旁 佔用道路",
     "address_string": "官田區中山路一段隆田市場邊整排規擺攤路旁",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-30 09:25:59",
+    "updated_datetime": "2015-06-30 09:25:00",
     "expected_datetime": "2015-07-07 06:34:00"
 }

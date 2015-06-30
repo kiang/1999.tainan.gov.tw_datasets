@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201506300056",
-    "requested_datetime": "2015-06-30 09:37:00",
+    "service_request_id": "UN201506300216",
+    "requested_datetime": "2015-06-30 16:46:00",
     "status": "未處理",
     "keyword": {
 
@@ -9,8 +9,8 @@
     "service_name": "路燈故障",
     "agency": "台南市政府",
     "subproject": "9盞以下路燈故障",
-    "description": "永康區復興路33巷 路燈",
-    "address_string": "永康區復興路33巷",
+    "description": "六甲頂中油站旁往市區方向  路燈",
+    "address_string": "永康區六甲頂中油站旁往市區方向",
     "lat": "0",
     "long": "0",
     "service_notice": {
@@ -19,5 +19,5 @@
     "updated_datetime": {
 
     },
-    "expected_datetime": "2015-07-07 09:37:00"
+    "expected_datetime": "2015-07-07 16:46:00"
 }
