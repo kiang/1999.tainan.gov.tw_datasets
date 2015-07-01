@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201507010540",
     "requested_datetime": "2015-07-01 17:18:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區開元路與開元路485巷交叉路口(工地旁) 違規停車",
     "address_string": "開元路與開元路485巷交叉路口(工地旁)",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-01 19:09:56",
     "expected_datetime": "2015-07-01 17:18:00"
 }
