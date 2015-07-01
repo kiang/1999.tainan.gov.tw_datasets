@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201507010356",
     "requested_datetime": "2015-07-01 09:44:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區長榮路五段395巷內全線 違停",
     "address_string": "北區長榮路五段395巷內全線",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-01 10:12:42",
     "expected_datetime": "2015-07-08 09:44:00"
 }
