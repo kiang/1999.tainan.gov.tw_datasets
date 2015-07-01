@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507010611",
+    "requested_datetime": "2015-07-01 21:32:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區府連路182巷進去後右側(電箱旁) 違停",
+    "address_string": "東區府連路182巷進去後右側(電箱旁)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-01 22:57:03",
+    "expected_datetime": "2015-07-08 21:32:00"
+}

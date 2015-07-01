@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507010625",
+    "requested_datetime": "2015-07-01 22:30:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區西門路四段148號和150號前 違停",
+    "address_string": "北區西門路四段148號和150號前",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-01 22:56:37",
+    "expected_datetime": "2015-07-08 22:30:00"
+}
