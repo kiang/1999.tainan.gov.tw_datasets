@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201506260233",
     "requested_datetime": "2015-06-26 17:56:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "永康區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府水利局",
     "subproject": "路面掏空、塌陷",
     "description": "永康區富強路二段與王行路 路面塌陷",
     "address_string": "永康區富強路二段與王行路",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-01 17:46:53",
     "expected_datetime": "2015-07-03 17:56:00"
 }
