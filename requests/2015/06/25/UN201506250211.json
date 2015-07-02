@@ -7,7 +7,7 @@
     },
     "area": "新市區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局善化分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新市區中華路144號 違停",
     "address_string": "744台灣台南市新市區中華路144號",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-25 19:01:21",
+    "updated_datetime": "2015-07-02 08:01:01",
     "expected_datetime": "2015-06-25 17:02:00"
 }
