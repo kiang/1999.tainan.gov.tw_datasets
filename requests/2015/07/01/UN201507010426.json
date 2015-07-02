@@ -10,12 +10,12 @@
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區中正七街(全家便利商店及永康會館周邊) 違停",
-    "address_string": "中正七街(全家便利商店及永康會館周邊)",
+    "address_string": "永康區中正七街(全家便利商店及永康會館周邊)",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-01 17:00:48",
+    "updated_datetime": "2015-07-01 17:00:00",
     "expected_datetime": "2015-07-01 12:30:00"
 }

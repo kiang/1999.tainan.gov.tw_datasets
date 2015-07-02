@@ -9,13 +9,13 @@
     "service_name": "路燈故障",
     "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
-    "description": "東區東門路一段171號周邊 路燈不亮",
+    "description": "東區東門路一段171號周邊 路燈",
     "address_string": "東區東門路一段171號周邊",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-02 11:05:41",
+    "updated_datetime": "2015-07-02 11:05:00",
     "expected_datetime": "2015-07-08 19:31:00"
 }
