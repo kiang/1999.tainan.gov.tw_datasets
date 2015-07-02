@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201507020764",
+    "requested_datetime": "2015-07-02 12:40:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "安定區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "安定區安加里255-2號 (安定書坊)  路面漏水",
+    "address_string": "安定區安加里255-2號 (安定書坊)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-09 12:40:00"
+}
