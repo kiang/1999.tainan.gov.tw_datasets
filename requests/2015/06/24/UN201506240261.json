@@ -7,7 +7,7 @@
     },
     "area": "新市區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局善化分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新市區中華路148號 違停",
     "address_string": "新市區中華路148號",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-24 21:20:12",
+    "updated_datetime": "2015-07-02 07:51:48",
     "expected_datetime": "2015-06-24 17:46:00"
 }

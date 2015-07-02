@@ -7,7 +7,7 @@
     },
     "area": "新市區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局善化分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新市區中華路43號新市橋周邊路段 違停",
     "address_string": "744台灣台南市新市區中華路43號，新市橋周邊路段",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-25 18:57:00",
+    "updated_datetime": "2015-07-02 07:56:30",
     "expected_datetime": "2015-06-25 16:56:00"
 }
