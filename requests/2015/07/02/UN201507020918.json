@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201507020918",
     "requested_datetime": "2015-07-02 23:26:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "中西區府前路一段61巷內開山公園內 妨礙安寧",
     "address_string": "台南市中西區府前路一段61巷內開山公園",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-03 03:27:57",
     "expected_datetime": "2015-07-02 23:26:00"
 }
