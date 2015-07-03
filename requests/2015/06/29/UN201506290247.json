@@ -7,7 +7,7 @@
     },
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府聯合服務中心,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區北忠街58巷口 違停",
     "address_string": "北區北忠街58巷口",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-30 16:59:01",
+    "updated_datetime": "2015-07-03 10:05:48",
     "expected_datetime": "2015-07-06 16:40:00"
 }
