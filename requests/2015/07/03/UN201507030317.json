@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201507030317",
+    "requested_datetime": "2015-07-03 21:59:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "中西區海安路二段243號 268號 268號旁右側 330巷1號 佔用道路",
+    "address_string": "中西區海安路二段243號 268號 268號旁右側 330巷1號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-10 21:59:00"
+}
