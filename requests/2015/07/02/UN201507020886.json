@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507020886",
+    "requested_datetime": "2015-07-02 19:21:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區建平六街90巷9弄口  違停",
+    "address_string": "安平區建平六街90巷9弄口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-02 21:14:00",
+    "expected_datetime": "2015-07-09 19:21:00"
+}

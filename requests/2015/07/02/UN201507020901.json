@@ -9,8 +9,8 @@
     "service_name": "路燈故障",
     "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
-    "description": "東區小東路(林森路^長榮路)  路燈故障",
-    "address_string": "東區小東路(林森路^長榮路)",
+    "description": "東區小東路(林森路到長榮路)  路燈",
+    "address_string": "東區小東路(林森路到長榮路)",
     "lat": "0",
     "long": "0",
     "service_notice": {

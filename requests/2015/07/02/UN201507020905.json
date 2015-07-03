@@ -10,12 +10,12 @@
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區崇學路127號與135號 違停",
-    "address_string": "崇學路127號與135號",
+    "address_string": "東區崇學路127號與135號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-03 03:48:59",
+    "updated_datetime": "2015-07-03 03:48:00",
     "expected_datetime": "2015-07-09 20:33:00"
 }
