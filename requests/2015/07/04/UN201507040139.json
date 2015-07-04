@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507040139",
+    "requested_datetime": "2015-07-04 15:00:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "中西區民生路一段156巷內開山宮對面 佔用道路",
+    "address_string": "民生路一段156巷內開山宮對面",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-04 15:45:37",
+    "expected_datetime": "2015-07-11 15:00:00"
+}
