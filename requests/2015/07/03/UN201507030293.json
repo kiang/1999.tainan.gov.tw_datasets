@@ -9,13 +9,13 @@
     "service_name": "噪音舉發",
     "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
-    "description": "仁德區德南路的中軍宮 廟會妨礙安寧",
+    "description": "仁德區德南路的中軍宮 廟會\/妨礙安寧",
     "address_string": "仁德區德南路的中軍宮",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-04 02:36:27",
+    "updated_datetime": "2015-07-04 02:36:00",
     "expected_datetime": "2015-07-10 20:11:00"
 }
