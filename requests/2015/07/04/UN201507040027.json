@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507040027",
+    "requested_datetime": "2015-07-04 08:44:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區平生路10號 違停",
+    "address_string": "安平區平生路10號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-04 12:32:12",
+    "expected_datetime": "2015-07-11 08:44:00"
+}
