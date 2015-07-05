@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201507030323",
     "requested_datetime": "2015-07-03 23:10:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "北區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "北區西門路四段174巷2號(小北夜市) 空氣汙染",
     "address_string": "北區西門路四段174巷2號(小北夜市)",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-05 10:38:37",
     "expected_datetime": "2015-07-10 23:10:00"
 }
