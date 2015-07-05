@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507050172",
+    "requested_datetime": "2015-07-05 21:11:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "七股區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "七股區大潭里後港國中　妨礙安寧",
+    "address_string": "七股區大潭里後港國中",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-05 21:55:24",
+    "expected_datetime": "2015-07-12 21:11:00"
+}
