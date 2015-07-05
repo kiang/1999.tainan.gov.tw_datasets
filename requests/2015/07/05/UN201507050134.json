@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201507050134",
+    "requested_datetime": "2015-07-05 17:57:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區實踐街上 廟會佔用道路",
+    "address_string": "北區實踐街",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-05 17:57:00"
+}
