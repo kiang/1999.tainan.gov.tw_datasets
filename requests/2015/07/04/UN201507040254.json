@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201507040254",
     "requested_datetime": "2015-07-04 23:36:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區成功路343號 成功路396號和396之1號 成功路和國華街四段5巷口 北區海安路三段72號 違停\/中西區海安路二段243號 268號 268號旁右側 330巷1號 佔用人行道",
     "address_string": "北區成功路343號 成功路396號和396之1號 成功路和國華街四段5巷口 北區海安路三段72號 \/中西區海安路二段243號 268號 268號旁右側 330巷1號",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-05 07:35:43",
     "expected_datetime": "2015-07-11 23:36:00"
 }

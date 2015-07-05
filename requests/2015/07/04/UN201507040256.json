@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201507040256",
     "requested_datetime": "2015-07-04 23:56:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "後壁區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區立賢路二段99巷尾 違停",
     "address_string": "北區立賢路二段99巷尾",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-05 07:34:06",
     "expected_datetime": "2015-07-11 23:56:00"
 }
