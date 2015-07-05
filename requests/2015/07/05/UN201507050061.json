@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507050061",
+    "requested_datetime": "2015-07-05 11:52:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區前鋒路85巷口 違停",
+    "address_string": "東區前鋒路85巷口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-05 12:50:03",
+    "expected_datetime": "2015-07-12 11:52:00"
+}
