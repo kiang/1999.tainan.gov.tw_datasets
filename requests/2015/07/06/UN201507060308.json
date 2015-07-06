@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201507060308",
+    "requested_datetime": "2015-07-06 11:31:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區民德路95巷與臨安路二段249巷 違停",
+    "address_string": "北區民德路95巷與臨安路二段249巷",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-13 11:31:00"
+}
