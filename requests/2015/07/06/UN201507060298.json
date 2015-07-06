@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201507060298",
     "requested_datetime": "2015-07-06 11:15:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "七股區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "環境髒亂",
     "description": "七股區三股里三股118號對面 環境髒亂",
     "address_string": "七股區三股里三股118號對面",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-06 20:37:40",
     "expected_datetime": "2015-07-13 11:15:00"
 }
