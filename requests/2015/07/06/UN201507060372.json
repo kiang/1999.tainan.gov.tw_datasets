@@ -6,7 +6,7 @@
 
     },
     "area": "永康區",
-    "service_name": "違規停車",
+    "service_name": "交通運輸",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "永康區中山南路246號 佔用道路",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-06 17:25:22",
+    "updated_datetime": "2015-07-06 17:25:00",
     "expected_datetime": "2015-07-13 14:10:00"
 }
