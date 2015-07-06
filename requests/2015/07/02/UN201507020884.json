@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201507020884",
     "requested_datetime": "2015-07-02 18:57:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "歸仁區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市歸仁區公所",
     "subproject": "9盞以下路燈故障",
     "description": "歸仁區武東二街20巷9號 路燈",
     "address_string": "武東二街20巷9號",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-06 08:51:40",
     "expected_datetime": "2015-07-09 18:57:00"
 }
