@@ -9,13 +9,13 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "中西區西門路二段387號&郡緯街 違停",
-    "address_string": "西門路二段387號 &郡緯街",
+    "description": "中西區西門路二段387號及郡緯街 違停",
+    "address_string": "中西區西門路二段387號 及郡緯街",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-06 13:42:31",
+    "updated_datetime": "2015-07-06 13:42:00",
     "expected_datetime": "2015-07-06 11:22:00"
 }

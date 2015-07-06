@@ -10,12 +10,12 @@
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區長榮路一段180號 違停",
-    "address_string": "長榮路一段180號",
+    "address_string": "東區長榮路一段180號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-06 13:37:44",
+    "updated_datetime": "2015-07-06 13:37:00",
     "expected_datetime": "2015-07-13 11:06:00"
 }
