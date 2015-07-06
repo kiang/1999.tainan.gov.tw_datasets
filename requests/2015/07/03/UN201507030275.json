@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201507030275",
     "requested_datetime": "2015-07-03 18:53:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "臺南市政府交通局",
+    "agency": "台南市政府",
     "subproject": "交通疏導",
     "description": "北區公園南路跟富北街路口 號誌故障",
     "address_string": "北區公園南路跟富北街路口",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-06 09:07:50",
     "expected_datetime": "2015-07-03 18:53:00"
 }
