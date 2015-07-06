@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201507060395",
+    "requested_datetime": "2015-07-06 15:14:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區中華東路二段195號前 違停",
+    "address_string": "東區中華東路二段195號前",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-06 15:14:00"
+}
