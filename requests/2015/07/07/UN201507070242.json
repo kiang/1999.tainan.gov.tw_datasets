@@ -9,13 +9,13 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "違停",
+    "description": "北區北門路(民族路至火車站) 違停",
     "address_string": "北區北門路(民族路至火車站)",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-07 19:28:54",
+    "updated_datetime": "2015-07-07 19:28:00",
     "expected_datetime": "2015-07-14 16:55:00"
 }

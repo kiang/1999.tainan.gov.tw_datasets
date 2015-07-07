@@ -5,25 +5,17 @@
     "keyword": {
 
     },
-    "area": {
-
-    },
-    "service_name": {
-
-    },
+    "area": "北區",
+    "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
-    "subproject": {
-
-    },
-    "description": "違停",
-    "address_string": {
-
-    },
+    "subproject": "違規停車",
+    "description": "北區公園北路5號 違停",
+    "address_string": "北區公園北路5號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-07 17:26:56",
+    "updated_datetime": "2015-07-07 17:26:00",
     "expected_datetime": "2015-07-14 09:57:00"
 }
