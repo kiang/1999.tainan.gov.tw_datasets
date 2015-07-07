@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201507060511",
     "requested_datetime": "2015-07-06 19:35:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "柳營區",
     "service_name": "道路維修",
-    "agency": "臺南市柳營區公所",
+    "agency": "台南市政府",
     "subproject": "路面坑洞",
     "description": "柳營區中山西路三段692巷11號 坑洞",
     "address_string": "柳營區中山西路三段692巷11號",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-07 13:54:29",
     "expected_datetime": "2015-07-13 19:35:00"
 }
