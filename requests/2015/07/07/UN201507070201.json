@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201507070201",
     "requested_datetime": "2015-07-07 14:56:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安南區",
     "service_name": "道路維修",
-    "agency": "臺南市政府工務局,臺南市政府聯合服務中心",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "路面掏空、塌陷",
     "description": "安南區塭南里環湖街117號  路面掏空\/電線桿傾斜",
     "address_string": "安南區塭南里環湖街117號",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-07 17:03:57",
     "expected_datetime": "2015-07-14 14:56:00"
 }
