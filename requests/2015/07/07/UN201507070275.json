@@ -10,12 +10,12 @@
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區安北路40巷口 違停",
-    "address_string": "安北路40巷口",
+    "address_string": "安平區安北路40巷口",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-08 09:13:39",
+    "updated_datetime": "2015-07-08 09:13:00",
     "expected_datetime": "2015-07-14 18:21:00"
 }

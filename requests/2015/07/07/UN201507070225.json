@@ -9,13 +9,13 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "東區監理站門口，崇德路上，紅線跟黃網線違停",
-    "address_string": "東區監理站門口，崇德路上",
+    "description": "東區監理站門口 崇德路上 線違停",
+    "address_string": "東區監理站門口 崇德路上",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-07 19:08:42",
+    "updated_datetime": "2015-07-07 19:08:00",
     "expected_datetime": "2015-07-14 16:13:00"
 }
