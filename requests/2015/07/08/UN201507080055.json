@@ -6,7 +6,7 @@
 
     },
     "area": "六甲區",
-    "service_name": "違規停車",
+    "service_name": "交通運輸",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "六甲區民生街與中正路口 佔用道路",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-08 11:00:16",
+    "updated_datetime": "2015-07-08 11:00:00",
     "expected_datetime": "2015-07-15 09:51:00"
 }
