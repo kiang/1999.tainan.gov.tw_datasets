@@ -10,12 +10,12 @@
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區安平路440號 違停",
-    "address_string": "安平路440號",
+    "address_string": "安平區安平路440號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-07 18:51:41",
+    "updated_datetime": "2015-07-07 18:51:00",
     "expected_datetime": "2015-07-14 14:32:00"
 }

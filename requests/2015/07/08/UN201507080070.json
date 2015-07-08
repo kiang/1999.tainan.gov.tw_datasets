@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201507080070",
+    "requested_datetime": "2015-07-08 10:53:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "麻豆區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "其他汙染舉發",
+    "description": "麻豆區安東里安業15-33號 汙染舉發",
+    "address_string": "安東里安業15-33號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-15 10:53:00"
+}
