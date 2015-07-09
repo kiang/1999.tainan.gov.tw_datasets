@@ -10,12 +10,12 @@
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區永福路二段72號 違停",
-    "address_string": "永福路二段72號",
+    "address_string": "中西區永福路二段72號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-08 19:14:16",
+    "updated_datetime": "2015-07-08 19:14:00",
     "expected_datetime": "2015-07-15 18:44:00"
 }
