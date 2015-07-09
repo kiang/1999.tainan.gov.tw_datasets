@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201507090308",
     "requested_datetime": "2015-07-09 18:36:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "新市區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新市區中華路140號違規停車",
     "address_string": "744台灣台南市新市區中華路140號",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-10 00:25:28",
     "expected_datetime": "2015-07-09 18:36:00"
 }
