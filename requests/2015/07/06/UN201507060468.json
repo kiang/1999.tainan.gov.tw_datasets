@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201507060468",
     "requested_datetime": "2015-07-06 18:00:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市中西區公所",
     "subproject": "路樹傾倒",
     "description": "中西區武英街尾民生公園 路樹傾倒",
     "address_string": "中西區武英街尾民生公園",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-09 11:58:59",
     "expected_datetime": "2015-07-13 18:00:00"
 }

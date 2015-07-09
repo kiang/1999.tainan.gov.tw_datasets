@@ -7,7 +7,7 @@
     },
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區成功路 違停",
     "address_string": "中西區成功路",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-04 18:50:00",
+    "updated_datetime": "2015-07-09 11:29:05",
     "expected_datetime": "2015-07-04 17:55:00"
 }
