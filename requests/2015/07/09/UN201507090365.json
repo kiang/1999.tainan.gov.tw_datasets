@@ -6,7 +6,7 @@
 
     },
     "area": "中西區",
-    "service_name": "違規停車",
+    "service_name": "交通運輸",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "中西區北門路一段141巷1-到8號 佔用道路",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-09 23:51:49",
+    "updated_datetime": "2015-07-09 23:51:00",
     "expected_datetime": "2015-07-16 22:56:00"
 }
