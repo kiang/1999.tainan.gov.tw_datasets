@@ -7,7 +7,7 @@
     },
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第一分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區青年路313號 違停",
     "address_string": "東區青年路313號",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-06-30 19:05:19",
+    "updated_datetime": "2015-07-09 18:44:54",
     "expected_datetime": "2015-07-07 18:10:00"
 }
