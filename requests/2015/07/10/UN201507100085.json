@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201507100085",
     "requested_datetime": "2015-07-10 10:50:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區小東路與長榮路三段路口 違規停車",
     "address_string": "704台灣台南市北區小東路與長榮路三段路口",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-10 14:07:42",
     "expected_datetime": "2015-07-10 10:50:00"
 }
