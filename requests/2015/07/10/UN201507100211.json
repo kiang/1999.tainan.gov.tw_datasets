@@ -5,20 +5,12 @@
     "keyword": {
 
     },
-    "area": {
-
-    },
-    "service_name": {
-
-    },
-    "agency": "臺南市政府環境保護局",
-    "subproject": {
-
-    },
-    "description": "00",
-    "address_string": {
-
-    },
+    "area": "北區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "台南公園旁公園南路與北門路交叉口(北門路上) 道路散落物",
+    "address_string": "台南公園旁公園南路與北門路交叉口(北門路上)",
     "lat": "0",
     "long": "0",
     "service_notice": {

@@ -9,8 +9,8 @@
     "service_name": "路燈故障",
     "agency": "台南市政府",
     "subproject": "9盞以下路燈故障",
-    "description": "台南公園旁,公園南路與北門路交叉口(北門路上) 路燈",
-    "address_string": "台南公園旁,公園南路與北門路交叉口(北門路上)",
+    "description": "台南公園旁公園南路與北門路交叉口(北門路上) 路燈",
+    "address_string": "台南公園旁公園南路與北門路交叉口(北門路上)",
     "lat": "0",
     "long": "0",
     "service_notice": {
