@@ -9,13 +9,13 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "北區西門路四段169號前",
+    "description": "北區西門路四段169號前 違停",
     "address_string": "北區西門路四段169號前",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-10 00:23:14",
+    "updated_datetime": "2015-07-10 00:23:00",
     "expected_datetime": "2015-07-16 21:26:00"
 }
