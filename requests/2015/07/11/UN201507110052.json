@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201507110052",
     "requested_datetime": "2015-07-11 10:10:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "交通疏導",
     "description": "東區自由路三段與東成街 交通疏導",
     "address_string": "東區自由路三段與東成街",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-11 17:11:08",
     "expected_datetime": "2015-07-18 10:10:00"
 }
