@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201507110122",
     "requested_datetime": "2015-07-11 13:34:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "東區東門路二段302巷整個巷道直到德光街15巷交叉口處 佔用道路",
     "address_string": "東區東門路二段302巷整個巷道直到德光街15巷交叉口處,",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-11 18:25:01",
     "expected_datetime": "2015-07-18 13:34:00"
 }
