@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201507120161",
     "requested_datetime": "2015-07-12 18:04:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "仁德區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "仁德區成功一街19巷1號和2號 佔用道路",
     "address_string": "仁德區成功一街19巷1號和2號",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-12 19:03:00",
     "expected_datetime": "2015-07-19 18:04:00"
 }
