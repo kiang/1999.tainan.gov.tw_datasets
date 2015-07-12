@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507120083",
+    "requested_datetime": "2015-07-12 12:48:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區安平路582號週邊 違停",
+    "address_string": "安平區安平路582號週邊",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-12 14:52:13",
+    "expected_datetime": "2015-07-19 12:48:00"
+}
