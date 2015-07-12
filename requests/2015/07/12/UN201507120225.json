@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201507120225",
+    "requested_datetime": "2015-07-12 22:45:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區北門路二段547巷 違停",
+    "address_string": "北門路二段547巷",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-12 22:45:00"
+}
