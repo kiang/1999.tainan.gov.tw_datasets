@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201507120208",
+    "requested_datetime": "2015-07-12 21:23:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "永康區六甲頂往市區方向左轉公園路(內側車道第三個人孔蓋處) 坑洞",
+    "address_string": "永康區六甲頂往市區方向左轉公園路(內側車道第三個人孔蓋處)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-19 21:23:00"
+}
