@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201507120221",
     "requested_datetime": "2015-07-12 22:27:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "北區林森路3段神府熱炒店 妨礙安寧",
     "address_string": "林森路3段神府熱炒店",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-13 07:40:17",
     "expected_datetime": "2015-07-12 22:27:00"
 }
