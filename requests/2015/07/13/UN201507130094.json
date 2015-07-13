@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201507130094",
+    "requested_datetime": "2015-07-13 11:09:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "永康區南工街247巷1號前 台電孔蓋聲響",
+    "address_string": "永康區南工街247巷1號前",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-20 11:09:00"
+}
