@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201507130118",
+    "requested_datetime": "2015-07-13 11:55:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "交通運輸",
+    "address_string": "平生路53號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-13 11:55:00"
+}
