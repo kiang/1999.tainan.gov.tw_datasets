@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201507130312",
+    "requested_datetime": "2015-07-13 19:48:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區府東街與東門路158巷交接口 違規停車",
+    "address_string": "府東街與東門路158巷交接口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-13 19:48:00"
+}

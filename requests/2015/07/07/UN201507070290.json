@@ -7,7 +7,7 @@
     },
     "area": "新營區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局勤務指揮中心,臺南市政府警察局新營分局",
     "subproject": "違規停車",
     "description": "新營區東明街80巷口 違規停車",
     "address_string": "新營區東明街80巷口",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-07 23:09:00",
+    "updated_datetime": "2015-07-13 16:36:21",
     "expected_datetime": "2015-07-07 19:53:00"
 }

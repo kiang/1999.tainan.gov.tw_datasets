@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507130299",
+    "requested_datetime": "2015-07-13 19:02:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區和緯市場(中華北路路口) 違規停車",
+    "address_string": "704台灣台南市北區中華北路一段8-76號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-13 20:05:14",
+    "expected_datetime": "2015-07-13 19:02:00"
+}

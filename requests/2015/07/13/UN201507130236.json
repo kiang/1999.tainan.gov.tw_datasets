@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507130236",
+    "requested_datetime": "2015-07-13 16:07:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局第五分局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北門路二段591號(光武里活動中心)對面 違規停車",
+    "address_string": "北門路二段591號(光武里活動中心)對面",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-13 17:39:16",
+    "expected_datetime": "2015-07-13 16:07:00"
+}

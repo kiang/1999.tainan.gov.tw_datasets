@@ -7,7 +7,7 @@
     },
     "area": "東 區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第一分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區中華東路二段179號  違規停車",
     "address_string": "701台灣台南市東區中華東路二段179號",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-05 10:44:14",
+    "updated_datetime": "2015-07-13 21:41:03",
     "expected_datetime": "2015-07-05 09:47:00"
 }
