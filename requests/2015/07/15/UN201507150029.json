@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507150029",
+    "requested_datetime": "2015-07-15 08:25:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "柳營區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "柳營區環園東路二段 空氣汙染",
+    "address_string": "柳營區環園東路二段",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-15 17:30:53",
+    "expected_datetime": "2015-07-22 08:25:00"
+}

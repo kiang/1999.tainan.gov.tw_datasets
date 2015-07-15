@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507140078",
+    "requested_datetime": "2015-07-14 09:53:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區前鋒路 新樓醫院前方  違停",
+    "address_string": "東區前鋒路 新樓醫院前方",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-14 18:38:07",
+    "expected_datetime": "2015-07-21 09:53:00"
+}

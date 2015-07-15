@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507150307",
+    "requested_datetime": "2015-07-15 22:16:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區五福街33巷15號前(以及巷口處) 違停",
+    "address_string": "永康區五福街33巷15號前(以及巷口處)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-16 00:46:26",
+    "expected_datetime": "2015-07-22 22:16:00"
+}

@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507140279",
+    "requested_datetime": "2015-07-14 19:30:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "東區育樂街22號 空氣汙染",
+    "address_string": "東區育樂街22號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-15 13:42:31",
+    "expected_datetime": "2015-07-21 19:30:00"
+}

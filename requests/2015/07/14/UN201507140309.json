@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507140309",
+    "requested_datetime": "2015-07-14 21:55:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區忠義路一段85巷口 違停",
+    "address_string": "中西區忠義路一段85巷口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-15 04:24:02",
+    "expected_datetime": "2015-07-21 21:55:00"
+}

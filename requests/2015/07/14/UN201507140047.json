@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507140047",
+    "requested_datetime": "2015-07-14 09:08:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安南區安吉路轉台江大道 違停",
+    "address_string": "安南區安吉路轉台江大道",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-14 17:43:19",
+    "expected_datetime": "2015-07-21 09:08:00"
+}

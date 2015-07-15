@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507150118",
+    "requested_datetime": "2015-07-15 11:54:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "新市區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "道路散落物",
+    "description": "新市區新港社大道(南下路段紅橋下) 道路散落物",
+    "address_string": "新市區新港社大道(南下路段紅橋下)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-15 17:43:25",
+    "expected_datetime": "2015-07-22 11:54:00"
+}

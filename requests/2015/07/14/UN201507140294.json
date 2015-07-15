@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507140294",
+    "requested_datetime": "2015-07-14 20:44:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "學甲區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "道路散落物",
+    "description": "學甲區台19線北上117.1K的中間車道 道路散落物",
+    "address_string": "學甲區台19線北上117.1K的中間車道",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-15 09:33:26",
+    "expected_datetime": "2015-07-21 20:44:00"
+}

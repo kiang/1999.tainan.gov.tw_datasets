@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507150230",
+    "requested_datetime": "2015-07-15 16:37:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區慶東街87巷 違停",
+    "address_string": "東區慶東街87巷",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-15 19:27:04",
+    "expected_datetime": "2015-07-22 16:37:00"
+}

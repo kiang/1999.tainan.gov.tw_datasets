@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507150193",
+    "requested_datetime": "2015-07-15 15:26:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "東區裕農路跟裕農一街口 空氣汙染",
+    "address_string": "東區裕農路跟裕農一街口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-15 17:09:14",
+    "expected_datetime": "2015-07-22 15:26:00"
+}

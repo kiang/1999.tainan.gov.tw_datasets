@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507150088",
+    "requested_datetime": "2015-07-15 10:34:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "場所連續噪音",
+    "description": "東區生產路367巷13號 噪音",
+    "address_string": "東區生產路367巷13號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-15 17:06:40",
+    "expected_datetime": "2015-07-22 10:34:00"
+}

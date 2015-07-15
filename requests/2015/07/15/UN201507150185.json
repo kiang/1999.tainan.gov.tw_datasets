@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507150185",
+    "requested_datetime": "2015-07-15 15:19:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區文平路與怡平路口及華平路與慶平路 違停",
+    "address_string": "安平區文平路與怡平路口及華平路與慶平路",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-15 18:10:57",
+    "expected_datetime": "2015-07-22 15:19:00"
+}

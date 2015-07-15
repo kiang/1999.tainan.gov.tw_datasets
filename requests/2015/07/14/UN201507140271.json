@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507140271",
+    "requested_datetime": "2015-07-14 19:08:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "安平區中華西路二段7號 佔用道路",
+    "address_string": "安平區中華西路二段7號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-15 04:00:31",
+    "expected_datetime": "2015-07-21 19:08:00"
+}

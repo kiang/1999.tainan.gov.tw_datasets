@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507140090",
+    "requested_datetime": "2015-07-14 10:51:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "安平區平通路393巷16號 空氣汙染",
+    "address_string": "安平區平通路393巷16號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-15 09:13:14",
+    "expected_datetime": "2015-07-21 10:51:00"
+}

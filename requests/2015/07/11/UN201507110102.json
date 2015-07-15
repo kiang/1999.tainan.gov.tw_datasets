@@ -7,7 +7,7 @@
     },
     "area": "安南區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區民族路二段121-157號 違規停車",
     "address_string": "700台灣台南市中西區民族路二段121-157號",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-11 17:48:35",
+    "updated_datetime": "2015-07-14 14:14:42",
     "expected_datetime": "2015-07-11 12:35:00"
 }

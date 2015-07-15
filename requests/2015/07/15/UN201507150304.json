@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507150304",
+    "requested_datetime": "2015-07-15 21:56:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區復國二路芝麻街幼稚園後門 違停",
+    "address_string": "永康區復國二路芝麻街幼稚園後門",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-16 01:00:45",
+    "expected_datetime": "2015-07-15 21:56:00"
+}

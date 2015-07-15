@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201507130338",
     "requested_datetime": "2015-07-13 23:30:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "東區中華東路三段377巷10號(慈香庭餐廳)前 妨礙安寧",
     "address_string": "東區中華東路三段377巷10號(慈香庭餐廳)前",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-14 06:50:20",
     "expected_datetime": "2015-07-20 23:30:00"
 }

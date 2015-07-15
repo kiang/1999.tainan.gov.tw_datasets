@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507140131",
+    "requested_datetime": "2015-07-14 12:20:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "新化區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "新化區民治路82號 佔用道路",
+    "address_string": "新化區民治路82號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-14 17:47:16",
+    "expected_datetime": "2015-07-21 12:20:00"
+}

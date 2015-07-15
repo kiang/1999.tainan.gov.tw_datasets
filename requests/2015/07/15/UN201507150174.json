@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507150174",
+    "requested_datetime": "2015-07-15 14:50:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區後甲圓環往高速公路轉角處 違停",
+    "address_string": "東區後甲圓環往高速公路轉角處",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-15 17:49:31",
+    "expected_datetime": "2015-07-22 14:50:00"
+}

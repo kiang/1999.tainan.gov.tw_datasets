@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507150030",
+    "requested_datetime": "2015-07-15 08:24:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "北區忠義路三段81號 佔用騎樓",
+    "address_string": "北區忠義路三段81號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-15 16:29:59",
+    "expected_datetime": "2015-07-22 08:24:00"
+}

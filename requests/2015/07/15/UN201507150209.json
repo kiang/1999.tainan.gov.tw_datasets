@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507150209",
+    "requested_datetime": "2015-07-15 16:02:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區育樂街78號跟80號 違停",
+    "address_string": "東區育樂街78號跟80號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-15 19:46:48",
+    "expected_datetime": "2015-07-22 16:02:00"
+}
