@@ -9,13 +9,13 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "交通疏導",
-    "description": "北區開元路昆山中學往中山南路方向",
+    "description": "北區開元路昆山中學往中山南路方向 交通疏導",
     "address_string": "北區開元路昆山中學往中山南路方向",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-18 20:53:08",
+    "updated_datetime": "2015-07-18 20:53:00",
     "expected_datetime": "2015-07-25 17:09:00"
 }
