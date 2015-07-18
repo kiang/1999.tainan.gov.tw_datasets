@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507180081",
+    "requested_datetime": "2015-07-18 11:45:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "學甲區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "其他汙染舉發",
+    "description": "學甲區光華里筏子頭21-6號 水質汙染",
+    "address_string": "學甲區光華里筏子頭21-6號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-18 19:07:35",
+    "expected_datetime": "2015-07-25 11:45:00"
+}

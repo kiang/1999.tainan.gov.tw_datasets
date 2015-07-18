@@ -10,12 +10,12 @@
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新營區中正路與三民路口 違停",
-    "address_string": "中正路與三民路口",
+    "address_string": "新營區中正路與三民路口",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-15 22:06:08",
+    "updated_datetime": "2015-07-15 22:06:00",
     "expected_datetime": "2015-07-22 18:59:00"
 }

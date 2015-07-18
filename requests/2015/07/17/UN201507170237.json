@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507170237",
+    "requested_datetime": "2015-07-17 18:31:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "北區公園北路近兒童科學館的人行道 佔用道路",
+    "address_string": "北區公園北路近兒童科學館的人行道",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-17 20:28:22",
+    "expected_datetime": "2015-07-24 18:31:00"
+}

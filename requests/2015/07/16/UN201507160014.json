@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507160014",
+    "requested_datetime": "2015-07-16 08:16:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "中西區成功路377號 騎樓舉發",
+    "address_string": "成功路377號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-16 12:32:50",
+    "expected_datetime": "2015-07-16 08:16:00"
+}

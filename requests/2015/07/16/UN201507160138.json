@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507160138",
+    "requested_datetime": "2015-07-16 14:07:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "北區開元路485巷 髒亂及汙染",
+    "address_string": "開元路485巷(成大城建案)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-16 16:04:04",
+    "expected_datetime": "2015-07-16 14:07:00"
+}

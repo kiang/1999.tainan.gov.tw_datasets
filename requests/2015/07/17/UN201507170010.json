@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507170010",
+    "requested_datetime": "2015-07-17 06:28:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安南區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "安南區工業三路52號 空氣汙染",
+    "address_string": "安南區工業三路52號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-17 17:38:11",
+    "expected_datetime": "2015-07-24 06:28:00"
+}

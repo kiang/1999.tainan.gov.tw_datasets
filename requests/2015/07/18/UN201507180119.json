@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507180119",
+    "requested_datetime": "2015-07-18 13:58:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "北區西門路三段與民德路 交通疏導",
+    "address_string": "北區西門路三段與民德路",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-18 17:42:04",
+    "expected_datetime": "2015-07-25 13:58:00"
+}

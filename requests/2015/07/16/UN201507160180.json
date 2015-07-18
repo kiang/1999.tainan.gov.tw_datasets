@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507160180",
+    "requested_datetime": "2015-07-16 16:10:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "新營區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "新營區南85市道約3.5K往北方向   空氣汙染",
+    "address_string": "新營區南85市道約3.5K往北方向",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-17 15:27:50",
+    "expected_datetime": "2015-07-23 16:10:00"
+}

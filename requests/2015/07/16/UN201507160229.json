@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507160229",
+    "requested_datetime": "2015-07-16 18:56:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "10盞以上路燈故障",
+    "description": "東區後甲里626號 台南精忠三村一帶 路燈",
+    "address_string": "東區後甲里626號 台南精忠三村一帶",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-17 14:40:21",
+    "expected_datetime": "2015-07-23 18:56:00"
+}

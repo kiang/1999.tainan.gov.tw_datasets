@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507180095",
+    "requested_datetime": "2015-07-18 12:49:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "仁德區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "仁德區中山路758巷口 佔用道路",
+    "address_string": "仁德區中山路758巷口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-18 17:28:57",
+    "expected_datetime": "2015-07-25 12:49:00"
+}

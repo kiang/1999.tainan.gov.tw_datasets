@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507170203",
+    "requested_datetime": "2015-07-17 16:52:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "仁德區全福路23號轉角 違停",
+    "address_string": "仁德區全福路23號轉角",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-17 20:26:05",
+    "expected_datetime": "2015-07-24 16:52:00"
+}

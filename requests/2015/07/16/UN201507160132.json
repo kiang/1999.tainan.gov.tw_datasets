@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507160132",
+    "requested_datetime": "2015-07-16 13:54:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "安平區永華十街51號前方  坑洞",
+    "address_string": "安平區永華十街51號前方",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-17 15:40:42",
+    "expected_datetime": "2015-07-23 13:54:00"
+}

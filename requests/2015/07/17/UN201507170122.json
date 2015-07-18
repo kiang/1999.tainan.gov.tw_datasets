@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507170122",
+    "requested_datetime": "2015-07-17 12:34:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區大興街150號-172號對面 違停",
+    "address_string": "北區大興街150號-172號對面",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-17 17:54:40",
+    "expected_datetime": "2015-07-24 12:34:00"
+}

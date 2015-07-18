@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507160230",
+    "requested_datetime": "2015-07-16 19:17:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區海安路二段從成功路至民族路三段 違停",
+    "address_string": "中西區海安路二段從成功路至民族路三段",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-16 19:27:00",
+    "expected_datetime": "2015-07-23 19:17:00"
+}

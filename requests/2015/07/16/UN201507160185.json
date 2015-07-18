@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507160185",
+    "requested_datetime": "2015-07-16 16:47:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安南區海佃路一段與188巷\/218巷交叉路口   違規停車",
+    "address_string": "海佃路一段與188巷\/218巷交叉路口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-16 17:25:32",
+    "expected_datetime": "2015-07-16 16:47:00"
+}

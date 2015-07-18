@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507170272",
+    "requested_datetime": "2015-07-17 21:35:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "南 區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "台灣台南市南區三官路7巷25號對面 佔用道路",
+    "address_string": "台灣台南市南區三官路7巷25號對面",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-18 01:10:41",
+    "expected_datetime": "2015-07-17 21:35:00"
+}

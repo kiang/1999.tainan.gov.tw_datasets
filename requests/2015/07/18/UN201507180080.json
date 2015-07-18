@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507180080",
+    "requested_datetime": "2015-07-18 12:01:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "南區永春街\/德興路\/永仁街 佔用道路",
+    "address_string": "南區永春街\/德興路\/永仁街",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-18 17:24:50",
+    "expected_datetime": "2015-07-25 12:01:00"
+}

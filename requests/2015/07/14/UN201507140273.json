@@ -7,7 +7,7 @@
     },
     "area": "南 區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第六分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "南區健康路二段135號 違規停車",
     "address_string": "702台灣台南市南區健康路二段135號",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-15 03:55:58",
+    "updated_datetime": "2015-07-17 15:40:22",
     "expected_datetime": "2015-07-14 19:15:00"
 }

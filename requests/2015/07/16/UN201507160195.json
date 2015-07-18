@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507160195",
+    "requested_datetime": "2015-07-16 17:05:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區安平路850巷4弄  違規停車",
+    "address_string": "安平區安平路850巷4弄",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-16 17:25:00",
+    "expected_datetime": "2015-07-23 17:05:00"
+}

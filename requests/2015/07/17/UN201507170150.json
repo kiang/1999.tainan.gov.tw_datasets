@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507170150",
+    "requested_datetime": "2015-07-17 14:28:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區成功路289號 違停",
+    "address_string": "700台灣台南市中西區成功路289號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-17 18:04:41",
+    "expected_datetime": "2015-07-17 14:28:00"
+}

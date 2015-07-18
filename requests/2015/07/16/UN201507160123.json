@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507160123",
+    "requested_datetime": "2015-07-16 13:27:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面掏空、塌陷",
+    "description": "中西區開山路95號之1 掏空",
+    "address_string": "中西區開山路95號之1",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-16 17:34:16",
+    "expected_datetime": "2015-07-23 13:27:00"
+}

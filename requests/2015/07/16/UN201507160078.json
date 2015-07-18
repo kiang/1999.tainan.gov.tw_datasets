@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507160078",
+    "requested_datetime": "2015-07-16 10:49:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "永康區中山南路195巷巷內  佔用道路",
+    "address_string": "永康區中山南路195巷巷內",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-16 12:32:00",
+    "expected_datetime": "2015-07-23 10:49:00"
+}

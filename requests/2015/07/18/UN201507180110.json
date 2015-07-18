@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507180110",
+    "requested_datetime": "2015-07-18 13:38:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區西門路一段637號前 違停",
+    "address_string": "南區西門路一段637號前",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-18 17:39:56",
+    "expected_datetime": "2015-07-25 13:38:00"
+}

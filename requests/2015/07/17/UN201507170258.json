@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507170258",
+    "requested_datetime": "2015-07-17 20:03:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "永康區勝利街197巷45號 妨礙安寧",
+    "address_string": "永康區勝利街197巷45號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-17 20:34:00",
+    "expected_datetime": "2015-07-24 20:03:00"
+}

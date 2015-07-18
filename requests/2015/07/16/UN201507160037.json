@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507160037",
+    "requested_datetime": "2015-07-16 08:55:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "玉井區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "玉井區竹圍里中正路660巷內 路燈不亮",
+    "address_string": "玉井區竹圍里中正路660巷內",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-17 16:06:05",
+    "expected_datetime": "2015-07-23 08:55:00"
+}

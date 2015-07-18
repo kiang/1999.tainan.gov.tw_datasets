@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507160264",
+    "requested_datetime": "2015-07-16 23:02:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "台南市安平區華平路738號與711號的交接處 騎樓舉發",
+    "address_string": "台南市華平路738號與711的交接處",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-17 06:35:27",
+    "expected_datetime": "2015-07-16 23:02:00"
+}
