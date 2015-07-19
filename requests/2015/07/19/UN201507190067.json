@@ -9,13 +9,13 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "東區東門路三段37巷55弄口",
+    "description": "東區東門路三段37巷55弄口 違停",
     "address_string": "東區東門路三段37巷55弄口",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-20 02:31:09",
+    "updated_datetime": "2015-07-20 02:31:00",
     "expected_datetime": "2015-07-26 12:00:00"
 }

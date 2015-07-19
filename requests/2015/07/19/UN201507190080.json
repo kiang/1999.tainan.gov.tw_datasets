@@ -9,13 +9,13 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "東區崇學路131號與133號中間",
+    "description": "東區崇學路131號與133號中間 違停",
     "address_string": "東區崇學路131號與133號中間",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-20 02:25:45",
+    "updated_datetime": "2015-07-20 02:25:00",
     "expected_datetime": "2015-07-26 13:20:00"
 }
