@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201507200230",
     "requested_datetime": "2015-07-20 13:18:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "東區裕德街(仁德交流道下到裕農路這段) 道路散落物",
     "address_string": "東區裕德街(仁德交流道下到裕農路這段)",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-20 16:47:39",
     "expected_datetime": "2015-07-27 13:18:00"
 }
