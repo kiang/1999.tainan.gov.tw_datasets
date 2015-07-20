@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201507200075",
     "requested_datetime": "2015-07-20 08:16:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "新營區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "新營區民治路及三興街口 號誌",
     "address_string": "民治路及三興街口",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-20 09:55:47",
     "expected_datetime": "2015-07-20 08:16:00"
 }
