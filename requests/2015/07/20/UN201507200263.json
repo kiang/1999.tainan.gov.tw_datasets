@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201507200263",
+    "requested_datetime": "2015-07-20 14:23:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "六甲區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "六甲區中正路845巷3號  煩礙安寧",
+    "address_string": "六甲區中正路845巷3號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-27 14:23:00"
+}
