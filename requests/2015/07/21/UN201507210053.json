@@ -6,11 +6,13 @@
 
     },
     "area": "安南區",
-    "service_name": "民生管線",
+    "service_name": {
+
+    },
     "agency": "台南市政府",
-    "subproject": "瓦斯管溝修補、孔蓋鬆動",
-    "description": "安南區工學路2段80號  孔蓋脫落",
-    "address_string": "安南區工學路2段80號",
+    "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
+    "description": "安南區公學路2段80號  孔蓋脫落",
+    "address_string": "安南區公學路2段80號",
     "lat": "0",
     "long": "0",
     "service_notice": {
