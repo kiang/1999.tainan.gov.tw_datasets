@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201507210118",
+    "requested_datetime": "2015-07-21 12:06:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "中西區海安路一段66號-矮仔成蝦仁飯\/中西區府前路跟海安路口-第一魚湯前 佔用道路",
+    "address_string": "中西區海安路一段66號-矮仔成蝦仁飯\/中西區府前路跟海安路口-第一魚湯前",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-28 12:06:00"
+}
