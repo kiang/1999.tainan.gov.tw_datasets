@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201507200348",
     "requested_datetime": "2015-07-20 17:52:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "東區勝利路10號(勝利國小)前 號誌故障",
     "address_string": "東區勝利路10號(勝利國小)前",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-21 10:22:45",
     "expected_datetime": "2015-07-27 17:52:00"
 }
