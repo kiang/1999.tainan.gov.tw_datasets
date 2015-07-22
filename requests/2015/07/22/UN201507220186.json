@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201507220186",
+    "requested_datetime": "2015-07-22 15:58:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "安平區漁光路114號 中華電信線路掉落、電信桿傾倒",
+    "address_string": "安平區漁光路114號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-29 15:58:00"
+}
