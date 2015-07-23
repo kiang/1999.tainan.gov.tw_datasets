@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507230011",
+    "requested_datetime": "2015-07-23 07:07:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區西華街18號 違停",
+    "address_string": "北區西華街18號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-23 07:34:50",
+    "expected_datetime": "2015-07-30 07:07:00"
+}
