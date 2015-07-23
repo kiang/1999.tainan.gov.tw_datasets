@@ -7,7 +7,7 @@
     },
     "area": "永康區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路樹傾倒",
     "description": "永康區崑大路155巷口 路樹",
     "address_string": "永康區崑大路155巷口",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-20 15:04:48",
+    "updated_datetime": "2015-07-23 14:05:50",
     "expected_datetime": "2015-07-27 06:38:00"
 }
