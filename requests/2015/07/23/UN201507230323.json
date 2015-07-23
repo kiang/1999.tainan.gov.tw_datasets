@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201507230323",
     "requested_datetime": "2015-07-23 19:44:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "中西區府前路一段283號3樓韻律室 妨礙安寧",
     "address_string": "中西區府前路一段283號3樓韻律室",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-23 23:40:27",
     "expected_datetime": "2015-07-30 19:44:00"
 }
