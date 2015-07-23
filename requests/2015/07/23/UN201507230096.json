@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201507230096",
+    "requested_datetime": "2015-07-23 10:16:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "寬頻管線、孔蓋損壞",
+    "description": "中西區永華路一段326號   水溝蓋毀損",
+    "address_string": "中西區永華路一段326號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-30 10:16:00"
+}
