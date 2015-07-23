@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201507210304",
     "requested_datetime": "2015-07-21 22:09:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "中西區新美街與西門路300巷 路燈故障",
     "address_string": "700台灣台南市中西區新美街99-117號",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-23 09:36:11",
     "expected_datetime": "2015-07-21 22:09:00"
 }
