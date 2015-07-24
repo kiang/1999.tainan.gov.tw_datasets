@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201507240307",
+    "requested_datetime": "2015-07-24 21:07:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "東區中華東路二段295巷口\/中西區國華街四段跟成功路路口 路面坑洞",
+    "address_string": "東區中華東路二段295巷口\/中西區國華街四段跟成功路路口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-31 21:07:00"
+}
