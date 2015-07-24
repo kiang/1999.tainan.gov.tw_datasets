@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201507240265",
+    "requested_datetime": "2015-07-24 17:48:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "東 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "台湾省台南市东区崇善十二街6巷15弄11号",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-24 17:48:00"
+}
