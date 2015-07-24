@@ -9,13 +9,13 @@
     "service_name": "交通運輸",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "交通疏導",
-    "description": "東區東門路二段仁 和路中華東路交叉處 仁和路口塞車",
-    "address_string": "東區東門路二段仁 和路中華東路交叉處 仁和路口塞車",
+    "description": "東區東門路二段仁和路中華東路交叉處 仁和路口塞車",
+    "address_string": "東區東門路二段仁和路中華東路交叉處 仁和路口塞車",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-21 19:07:37",
+    "updated_datetime": "2015-07-21 19:07:00",
     "expected_datetime": "2015-07-28 17:37:00"
 }
