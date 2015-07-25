@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201507250036",
     "requested_datetime": "2015-07-25 09:28:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "南區建南路跟金華路交叉口全家超商後面 違規停車",
     "address_string": "建南路跟金華路交叉口全家超商後面7173-PX",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-25 12:11:43",
     "expected_datetime": "2015-07-25 09:28:00"
 }
