@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507250210",
+    "requested_datetime": "2015-07-25 21:08:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區文成路和和緯路三段180巷口交叉口 違停",
+    "address_string": "北區文成路和和緯路三段180巷口交叉口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-25 21:45:07",
+    "expected_datetime": "2015-08-01 21:08:00"
+}
