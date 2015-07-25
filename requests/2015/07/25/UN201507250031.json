@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201507250031",
+    "requested_datetime": "2015-07-25 09:11:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "麻豆區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府交通局,臺南市政府衛生局,臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "麻豆區磚井里磚子井141-21號(勝弘輪胎店)旁 佔用道路",
+    "address_string": "麻豆區磚井里磚子井141-21號(勝弘輪胎店)旁",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-07-25 10:58:43",
+    "expected_datetime": "2015-08-01 09:11:00"
+}
