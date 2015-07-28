@@ -1,25 +1,21 @@
 {
     "service_request_id": "UN201507280135",
     "requested_datetime": "2015-07-28 11:57:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "南 區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "違規停車",
+    "description": "南區新孝路128號 違規停車",
     "address_string": "702台灣台南市南區新孝路128號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-28 12:33:39",
     "expected_datetime": "2015-07-28 11:57:00"
 }
