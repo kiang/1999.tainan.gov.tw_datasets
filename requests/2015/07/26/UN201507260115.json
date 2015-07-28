@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201507260115",
     "requested_datetime": "2015-07-26 16:50:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "東區中華東路跟東光路中間的凱旋路 道路維修",
     "address_string": "中華東路跟東光路中間的凱旋路",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-28 09:13:52",
     "expected_datetime": "2015-07-26 16:50:00"
 }

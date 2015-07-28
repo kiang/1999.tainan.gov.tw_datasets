@@ -5,20 +5,12 @@
     "keyword": {
 
     },
-    "area": {
-
-    },
-    "service_name": {
-
-    },
+    "area": "北區",
+    "service_name": "民生管線",
     "agency": "台南市政府",
-    "subproject": {
-
-    },
-    "description": "污水孔蓋",
-    "address_string": {
-
-    },
+    "subproject": "人孔蓋聲響、凹陷、漏水",
+    "description": "北區育德路503號對面路中央 污水孔蓋",
+    "address_string": "北區育德路503號對面路中央",
     "lat": "0",
     "long": "0",
     "service_notice": {
