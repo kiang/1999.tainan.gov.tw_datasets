@@ -5,21 +5,17 @@
     "keyword": {
 
     },
-    "area": {
-
-    },
+    "area": "東區",
     "service_name": "噪音舉發",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
-    "description": "妨礙安寧",
-    "address_string": {
-
-    },
+    "description": "東區自由路二段175巷38弄6號 妨礙安寧",
+    "address_string": "東區自由路二段175巷38弄6號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-28 10:36:59",
+    "updated_datetime": "2015-07-28 10:36:00",
     "expected_datetime": "2015-08-04 07:31:00"
 }
