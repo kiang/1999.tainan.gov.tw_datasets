@@ -9,13 +9,13 @@
     "service_name": "噪音舉發",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
-    "description": "東區崇德十六街17號",
+    "description": "東區崇德十六街17號 妨礙安寧",
     "address_string": "東區崇德十六街17號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-29 17:41:06",
+    "updated_datetime": "2015-07-29 17:41:00",
     "expected_datetime": "2015-08-05 10:35:00"
 }

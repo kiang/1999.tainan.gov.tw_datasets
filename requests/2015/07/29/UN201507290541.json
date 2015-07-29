@@ -9,8 +9,8 @@
     "service_name": "交通運輸",
     "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
-    "description": "南區中華西路*清水路",
-    "address_string": "南區中華西路*清水路",
+    "description": "南區中華西路與清水路口 號誌故障",
+    "address_string": "南區中華西路與清水路口",
     "lat": "0",
     "long": "0",
     "service_notice": {
