@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201507290391",
     "requested_datetime": "2015-07-29 09:38:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區柴頭港溪防汛道路(勝華街到新興街) 違規停車",
     "address_string": "柴頭港溪防汛道路(勝華街到新興街)",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-29 17:35:53",
     "expected_datetime": "2015-07-29 09:38:00"
 }

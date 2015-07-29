@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201507290358",
     "requested_datetime": "2015-07-29 08:36:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區林森路三段460號到開元路 違停",
     "address_string": "北區林森路三段460號到開元路",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-29 17:28:54",
     "expected_datetime": "2015-08-05 08:36:00"
 }
