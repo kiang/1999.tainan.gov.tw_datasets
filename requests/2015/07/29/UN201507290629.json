@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201507290629",
     "requested_datetime": "2015-07-29 19:42:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "中西區西門路和民族路交叉口圓環 號誌",
     "address_string": "中西區西門路和民族路交叉口圓環",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-30 14:01:57",
     "expected_datetime": "2015-08-05 19:42:00"
 }
