@@ -7,7 +7,7 @@
     },
     "area": "東區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府水利局",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "東區府連路(府連地下道內) 漏水",
     "address_string": "東區府連路(府連地下道內)",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-07-29 17:17:08",
+    "updated_datetime": "2015-07-30 10:14:23",
     "expected_datetime": "2015-08-02 20:19:00"
 }
