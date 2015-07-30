@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201507300270",
+    "requested_datetime": "2015-07-30 18:59:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區衛民街106^154號、衛民街121^149號紅黃線違停  違規停車",
+    "address_string": "衛民街",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-07-30 18:59:00"
+}
