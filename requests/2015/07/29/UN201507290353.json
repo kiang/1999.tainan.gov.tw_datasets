@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201507290353",
     "requested_datetime": "2015-07-29 07:16:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "麻豆區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
     "description": "麻豆區南勢里87之12號 動物救援",
     "address_string": "麻豆區南勢里87之12號",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-07-30 08:39:59",
     "expected_datetime": "2015-08-05 07:16:00"
 }
