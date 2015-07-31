@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201507310100",
+    "requested_datetime": "2015-07-31 11:03:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區金華路五段13號與15號 佔用道路",
+    "address_string": "金華路五段13號與15號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-08-07 11:03:00"
+}
