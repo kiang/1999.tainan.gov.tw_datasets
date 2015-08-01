@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201508010144",
+    "requested_datetime": "2015-08-01 13:24:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區金華路一段352巷34弄50號 違停",
+    "address_string": "金華路一段352巷34弄50號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-08-01 14:24:22",
+    "expected_datetime": "2015-08-08 13:24:00"
+}
