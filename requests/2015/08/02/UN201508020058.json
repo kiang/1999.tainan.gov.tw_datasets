@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201508020058",
     "requested_datetime": "2015-08-02 10:36:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "道路散落物",
     "description": "中西區西門路口一段，從民生路到健康路段　路面油漬",
     "address_string": "中西區西門路口一段，從民生路到健康路段",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-02 16:21:43",
     "expected_datetime": "2015-08-09 10:36:00"
 }
