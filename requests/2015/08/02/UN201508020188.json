@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201508020188",
+    "requested_datetime": "2015-08-02 19:51:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "安平區慶平路(從健康三街口到裕平路口) 電線垂落",
+    "address_string": "安平區慶平路(從健康三街口到裕平路口)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-08-09 19:51:00"
+}
