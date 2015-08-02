@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201508020107",
+    "requested_datetime": "2015-08-02 12:00:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "安定區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "安定區管寮里 空氣汙染",
+    "address_string": "安定區管寮里",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-08-09 12:00:00"
+}
