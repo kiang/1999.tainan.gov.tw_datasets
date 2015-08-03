@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201508030316",
     "requested_datetime": "2015-08-03 21:40:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區青年路近北門路一段路口 違規停車",
     "address_string": "700台灣台南市中西區青年路228號",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-04 03:34:40",
     "expected_datetime": "2015-08-03 21:40:00"
 }
