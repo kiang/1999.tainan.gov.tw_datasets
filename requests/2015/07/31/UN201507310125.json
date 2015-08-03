@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201507310125",
     "requested_datetime": "2015-07-31 11:56:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "南區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "南區鯤鯓路與清水路路口(主要在鯤鯓路上往村落的方向) 路燈",
     "address_string": "鯤鯓路與清水路路口(主要在鯤鯓路上往村落的方向)",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-03 10:28:38",
     "expected_datetime": "2015-08-07 11:56:00"
 }
