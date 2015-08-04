@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201508040066",
+    "requested_datetime": "2015-08-04 09:49:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "騎樓舉發",
+    "agency": "台南市政府",
+    "subproject": "騎樓舉發",
+    "description": "東區府連路309號 佔用騎樓 空氣汙染",
+    "address_string": "東區府連路309號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-08-11 09:49:00"
+}
