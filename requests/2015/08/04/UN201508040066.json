@@ -9,13 +9,13 @@
     "service_name": "騎樓舉發",
     "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
-    "description": "東區府連路309號 佔用騎樓 空氣汙染",
+    "description": "東區府連路309號 佔用騎樓\/空氣汙染",
     "address_string": "東區府連路309號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-04 14:09:09",
+    "updated_datetime": "2015-08-04 14:09:00",
     "expected_datetime": "2015-08-11 09:49:00"
 }
