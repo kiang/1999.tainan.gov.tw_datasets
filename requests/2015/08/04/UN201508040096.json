@@ -5,20 +5,12 @@
     "keyword": {
 
     },
-    "area": {
-
-    },
-    "service_name": {
-
-    },
-    "agency": "臺南市鹽水區公所",
-    "subproject": {
-
-    },
+    "area": "鹽水區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
     "description": "鹽水區後宅里番子寮路燈編號103號 路燈",
-    "address_string": {
-
-    },
+    "address_string": "鹽水區後宅里番子寮路燈編號103號",
     "lat": "0",
     "long": "0",
     "service_notice": {
