@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201508040156",
+    "requested_datetime": "2015-08-04 13:25:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "北區長榮路五段415號  佔用騎樓",
+    "address_string": "北區長榮路五段415號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-08-11 13:25:00"
+}
