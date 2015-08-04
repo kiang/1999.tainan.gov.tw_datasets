@@ -9,13 +9,13 @@
     "service_name": "交通運輸",
     "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
-    "description": "歸仁區看東里忠孝南路32號旁 佔用道路 環境髒亂",
+    "description": "歸仁區看東里忠孝南路32號旁 佔用道路 \/ 環境髒亂",
     "address_string": "歸仁區看東里忠孝南路32號旁",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-04 13:42:16",
+    "updated_datetime": "2015-08-04 13:42:00",
     "expected_datetime": "2015-08-11 08:13:00"
 }

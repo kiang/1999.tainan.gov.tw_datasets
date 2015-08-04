@@ -9,13 +9,13 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "中西區南門路68巷口內(7-11門口)",
+    "description": "中西區南門路68巷口內(7-11門口) 違停",
     "address_string": "中西區南門路68巷口內(7-11門口)",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-04 13:45:48",
+    "updated_datetime": "2015-08-04 13:45:00",
     "expected_datetime": "2015-08-11 09:05:00"
 }

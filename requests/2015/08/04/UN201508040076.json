@@ -6,9 +6,7 @@
 
     },
     "area": "安平區",
-    "service_name": {
-
-    },
+    "service_name": "道路維修",
     "agency": "台南市政府",
     "subproject": "人孔蓋聲響、凹陷、漏水",
     "description": ":安平區健康路三段上近健康三街口 污水孔蓋",
@@ -18,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-04 11:29:59",
+    "updated_datetime": "2015-08-04 11:29:00",
     "expected_datetime": "2015-08-11 10:10:00"
 }
