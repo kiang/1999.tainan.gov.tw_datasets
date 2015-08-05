@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201508020089",
     "requested_datetime": "2015-08-02 11:59:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "安南區總安街二段315巷1號 噪音",
     "address_string": "總安街二段315巷1號",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-05 09:49:39",
     "expected_datetime": "2015-08-02 11:59:00"
 }
