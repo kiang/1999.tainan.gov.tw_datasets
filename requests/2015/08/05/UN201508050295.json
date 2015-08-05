@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201508050295",
+    "requested_datetime": "2015-08-05 17:05:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區中山路143號週邊\/166號週邊  違規停車",
+    "address_string": "中西區中山路143號週邊\/166號週邊",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-08-05 17:37:23",
+    "expected_datetime": "2015-08-05 17:05:00"
+}
