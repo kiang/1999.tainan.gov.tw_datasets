@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201508050092",
+    "requested_datetime": "2015-08-05 09:32:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局,臺南市政府警察局勤務指揮中心",
+    "subproject": "號誌故障",
+    "description": "永康區大灣交流道附近交流道 交通疏導\/號誌故障",
+    "address_string": "永康區大灣交流道附近交流道",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-08-05 10:39:00",
+    "expected_datetime": "2015-08-12 09:32:00"
+}
