@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201508050345",
+    "requested_datetime": "2015-08-05 19:25:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區林森路一段(地下道)路口～府連路235號(地下道)路口沿著鐵軌旁 違規停車",
+    "address_string": "東區林森路一段(地下道)路口～府連路235號(地下道)路口沿著鐵軌旁",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-08-05 19:38:26",
+    "expected_datetime": "2015-08-05 19:25:00"
+}

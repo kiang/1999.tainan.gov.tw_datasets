@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201508050350",
+    "requested_datetime": "2015-08-05 19:41:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "佳里區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "佳里區光復路121號(義大利麵餐廳)前 違規停車",
+    "address_string": "佳里區光復路121號(義大利麵餐廳)前",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-08-05 19:41:00"
+}
