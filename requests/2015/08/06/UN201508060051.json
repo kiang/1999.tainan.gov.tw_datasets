@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201508060051",
     "requested_datetime": "2015-08-06 09:15:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "北 區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區北門路一段314號 違停",
     "address_string": "701台灣台南市東區北門路一段314號",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-06 11:41:33",
     "expected_datetime": "2015-08-06 09:15:00"
 }
