@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201508060014",
+    "requested_datetime": "2015-08-06 07:23:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "仁德區德安路32巷巷口 違停",
+    "address_string": "德安路32巷巷口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-08-06 08:34:49",
+    "expected_datetime": "2015-08-13 07:23:00"
+}
