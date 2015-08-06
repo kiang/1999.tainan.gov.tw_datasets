@@ -9,8 +9,8 @@
     "service_name": "道路維修",
     "agency": "台南市政府",
     "subproject": "路面坑洞",
-    "description": "東區仁和路80號^90號對面車道 坑洞",
-    "address_string": "仁和路80號^90號對面車道",
+    "description": "東區仁和路80號至90號對面車道 坑洞",
+    "address_string": "仁和路80號至90號對面車道",
     "lat": "0",
     "long": "0",
     "service_notice": {
