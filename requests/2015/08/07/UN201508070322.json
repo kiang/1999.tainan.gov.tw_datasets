@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201508070322",
+    "requested_datetime": "2015-08-07 18:47:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "六甲區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "六甲區水林里林森街24巷3號 環境髒亂\/佔用道路",
+    "address_string": "六甲區水林里林森街24巷3號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-08-07 21:56:22",
+    "expected_datetime": "2015-08-14 18:47:00"
+}
