@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201508070037",
+    "requested_datetime": "2015-08-07 08:27:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "將軍區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "將軍區西華里1-1號  坑洞",
+    "address_string": "將軍區西華里1-1號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-08-14 08:27:00"
+}
