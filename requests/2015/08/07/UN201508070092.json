@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201508070092",
+    "requested_datetime": "2015-08-07 10:35:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "永康區中正南路453巷 家樂福後方   鐵片噪音",
+    "address_string": "永康區中正南路453巷 家樂福後方",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-08-14 10:35:00"
+}
