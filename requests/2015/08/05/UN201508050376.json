@@ -7,7 +7,7 @@
     },
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區青年路近北門路一段路口合作金庫銀行旁 違規停車",
     "address_string": "中西區青年路近北門路一段路口合作金庫銀行旁",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-06 07:34:33",
+    "updated_datetime": "2015-08-07 18:37:26",
     "expected_datetime": "2015-08-05 21:29:00"
 }

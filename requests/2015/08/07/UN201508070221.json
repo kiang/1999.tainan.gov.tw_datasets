@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201508070221",
     "requested_datetime": "2015-08-07 14:58:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "大武街與正新街交岔路口週邊 違規停車",
     "address_string": "大武街與正新街交岔路口週邊",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-07 18:20:59",
     "expected_datetime": "2015-08-07 14:58:00"
 }
