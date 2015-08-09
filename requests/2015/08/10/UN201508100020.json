@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201508100020",
+    "requested_datetime": "2015-08-10 06:21:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "仁德區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "仁德區太乙工業區 空氣汙染",
+    "address_string": "仁德區太乙工業區",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-08-17 06:21:00"
+}
