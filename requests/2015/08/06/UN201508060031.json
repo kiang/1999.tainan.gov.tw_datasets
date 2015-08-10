@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201508060031",
     "requested_datetime": "2015-08-06 08:24:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
@@ -11,7 +11,7 @@
     "service_name": {
 
     },
-    "agency": "台南市政府",
+    "agency": "臺南市政府水利局",
     "subproject": {
 
     },
@@ -24,8 +24,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-10 11:33:05",
     "expected_datetime": "2015-08-13 08:24:00"
 }
