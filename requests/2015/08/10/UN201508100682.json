@@ -1,21 +1,21 @@
 {
-    "service_request_id": "UN201508100626",
-    "requested_datetime": "2015-08-10 17:40:00",
+    "service_request_id": "UN201508100682",
+    "requested_datetime": "2015-08-10 18:58:00",
     "status": "已完工",
     "keyword": {
 
     },
-    "area": "東 區",
+    "area": "中西區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "違規停車",
-    "address_string": "701台灣台南市東區崇德路130號",
+    "address_string": "台南市中西區西門路2段387號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-10 19:48:31",
-    "expected_datetime": "2015-08-10 17:40:00"
+    "updated_datetime": "2015-08-10 19:50:01",
+    "expected_datetime": "2015-08-10 18:58:00"
 }
