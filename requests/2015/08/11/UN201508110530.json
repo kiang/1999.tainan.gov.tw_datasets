@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201508110530",
+    "requested_datetime": "2015-08-11 23:48:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區長榮路一段\/府東街的轉角人行道 違停",
+    "address_string": "東長榮路一段\/府東街的轉角人行道",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-08-18 23:48:00"
+}
