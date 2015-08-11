@@ -9,13 +9,13 @@
     "service_name": "交通運輸",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
-    "description": "交通運輸",
+    "description": "北區長榮路五段282號週邊 佔用道路",
     "address_string": "長榮路五段282號週邊",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-11 10:47:02",
+    "updated_datetime": "2015-08-11 10:47:00",
     "expected_datetime": "2015-08-11 08:23:00"
 }
