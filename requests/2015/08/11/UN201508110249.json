@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201508110249",
     "requested_datetime": "2015-08-11 13:24:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平樹屋對面 違停",
     "address_string": "樹屋對面",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-11 17:53:44",
     "expected_datetime": "2015-08-18 13:24:00"
 }
