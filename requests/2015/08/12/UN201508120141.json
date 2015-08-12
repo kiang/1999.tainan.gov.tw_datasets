@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201508120141",
+    "requested_datetime": "2015-08-12 11:17:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區開元路(長榮路到前鋒路)  違規停車",
+    "address_string": "開元路(長榮路到前鋒路)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-08-12 11:17:00"
+}
