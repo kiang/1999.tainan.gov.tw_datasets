@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201508110394",
     "requested_datetime": "2015-08-11 17:01:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "其他汙染舉發",
     "description": "永康區六合路42巷22號後方 汙染舉發",
     "address_string": "六合路42巷22號後方",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-12 20:46:59",
     "expected_datetime": "2015-08-18 17:01:00"
 }
