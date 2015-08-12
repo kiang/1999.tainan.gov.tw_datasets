@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201508120266",
+    "requested_datetime": "2015-08-12 15:43:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "北區海安路三段靠近海安路三段181巷 坑洞",
+    "address_string": "海安路三段靠近海安路三段181巷",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-08-12 15:43:00"
+}
