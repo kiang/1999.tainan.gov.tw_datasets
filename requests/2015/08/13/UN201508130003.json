@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201508130003",
     "requested_datetime": "2015-08-13 00:42:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "北 區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市北區區公所,臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "北區大港街38巷15弄4號 妨礙安寧",
     "address_string": "704台灣台南市北區大港街38巷15弄4號",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-13 02:58:20",
     "expected_datetime": "2015-08-13 00:42:00"
 }
