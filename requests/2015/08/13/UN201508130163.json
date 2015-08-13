@@ -9,13 +9,13 @@
     "service_name": "騎樓舉發",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
-    "description": "騎樓舉發",
-    "address_string": "中正路與國華街交叉口",
+    "description": "中西區中正路與國華街交叉口 佔用道路",
+    "address_string": "中西區中正路與國華街交叉口",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-13 16:32:58",
+    "updated_datetime": "2015-08-13 16:32:00",
     "expected_datetime": "2015-08-13 11:54:00"
 }

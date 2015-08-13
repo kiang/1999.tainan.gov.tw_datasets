@@ -9,13 +9,13 @@
     "service_name": "噪音舉發",
     "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
-    "description": "噪音舉發",
-    "address_string": "崇德二十一街132號附近工地",
+    "description": "東區崇德二十一街132號附近工地 噪音舉發",
+    "address_string": "東區崇德二十一街132號附近工地",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-13 16:58:38",
+    "updated_datetime": "2015-08-13 16:58:00",
     "expected_datetime": "2015-08-13 07:41:00"
 }
