@@ -9,13 +9,13 @@
     "service_name": "交通運輸",
     "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
-    "description": "麻豆區新生南路*中正路 號誌都不亮",
+    "description": "麻豆區新生南路*中正路 號誌故障",
     "address_string": "麻豆區新生南路*中正路",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-13 16:38:43",
+    "updated_datetime": "2015-08-13 16:38:00",
     "expected_datetime": "2015-08-20 08:17:00"
 }
