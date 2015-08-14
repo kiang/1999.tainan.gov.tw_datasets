@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201508140250",
     "requested_datetime": "2015-08-14 15:08:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中山路117號週邊 違規停車",
     "address_string": "中山路117號週邊",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-14 18:30:33",
     "expected_datetime": "2015-08-14 15:08:00"
 }

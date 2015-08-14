@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201508140319",
+    "requested_datetime": "2015-08-14 17:59:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "新營區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "新營區護鎮里58號 電線垂落",
+    "address_string": "新營區護鎮里58號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-08-21 17:59:00"
+}
