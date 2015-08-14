@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201508140094",
     "requested_datetime": "2015-08-14 10:18:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區民生路二段28號違規停車",
     "address_string": "700台灣台南市中西區民生路二段28號",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-14 12:36:12",
     "expected_datetime": "2015-08-14 10:18:00"
 }
