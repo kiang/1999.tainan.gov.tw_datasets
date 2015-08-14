@@ -5,20 +5,12 @@
     "keyword": {
 
     },
-    "area": {
-
-    },
-    "service_name": {
-
-    },
-    "agency": "臺南市政府交通局",
-    "subproject": {
-
-    },
-    "description": "號誌",
-    "address_string": {
-
-    },
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "台灣文學館(中西區中正路1號)前的圓環 號誌",
+    "address_string": "台灣文學館(中西區中正路1號)前的圓環",
     "lat": "0",
     "long": "0",
     "service_notice": {
