@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201508130317",
     "requested_datetime": "2015-08-13 16:15:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區西華街65至105號 違停",
     "address_string": "西華街",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-14 08:41:47",
     "expected_datetime": "2015-08-13 16:15:00"
 }

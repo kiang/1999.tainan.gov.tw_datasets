@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201508130404",
     "requested_datetime": "2015-08-13 19:09:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "北區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "北區文賢二街101巷49號 北區文賢路117巷 北區文賢路242巷24號後面\/路燈",
     "address_string": "北區文賢二街101巷49號 北區文賢路117巷 北區文賢路242巷24號後面",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-14 08:56:38",
     "expected_datetime": "2015-08-20 19:09:00"
 }
