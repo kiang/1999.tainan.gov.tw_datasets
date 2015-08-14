@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201508140229",
     "requested_datetime": "2015-08-14 14:30:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東 區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局第一分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區東安路1號 違規停車",
     "address_string": "701台灣台南市東區東安路1號",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-14 16:15:19",
     "expected_datetime": "2015-08-14 14:30:00"
 }
