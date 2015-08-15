@@ -1,9 +1,7 @@
 {
     "service_request_id": "UN201508150121",
     "requested_datetime": "2015-08-15 12:08:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-15 18:13:58",
     "expected_datetime": "2015-08-15 12:08:00"
 }
