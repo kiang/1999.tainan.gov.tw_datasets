@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201508130061",
     "requested_datetime": "2015-08-13 09:01:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "仁德區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "仁德區太子路190巷33弄24-26-28 號 長興五街41號 空氣汙染",
     "address_string": "仁德區太子路190巷33弄24-26-28 號 長興五街41號",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-15 10:29:29",
     "expected_datetime": "2015-08-20 09:01:00"
 }
