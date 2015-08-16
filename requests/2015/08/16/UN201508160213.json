@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201508160198",
-    "requested_datetime": "2015-08-16 17:34:00",
+    "service_request_id": "UN201508160213",
+    "requested_datetime": "2015-08-16 18:32:00",
     "status": {
 
     },
@@ -11,8 +11,8 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "中西區西門路二段387號 違規停車",
-    "address_string": "西門路二段387號",
+    "description": "中西區萬昌街(衛民街口到青年路口) 興華街(北門路口到青年路口)違規停車",
+    "address_string": "萬昌街+興華街",
     "lat": "0",
     "long": "0",
     "service_notice": {
@@ -21,5 +21,5 @@
     "updated_datetime": {
 
     },
-    "expected_datetime": "2015-08-16 17:34:00"
+    "expected_datetime": "2015-08-16 18:32:00"
 }
