@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201508150177",
     "requested_datetime": "2015-08-15 14:48:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "鹽水區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
     "description": "鹽水區廢棄的中庄國小裡 犬貓急難救援",
     "address_string": "鹽水區廢棄的中庄國小裡",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-17 16:36:08",
     "expected_datetime": "2015-08-22 14:48:00"
 }

@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201508170188",
+    "requested_datetime": "2015-08-17 13:40:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "北區西賢一街與和緯路口 號誌",
+    "address_string": "西賢一街與和緯路口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-08-24 13:40:00"
+}
