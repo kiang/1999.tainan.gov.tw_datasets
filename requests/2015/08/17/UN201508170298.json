@@ -1,13 +1,15 @@
 {
-    "service_request_id": "UN201508160207",
-    "requested_datetime": "2015-08-16 17:55:00",
-    "status": "已完工",
+    "service_request_id": "UN201508170298",
+    "requested_datetime": "2015-08-17 17:31:00",
+    "status": {
+
+    },
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "台南市政府",
     "subproject": "違規停車",
     "description": "中西區西華南街65號 違規停車",
     "address_string": "西華南街65號",
@@ -16,6 +18,8 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-17 18:00:19",
-    "expected_datetime": "2015-08-16 17:55:00"
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-08-17 17:31:00"
 }

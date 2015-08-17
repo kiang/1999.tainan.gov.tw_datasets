@@ -1,9 +1,7 @@
 {
     "service_request_id": "UN201508170160",
     "requested_datetime": "2015-08-17 12:12:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
@@ -11,15 +9,13 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "新化區中正路401^403號  違規停車",
-    "address_string": "中正路401^403號",
+    "description": "新化區中正路401-403號  違規停車",
+    "address_string": "中正路401-403號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-17 18:22:00",
     "expected_datetime": "2015-08-17 12:12:00"
 }
