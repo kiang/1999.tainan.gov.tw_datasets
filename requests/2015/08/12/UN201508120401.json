@@ -7,7 +7,7 @@
     },
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局永康分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區南工街214巷32弄 違規停車",
     "address_string": "710台灣台南市永康區南工街214巷32弄",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-12 22:52:37",
+    "updated_datetime": "2015-08-17 09:53:53",
     "expected_datetime": "2015-08-12 21:02:00"
 }
