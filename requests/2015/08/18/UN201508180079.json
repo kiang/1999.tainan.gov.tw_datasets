@@ -5,20 +5,12 @@
     "keyword": {
 
     },
-    "area": {
-
-    },
-    "service_name": {
-
-    },
+    "area": "仁德區",
+    "service_name": "路燈故障",
     "agency": "台南市政府",
-    "subproject": {
-
-    },
-    "description": "路燈",
-    "address_string": {
-
-    },
+    "subproject": "9盞以下路燈故障",
+    "description": "仁德區仁愛里亞航街198巷口 路燈",
+    "address_string": "仁愛里亞航街198巷口",
     "lat": "0",
     "long": "0",
     "service_notice": {

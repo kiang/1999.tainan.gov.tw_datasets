@@ -7,7 +7,7 @@
     },
     "area": "善化區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "善化區陽光三路150號前 路燈",
     "address_string": "善化區陽光三路150號前",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-17 10:35:33",
+    "updated_datetime": "2015-08-18 10:40:54",
     "expected_datetime": "2015-08-22 20:23:00"
 }
