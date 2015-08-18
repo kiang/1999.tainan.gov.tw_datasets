@@ -5,20 +5,12 @@
     "keyword": {
 
     },
-    "area": {
-
-    },
-    "service_name": {
-
-    },
-    "agency": "臺南市政府工務局",
-    "subproject": {
-
-    },
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
     "description": "南區中華西路一段與新義路口 路燈故障",
-    "address_string": {
-
-    },
+    "address_string": "南區中華西路一段與新義路口",
     "lat": "0",
     "long": "0",
     "service_notice": {

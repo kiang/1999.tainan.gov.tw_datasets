@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201508170433",
     "requested_datetime": "2015-08-17 22:53:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "仁德區",
     "service_name": "路燈故障",
-    "agency": "臺南市仁德區公所,臺南市政府警察局",
+    "agency": "臺南市仁德區公所,臺南市政府警察局歸仁分局",
     "subproject": "9盞以下路燈故障",
     "description": "仁德區二仁溪橋上 路燈",
     "address_string": "仁德區二仁溪橋上",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-18 14:40:57",
     "expected_datetime": "2015-08-24 22:53:00"
 }
