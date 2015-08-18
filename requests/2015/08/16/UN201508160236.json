@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201508160236",
     "requested_datetime": "2015-08-16 19:43:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "道路維修",
-    "agency": "臺南市政府工務局",
+    "agency": "台南市政府",
     "subproject": "路面坑洞",
     "description": "東區林森路一段往健康路一段地下道 坑洞",
     "address_string": "東區林森路一段往健康路一段地下道",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-18 17:47:24",
     "expected_datetime": "2015-08-16 19:43:00"
 }

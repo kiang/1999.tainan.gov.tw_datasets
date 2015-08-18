@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201508180274",
+    "requested_datetime": "2015-08-18 15:52:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區開南街275巷2弄46號門前 佔用道路\/影響環境",
+    "address_string": "北區開南街275巷2弄46號門前",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-08-25 15:52:00"
+}
