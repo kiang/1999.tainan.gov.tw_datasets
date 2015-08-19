@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201508190310",
+    "requested_datetime": "2015-08-19 16:40:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "大內區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "其他汙染舉發",
+    "description": "大內區南182之1區道 路面泥濘",
+    "address_string": "大內區南182之1區道",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-08-19 17:40:48",
+    "expected_datetime": "2015-08-26 16:40:00"
+}
