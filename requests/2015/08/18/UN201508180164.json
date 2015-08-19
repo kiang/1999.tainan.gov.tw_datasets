@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201508180164",
     "requested_datetime": "2015-08-18 11:24:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "南區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "南區萬年五街與萬年八街口 路燈",
     "address_string": "萬年五街與萬年八街口",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-19 09:05:44",
     "expected_datetime": "2015-08-25 11:24:00"
 }
