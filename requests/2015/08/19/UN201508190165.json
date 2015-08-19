@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201508190165",
+    "requested_datetime": "2015-08-19 11:18:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "歸仁區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心,臺南市歸仁區公所",
+    "subproject": "妨礙安寧",
+    "description": "歸仁區保大路三段219號 妨礙安寧\/佔用騎樓\/登革熱",
+    "address_string": "歸仁區保大路三段219號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-08-26 11:18:00"
+}

@@ -1,16 +1,16 @@
 {
-    "service_request_id": "UN201508190269",
-    "requested_datetime": "2015-08-19 15:38:00",
+    "service_request_id": "UN201508190221",
+    "requested_datetime": "2015-08-19 13:59:00",
     "status": "未處理",
     "keyword": {
 
     },
-    "area": "東區",
+    "area": "南區",
     "service_name": "路燈故障",
     "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
-    "description": "東區崇德五街2巷4號 路燈",
-    "address_string": "東區崇德五街2巷4號",
+    "description": "南區灣裡路601號 路燈",
+    "address_string": "南區灣裡路601號",
     "lat": "0",
     "long": "0",
     "service_notice": {
@@ -19,5 +19,5 @@
     "updated_datetime": {
 
     },
-    "expected_datetime": "2015-08-26 15:38:00"
+    "expected_datetime": "2015-08-26 13:59:00"
 }
