@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201508190158",
+    "requested_datetime": "2015-08-19 11:15:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "臺南市永康區公所",
+    "subproject": "寬頻管線、孔蓋損壞",
+    "description": "永康區永大路二段89號 道路下陷",
+    "address_string": "永康區永大路二段89號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-08-19 11:15:00"
+}
