@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201508190374",
     "requested_datetime": "2015-08-19 19:10:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區西門路2段387號消防栓紅線違停 違規停車",
     "address_string": "台南市中西區西門路2段387號",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-19 22:32:55",
     "expected_datetime": "2015-08-19 19:10:00"
 }
