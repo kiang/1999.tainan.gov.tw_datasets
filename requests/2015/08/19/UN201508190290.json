@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201508190290",
+    "requested_datetime": "2015-08-19 15:59:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "人行號誌燈未修",
+    "address_string": "華平路與建平十七街口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-08-19 15:59:00"
+}
