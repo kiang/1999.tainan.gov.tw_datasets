@@ -7,7 +7,7 @@
     },
     "area": "仁德區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局歸仁分局",
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "仁德區上崙街459巷內 電線垂落",
     "address_string": "仁德區上崙街459巷內",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-19 13:51:40",
+    "updated_datetime": "2015-08-20 16:20:58",
     "expected_datetime": "2015-08-25 17:26:00"
 }
