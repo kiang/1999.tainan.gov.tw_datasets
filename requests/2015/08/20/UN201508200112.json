@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201508200112",
+    "requested_datetime": "2015-08-20 10:32:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區林森路三段(開元路212巷到東豐路) 違規停車",
+    "address_string": "林森路三段(開元路212巷到東豐路)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-08-20 10:32:00"
+}
