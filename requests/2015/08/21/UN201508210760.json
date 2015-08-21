@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201508210760",
+    "requested_datetime": "2015-08-21 18:10:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "西港區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "西港派出所前 將軍區歐汪菜市場前\/違停",
+    "address_string": "西港派出所前 將軍區歐汪菜市場前\/",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-08-21 18:37:44",
+    "expected_datetime": "2015-08-28 18:10:00"
+}
