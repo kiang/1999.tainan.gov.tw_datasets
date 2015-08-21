@@ -1,16 +1,16 @@
 {
-    "service_request_id": "UN201508210645",
-    "requested_datetime": "2015-08-21 13:48:00",
+    "service_request_id": "UN201508210657",
+    "requested_datetime": "2015-08-21 14:03:00",
     "status": "未處理",
     "keyword": {
 
     },
-    "area": "玉井區",
+    "area": "中西區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "玉井區中正路上 違停",
-    "address_string": "玉井區中正路上",
+    "description": "中西區正興街92號 違停",
+    "address_string": "中西區正興街92號",
     "lat": "0",
     "long": "0",
     "service_notice": {
@@ -19,5 +19,5 @@
     "updated_datetime": {
 
     },
-    "expected_datetime": "2015-08-28 13:48:00"
+    "expected_datetime": "2015-08-28 14:03:00"
 }

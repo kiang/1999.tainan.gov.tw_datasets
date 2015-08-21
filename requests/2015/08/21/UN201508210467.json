@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201508210467",
     "requested_datetime": "2015-08-21 07:50:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "東區仁和路252巷3號 噪音",
     "address_string": "東區仁和路252巷3號",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-21 14:51:26",
     "expected_datetime": "2015-08-28 07:50:00"
 }
