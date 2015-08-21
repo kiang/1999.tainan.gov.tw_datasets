@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201508210773",
-    "requested_datetime": "2015-08-21 18:45:00",
+    "service_request_id": "UN201508210845",
+    "requested_datetime": "2015-08-21 23:17:00",
     "status": {
 
     },
@@ -11,8 +11,8 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "中西區郡緯街跟西門路二段轉角   違規停車",
-    "address_string": "郡緯街跟西門路二段轉角",
+    "description": "中西區西華南街+衞民街  違規停車",
+    "address_string": "西華南街+衞民街",
     "lat": "0",
     "long": "0",
     "service_notice": {
@@ -21,5 +21,5 @@
     "updated_datetime": {
 
     },
-    "expected_datetime": "2015-08-21 18:45:00"
+    "expected_datetime": "2015-08-21 23:17:00"
 }
