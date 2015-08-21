@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201508210749",
+    "requested_datetime": "2015-08-21 17:43:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "安平區建平八街122號-124號 路面坑洞",
+    "address_string": "建平八街122號-124號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-08-28 17:43:00"
+}

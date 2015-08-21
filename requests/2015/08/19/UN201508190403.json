@@ -7,7 +7,7 @@
     },
     "area": "仁德區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "寬頻管線、孔蓋損壞",
     "description": "仁德區中山路跟文忠路口 寬頻孔蓋",
     "address_string": "仁德區中山路跟文忠路口",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-20 10:47:03",
+    "updated_datetime": "2015-08-21 17:04:44",
     "expected_datetime": "2015-08-26 20:57:00"
 }
