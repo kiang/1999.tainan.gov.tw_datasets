@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201508220024",
     "requested_datetime": "2015-08-22 08:30:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東 區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "環境髒亂",
     "description": "東區裕農三街與裕強街交叉口 佔用道路\/環境髒亂",
     "address_string": "701台灣台南市東區裕強街",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-22 10:13:25",
     "expected_datetime": "2015-08-22 08:30:00"
 }
