@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201508220216",
+    "requested_datetime": "2015-08-22 16:05:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東 區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "東區自由路三段17號 佔用道路",
+    "address_string": "701台灣台南市東區自由路三段17號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-08-22 16:57:06",
+    "expected_datetime": "2015-08-22 16:05:00"
+}
