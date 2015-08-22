@@ -5,20 +5,12 @@
     "keyword": {
 
     },
-    "area": {
-
-    },
-    "service_name": {
-
-    },
+    "area": "佳里區",
+    "service_name": "路燈故障",
     "agency": "台南市政府",
-    "subproject": {
-
-    },
-    "description": "路燈",
-    "address_string": {
-
-    },
+    "subproject": "9盞以下路燈故障",
+    "description": "佳里區佳興國中旁的產業道路 路燈",
+    "address_string": "佳興國中旁的產業道路",
     "lat": "0",
     "long": "0",
     "service_notice": {
