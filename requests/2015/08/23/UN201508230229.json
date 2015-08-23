@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201508230229",
+    "requested_datetime": "2015-08-23 17:52:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
+    "description": "安平區漁光路150號之2 路樹\/中華電信",
+    "address_string": "安平區漁光路150號之2",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-08-30 17:52:00"
+}
