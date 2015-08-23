@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201508230298",
     "requested_datetime": "2015-08-23 23:52:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安定區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "安定區海寮里203號之4 妨礙安寧",
     "address_string": "海寮里203號之4",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-24 01:18:03",
     "expected_datetime": "2015-08-30 23:52:00"
 }

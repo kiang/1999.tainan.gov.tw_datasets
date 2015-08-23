@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201508230280",
     "requested_datetime": "2015-08-23 21:50:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區忠義路二段158巷要轉入民權路二段64巷的轉角處 違停",
     "address_string": "中西區忠義路二段158巷要轉入民權路二段64巷的轉角處",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-24 01:11:46",
     "expected_datetime": "2015-08-30 21:50:00"
 }
