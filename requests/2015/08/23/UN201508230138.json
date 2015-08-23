@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201508230138",
+    "requested_datetime": "2015-08-23 13:54:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "南區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "南區明興路651號 線路垂落",
+    "address_string": "南區明興路651號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-08-30 13:54:00"
+}
