@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201508210763",
     "requested_datetime": "2015-08-21 18:23:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "路面油漬",
     "description": "安南區北安路與培安路 路面油漬",
     "address_string": "安南區北安路與培安路",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-23 12:30:11",
     "expected_datetime": "2015-08-28 18:23:00"
 }
