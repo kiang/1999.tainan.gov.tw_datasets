@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201508200354",
     "requested_datetime": "2015-08-20 17:35:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "仁德區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "仁德區大同路1000號，空軍基地正對面轉角處\"食品加工廠\" 空氣汙染",
     "address_string": "仁德區大同路1000號",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-23 22:41:58",
     "expected_datetime": "2015-08-27 17:35:00"
 }
