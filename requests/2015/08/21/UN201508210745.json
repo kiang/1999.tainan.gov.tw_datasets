@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201508210745",
     "requested_datetime": "2015-08-21 17:24:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "歸仁區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "歸仁區中正南路一段453巷 空氣汙染",
     "address_string": "歸仁區中正南路一段453巷",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-23 23:16:19",
     "expected_datetime": "2015-08-28 17:24:00"
 }
