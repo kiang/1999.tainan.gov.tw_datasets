@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201508230023",
+    "requested_datetime": "2015-08-23 08:10:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區西華街65號  違規停車",
+    "address_string": "西華街",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-08-23 08:10:00"
+}
