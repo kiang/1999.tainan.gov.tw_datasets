@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201508240395",
     "requested_datetime": "2015-08-24 20:18:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "民族路二段65號 騎樓",
     "address_string": "民族路二段65號",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-25 00:36:00",
     "expected_datetime": "2015-08-24 20:18:00"
 }
