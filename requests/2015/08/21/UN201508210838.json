@@ -7,7 +7,7 @@
     },
     "area": "南區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "南區中華西路一段與新義路交叉口 路燈",
     "address_string": "中華西路一段與新義路交叉口",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-24 11:25:50",
+    "updated_datetime": "2015-08-24 16:32:50",
     "expected_datetime": "2015-08-28 22:06:00"
 }

@@ -7,7 +7,7 @@
     },
     "area": "南區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "南區中華西路一段54巷到56巷中間 路燈不亮",
     "address_string": "南區中華西路一段54巷到56巷中間",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-24 11:25:24",
+    "updated_datetime": "2015-08-24 16:32:15",
     "expected_datetime": "2015-08-29 11:56:00"
 }

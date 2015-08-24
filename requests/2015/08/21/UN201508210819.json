@@ -7,7 +7,7 @@
     },
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第五分局,臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "北區育德一街與育德二路187巷口  花盆占用道路",
     "address_string": "育德一街",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-22 03:59:06",
+    "updated_datetime": "2015-08-24 16:55:22",
     "expected_datetime": "2015-08-21 20:57:00"
 }
