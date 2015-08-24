@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201508240254",
     "requested_datetime": "2015-08-24 14:55:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第四分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區安北路83號 違停",
     "address_string": "安平區安北路83號",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-24 18:45:37",
     "expected_datetime": "2015-08-24 14:55:00"
 }
