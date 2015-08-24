@@ -8,14 +8,14 @@
     "area": "永康區",
     "service_name": "噪音舉發",
     "agency": "臺南市政府警察局勤務指揮中心",
-    "subproject": "妨害安寧",
-    "description": "永康區中正北路上的體育公園對面 妨害安寧",
+    "subproject": "妨礙安寧",
+    "description": "永康區中正北路上的體育公園對面 妨礙安寧",
     "address_string": "中正北路上的體育公園對面",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-23 02:45:05",
+    "updated_datetime": "2015-08-23 02:45:00",
     "expected_datetime": "2015-08-30 00:59:00"
 }
