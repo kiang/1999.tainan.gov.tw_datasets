@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201508230005",
     "requested_datetime": "2015-08-22 23:54:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "新化區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "遊蕩犬隻捕捉管制",
     "description": "新化區復興路282號 捕犬",
     "address_string": "復興路282號",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-24 14:16:45",
     "expected_datetime": "2015-08-29 23:54:00"
 }
