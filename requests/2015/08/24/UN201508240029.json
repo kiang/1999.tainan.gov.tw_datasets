@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201508240029",
+    "requested_datetime": "2015-08-24 08:38:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區西華街 違停",
+    "address_string": "中西區西華街",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-08-24 08:38:00"
+}
