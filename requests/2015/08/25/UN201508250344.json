@@ -9,13 +9,13 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "違規停車",
-    "address_string": "台南市北園街57-59號",
+    "description": "北區北園街57-59號 違規停車",
+    "address_string": "北區北園街57-59號",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-25 18:55:37",
+    "updated_datetime": "2015-08-25 18:55:00",
     "expected_datetime": "2015-08-25 17:31:00"
 }
