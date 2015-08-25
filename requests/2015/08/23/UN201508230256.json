@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201508230256",
     "requested_datetime": "2015-08-23 19:55:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "新營區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市新營區公所",
     "subproject": "9盞以下路燈故障",
     "description": "730台灣台南市新營區太南里19甲線上靠近新橋街口 路燈",
     "address_string": "730台灣台南市新營區太南里19甲線上靠近新橋街口",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-25 10:10:00",
     "expected_datetime": "2015-08-23 19:55:00"
 }
