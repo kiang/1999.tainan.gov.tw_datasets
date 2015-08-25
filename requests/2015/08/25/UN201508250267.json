@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201508250267",
     "requested_datetime": "2015-08-25 15:12:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區林森路一段138號前面 違停",
     "address_string": "東區林森路一段138號前面",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-25 16:45:12",
     "expected_datetime": "2015-09-01 15:12:00"
 }
