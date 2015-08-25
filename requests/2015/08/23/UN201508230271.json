@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201508230271",
     "requested_datetime": "2015-08-23 20:51:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "後壁區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市後壁區公所",
     "subproject": "9盞以下路燈故障",
     "description": "台南市後壁區新東里 路燈",
     "address_string": "731台灣台南市後壁區",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-25 14:00:16",
     "expected_datetime": "2015-08-23 20:51:00"
 }
