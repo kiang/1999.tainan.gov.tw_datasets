@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201508250410",
-    "requested_datetime": "2015-08-25 19:41:00",
+    "service_request_id": "UN201508250420",
+    "requested_datetime": "2015-08-25 20:14:00",
     "status": "未處理",
     "keyword": {
 
@@ -9,13 +9,15 @@
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "永康區振興街65號週遭 違停",
+    "description": "永康區振興街65號週遭 違停 違停",
     "address_string": "永康區振興街65號週遭",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-25 20:13:00",
-    "expected_datetime": "2015-09-01 19:41:00"
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-01 20:14:00"
 }
