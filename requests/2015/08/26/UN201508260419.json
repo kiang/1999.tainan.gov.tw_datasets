@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201508260419",
+    "requested_datetime": "2015-08-26 21:37:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "中西區府前路一段199號   電線桿冒煙",
+    "address_string": "中西區府前路一段199號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-02 21:37:00"
+}
