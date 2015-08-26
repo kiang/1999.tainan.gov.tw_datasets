@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201508260334",
     "requested_datetime": "2015-08-26 17:56:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": ":中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": ":中西區民生路二段22號旁 違停",
     "address_string": "民生路二段22號旁",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-27 01:51:03",
     "expected_datetime": "2015-09-02 17:56:00"
 }
