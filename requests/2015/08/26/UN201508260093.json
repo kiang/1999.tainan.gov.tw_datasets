@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201508260093",
     "requested_datetime": "2015-08-26 10:10:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安平區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府水利局",
     "subproject": "人孔蓋聲響、凹陷、漏水",
     "description": "安平區華平路214號 孔蓋遺失",
     "address_string": "安平區華平路214號",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-26 17:14:06",
     "expected_datetime": "2015-09-02 10:10:00"
 }
