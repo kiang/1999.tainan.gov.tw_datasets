@@ -8,7 +8,7 @@
     "area": "安南區",
     "service_name": "噪音舉發",
     "agency": "臺南市政府警察局勤務指揮中心",
-    "subproject": "妨害安寧",
+    "subproject": "妨礙安寧",
     "description": "安南區濱海公路科工區附近 妨礙安寧",
     "address_string": "安南區濱海公路科工區附近",
     "lat": "0",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-27 18:05:20",
+    "updated_datetime": "2015-08-27 18:05:00",
     "expected_datetime": "2015-08-27 07:58:00"
 }
