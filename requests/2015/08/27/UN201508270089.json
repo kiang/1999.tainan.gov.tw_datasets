@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201508270089",
+    "requested_datetime": "2015-08-27 09:48:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
+    "description": "東區東門路二段95號前 中華電信孔蓋鬆動",
+    "address_string": "東區東門路二段95號前",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-03 09:48:00"
+}
