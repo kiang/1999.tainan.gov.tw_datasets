@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201508280087",
     "requested_datetime": "2015-08-28 10:09:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區西華街67號及57號前 違停",
     "address_string": "北區西華街67號及57號前",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-28 19:38:28",
     "expected_datetime": "2015-08-28 10:09:00"
 }
