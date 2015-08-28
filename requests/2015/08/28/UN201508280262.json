@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201508280262",
+    "requested_datetime": "2015-08-28 16:19:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北門區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "北門區玉港里西埔內48-3號、52號   枯葉",
+    "address_string": "北門區玉港里西埔內48-3號、52號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-04 16:19:00"
+}

@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201508280241",
+    "requested_datetime": "2015-08-28 15:58:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區大同路二段97巷 違停",
+    "address_string": "東區大同路二段97巷",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-04 15:58:00"
+}
