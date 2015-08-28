@@ -5,20 +5,12 @@
     "keyword": {
 
     },
-    "area": {
-
-    },
-    "service_name": {
-
-    },
-    "agency": "臺南市政府環境保護局",
-    "subproject": {
-
-    },
-    "description": "髒亂",
-    "address_string": {
-
-    },
+    "area": "下營區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "下營區中山路二段363巷1號隔壁 空氣汙染",
+    "address_string": "中山路二段363巷1號隔壁",
     "lat": "0",
     "long": "0",
     "service_notice": {
