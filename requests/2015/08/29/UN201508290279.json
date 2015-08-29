@@ -1,0 +1,23 @@
+{
+    "service_request_id": "UN201508290279",
+    "requested_datetime": "2015-08-29 20:19:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "南區明興路(喜樹路～興隆路) 坑洞",
+    "address_string": "南區明興路(喜樹路～興隆路)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-05 20:19:00"
+}
