@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201508270289",
     "requested_datetime": "2015-08-27 16:21:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "其他汙染舉發",
     "description": "永康區中正北路965號旁的一條小路 汙染舉發",
     "address_string": "永康區中正北路965號旁的一條小路",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-29 09:57:29",
     "expected_datetime": "2015-08-27 16:21:00"
 }
