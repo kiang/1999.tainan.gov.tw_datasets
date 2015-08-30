@@ -5,20 +5,12 @@
     "keyword": {
 
     },
-    "area": {
-
-    },
-    "service_name": {
-
-    },
-    "agency": "臺南市政府聯合服務中心",
-    "subproject": {
-
-    },
-    "description": "路燈",
-    "address_string": {
-
-    },
+    "area": "北區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "北區育成路62號前整條育成路和育賢街和西門路四段 路燈",
+    "address_string": "北區育成路62號前整條育成路和育賢街和西門路四段",
     "lat": "0",
     "long": "0",
     "service_notice": {
