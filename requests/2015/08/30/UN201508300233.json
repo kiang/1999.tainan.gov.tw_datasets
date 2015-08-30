@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201508300184",
-    "requested_datetime": "2015-08-30 18:27:00",
+    "service_request_id": "UN201508300233",
+    "requested_datetime": "2015-08-30 21:39:00",
     "status": "未處理",
     "keyword": {
 
@@ -9,8 +9,8 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "東區東門路一段134號  違停",
-    "address_string": "東區東門路一段134號",
+    "description": "東區中華東路一段12號  違停",
+    "address_string": "東區中華東路一段12號",
     "lat": "0",
     "long": "0",
     "service_notice": {
@@ -19,5 +19,5 @@
     "updated_datetime": {
 
     },
-    "expected_datetime": "2015-09-06 18:27:00"
+    "expected_datetime": "2015-09-06 21:39:00"
 }
