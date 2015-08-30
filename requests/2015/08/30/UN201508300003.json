@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201508300003",
     "requested_datetime": "2015-08-30 01:26:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "仁德區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "仁德區仁德國小 妨礙安寧",
     "address_string": "仁德區仁德國小",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-30 07:19:16",
     "expected_datetime": "2015-09-06 01:26:00"
 }
