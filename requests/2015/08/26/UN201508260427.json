@@ -7,7 +7,7 @@
     },
     "area": "仁德區",
     "service_name": "違規停車",
-    "agency": "臺南市政府交通局,臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局勤務指揮中心,臺南市政府警察局歸仁分局",
     "subproject": "違規停車",
     "description": "717台灣台南市仁德區仁中七街32號 違規停車",
     "address_string": "717台灣台南市仁德區仁中七街32號",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-27 01:40:09",
+    "updated_datetime": "2015-08-31 16:51:58",
     "expected_datetime": "2015-08-26 22:27:00"
 }
