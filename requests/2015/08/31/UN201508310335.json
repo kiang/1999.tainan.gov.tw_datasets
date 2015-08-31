@@ -1,14 +1,14 @@
 {
-    "service_request_id": "UN201508310271",
-    "requested_datetime": "2015-08-31 16:07:00",
-    "status": "已完工",
+    "service_request_id": "UN201508310335",
+    "requested_datetime": "2015-08-31 18:01:00",
+    "status": "未處理",
     "keyword": {
 
     },
     "area": "善化區",
     "service_name": "噪音舉發",
     "agency": "臺南市政府警察局勤務指揮中心",
-    "subproject": "妨礙安寧",
+    "subproject": "妨害安寧",
     "description": "善化區四維路106號 妨礙安寧",
     "address_string": "善化區四維路106號",
     "lat": "0",
@@ -16,6 +16,8 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-31 18:53:56",
-    "expected_datetime": "2015-09-07 16:07:00"
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-07 18:01:00"
 }

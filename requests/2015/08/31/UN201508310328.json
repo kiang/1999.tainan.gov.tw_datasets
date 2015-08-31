@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201508310326",
-    "requested_datetime": "2015-08-31 17:48:00",
+    "service_request_id": "UN201508310328",
+    "requested_datetime": "2015-08-31 17:51:00",
     "status": {
 
     },
@@ -11,8 +11,8 @@
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "中西區衞民街(西華南街口到中山路口)   違規停車",
-    "address_string": "衞民街",
+    "description": "中西區西華南街65號周邊 違規停車",
+    "address_string": "中西區西華南街65號周邊",
     "lat": "0",
     "long": "0",
     "service_notice": {
@@ -21,5 +21,5 @@
     "updated_datetime": {
 
     },
-    "expected_datetime": "2015-08-31 17:48:00"
+    "expected_datetime": "2015-08-31 17:51:00"
 }
