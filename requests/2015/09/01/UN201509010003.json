@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509010003",
     "requested_datetime": "2015-09-01 00:28:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "中西區健康路一段170巷1弄口(8818後方) 妨礙安寧",
     "address_string": "中西區健康路一段170巷1弄口(8818後方)",
@@ -18,8 +18,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-01 02:20:02",
     "expected_datetime": "2015-09-08 00:28:00"
 }
