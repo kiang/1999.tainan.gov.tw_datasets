@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201508280343",
     "requested_datetime": "2015-08-28 19:39:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安平區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "安平區平通路與228公園和永華三街 路燈",
     "address_string": "平通路與228公園和永華三街",
@@ -16,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-08-31 09:21:47",
     "expected_datetime": "2015-09-04 19:39:00"
 }
