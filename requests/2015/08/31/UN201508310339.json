@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201508310339",
+    "requested_datetime": "2015-08-31 18:04:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安南區本原街二段106巷27弄2號 違規停車",
+    "address_string": "本原街二段106巷27弄2號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-08-31 19:31:09",
+    "expected_datetime": "2015-08-31 18:04:00"
+}
