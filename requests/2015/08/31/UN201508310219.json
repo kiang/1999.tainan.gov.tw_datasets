@@ -11,8 +11,12 @@
     "subproject": "號誌故障",
     "description": "永康區新中街和正南五街丁字路口 號誌",
     "address_string": "永康區新中街和正南五街丁字路口",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

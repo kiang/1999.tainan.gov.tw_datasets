@@ -11,8 +11,12 @@
     "subproject": "號誌故障",
     "description": "安南區大安街(路口)與海佃路二段 號誌",
     "address_string": "安南區大安街(路口)與海佃路二段",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

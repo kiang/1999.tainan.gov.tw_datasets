@@ -11,8 +11,12 @@
     "subproject": "違規停車",
     "description": "安平區永華路和育平路口 違規停車",
     "address_string": "710台灣台南市安平區永華路",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

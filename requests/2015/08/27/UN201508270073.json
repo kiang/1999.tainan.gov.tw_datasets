@@ -11,8 +11,12 @@
     "subproject": "路面坑洞",
     "description": "仁德區文華路三段501之2號前約30公分 坑洞",
     "address_string": "仁德區文華路三段501之2號前",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

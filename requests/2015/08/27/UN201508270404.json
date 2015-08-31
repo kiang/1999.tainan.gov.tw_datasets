@@ -11,8 +11,12 @@
     "subproject": "10盞以上路燈故障",
     "description": "北區文成二路 文成三路 育德路 路燈",
     "address_string": "北區文成二路 文成三路 育德路",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

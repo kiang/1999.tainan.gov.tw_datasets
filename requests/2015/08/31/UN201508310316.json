@@ -11,8 +11,12 @@
     "subproject": "騎樓舉發",
     "description": "北區開元路281號 美國學校對面  占用騎樓",
     "address_string": "北區開元路281號 美國學校對面",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

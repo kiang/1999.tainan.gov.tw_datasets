@@ -11,8 +11,12 @@
     "subproject": "環境髒亂",
     "description": "新市區民權路的高鐵下 環境髒亂",
     "address_string": "新市區民權路的高鐵下",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

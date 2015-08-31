@@ -13,8 +13,12 @@
     },
     "description": "北區大興街594號 漏水",
     "address_string": "北區大興街594號",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

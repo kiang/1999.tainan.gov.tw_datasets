@@ -11,8 +11,12 @@
     "subproject": "其他汙染舉發",
     "description": "永康區中正北路965號旁的一條小路 汙染舉發",
     "address_string": "永康區中正北路965號旁的一條小路",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

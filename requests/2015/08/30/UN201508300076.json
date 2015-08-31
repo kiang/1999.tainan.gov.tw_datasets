@@ -13,8 +13,12 @@
     "subproject": "路面坑洞",
     "description": "南區明興路和興榮路交叉口有測速照相下方 坑洞",
     "address_string": "南區明興路和興榮路交叉口有測速照相下方",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

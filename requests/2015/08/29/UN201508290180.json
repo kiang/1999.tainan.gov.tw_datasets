@@ -11,8 +11,12 @@
     "subproject": "場所連續噪音",
     "description": "東區勝利路115號6樓 噪音",
     "address_string": "東區勝利路115號6樓",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

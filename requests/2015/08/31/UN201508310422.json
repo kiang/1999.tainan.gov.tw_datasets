@@ -11,8 +11,12 @@
     "subproject": "妨礙安寧",
     "description": "白河區富民路與十全街交叉口附近 妨礙安寧",
     "address_string": "白河區富民路與十全街交叉口附近",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

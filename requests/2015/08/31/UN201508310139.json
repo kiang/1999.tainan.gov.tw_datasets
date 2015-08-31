@@ -11,8 +11,12 @@
     "subproject": "路面坑洞",
     "description": "安平區華平路與建平十一街 坑洞",
     "address_string": "安平區華平路與建平十一街",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

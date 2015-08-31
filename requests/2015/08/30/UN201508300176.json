@@ -13,8 +13,12 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區怡東路150巷19號1樓 路燈",
     "address_string": "東區怡東路150巷19號1樓",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

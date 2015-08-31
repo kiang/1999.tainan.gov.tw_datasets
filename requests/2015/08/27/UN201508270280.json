@@ -11,8 +11,12 @@
     "subproject": "號誌故障",
     "description": "永康區忠孝路與中山東路 號誌故障",
     "address_string": "永康區忠孝路與中山東路",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

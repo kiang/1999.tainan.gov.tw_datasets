@@ -11,8 +11,12 @@
     "subproject": "犬貓急難救援",
     "description": "新市國中斜對面\"早安美之城\"附近 貓受傷",
     "address_string": "新市國中斜對面\"早安美之城\"附近",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

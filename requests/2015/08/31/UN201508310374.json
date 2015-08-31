@@ -11,8 +11,12 @@
     "subproject": "其他汙染舉發",
     "description": "安南區安和路二段150巷底 環境髒亂",
     "address_string": "安南區安和路二段150巷底",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

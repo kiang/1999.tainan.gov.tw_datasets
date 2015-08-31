@@ -11,8 +11,12 @@
     "subproject": "路樹傾倒",
     "description": "北區開元路442巷51弄11號 路樹倒塌",
     "address_string": "北區開元路442巷51弄11號",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

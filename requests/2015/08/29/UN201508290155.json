@@ -11,8 +11,12 @@
     "subproject": "違規停車",
     "description": "東區小東路憲兵隊對面 違停",
     "address_string": "小東路 憲兵隊對面",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

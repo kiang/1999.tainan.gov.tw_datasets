@@ -11,8 +11,12 @@
     "subproject": "違規停車",
     "description": "中西區衞民街(西華南街口到中山路口)   違規停車",
     "address_string": "衞民街",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

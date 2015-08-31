@@ -11,8 +11,12 @@
     "subproject": "違規停車",
     "description": "中西區尊王路145號^149號轉彎  違停",
     "address_string": "中西區尊王路145號^149號轉彎",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

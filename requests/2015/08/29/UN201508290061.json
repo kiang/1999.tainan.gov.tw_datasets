@@ -11,8 +11,12 @@
     "subproject": "違規停車",
     "description": "南區三官路七巷25號對面 違停",
     "address_string": "三官路七巷25號對面",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

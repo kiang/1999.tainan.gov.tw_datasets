@@ -11,8 +11,12 @@
     "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
     "description": "東區東門路二段95號前 中華電信孔蓋鬆動",
     "address_string": "東區東門路二段95號前",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

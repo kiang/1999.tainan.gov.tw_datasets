@@ -11,8 +11,12 @@
     "subproject": "9盞以下路燈故障",
     "description": "永康區正南三路156號和162號 路燈",
     "address_string": "永康區正南三路156號和162號",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

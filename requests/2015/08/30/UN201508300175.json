@@ -11,8 +11,12 @@
     "subproject": "10盞以上路燈故障",
     "description": "北區東豐路 北區公園北路 北區北門路二段  東區前鋒路 東區東門 路燈",
     "address_string": "北區東豐路 北區公園北路 北區北門路二段  東區前鋒路 東區東門",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

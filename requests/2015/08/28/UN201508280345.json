@@ -11,8 +11,12 @@
     "subproject": "違規停車",
     "description": "北區北園街8巷73號 違規停車",
     "address_string": "北園街8巷73號",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

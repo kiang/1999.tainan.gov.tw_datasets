@@ -11,8 +11,12 @@
     "subproject": "路面坑洞",
     "description": "中西區健康路和忠義路交叉口,台南高商圍牆邊 坑洞",
     "address_string": "中西區健康路和忠義路交叉口,台南高商圍牆邊",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

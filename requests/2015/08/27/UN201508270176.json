@@ -11,8 +11,12 @@
     "subproject": "空氣汙染",
     "description": "安平區民權路四段679巷 空氣汙染(登革熱)",
     "address_string": "安平區民權路四段679巷",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

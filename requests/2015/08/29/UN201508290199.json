@@ -11,8 +11,12 @@
     "subproject": "空氣汙染",
     "description": "安平區健康路跟建平路口健康路上 空氣污染",
     "address_string": "安平區健康路跟建平路口健康路上",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

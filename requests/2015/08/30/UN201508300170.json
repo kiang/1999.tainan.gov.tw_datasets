@@ -11,8 +11,12 @@
     "subproject": "路面坑洞",
     "description": "仁德區中山路641號前方 坑洞",
     "address_string": "仁德區中山路641號前方",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

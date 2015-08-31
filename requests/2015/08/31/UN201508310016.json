@@ -11,8 +11,12 @@
     "subproject": "違規停車",
     "description": "仁德區德安路32巷內 違停",
     "address_string": "仁德區德安路32巷內",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

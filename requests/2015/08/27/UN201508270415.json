@@ -11,8 +11,12 @@
     "subproject": "10盞以上路燈故障",
     "description": "北區北安路一段 路燈",
     "address_string": "北區北安路一段",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

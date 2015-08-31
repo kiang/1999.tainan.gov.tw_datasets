@@ -11,8 +11,12 @@
     "subproject": "違規停車",
     "description": "東區林森路一段153巷的轉彎處 違停",
     "address_string": "東區林森路一段153巷的轉彎處",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

@@ -11,8 +11,12 @@
     "subproject": "10盞以上路燈故障",
     "description": "中西區頂美三街81巷內和中西區頂美三街121巷71弄內 路燈",
     "address_string": "中西區頂美三街81巷內和中西區頂美三街121巷71弄內",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

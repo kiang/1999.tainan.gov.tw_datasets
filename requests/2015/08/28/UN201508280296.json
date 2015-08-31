@@ -11,8 +11,12 @@
     "subproject": "空氣汙染",
     "description": "下營區中山路二段363巷1號隔壁 空氣汙染",
     "address_string": "中山路二段363巷1號隔壁",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

@@ -11,8 +11,12 @@
     "subproject": "路面坑洞",
     "description": "新營區建國路 過了後鎮派出所後鎮往鹽水方向 坑洞",
     "address_string": "新營區建國路 過了後鎮派出所 後鎮往鹽水方向",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

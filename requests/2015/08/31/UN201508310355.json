@@ -13,8 +13,12 @@
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "新市區大社里元帥府前 漏水",
     "address_string": "大社區元帥府前",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

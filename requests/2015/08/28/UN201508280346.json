@@ -11,8 +11,12 @@
     "subproject": "空氣汙染",
     "description": "北區大港街38巷口 空氣汙染",
     "address_string": "大港街38巷口",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

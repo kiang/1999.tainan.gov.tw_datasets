@@ -11,8 +11,12 @@
     "subproject": "遊蕩犬隻捕捉管制",
     "description": "楠西區茄拔路2巷27號 捕犬",
     "address_string": "楠西區茄拔路2巷27號",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

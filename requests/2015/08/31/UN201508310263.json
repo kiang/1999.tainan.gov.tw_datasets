@@ -11,8 +11,12 @@
     "subproject": "違規停車",
     "description": "東區崇明四街65號 7906-SV紅線違停",
     "address_string": "東區崇明四街65號",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

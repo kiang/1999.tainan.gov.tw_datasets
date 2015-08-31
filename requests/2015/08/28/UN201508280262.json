@@ -11,8 +11,12 @@
     "subproject": "道路散落物",
     "description": "北門區玉港里西埔內48-3號、52號   枯葉",
     "address_string": "北門區玉港里西埔內48-3號、52號",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

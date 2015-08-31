@@ -11,8 +11,12 @@
     "subproject": "妨礙安寧",
     "description": "安南區安生街78巷2弄10號 妨礙安寧",
     "address_string": "安南區安生街78巷2弄10號",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

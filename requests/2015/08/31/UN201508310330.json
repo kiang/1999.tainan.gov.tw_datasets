@@ -11,8 +11,12 @@
     "subproject": "違規停車",
     "description": "台南車站前站機車臨時停放區以及火車後站周邊 違規停車",
     "address_string": "台南車站前站機車臨時停放區\/後站周邊",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

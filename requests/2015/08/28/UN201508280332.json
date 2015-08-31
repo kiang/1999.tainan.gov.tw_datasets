@@ -11,8 +11,12 @@
     "subproject": "10盞以上路燈故障",
     "description": "南區大成路一段193巷整條 路燈",
     "address_string": "南區大成路一段193巷整條",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

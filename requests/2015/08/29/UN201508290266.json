@@ -11,8 +11,12 @@
     "subproject": "場所連續噪音",
     "description": "仁德區崑崙街201號 噪音",
     "address_string": "崑崙街201號",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

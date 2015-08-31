@@ -13,8 +13,12 @@
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "仁德區民安路一段393巷，仁德國中後門附近 漏水",
     "address_string": "仁德區民安路一段393巷，仁德國中後門附近",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

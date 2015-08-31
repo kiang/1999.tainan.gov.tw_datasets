@@ -11,8 +11,12 @@
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "新化區中興路80號前方 路面漏水",
     "address_string": "新化區中興路80號前方",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

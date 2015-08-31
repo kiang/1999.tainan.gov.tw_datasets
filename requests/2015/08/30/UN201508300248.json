@@ -11,8 +11,12 @@
     "subproject": "路面坑洞",
     "description": "安南區海佃路二段830號對面車道 路面坑洞",
     "address_string": "安南區海佃路二段830號對面車道",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

@@ -11,8 +11,12 @@
     "subproject": "違規停車",
     "description": "東區裕豐街185巷12弄 違停",
     "address_string": "東區裕豐街185巷12弄",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

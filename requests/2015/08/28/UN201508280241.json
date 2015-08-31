@@ -11,8 +11,12 @@
     "subproject": "違規停車",
     "description": "東區大同路二段97巷 違停",
     "address_string": "東區大同路二段97巷",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

@@ -11,8 +11,12 @@
     "subproject": "10盞以上路燈故障",
     "description": "安平區安北路 安億路 慶平路和育平路 路燈",
     "address_string": "安平區安北路 安億路 慶平路和育平路",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

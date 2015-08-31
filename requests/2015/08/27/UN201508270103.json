@@ -11,8 +11,12 @@
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "永康區永大路三段618巷111號 漏水",
     "address_string": "永大路三段618巷111號",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

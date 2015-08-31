@@ -11,8 +11,12 @@
     "subproject": "號誌故障",
     "description": "仁德區仁義路329號 號誌燈故障",
     "address_string": "仁德區仁義路329號",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

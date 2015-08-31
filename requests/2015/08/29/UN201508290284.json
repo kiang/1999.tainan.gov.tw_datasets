@@ -11,8 +11,12 @@
     "subproject": "道路散落物",
     "description": "中西區和意路1號附近 道路散落物",
     "address_string": "和意路1號附近",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

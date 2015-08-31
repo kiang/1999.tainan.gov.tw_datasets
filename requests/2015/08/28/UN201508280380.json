@@ -11,8 +11,12 @@
     "subproject": "違規停車",
     "description": "安南區安中路一段203巷巷口 違停",
     "address_string": "安南區安中路一段203巷巷口",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

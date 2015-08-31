@@ -11,8 +11,12 @@
     "subproject": "9盞以下路燈故障",
     "description": "安平區平通路64號前方 路燈",
     "address_string": "安平區平通路64號前方",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

@@ -11,8 +11,12 @@
     "subproject": "9盞以下路燈故障",
     "description": "麻豆區新生南路233號旁邊進去 路燈",
     "address_string": "麻豆區新生南路233號旁邊進去",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

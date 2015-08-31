@@ -11,8 +11,12 @@
     "subproject": "路面坑洞",
     "description": "南區明興路(喜樹路～興隆路) 坑洞",
     "address_string": "南區明興路(喜樹路～興隆路)",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

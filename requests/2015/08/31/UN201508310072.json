@@ -11,8 +11,12 @@
     "subproject": "妨礙安寧",
     "description": "北區南園街101巷34弄35號 妨礙安寧",
     "address_string": "北區南園街101巷34弄35號",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

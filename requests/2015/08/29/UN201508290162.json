@@ -11,8 +11,12 @@
     "subproject": "9盞以下路燈故障",
     "description": "南區大林路47號前",
     "address_string": "南區大林路47號前",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

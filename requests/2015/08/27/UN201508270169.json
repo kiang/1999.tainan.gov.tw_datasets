@@ -11,8 +11,12 @@
     "subproject": "違規停車",
     "description": "北區西華街靠近成功路口 違停",
     "address_string": "西華街靠近成功路口",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

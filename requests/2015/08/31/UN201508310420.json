@@ -11,8 +11,12 @@
     "subproject": "路面坑洞",
     "description": "東區大同地下道,林森路往健康路方向 坑洞",
     "address_string": "東區大同地下道,林森路往健康路方向",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

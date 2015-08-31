@@ -11,8 +11,12 @@
     "subproject": "路面坑洞",
     "description": "安南區安中路三段58號 坑洞",
     "address_string": "安南區安中路三段58號",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

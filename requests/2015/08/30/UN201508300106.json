@@ -11,8 +11,12 @@
     "subproject": "妨礙安寧",
     "description": "後火車站的大遠百 妨礙安寧",
     "address_string": "後火車站的大遠百",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

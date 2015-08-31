@@ -11,8 +11,12 @@
     "subproject": "違規停車",
     "description": "安平區中華西路二段7號，輕井澤火鍋店前面 違停",
     "address_string": "安平區中華西路二段7號，輕井澤火鍋店前面",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

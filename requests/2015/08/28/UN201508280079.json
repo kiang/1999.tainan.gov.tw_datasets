@@ -11,8 +11,12 @@
     "subproject": "路面坑洞",
     "description": "北區中華北路二段往安平方向觀海橋 坑洞",
     "address_string": "北區中華北路二段往安平方向觀海橋",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

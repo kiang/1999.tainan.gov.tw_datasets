@@ -11,8 +11,12 @@
     "subproject": "10盞以上路燈故障",
     "description": "安南區北安路三段整條、北安路三段745巷  路燈不亮",
     "address_string": "安南區北安路三段整條、北安路三段745巷",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

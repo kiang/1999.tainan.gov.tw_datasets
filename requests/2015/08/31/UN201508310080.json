@@ -11,8 +11,12 @@
     "subproject": "路面坑洞",
     "description": "北區忠義路三段109號旁空地前車道上 路面坑洞",
     "address_string": "北區忠義路三段109號旁空地前車道上",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

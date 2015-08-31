@@ -11,8 +11,12 @@
     "subproject": "路面坑洞",
     "description": "安平區民權路四段跟華平路口 路面坑洞",
     "address_string": "安平區民權路四段跟華平路口",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

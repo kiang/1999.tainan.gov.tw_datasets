@@ -11,8 +11,12 @@
     "subproject": "小廣告、旗幟",
     "description": "北區林森路與東豐路 旗幟",
     "address_string": "北區林森路與東豐路",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

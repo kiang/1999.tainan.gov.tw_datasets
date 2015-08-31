@@ -11,8 +11,12 @@
     "subproject": "道路散落物",
     "description": "仁德區二仁路一段(嘉藥前) 道路散落物",
     "address_string": "仁德區二仁路一段(嘉藥前)",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

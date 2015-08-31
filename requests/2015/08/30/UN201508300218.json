@@ -11,8 +11,12 @@
     "subproject": "違規停車",
     "description": "東區崇善路414號 違規停車",
     "address_string": "701台灣台南市東區崇善路414號",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

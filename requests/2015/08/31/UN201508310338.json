@@ -11,8 +11,12 @@
     "subproject": "違規停車",
     "description": "東區長榮路一段與府東街轉角 違規停車",
     "address_string": "長榮路一段與府東街轉角",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

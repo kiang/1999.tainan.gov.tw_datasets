@@ -11,8 +11,12 @@
     "subproject": "違規停車",
     "description": "安南區本原街二段106巷27弄2號 違規停車",
     "address_string": "本原街二段106巷27弄2號",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

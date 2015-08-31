@@ -11,8 +11,12 @@
     "subproject": "犬貓急難救援",
     "description": "永康區中華路619巷62號對面 動物救援",
     "address_string": "永康區中華路619巷62號對面",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },

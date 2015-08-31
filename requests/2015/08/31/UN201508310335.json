@@ -11,8 +11,12 @@
     "subproject": "妨害安寧",
     "description": "善化區四維路106號 妨礙安寧",
     "address_string": "善化區四維路106號",
-    "lat": "0",
-    "long": "0",
+    "lat": {
+
+    },
+    "long": {
+
+    },
     "service_notice": {
 
     },
