@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201508310449",
+    "requested_datetime": "2015-08-31 23:49:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "北區公園路128號 妨礙安寧",
+    "address_string": "北區公園路128號",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-09-01 01:43:11",
+    "expected_datetime": "2015-09-07 23:49:00"
+}
