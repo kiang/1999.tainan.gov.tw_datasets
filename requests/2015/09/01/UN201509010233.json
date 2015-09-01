@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509010233",
     "requested_datetime": "2015-09-01 12:40:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "中西區海安路跟郡緯街 佔用道路",
     "address_string": "中西區海安路跟郡緯街",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-01 19:21:43",
     "expected_datetime": "2015-09-08 12:40:00"
 }
