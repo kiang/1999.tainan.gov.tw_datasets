@@ -7,7 +7,7 @@
     },
     "area": "仁德區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "仁德區中山路633號前方  坑洞",
     "address_string": "仁德區中山路633號前方",
@@ -20,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-31 08:08:39",
+    "updated_datetime": "2015-09-01 08:48:16",
     "expected_datetime": "2015-09-06 19:19:00"
 }
