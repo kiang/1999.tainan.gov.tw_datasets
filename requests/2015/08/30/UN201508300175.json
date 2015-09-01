@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201508300175",
     "requested_datetime": "2015-08-30 18:33:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "北區 東區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "10盞以上路燈故障",
     "description": "北區東豐路 北區公園北路 北區北門路二段  東區前鋒路 東區東門 路燈",
     "address_string": "北區東豐路 北區公園北路 北區北門路二段  東區前鋒路 東區東門",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-01 15:14:05",
     "expected_datetime": "2015-09-06 18:33:00"
 }

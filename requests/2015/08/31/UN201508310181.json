@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201508310181",
     "requested_datetime": "2015-08-31 12:36:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "楠西區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "遊蕩犬隻捕捉管制",
     "description": "楠西區茄拔路2巷27號 捕犬",
     "address_string": "楠西區茄拔路2巷27號",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-01 15:29:47",
     "expected_datetime": "2015-09-07 12:36:00"
 }
