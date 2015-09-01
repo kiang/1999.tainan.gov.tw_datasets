@@ -9,7 +9,7 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "永康區鹽行路146巷20弄37號",
+    "description": "永康區鹽行路146巷20弄37號 違停",
     "address_string": "永康區鹽行路146巷20弄37號",
     "lat": {
 
@@ -20,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-09-01 19:07:01",
+    "updated_datetime": "2015-09-01 19:07:00",
     "expected_datetime": "2015-09-08 11:30:00"
 }
