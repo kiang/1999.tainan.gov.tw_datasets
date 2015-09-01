@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201508300112",
     "requested_datetime": "2015-08-30 14:36:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "新營區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市新營區公所",
     "subproject": "路面坑洞",
     "description": "新營區建國路 過了後鎮派出所後鎮往鹽水方向 坑洞",
     "address_string": "新營區建國路 過了後鎮派出所 後鎮往鹽水方向",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-01 09:04:15",
     "expected_datetime": "2015-09-06 14:36:00"
 }

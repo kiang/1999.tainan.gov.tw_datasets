@@ -7,7 +7,7 @@
     },
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局永康分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區中正南路52巷69號 違規停車",
     "address_string": "台南市永康區中正南路52巷69號",
@@ -20,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-30 16:14:28",
+    "updated_datetime": "2015-09-01 09:48:30",
     "expected_datetime": "2015-08-30 12:21:00"
 }

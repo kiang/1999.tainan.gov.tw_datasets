@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201508310446",
     "requested_datetime": "2015-08-31 23:17:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "中西區府前路一段121號 噪音",
     "address_string": "中西區府前路一段121號",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-01 09:19:38",
     "expected_datetime": "2015-09-07 23:17:00"
 }
