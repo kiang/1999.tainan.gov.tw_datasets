@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201508300176",
     "requested_datetime": "2015-08-30 18:35:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "東區怡東路150巷19號1樓 路燈",
     "address_string": "東區怡東路150巷19號1樓",
@@ -22,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-01 11:44:29",
     "expected_datetime": "2015-09-06 18:35:00"
 }
