@@ -9,8 +9,8 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "違規停車",
-    "address_string": "西華街",
+    "description": "北區西華街靠近成功路口(郵局外) 違規停車",
+    "address_string": "北區西華街靠近成功路口(郵局外)",
     "lat": {
 
     },
@@ -20,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-09-01 18:26:05",
+    "updated_datetime": "2015-09-01 18:26:00",
     "expected_datetime": "2015-09-01 10:18:00"
 }

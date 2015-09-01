@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509010507",
+    "requested_datetime": "2015-09-01 22:20:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "仁德區",
+    "service_name": "路燈故障",
+    "agency": "臺南市仁德區公所",
+    "subproject": "9盞以下路燈故障",
+    "description": "仁德區德南路399巷26弄10號前 路燈",
+    "address_string": "仁德區德南路399巷26弄10號前",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-08 22:20:00"
+}

@@ -9,8 +9,8 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "違規停車",
-    "address_string": "慶平路545-547號間",
+    "description": "安平區慶平路545-547號間 違規停車",
+    "address_string": "安平區慶平路545-547號間間",
     "lat": {
 
     },
@@ -20,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-09-01 18:55:40",
+    "updated_datetime": "2015-09-01 18:55:00",
     "expected_datetime": "2015-09-01 07:49:00"
 }
