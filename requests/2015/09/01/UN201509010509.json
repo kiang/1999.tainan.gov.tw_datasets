@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201509010509",
+    "requested_datetime": "2015-09-01 22:26:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "北區長北街204號附近  妨礙安寧",
+    "address_string": "北區長北街204號附近",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-09-02 00:47:32",
+    "expected_datetime": "2015-09-08 22:26:00"
+}
