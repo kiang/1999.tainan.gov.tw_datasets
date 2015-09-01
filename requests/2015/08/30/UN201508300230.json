@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201508300230",
     "requested_datetime": "2015-08-30 21:38:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "後壁區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市後壁區公所",
     "subproject": "10盞以上路燈故障",
     "description": "後壁區南85線鄉道,頂長里往新港東方向 路燈",
     "address_string": "後壁區南85線鄉道,頂長里往新港東方向",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-01 14:41:58",
     "expected_datetime": "2015-09-06 21:38:00"
 }
