@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509020088",
+    "requested_datetime": "2015-09-02 09:46:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "安平區安平路(華平路沿路往安平) 坑洞",
+    "address_string": "安平區安平路(華平路沿路往安平)",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-09 09:46:00"
+}
