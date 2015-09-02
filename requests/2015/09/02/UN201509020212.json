@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509020212",
     "requested_datetime": "2015-09-02 13:13:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "中西區永華路一段181號前 佔用道路",
     "address_string": "中西區永華路一段181號前",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-02 16:25:05",
     "expected_datetime": "2015-09-09 13:13:00"
 }
