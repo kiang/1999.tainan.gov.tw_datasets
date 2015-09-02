@@ -1,0 +1,29 @@
+{
+    "service_request_id": "UN201509020017",
+    "requested_datetime": "2015-09-02 07:26:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區鐵軌旁邊,榮譽街口到中華東路三段490號天橋下 違規停車",
+    "address_string": "東區鐵軌旁邊,榮譽街口到中華東路三段490號天橋下",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-02 07:26:00"
+}
