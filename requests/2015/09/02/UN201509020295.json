@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201509020295",
     "requested_datetime": "2015-09-02 15:35:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "台南車站前站機車臨時停車區 違規停車",
     "address_string": "台南車站前站機車臨時停車區",
@@ -22,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-02 18:13:50",
     "expected_datetime": "2015-09-02 15:35:00"
 }
