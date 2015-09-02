@@ -10,7 +10,7 @@
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "衛民街57號 違規停車",
-    "address_string": "衛民街57號",
+    "address_string": "中西區衛民街57號",
     "lat": {
 
     },
@@ -20,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-09-02 18:31:32",
+    "updated_datetime": "2015-09-02 18:31:00",
     "expected_datetime": "2015-09-02 16:04:00"
 }
