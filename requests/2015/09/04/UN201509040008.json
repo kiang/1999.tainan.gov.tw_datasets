@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201509040008",
+    "requested_datetime": "2015-09-04 01:18:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "永康區永大路三段511巷,永大陸橋下,鐵軌邊  妨礙安寧",
+    "address_string": "永康區永大路三段511巷,永大陸橋下,鐵軌邊",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-09-04 02:43:01",
+    "expected_datetime": "2015-09-11 01:18:00"
+}
