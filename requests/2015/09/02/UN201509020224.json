@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201509020224",
     "requested_datetime": "2015-09-02 13:30:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "南區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "遊蕩犬隻捕捉管制",
     "description": "南區大同路二段196號2F-2(大林新城) 捕捉動物",
     "address_string": "南區大同路二段196號2F-2(大林新城)",
@@ -22,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-03 10:17:27",
     "expected_datetime": "2015-09-09 13:30:00"
 }
