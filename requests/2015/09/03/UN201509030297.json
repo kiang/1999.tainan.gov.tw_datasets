@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509030297",
+    "requested_datetime": "2015-09-03 15:16:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "將軍區",
+    "service_name": "路燈故障",
+    "agency": "臺南市將軍區公所",
+    "subproject": "9盞以下路燈故障",
+    "description": "將軍區華宗橋(往將軍下坡路段)  路燈不亮",
+    "address_string": "將軍區華宗橋(往將軍下坡路段)",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-10 15:16:00"
+}
