@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201509020370",
     "requested_datetime": "2015-09-02 17:38:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "新市區",
     "service_name": "道路維修",
-    "agency": "臺南市新市區公所",
+    "agency": "台南市政府",
     "subproject": "路面坑洞",
     "description": "新市區環西路一段(聯電新廠前面)    坑洞",
     "address_string": "環西路一段(聯電新廠前面)",
@@ -22,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-04 08:21:22",
     "expected_datetime": "2015-09-02 17:38:00"
 }

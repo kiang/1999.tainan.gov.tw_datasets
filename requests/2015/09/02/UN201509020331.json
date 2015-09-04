@@ -7,7 +7,7 @@
     },
     "area": "東區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府地政局",
     "subproject": "9盞以下路燈故障",
     "description": "東區仁和路和德東街口路口處 路燈",
     "address_string": "東區仁和路和德東街口路口處",
@@ -20,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-09-03 10:39:57",
+    "updated_datetime": "2015-09-04 08:34:19",
     "expected_datetime": "2015-09-09 16:35:00"
 }

@@ -7,7 +7,7 @@
     },
     "area": "安南區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "安南區安中路一段699巷全家前 路面坑洞",
     "address_string": "安南區安中路一段699巷全家前",
@@ -20,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-09-03 16:00:01",
+    "updated_datetime": "2015-09-04 08:58:23",
     "expected_datetime": "2015-09-09 10:49:00"
 }
