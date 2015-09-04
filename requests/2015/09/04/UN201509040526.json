@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201509040526",
+    "requested_datetime": "2015-09-04 21:35:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區和緯路二段小北夜市旁 違停",
+    "address_string": "北區和緯路二段小北夜市旁",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-09-04 23:48:54",
+    "expected_datetime": "2015-09-11 21:35:00"
+}
