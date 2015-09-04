@@ -9,7 +9,7 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "違規停車",
+    "description": "中西區衛民街（北門路口^中山路口)+萬昌街(青年路口^衛民街口) 違規停車",
     "address_string": "衛民街+萬昌街",
     "lat": {
 
@@ -20,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-09-04 20:54:35",
+    "updated_datetime": "2015-09-04 20:54:00",
     "expected_datetime": "2015-09-04 16:57:00"
 }
