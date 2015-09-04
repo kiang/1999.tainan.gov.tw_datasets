@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509040165",
+    "requested_datetime": "2015-09-04 11:00:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "安南區怡安路一段171巷173號 佔用道路",
+    "address_string": "怡安路一段171巷173號",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-11 11:00:00"
+}
