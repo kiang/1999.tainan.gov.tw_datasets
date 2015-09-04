@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509050003",
+    "requested_datetime": "2015-09-05 00:11:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "鹽水區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "鹽水區文武街\/康樂路口 卡啦OK 妨礙安寧",
+    "address_string": "鹽水區文武街\/康樂路口 卡啦OK",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-12 00:11:00"
+}
