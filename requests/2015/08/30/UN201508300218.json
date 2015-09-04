@@ -7,7 +7,7 @@
     },
     "area": "東 區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第一分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區崇善路414號 違規停車",
     "address_string": "701台灣台南市東區崇善路414號",
@@ -20,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-08-31 01:07:41",
+    "updated_datetime": "2015-09-04 11:30:40",
     "expected_datetime": "2015-08-30 20:29:00"
 }
