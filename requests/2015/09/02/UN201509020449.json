@@ -7,7 +7,7 @@
     },
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局永康分局,臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "永康區五福街188巷   佔用道路",
     "address_string": "永康區五福街188巷",
@@ -20,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-09-03 07:42:44",
+    "updated_datetime": "2015-09-04 10:42:53",
     "expected_datetime": "2015-09-02 21:08:00"
 }
