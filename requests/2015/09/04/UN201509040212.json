@@ -9,8 +9,8 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "北門ㄧ段132+134 違規停車",
-    "address_string": "北門ㄧ段132+134",
+    "description": "東區北門路一段132號+134號（地下道出入口) 違規停車",
+    "address_string": "東區北門路一段132號+134號（地下道出入口)",
     "lat": {
 
     },
@@ -20,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-09-04 15:04:31",
+    "updated_datetime": "2015-09-04 15:04:00",
     "expected_datetime": "2015-09-04 11:58:00"
 }

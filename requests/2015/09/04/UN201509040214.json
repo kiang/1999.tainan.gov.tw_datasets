@@ -9,7 +9,7 @@
     "service_name": "違規停車",
     "agency": "臺南市佳里區公所,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "佳里區成功路213巷103號轉角處 違停\/登革熱",
+    "description": "佳里區成功路213巷103號轉角處 違停",
     "address_string": "佳里區成功路213巷103號轉角處",
     "lat": {
 
@@ -20,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-09-04 19:52:07",
+    "updated_datetime": "2015-09-04 19:52:00",
     "expected_datetime": "2015-09-11 11:59:00"
 }

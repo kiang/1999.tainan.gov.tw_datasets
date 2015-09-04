@@ -9,7 +9,7 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "永康區大橋二街與中華二路口",
+    "description": "永康區大橋二街與中華二路口 違停",
     "address_string": "永康區大橋二街與中華二路口",
     "lat": {
 
@@ -20,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-09-04 20:50:20",
+    "updated_datetime": "2015-09-04 20:50:00",
     "expected_datetime": "2015-09-11 15:32:00"
 }
