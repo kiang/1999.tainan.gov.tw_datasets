@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201509050355",
-    "requested_datetime": "2015-09-05 19:54:00",
+    "service_request_id": "UN201509050360",
+    "requested_datetime": "2015-09-05 20:10:00",
     "status": {
 
     },
@@ -11,8 +11,8 @@
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "東區東寧路241號前  違規停車",
-    "address_string": "東寧路241號前",
+    "description": "違規停車",
+    "address_string": "北門路一段132號+134號",
     "lat": {
 
     },
@@ -25,5 +25,5 @@
     "updated_datetime": {
 
     },
-    "expected_datetime": "2015-09-05 19:54:00"
+    "expected_datetime": "2015-09-05 20:10:00"
 }
