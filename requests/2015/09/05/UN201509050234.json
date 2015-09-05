@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509050234",
     "requested_datetime": "2015-09-05 14:40:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "南區金華路一段100多號跟鹽埕路口 佔用道路\/空污",
     "address_string": "南區金華路一段100多號鹽埕路口",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-05 19:19:26",
     "expected_datetime": "2015-09-12 14:40:00"
 }
