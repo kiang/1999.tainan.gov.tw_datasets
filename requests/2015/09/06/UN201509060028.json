@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509060028",
+    "requested_datetime": "2015-09-06 07:00:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "仁德區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "仁德區勝利路132巷16號和義林南路口 道路散落物",
+    "address_string": "仁德區勝利路132巷16號和義林南路口",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-13 07:00:00"
+}
