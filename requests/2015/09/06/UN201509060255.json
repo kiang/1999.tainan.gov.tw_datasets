@@ -5,20 +5,12 @@
     "keyword": {
 
     },
-    "area": {
-
-    },
-    "service_name": {
-
-    },
-    "agency": "臺南市政府警察局勤務指揮中心",
-    "subproject": {
-
-    },
-    "description": "違停",
-    "address_string": {
-
-    },
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區永安路與中正北路交叉口 違停",
+    "address_string": "永安路與中正北路交叉口",
     "lat": {
 
     },

@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509060269",
+    "requested_datetime": "2015-09-06 18:28:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "大內區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "大內區石城里122之128號右前方空地上 空污",
+    "address_string": "大內區石城里122之128號右前方空地上",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-13 18:28:00"
+}
