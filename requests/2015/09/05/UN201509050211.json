@@ -10,9 +10,7 @@
     "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "東區大同路一段102號\/108號前\/府連路149號 路面坑洞",
-    "address_string": {
-
-    },
+    "address_string": "東區大同路一段102號\/108號前\/府連路149號",
     "lat": {
 
     },
@@ -22,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-09-07 10:06:20",
+    "updated_datetime": "2015-09-07 10:06:00",
     "expected_datetime": "2015-09-12 13:45:00"
 }
