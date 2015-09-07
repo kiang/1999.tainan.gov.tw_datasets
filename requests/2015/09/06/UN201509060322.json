@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201509060322",
     "requested_datetime": "2015-09-06 21:17:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區北門路二段547巷到長榮路 長榮路五段(北門路到開元路) 違停",
     "address_string": "北區北門路二段(547巷到長榮路)\/長榮路五段(北門路到開元路)",
@@ -22,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-07 08:19:07",
     "expected_datetime": "2015-09-06 21:17:00"
 }
