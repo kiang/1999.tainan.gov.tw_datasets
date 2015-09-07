@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201509050198",
     "requested_datetime": "2015-09-05 13:26:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "安南區大安街(路口)與海佃路二段交叉 號誌",
     "address_string": "安南區大安街(路口)與海佃路二段",
@@ -22,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-07 09:01:37",
     "expected_datetime": "2015-09-05 13:26:00"
 }
