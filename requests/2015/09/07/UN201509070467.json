@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201509070427",
-    "requested_datetime": "2015-09-07 18:28:00",
+    "service_request_id": "UN201509070467",
+    "requested_datetime": "2015-09-07 19:41:00",
     "status": "未處理",
     "keyword": {
 
@@ -9,8 +9,8 @@
     "service_name": "路燈故障",
     "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
-    "description": "安平區文平路80號 路燈",
-    "address_string": "安平區文平路80號",
+    "description": "安平區健康三街460巷45號 路燈",
+    "address_string": "安平區健康三街460巷45號",
     "lat": {
 
     },
@@ -23,5 +23,5 @@
     "updated_datetime": {
 
     },
-    "expected_datetime": "2015-09-14 18:28:00"
+    "expected_datetime": "2015-09-14 19:41:00"
 }
