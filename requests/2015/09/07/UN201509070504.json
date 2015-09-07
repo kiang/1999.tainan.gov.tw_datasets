@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201509070504",
+    "requested_datetime": "2015-09-07 22:27:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "中西區新美街136號 妨礙安寧",
+    "address_string": "中西區新美街136號",
+    "lat": "22.996703540595824",
+    "long": "120.20087420940398",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-07 22:27:00"
+}
