@@ -9,8 +9,8 @@
     "service_name": "髒亂及汙染",
     "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
-    "description": "南區尊南街223號(金鳳陽春麵) 空汙",
-    "address_string": "南區尊南街223號(金鳳陽春麵)",
+    "description": "南區尊南街223號  空汙",
+    "address_string": "南區尊南街223號",
     "lat": {
 
     },
@@ -20,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-09-08 00:57:09",
+    "updated_datetime": "2015-09-08 00:57:00",
     "expected_datetime": "2015-09-14 09:22:00"
 }
