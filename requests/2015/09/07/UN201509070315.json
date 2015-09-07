@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509070315",
     "requested_datetime": "2015-09-07 15:15:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "南區金華路一段60巷53號和39號\/南區金華路一段84巷巷口 佔用道路\/違停",
     "address_string": "南區金華路一段60巷53號和39號\/南區金華路一段84巷巷口",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-07 16:24:36",
     "expected_datetime": "2015-09-14 15:15:00"
 }
