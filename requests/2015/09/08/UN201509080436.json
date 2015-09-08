@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509080436",
+    "requested_datetime": "2015-09-08 18:19:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局",
+    "subproject": "9盞以下路燈故障",
+    "description": "南區南定橋附近(灣裡路西側堤防邊,約明興路到底) 路燈",
+    "address_string": "南定橋附近(灣裡路西側堤防邊,約明興路到底)",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-15 18:19:00"
+}
