@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509080204",
     "requested_datetime": "2015-09-08 11:49:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "南區金華路一段64巷及金華路一段80巷 佔用道路",
     "address_string": "南區金華路一段64巷及金華路一段80巷",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-08 15:16:40",
     "expected_datetime": "2015-09-15 11:49:00"
 }
