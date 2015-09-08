@@ -7,7 +7,7 @@
     },
     "area": "麻豆區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局麻豆分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "麻豆區興中路63號 違規停車",
     "address_string": "721台灣台南市麻豆區興中路63號",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-09-05 19:11:52",
+    "updated_datetime": "2015-09-08 08:55:14",
     "expected_datetime": "2015-09-05 13:07:00"
 }
