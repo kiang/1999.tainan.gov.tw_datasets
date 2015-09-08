@@ -7,7 +7,7 @@
     },
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區北門路一段1號至東門圓環 違停",
     "address_string": "700台灣台南市中西區北門路一段1號",
@@ -16,6 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-09-07 08:26:47",
+    "updated_datetime": "2015-09-08 09:20:36",
     "expected_datetime": "2015-09-06 20:17:00"
 }

@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509060295",
     "requested_datetime": "2015-09-06 19:16:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "南區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "南區金華路二段15巷48號與47號 路燈",
     "address_string": "金華路二段15巷48號與47號",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-08 09:50:18",
     "expected_datetime": "2015-09-13 19:16:00"
 }

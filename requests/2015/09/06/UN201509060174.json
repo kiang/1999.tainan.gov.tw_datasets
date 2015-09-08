@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509060174",
     "requested_datetime": "2015-09-06 14:34:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "南區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "南區灣裡路與喜樹路 路面漏水",
     "address_string": "南區灣裡路與喜樹路",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-08 09:36:39",
     "expected_datetime": "2015-09-13 14:34:00"
 }
