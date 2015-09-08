@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509070488",
     "requested_datetime": "2015-09-07 20:13:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "北區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面下陷、凹陷",
     "description": "北區西門路四段小北夜市6號 路面下陷",
     "address_string": "北區西門路四段小北夜市6號",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-08 11:34:36",
     "expected_datetime": "2015-09-14 20:13:00"
 }
