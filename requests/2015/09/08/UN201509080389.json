@@ -9,7 +9,7 @@
     "service_name": "道路維修",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
-    "description": "東區崇德路559號 攤販",
+    "description": "東區崇德路559號 佔用道路",
     "address_string": "崇德路559號",
     "lat": {
 
@@ -20,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-09-08 18:13:16",
+    "updated_datetime": "2015-09-08 18:13:00",
     "expected_datetime": "2015-09-15 17:23:00"
 }
