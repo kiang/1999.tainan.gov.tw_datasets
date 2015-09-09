@@ -9,8 +9,8 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "違規停車",
-    "address_string": "700, 台南市中西區南門路４６－６號",
+    "description": "中西區南門路46-6號 泰星球前 違規停車",
+    "address_string": "中西區南門路46-6號 泰星球前",
     "lat": {
 
     },
@@ -20,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-09-09 21:08:15",
+    "updated_datetime": "2015-09-09 21:08:00",
     "expected_datetime": "2015-09-09 18:40:00"
 }
