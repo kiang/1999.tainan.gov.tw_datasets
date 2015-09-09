@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509090457",
+    "requested_datetime": "2015-09-09 19:15:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "南區大成路一段和水交社路口 水交社路和興昌路口 路燈",
+    "address_string": "南區大成路一段和水交社路口 水交社路和興昌路口",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-16 19:15:00"
+}
