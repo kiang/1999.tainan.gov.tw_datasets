@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509080445",
     "requested_datetime": "2015-09-08 19:04:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安南區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "安南區安通路二段6號 安南區開安一街尾 安南區開安四街口 安南區開安五街10號-32號 路燈",
     "address_string": "安南區安通路二段6號 安南區開安一街尾 安南區開安四街口 安南區開安五街10號-32號",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-09 09:01:03",
     "expected_datetime": "2015-09-15 19:04:00"
 }
