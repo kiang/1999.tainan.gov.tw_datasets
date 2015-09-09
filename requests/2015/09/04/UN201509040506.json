@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509040506",
     "requested_datetime": "2015-09-04 20:51:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "東區後甲圓環裕農路上往復興國中方向 坑洞",
     "address_string": "東區後甲圓環裕農路上往復興國中方向",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-09 15:52:57",
     "expected_datetime": "2015-09-11 20:51:00"
 }

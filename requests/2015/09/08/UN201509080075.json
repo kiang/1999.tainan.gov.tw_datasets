@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509080075",
     "requested_datetime": "2015-09-08 09:10:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "鹽水區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "鹽水區中山路靠近康樂路",
     "address_string": "鹽水區中山路靠近康樂路",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-09 15:00:27",
     "expected_datetime": "2015-09-15 09:10:00"
 }
