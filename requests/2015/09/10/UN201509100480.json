@@ -8,9 +8,7 @@
     "area": "中西區",
     "service_name": "路燈故障",
     "agency": "台南市政府",
-    "subproject": {
-
-    },
+    "subproject": "9盞以下路燈故障",
     "description": "中西區郡偉街和海安路二段路口轉角處 路燈",
     "address_string": "中西區郡偉街和海安路二段路口轉角處",
     "lat": {
