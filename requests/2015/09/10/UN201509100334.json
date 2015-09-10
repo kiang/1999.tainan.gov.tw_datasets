@@ -1,0 +1,29 @@
+{
+    "service_request_id": "UN201509100334",
+    "requested_datetime": "2015-09-10 15:57:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "交通運輸",
+    "address_string": "北區北門路二段(和緯路到長榮路)",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-10 15:57:00"
+}
