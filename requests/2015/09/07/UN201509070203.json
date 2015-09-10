@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509070203",
     "requested_datetime": "2015-09-07 11:54:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "永康區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市永康區公所",
     "subproject": "路面坑洞",
     "description": "永康區永安路167號對面 路面坑洞",
     "address_string": "永康區永安路167號對面",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-10 08:39:15",
     "expected_datetime": "2015-09-14 11:54:00"
 }
