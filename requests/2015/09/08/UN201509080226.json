@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509080226",
     "requested_datetime": "2015-09-08 12:34:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "南區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "南區新興路396號前方汽車道上 坑洞",
     "address_string": "南區新興路396號前方汽車道上",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-10 13:48:33",
     "expected_datetime": "2015-09-15 12:34:00"
 }
