@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201509100250",
-    "requested_datetime": "2015-09-10 13:57:00",
+    "service_request_id": "UN201509100281",
+    "requested_datetime": "2015-09-10 14:48:00",
     "status": {
 
     },
@@ -11,8 +11,8 @@
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "北門路一段132號+134號 違規停車",
-    "address_string": "北門路一段132號+134號",
+    "description": "東區小東路(林森路到中華東路) 違規停車",
+    "address_string": "東區小東路(林森路到中華東路)",
     "lat": {
 
     },
@@ -25,5 +25,5 @@
     "updated_datetime": {
 
     },
-    "expected_datetime": "2015-09-10 13:57:00"
+    "expected_datetime": "2015-09-10 14:48:00"
 }
