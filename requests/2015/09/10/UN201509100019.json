@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201509100019",
     "requested_datetime": "2015-09-10 07:45:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區榮譽街口與中華東路三段490號天橋下鐵軌旁邊 違規停車",
     "address_string": "鐵軌旁邊",
@@ -22,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-10 17:17:06",
     "expected_datetime": "2015-09-10 07:45:00"
 }

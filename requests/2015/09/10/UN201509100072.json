@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201509100072",
     "requested_datetime": "2015-09-10 09:18:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "民權路一段206號 噪音舉發",
     "address_string": "民權路一段206號",
@@ -22,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-10 17:24:00",
     "expected_datetime": "2015-09-10 09:18:00"
 }
