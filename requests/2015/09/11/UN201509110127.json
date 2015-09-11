@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201509110127",
+    "requested_datetime": "2015-09-11 10:31:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "安南區本原街三段321巷19號 佔用道路",
+    "address_string": "安南區本原街三段321巷19號",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-09-11 15:25:36",
+    "expected_datetime": "2015-09-18 10:31:00"
+}

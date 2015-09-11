@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201509110265",
-    "requested_datetime": "2015-09-11 14:56:00",
+    "service_request_id": "UN201509110294",
+    "requested_datetime": "2015-09-11 15:36:00",
     "status": {
 
     },
@@ -11,8 +11,8 @@
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "永康區中正北路126號周邊 違規停車",
-    "address_string": "永康區中正北路126號周邊",
+    "description": "永康區中正北路122號 違規停車",
+    "address_string": "永康區中正北路122號",
     "lat": {
 
     },
@@ -25,5 +25,5 @@
     "updated_datetime": {
 
     },
-    "expected_datetime": "2015-09-11 14:56:00"
+    "expected_datetime": "2015-09-11 15:36:00"
 }

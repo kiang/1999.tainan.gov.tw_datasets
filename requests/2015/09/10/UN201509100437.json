@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509100437",
     "requested_datetime": "2015-09-10 19:18:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "六甲區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "六甲區龜港里116巷內 空氣汙染",
     "address_string": "六甲區龜港里116巷內",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-11 15:30:01",
     "expected_datetime": "2015-09-17 19:18:00"
 }
