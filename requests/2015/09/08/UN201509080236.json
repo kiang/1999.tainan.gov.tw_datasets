@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509080236",
     "requested_datetime": "2015-09-08 12:40:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "南區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "南區喜樹路上86快速道路下紅綠燈旁邊 漏水",
     "address_string": "喜樹路上86快速道路下紅綠燈旁邊",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-11 10:40:19",
     "expected_datetime": "2015-09-15 12:40:00"
 }
