@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201509100067",
     "requested_datetime": "2015-09-10 09:13:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "衛民街117號左後測觀音講寺工地 噪音舉發",
     "address_string": "衛民街117號左後測觀音講寺工地",
@@ -22,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-11 09:40:01",
     "expected_datetime": "2015-09-10 09:13:00"
 }

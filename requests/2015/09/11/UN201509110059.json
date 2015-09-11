@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201509110059",
+    "requested_datetime": "2015-09-11 09:27:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "佳里區",
+    "service_name": "騎樓舉發",
+    "agency": "台南市政府",
+    "subproject": "騎樓舉發",
+    "description": "佳里區中山路279號 騎樓舉發",
+    "address_string": "722台灣台南市佳里區中山路279號",
+    "lat": "23.160982843410597",
+    "long": "120.17667833715676",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-11 09:27:00"
+}
