@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509100487",
     "requested_datetime": "2015-09-10 22:24:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "北區和緯路三段\/海安路三段(運動館) 噪音",
     "address_string": "北區和緯路三段\/海安路三段(運動館)",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-11 07:31:39",
     "expected_datetime": "2015-09-17 22:24:00"
 }
