@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201509100359",
     "requested_datetime": "2015-09-10 16:31:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "仁德區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "仁德區中正西路202巷171號 燒塑膠味道跟黑煙髒亂及汙染",
     "address_string": "717台灣台南市仁德區中正西路202巷171號",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-11 16:58:09",
     "expected_datetime": "2015-09-10 16:31:00"
 }
