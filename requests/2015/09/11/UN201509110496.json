@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509110496",
     "requested_datetime": "2015-09-11 22:16:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "中西區海安路上靠民權路\/海安路 妨礙安寧",
     "address_string": "中西區海安路上靠民權路\/海安路,",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-12 07:42:40",
     "expected_datetime": "2015-09-18 22:16:00"
 }
