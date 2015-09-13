@@ -1,0 +1,29 @@
+{
+    "service_request_id": "UN201509130271",
+    "requested_datetime": "2015-09-13 20:46:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區中正北路兩側(新行街到177巷交岔路口) 違停",
+    "address_string": "永康區中正北路兩側(新行街到177巷交岔路口)",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-13 20:46:00"
+}

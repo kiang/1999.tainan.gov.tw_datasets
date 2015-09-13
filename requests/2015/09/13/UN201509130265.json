@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509130265",
+    "requested_datetime": "2015-09-13 19:49:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區中華西路二段16號  違停",
+    "address_string": "中西區中華西路二段16號",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-20 19:49:00"
+}
