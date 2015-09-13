@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201509130151",
+    "requested_datetime": "2015-09-13 13:44:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "佳里區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "722台灣台南市佳里區中山路290號 疏導交通",
+    "address_string": "722台灣台南市佳里區中山路290號",
+    "lat": "23.160928282440025",
+    "long": "120.17679836601019",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-13 13:44:00"
+}

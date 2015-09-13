@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509130148",
+    "requested_datetime": "2015-09-13 13:36:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區西華南街上從中山路和成功路此路段 違停",
+    "address_string": "中西區西華南街上從中山路和成功路此路段",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-20 13:36:00"
+}
