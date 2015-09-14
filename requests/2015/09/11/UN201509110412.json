@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509110412",
     "requested_datetime": "2015-09-11 18:34:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "永康區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市永康區公所",
     "subproject": "9盞以下路燈故障",
     "description": "永康區仁愛街136巷28弄整條 路燈",
     "address_string": "永康區仁愛街136巷28弄整條",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-14 15:54:50",
     "expected_datetime": "2015-09-18 18:34:00"
 }
