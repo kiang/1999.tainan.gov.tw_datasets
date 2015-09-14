@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201509140180",
-    "requested_datetime": "2015-09-14 11:56:00",
+    "service_request_id": "UN201509140183",
+    "requested_datetime": "2015-09-14 12:00:00",
     "status": {
 
     },
@@ -11,8 +11,8 @@
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "中西區府前路82-1號 違規停車",
-    "address_string": "府前路82-1號",
+    "description": "中西區興華街 北門路口到青年路口 違規停車",
+    "address_string": "興華街",
     "lat": {
 
     },
@@ -25,5 +25,5 @@
     "updated_datetime": {
 
     },
-    "expected_datetime": "2015-09-14 11:56:00"
+    "expected_datetime": "2015-09-14 12:00:00"
 }
