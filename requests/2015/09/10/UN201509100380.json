@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509100380",
     "requested_datetime": "2015-09-10 17:13:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "中華東路三段485號斜對面  路燈故障",
     "address_string": "中華東路三段485號斜對面",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-14 10:44:54",
     "expected_datetime": "2015-09-17 17:13:00"
 }
