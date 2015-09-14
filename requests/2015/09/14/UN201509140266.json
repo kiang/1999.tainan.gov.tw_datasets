@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201509140266",
     "requested_datetime": "2015-09-14 14:44:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東 區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "東區自由路一段158號 騎樓舉發",
     "address_string": "701台灣台南市東區自由路一段158號",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-14 16:44:22",
     "expected_datetime": "2015-09-14 14:44:00"
 }
