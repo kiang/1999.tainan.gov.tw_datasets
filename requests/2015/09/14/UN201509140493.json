@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509140493",
+    "requested_datetime": "2015-09-14 23:02:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "安平區育平八街31號對面 坑洞",
+    "address_string": "安平區育平八街31號對面",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-21 23:02:00"
+}
