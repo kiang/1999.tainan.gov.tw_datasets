@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509130229",
     "requested_datetime": "2015-09-13 17:14:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "歸仁區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市歸仁區公所",
     "subproject": "9盞以下路燈故障",
     "description": "歸仁區大廟六街110巷20弄9號 路燈",
     "address_string": "大廟六街110巷20弄9號",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-14 17:17:02",
     "expected_datetime": "2015-09-20 17:14:00"
 }
