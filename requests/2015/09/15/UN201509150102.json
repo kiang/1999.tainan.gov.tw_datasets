@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509150102",
     "requested_datetime": "2015-09-15 10:16:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "交通疏導",
     "description": "永康區甲頂路6號到10號 違停",
     "address_string": "永康區甲頂路6號-10號",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-15 14:23:42",
     "expected_datetime": "2015-09-22 10:16:00"
 }
