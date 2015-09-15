@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509160007",
+    "requested_datetime": "2015-09-16 03:38:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "北區公園路128號 妨礙安寧",
+    "address_string": "北區公園路128號",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-23 03:38:00"
+}
