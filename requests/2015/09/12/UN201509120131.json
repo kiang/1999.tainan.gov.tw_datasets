@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509120131",
     "requested_datetime": "2015-09-12 12:12:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "東區中華東路二段48巷22號前面 路燈",
     "address_string": "東區中華東路二段48巷22號前面",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-15 09:56:38",
     "expected_datetime": "2015-09-19 12:12:00"
 }
