@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509140498",
     "requested_datetime": "2015-09-14 23:29:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "仁德區",
     "service_name": "髒亂及汙染",
-    "agency": "臺南市政府工務局,臺南市政府環境保護局",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "仁德區中正路靠近舊的奇美博物館附近 空氣汙染",
     "address_string": "仁德區中正路靠近舊的奇美博物館附近",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-15 16:09:58",
     "expected_datetime": "2015-09-21 23:29:00"
 }
