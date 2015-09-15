@@ -9,8 +9,8 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "違規停車",
-    "address_string": "五妃街280巷口的騎樓",
+    "description": "中西區五妃街280巷口的騎樓 違規停車",
+    "address_string": "中西區五妃街280巷口的騎樓",
     "lat": {
 
     },
@@ -20,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-09-15 12:05:24",
+    "updated_datetime": "2015-09-15 12:05:00",
     "expected_datetime": "2015-09-15 09:34:00"
 }
