@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201509140370",
     "requested_datetime": "2015-09-14 17:32:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌秒差調整",
     "description": "西華南街與民族路口 號誌秒差",
     "address_string": "西華南街與民族路口",
@@ -22,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-15 15:04:39",
     "expected_datetime": "2015-09-14 17:32:00"
 }
