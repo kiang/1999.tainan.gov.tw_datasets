@@ -9,7 +9,7 @@
     "service_name": "交通運輸",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
-    "description": "佔用道路",
+    "description": "佳里區建中街37號對面 佔用道路",
     "address_string": "佳里區建中街37號對面",
     "lat": {
 
@@ -20,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-09-16 18:23:08",
+    "updated_datetime": "2015-09-16 18:23:00",
     "expected_datetime": "2015-09-23 12:58:00"
 }
