@@ -5,20 +5,12 @@
     "keyword": {
 
     },
-    "area": {
-
-    },
-    "service_name": {
-
-    },
+    "area": "南區",
+    "service_name": "交通運輸",
     "agency": "台南市政府",
-    "subproject": {
-
-    },
-    "description": "南區健康路二段與南樂街新樂路",
-    "address_string": {
-
-    },
+    "subproject": "號誌故障",
+    "description": "南區健康路二段與南樂街新樂路 號誌故障",
+    "address_string": "南區健康路二段與南樂街新樂路",
     "lat": {
 
     },
