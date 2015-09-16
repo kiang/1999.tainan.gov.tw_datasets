@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201509160190",
+    "requested_datetime": "2015-09-16 13:36:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "東 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區崇德路678號\/崇德路與崇明二十三街\/崇德二十一街十字路口 違規停車",
+    "address_string": "701台灣台南市東區崇德路678號",
+    "lat": "22.967427041467168",
+    "long": "120.22742204368114",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-16 13:36:00"
+}
