@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509160368",
+    "requested_datetime": "2015-09-16 22:30:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "北區東豐路\/東興路口的公園內 妨礙安寧",
+    "address_string": "北區東豐路\/東興路口的公園內",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-23 22:30:00"
+}
