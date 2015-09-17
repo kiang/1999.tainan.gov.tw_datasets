@@ -1,29 +1,25 @@
 {
-    "service_request_id": "UN201509170076",
-    "requested_datetime": "2015-09-17 09:33:00",
+    "service_request_id": "UN201509170122",
+    "requested_datetime": "2015-09-17 10:40:00",
     "status": {
 
     },
     "keyword": {
 
     },
-    "area": "東區",
+    "area": "新市區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "違規停車",
-    "address_string": "東區鐵軌旁紅線",
-    "lat": {
-
-    },
-    "long": {
-
-    },
+    "address_string": "新市區中華路124號",
+    "lat": "23.064267507272092",
+    "long": "120.29432237148285",
     "service_notice": {
 
     },
     "updated_datetime": {
 
     },
-    "expected_datetime": "2015-09-17 09:33:00"
+    "expected_datetime": "2015-09-17 10:40:00"
 }
