@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509160206",
     "requested_datetime": "2015-09-16 14:13:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "安南區公學路六段(河堤邊) 空氣汙染",
     "address_string": "安南區公學路六段(河堤邊)",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-17 11:08:39",
     "expected_datetime": "2015-09-23 14:13:00"
 }
