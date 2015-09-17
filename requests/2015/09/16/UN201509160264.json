@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509160264",
     "requested_datetime": "2015-09-16 16:32:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安南區",
     "service_name": "道路維修",
-    "agency": "臺南市政府工務局",
+    "agency": "台南市政府",
     "subproject": "路面坑洞",
     "description": "安南區長和路一段222巷內 坑洞",
     "address_string": "安南區長和路一段222巷內",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-17 14:44:02",
     "expected_datetime": "2015-09-23 16:32:00"
 }
