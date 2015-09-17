@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509170063",
+    "requested_datetime": "2015-09-17 09:08:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "南區",
+    "service_name": "登革熱通報",
+    "agency": "台南市政府",
+    "subproject": "空地空屋孳清通報",
+    "description": "環境髒亂  登革熱",
+    "address_string": "南區新建路32巷4號",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-24 09:08:00"
+}
