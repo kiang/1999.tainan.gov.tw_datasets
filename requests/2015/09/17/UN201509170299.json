@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201509170299",
+    "requested_datetime": "2015-09-17 17:13:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "佳里區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "佳里區海澄里萊芊寮12-14號 佔用道路",
+    "address_string": "佳里區海澄里萊芊寮12-14號",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-09-17 18:16:00",
+    "expected_datetime": "2015-09-24 17:13:00"
+}
