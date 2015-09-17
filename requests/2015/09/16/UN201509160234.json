@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509160234",
     "requested_datetime": "2015-09-16 15:22:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "東區東寧路西段往前鋒路方向 路面坑洞",
     "address_string": "東區東寧路西段往前鋒路方向",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-17 16:06:59",
     "expected_datetime": "2015-09-23 15:22:00"
 }

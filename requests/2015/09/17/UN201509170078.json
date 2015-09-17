@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509170078",
+    "requested_datetime": "2015-09-17 09:34:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "登革熱通報",
+    "agency": "台南市政府",
+    "subproject": "空地空屋孳清通報",
+    "description": "永康區正北一路66號 登革熱",
+    "address_string": "永康區正北一路66號",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-24 09:34:00"
+}
