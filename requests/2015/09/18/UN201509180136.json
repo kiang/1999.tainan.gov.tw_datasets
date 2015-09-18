@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509180136",
+    "requested_datetime": "2015-09-18 10:52:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "六甲區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨礙安寧",
+    "description": "六甲區七甲街93巷52號",
+    "address_string": "六甲區七甲街93巷52號",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-25 10:52:00"
+}
