@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509180088",
+    "requested_datetime": "2015-09-18 09:55:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "仁德區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "仁德區大同路三段和機場路交叉口 號誌",
+    "address_string": "仁德區大同路三段和機場路交叉口",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-25 09:55:00"
+}
