@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201509180375",
+    "requested_datetime": "2015-09-18 18:20:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區崇善路*林森路 大東夜市旁  違停",
+    "address_string": "東區崇善路*林森路 大東夜市旁",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-09-18 18:54:18",
+    "expected_datetime": "2015-09-25 18:20:00"
+}
