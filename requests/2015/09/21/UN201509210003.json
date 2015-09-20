@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509210003",
     "requested_datetime": "2015-09-21 00:37:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "東區立德十路 妨礙安寧",
     "address_string": "東區立德十路",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-21 06:47:16",
     "expected_datetime": "2015-09-28 00:37:00"
 }
