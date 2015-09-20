@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509200189",
+    "requested_datetime": "2015-09-20 18:22:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區西門路四段16巷內的三叉路口 佔用道路",
+    "address_string": "西門路四段16巷內的三叉路口",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-27 18:22:00"
+}
