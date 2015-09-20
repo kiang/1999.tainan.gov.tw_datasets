@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509190367",
     "requested_datetime": "2015-09-19 22:53:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安平區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "安平區同平路咖啡廣場旁停車場 妨礙安寧",
     "address_string": "同平路咖啡廣場旁停車場",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-20 07:41:29",
     "expected_datetime": "2015-09-26 22:53:00"
 }
