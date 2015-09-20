@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509200147",
+    "requested_datetime": "2015-09-20 15:45:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "安南區館前街和館前二路口 佔用道路",
+    "address_string": "安南區館前街和館前二路口",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-27 15:45:00"
+}
