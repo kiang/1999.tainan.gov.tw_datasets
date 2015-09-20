@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509200100",
+    "requested_datetime": "2015-09-20 12:48:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "北區富北街7號對面  台南國稅局對面   空汙",
+    "address_string": "北區富北街7號對面  台南國稅局對面",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-27 12:48:00"
+}
