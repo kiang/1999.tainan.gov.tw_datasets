@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509200070",
+    "requested_datetime": "2015-09-20 10:58:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "安南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "安南區大安街461巷57-7號前方  路面坑洞",
+    "address_string": "安南區大安街461巷57-7號前方",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-27 10:58:00"
+}
