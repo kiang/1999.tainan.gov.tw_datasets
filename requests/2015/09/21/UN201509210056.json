@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509210056",
+    "requested_datetime": "2015-09-21 09:01:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "東區裕英街116號旁 佔用道路",
+    "address_string": {
+
+    },
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-09-21 13:47:00",
+    "expected_datetime": "2015-09-28 09:01:00"
+}
