@@ -1,0 +1,29 @@
+{
+    "service_request_id": "UN201509210368",
+    "requested_datetime": "2015-09-21 17:20:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "北區北園街78號超商周圍、89開元寺周邊、89號超商周圍\/北園街8巷兩側\/開元路485巷兩側",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-21 17:20:00"
+}
