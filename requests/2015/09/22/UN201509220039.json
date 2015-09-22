@@ -1,9 +1,7 @@
 {
-    "service_request_id": "UN201509220037",
-    "requested_datetime": "2015-09-22 08:51:00",
-    "status": {
-
-    },
+    "service_request_id": "UN201509220039",
+    "requested_datetime": "2015-09-22 08:58:00",
+    "status": "未處理",
     "keyword": {
 
     },
@@ -11,8 +9,8 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "中西區民族路二段76號 違停",
-    "address_string": "中西區民族路二段76號",
+    "description": "中西區成功路271號前 違停",
+    "address_string": "中西區成功路271號前",
     "lat": {
 
     },
@@ -25,5 +23,5 @@
     "updated_datetime": {
 
     },
-    "expected_datetime": "2015-09-22 08:51:00"
+    "expected_datetime": "2015-09-29 08:58:00"
 }
