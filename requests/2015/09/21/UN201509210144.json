@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201509210144",
     "requested_datetime": "2015-09-21 10:39:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "龍昌街和龍國街口 交通運輸",
     "address_string": "龍昌街和龍國街口",
@@ -22,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-22 16:48:11",
     "expected_datetime": "2015-09-21 10:39:00"
 }
