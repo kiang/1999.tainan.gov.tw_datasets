@@ -1,25 +1,21 @@
 {
     "service_request_id": "UN201509220263",
     "requested_datetime": "2015-09-22 16:15:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東 區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "東區崇德路680號中醫診所前面，違規停車。東區崇德路763號迷客夏冷飲店門口旁違規停車。 違規停車",
+    "description": "東區崇德路680號中醫診所前面  崇德路763號迷客夏冷飲店門口旁  違規停車",
     "address_string": "701台灣台南市東區崇德路680號",
     "lat": "22.967190887499044",
     "long": "120.22752329707144",
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-22 17:08:57",
     "expected_datetime": "2015-09-22 16:15:00"
 }
