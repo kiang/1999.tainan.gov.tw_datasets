@@ -5,20 +5,12 @@
     "keyword": {
 
     },
-    "area": {
-
-    },
-    "service_name": {
-
-    },
+    "area": "安南區",
+    "service_name": "路燈故障",
     "agency": "台南市政府",
-    "subproject": {
-
-    },
-    "description": "路燈不亮",
-    "address_string": {
-
-    },
+    "subproject": "9盞以下路燈故障",
+    "description": "安南區安富街389號前 路燈不亮",
+    "address_string": "安南區安富街389號",
     "lat": {
 
     },
