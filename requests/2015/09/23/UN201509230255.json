@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509230255",
     "requested_datetime": "2015-09-23 15:58:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區永福路二段78巷和永福國小後面巷子內 違停",
     "address_string": "中西區永福路二段78巷和永福國小後面巷子內",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-24 02:49:42",
     "expected_datetime": "2015-09-30 15:58:00"
 }
