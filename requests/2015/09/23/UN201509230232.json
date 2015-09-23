@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201509230232",
+    "requested_datetime": "2015-09-23 15:13:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區開南街273巷24弄(柴頭港溪沿線兩側) 違規停車",
+    "address_string": "北區開南街273巷24弄(柴頭港溪沿線兩側)",
+    "lat": "23.00771010205658",
+    "long": "120.22992454469203",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-23 15:13:00"
+}
