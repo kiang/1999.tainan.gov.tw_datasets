@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509230298",
+    "requested_datetime": "2015-09-23 17:06:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "永康交流道下來後往永康工業區 全能生技公司   空汙",
+    "address_string": "永康交流道下來後往永康工業區 全能生技公司",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-30 17:06:00"
+}
