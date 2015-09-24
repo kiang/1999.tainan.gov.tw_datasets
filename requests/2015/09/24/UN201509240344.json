@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509240344",
+    "requested_datetime": "2015-09-24 18:11:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "北區西門路三段和公園北路口 疏導交通",
+    "address_string": "北區西門路三段和公園北路口",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-01 18:11:00"
+}
