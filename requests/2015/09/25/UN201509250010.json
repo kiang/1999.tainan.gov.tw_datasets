@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509250010",
+    "requested_datetime": "2015-09-25 02:37:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "永康區南興路2巷1號前 路面坑洞 永康區永華路235號前 路面塌陷",
+    "address_string": "永康區南興路2巷1號前 永康區永華路235號前",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-02 02:37:00"
+}
