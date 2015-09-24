@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509240168",
+    "requested_datetime": "2015-09-24 11:48:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "寬頻管線、孔蓋損壞",
+    "description": "針對此案件A-TB-2015-47689再次反映",
+    "address_string": "東區大同路一段195號",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-01 11:48:00"
+}

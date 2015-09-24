@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509230338",
     "requested_datetime": "2015-09-23 18:40:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安平區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "安平區育平七街60巷102號 坑洞",
     "address_string": "安平區育平七街60巷102號",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-24 11:53:02",
     "expected_datetime": "2015-09-30 18:40:00"
 }
