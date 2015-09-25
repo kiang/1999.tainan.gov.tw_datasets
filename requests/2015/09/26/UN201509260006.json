@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201509260006",
     "requested_datetime": "2015-09-26 00:46:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "柳營區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "柳營區中山西路三段440號 噪音舉發",
     "address_string": "台南市柳營區中山西路三段440號",
@@ -22,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-26 06:47:24",
     "expected_datetime": "2015-09-26 00:46:00"
 }
