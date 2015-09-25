@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509250378",
     "requested_datetime": "2015-09-25 18:21:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "交通疏導",
     "description": "永康區中正路上 台南應用科技大學往高速公路  塞車",
     "address_string": "永康區中正路上 台南應用科技大學往高速公路",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-25 19:32:55",
     "expected_datetime": "2015-10-02 18:21:00"
 }
