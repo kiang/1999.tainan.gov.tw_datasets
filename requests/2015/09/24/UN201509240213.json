@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509240213",
     "requested_datetime": "2015-09-24 13:25:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "六甲區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "六甲區和平街180號  空氣汙染",
     "address_string": "六甲區和平街180號",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-25 20:29:13",
     "expected_datetime": "2015-10-01 13:25:00"
 }
