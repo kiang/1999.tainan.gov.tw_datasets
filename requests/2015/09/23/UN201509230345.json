@@ -7,7 +7,7 @@
     },
     "area": "南區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "南區丁南路235號  路燈不亮",
     "address_string": "南區丁南路235號",
@@ -20,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-09-24 11:45:25",
+    "updated_datetime": "2015-09-25 09:37:14",
     "expected_datetime": "2015-09-30 18:49:00"
 }
