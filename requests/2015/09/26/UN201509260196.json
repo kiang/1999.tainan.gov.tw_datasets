@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509260196",
     "requested_datetime": "2015-09-26 15:01:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區裕豐街161巷20號前 違停",
     "address_string": "東區裕豐街161巷20號前",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-26 17:04:14",
     "expected_datetime": "2015-10-03 15:01:00"
 }
