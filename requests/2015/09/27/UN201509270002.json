@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509270002",
+    "requested_datetime": "2015-09-27 00:09:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "東區中華東路三段44巷跟崇善一街口 妨礙安寧",
+    "address_string": "東區中華東路三段44巷跟崇善一街口",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-04 00:09:00"
+}
