@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201509260052",
+    "requested_datetime": "2015-09-26 09:05:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "北 區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "大型廢棄物清運",
+    "description": "北區西門路四段280巷35號 佔用道路",
+    "address_string": "704台灣台南市北區西門路四段280巷35號",
+    "lat": "23.012428291655226",
+    "long": "120.21003864705564",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-09-26 09:05:00"
+}
