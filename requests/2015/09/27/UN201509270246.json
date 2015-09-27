@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201509270246",
     "requested_datetime": "2015-09-27 22:39:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
@@ -9,7 +9,7 @@
     "service_name": {
 
     },
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "安南區府安路六段(鹽水溪橋^觀海橋) 妨礙安寧鞭炮",
     "address_string": "府安路六段(鹽水溪橋^觀海橋)",
@@ -22,8 +22,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-28 03:58:34",
     "expected_datetime": "2015-10-04 22:39:00"
 }

@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509270248",
     "requested_datetime": "2015-09-27 22:26:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "西港區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "西港區綠川廊道 妨礙安寧(鞭炮)",
     "address_string": "綠川廊道",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-28 04:51:36",
     "expected_datetime": "2015-10-04 22:26:00"
 }
