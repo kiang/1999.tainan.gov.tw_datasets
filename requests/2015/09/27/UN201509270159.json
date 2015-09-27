@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201509270159",
     "requested_datetime": "2015-09-27 16:49:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區公園南路(西門路到臨安路)\/臨安路二段兩側(公園南路到民德路) 違規停車",
     "address_string": "北區公園南路(西門路到臨安路)\/臨安路二段兩側(公園南路到民德路)",
@@ -22,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-28 03:36:42",
     "expected_datetime": "2015-09-27 16:49:00"
 }
