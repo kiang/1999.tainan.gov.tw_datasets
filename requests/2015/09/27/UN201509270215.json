@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509270215",
+    "requested_datetime": "2015-09-27 20:13:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "佳里區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨礙安寧",
+    "description": "佳里區崇德街11號附近 妨礙安寧(鞭炮)",
+    "address_string": "崇德街11號附近",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-04 20:13:00"
+}
