@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201509280377",
+    "requested_datetime": "2015-09-28 16:22:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區成功路和廣慈街交叉口 違停",
+    "address_string": "中西區成功路和廣慈街交叉口",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-09-28 18:53:34",
+    "expected_datetime": "2015-10-05 16:22:00"
+}
