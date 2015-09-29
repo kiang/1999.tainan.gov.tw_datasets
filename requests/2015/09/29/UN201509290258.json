@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201509290258",
+    "requested_datetime": "2015-09-29 19:39:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "歸仁區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "歸仁區中山路轉往中山七街後100公尺處左側 佔用道路",
+    "address_string": "歸仁區中山路轉往中山七街後100公尺處左側",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-06 19:39:00"
+}

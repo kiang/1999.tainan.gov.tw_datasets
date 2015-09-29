@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201509290203",
     "requested_datetime": "2015-09-29 16:12:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區中山路175號周邊 違停",
     "address_string": "中西區中山路175號周邊",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-29 19:07:15",
     "expected_datetime": "2015-09-29 16:12:00"
 }
