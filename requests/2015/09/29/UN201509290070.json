@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201509290070",
     "requested_datetime": "2015-09-29 11:17:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "南 區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "南區大同路二段615號 違停",
     "address_string": "南區大同路二段615號",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-29 15:13:24",
     "expected_datetime": "2015-09-29 11:17:00"
 }
