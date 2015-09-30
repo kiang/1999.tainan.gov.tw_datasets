@@ -1,0 +1,29 @@
+{
+    "service_request_id": "UN201509300128",
+    "requested_datetime": "2015-09-30 10:24:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": {
+
+    },
+    "description": "南區金華路一段102巷口 佔用道路",
+    "address_string": "金華路一段102巷口",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-07 10:24:00"
+}

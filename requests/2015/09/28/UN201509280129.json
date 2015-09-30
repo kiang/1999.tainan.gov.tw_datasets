@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201509280129",
     "requested_datetime": "2015-09-28 10:59:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安南區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "安南區海佃路一段95巷25之1號 路燈故障",
     "address_string": "海佃路一段95巷25-1號",
@@ -22,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-09-30 11:06:28",
     "expected_datetime": "2015-09-28 10:59:00"
 }
