@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201509300310",
-    "requested_datetime": "2015-09-30 15:25:00",
+    "service_request_id": "UN201509300411",
+    "requested_datetime": "2015-09-30 19:05:00",
     "status": {
 
     },
@@ -11,8 +11,8 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "中西區西華南街兩側(新光三越周邊) 違規停車",
-    "address_string": "中西區西華南街兩側(新光三越周邊)",
+    "description": "中西區中山路125號以及西華南街65號 違規停車",
+    "address_string": "中西區中山路125號.西華南街65號道路兩側",
     "lat": {
 
     },
@@ -25,5 +25,5 @@
     "updated_datetime": {
 
     },
-    "expected_datetime": "2015-09-30 15:25:00"
+    "expected_datetime": "2015-09-30 19:05:00"
 }
