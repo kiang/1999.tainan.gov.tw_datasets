@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509280166",
     "requested_datetime": "2015-09-28 12:04:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "南區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "南區區西門路一段529號 漏水",
     "address_string": "南區區西門路一段529號前面",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-01 14:55:14",
     "expected_datetime": "2015-10-05 12:04:00"
 }
