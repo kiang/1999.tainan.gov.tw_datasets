@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201509300446",
     "requested_datetime": "2015-09-30 21:09:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "新化區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "新化區忠孝路往圓環汽車道 號誌",
     "address_string": "忠孝路往圓環汽車道",
@@ -22,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-01 16:45:15",
     "expected_datetime": "2015-09-30 21:09:00"
 }

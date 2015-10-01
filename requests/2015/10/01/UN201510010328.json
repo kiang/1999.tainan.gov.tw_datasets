@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201510010328",
+    "requested_datetime": "2015-10-01 16:41:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "安平區怡平路140巷17弄近文平路口",
+    "address_string": "安平區怡平路140巷17弄近文平路口",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-08 16:41:00"
+}
