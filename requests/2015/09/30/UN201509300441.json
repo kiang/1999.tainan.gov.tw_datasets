@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201509300441",
     "requested_datetime": "2015-09-30 20:58:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "新化區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "新化區知義里口埤88號,口啤國小斜對面 空氣汙染",
     "address_string": "新化區知義里口埤88號,口啤國小斜對面",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-01 11:27:17",
     "expected_datetime": "2015-10-07 20:58:00"
 }
