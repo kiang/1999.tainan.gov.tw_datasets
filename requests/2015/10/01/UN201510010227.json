@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201510010227",
+    "requested_datetime": "2015-10-01 13:39:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "新市區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "新市區中華路168號旁 中華路100號至130號前面 永就里48號 違規停車",
+    "address_string": "744台灣台南市新市區中華路148號",
+    "lat": "23.064080879063017",
+    "long": "120.29448162764311",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-01 13:39:00"
+}
