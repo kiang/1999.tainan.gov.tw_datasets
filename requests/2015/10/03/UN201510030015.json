@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201510030015",
+    "requested_datetime": "2015-10-03 06:40:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "北區公園路(317號擔仔麵對面的人行道) 佔用道路",
+    "address_string": "北區公園路(317號擔仔麵對面的人行道)",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-10 06:40:00"
+}
