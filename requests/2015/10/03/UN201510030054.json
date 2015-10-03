@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201510030054",
     "requested_datetime": "2015-10-03 09:19:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區萬昌街(衛民街口^青年路口)+興華街(北門路口^青年路口) 違規停車",
     "address_string": "萬昌街+興華街",
@@ -22,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-03 11:28:44",
     "expected_datetime": "2015-10-03 09:19:00"
 }
