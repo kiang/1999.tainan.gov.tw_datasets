@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201510030069",
+    "requested_datetime": "2015-10-03 09:47:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區四草大橋上 違停",
+    "address_string": "安平區四草大橋上",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-10 09:47:00"
+}
