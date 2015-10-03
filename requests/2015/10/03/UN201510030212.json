@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201510030212",
     "requested_datetime": "2015-10-03 14:17:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區成功路*西華街(成功郵局旁)  違停",
     "address_string": "北區成功路*西華街(成功郵局旁)",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-03 17:43:42",
     "expected_datetime": "2015-10-10 14:17:00"
 }
