@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201510040079",
-    "requested_datetime": "2015-10-04 11:24:00",
+    "service_request_id": "UN201510040089",
+    "requested_datetime": "2015-10-04 11:50:00",
     "status": {
 
     },
@@ -11,8 +11,8 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "永康區中正北路167號.126號.122號 違規停車",
-    "address_string": "永康區中正北路167號.126號.122號",
+    "description": "永康區大武街與正新街交岔路口周邊 違規停車",
+    "address_string": "永康區大武街與正新街交岔路口周邊",
     "lat": {
 
     },
@@ -25,5 +25,5 @@
     "updated_datetime": {
 
     },
-    "expected_datetime": "2015-10-04 11:24:00"
+    "expected_datetime": "2015-10-04 11:50:00"
 }
