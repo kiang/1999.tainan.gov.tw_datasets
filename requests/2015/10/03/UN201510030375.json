@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201510030375",
     "requested_datetime": "2015-10-03 22:56:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "北區文賢路1122巷內 噪音舉發",
     "address_string": "北區文賢路1122巷內",
@@ -22,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-04 13:56:05",
     "expected_datetime": "2015-10-03 22:56:00"
 }
