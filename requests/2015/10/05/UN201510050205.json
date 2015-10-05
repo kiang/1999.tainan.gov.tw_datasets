@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201510050205",
     "requested_datetime": "2015-10-05 12:58:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區保安路180號  違規停車",
     "address_string": "700台灣台南市中西區保安路180號",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-05 15:15:51",
     "expected_datetime": "2015-10-05 12:58:00"
 }

@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201510050196",
-    "requested_datetime": "2015-10-05 12:17:00",
+    "service_request_id": "UN201510050276",
+    "requested_datetime": "2015-10-05 15:13:00",
     "status": {
 
     },
@@ -11,8 +11,8 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "中西區興華街(北門路口到萬昌街口)  違規停車",
-    "address_string": "興華街",
+    "description": "中西區西華南街65號 違規停車",
+    "address_string": "中西區西華南街65號",
     "lat": {
 
     },
@@ -25,5 +25,5 @@
     "updated_datetime": {
 
     },
-    "expected_datetime": "2015-10-05 12:17:00"
+    "expected_datetime": "2015-10-05 15:13:00"
 }
