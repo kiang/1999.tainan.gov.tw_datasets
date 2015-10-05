@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201510050039",
+    "requested_datetime": "2015-10-05 08:34:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區自由路三段223號 違停",
+    "address_string": "東區自由路三段223號",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-12 08:34:00"
+}
