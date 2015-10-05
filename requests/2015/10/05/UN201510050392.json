@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201510050341",
-    "requested_datetime": "2015-10-05 17:36:00",
+    "service_request_id": "UN201510050392",
+    "requested_datetime": "2015-10-05 18:55:00",
     "status": "已完工",
     "keyword": {
 
@@ -20,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-10-05 18:57:00",
-    "expected_datetime": "2015-10-05 17:36:00"
+    "updated_datetime": "2015-10-05 19:52:28",
+    "expected_datetime": "2015-10-05 18:55:00"
 }
