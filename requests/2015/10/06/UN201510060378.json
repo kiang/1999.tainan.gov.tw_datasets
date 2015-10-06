@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201510060378",
+    "requested_datetime": "2015-10-06 21:07:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "東區崇德路崇學路十字路口附近 妨礙安寧",
+    "address_string": "東區崇德路崇學路十字路口附近",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-10-06 22:18:13",
+    "expected_datetime": "2015-10-06 21:07:00"
+}

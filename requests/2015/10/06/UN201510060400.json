@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201510060400",
+    "requested_datetime": "2015-10-06 22:54:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "北區北安路一段51巷3弄8號 妨礙安寧",
+    "address_string": "北區北安路一段51巷3弄8號",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-13 22:54:00"
+}
