@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201510060146",
     "requested_datetime": "2015-10-06 12:03:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區小東路284號前 人行道違停",
     "address_string": "東區小東路284號前",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-06 18:21:11",
     "expected_datetime": "2015-10-13 12:03:00"
 }
