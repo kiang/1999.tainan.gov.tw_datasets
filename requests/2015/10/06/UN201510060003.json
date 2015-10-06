@@ -10,9 +10,7 @@
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "觀夕平台 煙火",
-    "address_string": {
-
-    },
+    "address_string": "安平區觀夕平台",
     "lat": {
 
     },
@@ -22,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-10-06 07:35:35",
+    "updated_datetime": "2015-10-06 07:35:00",
     "expected_datetime": "2015-10-13 04:18:00"
 }
