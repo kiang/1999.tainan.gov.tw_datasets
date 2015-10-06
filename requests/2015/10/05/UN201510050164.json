@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201510050164",
     "requested_datetime": "2015-10-05 11:27:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "永康區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "遊蕩犬隻捕捉管制",
     "description": "永康區復國一路跟二路190巷跟復華三街 捕犬",
     "address_string": "永康區復國一路跟二路190巷跟復華三街",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-06 15:01:06",
     "expected_datetime": "2015-10-12 11:27:00"
 }
