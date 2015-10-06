@@ -5,20 +5,12 @@
     "keyword": {
 
     },
-    "area": {
-
-    },
-    "service_name": {
-
-    },
+    "area": "永康區",
+    "service_name": "道路維修",
     "agency": "台南市政府",
-    "subproject": {
-
-    },
-    "description": "永康區東橋十街跟東橋三路路口路面坑洞 路面坑洞",
-    "address_string": {
-
-    },
+    "subproject": "路面坑洞",
+    "description": "永康區東橋十街跟東橋三路路口 路面坑洞",
+    "address_string": "永康區東橋十街跟東橋三路路口",
     "lat": {
 
     },
