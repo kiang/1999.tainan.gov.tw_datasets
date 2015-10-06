@@ -9,10 +9,8 @@
     "service_name": "噪音舉發",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
-    "description": "妨礙安寧",
-    "address_string": {
-
-    },
+    "description": "永康區南台街75巷5號306號旁 妨礙安寧",
+    "address_string": "永康區南台街75巷5號306號旁",
     "lat": {
 
     },
@@ -22,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-10-06 07:34:43",
+    "updated_datetime": "2015-10-06 07:34:00",
     "expected_datetime": "2015-10-13 00:28:00"
 }
