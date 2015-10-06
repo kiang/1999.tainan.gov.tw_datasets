@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201510060342",
     "requested_datetime": "2015-10-06 18:54:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "永康區中山南路246號與中華路578巷轉彎處 佔用道路",
     "address_string": "中山南路246號與中華路578巷轉彎處",
@@ -22,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-06 23:33:18",
     "expected_datetime": "2015-10-06 18:54:00"
 }

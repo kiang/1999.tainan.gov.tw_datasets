@@ -1,15 +1,15 @@
 {
     "service_request_id": "UN201510060384",
     "requested_datetime": "2015-10-06 21:29:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安平區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
-    "description": "妨礙安寧",
+    "description": "安平區怡平路上金龍宮 妨礙安寧",
     "address_string": "安平區怡平路上金龍宮",
     "lat": {
 
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-06 23:26:07",
     "expected_datetime": "2015-10-13 21:29:00"
 }
