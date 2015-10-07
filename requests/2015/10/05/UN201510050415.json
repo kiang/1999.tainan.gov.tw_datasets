@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201510050415",
     "requested_datetime": "2015-10-05 19:30:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東山區",
     "service_name": "路燈故障",
-    "agency": "臺南市政府工務局",
+    "agency": "臺南市東山區公所",
     "subproject": "9盞以下路燈故障",
     "description": "東山區東原里 編號：東原高幹181-1 左5B2 N2950 AB86   路燈不亮",
     "address_string": "東山區東原里 編號：東原高幹181-1",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-07 15:15:06",
     "expected_datetime": "2015-10-12 19:30:00"
 }

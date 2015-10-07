@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201510060061",
     "requested_datetime": "2015-10-06 09:58:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "安南區本原街一段287巷口 路面坑洞",
     "address_string": "安南區本原街一段287巷口",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-07 15:19:58",
     "expected_datetime": "2015-10-13 09:58:00"
 }
