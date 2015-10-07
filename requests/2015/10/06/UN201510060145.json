@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201510060145",
     "requested_datetime": "2015-10-06 12:01:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
@@ -11,7 +11,7 @@
     "service_name": {
 
     },
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": {
 
     },
@@ -28,8 +28,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-07 09:51:43",
     "expected_datetime": "2015-10-13 12:01:00"
 }
