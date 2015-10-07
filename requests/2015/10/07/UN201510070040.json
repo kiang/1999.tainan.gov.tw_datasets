@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201510070040",
+    "requested_datetime": "2015-10-07 08:28:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區林森路三段171巷 巷口人行道  違停",
+    "address_string": "北區林森路三段171巷 巷口人行道",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-14 08:28:00"
+}
