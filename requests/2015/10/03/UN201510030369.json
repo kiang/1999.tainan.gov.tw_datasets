@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201510030369",
     "requested_datetime": "2015-10-03 22:22:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
@@ -28,8 +28,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-07 10:17:02",
     "expected_datetime": "2015-10-10 22:22:00"
 }
