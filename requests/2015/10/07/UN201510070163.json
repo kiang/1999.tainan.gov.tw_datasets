@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201510070163",
     "requested_datetime": "2015-10-07 12:38:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "玉井區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "玉井區望明里明林高分19右4電桿旁農路 空汙",
     "address_string": "玉井區望明里明林高分19右4電桿旁農路",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-07 16:42:04",
     "expected_datetime": "2015-10-14 12:38:00"
 }

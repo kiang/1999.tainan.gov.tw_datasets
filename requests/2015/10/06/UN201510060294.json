@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201510060294",
     "requested_datetime": "2015-10-06 17:25:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "仁德區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "仁德區二層行橋上 道路散落物",
     "address_string": "仁德區二層行橋上",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-07 16:37:26",
     "expected_datetime": "2015-10-13 17:25:00"
 }
