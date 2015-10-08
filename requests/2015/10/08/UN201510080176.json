@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201510080155",
-    "requested_datetime": "2015-10-08 11:50:00",
+    "service_request_id": "UN201510080176",
+    "requested_datetime": "2015-10-08 12:20:00",
     "status": {
 
     },
@@ -11,8 +11,8 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "永康區中正路兩側(中正六街到新行街) 違規停車",
-    "address_string": "永康區中正路兩側(中正六街到新行街)",
+    "description": "永康區中正路545號 違規停車",
+    "address_string": "永康區中正路545號",
     "lat": {
 
     },
@@ -25,5 +25,5 @@
     "updated_datetime": {
 
     },
-    "expected_datetime": "2015-10-08 11:50:00"
+    "expected_datetime": "2015-10-08 12:20:00"
 }
