@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201510080425",
+    "requested_datetime": "2015-10-08 21:50:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "中西區海安路一段238巷口 海安路二段238號旁 海安路二段268號 佔用人行道",
+    "address_string": "中西區海安路一段238巷口 海安路二段238號旁 海安路二段268號",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-15 21:50:00"
+}
