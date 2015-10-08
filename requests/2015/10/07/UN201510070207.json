@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201510070207",
     "requested_datetime": "2015-10-07 14:10:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "安南區安和路四段與安和路四段274巷 號誌故障",
     "address_string": "安和路四段與安和路四段274巷",
@@ -22,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-08 08:22:25",
     "expected_datetime": "2015-10-07 14:10:00"
 }

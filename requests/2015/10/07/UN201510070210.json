@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201510070210",
     "requested_datetime": "2015-10-07 14:13:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "安中路一段與安中路一段557巷 交通運輸",
     "address_string": "安中路一段與安中路一段557巷",
@@ -22,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-08 08:21:09",
     "expected_datetime": "2015-10-07 14:13:00"
 }
