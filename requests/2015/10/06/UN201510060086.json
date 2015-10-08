@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201510060086",
     "requested_datetime": "2015-10-06 10:42:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "安南區本原街一段167巷36弄口 道路散落物",
     "address_string": "709台灣台南市安南區本原街一段167巷36弄",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-08 19:37:16",
     "expected_datetime": "2015-10-06 10:42:00"
 }
