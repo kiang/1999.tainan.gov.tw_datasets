@@ -7,7 +7,7 @@
     },
     "area": "南區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市南區區公所",
     "subproject": "路面下陷、凹陷",
     "description": "南區大德街160巷19號前 路面下陷",
     "address_string": "南區大德街160巷19號前",
@@ -20,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-10-06 16:45:23",
+    "updated_datetime": "2015-10-08 17:01:55",
     "expected_datetime": "2015-10-13 11:31:00"
 }
