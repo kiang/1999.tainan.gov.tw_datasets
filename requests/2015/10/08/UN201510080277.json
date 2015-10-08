@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201510080277",
+    "requested_datetime": "2015-10-08 16:02:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "南區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "南區新都路580-1號 佔用騎樓",
+    "address_string": "南區新都路580-1號",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-15 16:02:00"
+}
