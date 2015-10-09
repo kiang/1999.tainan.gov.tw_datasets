@@ -1,25 +1,21 @@
 {
     "service_request_id": "UN201510090134",
     "requested_datetime": "2015-10-09 11:45:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "北 區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "違規停車",
+    "description": "北區育德路3號 違規停車",
     "address_string": "704台灣台南市北區育德路3號",
     "lat": "23.005736554360507",
     "long": "120.20268302410841",
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-09 12:30:21",
     "expected_datetime": "2015-10-09 11:45:00"
 }
