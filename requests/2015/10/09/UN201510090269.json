@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201510090269",
+    "requested_datetime": "2015-10-09 15:51:00",
+    "status": "已完工",
+    "keyword": {
+
+    },
+    "area": "白河區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "關子嶺172線道41k處 違規擺攤",
+    "address_string": "關子嶺172線道41k處",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-10-09 16:45:04",
+    "expected_datetime": "2015-10-16 15:51:00"
+}
