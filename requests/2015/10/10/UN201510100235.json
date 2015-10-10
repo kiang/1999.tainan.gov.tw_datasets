@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201510100235",
+    "requested_datetime": "2015-10-10 19:16:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "永康區龍安街38號 漏水",
+    "address_string": "永康區龍安街38號",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-17 19:16:00"
+}
