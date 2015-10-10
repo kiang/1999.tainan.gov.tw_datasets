@@ -1,13 +1,15 @@
 {
     "service_request_id": "UN201510100245",
     "requested_datetime": "2015-10-10 20:18:00",
-    "status": "已完工",
+    "status": {
+
+    },
     "keyword": {
 
     },
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "台南市政府",
     "subproject": "違規停車",
     "description": "北區北門路二段59號周邊 違規停車",
     "address_string": "北區北門路二段59號周邊",
@@ -20,6 +22,8 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-10-10 21:51:24",
+    "updated_datetime": {
+
+    },
     "expected_datetime": "2015-10-10 20:18:00"
 }
