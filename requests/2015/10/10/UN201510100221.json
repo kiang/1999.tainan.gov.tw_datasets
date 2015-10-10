@@ -1,13 +1,15 @@
 {
     "service_request_id": "UN201510100221",
     "requested_datetime": "2015-10-10 18:51:00",
-    "status": "已完工",
+    "status": {
+
+    },
     "keyword": {
 
     },
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "台南市政府",
     "subproject": "違規停車",
     "description": "中西區西華南街兩側(成功路到民族路)\/北門路一段123巷\/中山路143號.125號 違規停車",
     "address_string": "中西區西華南街兩側(成功路到民族路)\/北門路一段123巷\/中山路143號.125號",
@@ -20,6 +22,8 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-10-10 19:33:00",
+    "updated_datetime": {
+
+    },
     "expected_datetime": "2015-10-10 18:51:00"
 }
