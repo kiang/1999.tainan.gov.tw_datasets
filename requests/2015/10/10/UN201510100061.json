@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201510100061",
     "requested_datetime": "2015-10-10 10:22:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "環境髒亂",
     "description": "東區大同路一段175巷158弄口 環境髒亂",
     "address_string": "東區大同路一段175巷158弄口",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-11 20:00:31",
     "expected_datetime": "2015-10-17 10:22:00"
 }
