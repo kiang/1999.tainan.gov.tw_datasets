@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201510110060",
+    "requested_datetime": "2015-10-11 11:45:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區大智街31號 \/ 尊王路126號^160號 \/ 尊王路145號^153號  違停",
+    "address_string": "中西區大智街31號 \/ 尊王路126號^160號 \/ 尊王路145號^153號",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-18 11:45:00"
+}
