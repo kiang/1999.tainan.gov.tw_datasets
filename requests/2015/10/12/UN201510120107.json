@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201510120107",
     "requested_datetime": "2015-10-12 10:27:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區中華路473號郵局、725號永豐銀行、423號國泰銀行、196號超商周邊、21號大眾銀行、1號國泰銀行周圍違規停車",
     "address_string": "永康區中華路473號郵局、725號永豐銀行、423號國泰銀行、196號超商周邊、21號大眾銀行、1號國泰銀行周圍",
@@ -22,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-12 16:03:18",
     "expected_datetime": "2015-10-12 10:27:00"
 }

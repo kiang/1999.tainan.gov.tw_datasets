@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201510120176",
     "requested_datetime": "2015-10-12 11:51:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東 區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區東門路三段181-183號 違規停車",
     "address_string": "701台灣台南市東區東門路三段181-183號",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-12 16:09:46",
     "expected_datetime": "2015-10-12 11:51:00"
 }
