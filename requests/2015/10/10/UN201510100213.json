@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201510100213",
     "requested_datetime": "2015-10-10 18:04:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安平區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府水利局,臺南市政府聯合服務中心",
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "安平區育平九街372巷20號 孔蓋聲響",
     "address_string": "安平區育平九街372巷20號",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-13 11:21:53",
     "expected_datetime": "2015-10-17 18:04:00"
 }
