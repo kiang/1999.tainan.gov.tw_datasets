@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201510130071",
+    "requested_datetime": "2015-10-13 09:19:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區東豐路與小東路147巷口違停",
+    "address_string": "北區東豐路與小東路147巷口\/東區小東路200號至340號\/  東區東和路1號至60號兩側",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-20 09:19:00"
+}
