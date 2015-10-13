@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201510100238",
     "requested_datetime": "2015-10-10 19:47:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安南區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "安南區永安路永安橋東側橋面 路面坑洞",
     "address_string": "安南區永安路永安橋東側橋面",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-13 17:38:40",
     "expected_datetime": "2015-10-17 19:47:00"
 }
