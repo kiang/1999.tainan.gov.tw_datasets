@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201510130379",
+    "requested_datetime": "2015-10-13 19:41:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "新營區復興路上(和欣客運到麥當勞) 違停",
+    "address_string": "新營區復興路上(和欣客運到麥當勞)",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-20 19:41:00"
+}
