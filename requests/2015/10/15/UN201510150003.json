@@ -11,12 +11,8 @@
     "subproject": "空氣汙染",
     "description": "六甲區龜子港 空氣汙染",
     "address_string": "六甲區龜仔港",
-    "lat": {
-
-    },
-    "long": {
-
-    },
+    "lat": "24.825168",
+    "long": "120.959136",
     "service_notice": {
 
     },
