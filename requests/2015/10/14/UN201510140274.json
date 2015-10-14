@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201510140274",
+    "requested_datetime": "2015-10-14 16:33:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "704台灣台南市北區西門路四段148號",
+    "lat": "23.00918337748466",
+    "long": "120.20752709358929",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-14 16:33:00"
+}
