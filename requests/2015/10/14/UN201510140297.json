@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201510140274",
-    "requested_datetime": "2015-10-14 16:33:00",
+    "service_request_id": "UN201510140297",
+    "requested_datetime": "2015-10-14 17:04:00",
     "status": {
 
     },
@@ -11,8 +11,8 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "北區西門路四段148號 違規停車",
-    "address_string": "704台灣台南市北區西門路四段148號",
+    "description": "北區西門路四段144號 違規停車",
+    "address_string": "704台灣台南市北區西門路四段144號",
     "lat": "23.00918337748466",
     "long": "120.20752709358929",
     "service_notice": {
@@ -21,5 +21,5 @@
     "updated_datetime": {
 
     },
-    "expected_datetime": "2015-10-14 16:33:00"
+    "expected_datetime": "2015-10-14 17:04:00"
 }
