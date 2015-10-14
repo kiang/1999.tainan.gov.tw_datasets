@@ -7,7 +7,7 @@
     },
     "area": "白河區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局白河分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "白河區康樂路&國泰路   違規停車",
     "address_string": "康樂路&國泰路",
@@ -20,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-10-11 19:58:14",
+    "updated_datetime": "2015-10-14 10:22:37",
     "expected_datetime": "2015-10-11 15:35:00"
 }
