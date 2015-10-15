@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201510150315",
     "requested_datetime": "2015-10-15 17:32:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安平區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "安平區建平七街220號 妨礙安寧",
     "address_string": "安平區建平七街220號",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-15 19:02:35",
     "expected_datetime": "2015-10-22 17:32:00"
 }
