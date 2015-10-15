@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201510150264",
+    "requested_datetime": "2015-10-15 15:43:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "七股區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "七股區龍山里5-40號  空汙",
+    "address_string": "七股區龍山里5-40號",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-22 15:43:00"
+}
