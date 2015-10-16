@@ -7,7 +7,7 @@
     },
     "area": "安平區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "安平區永華路二段消防局前 路燈",
     "address_string": "安平區永華路二段消防局前",
@@ -20,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-10-14 08:52:21",
+    "updated_datetime": "2015-10-16 11:37:37",
     "expected_datetime": "2015-10-19 18:24:00"
 }
