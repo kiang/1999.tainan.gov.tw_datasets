@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201510150347",
     "requested_datetime": "2015-10-15 18:27:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "新化區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "10盞以上路燈故障",
     "description": "新化區全興里114號週邊 路燈",
     "address_string": "新化區全興里114號週邊",
@@ -22,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-16 09:39:41",
     "expected_datetime": "2015-10-22 18:27:00"
 }
