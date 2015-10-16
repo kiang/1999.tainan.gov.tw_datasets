@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201510140334",
     "requested_datetime": "2015-10-14 18:34:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安南區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "安南區台江大道二段上 路燈故障",
     "address_string": "709台灣台南市安南區台江大道一段",
@@ -18,8 +16,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-16 15:52:57",
     "expected_datetime": "2015-10-14 18:34:00"
 }
