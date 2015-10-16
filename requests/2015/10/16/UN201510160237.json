@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201510160237",
+    "requested_datetime": "2015-10-16 16:33:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "安南區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "安南區本原街三段234巷106弄107號朝北方向 空氣汙染",
+    "address_string": "安南區本原街三段234巷106弄107號朝北方向",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-23 16:33:00"
+}
