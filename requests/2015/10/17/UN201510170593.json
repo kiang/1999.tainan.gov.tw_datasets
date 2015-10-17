@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201510170593",
+    "requested_datetime": "2015-10-17 18:28:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "東區後甲里建東街12巷附近   無預警停水",
+    "address_string": "東區後甲里建東街12巷附近",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-24 18:28:00"
+}
