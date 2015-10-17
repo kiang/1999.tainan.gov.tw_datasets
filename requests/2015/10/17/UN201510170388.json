@@ -1,0 +1,29 @@
+{
+    "service_request_id": "UN201510170388",
+    "requested_datetime": "2015-10-17 10:18:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "北區育德一街兩側(立賢路到和緯路)\/和緯路二段(育德一街到西門路)",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-17 10:18:00"
+}
