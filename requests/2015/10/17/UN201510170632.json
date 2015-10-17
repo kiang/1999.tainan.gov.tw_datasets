@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201510170632",
+    "requested_datetime": "2015-10-17 20:55:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "北區海安路三段219巷50號附近  妨礙安寧",
+    "address_string": "北區海安路三段219巷50號附近",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-24 20:55:00"
+}
