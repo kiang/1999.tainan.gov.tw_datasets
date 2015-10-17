@@ -9,7 +9,7 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "違停",
+    "description": "中西區忠義路上建興國中側門 違停",
     "address_string": "中西區忠義路上建興國中側門",
     "lat": {
 
@@ -20,6 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-10-16 18:21:12",
+    "updated_datetime": "2015-10-16 18:21:00",
     "expected_datetime": "2015-10-23 16:42:00"
 }
