@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201510170446",
+    "requested_datetime": "2015-10-17 11:40:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區海安路水仙宮前\/北區開元路跟長榮路口  違停",
+    "address_string": "中西區海安路水仙宮前\/北區開元路跟長榮路口",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-24 11:40:00"
+}
