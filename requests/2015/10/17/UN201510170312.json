@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201510170312",
     "requested_datetime": "2015-10-17 06:59:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "南區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "南區濱南路往南快到台86路口之前 道路散落物",
     "address_string": "南區濱南路往南快到台86路口之前",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-18 10:45:27",
     "expected_datetime": "2015-10-24 06:59:00"
 }
