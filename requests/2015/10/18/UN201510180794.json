@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201510180794",
+    "requested_datetime": "2015-10-18 13:12:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "南區國民路217巷6弄14號 噪音干擾",
+    "address_string": "南區國民路217巷6弄14號",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-25 13:12:00"
+}
