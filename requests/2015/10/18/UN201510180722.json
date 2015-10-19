@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201510180722",
     "requested_datetime": "2015-10-18 09:08:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "東區科學教育大樓育樂街141巷附近 噪音干擾",
     "address_string": "東區科學教育大樓育樂街141巷附近",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-19 11:35:31",
     "expected_datetime": "2015-10-25 09:08:00"
 }
