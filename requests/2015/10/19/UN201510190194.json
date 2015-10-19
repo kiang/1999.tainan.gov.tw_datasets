@@ -1,0 +1,25 @@
+{
+    "service_request_id": "UN201510190194",
+    "requested_datetime": "2015-10-19 13:00:00",
+    "status": {
+
+    },
+    "keyword": {
+
+    },
+    "area": "台南",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路樹傾倒",
+    "description": "道路維修",
+    "address_string": "556台灣南投縣信義鄉郡大林道",
+    "lat": "23.5438451365",
+    "long": "121.096801758",
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-19 13:00:00"
+}
