@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201510190055",
     "requested_datetime": "2015-10-19 09:34:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區成功路口國賓大樓前",
     "address_string": "北區台南火車站成功路口(",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-19 18:43:52",
     "expected_datetime": "2015-10-26 09:34:00"
 }
