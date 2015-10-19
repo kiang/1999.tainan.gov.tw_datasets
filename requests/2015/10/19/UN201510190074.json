@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201510190074",
+    "requested_datetime": "2015-10-19 09:57:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": ":東區裕農路104號轉彎處\"申請水溝清淤\/ \"東區裕豐街214巷52號1樓\"佔用道路",
+    "address_string": "東區裕豐街214巷52號1樓",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-26 09:57:00"
+}
