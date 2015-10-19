@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201510180707",
     "requested_datetime": "2015-10-18 08:31:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "新營區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "新營區金華路跟新北街十字路口 噪音干擾",
     "address_string": "新營區金華路跟新北街十字路口",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-19 17:25:02",
     "expected_datetime": "2015-10-25 08:31:00"
 }
