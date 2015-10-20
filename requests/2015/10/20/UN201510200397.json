@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201510200397",
+    "requested_datetime": "2015-10-20 22:48:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "路面油漬",
+    "description": "永康區中華路*中正南路  油漬",
+    "address_string": "永康區中華路*中正南路",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-27 22:48:00"
+}
