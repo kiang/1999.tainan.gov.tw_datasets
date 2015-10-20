@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201510200356",
+    "requested_datetime": "2015-10-20 19:26:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "中西區",
+    "service_name": "民生管線",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "中西區協和里永和街132號 電線走火",
+    "address_string": "中西區協和里永和街132號",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-27 19:26:00"
+}
