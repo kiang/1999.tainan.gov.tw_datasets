@@ -13,12 +13,8 @@
     "subproject": "違規停車",
     "description": "東區前鋒路的小東路口到大學路口 違規停車",
     "address_string": "前鋒路",
-    "lat": {
-
-    },
-    "long": {
-
-    },
+    "lat": "22.997143",
+    "long": "120.21363",
     "service_notice": {
 
     },
