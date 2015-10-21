@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201510210249",
+    "requested_datetime": "2015-10-21 16:55:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "動物救援",
+    "agency": "台南市政府",
+    "subproject": "遊蕩犬隻捕捉管制",
+    "description": "北區西門路四段正覺寺附近",
+    "address_string": "北區西門路四段正覺寺附近",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-28 16:55:00"
+}
