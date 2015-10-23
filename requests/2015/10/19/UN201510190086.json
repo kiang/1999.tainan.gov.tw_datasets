@@ -9,7 +9,7 @@
     "service_name": {
 
     },
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "人孔蓋聲響、凹陷、漏水",
     "description": "安南區本原街三段234巷與海佃路四段55巷口 水利局涵箱凹陷",
     "address_string": "安南區本原街三段234巷與海佃路四段55巷口",
@@ -22,6 +22,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "2015-10-21 14:33:08",
+    "updated_datetime": "2015-10-23 08:25:35",
     "expected_datetime": "2015-10-26 10:11:00"
 }
