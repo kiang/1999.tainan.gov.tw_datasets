@@ -1,13 +1,13 @@
 {
     "service_request_id": "UN201510230424",
     "requested_datetime": "2015-10-23 23:52:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "佳里區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "佳里區佳化里70號到85號 空氣汙染",
     "address_string": "佳里區佳化里70號到85號",
@@ -20,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-24 10:32:24",
     "expected_datetime": "2015-10-30 23:52:00"
 }
