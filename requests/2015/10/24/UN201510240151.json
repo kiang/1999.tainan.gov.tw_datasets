@@ -1,0 +1,27 @@
+{
+    "service_request_id": "UN201510240151",
+    "requested_datetime": "2015-10-24 13:34:00",
+    "status": "未處理",
+    "keyword": {
+
+    },
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區北中街跟北門路二段85度c門口 違停",
+    "address_string": "北區北中街跟北門路二段85度c門口",
+    "lat": {
+
+    },
+    "long": {
+
+    },
+    "service_notice": {
+
+    },
+    "updated_datetime": {
+
+    },
+    "expected_datetime": "2015-10-31 13:34:00"
+}
