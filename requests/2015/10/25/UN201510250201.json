@@ -2,26 +2,16 @@
     "service_request_id": "UN201510250201",
     "requested_datetime": "2015-10-25 18:13:00",
     "status": "未處理",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "麻豆區",
     "service_name": "民生管線",
     "agency": "臺南市政府聯合服務中心",
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "麻豆區新生北路551號(麻豆監理站)週邊、176市道 路燈不亮",
     "address_string": "麻豆區新生北路551號(麻豆監理站)週邊、176市道",
-    "lat": {
-
-    },
-    "long": {
-
-    },
-    "service_notice": {
-
-    },
-    "updated_datetime": {
-
-    },
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
     "expected_datetime": "2015-11-01 18:13:00"
 }

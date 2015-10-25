@@ -2,9 +2,7 @@
     "service_request_id": "UN201510220016",
     "requested_datetime": "2015-10-22 07:25:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "北區",
     "service_name": "髒亂及汙染",
     "agency": "臺南市政府環境保護局",
@@ -13,9 +11,7 @@
     "address_string": "北區長榮地下道",
     "lat": "23.0127136",
     "long": "120.219185",
-    "service_notice": {
-
-    },
+    "service_notice": {},
     "updated_datetime": "2015-10-22 11:13:55",
     "expected_datetime": "2015-10-29 07:25:00"
 }

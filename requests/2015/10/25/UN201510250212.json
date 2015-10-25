@@ -2,26 +2,16 @@
     "service_request_id": "UN201510250212",
     "requested_datetime": "2015-10-25 18:40:00",
     "status": "未處理",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "麻豆區",
     "service_name": "路燈故障",
     "agency": "臺南市政府聯合服務中心",
     "subproject": "10盞以上路燈故障",
     "description": "麻豆區文昌路29-38號週邊 路燈不亮",
     "address_string": "麻豆區文昌路29-38號週邊",
-    "lat": {
-
-    },
-    "long": {
-
-    },
-    "service_notice": {
-
-    },
-    "updated_datetime": {
-
-    },
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
     "expected_datetime": "2015-11-01 18:40:00"
 }

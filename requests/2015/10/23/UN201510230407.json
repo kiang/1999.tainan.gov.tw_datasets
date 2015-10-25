@@ -2,24 +2,16 @@
     "service_request_id": "UN201510230407",
     "requested_datetime": "2015-10-23 22:31:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "中西區",
     "service_name": "噪音舉發",
     "agency": "臺南市政府民政局,臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "中西區民族路二段391巷 廟會妨礙安寧\/廟會噪音",
     "address_string": "中西區民族路二段391巷",
-    "lat": {
-
-    },
-    "long": {
-
-    },
-    "service_notice": {
-
-    },
+    "lat": {},
+    "long": {},
+    "service_notice": {},
     "updated_datetime": "2015-10-25 20:14:21",
     "expected_datetime": "2015-10-30 22:31:00"
 }

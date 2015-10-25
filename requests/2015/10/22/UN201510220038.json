@@ -2,24 +2,16 @@
     "service_request_id": "UN201510220038",
     "requested_datetime": "2015-10-22 08:51:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區柴頭港溪兩側防汛道路(大武街597巷到鐵道邊) 違規停車",
     "address_string": "北區柴頭港溪兩側防汛道路(大武街597巷到鐵道邊)",
-    "lat": {
-
-    },
-    "long": {
-
-    },
-    "service_notice": {
-
-    },
+    "lat": {},
+    "long": {},
+    "service_notice": {},
     "updated_datetime": "2015-10-22 12:23:50",
     "expected_datetime": "2015-10-22 08:51:00"
 }

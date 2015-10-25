@@ -2,24 +2,16 @@
     "service_request_id": "UN201510220250",
     "requested_datetime": "2015-10-22 15:16:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "永康區",
     "service_name": "道路維修",
     "agency": "臺南市永康區公所",
     "subproject": "路面坑洞",
     "description": "大灣交流道便道,從小東路往中山南路方向,在台灣鍛造公司附近 坑洞",
     "address_string": "大灣交流道便道,從小東路往中山南路方向,在台灣鍛造公司附近",
-    "lat": {
-
-    },
-    "long": {
-
-    },
-    "service_notice": {
-
-    },
+    "lat": {},
+    "long": {},
+    "service_notice": {},
     "updated_datetime": "2015-10-23 16:07:59",
     "expected_datetime": "2015-10-29 15:16:00"
 }

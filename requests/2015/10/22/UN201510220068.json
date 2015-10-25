@@ -2,9 +2,7 @@
     "service_request_id": "UN201510220068",
     "requested_datetime": "2015-10-22 09:56:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
@@ -13,9 +11,7 @@
     "address_string": "700台灣台南市中西區公園路86號 健保局旁騎樓",
     "lat": "22.996422068977562",
     "long": "120.20624801516531",
-    "service_notice": {
-
-    },
+    "service_notice": {},
     "updated_datetime": "2015-10-23 11:08:39",
     "expected_datetime": "2015-10-22 09:56:00"
 }

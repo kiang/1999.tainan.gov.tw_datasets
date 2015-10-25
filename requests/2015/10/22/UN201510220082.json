@@ -2,34 +2,16 @@
     "service_request_id": "UN201510220082",
     "requested_datetime": "2015-10-22 10:15:00",
     "status": "未處理",
-    "keyword": {
-
-    },
-    "area": {
-
-    },
-    "service_name": {
-
-    },
+    "keyword": {},
+    "area": {},
+    "service_name": {},
     "agency": "台南市政府",
-    "subproject": {
-
-    },
+    "subproject": {},
     "description": "新化區山腳里\"三元帥廟",
-    "address_string": {
-
-    },
-    "lat": {
-
-    },
-    "long": {
-
-    },
-    "service_notice": {
-
-    },
-    "updated_datetime": {
-
-    },
+    "address_string": {},
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
     "expected_datetime": "2015-10-29 10:15:00"
 }

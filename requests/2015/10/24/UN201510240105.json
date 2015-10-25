@@ -2,26 +2,16 @@
     "service_request_id": "UN201510240105",
     "requested_datetime": "2015-10-24 11:35:00",
     "status": "未處理",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "安定區",
     "service_name": "動物救援",
     "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
     "description": "安定區178線上\/三五氣體往安定方向過300公尺\/阿葉美食旁邊 動物救援",
     "address_string": "安定區178線上\/三五氣體往安定方向過300公尺\/阿葉美食旁邊",
-    "lat": {
-
-    },
-    "long": {
-
-    },
-    "service_notice": {
-
-    },
-    "updated_datetime": {
-
-    },
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
     "expected_datetime": "2015-10-31 11:35:00"
 }

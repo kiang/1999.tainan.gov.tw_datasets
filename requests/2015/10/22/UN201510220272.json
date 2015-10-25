@@ -2,24 +2,16 @@
     "service_request_id": "UN201510220272",
     "requested_datetime": "2015-10-22 15:58:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
     "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "北區海安區三段815號 噪音",
     "address_string": "北區海安區三段815號",
-    "lat": {
-
-    },
-    "long": {
-
-    },
-    "service_notice": {
-
-    },
+    "lat": {},
+    "long": {},
+    "service_notice": {},
     "updated_datetime": "2015-10-23 10:30:18",
     "expected_datetime": "2015-10-29 15:58:00"
 }

@@ -2,24 +2,16 @@
     "service_request_id": "UN201510220355",
     "requested_datetime": "2015-10-22 19:04:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "仁德區",
     "service_name": "交通運輸",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "交通疏導",
     "description": "仁德區中山路,仁德交流道附近 交通疏導",
     "address_string": "仁德區中山路,仁德交流道附近",
-    "lat": {
-
-    },
-    "long": {
-
-    },
-    "service_notice": {
-
-    },
+    "lat": {},
+    "long": {},
+    "service_notice": {},
     "updated_datetime": "2015-10-23 03:50:51",
     "expected_datetime": "2015-10-29 19:04:00"
 }

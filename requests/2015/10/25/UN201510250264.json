@@ -1,29 +1,17 @@
 {
     "service_request_id": "UN201510250264",
     "requested_datetime": "2015-10-25 22:32:00",
-    "status": {
-
-    },
-    "keyword": {
-
-    },
+    "status": {},
+    "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
     "description": "北區西門路四段280巷37號前面 違規停車",
     "address_string": "西門路四段280巷37號前面",
-    "lat": {
-
-    },
-    "long": {
-
-    },
-    "service_notice": {
-
-    },
-    "updated_datetime": {
-
-    },
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
     "expected_datetime": "2015-10-25 22:32:00"
 }

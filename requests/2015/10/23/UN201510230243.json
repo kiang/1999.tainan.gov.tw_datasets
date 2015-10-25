@@ -2,24 +2,16 @@
     "service_request_id": "UN201510230243",
     "requested_datetime": "2015-10-23 16:03:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區崇明九街與中華東路三段380巷交叉口   違規停車",
     "address_string": "崇明九街與中華東路三段380巷交叉口",
-    "lat": {
-
-    },
-    "long": {
-
-    },
-    "service_notice": {
-
-    },
+    "lat": {},
+    "long": {},
+    "service_notice": {},
     "updated_datetime": "2015-10-23 18:43:21",
     "expected_datetime": "2015-10-23 16:03:00"
 }

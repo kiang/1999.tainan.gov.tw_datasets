@@ -2,24 +2,16 @@
     "service_request_id": "UN201510210249",
     "requested_datetime": "2015-10-21 16:55:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "北區",
     "service_name": "動物救援",
     "agency": "臺南市動物防疫保護處",
     "subproject": "遊蕩犬隻捕捉管制",
     "description": "北區西門路四段正覺寺附近 捕犬",
     "address_string": "北區西門路四段正覺寺附近",
-    "lat": {
-
-    },
-    "long": {
-
-    },
-    "service_notice": {
-
-    },
+    "lat": {},
+    "long": {},
+    "service_notice": {},
     "updated_datetime": "2015-10-22 17:30:59",
     "expected_datetime": "2015-10-28 16:55:00"
 }

@@ -2,9 +2,7 @@
     "service_request_id": "UN201510230249",
     "requested_datetime": "2015-10-23 16:07:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "新市區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局善化分局,臺南市政府警察局勤務指揮中心",
@@ -13,9 +11,7 @@
     "address_string": "744台灣台南市新市區中華路96號",
     "lat": "23.064468016629757",
     "long": "120.29412791132927",
-    "service_notice": {
-
-    },
+    "service_notice": {},
     "updated_datetime": "2015-10-23 19:38:25",
     "expected_datetime": "2015-10-23 16:07:00"
 }

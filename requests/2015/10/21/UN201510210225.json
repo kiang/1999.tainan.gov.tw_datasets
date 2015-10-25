@@ -2,9 +2,7 @@
     "service_request_id": "UN201510210225",
     "requested_datetime": "2015-10-21 15:42:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
@@ -13,9 +11,7 @@
     "address_string": "永康區中正七街28號.30號",
     "lat": "23.0404714",
     "long": "120.240496",
-    "service_notice": {
-
-    },
+    "service_notice": {},
     "updated_datetime": "2015-10-21 19:20:02",
     "expected_datetime": "2015-10-21 15:42:00"
 }

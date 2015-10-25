@@ -2,24 +2,16 @@
     "service_request_id": "UN201510250053",
     "requested_datetime": "2015-10-25 09:56:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區和緯路二段229號、231號前方人行道  違停",
     "address_string": "北區和緯路二段229號、231號前方人行道",
-    "lat": {
-
-    },
-    "long": {
-
-    },
-    "service_notice": {
-
-    },
+    "lat": {},
+    "long": {},
+    "service_notice": {},
     "updated_datetime": "2015-10-25 14:26:28",
     "expected_datetime": "2015-11-01 09:56:00"
 }

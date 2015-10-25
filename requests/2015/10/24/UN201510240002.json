@@ -2,24 +2,16 @@
     "service_request_id": "UN201510240002",
     "requested_datetime": "2015-10-24 00:27:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "東區中華東路二段133巷77弄 妨礙安寧",
     "address_string": "東區中華東路二段133巷77弄",
-    "lat": {
-
-    },
-    "long": {
-
-    },
-    "service_notice": {
-
-    },
+    "lat": {},
+    "long": {},
+    "service_notice": {},
     "updated_datetime": "2015-10-24 03:41:59",
     "expected_datetime": "2015-10-31 00:27:00"
 }

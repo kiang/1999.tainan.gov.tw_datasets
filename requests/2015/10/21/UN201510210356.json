@@ -2,24 +2,16 @@
     "service_request_id": "UN201510210356",
     "requested_datetime": "2015-10-21 22:00:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
     "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "東區中華東路二段185巷10號 妨礙安寧\/噪音",
     "address_string": "東區中華東路二段185巷10號",
-    "lat": {
-
-    },
-    "long": {
-
-    },
-    "service_notice": {
-
-    },
+    "lat": {},
+    "long": {},
+    "service_notice": {},
     "updated_datetime": "2015-10-22 15:42:49",
     "expected_datetime": "2015-10-28 22:00:00"
 }

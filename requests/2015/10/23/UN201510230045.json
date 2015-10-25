@@ -2,9 +2,7 @@
     "service_request_id": "UN201510230045",
     "requested_datetime": "2015-10-23 08:56:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "東 區",
     "service_name": "交通運輸",
     "agency": "臺南市政府交通局",
@@ -13,9 +11,7 @@
     "address_string": "701台灣台南市東區東門路三段跟東門路三段37巷路口",
     "lat": "22.98021207929116",
     "long": "120.23053240031005",
-    "service_notice": {
-
-    },
+    "service_notice": {},
     "updated_datetime": "2015-10-23 16:57:42",
     "expected_datetime": "2015-10-23 08:56:00"
 }

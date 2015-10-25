@@ -2,24 +2,16 @@
     "service_request_id": "UN201510230349",
     "requested_datetime": "2015-10-23 19:23:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "將軍區",
     "service_name": "髒亂及汙染",
     "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "將軍區長榮段214 空氣汙染",
     "address_string": "將軍區長榮段214",
-    "lat": {
-
-    },
-    "long": {
-
-    },
-    "service_notice": {
-
-    },
+    "lat": {},
+    "long": {},
+    "service_notice": {},
     "updated_datetime": "2015-10-24 10:37:56",
     "expected_datetime": "2015-10-30 19:23:00"
 }

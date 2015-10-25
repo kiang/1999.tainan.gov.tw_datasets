@@ -2,24 +2,16 @@
     "service_request_id": "UN201510210010",
     "requested_datetime": "2015-10-21 04:55:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "麻豆區",
     "service_name": "噪音舉發",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "麻豆區公所(麻豆區東角里忠孝路250號)附近 妨礙安寧",
     "address_string": "麻豆區公所(麻豆區東角里忠孝路250號)附近",
-    "lat": {
-
-    },
-    "long": {
-
-    },
-    "service_notice": {
-
-    },
+    "lat": {},
+    "long": {},
+    "service_notice": {},
     "updated_datetime": "2015-10-21 16:24:26",
     "expected_datetime": "2015-10-28 04:55:00"
 }

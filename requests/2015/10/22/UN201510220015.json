@@ -2,9 +2,7 @@
     "service_request_id": "UN201510220015",
     "requested_datetime": "2015-10-22 07:20:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "麻豆區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
@@ -13,9 +11,7 @@
     "address_string": "麻豆區信義路(郵局-國中街) 麻豆分局旁邊市場",
     "lat": "23.1818657",
     "long": "120.253197",
-    "service_notice": {
-
-    },
+    "service_notice": {},
     "updated_datetime": "2015-10-22 12:18:43",
     "expected_datetime": "2015-10-29 07:20:00"
 }

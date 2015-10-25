@@ -2,9 +2,7 @@
     "service_request_id": "UN201510210161",
     "requested_datetime": "2015-10-21 13:28:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
@@ -13,9 +11,7 @@
     "address_string": "前鋒路",
     "lat": "22.997143",
     "long": "120.21363",
-    "service_notice": {
-
-    },
+    "service_notice": {},
     "updated_datetime": "2015-10-21 19:12:08",
     "expected_datetime": "2015-10-21 13:28:00"
 }

@@ -2,24 +2,16 @@
     "service_request_id": "UN201510250123",
     "requested_datetime": "2015-10-25 13:57:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區西華南街68號違規停車以及旁邊高元補習班騎樓外",
     "address_string": "西華南街",
-    "lat": {
-
-    },
-    "long": {
-
-    },
-    "service_notice": {
-
-    },
+    "lat": {},
+    "long": {},
+    "service_notice": {},
     "updated_datetime": "2015-10-25 15:46:57",
     "expected_datetime": "2015-10-25 13:57:00"
 }

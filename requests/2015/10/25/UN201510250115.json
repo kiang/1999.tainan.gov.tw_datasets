@@ -2,24 +2,16 @@
     "service_request_id": "UN201510250115",
     "requested_datetime": "2015-10-25 13:26:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "富北街11號2F3F4F 妨礙安寧",
     "address_string": "台南市富北街11號2F3F4F(外勞唱卡拉ok)",
-    "lat": {
-
-    },
-    "long": {
-
-    },
-    "service_notice": {
-
-    },
+    "lat": {},
+    "long": {},
+    "service_notice": {},
     "updated_datetime": "2015-10-25 14:46:44",
     "expected_datetime": "2015-10-25 13:26:00"
 }

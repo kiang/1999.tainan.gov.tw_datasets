@@ -1,12 +1,8 @@
 {
     "service_request_id": "UN201510240339",
     "requested_datetime": "2015-10-24 23:04:00",
-    "status": {
-
-    },
-    "keyword": {
-
-    },
+    "status": {},
+    "keyword": {},
     "area": "東 區",
     "service_name": "路燈故障",
     "agency": "臺南市政府工務局",
@@ -15,11 +11,7 @@
     "address_string": "701台灣台南市東區榮譽街90號",
     "lat": "22.975006901658773",
     "long": "120.21807119250298",
-    "service_notice": {
-
-    },
-    "updated_datetime": {
-
-    },
+    "service_notice": {},
+    "updated_datetime": {},
     "expected_datetime": "2015-10-24 23:04:00"
 }

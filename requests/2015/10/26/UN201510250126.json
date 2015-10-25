@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201510250126",
+    "requested_datetime": "2015-10-26 01:34:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區安平路*運河路 (7-11對面)   違停",
+    "address_string": "安平區安平路*運河路 (7-11對面)",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-10-25 17:46:09",
+    "expected_datetime": "2015-11-02 01:34:00"
+}

@@ -2,32 +2,16 @@
     "service_request_id": "UN201510230122",
     "requested_datetime": "2015-10-23 10:58:00",
     "status": "已完工",
-    "keyword": {
-
-    },
-    "area": {
-
-    },
-    "service_name": {
-
-    },
+    "keyword": {},
+    "area": {},
+    "service_name": {},
     "agency": "臺南市政府環境保護局",
-    "subproject": {
-
-    },
+    "subproject": {},
     "description": "路面髒亂",
-    "address_string": {
-
-    },
-    "lat": {
-
-    },
-    "long": {
-
-    },
-    "service_notice": {
-
-    },
+    "address_string": {},
+    "lat": {},
+    "long": {},
+    "service_notice": {},
     "updated_datetime": "2015-10-23 17:28:21",
     "expected_datetime": "2015-10-30 10:58:00"
 }

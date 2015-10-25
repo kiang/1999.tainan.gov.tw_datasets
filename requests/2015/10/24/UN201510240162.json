@@ -2,9 +2,7 @@
     "service_request_id": "UN201510240162",
     "requested_datetime": "2015-10-24 14:06:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "歸仁區",
     "service_name": "違規停車",
     "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
@@ -13,9 +11,7 @@
     "address_string": "711台灣台南市歸仁區南保里保興街62號",
     "lat": "22.97000093862004",
     "long": "120.28349094092846",
-    "service_notice": {
-
-    },
+    "service_notice": {},
     "updated_datetime": "2015-10-24 18:07:06",
     "expected_datetime": "2015-10-24 14:06:00"
 }

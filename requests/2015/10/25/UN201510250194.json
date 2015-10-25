@@ -2,9 +2,7 @@
     "service_request_id": "UN201510250194",
     "requested_datetime": "2015-10-25 17:38:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
@@ -13,9 +11,7 @@
     "address_string": "700台灣台南市中西區中正路16號",
     "lat": "22.99217060337439",
     "long": "120.20361475646496",
-    "service_notice": {
-
-    },
+    "service_notice": {},
     "updated_datetime": "2015-10-25 18:00:00",
     "expected_datetime": "2015-10-25 17:38:00"
 }

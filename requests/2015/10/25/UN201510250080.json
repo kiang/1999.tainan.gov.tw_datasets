@@ -2,24 +2,16 @@
     "service_request_id": "UN201510250080",
     "requested_datetime": "2015-10-25 11:28:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "東區長榮中學 噪音",
     "address_string": "東區長榮中學",
-    "lat": {
-
-    },
-    "long": {
-
-    },
-    "service_notice": {
-
-    },
+    "lat": {},
+    "long": {},
+    "service_notice": {},
     "updated_datetime": "2015-10-25 14:18:51",
     "expected_datetime": "2015-11-01 11:28:00"
 }

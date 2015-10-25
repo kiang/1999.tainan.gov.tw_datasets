@@ -2,9 +2,7 @@
     "service_request_id": "UN201510250179",
     "requested_datetime": "2015-10-25 16:29:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "南 區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
@@ -13,9 +11,7 @@
     "address_string": "南區中華南路一段175巷2號",
     "lat": "22.969810166921828",
     "long": "120.21109309047459",
-    "service_notice": {
-
-    },
+    "service_notice": {},
     "updated_datetime": "2015-10-25 18:43:32",
     "expected_datetime": "2015-10-25 16:29:00"
 }

@@ -2,24 +2,16 @@
     "service_request_id": "UN201510220040",
     "requested_datetime": "2015-10-22 08:59:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區開山路82-1號 違規停車",
     "address_string": "開山路82-1號^112號",
-    "lat": {
-
-    },
-    "long": {
-
-    },
-    "service_notice": {
-
-    },
+    "lat": {},
+    "long": {},
+    "service_notice": {},
     "updated_datetime": "2015-10-22 12:27:04",
     "expected_datetime": "2015-10-22 08:59:00"
 }

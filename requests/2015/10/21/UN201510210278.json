@@ -2,24 +2,16 @@
     "service_request_id": "UN201510210278",
     "requested_datetime": "2015-10-21 17:57:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "歸仁區",
     "service_name": "路燈故障",
     "agency": "臺南市歸仁區公所",
     "subproject": "9盞以下路燈故障",
     "description": "歸仁區中正南路一段1207號消防隊 路燈\/水溝蓋",
     "address_string": "歸仁區中正南路一段1207號消防隊",
-    "lat": {
-
-    },
-    "long": {
-
-    },
-    "service_notice": {
-
-    },
+    "lat": {},
+    "long": {},
+    "service_notice": {},
     "updated_datetime": "2015-10-23 08:12:39",
     "expected_datetime": "2015-10-28 17:57:00"
 }

@@ -2,26 +2,16 @@
     "service_request_id": "UN201510240040",
     "requested_datetime": "2015-10-24 09:03:00",
     "status": "未處理",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "東區",
     "service_name": "交通運輸",
     "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "東區東門路跟仁和路口 號誌故障",
     "address_string": "東區東門路跟仁和路口",
-    "lat": {
-
-    },
-    "long": {
-
-    },
-    "service_notice": {
-
-    },
-    "updated_datetime": {
-
-    },
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
     "expected_datetime": "2015-10-31 09:03:00"
 }

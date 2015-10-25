@@ -2,26 +2,16 @@
     "service_request_id": "UN201510250098",
     "requested_datetime": "2015-10-25 12:29:00",
     "status": "未處理",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "歸仁區",
     "service_name": "髒亂及汙染",
     "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "歸仁區中正六街11號左邊的商家 空氣汙染",
     "address_string": "歸仁區中正六街11號左邊的商家",
-    "lat": {
-
-    },
-    "long": {
-
-    },
-    "service_notice": {
-
-    },
-    "updated_datetime": {
-
-    },
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
     "expected_datetime": "2015-11-01 12:29:00"
 }

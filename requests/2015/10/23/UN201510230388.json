@@ -2,9 +2,7 @@
     "service_request_id": "UN201510230388",
     "requested_datetime": "2015-10-23 21:12:00",
     "status": "已完工",
-    "keyword": {
-
-    },
+    "keyword": {},
     "area": "新市區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
@@ -13,9 +11,7 @@
     "address_string": "744台灣台南市新市區中華路96號",
     "lat": "23.064407863853827",
     "long": "120.29404509812592",
-    "service_notice": {
-
-    },
+    "service_notice": {},
     "updated_datetime": "2015-10-24 00:38:25",
     "expected_datetime": "2015-10-23 21:12:00"
 }
