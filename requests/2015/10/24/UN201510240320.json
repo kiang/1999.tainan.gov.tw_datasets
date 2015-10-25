@@ -1,15 +1,13 @@
 {
     "service_request_id": "UN201510240320",
     "requested_datetime": "2015-10-24 21:28:00",
-    "status": {
-
-    },
+    "status": "已完工",
     "keyword": {
 
     },
     "area": "安平區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "安平區平通路454號3樓 唱歌很大聲",
     "address_string": "安平區平通路454號3樓",
@@ -22,8 +20,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": {
-
-    },
+    "updated_datetime": "2015-10-25 07:23:14",
     "expected_datetime": "2015-10-31 21:28:00"
 }
