@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201510250081",
-    "requested_datetime": "2015-10-25 11:39:00",
+    "service_request_id": "UN201510250096",
+    "requested_datetime": "2015-10-25 12:26:00",
     "status": {
 
     },
@@ -11,8 +11,8 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "萬昌街＋興華街   違規停車",
-    "address_string": "萬昌街＋興華街",
+    "description": "中西區開山路76號～112號 違規停車",
+    "address_string": "中西區開山路76號～112號",
     "lat": {
 
     },
@@ -25,5 +25,5 @@
     "updated_datetime": {
 
     },
-    "expected_datetime": "2015-10-25 11:39:00"
+    "expected_datetime": "2015-10-25 12:26:00"
 }
