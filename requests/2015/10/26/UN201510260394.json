@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201510260394",
+    "requested_datetime": "2015-10-26 20:59:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "永康區勝華街37巷的活動中心 妨礙安寧",
+    "address_string": "永康區勝華街37巷的活動中心",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-10-26 22:30:56",
+    "expected_datetime": "2015-11-02 20:59:00"
+}
