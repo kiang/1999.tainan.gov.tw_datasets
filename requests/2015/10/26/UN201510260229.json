@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201510260229",
     "requested_datetime": "2015-10-26 14:28:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "遠東科大旁永就４３號旁邊，新市橋側邊機車違規停車 中華路１０４號前機車違規停車 永就５９－３號旁 遠東科大正門旁圍牆兩側 違停",
     "address_string": "遠東科大旁永就４３號旁邊，新市橋側邊機車違規停車 中華路１０４號前機車違規停車 永就５９－３號旁 遠東科大正門旁圍牆兩側",
     "lat": "23.065351796622366",
     "long": "120.2933219075203",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-10-26 18:02:42",
     "expected_datetime": "2015-10-26 14:28:00"
 }
