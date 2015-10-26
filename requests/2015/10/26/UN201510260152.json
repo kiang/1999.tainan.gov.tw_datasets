@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201510260152",
     "requested_datetime": "2015-10-26 11:28:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區中正路24號前 違規停車",
     "address_string": "700台灣台南市中西區中正路24號",
     "lat": "22.992206714390026",
     "long": "120.20357586443424",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-10-26 14:42:42",
     "expected_datetime": "2015-10-26 11:28:00"
 }
