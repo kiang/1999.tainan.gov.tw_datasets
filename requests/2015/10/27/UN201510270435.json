@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201510270435",
     "requested_datetime": "2015-10-27 22:11:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東 區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "東區崇德路634號 佔用道路",
     "address_string": "701台灣台南市東區崇德路634號",
     "lat": "22.970271969793053",
     "long": "120.22746630012989",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-10-28 03:00:24",
     "expected_datetime": "2015-10-27 22:11:00"
 }
