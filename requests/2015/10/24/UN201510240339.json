@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201510240339",
     "requested_datetime": "2015-10-24 23:04:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東 區",
     "service_name": "路燈故障",
@@ -12,6 +12,6 @@
     "lat": "22.975006901658773",
     "long": "120.21807119250298",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-10-27 09:14:07",
     "expected_datetime": "2015-10-24 23:04:00"
 }
