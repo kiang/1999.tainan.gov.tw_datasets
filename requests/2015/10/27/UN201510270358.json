@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201510270358",
     "requested_datetime": "2015-10-27 18:16:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東 區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第一分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區自由路二段69巷21號   違規停車",
     "address_string": "701台灣台南市東區自由路二段69巷21號",
     "lat": "22.971815725826644",
     "long": "120.23684564977884",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-10-28 16:53:11",
     "expected_datetime": "2015-10-27 18:16:00"
 }
