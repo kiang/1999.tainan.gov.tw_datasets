@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201510280338",
+    "requested_datetime": "2015-10-28 17:25:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "安南區本原街二段106巷27弄10號前 佔用道路",
+    "address_string": "安南區本原街二段106巷27弄10號前",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-11-04 17:25:00"
+}
