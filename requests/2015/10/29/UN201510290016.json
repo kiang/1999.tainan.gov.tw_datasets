@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201510290016",
     "requested_datetime": "2015-10-29 07:53:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安定區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "安定區港尾里54-5號(活水幼兒園)往港口方向，第一個紅燈左轉200公尺機車道上 道路散落物",
     "address_string": "安定區港尾里54-5號(活水幼兒園)往港口方向，第一個紅燈左轉200公尺機車道上",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-10-29 15:57:35",
     "expected_datetime": "2015-11-05 07:53:00"
 }
