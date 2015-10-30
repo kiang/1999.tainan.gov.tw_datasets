@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201510300240",
+    "requested_datetime": "2015-10-30 16:01:00",
+    "status": {},
+    "keyword": {},
+    "area": "新市區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "新市區永就４３號新市橋邊早餐店旁 中華路１０４號 永就５９－３號旁 遠東科大正門旁圍牆兩側 中華路168號 違停",
+    "address_string": "744台灣台南市新市區遠東科大周邊",
+    "lat": "23.064855461557503",
+    "long": "120.29396798461677",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-10-30 16:01:00"
+}

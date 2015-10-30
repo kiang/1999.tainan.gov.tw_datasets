@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201510300093",
+    "requested_datetime": "2015-10-30 10:41:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌故障",
+    "description": "安平區國平路府平路",
+    "address_string": "安平區國平路與府平路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-10-30 15:27:15",
+    "expected_datetime": "2015-11-06 10:41:00"
+}

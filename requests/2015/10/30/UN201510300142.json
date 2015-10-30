@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201510300142",
+    "requested_datetime": "2015-10-30 12:17:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區民族路二段73號 違規停車",
+    "address_string": "民族路二段73號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-10-30 14:42:14",
+    "expected_datetime": "2015-10-30 12:17:00"
+}

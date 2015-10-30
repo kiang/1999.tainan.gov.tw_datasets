@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201510300128",
+    "requested_datetime": "2015-10-30 11:42:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "東區慶東街38號1樓(慶東38快炒) 佔用騎樓",
+    "address_string": "東區慶東街38號1樓(慶東38快炒)",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-10-30 14:44:17",
+    "expected_datetime": "2015-11-06 11:42:00"
+}

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201510280341",
     "requested_datetime": "2015-10-28 17:28:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "南區明興路1181巷230號 路燈",
     "address_string": "南區明興路1181巷230號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-10-30 09:24:57",
     "expected_datetime": "2015-11-04 17:28:00"
 }

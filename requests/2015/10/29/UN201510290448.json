@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201510290448",
+    "requested_datetime": "2015-10-29 22:16:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "小東路成大醫學院門口人行道 北區勝利路367號 北區東豐路163號 違規停車",
+    "address_string": "704台灣台南市北區小東路成大醫學院門口人行道 北區勝利路367號 北區東豐路163號",
+    "lat": "23.0030079",
+    "long": "120.2188328",
+    "service_notice": {},
+    "updated_datetime": "2015-10-30 07:21:16",
+    "expected_datetime": "2015-10-29 22:16:00"
+}

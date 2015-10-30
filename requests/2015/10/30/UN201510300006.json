@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201510300006",
+    "requested_datetime": "2015-10-30 06:47:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "東區北門路二段12號14號 佔用道路",
+    "address_string": "東區北門路二段12號14號",
+    "lat": "22.998234",
+    "long": "120.2125111",
+    "service_notice": {},
+    "updated_datetime": "2015-10-30 09:38:26",
+    "expected_datetime": "2015-11-06 06:47:00"
+}

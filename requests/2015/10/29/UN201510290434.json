@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201510290434",
+    "requested_datetime": "2015-10-29 21:47:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區莊敬路80巷轉角  違停",
+    "address_string": "東區莊敬路80巷轉角",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-10-30 07:23:05",
+    "expected_datetime": "2015-11-05 21:47:00"
+}

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201510280212",
     "requested_datetime": "2015-10-28 13:30:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "龍崎區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市龍崎區公所",
     "subproject": "9盞以下路燈故障",
     "description": "龍崎區石嘈里檳榔宅9號(路燈編號龍崎1042) 路燈",
     "address_string": "龍崎區石嘈里檳榔宅9號(路燈編號龍崎1042)",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-10-30 10:36:39",
     "expected_datetime": "2015-11-04 13:30:00"
 }
