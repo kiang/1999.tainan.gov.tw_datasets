@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201510310497",
+    "requested_datetime": "2015-10-31 12:31:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "安平區文平路207號 妨礙安寧",
+    "address_string": "安平區文平路207號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-10-31 19:22:20",
+    "expected_datetime": "2015-11-07 12:31:00"
+}
