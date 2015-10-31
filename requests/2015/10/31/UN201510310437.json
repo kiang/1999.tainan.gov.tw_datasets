@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201510310437",
+    "requested_datetime": "2015-10-31 09:52:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區忠勇街65巷與忠勇街交叉路口\/中華路58巷兩側(復興國小旁) 違規停車",
+    "address_string": "永康區忠勇街65巷與忠勇街交叉路口\/中華路58巷兩側(復興國小旁)",
+    "lat": "23.00153136647256",
+    "long": "120.23803990334272",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-10-31 09:52:00"
+}
