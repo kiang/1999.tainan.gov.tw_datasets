@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511010024",
+    "requested_datetime": "2015-11-01 08:18:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中正北路318巷316號 違規停車",
+    "address_string": "710台灣台南市永康區中正北路318巷316號",
+    "lat": "23.041594142129064",
+    "long": "120.24791110306978",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-11-01 08:18:00"
+}
