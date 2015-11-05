@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511050103",
+    "requested_datetime": "2015-11-05 10:42:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區新中街新中街公車站牌周邊 違規停車",
+    "address_string": "永康區新中街新中街公車站牌周邊",
+    "lat": "23.03631666529276",
+    "long": "120.24048976600172",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-11-05 10:42:00"
+}
