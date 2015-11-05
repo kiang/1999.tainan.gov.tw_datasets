@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201511050154",
     "requested_datetime": "2015-11-05 12:25:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "北區北門路二段89號\"不打烊機車行\" 占用道路\/騎樓\/人行道",
     "address_string": "北區北門路二段89號\"不打烊機車行\"",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-11-05 18:34:02",
     "expected_datetime": "2015-11-12 12:25:00"
 }
