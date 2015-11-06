@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511060107",
+    "requested_datetime": "2015-11-06 11:00:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區中正路529號(890號對面的路燈周邊) 違規停車",
+    "address_string": "永康區中正路529號(890號對面的路燈周邊)",
+    "lat": "23.039274607764405",
+    "long": "120.23938201367855",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-11-06 11:00:00"
+}
