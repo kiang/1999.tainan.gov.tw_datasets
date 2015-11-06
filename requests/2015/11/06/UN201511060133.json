@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511060133",
+    "requested_datetime": "2015-11-06 11:47:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區小東路319號^395號    違停",
+    "address_string": "北區小東路319號^395號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-06 12:54:13",
+    "expected_datetime": "2015-11-13 11:47:00"
+}
