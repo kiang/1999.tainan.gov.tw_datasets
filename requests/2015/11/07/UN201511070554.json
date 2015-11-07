@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201511070532",
-    "requested_datetime": "2015-11-07 14:19:00",
+    "service_request_id": "UN201511070554",
+    "requested_datetime": "2015-11-07 15:07:00",
     "status": {},
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "中西區和平街54號 違規停車",
-    "address_string": "台南市中西區和平街54號",
+    "description": "中西區西華南街 違規停車",
+    "address_string": "西華南街",
     "lat": {},
     "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2015-11-07 14:19:00"
+    "expected_datetime": "2015-11-07 15:07:00"
 }
