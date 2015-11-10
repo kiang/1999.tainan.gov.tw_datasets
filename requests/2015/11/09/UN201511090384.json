@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511090384",
+    "requested_datetime": "2015-11-09 23:20:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "永康奇美醫院王府大飯店     噪音舉發",
+    "address_string": "永康奇美醫院王府大飯店",
+    "lat": "23.021309668437677",
+    "long": "120.22152319550516",
+    "service_notice": {},
+    "updated_datetime": "2015-11-10 06:34:04",
+    "expected_datetime": "2015-11-09 23:20:00"
+}

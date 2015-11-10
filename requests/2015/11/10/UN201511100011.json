@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511100011",
+    "requested_datetime": "2015-11-10 07:17:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": {},
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區兵工廠斜對面台南公園前",
+    "address_string": "北區兵工廠斜對面台南公園前",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-10 11:08:30",
+    "expected_datetime": "2015-11-17 07:17:00"
+}

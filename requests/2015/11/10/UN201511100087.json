@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511100087",
+    "requested_datetime": "2015-11-10 10:46:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區建業街2-20號 違規停車",
+    "address_string": "700台灣台南市中西區建業街2-20號",
+    "lat": "22.98778875315983",
+    "long": "120.20711570978163",
+    "service_notice": {},
+    "updated_datetime": "2015-11-10 13:23:15",
+    "expected_datetime": "2015-11-10 10:46:00"
+}

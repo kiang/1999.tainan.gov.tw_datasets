@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511100126",
+    "requested_datetime": "2015-11-10 12:06:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區郡平路(育平路～健康三街) 違規停車",
+    "address_string": "安平區郡平路(育平路～健康三街)",
+    "lat": "22.98906224206964",
+    "long": "120.16828067600729",
+    "service_notice": {},
+    "updated_datetime": "2015-11-10 13:53:31",
+    "expected_datetime": "2015-11-10 12:06:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511100115",
+    "requested_datetime": "2015-11-10 11:44:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "永康區南台街(南台科技大學後門) 佔用道路",
+    "address_string": "永康區南台街(南台科技大學後門)",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-10 13:12:06",
+    "expected_datetime": "2015-11-17 11:44:00"
+}

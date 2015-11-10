@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511090289",
+    "requested_datetime": "2015-11-09 17:08:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區中山路兩側(湯德章公園到車站圓環) 違規停車",
+    "address_string": "中西區中山路兩側(湯德章公園到車站圓環)",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-09 18:49:02",
+    "expected_datetime": "2015-11-09 17:08:00"
+}

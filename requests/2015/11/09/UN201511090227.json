@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511090227",
+    "requested_datetime": "2015-11-09 15:28:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "場所連續噪音",
+    "description": "安平區怡平路366號  噪音\/佔用騎樓",
+    "address_string": "安平區怡平路366號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-10 13:46:45",
+    "expected_datetime": "2015-11-16 15:28:00"
+}

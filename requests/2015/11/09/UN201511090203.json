@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511090203",
+    "requested_datetime": "2015-11-09 14:55:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "歸仁區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "歸仁區保大路二段303-1號",
+    "address_string": "歸仁區保大路二段303-1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-09 17:24:56",
+    "expected_datetime": "2015-11-16 14:55:00"
+}
