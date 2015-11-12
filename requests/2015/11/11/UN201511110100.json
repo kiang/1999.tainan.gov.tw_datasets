@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201511110100",
     "requested_datetime": "2015-11-11 11:21:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局永康分局",
     "subproject": "違規停車",
     "description": "永康區中正路529號台南應用科大圍牆周邊\/中正路545號.890號 違規停車",
     "address_string": "永康區中正路529號台南應用科大圍牆周邊\/中正路545號.890號",
     "lat": "23.039212283996964",
     "long": "120.23949466645718",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-11-12 10:51:52",
     "expected_datetime": "2015-11-11 11:21:00"
 }
