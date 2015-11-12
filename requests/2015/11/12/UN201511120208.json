@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511120208",
+    "requested_datetime": "2015-11-12 15:57:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "東區慶東街(青年路-新樓街) 騎樓",
+    "address_string": "東區慶東街(青年路-新樓街)",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-12 22:01:08",
+    "expected_datetime": "2015-11-19 15:57:00"
+}

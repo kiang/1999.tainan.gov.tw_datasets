@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511120291",
+    "requested_datetime": "2015-11-12 20:01:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區東榮街九號公園 違規停車",
+    "address_string": "東榮街九號公園",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-12 22:34:32",
+    "expected_datetime": "2015-11-12 20:01:00"
+}
