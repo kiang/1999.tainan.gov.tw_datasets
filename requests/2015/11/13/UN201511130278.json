@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201511130278",
     "requested_datetime": "2015-11-13 16:43:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局勤務指揮中心,臺南市政府警察局歸仁分局",
     "subproject": "違規停車",
     "description": "歸仁區公園路45號 違規停車",
     "address_string": "711台灣台南市歸仁區公園路45號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-11-13 17:39:43",
     "expected_datetime": "2015-11-13 16:43:00"
 }
