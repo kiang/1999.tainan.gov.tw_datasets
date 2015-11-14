@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511140196",
+    "requested_datetime": "2015-11-14 17:14:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "路燈不亮",
+    "address_string": "北區立賢路一段529號對面",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-11-21 17:14:00"
+}
