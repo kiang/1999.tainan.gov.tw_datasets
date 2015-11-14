@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201511130343",
     "requested_datetime": "2015-11-13 19:20:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東 區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區裕農一街28號 違規停車",
     "address_string": "701台灣台南市東區裕農一街28號",
     "lat": "22.98841284447499",
     "long": "120.23824375122786",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-11-14 08:18:29",
     "expected_datetime": "2015-11-13 19:20:00"
 }
