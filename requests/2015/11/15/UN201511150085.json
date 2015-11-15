@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511150085",
+    "requested_datetime": "2015-11-15 13:42:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "安平區永華路二段和華平路口 佔用\/東區長榮路一段和府東街交叉口 違停",
+    "address_string": "安平區永華路二段和華平路口\/東區長榮路一段和府東街交叉口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-15 19:06:00",
+    "expected_datetime": "2015-11-22 13:42:00"
+}
