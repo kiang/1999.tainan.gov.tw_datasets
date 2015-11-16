@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511160161",
+    "requested_datetime": "2015-11-16 12:21:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區開元路與開元路485巷交叉路口周邊(成大城旁)  違規停車",
+    "address_string": "北區開元路與開元路485巷交叉路口周邊(成大城旁)",
+    "lat": "23.010194046234652",
+    "long": "120.22471904754637",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-11-16 12:21:00"
+}
