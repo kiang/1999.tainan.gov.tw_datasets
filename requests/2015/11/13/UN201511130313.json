@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201511130313",
     "requested_datetime": "2015-11-13 18:02:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "10盞以上路燈故障",
     "description": "安南區郡安路五到六段以及海佃路二段 路燈",
     "address_string": "安南區郡安路五到六段以及海佃路二段",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-11-16 11:38:17",
     "expected_datetime": "2015-11-20 18:02:00"
 }

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201511150084",
     "requested_datetime": "2015-11-15 13:37:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "東區裕和五街上關聖宮 噪音",
     "address_string": "東區裕和五街上關聖宮",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-11-16 11:33:09",
     "expected_datetime": "2015-11-22 13:37:00"
 }
