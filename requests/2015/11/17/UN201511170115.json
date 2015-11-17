@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511170115",
+    "requested_datetime": "2015-11-17 10:44:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中正路926巷兩側（中正路到中正七街25巷）違規停車",
+    "address_string": "永康區中正路926巷兩側（中正路到中正七街25巷）",
+    "lat": "23.040296775143112",
+    "long": "120.23952350020407",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-11-17 10:44:00"
+}
