@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201511170124",
     "requested_datetime": "2015-11-17 11:05:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心,臺南市政府警察局歸仁分局",
     "subproject": "違規停車",
     "description": "歸仁區民族南街22號 違規停車",
     "address_string": "711台灣台南市歸仁區民族南街22號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-11-17 17:13:47",
     "expected_datetime": "2015-11-17 11:05:00"
 }
