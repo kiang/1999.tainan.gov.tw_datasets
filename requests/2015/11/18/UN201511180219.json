@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201511180219",
     "requested_datetime": "2015-11-18 15:51:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區中華路912巷(大橋車站前.南臺科大校門周邊) 違規停車",
     "address_string": "永康區中華路912巷(大橋車站前.南臺科大校門周邊)",
     "lat": "23.020609819524896",
     "long": "120.22512774914502",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-11-18 19:03:26",
     "expected_datetime": "2015-11-18 15:51:00"
 }
