@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201511180014",
     "requested_datetime": "2015-11-18 07:10:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "新營區復興路120號\"新利成香紙行\" 佔用騎樓",
     "address_string": "新營區復興路120號\"新利成香紙行\"",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-11-18 15:14:52",
     "expected_datetime": "2015-11-25 07:10:00"
 }
