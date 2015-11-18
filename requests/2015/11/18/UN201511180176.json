@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201511180176",
     "requested_datetime": "2015-11-18 14:13:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "永康區中正七街兩側(中正路到新民街) 交通運輸",
     "address_string": "永康區中正七街兩側(中正路到新民街)",
     "lat": "23.039610908784304",
     "long": "120.23962140083313",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-11-18 16:28:40",
     "expected_datetime": "2015-11-18 14:13:00"
 }
