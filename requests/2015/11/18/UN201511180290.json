@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201511180290",
     "requested_datetime": "2015-11-18 19:09:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "違規停車",
+    "description": "東區府東街與府連路轉角人行道 違停",
     "address_string": "府東街與府連路轉角人行道",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-11-18 22:49:42",
     "expected_datetime": "2015-11-18 19:09:00"
 }
