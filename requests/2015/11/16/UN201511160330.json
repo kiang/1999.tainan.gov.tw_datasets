@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201511160330",
     "requested_datetime": "2015-11-16 20:25:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局第四分局",
     "subproject": "違規停車",
     "description": "708台灣台南市安平區中華西路二段7號 違停",
     "address_string": "708台灣台南市安平區中華西路二段7號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-11-19 11:34:04",
     "expected_datetime": "2015-11-16 20:25:00"
 }
