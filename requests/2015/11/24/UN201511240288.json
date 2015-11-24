@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511240288",
+    "requested_datetime": "2015-11-24 18:24:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "龍崎區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "龍崎區182縣道27.5公里處 路燈不亮",
+    "address_string": "龍崎區182縣道27.5公里處",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-01 18:24:00"
+}
