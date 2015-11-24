@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511220209",
+    "requested_datetime": "2015-11-22 20:51:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區海安路二段5號到75號\/268號\/238號\/神農街54號\/大智街跟尊王路口\/海安路三段72號  佔用道路\/違停",
+    "address_string": "中西區海安路二段5號到75號\/268號\/238號\/神農街54號\/大智街跟尊王路口\/海安路三段72號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-23 01:45:02",
+    "expected_datetime": "2015-11-29 20:51:00"
+}

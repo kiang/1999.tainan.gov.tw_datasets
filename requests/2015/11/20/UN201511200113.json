@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511200113",
+    "requested_datetime": "2015-11-20 10:54:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "歸仁區",
+    "service_name": "民生管線",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "孔蓋鬆動",
+    "address_string": "歸仁區民生北街100號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-23 14:55:58",
+    "expected_datetime": "2015-11-27 10:54:00"
+}

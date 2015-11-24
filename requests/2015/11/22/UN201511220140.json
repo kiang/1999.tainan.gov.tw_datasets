@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511220140",
+    "requested_datetime": "2015-11-22 15:03:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "北區長榮路五段(276巷到大武街) 佔用道路",
+    "address_string": "北區長榮路五段(276巷到大武街)",
+    "lat": "23.01281650345357",
+    "long": "120.21732822060584",
+    "service_notice": {},
+    "updated_datetime": "2015-11-22 15:51:35",
+    "expected_datetime": "2015-11-22 15:03:00"
+}

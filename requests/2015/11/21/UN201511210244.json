@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511210244",
+    "requested_datetime": "2015-11-21 21:26:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局",
+    "subproject": "9盞以下路燈故障",
+    "description": "南區明興路746號 路燈",
+    "address_string": "南區明興路746號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-24 10:01:47",
+    "expected_datetime": "2015-11-28 21:26:00"
+}

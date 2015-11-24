@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511190352",
+    "requested_datetime": "2015-11-19 22:55:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "台南市北區公園路545號 違規停車",
+    "address_string": "台南市北區公園路545號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-20 03:54:05",
+    "expected_datetime": "2015-11-19 22:55:00"
+}

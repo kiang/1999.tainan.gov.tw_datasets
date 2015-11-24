@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511220226",
+    "requested_datetime": "2015-11-22 23:26:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "場所連續噪音",
+    "description": "東區小東路244號對面 噪音",
+    "address_string": "東區小東路244號對面",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-24 09:08:10",
+    "expected_datetime": "2015-11-29 23:26:00"
+}

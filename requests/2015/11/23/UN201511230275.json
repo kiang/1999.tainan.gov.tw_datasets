@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511230275",
+    "requested_datetime": "2015-11-23 16:33:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "仁德區二仁路一段353號 空氣汙染",
+    "address_string": "仁德區二仁路一段353號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-24 09:04:14",
+    "expected_datetime": "2015-11-30 16:33:00"
+}

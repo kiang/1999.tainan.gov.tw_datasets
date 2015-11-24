@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511230368",
+    "requested_datetime": "2015-11-23 22:14:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "民生管線",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "南區中華南路一段27巷1號 停電",
+    "address_string": "南區中華南路一段27巷1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-24 10:11:53",
+    "expected_datetime": "2015-11-30 22:14:00"
+}

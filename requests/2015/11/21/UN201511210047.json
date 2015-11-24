@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511210047",
+    "requested_datetime": "2015-11-21 09:41:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區北門路上接近民族路口 違停",
+    "address_string": "北區北門路上接近民族路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-21 16:36:17",
+    "expected_datetime": "2015-11-28 09:41:00"
+}

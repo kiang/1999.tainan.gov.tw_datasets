@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511200127",
+    "requested_datetime": "2015-11-20 11:26:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "開山路 違規停車",
+    "address_string": "開山路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-20 16:57:31",
+    "expected_datetime": "2015-11-20 11:26:00"
+}

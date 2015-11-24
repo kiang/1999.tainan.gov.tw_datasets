@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511230355",
+    "requested_datetime": "2015-11-23 20:19:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區林森路二段86號 違停",
+    "address_string": "東區林森路二段86號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-24 03:29:24",
+    "expected_datetime": "2015-11-30 20:19:00"
+}

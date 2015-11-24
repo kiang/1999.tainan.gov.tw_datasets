@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511190190",
+    "requested_datetime": "2015-11-19 14:11:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區西門路二段243號 違規停車",
+    "address_string": "700台灣台南市中西區西門路二段243號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-23 10:01:13",
+    "expected_datetime": "2015-11-19 14:11:00"
+}

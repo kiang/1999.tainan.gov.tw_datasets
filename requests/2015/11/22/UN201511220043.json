@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511220043",
+    "requested_datetime": "2015-11-22 08:52:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "安平區育平九街372巷23弄20號旁 空氣汙染",
+    "address_string": "安平區育平九街372巷23弄20號旁",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-24 09:22:19",
+    "expected_datetime": "2015-11-29 08:52:00"
+}

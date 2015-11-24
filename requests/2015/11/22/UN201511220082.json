@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511220082",
+    "requested_datetime": "2015-11-22 10:45:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "六甲區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "六甲區七甲街89巷巷內  空汙",
+    "address_string": "六甲區七甲街89巷巷內",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-22 17:34:47",
+    "expected_datetime": "2015-11-29 10:45:00"
+}

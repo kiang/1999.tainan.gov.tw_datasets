@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511230003",
+    "requested_datetime": "2015-11-23 00:37:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "永康區文化路252巷6號 妨礙安寧",
+    "address_string": "710台灣台南市永康區文化路252巷6號",
+    "lat": "23.01489733668041",
+    "long": "120.25416366755962",
+    "service_notice": {},
+    "updated_datetime": "2015-11-23 02:33:52",
+    "expected_datetime": "2015-11-23 00:37:00"
+}

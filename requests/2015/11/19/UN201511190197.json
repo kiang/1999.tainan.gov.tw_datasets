@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511190197",
+    "requested_datetime": "2015-11-19 14:23:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "南區金華路二段200號(廣東沙茶爐火鍋) 空氣汙染",
+    "address_string": "南區金華路二段200號(廣東沙茶爐火鍋)",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-19 21:23:19",
+    "expected_datetime": "2015-11-26 14:23:00"
+}

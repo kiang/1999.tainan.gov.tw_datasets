@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201511190142",
     "requested_datetime": "2015-11-19 11:54:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "永華市政空地旁邊，靠近台南地政   空汙",
     "address_string": "永華市政空地旁邊，靠近台南地政",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-11-20 09:14:03",
     "expected_datetime": "2015-11-26 11:54:00"
 }

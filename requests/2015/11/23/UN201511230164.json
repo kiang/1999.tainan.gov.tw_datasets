@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511230164",
+    "requested_datetime": "2015-11-23 12:45:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中正路545號周邊 違規停車",
+    "address_string": "永康區中正路545號周邊",
+    "lat": "23.0397466630866",
+    "long": "120.238899551332",
+    "service_notice": {},
+    "updated_datetime": "2015-11-23 18:00:20",
+    "expected_datetime": "2015-11-23 12:45:00"
+}

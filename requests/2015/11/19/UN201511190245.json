@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511190245",
+    "requested_datetime": "2015-11-19 16:00:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局",
+    "subproject": "9盞以下路燈故障",
+    "description": "安南區安和路二段路口(京城銀行旁)   路燈不亮",
+    "address_string": "安南區安和路二段路口(京城銀行旁)",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-20 09:46:08",
+    "expected_datetime": "2015-11-26 16:00:00"
+}

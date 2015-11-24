@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511200020",
+    "requested_datetime": "2015-11-20 07:42:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "安南區國安街155巷1號文賢市場對面",
+    "address_string": "安南區國安街155巷1號文賢市場對面",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-20 15:47:00",
+    "expected_datetime": "2015-11-27 07:42:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511200335",
+    "requested_datetime": "2015-11-20 23:56:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "動物救援",
+    "agency": "臺南市動物防疫保護處",
+    "subproject": "犬貓急難救援",
+    "description": "北區大興街275巷50號和52號中間屋頂上 犬貓救援",
+    "address_string": "北區大興街275巷50號和52號中間屋頂上",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-23 14:05:43",
+    "expected_datetime": "2015-11-27 23:56:00"
+}

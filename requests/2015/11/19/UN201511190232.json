@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511190232",
+    "requested_datetime": "2015-11-19 15:49:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區北門路二段4號 違規停車",
+    "address_string": "No. 4, Section 2, Beimen Rd, East District",
+    "lat": "22.997143956084173",
+    "long": "120.21296594291925",
+    "service_notice": {},
+    "updated_datetime": "2015-11-19 19:42:05",
+    "expected_datetime": "2015-11-19 15:49:00"
+}

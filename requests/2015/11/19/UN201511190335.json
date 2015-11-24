@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511190335",
+    "requested_datetime": "2015-11-19 20:56:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府水利局",
+    "subproject": "人孔蓋聲響、凹陷、漏水",
+    "description": "中西區光賢街29號   孔蓋鬆動",
+    "address_string": "中西區光賢街29號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-23 18:59:31",
+    "expected_datetime": "2015-11-26 20:56:00"
+}

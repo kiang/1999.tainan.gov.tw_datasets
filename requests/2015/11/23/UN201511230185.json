@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511230185",
+    "requested_datetime": "2015-11-23 13:41:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安南區海佃路一段225號 違規停車",
+    "address_string": "安南區海佃路一段225號",
+    "lat": "23.0253655114209",
+    "long": "120.1912708953023",
+    "service_notice": {},
+    "updated_datetime": "2015-11-23 17:58:47",
+    "expected_datetime": "2015-11-23 13:41:00"
+}

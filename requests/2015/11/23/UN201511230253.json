@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511230253",
+    "requested_datetime": "2015-11-23 15:52:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區長榮路五段(276巷到大武街) 違規停車",
+    "address_string": "北區長榮路五段(276巷到大武街)",
+    "lat": "23.012816812047564",
+    "long": "120.21727424114941",
+    "service_notice": {},
+    "updated_datetime": "2015-11-23 18:15:33",
+    "expected_datetime": "2015-11-23 15:52:00"
+}

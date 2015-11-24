@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511220214",
+    "requested_datetime": "2015-11-22 22:02:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "北區海安路三段附近 花園夜市週邊 廟會妨礙安寧",
+    "address_string": "北區海安路三段附近 花園夜市週邊",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-23 02:32:39",
+    "expected_datetime": "2015-11-29 22:02:00"
+}

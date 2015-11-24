@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511200041",
+    "requested_datetime": "2015-11-20 08:59:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "中西區臨安路一段149號 騎樓舉發",
+    "address_string": "700台灣台南市中西區臨安路一段149號",
+    "lat": "23.000287314323327",
+    "long": "120.19191026687622",
+    "service_notice": {},
+    "updated_datetime": "2015-11-20 15:50:38",
+    "expected_datetime": "2015-11-20 08:59:00"
+}

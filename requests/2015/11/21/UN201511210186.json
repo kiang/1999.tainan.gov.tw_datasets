@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511210186",
+    "requested_datetime": "2015-11-21 17:54:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區中正路192號前 違停",
+    "address_string": "中西區中正路192號前",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-22 07:02:32",
+    "expected_datetime": "2015-11-28 17:54:00"
+}

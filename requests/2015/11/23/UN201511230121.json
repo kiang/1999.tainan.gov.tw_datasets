@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511230121",
+    "requested_datetime": "2015-11-23 11:11:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌故障",
+    "description": "永康區永安路(鹽水溪橋下開始) 整條路  號誌故障",
+    "address_string": "永康區永安路(鹽水溪橋下開始)整條",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-23 17:59:53",
+    "expected_datetime": "2015-11-30 11:11:00"
+}

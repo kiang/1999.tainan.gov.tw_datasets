@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511220051",
+    "requested_datetime": "2015-11-22 09:07:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "安南區安和路一段\/安順橋上往北方向 坑洞",
+    "address_string": "安南區安和路一段\/安順橋上往北方向",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-23 17:09:27",
+    "expected_datetime": "2015-11-29 09:07:00"
+}

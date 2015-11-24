@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511200315",
+    "requested_datetime": "2015-11-20 21:04:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區凱旋路\/怡東路口 違停",
+    "address_string": "東區凱旋路\/怡東路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-21 01:11:59",
+    "expected_datetime": "2015-11-27 21:04:00"
+}

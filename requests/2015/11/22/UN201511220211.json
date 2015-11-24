@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511220211",
+    "requested_datetime": "2015-11-22 21:46:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌故障",
+    "description": "中西區中山路和西華南街口 號誌",
+    "address_string": "中西區中山路和西華南街口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-24 08:59:08",
+    "expected_datetime": "2015-11-29 21:46:00"
+}

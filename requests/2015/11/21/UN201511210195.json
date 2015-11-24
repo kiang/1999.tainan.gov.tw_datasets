@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511210195",
+    "requested_datetime": "2015-11-21 18:12:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區北園街89號開元寺前 違規停車",
+    "address_string": "北區北園街89號開元寺前",
+    "lat": "23.01130345863417",
+    "long": "120.22300377488135",
+    "service_notice": {},
+    "updated_datetime": "2015-11-22 07:04:07",
+    "expected_datetime": "2015-11-21 18:12:00"
+}

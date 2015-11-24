@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511190167",
+    "requested_datetime": "2015-11-19 13:11:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中正路890號萊爾富周圍 違規停車",
+    "address_string": "永康區中正路890號萊爾富周圍",
+    "lat": "23.039411288004956",
+    "long": "120.23940145969391",
+    "service_notice": {},
+    "updated_datetime": "2015-11-19 15:37:28",
+    "expected_datetime": "2015-11-19 13:11:00"
+}

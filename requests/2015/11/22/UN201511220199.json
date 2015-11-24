@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511220199",
+    "requested_datetime": "2015-11-22 20:12:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "新營區民治路上靠近南新國中的全國電子 違停",
+    "address_string": "新營區民治路上靠近南新國中的全國電子",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-23 01:37:05",
+    "expected_datetime": "2015-11-29 20:12:00"
+}

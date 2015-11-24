@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511210024",
+    "requested_datetime": "2015-11-21 08:13:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "安南區長和路二段140巷45弄1號或3號附近 噪音\/妨礙安寧",
+    "address_string": "安南區長和路二段140巷45弄1號或3號附近",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-21 18:36:41",
+    "expected_datetime": "2015-11-28 08:13:00"
+}

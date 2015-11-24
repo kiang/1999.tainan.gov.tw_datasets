@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511200176",
+    "requested_datetime": "2015-11-20 13:55:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "動物救援",
+    "agency": "臺南市動物防疫保護處",
+    "subproject": "遊蕩犬隻捕捉管制",
+    "description": "捕犬",
+    "address_string": "安平區怡平路6號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-23 14:30:12",
+    "expected_datetime": "2015-11-27 13:55:00"
+}

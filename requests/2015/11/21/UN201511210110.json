@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511210110",
+    "requested_datetime": "2015-11-21 13:04:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "其他汙染舉發",
+    "description": "安南區海佃路一段海東橋下 水汙",
+    "address_string": "704台灣台南市北區文賢路877號",
+    "lat": "23.019511592502447",
+    "long": "120.19218485802413",
+    "service_notice": {},
+    "updated_datetime": "2015-11-21 18:01:26",
+    "expected_datetime": "2015-11-21 13:04:00"
+}

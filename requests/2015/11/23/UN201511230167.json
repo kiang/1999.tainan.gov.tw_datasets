@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511230167",
+    "requested_datetime": "2015-11-23 12:49:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區開山路76號至80號 違規停車",
+    "address_string": "開山路七十六到80號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-23 15:04:41",
+    "expected_datetime": "2015-11-23 12:49:00"
+}
