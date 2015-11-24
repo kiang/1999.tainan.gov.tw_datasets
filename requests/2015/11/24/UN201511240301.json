@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511240301",
+    "requested_datetime": "2015-11-24 19:07:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "台南火車站前的鐵路飯店 騎樓舉發",
+    "address_string": "台南火車站前的鐵路飯店",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-01 19:07:00"
+}
