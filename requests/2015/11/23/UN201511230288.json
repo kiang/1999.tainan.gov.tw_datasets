@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201511230288",
     "requested_datetime": "2015-11-23 17:01:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "北區小東路\/東興路(極鮮火鍋)對面空地 空氣汙染",
     "address_string": "北區小東路\/東興路(極鮮火鍋)對面空地",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-11-24 14:25:36",
     "expected_datetime": "2015-11-30 17:01:00"
 }

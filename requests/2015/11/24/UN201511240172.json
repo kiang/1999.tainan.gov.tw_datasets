@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511240172",
+    "requested_datetime": "2015-11-24 13:18:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "永康區中正路635巷1弄20號左右 妨礙安寧",
+    "address_string": "永康區中正路635巷1弄20號左右",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-24 14:53:12",
+    "expected_datetime": "2015-12-01 13:18:00"
+}
