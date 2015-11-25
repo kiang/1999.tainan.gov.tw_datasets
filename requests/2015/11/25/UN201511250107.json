@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511250107",
+    "requested_datetime": "2015-11-25 10:59:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區文成路跟文賢路口 佔用道路",
+    "address_string": "北區文成路跟文賢路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-02 10:59:00"
+}
