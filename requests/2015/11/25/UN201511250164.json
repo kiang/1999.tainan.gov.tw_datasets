@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511250164",
+    "requested_datetime": "2015-11-25 13:33:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "交通運輸",
+    "address_string": "704台灣台南市北區開元路212巷13弄27號",
+    "lat": "23.005901043488457",
+    "long": "120.22397104650734",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-11-25 13:33:00"
+}
