@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511250163",
+    "requested_datetime": "2015-11-25 13:29:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局第五分局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "704台灣台南市北區開元路325號 違規停車",
+    "address_string": "704台灣台南市北區開元路325號",
+    "lat": "23.008119003950554",
+    "long": "120.22160198539494",
+    "service_notice": {},
+    "updated_datetime": "2015-11-25 14:42:00",
+    "expected_datetime": "2015-11-25 13:29:00"
+}
