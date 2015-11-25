@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201511240289",
     "requested_datetime": "2015-11-24 18:26:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東 區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區台南車站前站機車臨時停放區\/北門路一段兩側(青年路到車站圓環) 違規停車",
     "address_string": "東區台南車站前站機車臨時停放區\/北門路一段兩側(青年路到車站圓環)",
     "lat": "22.99675878550463",
     "long": "120.21210897713898",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-11-25 10:09:19",
     "expected_datetime": "2015-11-24 18:26:00"
 }
