@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201511260286",
     "requested_datetime": "2015-11-26 23:25:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "新營區忠義街28號(濟安宮廟埕廣場) 妨礙安寧",
     "address_string": "濟安宮廟埕廣場",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-11-27 00:31:55",
     "expected_datetime": "2015-11-26 23:25:00"
 }
