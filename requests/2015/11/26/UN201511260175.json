@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201511260175",
     "requested_datetime": "2015-11-26 14:58:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局善化分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "善化區成功路2-2號 違規停車",
     "address_string": "741台灣台南市善化區成功路2-2號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-11-26 16:30:48",
     "expected_datetime": "2015-11-26 14:58:00"
 }
