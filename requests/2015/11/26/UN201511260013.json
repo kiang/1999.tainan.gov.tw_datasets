@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511260013",
+    "requested_datetime": "2015-11-26 07:17:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "北區公園路兵工廠對面 攤販",
+    "address_string": "北區公園路兵工廠對面",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-26 08:50:23",
+    "expected_datetime": "2015-12-03 07:17:00"
+}
