@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201511260164",
     "requested_datetime": "2015-11-26 14:30:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "下營區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "下營區茅港里51號前水溝工程",
     "address_string": "下營區茅港里51號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-11-27 09:48:15",
     "expected_datetime": "2015-12-03 14:30:00"
 }
