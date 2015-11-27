@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511270330",
+    "requested_datetime": "2015-11-27 23:04:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "仁德區義林一街\/義林三街口 小姑娘飲食店 妨礙安寧",
+    "address_string": "仁德區義林一街\/義林三街口 小姑娘飲食店",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-04 23:04:00"
+}

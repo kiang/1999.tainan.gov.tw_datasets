@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511270281",
+    "requested_datetime": "2015-11-27 19:20:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "新市區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "新市區民生路二巷和和平街口處 違停",
+    "address_string": "新市區民生路二巷和和平街口處",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-27 20:08:00",
+    "expected_datetime": "2015-12-04 19:20:00"
+}

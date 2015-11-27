@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511270257",
+    "requested_datetime": "2015-11-27 18:06:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "仁德區太子路\/中正路 交通疏導",
+    "address_string": "仁德區太子路\/中正路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-27 21:27:38",
+    "expected_datetime": "2015-12-04 18:06:00"
+}
