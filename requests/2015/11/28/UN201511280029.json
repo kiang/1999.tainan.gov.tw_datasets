@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511280029",
+    "requested_datetime": "2015-11-28 08:39:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "中西區湖美一街46巷2X號 妨礙安寧",
+    "address_string": "中西區湖美一街46巷2X號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-28 14:19:02",
+    "expected_datetime": "2015-12-05 08:39:00"
+}

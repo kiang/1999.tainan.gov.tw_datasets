@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511280195",
+    "requested_datetime": "2015-11-28 18:13:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "北區林森路三段245-1號    路霸",
+    "address_string": "704台灣台南市北區林森路三段245-1號",
+    "lat": "23.008749173348612",
+    "long": "120.22289849817751",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-11-28 18:13:00"
+}
