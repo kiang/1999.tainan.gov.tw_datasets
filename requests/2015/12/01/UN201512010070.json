@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512010070",
+    "requested_datetime": "2015-12-01 10:25:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "安平區民權路四段跟安北路口 空氣汙染",
+    "address_string": "安平區民權路四段跟安北路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-01 14:45:33",
+    "expected_datetime": "2015-12-08 10:25:00"
+}

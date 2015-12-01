@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511300263",
+    "requested_datetime": "2015-11-30 19:13:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區開元路跟開元路442巷口 違停",
+    "address_string": "北區開元路跟開元路442巷口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-01 00:20:25",
+    "expected_datetime": "2015-12-07 19:13:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511300225",
+    "requested_datetime": "2015-11-30 16:54:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區北門路二段.三段兩側(和緯路到實踐街) 違規停車",
+    "address_string": "北區北門路二段.三段兩側(和緯路到實踐街)",
+    "lat": "23.014113209168134",
+    "long": "120.217288993299",
+    "service_notice": {},
+    "updated_datetime": "2015-11-30 18:52:02",
+    "expected_datetime": "2015-11-30 16:54:00"
+}

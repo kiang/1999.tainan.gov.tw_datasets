@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511300230",
+    "requested_datetime": "2015-11-30 16:59:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區西華街兩側(成功路到公園南路) 違規停車",
+    "address_string": "北區西華街兩側(成功路到公園南路)",
+    "lat": "22.999844748724723",
+    "long": "120.21070919930933",
+    "service_notice": {},
+    "updated_datetime": "2015-11-30 18:50:07",
+    "expected_datetime": "2015-11-30 16:59:00"
+}

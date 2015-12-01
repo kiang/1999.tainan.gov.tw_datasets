@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511300229",
+    "requested_datetime": "2015-11-30 16:56:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區西華南街兩側(民族路到成功路) 違規停車",
+    "address_string": "中西區西華南街兩側(民族路到成功路)",
+    "lat": "22.994590020069392",
+    "long": "120.20957730710506",
+    "service_notice": {},
+    "updated_datetime": "2015-11-30 18:53:57",
+    "expected_datetime": "2015-11-30 16:56:00"
+}

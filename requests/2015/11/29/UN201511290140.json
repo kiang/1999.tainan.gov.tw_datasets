@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511290140",
+    "requested_datetime": "2015-11-29 16:56:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區開元路183巷口邊人行道 違停",
+    "address_string": "北區開元路183巷口邊人行道",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-29 19:21:17",
+    "expected_datetime": "2015-12-06 16:56:00"
+}

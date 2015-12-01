@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511290096",
+    "requested_datetime": "2015-11-29 13:47:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區西門路和和意路交叉口,大億麗緻斜對面 違停",
+    "address_string": "中西區西門路和和意路交叉口,大億麗緻斜對面",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-29 19:15:54",
+    "expected_datetime": "2015-12-06 13:47:00"
+}

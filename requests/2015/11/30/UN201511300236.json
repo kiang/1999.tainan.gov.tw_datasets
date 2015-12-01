@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511300236",
+    "requested_datetime": "2015-11-30 17:34:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區北成路一段80巷41弄 違規停車",
+    "address_string": "704台灣台南市北區北成路一段80巷41弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-30 18:51:14",
+    "expected_datetime": "2015-11-30 17:34:00"
+}

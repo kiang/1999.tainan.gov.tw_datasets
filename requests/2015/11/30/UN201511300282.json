@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511300282",
+    "requested_datetime": "2015-11-30 20:16:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "南區金華路二段81巷42-1號 妨礙安寧",
+    "address_string": "南區金華路二段81巷42-1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-01 00:38:54",
+    "expected_datetime": "2015-12-07 20:16:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511300062",
+    "requested_datetime": "2015-11-30 10:01:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "東區青年路237號,義豐冬瓜茶隔壁再隔壁 騎樓舉發",
+    "address_string": "東區青年路237號,義豐冬瓜茶隔壁再隔壁",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-30 13:00:04",
+    "expected_datetime": "2015-12-07 10:01:00"
+}

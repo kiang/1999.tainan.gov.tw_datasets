@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511300069",
+    "requested_datetime": "2015-11-30 10:19:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "永康 區仁愛街83號 佔用道路",
+    "address_string": "永康區仁愛街83號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-30 14:50:22",
+    "expected_datetime": "2015-12-07 10:19:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511300017",
+    "requested_datetime": "2015-11-30 08:03:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安南區大安街,活動中心轉角處 違停",
+    "address_string": "安南區大安街,活動中心轉角處",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-11-30 10:23:08",
+    "expected_datetime": "2015-12-07 08:03:00"
+}

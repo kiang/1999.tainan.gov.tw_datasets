@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201511290174",
+    "requested_datetime": "2015-11-29 20:23:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局",
+    "subproject": "9盞以下路燈故障",
+    "description": "南區鹽埕路(新和東路)103巷38弄內    路燈不亮",
+    "address_string": "南區鹽埕路(新和東路)103巷38弄內",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-01 09:56:55",
+    "expected_datetime": "2015-12-06 20:23:00"
+}
