@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512020313",
+    "requested_datetime": "2015-12-02 22:03:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市中西區公所,臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "中西區海安路一段161號167號169號222號～248號 海安路二段238號旁及268號 尊王路92號 佔用道路",
+    "address_string": "中西區海安路一段161號167號169號222號～248號 海安路二段238號旁及268號 尊王路92號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-09 22:03:00"
+}
