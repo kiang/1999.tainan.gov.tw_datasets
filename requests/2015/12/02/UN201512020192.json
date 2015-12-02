@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201512020192",
     "requested_datetime": "2015-12-02 15:46:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "併排停車",
     "address_string": "中西區民生路二段*海安路口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-02 18:47:42",
     "expected_datetime": "2015-12-09 15:46:00"
 }
