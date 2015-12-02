@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201511300238",
     "requested_datetime": "2015-11-30 17:39:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "東區立德二路41巷18號前 路燈故障",
     "address_string": "北區育德二路41巷18號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-02 11:11:01",
     "expected_datetime": "2015-12-07 17:39:00"
 }
