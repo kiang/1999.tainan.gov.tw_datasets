@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201512020324",
     "requested_datetime": "2015-12-02 23:41:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "永康區大橋一街108號附近住戶 妨礙安寧",
     "address_string": "710台灣台南市永康區大橋一街108號",
     "lat": "23.01653470119566",
     "long": "120.22721685469152",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-03 01:08:29",
     "expected_datetime": "2015-12-02 23:41:00"
 }
