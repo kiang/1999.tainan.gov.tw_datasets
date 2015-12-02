@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201512020257",
     "requested_datetime": "2015-12-02 18:25:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東 區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區裕農路357巷 違規停車",
     "address_string": "701台灣台南市東區裕農路357巷",
     "lat": "22.987133793693165",
     "long": "120.2297243848443",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-03 00:22:49",
     "expected_datetime": "2015-12-02 18:25:00"
 }
