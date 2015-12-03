@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512030231",
+    "requested_datetime": "2015-12-03 17:31:00",
+    "status": {},
+    "keyword": {},
+    "area": "東 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區中華東路一段(凱旋路到東寧路) 違規停車",
+    "address_string": "東區中華東路一段(凱旋路到東寧路)",
+    "lat": "22.989145577086227",
+    "long": "120.2335274219513",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-03 17:31:00"
+}

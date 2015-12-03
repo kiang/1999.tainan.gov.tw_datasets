@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201512020214",
     "requested_datetime": "2015-12-02 16:35:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "山上區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "山上區北勢洲30之8(一甲國際)   空氣汙染",
     "address_string": "山上區北勢洲30之8號(一甲國際有限公司)",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-03 17:00:59",
     "expected_datetime": "2015-12-09 16:35:00"
 }
