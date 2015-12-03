@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512030270",
+    "requested_datetime": "2015-12-03 20:02:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "東區富強二街,進入街內的右手邊,有一大樓前方 佔用道路",
+    "address_string": "東區富強二街,進入街內的右手邊,有一大樓前方",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-10 20:02:00"
+}
