@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512040039",
+    "requested_datetime": "2015-12-04 08:57:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "人孔蓋聲響、凹陷、漏水",
+    "description": "安南區長溪路一段27號   汙水孔蓋鬆動噪音",
+    "address_string": "安南區長溪路一段27號",
+    "lat": "23.0339631",
+    "long": "120.211822",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-11 08:57:00"
+}

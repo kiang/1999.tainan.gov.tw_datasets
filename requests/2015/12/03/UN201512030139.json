@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區小東路232號前  違停",
     "address_string": "東區小東路232號前",
-    "lat": {},
-    "long": {},
+    "lat": "22.9996117",
+    "long": "120.228477",
     "service_notice": {},
     "updated_datetime": "2015-12-03 16:42:57",
     "expected_datetime": "2015-12-10 13:30:00"

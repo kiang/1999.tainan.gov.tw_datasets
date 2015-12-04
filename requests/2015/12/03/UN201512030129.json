@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "歸仁區中山路一段二段 公車站牌前 違停",
     "address_string": "歸仁區中山路一段二段 公車站牌前",
-    "lat": {},
-    "long": {},
+    "lat": "22.9626173",
+    "long": "120.3137498",
     "service_notice": {},
     "updated_datetime": "2015-12-03 16:35:18",
     "expected_datetime": "2015-12-10 13:00:00"
