@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512050067",
+    "requested_datetime": "2015-12-05 10:28:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區崇德四街7巷55號 違停",
+    "address_string": "東區崇德四街7巷55號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-05 13:23:58",
+    "expected_datetime": "2015-12-12 10:28:00"
+}

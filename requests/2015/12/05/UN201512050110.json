@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512050110",
+    "requested_datetime": "2015-12-05 12:31:00",
+    "status": {},
+    "keyword": {},
+    "area": "南 區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "南區德興路194號 騎樓舉發",
+    "address_string": "702台灣台南市南區德興路194號",
+    "lat": "22.96110569032366",
+    "long": "120.19257478415966",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-05 12:31:00"
+}
