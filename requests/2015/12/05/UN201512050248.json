@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512050248",
+    "requested_datetime": "2015-12-05 20:35:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區自由路二段95號 違規停車",
+    "address_string": "東區自由路二段95號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-06 01:59:02",
+    "expected_datetime": "2015-12-05 20:35:00"
+}

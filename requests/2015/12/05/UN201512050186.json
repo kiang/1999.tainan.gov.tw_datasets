@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512050186",
+    "requested_datetime": "2015-12-05 16:19:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "中西區民權路三段111號隔壁 佔用道路",
+    "address_string": "中西區民權路三段111號隔壁",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-05 19:03:34",
+    "expected_datetime": "2015-12-12 16:19:00"
+}

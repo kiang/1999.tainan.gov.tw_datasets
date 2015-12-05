@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512050182",
+    "requested_datetime": "2015-12-05 16:10:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "民生管線",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "東區小東路(近中華東路口) 消防栓漏水",
+    "address_string": "東區小東路(近中華東路口)",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-12 16:10:00"
+}

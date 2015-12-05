@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512050184",
+    "requested_datetime": "2015-12-05 16:17:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "仁德區行大街附近(清王宮) 妨礙安寧",
+    "address_string": "仁德區行大街附近(清王宮)",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-05 19:02:32",
+    "expected_datetime": "2015-12-12 16:17:00"
+}
