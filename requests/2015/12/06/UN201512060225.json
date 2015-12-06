@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512060225",
+    "requested_datetime": "2015-12-06 22:24:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區林森路一段與崇德路交叉口槽化線 違規停車",
+    "address_string": "東區林森路一段與崇德路交叉口槽化線",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-07 00:24:41",
+    "expected_datetime": "2015-12-06 22:24:00"
+}

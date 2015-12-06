@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512070002",
+    "requested_datetime": "2015-12-06 23:29:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區大同路和健康路口旁邊地下道的迴轉道路",
+    "address_string": "東區大同路和健康路口旁邊地下道的迴轉道路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-07 02:08:58",
+    "expected_datetime": "2015-12-13 23:29:00"
+}

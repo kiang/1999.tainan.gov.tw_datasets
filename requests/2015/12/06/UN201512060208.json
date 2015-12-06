@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512060208",
+    "requested_datetime": "2015-12-06 20:25:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "永康區南興路9號 妨礙安寧",
+    "address_string": "永康區南興路9號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-06 22:54:56",
+    "expected_datetime": "2015-12-13 20:25:00"
+}

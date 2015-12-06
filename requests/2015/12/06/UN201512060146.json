@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201512060146",
     "requested_datetime": "2015-12-06 16:25:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "交通疏導",
     "description": "永康區中華路912巷南臺科大旁 交通疏導",
     "address_string": "永康區中華路912巷南臺科大旁",
     "lat": "23.02070362664464",
     "long": "120.22523604333401",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-06 19:06:37",
     "expected_datetime": "2015-12-06 16:25:00"
 }
