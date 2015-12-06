@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512060047",
+    "requested_datetime": "2015-12-06 09:42:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中華一路203巷 違規停車",
+    "address_string": "710台灣台南市永康區中華一路203巷",
+    "lat": "23.003418563358775",
+    "long": "120.23346204310654",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-06 09:42:00"
+}
