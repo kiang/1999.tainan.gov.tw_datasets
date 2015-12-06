@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512060141",
+    "requested_datetime": "2015-12-06 16:19:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區實踐街與實踐街15巷交叉路口 違規停車",
+    "address_string": "北區實踐街與實踐街15巷交叉路口",
+    "lat": "23.014672374944237",
+    "long": "120.21683368831873",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-06 16:19:00"
+}
