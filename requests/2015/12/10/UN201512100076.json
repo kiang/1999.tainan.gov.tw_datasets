@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512100076",
+    "requested_datetime": "2015-12-10 10:04:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "東區崇善路478號隔壁(品旺自助餐) 空氣汙染",
+    "address_string": "東區崇善路478號隔壁(品旺自助餐)",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-10 15:32:06",
+    "expected_datetime": "2015-12-17 10:04:00"
+}

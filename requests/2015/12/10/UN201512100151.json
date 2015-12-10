@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512100151",
+    "requested_datetime": "2015-12-10 12:27:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區郡平路 違規停車",
+    "address_string": "708台灣台南市安平區郡平路",
+    "lat": "22.989115329567632",
+    "long": "120.16796786338091",
+    "service_notice": {},
+    "updated_datetime": "2015-12-10 18:53:00",
+    "expected_datetime": "2015-12-10 12:27:00"
+}

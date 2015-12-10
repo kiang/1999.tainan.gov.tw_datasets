@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512080255",
+    "requested_datetime": "2015-12-08 17:47:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區國華街三段250巷28號 違規停車",
+    "address_string": "700台灣台南市中西區國華街三段250巷28號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-08 21:35:01",
+    "expected_datetime": "2015-12-08 17:47:00"
+}

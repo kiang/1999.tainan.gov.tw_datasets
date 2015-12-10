@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512080032",
+    "requested_datetime": "2015-12-08 08:38:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區新中街(中正路到正南五街) 違規停車",
+    "address_string": "永康區新中街(中正路到正南五街)",
+    "lat": "23.036160235318285",
+    "long": "120.24031911045313",
+    "service_notice": {},
+    "updated_datetime": "2015-12-08 10:43:00",
+    "expected_datetime": "2015-12-08 08:38:00"
+}

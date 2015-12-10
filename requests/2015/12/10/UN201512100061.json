@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512100061",
+    "requested_datetime": "2015-12-10 09:32:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區開南街與開元路交叉口附近 違規停車",
+    "address_string": "704台灣台南市北區開南街與開元路交叉口附近",
+    "lat": "23.008210968130363",
+    "long": "120.2219010517001",
+    "service_notice": {},
+    "updated_datetime": "2015-12-10 18:04:55",
+    "expected_datetime": "2015-12-10 09:32:00"
+}

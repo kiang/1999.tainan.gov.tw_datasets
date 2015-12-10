@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512080097",
+    "requested_datetime": "2015-12-08 10:28:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中華路1-128號 違規停車",
+    "address_string": "710台灣台南市永康區中華路1-128號",
+    "lat": "22.9987439",
+    "long": "120.2340998",
+    "service_notice": {},
+    "updated_datetime": "2015-12-08 14:42:39",
+    "expected_datetime": "2015-12-08 10:28:00"
+}

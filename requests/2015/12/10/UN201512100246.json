@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512100246",
+    "requested_datetime": "2015-12-10 16:54:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "利南街與利南街148巷T型路口 違規停車",
+    "address_string": "利南街與利南街148巷T型路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-10 19:21:49",
+    "expected_datetime": "2015-12-10 16:54:00"
+}

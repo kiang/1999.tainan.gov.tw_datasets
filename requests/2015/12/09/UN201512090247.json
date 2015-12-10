@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512090247",
+    "requested_datetime": "2015-12-09 18:13:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "仁德區正義路165號附近的公園旁的農地 空氣汙染",
+    "address_string": "仁德區正義路165號附近的公園旁的農地",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-10 09:35:43",
+    "expected_datetime": "2015-12-16 18:13:00"
+}

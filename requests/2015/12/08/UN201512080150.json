@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512080150",
+    "requested_datetime": "2015-12-08 12:29:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "善化區",
+    "service_name": "民生管線",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "善化區光復路860號對面  消防栓遭撞毀",
+    "address_string": "善化區光復路860號對面",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-10 09:57:21",
+    "expected_datetime": "2015-12-15 12:29:00"
+}

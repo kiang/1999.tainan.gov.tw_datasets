@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512090132",
+    "requested_datetime": "2015-12-09 12:40:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "中西區永福路二段37號對面公11停車場人行道 佔用道路",
+    "address_string": "台南市中西區永福路二段37號對面公11停車場",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-09 18:06:20",
+    "expected_datetime": "2015-12-09 12:40:00"
+}

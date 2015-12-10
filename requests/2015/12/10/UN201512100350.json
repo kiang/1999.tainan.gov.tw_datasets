@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512100350",
+    "requested_datetime": "2015-12-10 22:21:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "歸仁區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "歸仁區高鐵橋下台南段道路 違規停車",
+    "address_string": "711台灣台南市歸仁區高鐵橋下台南段道路",
+    "lat": "22.924751185167626",
+    "long": "120.28620835393667",
+    "service_notice": {},
+    "updated_datetime": "2015-12-11 01:14:14",
+    "expected_datetime": "2015-12-10 22:21:00"
+}

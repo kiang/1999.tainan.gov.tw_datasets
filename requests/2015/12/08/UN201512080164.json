@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512080164",
+    "requested_datetime": "2015-12-08 13:18:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "衛民街113號 交通運輸",
+    "address_string": "衛民街113號",
+    "lat": "22.9931693",
+    "long": "120.2082771",
+    "service_notice": {},
+    "updated_datetime": "2015-12-08 15:04:05",
+    "expected_datetime": "2015-12-08 13:18:00"
+}

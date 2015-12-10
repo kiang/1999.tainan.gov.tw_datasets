@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512090068",
+    "requested_datetime": "2015-12-09 09:42:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "歸仁區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "臺南高鐵站一號出口 違規停車",
+    "address_string": "臺南高鐵站一號出口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-09 12:45:10",
+    "expected_datetime": "2015-12-09 09:42:00"
+}

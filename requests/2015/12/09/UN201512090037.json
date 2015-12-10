@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512090037",
+    "requested_datetime": "2015-12-09 08:44:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "玉井區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "玉井區民權路和中正路交叉口 交通疏導",
+    "address_string": "玉井區民權路和中正路交叉口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-09 12:47:12",
+    "expected_datetime": "2015-12-16 08:44:00"
+}

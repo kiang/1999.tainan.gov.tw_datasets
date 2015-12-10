@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512100123",
+    "requested_datetime": "2015-12-10 10:59:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面下陷、凹陷",
+    "description": "路面凹陷",
+    "address_string": "安平區文平路187巷12號旁",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-10 15:17:09",
+    "expected_datetime": "2015-12-17 10:59:00"
+}

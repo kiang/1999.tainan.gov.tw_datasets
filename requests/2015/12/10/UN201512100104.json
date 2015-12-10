@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512100104",
+    "requested_datetime": "2015-12-10 10:43:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "北區長榮路與開元路口",
+    "address_string": "北區長榮路與開元路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-11 00:13:20",
+    "expected_datetime": "2015-12-17 10:43:00"
+}

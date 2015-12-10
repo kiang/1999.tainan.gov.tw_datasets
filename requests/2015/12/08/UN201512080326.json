@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512080326",
+    "requested_datetime": "2015-12-08 21:52:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區大同路二段97巷1號 違停",
+    "address_string": "東區大同路二段97巷1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-08 22:47:13",
+    "expected_datetime": "2015-12-15 21:52:00"
+}

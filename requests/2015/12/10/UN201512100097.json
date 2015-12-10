@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512100097",
+    "requested_datetime": "2015-12-10 10:36:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區永福路ㄧ段77號 違規停車",
+    "address_string": "700台灣台南市中西區永福路ㄧ段77號",
+    "lat": "22.984075010684123",
+    "long": "120.19964475184679",
+    "service_notice": {},
+    "updated_datetime": "2015-12-10 19:46:00",
+    "expected_datetime": "2015-12-10 10:36:00"
+}

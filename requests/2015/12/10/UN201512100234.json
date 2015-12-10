@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512100234",
+    "requested_datetime": "2015-12-10 16:30:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "違停",
+    "address_string": "南區夏林路252號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-10 19:07:31",
+    "expected_datetime": "2015-12-17 16:30:00"
+}

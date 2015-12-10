@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512100088",
+    "requested_datetime": "2015-12-10 10:26:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "中西區府緯街8號 交通運輸",
+    "address_string": "700台灣台南市中西區府緯街8號",
+    "lat": "22.983983338721664",
+    "long": "120.19970443099737",
+    "service_notice": {},
+    "updated_datetime": "2015-12-10 18:14:37",
+    "expected_datetime": "2015-12-10 10:26:00"
+}

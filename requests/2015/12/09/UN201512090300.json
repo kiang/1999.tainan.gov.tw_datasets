@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512090300",
+    "requested_datetime": "2015-12-09 22:11:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "北區公園路128號(首相飯店) 妨礙安寧",
+    "address_string": "北區公園路128號(首相飯店)",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-10 23:30:00",
+    "expected_datetime": "2015-12-16 22:11:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512080093",
+    "requested_datetime": "2015-12-08 10:24:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "興華街 違規停車",
+    "address_string": "興華街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-08 14:41:27",
+    "expected_datetime": "2015-12-08 10:24:00"
+}

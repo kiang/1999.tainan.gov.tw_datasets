@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512090029",
+    "requested_datetime": "2015-12-09 08:22:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌故障",
+    "description": "安平區華平路\/慶平路 號誌故障",
+    "address_string": "安平區華平路\/慶平路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-09 13:37:42",
+    "expected_datetime": "2015-12-16 08:22:00"
+}

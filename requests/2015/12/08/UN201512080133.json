@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512080133",
+    "requested_datetime": "2015-12-08 11:47:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "文南路與文南3街的交叉路口及文南路271號 違規停車",
+    "address_string": "文南路與文南3街的交叉路口及文南路271號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-08 12:56:00",
+    "expected_datetime": "2015-12-08 11:47:00"
+}

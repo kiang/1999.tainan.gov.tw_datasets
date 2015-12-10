@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512080339",
+    "requested_datetime": "2015-12-08 23:23:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "南區西門路一段351號 妨礙安寧",
+    "address_string": "南區西門路一段351號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-09 00:11:10",
+    "expected_datetime": "2015-12-15 23:23:00"
+}
