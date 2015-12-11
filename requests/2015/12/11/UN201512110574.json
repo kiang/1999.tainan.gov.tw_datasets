@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新市區中正路191號 違規停車",
     "address_string": "744台灣台南市新市區中正路191號",
-    "lat": {},
-    "long": {},
+    "lat": "23.076723",
+    "long": "120.2917388",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2015-12-11 15:45:00"
