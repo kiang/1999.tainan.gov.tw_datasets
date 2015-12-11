@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201512100328",
     "requested_datetime": "2015-12-10 19:57:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局",
     "subproject": "違規停車",
     "description": "中西區府緯街1號 違規停車",
     "address_string": "700台灣台南市中西區府緯街1號",
     "lat": "22.9842105122251",
     "long": "120.19982412457466",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-11 21:06:01",
     "expected_datetime": "2015-12-10 19:57:00"
 }
