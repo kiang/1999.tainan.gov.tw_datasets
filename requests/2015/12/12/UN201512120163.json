@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201512120163",
     "requested_datetime": "2015-12-12 13:02:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區後甲圓環,億哥牛肉湯店前 違停",
     "address_string": "東區後甲圓環,億哥牛肉湯店前",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-12 16:09:55",
     "expected_datetime": "2015-12-19 13:02:00"
 }

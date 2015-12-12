@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512120188",
+    "requested_datetime": "2015-12-12 14:09:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "廟會鞭炮",
+    "address_string": "中西區成功路*國華街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-12 17:50:21",
+    "expected_datetime": "2015-12-19 14:09:00"
+}

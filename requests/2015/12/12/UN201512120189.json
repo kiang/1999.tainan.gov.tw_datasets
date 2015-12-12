@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512120189",
+    "requested_datetime": "2015-12-12 14:11:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "麻豆區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "麻豆區線道176上首府大學附近台糖加油站前 空氣汙染",
+    "address_string": "麻豆區線道176上首府大學附近台糖加油站前",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-12 16:17:01",
+    "expected_datetime": "2015-12-19 14:11:00"
+}
