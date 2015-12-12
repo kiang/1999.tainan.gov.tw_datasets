@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201512120011",
     "requested_datetime": "2015-12-12 04:59:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "噪音舉發",
-    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府民政局,臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "仁德區中洲火車站 妨礙安寧",
     "address_string": "仁德區中洲火車站",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-12 07:41:38",
     "expected_datetime": "2015-12-19 04:59:00"
 }
