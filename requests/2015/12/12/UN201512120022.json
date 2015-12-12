@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201512120022",
     "requested_datetime": "2015-12-12 07:42:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "700台灣台南市中西區夏林路永華路口鳳凰城清粥小菜 違規停車",
     "address_string": "700台灣台南市中西區夏林路永華路口鳳凰城清粥小菜",
     "lat": "22.989461941032904",
     "long": "120.19523922353983",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-12 10:56:10",
     "expected_datetime": "2015-12-12 07:42:00"
 }
