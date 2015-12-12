@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201512120020",
     "requested_datetime": "2015-12-12 07:36:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "700台灣台南市中西區海安路一段77號 違規停車",
     "address_string": "700台灣台南市中西區海安路一段77號",
     "lat": "22.989252677939454",
     "long": "120.19528012722729",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-12 08:53:14",
     "expected_datetime": "2015-12-12 07:36:00"
 }
