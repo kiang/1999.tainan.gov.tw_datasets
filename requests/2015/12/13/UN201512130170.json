@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512130170",
+    "requested_datetime": "2015-12-13 17:24:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區田徑場正門口公有停車場 違規停車",
+    "address_string": "702台灣台南市南區田徑場正門口公有停車場",
+    "lat": "22.97850451420798",
+    "long": "120.2046514302492",
+    "service_notice": {},
+    "updated_datetime": "2015-12-13 19:37:31",
+    "expected_datetime": "2015-12-13 17:24:00"
+}

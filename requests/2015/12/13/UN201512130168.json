@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512130168",
+    "requested_datetime": "2015-12-13 17:20:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區體育路41巷及體育路交叉口 違規停車",
+    "address_string": "702台灣台南市南區體育路41巷及體育路交叉口",
+    "lat": "22.97952775943311",
+    "long": "120.20713783800602",
+    "service_notice": {},
+    "updated_datetime": "2015-12-13 19:39:23",
+    "expected_datetime": "2015-12-13 17:20:00"
+}
