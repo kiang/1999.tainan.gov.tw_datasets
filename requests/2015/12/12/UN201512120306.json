@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512120306",
+    "requested_datetime": "2015-12-12 21:05:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區育德二路810巷巷口和巷子中間 違停",
+    "address_string": "北區育德二路810巷巷口和巷子中間",
+    "lat": "23.0205362",
+    "long": "120.2021249",
+    "service_notice": {},
+    "updated_datetime": "2015-12-12 23:14:10",
+    "expected_datetime": "2015-12-19 21:05:00"
+}

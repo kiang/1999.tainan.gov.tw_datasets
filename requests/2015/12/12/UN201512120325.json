@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512120325",
+    "requested_datetime": "2015-12-12 23:16:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "\"中西區保安路182號\" \"中西區海安路二段42～50號\" 違停\/佔用人行道",
+    "address_string": "\"中西區保安路182號\" \"中西區海安路二段42～50號\"",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-13 00:04:04",
+    "expected_datetime": "2015-12-19 23:16:00"
+}
