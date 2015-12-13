@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512130070",
+    "requested_datetime": "2015-12-13 11:09:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區永成路二段665號 福懋休息站旁邊斜對面   併排違停",
+    "address_string": "南區永成路二段665號 福懋休息站旁邊斜對面",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-20 11:09:00"
+}
