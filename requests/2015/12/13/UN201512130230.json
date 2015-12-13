@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512130230",
+    "requested_datetime": "2015-12-13 21:17:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區長榮路二段32巷70.80號-88號違停\/申請紅線",
+    "address_string": "東區長榮路二段32巷70.80號-88號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-20 21:17:00"
+}
