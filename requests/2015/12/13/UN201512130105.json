@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512130105",
+    "requested_datetime": "2015-12-13 13:20:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "南區大林路網球場(少年觀護所對側)  妨礙安寧",
+    "address_string": "南區大林路網球場(少年觀護所對側)",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-13 16:00:17",
+    "expected_datetime": "2015-12-20 13:20:00"
+}
