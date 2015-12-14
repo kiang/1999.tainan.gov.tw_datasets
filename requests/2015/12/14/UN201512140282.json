@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201512140282",
     "requested_datetime": "2015-12-14 07:47:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "北區和緯與北門路二段路口 佔用道路",
     "address_string": "北區和緯路與北門路二段路口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-14 18:13:35",
     "expected_datetime": "2015-12-21 07:47:00"
 }
