@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512150288",
+    "requested_datetime": "2015-12-15 19:36:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區府緯街4巷6號仙草里活動中心 違規停車",
+    "address_string": "700台灣台南市中西區府緯街4巷6號仙草里活動中心",
+    "lat": "22.984234587655525",
+    "long": "120.19975405186416",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-15 19:36:00"
+}
