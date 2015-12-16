@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512160093",
+    "requested_datetime": "2015-12-16 11:05:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "中西區中華西路和民生路交叉口 吊車影響交通",
+    "address_string": "中西區中華西路和民生路交叉口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-23 11:05:00"
+}
