@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512160306",
+    "requested_datetime": "2015-12-16 20:45:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "仁德區行大街400號 妨礙安寧\/噪音",
+    "address_string": "仁德區行大街400號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-16 23:54:53",
+    "expected_datetime": "2015-12-23 20:45:00"
+}

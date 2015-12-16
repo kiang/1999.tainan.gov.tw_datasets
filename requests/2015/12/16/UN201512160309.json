@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201512160309",
     "requested_datetime": "2015-12-16 20:57:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "中西區民族路二段 3號,45號,47號, 63號騎樓舉發",
     "address_string": "民族路二段63號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-16 23:41:07",
     "expected_datetime": "2015-12-16 20:57:00"
 }
