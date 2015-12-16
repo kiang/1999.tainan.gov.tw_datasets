@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512160243",
+    "requested_datetime": "2015-12-16 17:10:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府水利局,臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "仁德區大發路\/太子四街5巷口 交通疏導",
+    "address_string": "仁德區大發路\/太子四街5巷口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-16 18:23:13",
+    "expected_datetime": "2015-12-23 17:10:00"
+}

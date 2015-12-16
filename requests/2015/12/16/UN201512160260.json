@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512160260",
+    "requested_datetime": "2015-12-16 17:51:00",
+    "status": {},
+    "keyword": {},
+    "area": "南 區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "南區健康路一段132號 佔用道路",
+    "address_string": "702台灣台南市南區健康路一段132號日本料理店",
+    "lat": "22.981210309620863",
+    "long": "120.20881589502096",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-16 17:51:00"
+}
