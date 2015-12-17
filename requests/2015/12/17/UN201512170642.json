@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201512170642",
     "requested_datetime": "2015-12-17 20:44:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市中西區公所,臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "中西區海安路一段151號(星象商旅) 佔用道路",
     "address_string": "台南市中西區海安路一段151號星象商旅",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-18 03:51:18",
     "expected_datetime": "2015-12-17 20:44:00"
 }
