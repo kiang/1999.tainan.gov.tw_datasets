@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201512170353",
     "requested_datetime": "2015-12-17 07:43:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "東區東寧路跟林森路口 妨礙安寧",
     "address_string": "東區東寧路跟林森路口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-17 11:12:17",
     "expected_datetime": "2015-12-24 07:43:00"
 }
