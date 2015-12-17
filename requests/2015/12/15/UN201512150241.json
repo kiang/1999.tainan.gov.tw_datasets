@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201512150241",
     "requested_datetime": "2015-12-15 17:28:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "民生管線",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-17 10:08:45",
     "expected_datetime": "2015-12-22 17:28:00"
 }
