@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201512180215",
     "requested_datetime": "2015-12-18 15:51:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局永康分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區中華二路 違規停車",
     "address_string": "701台灣台南市永康區中華二路",
     "lat": "22.997163708391966",
     "long": "120.21296594291925",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-18 19:10:03",
     "expected_datetime": "2015-12-18 15:51:00"
 }
