@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201512180063",
     "requested_datetime": "2015-12-18 09:48:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "永華路和國光七街口 交通運輸",
     "address_string": "永華路和國光七街口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-18 18:04:53",
     "expected_datetime": "2015-12-18 09:48:00"
 }
