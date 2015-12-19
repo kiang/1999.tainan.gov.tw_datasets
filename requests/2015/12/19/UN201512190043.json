@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512190043",
+    "requested_datetime": "2015-12-19 08:43:00",
+    "status": {},
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "717台灣台南市仁德區中正路二段106巷41號 違停",
+    "address_string": "717台灣台南市仁德區中正路二段106巷41號",
+    "lat": "22.94584426122991",
+    "long": "120.25220666080712",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-19 08:43:00"
+}
