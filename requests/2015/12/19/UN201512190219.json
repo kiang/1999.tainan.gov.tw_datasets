@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201512190219",
     "requested_datetime": "2015-12-19 14:34:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "北區前鋒路210號(大遠百)  妨礙安寧",
     "address_string": "北區前鋒路210號(大遠百)",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-19 17:00:25",
     "expected_datetime": "2015-12-26 14:34:00"
 }
