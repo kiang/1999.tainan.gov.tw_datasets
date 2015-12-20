@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512200104",
+    "requested_datetime": "2015-12-20 12:18:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區成功路134號    違規停車",
+    "address_string": "704台灣台南市北區成功路134號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-20 17:30:16",
+    "expected_datetime": "2015-12-20 12:18:00"
+}

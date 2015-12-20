@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512200128",
+    "requested_datetime": "2015-12-20 13:46:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區大林路172號對面   違停",
+    "address_string": "南區大林路172號對面",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-20 17:47:25",
+    "expected_datetime": "2015-12-27 13:46:00"
+}

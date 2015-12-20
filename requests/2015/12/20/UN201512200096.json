@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512200096",
+    "requested_datetime": "2015-12-20 12:00:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區西門路二段116巷  違停",
+    "address_string": "中西區西門路二段116巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-20 17:24:15",
+    "expected_datetime": "2015-12-27 12:00:00"
+}

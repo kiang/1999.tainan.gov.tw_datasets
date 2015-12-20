@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512200134",
+    "requested_datetime": "2015-12-20 14:10:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "空氣汙染",
+    "description": "東區崇德路628號   空汙 \/ 佔用騎樓",
+    "address_string": "東區崇德路628號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-20 18:13:25",
+    "expected_datetime": "2015-12-27 14:10:00"
+}

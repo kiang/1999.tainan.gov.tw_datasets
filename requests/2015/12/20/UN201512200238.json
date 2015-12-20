@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512200238",
+    "requested_datetime": "2015-12-20 22:18:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府民政局,臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區世平五街 廟會違停",
+    "address_string": "安平區世平五街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-21 00:24:02",
+    "expected_datetime": "2015-12-27 22:18:00"
+}
