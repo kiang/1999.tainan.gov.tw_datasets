@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201512210191",
     "requested_datetime": "2015-12-21 14:24:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北 區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區北門路二段.三段(和緯路到實踐街)\/長榮路五段(246巷到大武街) 違規停車",
     "address_string": "北區北門路二段.三段(和緯路到實踐街)\/長榮路五段(246巷到大武街)",
     "lat": "23.009141716167605",
     "long": "120.21574135869741",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-21 18:24:47",
     "expected_datetime": "2015-12-21 14:24:00"
 }
