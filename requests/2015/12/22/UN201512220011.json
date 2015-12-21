@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512220011",
+    "requested_datetime": "2015-12-22 06:00:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "北區公園路1062巷7號 妨礙安寧",
+    "address_string": "公園路1062巷7號其租屋房客",
+    "lat": "24.7376708",
+    "long": "121.7551704",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-22 06:00:00"
+}
