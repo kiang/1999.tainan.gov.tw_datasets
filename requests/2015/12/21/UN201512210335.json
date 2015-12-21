@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區和緯路二段241-269號 違停",
     "address_string": "北區和緯路二段241-269號",
-    "lat": {},
-    "long": {},
+    "lat": "24.8238676",
+    "long": "120.9474747",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2015-12-28 20:32:00"

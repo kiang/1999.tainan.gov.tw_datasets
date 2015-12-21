@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區小東路與林森路口 違規停車",
     "address_string": "小東路與林森路口",
-    "lat": {},
-    "long": {},
+    "lat": "24.7595868",
+    "long": "121.7571054",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2015-12-21 21:33:00"
