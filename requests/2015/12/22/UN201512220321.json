@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512220321",
+    "requested_datetime": "2015-12-22 17:58:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "永康區大武街2巷50號到56號周邊 佔用道路",
+    "address_string": "永康區大武街2巷50號到56號周邊",
+    "lat": "23.018289924005504",
+    "long": "120.2231891825795",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-22 17:58:00"
+}
