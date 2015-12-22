@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "紅綠燈",
     "address_string": "六甲頂紅綠燈數秒器",
-    "lat": {},
-    "long": {},
+    "lat": "24.825168",
+    "long": "120.959136",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2015-12-22 12:44:00"
