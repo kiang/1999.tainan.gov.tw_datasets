@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512220384",
+    "requested_datetime": "2015-12-22 20:41:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "永康區龍國街381號 廟會妨礙安寧",
+    "address_string": "永康區龍國街381號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-23 02:23:13",
+    "expected_datetime": "2015-12-29 20:41:00"
+}

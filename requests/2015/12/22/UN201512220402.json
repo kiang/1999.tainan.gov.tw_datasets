@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512220402",
+    "requested_datetime": "2015-12-22 21:36:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "場所連續噪音",
+    "description": "永康區中山北路65號保生宮 妨礙安寧",
+    "address_string": "永康區中山北路65號保生宮",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-23 02:21:54",
+    "expected_datetime": "2015-12-22 21:36:00"
+}

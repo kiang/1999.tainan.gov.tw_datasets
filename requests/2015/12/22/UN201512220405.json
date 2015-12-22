@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512220405",
+    "requested_datetime": "2015-12-22 22:06:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區開山路192號 違規停車",
+    "address_string": "700台灣台南市中西區開山路192號",
+    "lat": "22.986484386826067",
+    "long": "120.20942173898219",
+    "service_notice": {},
+    "updated_datetime": "2015-12-23 02:25:08",
+    "expected_datetime": "2015-12-22 22:06:00"
+}

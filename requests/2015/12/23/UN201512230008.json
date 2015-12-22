@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512230008",
+    "requested_datetime": "2015-12-23 01:25:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "北區大興街280巷20弄25號 妨礙安寧",
+    "address_string": "704台灣台南市北區大興街280巷20弄25號",
+    "lat": "23.0110628",
+    "long": "120.1868112",
+    "service_notice": {},
+    "updated_datetime": "2015-12-23 02:35:41",
+    "expected_datetime": "2015-12-23 01:25:00"
+}
