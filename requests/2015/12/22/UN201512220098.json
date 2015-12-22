@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512220098",
+    "requested_datetime": "2015-12-22 10:39:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "永康區中正路(新行街到中正七街)\/中正七街1到15號 佔用道路",
+    "address_string": "永康區中正路(新行街到中正七街)\/中正七街1到15號",
+    "lat": "23.03888184413441",
+    "long": "120.23988291621208",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-22 10:39:00"
+}

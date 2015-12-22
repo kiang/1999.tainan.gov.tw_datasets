@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512220030",
+    "requested_datetime": "2015-12-22 08:33:00",
+    "status": {},
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "安南區同安路262巷43弄 妨礙安寧",
+    "address_string": "709台灣台南市安南區同安路262巷43弄",
+    "lat": "23.041330041800652",
+    "long": "120.19292581826447",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-22 08:33:00"
+}
