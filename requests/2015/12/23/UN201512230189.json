@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512230189",
+    "requested_datetime": "2015-12-23 12:54:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區生產路291號前方    違停",
+    "address_string": "東區生產路291號前方",
+    "lat": "24.7920604",
+    "long": "120.9933678",
+    "service_notice": {},
+    "updated_datetime": "2015-12-23 16:27:37",
+    "expected_datetime": "2015-12-30 12:54:00"
+}

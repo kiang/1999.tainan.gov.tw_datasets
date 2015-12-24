@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512230031",
+    "requested_datetime": "2015-12-23 08:18:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面下陷、凹陷",
+    "description": "北區育德路599巷35號前 路基掏空",
+    "address_string": "北區育德路599巷35號前",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-23 15:54:04",
+    "expected_datetime": "2015-12-30 08:18:00"
+}

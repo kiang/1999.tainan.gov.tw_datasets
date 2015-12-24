@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512230413",
+    "requested_datetime": "2015-12-23 21:57:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "安平區古堡街62號旁邊(金龍殿)  妨礙安寧",
+    "address_string": "安平區古堡街62號旁邊(金龍殿)",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-24 05:53:26",
+    "expected_datetime": "2015-12-30 21:57:00"
+}

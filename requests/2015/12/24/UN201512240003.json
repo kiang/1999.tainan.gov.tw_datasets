@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512240003",
+    "requested_datetime": "2015-12-24 01:25:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "麻豆區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "麻豆區中正路53號 妨礙安寧",
+    "address_string": "麻豆區中正路53號",
+    "lat": "23.1852185",
+    "long": "120.2488822",
+    "service_notice": {},
+    "updated_datetime": "2015-12-24 06:10:53",
+    "expected_datetime": "2015-12-31 01:25:00"
+}

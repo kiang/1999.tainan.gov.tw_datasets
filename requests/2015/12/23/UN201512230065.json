@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512230065",
+    "requested_datetime": "2015-12-23 09:17:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "南區健康路一段327號   妨礙安寧",
+    "address_string": "南區健康路一段327號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-23 15:13:02",
+    "expected_datetime": "2015-12-30 09:17:00"
+}

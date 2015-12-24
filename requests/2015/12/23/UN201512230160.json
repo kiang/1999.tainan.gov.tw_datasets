@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512230160",
+    "requested_datetime": "2015-12-23 12:02:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區忠勇街(中華立體停車場旁) 違規停車",
+    "address_string": "永康區忠勇街(中華立體停車場旁)",
+    "lat": "23.00057865378588",
+    "long": "120.2380110695958",
+    "service_notice": {},
+    "updated_datetime": "2015-12-23 15:28:47",
+    "expected_datetime": "2015-12-23 12:02:00"
+}

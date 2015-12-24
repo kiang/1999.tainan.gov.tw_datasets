@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512240002",
+    "requested_datetime": "2015-12-24 00:42:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區平通里育平九街192巷口 違停",
+    "address_string": "安平區平通里育平九街192巷口",
+    "lat": "22.9938422",
+    "long": "120.1690334",
+    "service_notice": {},
+    "updated_datetime": "2015-12-24 06:10:22",
+    "expected_datetime": "2015-12-31 00:42:00"
+}

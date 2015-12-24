@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512230167",
+    "requested_datetime": "2015-12-23 12:13:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區東豐路239號 違停",
+    "address_string": "北區東豐路239號",
+    "lat": "22.6486237",
+    "long": "120.3709562",
+    "service_notice": {},
+    "updated_datetime": "2015-12-23 15:26:22",
+    "expected_datetime": "2015-12-30 12:13:00"
+}

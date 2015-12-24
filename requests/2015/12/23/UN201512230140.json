@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512230140",
+    "requested_datetime": "2015-12-23 11:22:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "北區北園街開元寺前面(北園街89號) 違規設攤",
+    "address_string": "北區北園街開元寺前面(北園街89號)",
+    "lat": "24.8470437",
+    "long": "120.9779832",
+    "service_notice": {},
+    "updated_datetime": "2015-12-23 15:23:52",
+    "expected_datetime": "2015-12-30 11:22:00"
+}

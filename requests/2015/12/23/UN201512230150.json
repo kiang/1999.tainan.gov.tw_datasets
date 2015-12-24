@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512230150",
+    "requested_datetime": "2015-12-23 11:34:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "鹽水區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心,臺南市政府警察局新營分局",
+    "subproject": "違規停車",
+    "description": "鹽水區康樂路152號 違規停車",
+    "address_string": "737台灣台南市鹽水區康樂路152號",
+    "lat": "23.320893",
+    "long": "120.2697085",
+    "service_notice": {},
+    "updated_datetime": "2015-12-23 15:23:08",
+    "expected_datetime": "2015-12-23 11:34:00"
+}

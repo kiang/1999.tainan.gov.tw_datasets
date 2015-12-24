@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512230088",
+    "requested_datetime": "2015-12-23 10:02:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "南區體育路45巷9-11號 噪音舉發",
+    "address_string": "702台灣台南市南區體育路45巷9-11號",
+    "lat": "22.9791155",
+    "long": "120.2074622",
+    "service_notice": {},
+    "updated_datetime": "2015-12-23 15:15:23",
+    "expected_datetime": "2015-12-23 10:02:00"
+}

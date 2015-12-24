@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512230424",
+    "requested_datetime": "2015-12-23 23:25:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "東區裕農路930號 妨礙安寧",
+    "address_string": "東區裕農路930號",
+    "lat": "23.2309326",
+    "long": "120.3565096",
+    "service_notice": {},
+    "updated_datetime": "2015-12-24 06:01:05",
+    "expected_datetime": "2015-12-30 23:25:00"
+}

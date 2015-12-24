@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512230181",
+    "requested_datetime": "2015-12-23 12:52:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區開元路崑山中學旁的開元橋西側人行道 違規停車",
+    "address_string": "北區開元路崑山中學旁的開元橋西側人行道",
+    "lat": "23.01122384046821",
+    "long": "120.22612418979408",
+    "service_notice": {},
+    "updated_datetime": "2015-12-23 16:26:45",
+    "expected_datetime": "2015-12-23 12:52:00"
+}

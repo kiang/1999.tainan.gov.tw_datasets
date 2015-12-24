@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512230416",
+    "requested_datetime": "2015-12-23 22:07:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "新市區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "新市區港漧里中山路 妨礙安寧",
+    "address_string": "新市區港漧里中山路",
+    "lat": "23.1154434",
+    "long": "109.5962645",
+    "service_notice": {},
+    "updated_datetime": "2015-12-24 05:57:20",
+    "expected_datetime": "2015-12-30 22:07:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512230377",
+    "requested_datetime": "2015-12-23 20:09:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "場所連續噪音",
+    "description": "中山北路65號噪音舉發",
+    "address_string": "中山北路65號",
+    "lat": "24.5718066",
+    "long": "120.8238332",
+    "service_notice": {},
+    "updated_datetime": "2015-12-24 05:28:03",
+    "expected_datetime": "2015-12-23 20:09:00"
+}

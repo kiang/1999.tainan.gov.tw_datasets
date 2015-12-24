@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512230185",
+    "requested_datetime": "2015-12-23 12:58:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區柴頭港溪防汛道路沿線(勝華街到中山南路)    違規停車",
+    "address_string": "永康區柴頭港溪防汛道路沿線(勝華街到中山南路)",
+    "lat": "23.01144047583304",
+    "long": "120.22770501673222",
+    "service_notice": {},
+    "updated_datetime": "2015-12-23 16:29:07",
+    "expected_datetime": "2015-12-23 12:58:00"
+}

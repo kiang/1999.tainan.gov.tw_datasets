@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512230165",
+    "requested_datetime": "2015-12-23 12:10:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局第一分局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區自由路一段跟自由路二段路口 違規停車",
+    "address_string": "701台灣台南市東區自由路一段跟自由路二段路口",
+    "lat": "22.97044483677219",
+    "long": "120.23758862167595",
+    "service_notice": {},
+    "updated_datetime": "2015-12-23 15:27:32",
+    "expected_datetime": "2015-12-23 12:10:00"
+}

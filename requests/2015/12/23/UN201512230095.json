@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512230095",
+    "requested_datetime": "2015-12-23 10:12:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局第一分局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "裕敬路及裕忠路口 違規停車",
+    "address_string": "裕敬路及裕忠路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-23 15:16:14",
+    "expected_datetime": "2015-12-23 10:12:00"
+}

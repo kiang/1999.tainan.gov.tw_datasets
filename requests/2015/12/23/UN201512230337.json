@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512230337",
+    "requested_datetime": "2015-12-23 18:45:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局第一分局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區裕豐街170-172號 違規停車",
+    "address_string": "701台灣台南市東區裕豐街170-172號",
+    "lat": "22.9872034",
+    "long": "120.2271606",
+    "service_notice": {},
+    "updated_datetime": "2015-12-24 05:26:05",
+    "expected_datetime": "2015-12-23 18:45:00"
+}

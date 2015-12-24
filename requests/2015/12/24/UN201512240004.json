@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512240004",
+    "requested_datetime": "2015-12-24 01:35:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區林森路三段84巷口 違停",
+    "address_string": "北區林森路三段84巷口",
+    "lat": "24.7967899",
+    "long": "120.960803",
+    "service_notice": {},
+    "updated_datetime": "2015-12-24 06:11:33",
+    "expected_datetime": "2015-12-31 01:35:00"
+}

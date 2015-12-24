@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512230322",
+    "requested_datetime": "2015-12-23 17:57:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "台南應用科技大學 噪音\/妨礙安寧",
+    "address_string": "台南應用科技大學",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-24 05:24:20",
+    "expected_datetime": "2015-12-30 17:57:00"
+}

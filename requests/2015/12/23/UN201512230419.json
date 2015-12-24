@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512230419",
+    "requested_datetime": "2015-12-23 22:34:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區西華南街43號 中西區西華南街2號到10號 違規停車",
+    "address_string": "中西區西華南街43號 中西區西華南街2號到10號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-24 05:56:33",
+    "expected_datetime": "2015-12-23 22:34:00"
+}

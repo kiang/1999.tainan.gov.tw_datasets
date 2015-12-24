@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512230354",
+    "requested_datetime": "2015-12-23 19:24:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區南園街28巷15號 違規停車",
+    "address_string": "北區南園街28巷15號",
+    "lat": "24.8399818",
+    "long": "120.9343504",
+    "service_notice": {},
+    "updated_datetime": "2015-12-24 06:07:05",
+    "expected_datetime": "2015-12-23 19:24:00"
+}

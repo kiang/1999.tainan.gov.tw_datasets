@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201512220417",
     "requested_datetime": "2015-12-22 23:04:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "道路維修",
-    "agency": "臺南市永康區公所",
+    "agency": "台南市政府",
     "subproject": "路面下陷、凹陷",
     "description": "永康區大橋一街與中華西街口，大橋一街上的號誌燈下 路面凹陷",
     "address_string": "710台灣台南市永康區大橋一街51號",
     "lat": "23.0165382",
     "long": "120.2269322",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-23 08:54:37",
     "expected_datetime": "2015-12-22 23:04:00"
 }

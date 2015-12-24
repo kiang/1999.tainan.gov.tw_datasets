@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512230030",
+    "requested_datetime": "2015-12-23 08:15:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "Tainan City, West Central District, 新臨安橋 違規停車",
+    "address_string": "700, Taiwan, Tainan City, West Central District, 新臨安橋",
+    "lat": "22.9966763",
+    "long": "120.1890901",
+    "service_notice": {},
+    "updated_datetime": "2015-12-23 15:09:29",
+    "expected_datetime": "2015-12-23 08:15:00"
+}

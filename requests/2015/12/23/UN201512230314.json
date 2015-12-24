@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512230314",
+    "requested_datetime": "2015-12-23 17:34:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區長榮路一段\/府東街 違停",
+    "address_string": "東區長榮路一段\/府東街",
+    "lat": "24.1582674",
+    "long": "120.6761859",
+    "service_notice": {},
+    "updated_datetime": "2015-12-23 19:21:29",
+    "expected_datetime": "2015-12-30 17:34:00"
+}

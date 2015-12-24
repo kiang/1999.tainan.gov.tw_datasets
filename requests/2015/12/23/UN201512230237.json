@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512230237",
+    "requested_datetime": "2015-12-23 14:52:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中正北路126號.167號 違規停車",
+    "address_string": "永康區中正北路126號.167號",
+    "lat": "23.04155896991895",
+    "long": "120.24255473166704",
+    "service_notice": {},
+    "updated_datetime": "2015-12-23 16:30:58",
+    "expected_datetime": "2015-12-23 14:52:00"
+}
