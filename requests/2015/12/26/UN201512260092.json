@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512260092",
+    "requested_datetime": "2015-12-26 10:53:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "場所連續噪音",
+    "description": "北區大興街246巷2-4號 噪音舉發",
+    "address_string": "704台灣台南市北區大興街246巷2-4號",
+    "lat": "23.010850745413315",
+    "long": "120.1875261962414",
+    "service_notice": {},
+    "updated_datetime": "2015-12-26 16:07:32",
+    "expected_datetime": "2015-12-26 10:53:00"
+}

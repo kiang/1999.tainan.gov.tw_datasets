@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512250277",
+    "requested_datetime": "2015-12-25 18:33:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "安平區安平路590號(文章牛肉湯) 佔用道路",
+    "address_string": "安平路590號",
+    "lat": "23.8040585",
+    "long": "120.3958384",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-25 18:33:00"
+}

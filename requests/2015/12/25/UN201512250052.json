@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512250052",
+    "requested_datetime": "2015-12-25 08:44:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "安南區同安路150號附近音樂聲 妨礙安寧",
+    "address_string": "安南區同安路150號附近",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-25 17:43:47",
+    "expected_datetime": "2016-01-01 08:44:00"
+}

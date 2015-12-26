@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512260264",
+    "requested_datetime": "2015-12-26 20:05:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區崇學路56巷60-62號 違規停車",
+    "address_string": "701台灣台南市東區崇學路56巷60-62號",
+    "lat": "22.977470148941958",
+    "long": "120.22328875958921",
+    "service_notice": {},
+    "updated_datetime": "2015-12-26 22:53:34",
+    "expected_datetime": "2015-12-26 20:05:00"
+}

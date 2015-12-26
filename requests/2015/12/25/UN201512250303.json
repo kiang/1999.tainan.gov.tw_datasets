@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512250303",
+    "requested_datetime": "2015-12-25 19:56:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區西門路三段192號 違規停車",
+    "address_string": "704台灣台南市北區西門路三段192號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-25 22:22:11",
+    "expected_datetime": "2015-12-25 19:56:00"
+}

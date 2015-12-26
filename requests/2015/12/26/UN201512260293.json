@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512260293",
+    "requested_datetime": "2015-12-26 22:21:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "北區南園街12號 妨礙安寧",
+    "address_string": "704台灣台南市北區南園街12號",
+    "lat": "23.008367753369413",
+    "long": "120.22539033313524",
+    "service_notice": {},
+    "updated_datetime": "2015-12-27 02:52:11",
+    "expected_datetime": "2015-12-26 22:21:00"
+}

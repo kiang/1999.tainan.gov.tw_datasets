@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512260230",
+    "requested_datetime": "2015-12-26 18:04:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "中西區中華西路二段*民權路一段交叉口 交通疏導",
+    "address_string": "中西區中華西路二段*民權路一段交叉口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-26 21:59:50",
+    "expected_datetime": "2016-01-02 18:04:00"
+}

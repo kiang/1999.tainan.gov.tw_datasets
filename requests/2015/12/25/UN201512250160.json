@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512250160",
+    "requested_datetime": "2015-12-25 13:16:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "新市區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "新市區遠東科大 違規停車",
+    "address_string": "701台灣台南市遠東科大附近",
+    "lat": "22.997143956084173",
+    "long": "120.21296594291925",
+    "service_notice": {},
+    "updated_datetime": "2015-12-25 17:48:46",
+    "expected_datetime": "2015-12-25 13:16:00"
+}

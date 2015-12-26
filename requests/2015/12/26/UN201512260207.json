@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512260207",
+    "requested_datetime": "2015-12-26 17:06:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "709台灣台南市安南區府安路五段105巷口 違規停車",
+    "address_string": "709台灣台南市安南區府安路五段105巷口",
+    "lat": "23.0248414",
+    "long": "120.1998611",
+    "service_notice": {},
+    "updated_datetime": "2015-12-27 01:22:34",
+    "expected_datetime": "2015-12-26 17:06:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512250267",
+    "requested_datetime": "2015-12-25 17:57:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區公園路772巷口 違停",
+    "address_string": "北區公園路772巷口",
+    "lat": "25.0404392",
+    "long": "121.455221",
+    "service_notice": {},
+    "updated_datetime": "2015-12-25 20:41:26",
+    "expected_datetime": "2016-01-01 17:57:00"
+}

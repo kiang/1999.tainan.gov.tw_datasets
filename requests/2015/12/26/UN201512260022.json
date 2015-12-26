@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512260022",
+    "requested_datetime": "2015-12-26 05:55:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "永康區民族路126巷126號對面廠房  妨礙安寧",
+    "address_string": "710台灣台南市永康區民族路126巷86號",
+    "lat": "23.0042471",
+    "long": "120.2727712",
+    "service_notice": {},
+    "updated_datetime": "2015-12-26 15:47:13",
+    "expected_datetime": "2015-12-26 05:55:00"
+}

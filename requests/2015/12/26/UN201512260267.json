@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512260267",
+    "requested_datetime": "2015-12-26 20:17:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "新營區民生路55-59號 違規停車",
+    "address_string": "730台灣台南市新營區民生路55-59號",
+    "lat": "23.3073771",
+    "long": "120.3088154",
+    "service_notice": {},
+    "updated_datetime": "2015-12-27 00:05:00",
+    "expected_datetime": "2015-12-26 20:17:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512250204",
+    "requested_datetime": "2015-12-25 15:15:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "小廣告、旗幟",
+    "description": "南區新都路382號 髒亂及汙染",
+    "address_string": "702台灣台南市南區新都路382號",
+    "lat": "22.9676611",
+    "long": "120.1952736",
+    "service_notice": {},
+    "updated_datetime": "2015-12-25 17:05:23",
+    "expected_datetime": "2015-12-25 15:15:00"
+}

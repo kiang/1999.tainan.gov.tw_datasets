@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512260284",
+    "requested_datetime": "2015-12-26 21:15:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區大學路(大學路12巷到長榮路)  違規停車",
+    "address_string": "東區大學路(大學路12巷到長榮路)",
+    "lat": "22.996064055983616",
+    "long": "120.22029843181372",
+    "service_notice": {},
+    "updated_datetime": "2015-12-27 01:06:47",
+    "expected_datetime": "2015-12-26 21:15:00"
+}

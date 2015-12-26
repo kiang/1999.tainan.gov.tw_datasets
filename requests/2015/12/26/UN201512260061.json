@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512260061",
+    "requested_datetime": "2015-12-26 09:41:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中華南路一段南下西側國民路口前，市立殯儀館路口 違規停車",
+    "address_string": "中華南路一段南下西側國民路口前，市立殯儀館路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-26 16:03:04",
+    "expected_datetime": "2015-12-26 09:41:00"
+}

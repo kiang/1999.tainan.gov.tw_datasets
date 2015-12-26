@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512250274",
+    "requested_datetime": "2015-12-25 18:16:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區大學路8號到26號 違規停車",
+    "address_string": "東區大學路8號到26號",
+    "lat": "22.996057883337464",
+    "long": "120.22014621645211",
+    "service_notice": {},
+    "updated_datetime": "2015-12-25 20:15:53",
+    "expected_datetime": "2015-12-25 18:16:00"
+}

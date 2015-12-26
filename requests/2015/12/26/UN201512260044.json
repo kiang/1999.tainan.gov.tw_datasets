@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512260044",
+    "requested_datetime": "2015-12-26 08:56:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "安南區長溪路三段373巷58號  妨礙安寧",
+    "address_string": "安南區長溪路三段373巷58號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-26 15:58:07",
+    "expected_datetime": "2016-01-02 08:56:00"
+}

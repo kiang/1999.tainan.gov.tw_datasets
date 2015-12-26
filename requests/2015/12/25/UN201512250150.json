@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512250150",
+    "requested_datetime": "2015-12-25 12:44:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局第一分局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區東門路二段146號 違規停車",
+    "address_string": "台南市東區東門路二段146號",
+    "lat": "22.9867061",
+    "long": "120.2348346",
+    "service_notice": {},
+    "updated_datetime": "2015-12-25 15:11:13",
+    "expected_datetime": "2015-12-25 12:44:00"
+}

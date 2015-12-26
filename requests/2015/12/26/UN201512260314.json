@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512260314",
+    "requested_datetime": "2015-12-26 22:51:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區大灣路981號 違規停車",
+    "address_string": "No. 981, Dawan Rd, Yongkang District, Tainan City, 710",
+    "lat": "23.0044181",
+    "long": "120.2651086",
+    "service_notice": {},
+    "updated_datetime": "2015-12-27 03:04:11",
+    "expected_datetime": "2015-12-26 22:51:00"
+}

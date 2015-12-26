@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512260163",
+    "requested_datetime": "2015-12-26 14:50:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區成功路490號 違規停車",
+    "address_string": "704台灣台南市北區成功路490號",
+    "lat": "23.0011709",
+    "long": "120.197224",
+    "service_notice": {},
+    "updated_datetime": "2015-12-26 16:23:29",
+    "expected_datetime": "2015-12-26 14:50:00"
+}

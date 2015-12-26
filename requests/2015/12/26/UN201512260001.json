@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512260001",
+    "requested_datetime": "2015-12-26 00:06:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "仁德區一甲里中正路三段附近的越南餐廳 妨礙安寧",
+    "address_string": "台南市仁德區一甲里中正路三段附近",
+    "lat": "22.9771958",
+    "long": "120.2613689",
+    "service_notice": {},
+    "updated_datetime": "2015-12-26 03:39:59",
+    "expected_datetime": "2015-12-26 00:06:00"
+}

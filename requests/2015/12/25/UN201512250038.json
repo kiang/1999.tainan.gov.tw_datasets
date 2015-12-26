@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512250038",
+    "requested_datetime": "2015-12-25 09:02:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "新營區中山路1號 違規停車",
+    "address_string": "730台灣台南市新營區中山路1號",
+    "lat": "23.306726280105504",
+    "long": "120.3229371830821",
+    "service_notice": {},
+    "updated_datetime": "2015-12-25 13:09:28",
+    "expected_datetime": "2015-12-25 09:02:00"
+}

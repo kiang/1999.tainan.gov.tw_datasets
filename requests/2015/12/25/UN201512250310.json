@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512250310",
+    "requested_datetime": "2015-12-25 20:20:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "A-TB-2015-70870",
+    "description": "北區育德路*立德路口 違停",
+    "address_string": "北區育德路*立德路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-25 22:10:45",
+    "expected_datetime": "2016-01-01 20:20:00"
+}

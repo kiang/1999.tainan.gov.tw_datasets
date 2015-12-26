@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512250199",
+    "requested_datetime": "2015-12-25 15:01:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區慶中街206巷2-10號 違規停車",
+    "address_string": "700台灣台南市中西區慶中街206巷2-10號",
+    "lat": "22.984778308241861",
+    "long": "120.20582742380373",
+    "service_notice": {},
+    "updated_datetime": "2015-12-25 17:51:01",
+    "expected_datetime": "2015-12-25 15:01:00"
+}

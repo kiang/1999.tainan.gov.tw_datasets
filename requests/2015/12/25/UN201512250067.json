@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512250067",
+    "requested_datetime": "2015-12-25 09:40:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "北區文賢一路上(靠近和緯路的天資幼兒園) 妨礙安寧",
+    "address_string": "北區文賢一路上(靠近和緯路的天資幼兒園)",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-25 15:06:18",
+    "expected_datetime": "2016-01-01 09:40:00"
+}

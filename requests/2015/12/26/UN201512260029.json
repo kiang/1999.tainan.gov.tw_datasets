@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512260029",
+    "requested_datetime": "2015-12-26 07:34:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "永康區復國里復華一街19巷進去(紫龍宮)   妨礙安寧",
+    "address_string": "永康區復國里復華一街19巷",
+    "lat": "23.0059794",
+    "long": "120.2473063",
+    "service_notice": {},
+    "updated_datetime": "2015-12-26 15:48:38",
+    "expected_datetime": "2016-01-02 07:34:00"
+}

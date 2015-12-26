@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512250158",
+    "requested_datetime": "2015-12-25 13:13:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局永康分局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區南台街10巷3號 違規停車",
+    "address_string": "710台灣台南市永康區南台街10巷3號",
+    "lat": "23.022716452507165",
+    "long": "120.22368136793375",
+    "service_notice": {},
+    "updated_datetime": "2015-12-25 17:45:04",
+    "expected_datetime": "2015-12-25 13:13:00"
+}

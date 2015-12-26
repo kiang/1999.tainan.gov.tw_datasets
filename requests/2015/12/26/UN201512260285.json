@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512260285",
+    "requested_datetime": "2015-12-26 21:17:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區中山路151號.143號.125號 違規停車",
+    "address_string": "中西區中山路151號.143號.125號",
+    "lat": "22.99589862896916",
+    "long": "120.21013420075178",
+    "service_notice": {},
+    "updated_datetime": "2015-12-26 23:26:57",
+    "expected_datetime": "2015-12-26 21:17:00"
+}

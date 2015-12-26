@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512260273",
+    "requested_datetime": "2015-12-26 20:38:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區長榮路四段富台新村站牌前  違規停車",
+    "address_string": "長榮路四段富台新村站牌前",
+    "lat": "23.9675879",
+    "long": "120.5785221",
+    "service_notice": {},
+    "updated_datetime": "2015-12-27 00:00:16",
+    "expected_datetime": "2015-12-26 20:38:00"
+}

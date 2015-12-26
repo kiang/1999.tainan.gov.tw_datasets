@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512250270",
+    "requested_datetime": "2015-12-25 18:05:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區西門路二段381號 違規停車",
+    "address_string": "台南市中西區西門路二段381號",
+    "lat": "23.0049256",
+    "long": "120.1819684",
+    "service_notice": {},
+    "updated_datetime": "2015-12-25 23:05:31",
+    "expected_datetime": "2015-12-25 18:05:00"
+}

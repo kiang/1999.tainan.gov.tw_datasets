@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512260196",
+    "requested_datetime": "2015-12-26 16:37:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區光州路跟林默娘公園 違停",
+    "address_string": "安平區光州路跟林默娘公園",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-26 18:43:55",
+    "expected_datetime": "2016-01-02 16:37:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512250059",
+    "requested_datetime": "2015-12-25 09:29:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "南區文南路286號柏克來美語 路霸",
+    "address_string": "南區文南路286號柏克來美語",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-25 13:08:23",
+    "expected_datetime": "2016-01-01 09:29:00"
+}

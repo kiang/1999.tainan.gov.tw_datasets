@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512250345",
+    "requested_datetime": "2015-12-25 23:08:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安南區北安路與郡安路交叉路口 違規停車",
+    "address_string": "安南區北安路與郡安路交叉路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-26 03:32:13",
+    "expected_datetime": "2015-12-25 23:08:00"
+}

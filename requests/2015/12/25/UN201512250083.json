@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512250083",
+    "requested_datetime": "2015-12-25 10:00:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "東區崇德16街2號-3 1F 妨礙安寧",
+    "address_string": "東區崇德16街2號-3 1F",
+    "lat": "24.1761059",
+    "long": "120.686049",
+    "service_notice": {},
+    "updated_datetime": "2015-12-25 15:01:09",
+    "expected_datetime": "2016-01-01 10:00:00"
+}

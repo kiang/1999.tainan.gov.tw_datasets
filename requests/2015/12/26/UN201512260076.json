@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512260076",
+    "requested_datetime": "2015-12-26 10:24:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區公園路512號  違停",
+    "address_string": "北區公園路512號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-26 16:03:57",
+    "expected_datetime": "2016-01-02 10:24:00"
+}
