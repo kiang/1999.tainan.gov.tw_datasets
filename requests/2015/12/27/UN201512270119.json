@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512270119",
+    "requested_datetime": "2015-12-27 14:02:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區海安路\/友愛街口 違規停車",
+    "address_string": "海安路友愛街口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-27 17:14:08",
+    "expected_datetime": "2015-12-27 14:02:00"
+}

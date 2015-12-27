@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512270097",
+    "requested_datetime": "2015-12-27 12:49:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區東豐路85巷24號 違規停車",
+    "address_string": "704台灣台南市北區東豐路85巷24號",
+    "lat": "23.0048287",
+    "long": "120.2178576",
+    "service_notice": {},
+    "updated_datetime": "2015-12-27 17:05:47",
+    "expected_datetime": "2015-12-27 12:49:00"
+}

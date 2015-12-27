@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512270100",
+    "requested_datetime": "2015-12-27 13:04:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "南區中華南路一段66號 空氣汙染",
+    "address_string": "南區中華南路一段66號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2015-12-27 17:21:10",
+    "expected_datetime": "2016-01-03 13:04:00"
+}

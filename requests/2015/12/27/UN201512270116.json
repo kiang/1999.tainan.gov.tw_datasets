@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512270116",
+    "requested_datetime": "2015-12-27 13:59:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區五妃街149號人行道  違規停車",
+    "address_string": "700台灣台南市中西區五妃街149號",
+    "lat": "22.9828887",
+    "long": "120.2066534",
+    "service_notice": {},
+    "updated_datetime": "2015-12-27 17:20:49",
+    "expected_datetime": "2015-12-27 13:59:00"
+}

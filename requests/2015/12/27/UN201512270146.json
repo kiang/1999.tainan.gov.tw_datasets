@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512270146",
+    "requested_datetime": "2015-12-27 15:13:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "710台灣台南市永康區中山南路142號 違規停車",
+    "address_string": "710台灣台南市永康區中山南路142號",
+    "lat": "23.013293897511755",
+    "long": "120.23055519908668",
+    "service_notice": {},
+    "updated_datetime": "2015-12-27 17:44:08",
+    "expected_datetime": "2015-12-27 15:13:00"
+}

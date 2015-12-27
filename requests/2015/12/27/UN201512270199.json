@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512270199",
+    "requested_datetime": "2015-12-27 18:32:00",
+    "status": {},
+    "keyword": {},
+    "area": "南 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區體育路上鶴茶坊對面   違規停車",
+    "address_string": "702台灣台南市南區體育路上鶴茶坊對面",
+    "lat": "22.979075556993546",
+    "long": "120.20696919411422",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-27 18:32:00"
+}

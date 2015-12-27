@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512270139",
+    "requested_datetime": "2015-12-27 14:56:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "南區竹溪寺旁斜坡上卡拉OK店  噪音舉發",
+    "address_string": "南區竹溪寺旁斜坡上卡拉OK店",
+    "lat": "24.1208445",
+    "long": "120.6624117",
+    "service_notice": {},
+    "updated_datetime": "2015-12-27 19:28:55",
+    "expected_datetime": "2015-12-27 14:56:00"
+}
