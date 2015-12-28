@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201512270166",
     "requested_datetime": "2015-12-27 16:07:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北 區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "704台灣台南市北區臨安路二段195號 違規停車",
     "address_string": "704台灣台南市北區臨安路二段195號",
     "lat": "23.003666381365846",
     "long": "120.1993051171303",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-28 08:20:19",
     "expected_datetime": "2015-12-27 16:07:00"
 }
