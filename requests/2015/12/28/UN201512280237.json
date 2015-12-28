@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201512280237",
     "requested_datetime": "2015-12-28 15:35:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北 區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區北門路三段47號前.112號旁 違規停車",
     "address_string": "北區北門路三段47號前.112號旁",
     "lat": "23.014363784846708",
     "long": "120.21732050925493",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-28 16:52:04",
     "expected_datetime": "2015-12-28 15:35:00"
 }

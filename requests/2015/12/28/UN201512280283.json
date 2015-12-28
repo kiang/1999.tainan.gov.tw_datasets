@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512280283",
+    "requested_datetime": "2015-12-28 17:06:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區西門路一段653號(Apple授權服務中心) 違規停車",
+    "address_string": "台南市中西區西門路 Apple授權服務中心",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-28 17:06:00"
+}
