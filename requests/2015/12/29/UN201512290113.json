@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區北華街335號前 路燈故障",
     "address_string": "北區北華街335號前",
-    "lat": {},
-    "long": {},
+    "lat": "24.8164275",
+    "long": "120.9706864",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-01-05 11:39:00"
