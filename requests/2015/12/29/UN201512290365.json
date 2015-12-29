@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201512290365",
     "requested_datetime": "2015-12-29 21:43:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "安南區郡安路五段184巷52弄18號  妨礙安寧",
     "address_string": "709台灣台南市安南區郡安路五段184巷52弄18號",
     "lat": "23.0284309",
     "long": "120.1945364",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-29 23:38:21",
     "expected_datetime": "2015-12-29 21:43:00"
 }
