@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201512280353",
     "requested_datetime": "2015-12-28 20:42:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新化區",
     "service_name": "違規停車",
@@ -12,6 +12,6 @@
     "lat": "22.9680515",
     "long": "120.3495628",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-29 07:23:23",
     "expected_datetime": "2016-01-04 20:42:00"
 }
