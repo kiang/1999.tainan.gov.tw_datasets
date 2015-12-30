@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "南區金華路一段458號480號 永成路二段664號 路燈故障",
     "address_string": "南區金華路一段458號480號 永成路二段664號",
-    "lat": {},
-    "long": {},
+    "lat": "24.8040017",
+    "long": "120.9466353",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-01-07 01:00:00"
