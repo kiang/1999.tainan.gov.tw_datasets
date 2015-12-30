@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512300136",
+    "requested_datetime": "2015-12-30 12:09:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "中西區衞民街108巷 佔用道路",
+    "address_string": "衞民街108巷",
+    "lat": "23.69781",
+    "long": "120.960515",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-30 12:09:00"
+}
