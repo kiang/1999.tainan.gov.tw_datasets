@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512300206",
+    "requested_datetime": "2015-12-30 15:08:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區北門路三段62號.實踐街22號周邊 違規停車",
+    "address_string": "北區北門路三段62號.實踐街22號周邊",
+    "lat": "23.014373968331192",
+    "long": "120.21738018840553",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-30 15:08:00"
+}

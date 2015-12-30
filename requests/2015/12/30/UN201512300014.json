@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201512300014",
     "requested_datetime": "2015-12-30 07:16:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌秒差調整",
     "description": "北區公園北路171號 號誌",
     "address_string": "704台灣台南市北區公園北路171號",
     "lat": "23.004734752093640",
     "long": "120.20927502689210",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-30 14:59:24",
     "expected_datetime": "2015-12-30 07:16:00"
 }

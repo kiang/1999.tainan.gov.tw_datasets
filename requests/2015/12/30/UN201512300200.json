@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512300200",
+    "requested_datetime": "2015-12-30 15:01:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區北門路三段23號周邊\/北門路三段27巷與北門路三段交叉路口周邊 違規停車",
+    "address_string": "北區北門路三段23號周邊\/北門路三段27巷與北門路三段交叉路口周邊",
+    "lat": "23.013888246124196",
+    "long": "120.21717533469202",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-30 15:01:00"
+}
