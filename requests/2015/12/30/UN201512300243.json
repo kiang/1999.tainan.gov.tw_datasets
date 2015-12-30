@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "西華南街 違規停車",
     "address_string": "西華南街",
-    "lat": {},
-    "long": {},
+    "lat": "23.9573343",
+    "long": "120.477749",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2015-12-30 15:53:00"
