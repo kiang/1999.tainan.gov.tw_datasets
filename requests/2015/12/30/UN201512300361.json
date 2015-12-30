@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512300361",
+    "requested_datetime": "2015-12-30 22:04:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區(鐵軌旁)青年路口至前鋒路口 違規停車",
+    "address_string": "鐵軌旁",
+    "lat": "23.69781",
+    "long": "120.960515",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-30 22:04:00"
+}

@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區小東路上\/東光路交叉口 路燈不亮",
     "address_string": "東區小東路上\/東光路",
-    "lat": {},
-    "long": {},
+    "lat": "23.6908377",
+    "long": "120.4665312",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-01-06 20:18:00"
