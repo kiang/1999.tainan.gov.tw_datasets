@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區新行街與中正北路路口違規停車",
     "address_string": "台南市永康區新行街與中正北路路口",
-    "lat": {},
-    "long": {},
+    "lat": "23.0211779",
+    "long": "120.2628111",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2015-12-30 19:25:00"

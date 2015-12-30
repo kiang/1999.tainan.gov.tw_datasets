@@ -7,10 +7,10 @@
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "大同路2段482巷151號違規停車",
+    "description": "南區大同路2段482巷151號違規停車",
     "address_string": "大同路2段",
-    "lat": {},
-    "long": {},
+    "lat": "24.6442428",
+    "long": "121.5645549",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2015-12-30 19:25:00"
