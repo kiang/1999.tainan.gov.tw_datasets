@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201512290270",
     "requested_datetime": "2015-12-29 17:33:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市善化區公所",
     "subproject": "9盞以下路燈故障",
     "description": "善化區成功路266巷36號前面 路燈",
     "address_string": "善化區成功路266巷36號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2015-12-31 09:11:40",
     "expected_datetime": "2016-01-05 17:33:00"
 }
