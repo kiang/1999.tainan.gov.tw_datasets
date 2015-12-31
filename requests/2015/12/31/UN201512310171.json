@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區中山路49號 違規停車",
     "address_string": "700台灣台南市中西區中山路49號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9936352",
+    "long": "120.2063336",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2015-12-31 12:34:00"
