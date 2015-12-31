@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區凱旋路和莊敬路口 違停",
     "address_string": "東區凱旋路和莊敬路口",
-    "lat": {},
-    "long": {},
+    "lat": "22.6102913",
+    "long": "120.3250398",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-01-07 16:04:00"
