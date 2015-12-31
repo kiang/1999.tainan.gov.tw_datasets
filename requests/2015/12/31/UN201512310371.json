@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512310371",
+    "requested_datetime": "2015-12-31 19:08:00",
+    "status": {},
+    "keyword": {},
+    "area": "歸仁區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "歸仁區民權六街1219號 違規停車",
+    "address_string": "711台灣台南市歸仁區民權六街1219號",
+    "lat": "22.969794393339370",
+    "long": "120.28332004106983",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2015-12-31 19:08:00"
+}
