@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010301",
+    "requested_datetime": "2016-01-01 21:13:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "中西區成功路265號   噪音舉發",
+    "address_string": "700台灣台南市中西區成功路265號",
+    "lat": "22.99925095550261",
+    "long": "120.20184986293314",
+    "service_notice": {},
+    "updated_datetime": "2016-01-02 01:50:43",
+    "expected_datetime": "2016-01-01 21:13:00"
+}

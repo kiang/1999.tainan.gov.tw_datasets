@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010226",
+    "requested_datetime": "2016-01-01 17:16:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "歸仁區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "歸仁圓環中山路三段兩側 違規停車",
+    "address_string": "711台灣台南市歸仁區中山路一段575-637號",
+    "lat": "22.966680299600984",
+    "long": "120.29484406113626",
+    "service_notice": {},
+    "updated_datetime": "2016-01-01 18:52:24",
+    "expected_datetime": "2016-01-01 17:16:00"
+}

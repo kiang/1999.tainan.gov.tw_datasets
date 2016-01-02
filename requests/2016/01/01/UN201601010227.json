@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010227",
+    "requested_datetime": "2016-01-01 17:16:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "安平區慶平路539號維悅飯店對面的運河景觀步道 妨礙安寧",
+    "address_string": "安平區慶平路539號維悅飯店對面的運河景觀步道",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-01-01 18:51:19",
+    "expected_datetime": "2016-01-08 17:16:00"
+}

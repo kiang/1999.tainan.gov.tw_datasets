@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010008",
+    "requested_datetime": "2016-01-01 01:00:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "北區大港街38巷15弄6號 妨礙安寧",
+    "address_string": "大港街38巷15弄6號",
+    "lat": "22.6384372",
+    "long": "120.3128064",
+    "service_notice": {},
+    "updated_datetime": "2016-01-01 05:27:48",
+    "expected_datetime": "2016-01-01 01:00:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010200",
+    "requested_datetime": "2016-01-01 16:18:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "北區成功路 (和國華街四段,海安路三段以及康樂街交叉口) 廟會妨礙安寧",
+    "address_string": "北區成功路 (和國華街四段,海安路三段以及康樂街交叉口),",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-01-01 18:45:34",
+    "expected_datetime": "2016-01-08 16:18:00"
+}

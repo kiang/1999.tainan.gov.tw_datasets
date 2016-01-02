@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010122",
+    "requested_datetime": "2016-01-01 12:08:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "富北街11號2F3F唱卡拉OK 妨礙安寧",
+    "address_string": "富北街11號2F3F唱卡拉OK",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-01-01 13:35:33",
+    "expected_datetime": "2016-01-01 12:08:00"
+}

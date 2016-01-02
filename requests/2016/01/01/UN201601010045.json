@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010045",
+    "requested_datetime": "2016-01-01 08:01:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區勝利路419號 違規停車",
+    "address_string": "704台灣台南市北區勝利路419號",
+    "lat": "23.004685",
+    "long": "120.2186197",
+    "service_notice": {},
+    "updated_datetime": "2016-01-01 10:45:05",
+    "expected_datetime": "2016-01-01 08:01:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010087",
+    "requested_datetime": "2016-01-01 10:22:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "長榮路一段，府連路口 廟會佔用道路",
+    "address_string": "長榮路一段，府連路口",
+    "lat": "23.3200719",
+    "long": "120.3248632",
+    "service_notice": {},
+    "updated_datetime": "2016-01-01 13:43:07",
+    "expected_datetime": "2016-01-01 10:22:00"
+}

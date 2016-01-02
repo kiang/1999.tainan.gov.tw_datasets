@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010062",
+    "requested_datetime": "2016-01-01 09:11:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "東區開山路*大同路口 廟會鞭炮",
+    "address_string": "東區開山路*大同路口",
+    "lat": "24.7920604",
+    "long": "120.9933678",
+    "service_notice": {},
+    "updated_datetime": "2016-01-01 12:46:25",
+    "expected_datetime": "2016-01-08 09:11:00"
+}

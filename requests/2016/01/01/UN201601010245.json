@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010245",
+    "requested_datetime": "2016-01-01 18:20:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區成功路三段22號前方、富朗飯店斜坡處    違停",
+    "address_string": "北區成功路三段22號前方、富朗飯店斜坡處",
+    "lat": "24.8262418",
+    "long": "120.9562642",
+    "service_notice": {},
+    "updated_datetime": "2016-01-01 22:18:20",
+    "expected_datetime": "2016-01-08 18:20:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010081",
+    "requested_datetime": "2016-01-01 10:07:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "廟會  妨礙安寧",
+    "address_string": "東區中華東路三段336巷43弄",
+    "lat": "24.796768",
+    "long": "120.9593276",
+    "service_notice": {},
+    "updated_datetime": "2016-01-01 16:02:12",
+    "expected_datetime": "2016-01-08 10:07:00"
+}

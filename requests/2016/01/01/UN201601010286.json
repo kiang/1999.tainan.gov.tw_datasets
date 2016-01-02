@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010286",
+    "requested_datetime": "2016-01-01 20:15:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區龍山街整條  違停",
+    "address_string": "東區龍山街整條",
+    "lat": "24.7903611",
+    "long": "121.0103122",
+    "service_notice": {},
+    "updated_datetime": "2016-01-01 22:37:08",
+    "expected_datetime": "2016-01-08 20:15:00"
+}

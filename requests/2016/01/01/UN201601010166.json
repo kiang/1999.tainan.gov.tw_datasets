@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010166",
+    "requested_datetime": "2016-01-01 14:30:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區林森路二段86號 紅線違停",
+    "address_string": "東區林森路二段86號",
+    "lat": "24.801734",
+    "long": "120.971154",
+    "service_notice": {},
+    "updated_datetime": "2016-01-01 16:36:46",
+    "expected_datetime": "2016-01-08 14:30:00"
+}

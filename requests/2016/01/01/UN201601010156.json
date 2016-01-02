@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010156",
+    "requested_datetime": "2016-01-01 14:13:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "中西區府前路二段42號 髒亂及汙染",
+    "address_string": "700台灣台南市中西區府前路二段42號",
+    "lat": "22.990827081544914",
+    "long": "120.19645594060422",
+    "service_notice": {},
+    "updated_datetime": "2016-01-01 18:45:14",
+    "expected_datetime": "2016-01-01 14:13:00"
+}

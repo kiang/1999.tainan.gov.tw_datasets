@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010041",
+    "requested_datetime": "2016-01-01 07:40:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "東區崇明路靠近文化中心 廟會妨礙安寧",
+    "address_string": "東區崇明路靠近文化中心",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-01-01 13:02:43",
+    "expected_datetime": "2016-01-08 07:40:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601020001",
+    "requested_datetime": "2016-01-02 00:00:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "仁德區一甲里中正路143號 妨礙安寧",
+    "address_string": "台南市仁德區一甲里中正路三段143號",
+    "lat": "22.9771958",
+    "long": "120.2613689",
+    "service_notice": {},
+    "updated_datetime": "2016-01-02 02:55:37",
+    "expected_datetime": "2016-01-02 00:00:00"
+}

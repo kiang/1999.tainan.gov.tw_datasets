@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601020002",
+    "requested_datetime": "2016-01-02 00:04:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "南區大同路二段640巷39弄8號  妨礙安寧",
+    "address_string": "702台灣台南市南區大同路二段640巷39弄8號",
+    "lat": "22.9681805",
+    "long": "120.2136369",
+    "service_notice": {},
+    "updated_datetime": "2016-01-02 01:58:17",
+    "expected_datetime": "2016-01-02 00:04:00"
+}

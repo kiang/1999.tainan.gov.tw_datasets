@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010201",
+    "requested_datetime": "2016-01-01 16:04:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區安北路(民權路出來靠進西門國小)     交通疏導 \/ 違停",
+    "address_string": "安平區安北路(民權路出來靠進西門國小)",
+    "lat": "24.6259673",
+    "long": "121.7905883",
+    "service_notice": {},
+    "updated_datetime": "2016-01-01 18:43:21",
+    "expected_datetime": "2016-01-08 16:04:00"
+}

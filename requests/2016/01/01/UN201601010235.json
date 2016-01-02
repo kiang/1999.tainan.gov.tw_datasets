@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010235",
+    "requested_datetime": "2016-01-01 17:49:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "善化區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "善化區大同路213巷14號 佔用道路",
+    "address_string": "善化區大同路213巷14號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-01-02 01:51:34",
+    "expected_datetime": "2016-01-08 17:49:00"
+}

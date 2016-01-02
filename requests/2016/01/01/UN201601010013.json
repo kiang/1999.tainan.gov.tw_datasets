@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010013",
+    "requested_datetime": "2016-01-01 01:33:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "中西區臨安路一段246號週邊 違停\/妨礙安寧",
+    "address_string": "中西區臨安路一段246號週邊",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-01-01 05:29:16",
+    "expected_datetime": "2016-01-08 01:33:00"
+}

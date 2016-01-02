@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010304",
+    "requested_datetime": "2016-01-01 21:21:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "場所連續噪音",
+    "description": "700台灣台南市中西區成功路285巷5-4號 噪音舉發",
+    "address_string": "700台灣台南市中西區成功路285巷5-4號",
+    "lat": "22.999061150985177",
+    "long": "120.2016919478774",
+    "service_notice": {},
+    "updated_datetime": "2016-01-02 01:49:29",
+    "expected_datetime": "2016-01-01 21:21:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010197",
+    "requested_datetime": "2016-01-01 16:16:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "場所連續噪音",
+    "description": "民權路、友愛東街 廟會妨礙安寧",
+    "address_string": "民權路、友愛東街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-01-01 18:44:36",
+    "expected_datetime": "2016-01-01 16:16:00"
+}

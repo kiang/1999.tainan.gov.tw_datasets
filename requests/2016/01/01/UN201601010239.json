@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010239",
+    "requested_datetime": "2016-01-01 18:00:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區自由路二段91巷巷口   違停",
+    "address_string": "東區自由路二段91巷巷口",
+    "lat": "24.8094742",
+    "long": "120.9835024",
+    "service_notice": {},
+    "updated_datetime": "2016-01-01 22:15:39",
+    "expected_datetime": "2016-01-08 18:00:00"
+}

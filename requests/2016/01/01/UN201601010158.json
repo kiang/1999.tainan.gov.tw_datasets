@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010158",
+    "requested_datetime": "2016-01-01 14:13:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府民政局,臺南市政府交通局,臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "中西區民生路\/海安路\/西門路 廟會交通疏導",
+    "address_string": "中西區民生路\/海安路\/西門路",
+    "lat": "22.9965066",
+    "long": "120.1918942",
+    "service_notice": {},
+    "updated_datetime": "2016-01-01 16:23:06",
+    "expected_datetime": "2016-01-08 14:13:00"
+}

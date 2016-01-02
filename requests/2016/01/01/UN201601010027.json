@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010027",
+    "requested_datetime": "2016-01-01 03:52:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "永康區中山南路小北百貨後方的中華西街社區 妨礙安寧",
+    "address_string": "永康區中山南路小北百貨後方的中華西街社區",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-01-01 08:14:19",
+    "expected_datetime": "2016-01-08 03:52:00"
+}

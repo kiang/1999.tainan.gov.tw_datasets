@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010022",
+    "requested_datetime": "2016-01-01 02:56:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "東區東興路107號 妨礙安寧",
+    "address_string": "東區東興路107號",
+    "lat": "24.8182103",
+    "long": "121.0317578",
+    "service_notice": {},
+    "updated_datetime": "2016-01-01 05:32:21",
+    "expected_datetime": "2016-01-08 02:56:00"
+}

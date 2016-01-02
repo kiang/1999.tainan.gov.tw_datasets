@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010246",
+    "requested_datetime": "2016-01-01 18:33:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區衞民街的北門路口到西華南街口 違規停車",
+    "address_string": "衞民街的北門路口到西華南街口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-01-01 22:19:12",
+    "expected_datetime": "2016-01-01 18:33:00"
+}

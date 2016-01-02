@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010073",
+    "requested_datetime": "2016-01-01 09:50:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "長榮路一段，府連東路，交叉路口 妨礙安寧廟會",
+    "address_string": "長榮路一段，府連東路，交叉路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-01-01 13:36:06",
+    "expected_datetime": "2016-01-01 09:50:00"
+}

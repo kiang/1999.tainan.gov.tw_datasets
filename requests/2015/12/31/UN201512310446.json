@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201512310446",
+    "requested_datetime": "2015-12-31 21:10:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區民族路三段137號 違規停車",
+    "address_string": "700台灣台南市中西區民族路三段137號",
+    "lat": "22.99880406574168",
+    "long": "120.1959490031004",
+    "service_notice": {},
+    "updated_datetime": "2016-01-01 05:12:55",
+    "expected_datetime": "2015-12-31 21:10:00"
+}

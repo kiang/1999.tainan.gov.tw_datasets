@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601010312",
+    "requested_datetime": "2016-01-01 22:05:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "安平區安平路550巷17弄18號 妨礙安寧",
+    "address_string": "安平區安平路550巷17弄18號",
+    "lat": "22.9979473",
+    "long": "120.1863152",
+    "service_notice": {},
+    "updated_datetime": "2016-01-02 01:52:01",
+    "expected_datetime": "2016-01-08 22:05:00"
+}
