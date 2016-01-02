@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601020223",
+    "requested_datetime": "2016-01-02 18:40:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "麻豆區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "721台灣台南市麻豆區興國路16號 違規停車",
+    "address_string": "721台灣台南市麻豆區興國路16號",
+    "lat": "23.1825127",
+    "long": "120.2478472",
+    "service_notice": {},
+    "updated_datetime": "2016-01-02 23:15:58",
+    "expected_datetime": "2016-01-02 18:40:00"
+}

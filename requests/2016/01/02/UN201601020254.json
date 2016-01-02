@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601020254",
+    "requested_datetime": "2016-01-02 20:15:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "大同路二段482巷151號前大林二公園 違規停車",
+    "address_string": "台南市大同路",
+    "lat": "22.9651148",
+    "long": "120.2162503",
+    "service_notice": {},
+    "updated_datetime": "2016-01-02 23:36:05",
+    "expected_datetime": "2016-01-02 20:15:00"
+}

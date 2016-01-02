@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601020150",
+    "requested_datetime": "2016-01-02 15:08:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "中西區信義街46巷9號 廟會妨礙安寧",
+    "address_string": "700台灣台南市中西區信義街46巷9號",
+    "lat": "23.0001092",
+    "long": "120.1961152",
+    "service_notice": {},
+    "updated_datetime": "2016-01-02 18:37:51",
+    "expected_datetime": "2016-01-02 15:08:00"
+}

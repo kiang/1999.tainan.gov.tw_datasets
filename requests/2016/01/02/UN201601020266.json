@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601020266",
+    "requested_datetime": "2016-01-02 21:09:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區健康路一段175巷和體育路21巷口",
+    "address_string": "南區健康路一段175巷和體育路21巷口",
+    "lat": "22.9792679",
+    "long": "120.2093825",
+    "service_notice": {},
+    "updated_datetime": "2016-01-02 23:28:58",
+    "expected_datetime": "2016-01-09 21:09:00"
+}

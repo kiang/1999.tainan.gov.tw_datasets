@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601020039",
+    "requested_datetime": "2016-01-02 09:29:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區德東街92號轉角路口 違規停車",
+    "address_string": "東區德東街92號轉角路口",
+    "lat": "24.7982823",
+    "long": "120.9735483",
+    "service_notice": {},
+    "updated_datetime": "2016-01-02 14:00:51",
+    "expected_datetime": "2016-01-02 09:29:00"
+}

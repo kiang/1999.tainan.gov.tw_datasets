@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601020029",
+    "requested_datetime": "2016-01-02 08:40:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中山路20號 違停",
+    "address_string": "永康區中山路20號",
+    "lat": "25.0614491",
+    "long": "121.4882593",
+    "service_notice": {},
+    "updated_datetime": "2016-01-02 13:54:50",
+    "expected_datetime": "2016-01-09 08:40:00"
+}

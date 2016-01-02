@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601020255",
+    "requested_datetime": "2016-01-02 20:12:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區永華路一段193號附近  違停",
+    "address_string": "中西區永華路一段193號附近",
+    "lat": "23.0049439",
+    "long": "120.1811788",
+    "service_notice": {},
+    "updated_datetime": "2016-01-02 23:49:41",
+    "expected_datetime": "2016-01-09 20:12:00"
+}

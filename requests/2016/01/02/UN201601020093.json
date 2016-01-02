@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601020093",
+    "requested_datetime": "2016-01-02 12:28:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區北忠街58巷33號、35號、37號、56號   違規停車",
+    "address_string": "北忠街58巷33 35 37 56號整條巷子機車紅線違停",
+    "lat": "24.8394926",
+    "long": "121.0364067",
+    "service_notice": {},
+    "updated_datetime": "2016-01-02 14:44:49",
+    "expected_datetime": "2016-01-02 12:28:00"
+}

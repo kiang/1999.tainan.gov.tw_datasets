@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601020185",
+    "requested_datetime": "2016-01-02 16:41:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "北區北成路50號 妨礙安寧",
+    "address_string": "北區北成路50號",
+    "lat": "24.6815405",
+    "long": "121.7508474",
+    "service_notice": {},
+    "updated_datetime": "2016-01-02 18:42:25",
+    "expected_datetime": "2016-01-09 16:41:00"
+}
