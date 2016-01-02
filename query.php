@@ -2,7 +2,7 @@
 
 $lastEndDate = mktime();
 $lastResultCount = 1;
-$startDate = strtotime('-2 days');
+$startDate = strtotime('-1 days');
 
 $basePath = __DIR__ . "/requests";
 
