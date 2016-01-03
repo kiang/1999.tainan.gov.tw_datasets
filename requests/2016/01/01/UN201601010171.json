@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601010171",
     "requested_datetime": "2016-01-01 14:36:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "山上區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "新化區要往山上區台20線由西往東  動物屍體",
     "address_string": "山上區豐德村(豐德變電所)",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-03 11:31:21",
     "expected_datetime": "2016-01-08 14:36:00"
 }
