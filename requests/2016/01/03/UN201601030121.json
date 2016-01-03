@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201601030121",
     "requested_datetime": "2016-01-03 17:17:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "交通運輸",
@@ -12,6 +12,6 @@
     "lat": "24.8259294",
     "long": "120.9716063",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-03 19:08:26",
     "expected_datetime": "2016-01-10 17:17:00"
 }
