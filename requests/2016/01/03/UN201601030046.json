@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601030046",
+    "requested_datetime": "2016-01-03 12:03:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "東區小東路179號181號 佔用道路",
+    "address_string": "東區小東路179號181號",
+    "lat": "23.6913982",
+    "long": "120.4669217",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-10 12:03:00"
+}
