@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區裕農路574號 違停",
     "address_string": "東區裕農路574號",
-    "lat": {},
-    "long": {},
+    "lat": "23.2282593",
+    "long": "120.3570294",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-01-10 19:30:00"
