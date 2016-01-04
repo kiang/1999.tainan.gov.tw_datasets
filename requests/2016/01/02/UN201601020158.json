@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601020158",
     "requested_datetime": "2016-01-02 15:17:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "官田區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "官田區南廍里1-5號附近 排放廢氣",
     "address_string": "官田區南廍里1-5號附近",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-04 15:00:02",
     "expected_datetime": "2016-01-09 15:17:00"
 }
