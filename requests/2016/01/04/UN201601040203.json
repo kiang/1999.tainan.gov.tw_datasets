@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區小東路289號-331號 違停",
     "address_string": "北區小東路289號-331號",
-    "lat": {},
-    "long": {},
+    "lat": "24.1681117",
+    "long": "120.7155951",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-01-11 06:46:00"
