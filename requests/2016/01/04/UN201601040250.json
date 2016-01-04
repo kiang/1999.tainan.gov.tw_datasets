@@ -7,10 +7,10 @@
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "違規停車",
+    "description": "東區長榮路一段與府東街交叉口（長榮汽車美容館）前人行道 違規停車",
     "address_string": "台南市東區長榮路一段與府東街交叉口（長榮汽車美容館）前人行道",
-    "lat": {},
-    "long": {},
+    "lat": "22.98133",
+    "long": "120.2224227",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-01-04 09:46:00"
