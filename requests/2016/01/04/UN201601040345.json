@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601040345",
+    "requested_datetime": "2016-01-04 12:27:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "南區新興路392號前面雙黃線上 坑洞",
+    "address_string": "南區新興路392號前面雙黃線上",
+    "lat": "24.1048351",
+    "long": "120.6226753",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-11 12:27:00"
+}
