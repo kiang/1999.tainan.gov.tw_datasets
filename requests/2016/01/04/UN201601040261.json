@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601040261",
     "requested_datetime": "2016-01-04 10:02:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "東區崇德十六街2號之3(大聯盟補習班) 妨礙安寧",
     "address_string": "東區崇德十六街2號之3(大聯盟美語補習班)",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-04 17:01:37",
     "expected_datetime": "2016-01-11 10:02:00"
 }
