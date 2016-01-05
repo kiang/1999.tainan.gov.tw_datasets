@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601040388",
     "requested_datetime": "2016-01-04 14:10:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "安南區安明路四段往市區方向台江大道五段 號誌故障",
     "address_string": "安南區安明路四段往市區方向台江大道五段",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-05 13:27:07",
     "expected_datetime": "2016-01-11 14:10:00"
 }
