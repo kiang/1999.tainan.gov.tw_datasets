@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601050185",
+    "requested_datetime": "2016-01-05 13:58:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中正南路242巷和中正南路242巷4弄街口 違規停車",
+    "address_string": "中正南路242巷4弄街口",
+    "lat": "24.8606623",
+    "long": "121.019756",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-05 13:58:00"
+}
