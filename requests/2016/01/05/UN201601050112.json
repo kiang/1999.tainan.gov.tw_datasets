@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區西華南街60號到民族路口 違規停車",
     "address_string": "西華南街60號到民族路口",
-    "lat": {},
-    "long": {},
+    "lat": "23.5700608",
+    "long": "120.2997047",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-01-05 10:46:00"
