@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201601040493",
     "requested_datetime": "2016-01-04 18:13:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "路燈故障",
@@ -12,6 +12,6 @@
     "lat": "23.1972174",
     "long": "120.2994211",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-05 08:30:03",
     "expected_datetime": "2016-01-11 18:13:00"
 }
