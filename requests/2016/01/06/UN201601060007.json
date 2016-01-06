@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601060007",
     "requested_datetime": "2016-01-06 07:46:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新化區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心,臺南市政府警察局新化分局",
     "subproject": "違規停車",
     "description": "新化區正新路97號 違規停車",
     "address_string": "712台灣台南市新化區正新路97號",
     "lat": "23.032783525092228",
     "long": "120.30308112502098",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-06 11:04:48",
     "expected_datetime": "2016-01-06 07:46:00"
 }
