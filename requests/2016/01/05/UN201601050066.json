@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區公園路84號 違規停車",
     "address_string": "700台灣台南市北區公園路84號",
     "lat": "22.9963302",
     "long": "120.2061785",
     "service_notice": {},
-    "updated_datetime": "2016-01-06 21:40:06",
+    "updated_datetime": "2016-01-07 14:16:34",
     "expected_datetime": "2016-01-05 09:25:00"
 }
