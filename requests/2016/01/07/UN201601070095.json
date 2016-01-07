@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601070095",
+    "requested_datetime": "2016-01-07 11:15:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "民生管線",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "中西區永福路二段110號右前方的快車道 孔蓋鬆動",
+    "address_string": "中西區永福路二段110號右前方的快車道",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-14 11:15:00"
+}
