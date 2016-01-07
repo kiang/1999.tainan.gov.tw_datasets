@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601070024",
     "requested_datetime": "2016-01-07 08:09:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區小東路279號機車店 違停",
     "address_string": "北區小東路279號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-07 13:03:47",
     "expected_datetime": "2016-01-14 08:09:00"
 }
