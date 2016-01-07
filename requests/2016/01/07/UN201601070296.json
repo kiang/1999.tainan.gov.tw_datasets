@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601070296",
+    "requested_datetime": "2016-01-07 20:10:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區怡東路58巷和東興路交叉路口轉彎處紅線 違規停車",
+    "address_string": "東區怡東路58巷和東興路交叉路口轉彎處紅線",
+    "lat": "22.9916876",
+    "long": "120.2288634",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-07 20:10:00"
+}
