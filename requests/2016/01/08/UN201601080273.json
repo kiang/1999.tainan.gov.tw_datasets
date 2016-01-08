@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601080273",
+    "requested_datetime": "2016-01-08 16:53:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區大武街597巷南康橋上 違規停車",
+    "address_string": "北區大武街597巷南康橋上",
+    "lat": "23.01839854463838",
+    "long": "120.22164791822433",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-08 16:53:00"
+}
