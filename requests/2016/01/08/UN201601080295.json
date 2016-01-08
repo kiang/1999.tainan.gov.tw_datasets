@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601080295",
     "requested_datetime": "2016-01-08 17:38:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區榮譽街84巷55號 違規停車",
     "address_string": "台南市東區榮譽接街84巷55號",
     "lat": "22.912057",
     "long": "120.2714917",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-09 05:24:58",
     "expected_datetime": "2016-01-08 17:38:00"
 }
