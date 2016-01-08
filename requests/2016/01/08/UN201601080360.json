@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "南區鯤鯓路145號、127號、137巷口   路燈不亮",
     "address_string": "南區鯤鯓路145號、127號、137巷口",
-    "lat": {},
-    "long": {},
+    "lat": "22.9602894",
+    "long": "120.1701153",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-01-15 20:33:00"
