@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201601080174",
-    "requested_datetime": "2016-01-08 13:38:00",
-    "status": "已完工",
+    "service_request_id": "UN201601080254",
+    "requested_datetime": "2016-01-08 16:29:00",
+    "status": "未處理",
     "keyword": {},
     "area": "南區",
     "service_name": "交通運輸",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "台南市政府",
     "subproject": "佔用道路",
     "description": "南區文南路286號 佔用道路",
     "address_string": "南區文南路286號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": "2016-01-08 16:45:13",
-    "expected_datetime": "2016-01-15 13:38:00"
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-15 16:29:00"
 }
