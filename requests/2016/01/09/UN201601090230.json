@@ -1,7 +1,7 @@
 {
-    "service_request_id": "UN201601090140",
-    "requested_datetime": "2016-01-09 12:59:00",
-    "status": "已完工",
+    "service_request_id": "UN201601090230",
+    "requested_datetime": "2016-01-09 17:55:00",
+    "status": {},
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "中西區西華南街65號前面及對面 違規停車",
     "address_string": "中西區西華南街65號前面及對面",
-    "lat": "22.994625821802394",
-    "long": "120.20959038287401",
+    "lat": "22.994691252531265",
+    "long": "120.20962793380022",
     "service_notice": {},
-    "updated_datetime": "2016-01-09 18:04:26",
-    "expected_datetime": "2016-01-09 12:59:00"
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-09 17:55:00"
 }
