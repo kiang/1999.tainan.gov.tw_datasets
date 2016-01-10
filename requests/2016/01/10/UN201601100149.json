@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201601100149",
     "requested_datetime": "2016-01-10 15:55:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
@@ -9,9 +9,9 @@
     "subproject": "妨礙安寧",
     "description": "北區長榮路五段上鐵軌附近 廟會妨礙安寧",
     "address_string": "北區長榮路五段上鐵軌附近",
-    "lat": {},
-    "long": {},
+    "lat": "23.0128505",
+    "long": "120.2166802",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-10 16:32:05",
     "expected_datetime": "2016-01-17 15:55:00"
 }

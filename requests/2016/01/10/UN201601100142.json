@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201601100142",
     "requested_datetime": "2016-01-10 15:25:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "北區長榮路\/勝利路口人行道 違規停車",
     "address_string": "長榮路\/勝利路口人行道",
-    "lat": {},
-    "long": {},
+    "lat": "23.0128246",
+    "long": "120.2169737",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-10 16:35:26",
     "expected_datetime": "2016-01-10 15:25:00"
 }
