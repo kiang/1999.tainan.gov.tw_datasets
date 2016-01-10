@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601100171",
+    "requested_datetime": "2016-01-10 16:59:00",
+    "status": {},
+    "keyword": {},
+    "area": "南 區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "南區健康路一段133巷17號 妨礙安寧",
+    "address_string": "702台灣台南市南區健康路一段133巷17號",
+    "lat": "22.98069113199628",
+    "long": "120.20895335823299",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-10 16:59:00"
+}
