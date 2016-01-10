@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601100070",
+    "requested_datetime": "2016-01-10 11:26:00",
+    "status": {},
+    "keyword": {},
+    "area": "東 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區東興路83號對面 違規停車",
+    "address_string": "東興路83號對面",
+    "lat": "22.991899616128425",
+    "long": "120.22882383316755",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-10 11:26:00"
+}
