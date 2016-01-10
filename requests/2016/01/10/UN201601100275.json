@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601100275",
+    "requested_datetime": "2016-01-10 23:28:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "安平區育平二街17巷3弄1號 妨礙安寧",
+    "address_string": "台南市安平區育平二街17巷3弄1號",
+    "lat": "22.9859963",
+    "long": "120.1855788",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-10 23:28:00"
+}
