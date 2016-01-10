@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區西門路1段725 違規停車",
     "address_string": "台南市中西區西門路1段725",
-    "lat": {},
-    "long": {},
+    "lat": "22.9889328",
+    "long": "120.1972788",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-01-10 22:13:00"
