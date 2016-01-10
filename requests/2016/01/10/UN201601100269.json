@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601100269",
+    "requested_datetime": "2016-01-10 22:40:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府都市發展局,臺南市政府經濟發展局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區大興街246巷\/280巷34弄口 違停",
+    "address_string": "北區大興街246巷\/280巷34弄口",
+    "lat": "23.012504",
+    "long": "120.193923",
+    "service_notice": {},
+    "updated_datetime": "2016-01-11 00:43:50",
+    "expected_datetime": "2016-01-17 22:40:00"
+}
