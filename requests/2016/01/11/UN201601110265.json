@@ -7,11 +7,11 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "東區裕文路66旁邊裕文國中側門",
+    "description": "東區裕文路66旁邊裕文國中側門 違規停車",
     "address_string": "東區裕文路66旁邊裕文國中側門",
     "lat": "22.9823219",
     "long": "120.2476145",
     "service_notice": {},
-    "updated_datetime": "2016-01-11 18:46:43",
+    "updated_datetime": "2016-01-11 18:46:00",
     "expected_datetime": "2016-01-18 16:49:00"
 }

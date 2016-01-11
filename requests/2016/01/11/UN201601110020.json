@@ -6,12 +6,12 @@
     "area": "大內區",
     "service_name": "交通運輸",
     "agency": "臺南市政府交通局",
-    "subproject": "號誌故障",
-    "description": "大內區國道3號下大內",
+    "subproject": {},
+    "description": "大內區國道3號下大內 號誌故障",
     "address_string": "大內區國道3號下大內",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": "2016-01-11 16:22:52",
+    "updated_datetime": "2016-01-11 16:22:00",
     "expected_datetime": "2016-01-18 07:00:00"
 }
