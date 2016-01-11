@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601110191",
+    "requested_datetime": "2016-01-11 13:48:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區 安南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "北區北安路一段162之10號 安南區府安路六段62巷口 安南區長和路\"啟智學校前\"左手邊 路面坑洞",
+    "address_string": "北區北安路一段162之10號 安南區府安路六段62巷口 安南區長和路\"啟智學校前\"左手邊",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-18 13:48:00"
+}
