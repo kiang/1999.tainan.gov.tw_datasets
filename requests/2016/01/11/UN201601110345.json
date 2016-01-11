@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601110345",
+    "requested_datetime": "2016-01-11 21:51:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區智南街\/永南二街口 違規停車",
+    "address_string": "702台灣台南市南區智南街",
+    "lat": "22.983084696744701",
+    "long": "120.18676393729561",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-11 21:51:00"
+}
