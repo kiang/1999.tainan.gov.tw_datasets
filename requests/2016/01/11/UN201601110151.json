@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601110151",
     "requested_datetime": "2016-01-11 12:12:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東 區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第一分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區崇德路崇德十六街49號   違規停車",
     "address_string": "701台灣台南市東區崇德路崇德十六街49號",
     "lat": "22.9756446338969",
     "long": "120.22536411881447",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-11 16:36:18",
     "expected_datetime": "2016-01-11 12:12:00"
 }
