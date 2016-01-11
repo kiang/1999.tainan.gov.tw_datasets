@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601110318",
+    "requested_datetime": "2016-01-11 19:55:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區府前路二段靠近建平路口 違規停車",
+    "address_string": "708台灣台南市安平區府前路二段靠近建平路口",
+    "lat": "22.993322138783302",
+    "long": "120.18350321799515",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-11 19:55:00"
+}
