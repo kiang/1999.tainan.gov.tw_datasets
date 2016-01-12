@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601120231",
     "requested_datetime": "2016-01-12 16:32:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北 區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區北門路二段560號大道新城公車站牌周邊 違規停車",
     "address_string": "北區北門路二段560號大道新城公車站牌周邊",
     "lat": "23.01036933091463",
     "long": "120.21619230508806",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-12 17:27:07",
     "expected_datetime": "2016-01-12 16:32:00"
 }
