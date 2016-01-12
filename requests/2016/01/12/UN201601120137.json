@@ -7,10 +7,10 @@
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "違規停車",
+    "description": "中西區公園路86號 違規停車",
     "address_string": "700台灣台南市中西區公園路86號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9963957",
+    "long": "120.206228",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-01-12 11:53:00"
