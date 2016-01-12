@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601120240",
+    "requested_datetime": "2016-01-12 16:52:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "北區長榮路五段300號周邊",
+    "lat": "23.012859089417503",
+    "long": "120.21694064140318",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-12 16:52:00"
+}
