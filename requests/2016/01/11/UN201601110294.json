@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601110294",
     "requested_datetime": "2016-01-11 18:26:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "10盞以上路燈故障",
     "description": "安南區長和路二段36號(仁愛之家) 路燈",
     "address_string": "安南區長和路二段36號(仁愛之家)",
     "lat": "23.0664343",
     "long": "120.2225572",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-12 09:59:42",
     "expected_datetime": "2016-01-18 18:26:00"
 }
