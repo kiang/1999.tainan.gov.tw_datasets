@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601130079",
     "requested_datetime": "2016-01-13 09:48:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心,臺南市政府警察局新營分局",
     "subproject": "違規停車",
     "description": "新營區中山路20號 違規停車",
     "address_string": "730台灣台南市新營區中山路20號",
     "lat": "23.306954754749665",
     "long": "120.32246008515358",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-14 00:06:14",
     "expected_datetime": "2016-01-13 09:48:00"
 }
