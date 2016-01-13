@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區萬昌街(衛民街口^青年路口)+興華街(北門路口^青年路口) 違規停車",
     "address_string": "萬昌街+興華街＊＊＊",
-    "lat": {},
-    "long": {},
+    "lat": "22.9920383",
+    "long": "120.2104726",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-01-13 16:00:00"
