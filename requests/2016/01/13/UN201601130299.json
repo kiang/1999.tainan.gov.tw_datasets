@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區中華路522號 違停",
     "address_string": "永康區中華路522號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0124826",
+    "long": "120.2316018",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-01-20 18:10:00"
