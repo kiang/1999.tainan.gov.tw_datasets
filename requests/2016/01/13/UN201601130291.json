@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601130291",
+    "requested_datetime": "2016-01-13 17:53:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區南台街54巷靠近南台科大側門 違規停車",
+    "address_string": "南台街54巷",
+    "lat": "23.0239715",
+    "long": "120.2224494",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-13 17:53:00"
+}

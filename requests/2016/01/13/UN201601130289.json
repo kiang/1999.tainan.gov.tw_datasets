@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "麻豆區興國路36之5號 違停",
     "address_string": "麻豆區興國路36之5號",
-    "lat": {},
-    "long": {},
+    "lat": "23.181117",
+    "long": "120.2476976",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-01-20 17:52:00"
