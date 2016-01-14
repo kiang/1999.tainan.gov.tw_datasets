@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601140253",
+    "requested_datetime": "2016-01-14 17:18:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "北區海安路三段與海安路三段781巷交叉口民生管線",
+    "address_string": "704台灣台南市北區海安路三段與海安路三段781巷交叉口",
+    "lat": "23.013417643207156",
+    "long": "120.20007457584143",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-14 17:18:00"
+}
