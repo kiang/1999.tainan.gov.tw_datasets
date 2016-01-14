@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601140060",
     "requested_datetime": "2016-01-14 09:47:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區長榮路二段24巷150號 違停",
     "address_string": "東區長榮路二段24巷150號",
     "lat": "22.9867151",
     "long": "120.220729",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-14 16:51:50",
     "expected_datetime": "2016-01-21 09:47:00"
 }

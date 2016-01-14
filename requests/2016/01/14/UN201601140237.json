@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601140237",
+    "requested_datetime": "2016-01-14 16:32:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區正南三路151號.121號周邊 違規停車",
+    "address_string": "永康區正南三路151號.121號周邊",
+    "lat": "23.03021699594287",
+    "long": "120.23549985140562",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-14 16:32:00"
+}
