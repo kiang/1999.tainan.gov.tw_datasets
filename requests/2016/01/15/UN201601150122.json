@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601150122",
+    "requested_datetime": "2016-01-15 12:02:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "楠西區",
+    "service_name": "民生管線",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "楠西區中正路88號  楠西區農會旁  路面漏水",
+    "address_string": "楠西區中正路88號  楠西區農會旁",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-22 12:02:00"
+}
