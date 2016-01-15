@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601140013",
     "requested_datetime": "2016-01-14 06:44:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "東區東門路三段和富農街一段十字路口 號誌故障",
     "address_string": "701台灣台南市東區東門路三段和富農街一段十字路口",
     "lat": "22.9797377",
     "long": "120.2471518",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-15 11:28:05",
     "expected_datetime": "2016-01-14 06:44:00"
 }
