@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601140226",
     "requested_datetime": "2016-01-14 16:08:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "路面下陷、凹陷",
     "description": "永康區中正南路501號(跟家樂福前面路口) 路面下陷",
     "address_string": "永康區中正南路501號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-15 08:49:58",
     "expected_datetime": "2016-01-21 16:08:00"
 }
