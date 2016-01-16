@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601160096",
+    "requested_datetime": "2016-01-16 11:39:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "東區東門路跟中華東路口往夢時代方向 交通疏導",
+    "address_string": "東區東門路跟中華東路口往夢時代方向",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-23 11:39:00"
+}
