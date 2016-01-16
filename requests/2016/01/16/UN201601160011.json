@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601160011",
     "requested_datetime": "2016-01-16 06:57:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東 區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "東區長榮路二段32巷142號^144號 噪音舉發",
     "address_string": "長榮路二段32巷142號^144號",
     "lat": "22.987543066569085",
     "long": "120.22155437618493",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-16 15:58:05",
     "expected_datetime": "2016-01-16 06:57:00"
 }
