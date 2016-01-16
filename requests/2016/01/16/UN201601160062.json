@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601160062",
+    "requested_datetime": "2016-01-16 10:32:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區大武街152號周邊 違規停車",
+    "address_string": "北區大武街152號周邊",
+    "lat": "23.014037604346115",
+    "long": "120.21596297621728",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-16 10:32:00"
+}
