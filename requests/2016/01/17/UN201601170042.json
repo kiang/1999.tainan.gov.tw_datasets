@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601170042",
+    "requested_datetime": "2016-01-17 09:05:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨礙安寧",
+    "description": "北區開元路485巷 .開元路*林森路鞭炮 廟會鞭炮",
+    "address_string": "北區開元路485巷 .開元路*林森路鞭炮",
+    "lat": "23.0105672",
+    "long": "120.2244792",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-24 09:05:00"
+}
