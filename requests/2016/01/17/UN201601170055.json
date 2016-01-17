@@ -7,11 +7,11 @@
     "service_name": "交通運輸",
     "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
-    "description": "北區開元路\/北園街\/南園街一帶 交通運輸 廟會",
+    "description": "北區開元路\/北園街\/南園街一帶 廟會佔用道路",
     "address_string": "台南市北區開元路\/北園街\/南園街一帶",
     "lat": "23.0091899",
     "long": "120.2233594",
     "service_notice": {},
-    "updated_datetime": "2016-01-17 14:07:45",
+    "updated_datetime": "2016-01-17 14:07:00",
     "expected_datetime": "2016-01-17 09:57:00"
 }
