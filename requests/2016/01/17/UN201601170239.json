@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601170239",
     "requested_datetime": "2016-01-17 21:14:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "北區長榮路\/勝利路口 妨礙安寧",
     "address_string": "北區長榮路\/勝利路口",
     "lat": "22.9878102",
     "long": "120.2175148",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-18 01:38:31",
     "expected_datetime": "2016-01-24 21:14:00"
 }

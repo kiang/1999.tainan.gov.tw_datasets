@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601170238",
     "requested_datetime": "2016-01-17 21:12:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "北區開元路90巷129號 廟會佔用道路",
     "address_string": "704台灣台南市北區開元路90巷129號",
     "lat": "23.0048491",
     "long": "120.2178372",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-18 01:33:22",
     "expected_datetime": "2016-01-17 21:12:00"
 }
