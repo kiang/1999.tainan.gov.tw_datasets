@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601180059",
+    "requested_datetime": "2016-01-18 09:48:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "北區忠孝路203巷42弄8號 佔用道路",
+    "address_string": "北區忠孝路203巷42弄8號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-01-18 12:52:13",
+    "expected_datetime": "2016-01-25 09:48:00"
+}
