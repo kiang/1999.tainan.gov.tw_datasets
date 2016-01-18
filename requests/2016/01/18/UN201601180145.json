@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601180145",
+    "requested_datetime": "2016-01-18 13:00:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "寬頻管線、孔蓋損壞",
+    "description": "東區崇德路833號對面車道 北往南    寬頻孔蓋孔蓋鬆動",
+    "address_string": "東區崇德路833號對面車道 北往南",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-25 13:00:00"
+}
