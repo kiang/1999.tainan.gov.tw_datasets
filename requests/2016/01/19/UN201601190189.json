@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601190189",
+    "requested_datetime": "2016-01-19 15:36:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區開元路291號旁邊電箱 佔用道路",
+    "address_string": "北區開元路291號",
+    "lat": "23.0080228",
+    "long": "120.2211691",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-26 15:36:00"
+}
