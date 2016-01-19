@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601190251",
+    "requested_datetime": "2016-01-19 18:11:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "南區中華南路二段315巷12弄2號 自來水",
+    "address_string": "南區中華南路二段315巷12弄2號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-26 18:11:00"
+}
