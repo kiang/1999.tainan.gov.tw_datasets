@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601190082",
+    "requested_datetime": "2016-01-19 11:09:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "連興服裝行、阿忠菜粽(南區金華路二段15巷1號) 違停",
+    "address_string": "連興服裝行、阿忠菜粽(南區金華路二段15巷1號)",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-26 11:09:00"
+}
