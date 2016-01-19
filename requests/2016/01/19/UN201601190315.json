@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區北園街47巷內 違停",
     "address_string": "北區北園街47巷內",
-    "lat": {},
-    "long": {},
+    "lat": "24.9863317",
+    "long": "121.2425007",
     "service_notice": {},
     "updated_datetime": "2016-01-20 00:54:37",
     "expected_datetime": "2016-01-26 22:41:00"

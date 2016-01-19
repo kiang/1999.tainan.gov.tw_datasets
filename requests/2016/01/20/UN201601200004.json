@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201601200004",
     "requested_datetime": "2016-01-20 00:40:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "安南區安和路五段171巷92弄10號之3 違停",
     "address_string": "安南區安和路五段171巷92弄10號之3",
-    "lat": {},
-    "long": {},
+    "lat": "23.0661005",
+    "long": "120.2155702",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-20 03:19:28",
     "expected_datetime": "2016-01-27 00:40:00"
 }
