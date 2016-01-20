@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區安中路一段622巷181號 路燈不亮",
     "address_string": "安南區安中路一段622巷181號",
-    "lat": {},
-    "long": {},
+    "lat": "23.035788",
+    "long": "120.207681",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-01-27 20:25:00"
