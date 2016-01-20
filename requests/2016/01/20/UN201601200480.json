@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區建東街45號 違停",
     "address_string": "東區建東街45號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9904136",
+    "long": "120.2366742",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-01-27 19:06:00"
