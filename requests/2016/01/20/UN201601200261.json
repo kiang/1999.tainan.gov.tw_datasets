@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601200261",
     "requested_datetime": "2016-01-20 14:54:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "市區道路路面油漬",
     "description": "新市往牛頭牌大營里豐榮160號 路面油漬",
     "address_string": "新市往牛頭牌大營里豐榮160號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-20 17:39:06",
     "expected_datetime": "2016-01-27 14:54:00"
 }
