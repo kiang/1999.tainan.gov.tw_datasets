@@ -7,11 +7,11 @@
     "service_name": "交通運輸",
     "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
-    "description": "北區文賢路好市多　誌燈故障",
+    "description": "北區文賢路好市多　號誌故障",
     "address_string": "台南市北區文賢路好市多",
     "lat": "23.0117004",
     "long": "120.1938507",
     "service_notice": {},
-    "updated_datetime": "2016-01-20 13:24:04",
+    "updated_datetime": "2016-01-20 13:24:00",
     "expected_datetime": "2016-01-20 10:11:00"
 }
