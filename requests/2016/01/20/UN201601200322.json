@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601200322",
     "requested_datetime": "2016-01-20 15:51:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區仁愛街2號 違規停車",
     "address_string": "700，臺南市中西區仁愛街2號",
     "lat": "22.9951277",
     "long": "120.1975655",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-20 19:07:04",
     "expected_datetime": "2016-01-20 15:51:00"
 }
