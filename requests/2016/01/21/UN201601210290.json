@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601210290",
     "requested_datetime": "2016-01-21 18:31:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區開元路上從京城銀行至安安婦產科 違停",
     "address_string": "北區開元路上從京城銀行至安安婦產科",
     "lat": "23.0076695",
     "long": "120.2208365",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-22 00:17:29",
     "expected_datetime": "2016-01-28 18:31:00"
 }
