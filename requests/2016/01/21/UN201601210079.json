@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601210079",
     "requested_datetime": "2016-01-21 10:39:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面下陷、凹陷",
     "description": "南區金華路一段214號前 柏油路凹陷",
     "address_string": "金華路一段214號前",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-21 16:56:07",
     "expected_datetime": "2016-01-28 10:39:00"
 }
