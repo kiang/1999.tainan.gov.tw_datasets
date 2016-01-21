@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201601210359",
-    "requested_datetime": "2016-01-21 20:55:00",
+    "service_request_id": "UN201601210368",
+    "requested_datetime": "2016-01-21 21:21:00",
     "status": {},
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "西華南街  違規停車",
-    "address_string": "西華南街",
+    "description": "西華南街2-66號  違規停車",
+    "address_string": "西華南街2-66號",
     "lat": {},
     "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-01-21 20:55:00"
+    "expected_datetime": "2016-01-21 21:21:00"
 }
