@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601210081",
     "requested_datetime": "2016-01-21 10:43:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "佳里區仁愛國小(仁愛路307號) 動物屍體",
     "address_string": "佳里區仁愛國小(仁愛路307號)",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-21 14:53:12",
     "expected_datetime": "2016-01-28 10:43:00"
 }
