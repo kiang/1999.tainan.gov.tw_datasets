@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201601200562",
     "requested_datetime": "2016-01-20 23:51:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "官田區",
     "service_name": "噪音舉發",
@@ -12,6 +12,6 @@
     "lat": "23.167207",
     "long": "120.3464333",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-21 07:36:36",
     "expected_datetime": "2016-01-27 23:51:00"
 }
