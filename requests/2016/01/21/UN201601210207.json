@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601210207",
     "requested_datetime": "2016-01-21 15:12:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "妨礙安寧",
     "description": "新營區民族路74號對面的碳烤店 噪音汙染",
     "address_string": "新營區民族路74號對面的碳烤店",
     "lat": "23.3114963",
     "long": "120.3184839",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-22 11:46:59",
     "expected_datetime": "2016-01-28 15:12:00"
 }
