@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601210034",
     "requested_datetime": "2016-01-21 08:45:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
     "description": "安南區開安三街(小雅檳榔攤) 動物救援",
     "address_string": "安南區開安三街(小雅檳榔攤)",
     "lat": "23.0471618",
     "long": "120.2269913",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-22 09:41:05",
     "expected_datetime": "2016-01-28 08:45:00"
 }
