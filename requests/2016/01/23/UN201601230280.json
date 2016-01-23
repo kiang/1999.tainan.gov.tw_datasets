@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601230280",
+    "requested_datetime": "2016-01-23 20:38:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨礙安寧",
+    "description": "東區崇明路269 號(匯豐銀行) 妨礙安寧",
+    "address_string": "東區崇明路269 號(匯豐銀行)",
+    "lat": "22.9764912",
+    "long": "120.2211883",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-30 20:38:00"
+}

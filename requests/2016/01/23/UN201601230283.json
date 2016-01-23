@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601230283",
+    "requested_datetime": "2016-01-23 20:44:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區文南路上的(文南2街路口及文南3街路口及金華路2段385巷路口)違規停車",
+    "address_string": "文南路上的(文南2街路口及文南3街路口及金華路2段385巷路口)",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-23 20:44:00"
+}
