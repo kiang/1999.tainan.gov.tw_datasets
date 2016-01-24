@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601240280",
     "requested_datetime": "2016-01-24 21:12:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區永福路一段95號對面違規停車",
     "address_string": "700台灣台南市中西區永福路一段95號對面",
     "lat": "22.983933335806842",
     "long": "120.20006116479637",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-25 06:47:10",
     "expected_datetime": "2016-01-24 21:12:00"
 }
