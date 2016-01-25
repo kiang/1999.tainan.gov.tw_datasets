@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區大武街和永康區正新街交叉口 違停",
     "address_string": "北區大武街和永康區正新街交叉口",
-    "lat": {},
-    "long": {},
+    "lat": "23.0200098",
+    "long": "120.2225547",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-02-01 17:39:00"

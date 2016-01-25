@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601250220",
     "requested_datetime": "2016-01-25 16:31:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區公園路*民權路口 違停",
     "address_string": "中西區公園路*民權路口",
-    "lat": {},
-    "long": {},
+    "lat": "22.9942663",
+    "long": "120.205344",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-25 18:26:12",
     "expected_datetime": "2016-02-01 16:31:00"
 }
