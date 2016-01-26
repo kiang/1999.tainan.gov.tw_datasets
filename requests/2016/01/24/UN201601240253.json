@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601240253",
     "requested_datetime": "2016-01-24 18:42:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市永康區公所",
     "subproject": "路樹傾倒",
     "description": "永康區東橋三路496號 路樹倒塌",
     "address_string": "永康區東橋三路496號",
     "lat": "23.0244198",
     "long": "120.2322015",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-26 08:09:23",
     "expected_datetime": "2016-01-31 18:42:00"
 }
