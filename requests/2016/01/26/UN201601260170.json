@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區東安路４３號前　違停",
     "address_string": "東區東安路４３號前",
-    "lat": {},
-    "long": {},
+    "lat": "22.9973871",
+    "long": "120.2272425",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-02-02 12:52:00"
