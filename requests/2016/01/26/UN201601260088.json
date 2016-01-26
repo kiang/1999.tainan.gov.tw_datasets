@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601260088",
     "requested_datetime": "2016-01-26 10:27:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第一分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區莊敬路100號 違規停車",
     "address_string": "701台灣台南市東區莊敬路100號",
     "lat": "22.9949763",
     "long": "120.2328368",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-26 13:59:08",
     "expected_datetime": "2016-01-26 10:27:00"
 }
