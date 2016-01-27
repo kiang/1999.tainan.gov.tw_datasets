@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區林森路三段187號 違規停車",
     "address_string": "林森路三段187號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0070152",
+    "long": "120.2241254",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-01-27 09:56:00"

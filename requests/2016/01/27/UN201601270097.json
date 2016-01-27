@@ -7,10 +7,10 @@
     "service_name": "交通運輸",
     "agency": "台南市政府",
     "subproject": "佔用道路",
-    "description": "中西區府前路跟永福路轉角占用道路",
+    "description": "中西區府前路跟永福路轉角佔用道路",
     "address_string": "中西區府前路跟永福路轉角",
-    "lat": {},
-    "long": {},
+    "lat": "22.989087",
+    "long": "120.2045916",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-02-03 10:51:00"
