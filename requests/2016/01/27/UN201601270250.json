@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601270250",
+    "requested_datetime": "2016-01-27 16:16:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "北區大興街246巷121號 噪音",
+    "address_string": "北區大興街246巷121號",
+    "lat": "23.0124133",
+    "long": "120.1860273",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-03 16:16:00"
+}
