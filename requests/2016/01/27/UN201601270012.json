@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601270012",
+    "requested_datetime": "2016-01-27 06:58:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "新營區民治路228號  違規停車",
+    "address_string": "730台南市新營區民治路228號1樓",
+    "lat": "23.308101432884456",
+    "long": "120.30458584427832",
+    "service_notice": {},
+    "updated_datetime": "2016-01-27 07:33:32",
+    "expected_datetime": "2016-01-27 06:58:00"
+}
