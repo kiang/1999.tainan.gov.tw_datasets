@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601270288",
     "requested_datetime": "2016-01-27 18:03:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區府前路二段40巷口 違停",
     "address_string": "中西區府前路二段40巷口",
     "lat": "22.990799",
     "long": "120.1965431",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-27 21:37:48",
     "expected_datetime": "2016-02-03 18:03:00"
 }
