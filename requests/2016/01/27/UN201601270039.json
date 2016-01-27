@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601270039",
+    "requested_datetime": "2016-01-27 08:58:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區開南街211巷\/南園街127巷(寶仁國小附近)  違停",
+    "address_string": "北區開南街211巷\/南園街127巷(寶仁國小附近)",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-03 08:58:00"
+}
