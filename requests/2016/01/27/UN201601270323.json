@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區南工街178號 違停",
     "address_string": "永康區南工街178號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0123893",
+    "long": "120.2394122",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-02-03 19:23:00"

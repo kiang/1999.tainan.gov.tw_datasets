@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區西門 路\/文成路口 違停",
     "address_string": "北區西門路\/文成路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0121133",
+    "long": "120.2088016",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-02-03 19:10:00"
