@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601230222",
     "requested_datetime": "2016-01-23 18:05:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "10盞以上路燈故障",
     "description": "安南區長溪路一段407巷25-27號路燈故障",
     "address_string": "709台灣台南市安南區長溪路一段407巷25-27號",
     "lat": "23.0390383",
     "long": "120.2049722",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-27 09:52:24",
     "expected_datetime": "2016-01-23 18:05:00"
 }
