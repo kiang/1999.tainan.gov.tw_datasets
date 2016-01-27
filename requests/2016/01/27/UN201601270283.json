@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安平區安平路470號和474號前 違停",
     "address_string": "安平區安平路470號和474號前",
-    "lat": {},
-    "long": {},
+    "lat": "25.0884537",
+    "long": "121.5256454",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-02-03 17:44:00"

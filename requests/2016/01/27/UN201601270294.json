@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601270294",
+    "requested_datetime": "2016-01-27 18:10:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "騎樓舉發",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "東區怡東路20號  佔用道路",
+    "address_string": "東區怡東路20或22號",
+    "lat": "22.9907164",
+    "long": "120.2276405",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-03 18:10:00"
+}

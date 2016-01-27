@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601270063",
     "requested_datetime": "2016-01-27 09:56:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局第五分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區林森路三段187號 違規停車",
     "address_string": "林森路三段187號",
     "lat": "23.0070152",
     "long": "120.2241254",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-27 18:29:05",
     "expected_datetime": "2016-01-27 09:56:00"
 }
