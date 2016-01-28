@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601260199",
     "requested_datetime": "2016-01-26 14:00:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "人孔蓋聲響、凹陷、漏水",
     "description": "中西區永華路一段40號前  寬頻網路孔蓋鬆",
     "address_string": "中西區永華路一段40號前",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-28 12:03:11",
     "expected_datetime": "2016-02-02 14:00:00"
 }
