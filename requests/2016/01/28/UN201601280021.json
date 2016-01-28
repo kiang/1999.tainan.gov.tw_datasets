@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601280021",
     "requested_datetime": "2016-01-28 08:07:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南 區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局第六分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "南區健康路一段133巷與體育路21巷交叉口 違規停車",
     "address_string": "700台灣台南市南區健康路一段133巷與體育路21巷交叉口",
     "lat": "22.982702085355278",
     "long": "120.20395003259183",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-28 16:35:51",
     "expected_datetime": "2016-01-28 08:07:00"
 }
