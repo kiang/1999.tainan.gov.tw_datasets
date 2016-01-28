@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201601280008",
     "requested_datetime": "2016-01-28 01:39:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "動物救援",
@@ -12,6 +12,6 @@
     "lat": "23.035093",
     "long": "120.256327",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-28 20:05:34",
     "expected_datetime": "2016-02-04 01:39:00"
 }
