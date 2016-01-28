@@ -7,11 +7,11 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局第四分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "安平路428-1號左側前人行道上 規停車",
+    "description": "安平路428-1號左側前人行道上 違規停車",
     "address_string": "安平路428-1號左側前人行道上",
     "lat": "22.9980893",
     "long": "120.1738911",
     "service_notice": {},
-    "updated_datetime": "2016-01-28 16:37:43",
+    "updated_datetime": "2016-01-28 16:37:00",
     "expected_datetime": "2016-01-28 07:36:00"
 }
