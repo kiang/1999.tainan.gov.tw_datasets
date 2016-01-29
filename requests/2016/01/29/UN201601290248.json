@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601290248",
     "requested_datetime": "2016-01-29 16:48:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東 區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區東平路12巷口 違規停車",
     "address_string": "701台灣台南市東區東平路，東平路12巷口",
     "lat": "22.995766534118037",
     "long": "120.2338231354952",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-29 19:05:17",
     "expected_datetime": "2016-01-29 16:48:00"
 }
