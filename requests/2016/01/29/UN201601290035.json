@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "南區大同路二段732號 違規停車",
     "address_string": "702台灣台南市南區大同路二段732號",
     "lat": "22.9656398",
     "long": "120.2159935",
     "service_notice": {},
-    "updated_datetime": "2016-01-29 12:31:54",
+    "updated_datetime": "2016-01-29 12:31:00",
     "expected_datetime": "2016-01-29 08:19:00"
 }
