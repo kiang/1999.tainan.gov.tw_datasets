@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601270297",
     "requested_datetime": "2016-01-27 18:16:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "北區東豐路210號至勝利路上路燈故障",
     "address_string": "北區東豐路210號至勝利路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-29 09:06:46",
     "expected_datetime": "2016-02-03 18:16:00"
 }
