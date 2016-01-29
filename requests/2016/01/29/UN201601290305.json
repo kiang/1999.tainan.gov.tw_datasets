@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601290305",
+    "requested_datetime": "2016-01-29 19:23:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區育德路221巷\/育德一街交叉口 違規停車",
+    "address_string": "育德路221巷\/育德一街",
+    "lat": "23.0113196",
+    "long": "120.2049413",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-29 19:23:00"
+}
