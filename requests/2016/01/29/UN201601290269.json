@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601290269",
+    "requested_datetime": "2016-01-29 17:47:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "善化區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "善化區蓮潭北三街,街內整排汽車紅線和人行道 違停",
+    "address_string": "善化區蓮潭北三街,街內整排汽車紅線和人行道",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-05 17:47:00"
+}
