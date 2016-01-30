@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601290225",
     "requested_datetime": "2016-01-29 16:06:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "永康區大橋二街和大橋一街247巷口 號誌",
     "address_string": "永康區大橋二街和大橋一街247巷口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-30 09:44:43",
     "expected_datetime": "2016-02-05 16:06:00"
 }
