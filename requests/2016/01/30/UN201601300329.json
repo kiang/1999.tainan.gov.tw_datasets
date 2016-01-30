@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安平區育平路\/慶平路 路燈不亮",
     "address_string": "安平區育平路\/慶平路口",
-    "lat": {},
-    "long": {},
+    "lat": "22.9978938",
+    "long": "120.1674486",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-02-06 22:37:00"
