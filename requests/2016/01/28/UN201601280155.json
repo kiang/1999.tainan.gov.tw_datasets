@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601280155",
     "requested_datetime": "2016-01-28 13:16:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "其他汙染舉發",
     "description": "永康區正新街5號附近 噪音汙染",
     "address_string": "永康區正新街5號附近",
     "lat": "23.019157",
     "long": "120.223721",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-30 10:16:12",
     "expected_datetime": "2016-02-04 13:16:00"
 }
