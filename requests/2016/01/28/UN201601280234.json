@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601280234",
     "requested_datetime": "2016-01-28 16:13:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "永康區西勢路456-2號 空汙",
     "address_string": "710台灣台南市永康區西勢路456-2號",
     "lat": "23.020993647264355",
     "long": "120.27010604841905",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-30 11:21:26",
     "expected_datetime": "2016-01-28 16:13:00"
 }
