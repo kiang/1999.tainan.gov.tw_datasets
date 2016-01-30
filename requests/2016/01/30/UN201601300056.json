@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201601300056",
     "requested_datetime": "2016-01-30 09:46:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區南寧街144號對面 違規停車",
     "address_string": "南寧街144號對面(第二分局正對面)",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-01-30 15:45:26",
     "expected_datetime": "2016-01-30 09:46:00"
 }
