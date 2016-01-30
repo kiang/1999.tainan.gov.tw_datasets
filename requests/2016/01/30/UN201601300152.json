@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601300152",
+    "requested_datetime": "2016-01-30 13:29:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "北區勝利路138號 路面坑洞",
+    "address_string": "704台灣台南市北區勝利路138號",
+    "lat": "23.0021579",
+    "long": "120.2187378",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-01-30 13:29:00"
+}
