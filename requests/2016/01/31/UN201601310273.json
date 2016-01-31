@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201601310273",
+    "requested_datetime": "2016-01-31 23:44:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "玉井區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "場所連續噪音",
+    "description": "玉井區民族路金卡遊藝場噪音舉發",
+    "address_string": "714台灣台南市玉井區民族路金卡遊藝場",
+    "lat": "23.123787452503034",
+    "long": "120.46310674399139",
+    "service_notice": {},
+    "updated_datetime": "2016-02-01 00:48:15",
+    "expected_datetime": "2016-01-31 23:44:00"
+}
