@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安南區安富街２５１巷１２號 違停",
     "address_string": "安南區安富街２５１巷１２號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0260739",
+    "long": "120.1954336",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-02-07 18:29:00"
