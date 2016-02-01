@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602010072",
     "requested_datetime": "2016-02-01 09:45:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": {},
     "service_name": {},
-    "agency": "台南市政府",
+    "agency": "臺南市政府都市發展局",
     "subproject": {},
     "description": "中西區西和路71號) 空氣汙染",
     "address_string": {},
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-01 17:04:35",
     "expected_datetime": "2016-02-08 09:45:00"
 }
