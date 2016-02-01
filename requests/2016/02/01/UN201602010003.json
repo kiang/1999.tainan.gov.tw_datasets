@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602010003",
     "requested_datetime": "2016-02-01 00:31:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "安南區安昌街300巷 內 妨礙安寧",
     "address_string": "安南區安昌街300巷內",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-01 16:13:37",
     "expected_datetime": "2016-02-08 00:31:00"
 }
