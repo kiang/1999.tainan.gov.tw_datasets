@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區東門路一段6號車牌號碼ALU-1111 違停",
     "address_string": "東區東門路一段6號，車牌號碼ALU-1111",
-    "lat": {},
-    "long": {},
+    "lat": "22.9886248",
+    "long": "120.2119652",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-02-08 13:01:00"
