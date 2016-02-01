@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201601300329",
     "requested_datetime": "2016-01-30 22:37:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "路燈故障",
@@ -12,6 +12,6 @@
     "lat": "22.9978938",
     "long": "120.1674486",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-01 08:53:29",
     "expected_datetime": "2016-02-06 22:37:00"
 }
