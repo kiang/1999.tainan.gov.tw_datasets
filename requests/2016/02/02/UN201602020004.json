@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602020004",
+    "requested_datetime": "2016-02-02 01:08:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "中西區西門路二段333巷5號\/307巷34號\/永安市場對面圓環 佔用道路\/騎樓",
+    "address_string": "700台灣台南市中西區西門路二段333巷5號",
+    "lat": "22.99754301386686",
+    "long": "120.19917670637369",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-02 01:08:00"
+}
