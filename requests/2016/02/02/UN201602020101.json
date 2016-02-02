@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602020101",
+    "requested_datetime": "2016-02-02 10:45:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "六甲區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面下陷、凹陷",
+    "description": "六甲區中華路99巷10弄1-4號 路面凹陷",
+    "address_string": "六甲區中華路99巷10弄1-4號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-09 10:45:00"
+}
