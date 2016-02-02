@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602020121",
+    "requested_datetime": "2016-02-02 11:32:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "新化區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "自來水管 等待確認地址 編號",
+    "address_string": "新化區礁坑里5-3號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-09 11:32:00"
+}

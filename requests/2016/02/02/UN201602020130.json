@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區中華路10巷10號 違停",
     "address_string": "永康區中華路10巷10號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9998308",
+    "long": "120.2353824",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-02-09 11:57:00"
