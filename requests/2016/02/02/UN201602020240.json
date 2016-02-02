@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602020240",
     "requested_datetime": "2016-02-02 16:28:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "崇德路和崇德四街交叉路口轉彎處紅線 違規停車",
     "address_string": "崇德路和崇德四街交叉路口轉彎處紅線",
-    "lat": {},
-    "long": {},
+    "lat": "22.9762712",
+    "long": "120.2242411",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-02 18:50:28",
     "expected_datetime": "2016-02-02 16:28:00"
 }
