@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602030352",
+    "requested_datetime": "2016-02-03 19:58:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區德興路177巷的U字型巷口 違規停車",
+    "address_string": "南區德興路177巷的U字型巷口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-10 19:58:00"
+}
