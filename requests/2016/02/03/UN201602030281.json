@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "安南區安和路和長和路口 號誌",
     "address_string": "安南區安和路和長和路口",
-    "lat": {},
-    "long": {},
+    "lat": "23.0633374",
+    "long": "120.2186346",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-02-10 16:27:00"
