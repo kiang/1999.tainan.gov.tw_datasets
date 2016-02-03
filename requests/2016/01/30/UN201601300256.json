@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "新營區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局勤務指揮中心,臺南市政府警察局新營分局",
     "subproject": "違規停車",
     "description": "新營區三興街24號 違規停車",
     "address_string": "730台灣台南市新營區三興街24號",
     "lat": "23.3038882",
     "long": "120.3106997",
     "service_notice": {},
-    "updated_datetime": "2016-01-30 19:12:49",
+    "updated_datetime": "2016-02-03 14:10:47",
     "expected_datetime": "2016-01-30 17:52:00"
 }
