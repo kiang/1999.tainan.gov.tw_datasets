@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602030281",
     "requested_datetime": "2016-02-03 16:27:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "安南區安和路和長和路口 號誌",
     "address_string": "安南區安和路和長和路口",
     "lat": "23.0633374",
     "long": "120.2186346",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-04 08:26:19",
     "expected_datetime": "2016-02-10 16:27:00"
 }
