@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602030255",
     "requested_datetime": "2016-02-03 15:39:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
     "description": "永康區南工街6號前面 孔蓋",
     "address_string": "永康區南工街6號前面",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-04 15:46:41",
     "expected_datetime": "2016-02-10 15:39:00"
 }

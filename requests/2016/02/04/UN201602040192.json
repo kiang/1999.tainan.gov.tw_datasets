@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602040192",
+    "requested_datetime": "2016-02-04 14:17:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違停及騎樓佔用",
+    "address_string": "北區(1)北門路二段(2)和緯路三段(3)實踐街(4)大武街整段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-11 14:17:00"
+}
