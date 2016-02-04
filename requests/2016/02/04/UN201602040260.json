@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602040260",
+    "requested_datetime": "2016-02-04 15:58:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "南區金華路二段與福吉五街口 路面凸出",
+    "address_string": "南區金華路二段與福吉五街口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-11 15:58:00"
+}
