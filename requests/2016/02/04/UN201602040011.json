@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602040011",
     "requested_datetime": "2016-02-04 04:53:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "10盞以上路燈故障",
     "description": "安平區安平路至中華西路、慶平路、運河路 路燈不亮",
     "address_string": "安平區安平路至中華西路、慶平路、運河路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-04 11:15:41",
     "expected_datetime": "2016-02-11 04:53:00"
 }
