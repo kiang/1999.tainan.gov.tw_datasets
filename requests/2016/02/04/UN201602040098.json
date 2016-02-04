@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602040098",
     "requested_datetime": "2016-02-04 11:20:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "交通疏導",
     "description": "永康區小東路到大灣交流道涵洞 交通疏導",
     "address_string": "永康區小東路到大灣交流道涵洞",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-04 19:07:42",
     "expected_datetime": "2016-02-11 11:20:00"
 }
