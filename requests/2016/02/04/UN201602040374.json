@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602040374",
+    "requested_datetime": "2016-02-04 20:57:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "育德路199巷和育德二路190巷之間  坑洞",
+    "address_string": "育德一街",
+    "lat": "23.0150561",
+    "long": "120.2052315",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-04 20:57:00"
+}

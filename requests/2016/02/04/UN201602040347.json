@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602040347",
+    "requested_datetime": "2016-02-04 18:56:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區甲頂路36號-80號對面 違停 永康區甲頂路66號-70號 佔用道路",
+    "address_string": "永康區甲頂路36號-80號對面 永康區甲頂路66號-70號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-11 18:56:00"
+}
