@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602050149",
     "requested_datetime": "2016-02-05 12:37:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心,臺南市政府警察局歸仁分局",
     "subproject": "違規停車",
     "description": "歸仁區中山路一段522號 違規停車",
     "address_string": "711台灣台南市歸仁區中山路一段522號",
     "lat": "22.966362030110922",
     "long": "120.29721446335316",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-05 15:57:13",
     "expected_datetime": "2016-02-05 12:37:00"
 }
