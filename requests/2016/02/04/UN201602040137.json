@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602040137",
     "requested_datetime": "2016-02-04 12:18:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": {},
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "新營火車站對面往新營客運的行人觸控號誌故障",
     "address_string": "新營火車站對面往新營客運的行人觸控號誌故障",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-05 09:23:39",
     "expected_datetime": "2016-02-11 12:18:00"
 }
