@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602050150",
     "requested_datetime": "2016-02-05 12:40:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "北區開南街169號\"毛小孩的窩\"寵物美容",
     "address_string": "北區開南街169號\"毛小孩的窩\"寵物美容",
     "lat": "23.005272",
     "long": "120.22621",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-05 15:55:19",
     "expected_datetime": "2016-02-12 12:40:00"
 }
