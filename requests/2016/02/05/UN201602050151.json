@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新營區三民路135號前 違停",
     "address_string": "新營區三民路135號前",
-    "lat": {},
-    "long": {},
+    "lat": "23.3049474",
+    "long": "120.3082823",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-02-12 12:45:00"

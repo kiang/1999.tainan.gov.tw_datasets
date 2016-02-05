@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區東安路20號 違停",
     "address_string": "東區東安路20號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9911156",
+    "long": "120.2261225",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-02-12 12:19:00"
