@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602060770",
+    "requested_datetime": "2016-02-06 12:16:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "地震通報",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "南區鯤鯓路77號之2 地震 停電",
+    "address_string": "南區鯤鯓路77號之2",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-13 12:16:00"
+}
