@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602070059",
+    "requested_datetime": "2016-02-07 06:52:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "地震通報",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "永康區中華路\/中正南路口 加油站門口",
+    "address_string": "永康區中華路\/中正南路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-14 06:52:00"
+}
