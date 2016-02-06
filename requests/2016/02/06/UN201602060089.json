@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201602060062",
-    "requested_datetime": "2016-02-06 05:03:00",
+    "service_request_id": "UN201602060089",
+    "requested_datetime": "2016-02-06 05:30:00",
     "status": "未處理",
     "keyword": {},
-    "area": "安南區",
+    "area": "北區",
     "service_name": "地震通報",
     "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
-    "description": "安南區國安街73巷內 地震漏水",
-    "address_string": "安南區國安街73巷內",
+    "description": "地震 自來水管破裂",
+    "address_string": "北區臨安路二段143巷17號",
     "lat": {},
     "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-02-13 05:03:00"
+    "expected_datetime": "2016-02-13 05:30:00"
 }
