@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602060344",
+    "requested_datetime": "2016-02-06 08:30:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "佳里區",
+    "service_name": "地震通報",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "佳里區建南街79巷7號 地震停電",
+    "address_string": "佳里區建南街79巷7號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-13 08:30:00"
+}
