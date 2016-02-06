@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602060606",
     "requested_datetime": "2016-02-06 10:33:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南 區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "環境髒亂",
     "description": "南區尊南街239號 髒亂及汙染",
     "address_string": "702台灣台南市南區尊南街239號",
     "lat": "22.980391415586517",
     "long": "120.18908053636551",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-06 13:07:39",
     "expected_datetime": "2016-02-06 10:33:00"
 }
