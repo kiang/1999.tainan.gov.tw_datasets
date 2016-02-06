@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區中正路132號\/130號 違規停車",
     "address_string": "台南市中西區中正路132號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9926804",
+    "long": "120.1996094",
     "service_notice": {},
     "updated_datetime": "2016-02-06 22:23:13",
     "expected_datetime": "2016-02-06 19:56:00"
