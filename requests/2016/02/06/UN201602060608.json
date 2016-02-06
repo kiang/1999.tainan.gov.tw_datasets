@@ -9,8 +9,8 @@
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "水管破裂",
     "address_string": {},
-    "lat": {},
-    "long": {},
+    "lat": "22.6158015",
+    "long": "120.7120023",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-02-13 10:29:00"
