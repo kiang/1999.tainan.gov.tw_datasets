@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602060901",
+    "requested_datetime": "2016-02-06 13:56:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "永康區中山南路2-2號、2-4號、2-6號 佔用道路",
+    "address_string": "永康區中山南路2-2號、2-4號、2-6號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-13 13:56:00"
+}
