@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602070466",
+    "requested_datetime": "2016-02-07 15:15:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "大內區",
+    "service_name": "地震通報",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "大內區大內里1-63號 地震 漏水",
+    "address_string": "大內區大內里1-63號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-14 15:15:00"
+}

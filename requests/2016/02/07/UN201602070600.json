@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602070600",
+    "requested_datetime": "2016-02-07 17:53:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區北門路三段2號統一超商周圍\/北區長榮路五段266號郵局周邊   違規停車",
+    "address_string": "北區北門路三段2號統一超商周圍\/北區長榮路五段266號郵局周邊",
+    "lat": "23.012877913643653",
+    "long": "120.21701473742723",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-07 17:53:00"
+}

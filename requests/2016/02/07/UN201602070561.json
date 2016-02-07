@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602070561",
+    "requested_datetime": "2016-02-07 16:58:00",
+    "status": {},
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "安南區安通路四段119巷43號 漏水",
+    "address_string": "709台灣台南市安南區安通路四段119巷43號",
+    "lat": "23.0304522",
+    "long": "120.2071174",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-07 16:58:00"
+}
