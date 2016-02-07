@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201602070591",
-    "requested_datetime": "2016-02-07 17:38:00",
+    "service_request_id": "UN201602070596",
+    "requested_datetime": "2016-02-07 17:46:00",
     "status": "未處理",
     "keyword": {},
     "area": "關廟區",
     "service_name": "民生管線",
     "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
-    "description": "關廟區花園三街52巷18號後方 漏水",
-    "address_string": "關廟區花園三街52巷18號後方",
+    "description": "關廟區五甲里大富街117號 地震漏水",
+    "address_string": "關廟區五甲里大富街117號",
     "lat": {},
     "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-02-14 17:38:00"
+    "expected_datetime": "2016-02-14 17:46:00"
 }
