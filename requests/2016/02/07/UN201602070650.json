@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602070650",
+    "requested_datetime": "2016-02-07 19:28:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區公園路894號周邊 違規停車",
+    "address_string": "北區公園路894號周邊",
+    "lat": "23.014381991682054",
+    "long": "120.21278858184814",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-07 19:28:00"
+}
