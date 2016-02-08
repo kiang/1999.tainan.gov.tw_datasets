@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602080116",
+    "requested_datetime": "2016-02-08 08:19:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區大武街與北門路三段27巷交叉路口 違規停車",
+    "address_string": "北區大武街與北門路三段27巷交叉路口",
+    "lat": "23.013979280597326",
+    "long": "120.21598644554615",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-08 08:19:00"
+}
