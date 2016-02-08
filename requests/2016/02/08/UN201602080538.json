@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602080538",
+    "requested_datetime": "2016-02-08 16:00:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區北門路二段539號(大道新城公車站牌周邊) 違規停車",
+    "address_string": "北區北門路二段539號(大道新城公車站牌周邊)",
+    "lat": "23.010396487675663",
+    "long": "120.2161091566086",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-08 16:00:00"
+}
