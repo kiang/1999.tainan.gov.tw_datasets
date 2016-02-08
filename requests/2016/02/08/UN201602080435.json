@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602080435",
+    "requested_datetime": "2016-02-08 14:01:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "地震通報",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "安南區府安路四段169巷口處 地震 漏水",
+    "address_string": "安南區府安路四段169巷口處",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-15 14:01:00"
+}
