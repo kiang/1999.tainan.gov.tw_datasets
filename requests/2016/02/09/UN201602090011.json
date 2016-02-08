@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602090011",
+    "requested_datetime": "2016-02-09 00:27:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "新化區",
+    "service_name": "地震通報",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "新化區中山路496號前變電箱旁 漏水",
+    "address_string": "新化區中山路496號前變電箱旁",
+    "lat": "23.0374294",
+    "long": "120.2541279",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-16 00:27:00"
+}
