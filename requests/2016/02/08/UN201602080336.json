@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602080336",
+    "requested_datetime": "2016-02-08 12:21:00",
+    "status": {},
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "地震通報",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "安南區長和路三段133巷19號 地震 漏水",
+    "address_string": "709台灣台南市安南區長和路三段133巷19號",
+    "lat": "23.0632379",
+    "long": "120.2162928",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-08 12:21:00"
+}

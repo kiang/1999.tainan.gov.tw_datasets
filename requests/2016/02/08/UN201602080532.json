@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602080532",
+    "requested_datetime": "2016-02-08 15:54:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區和緯路二段231號獸醫院周圍 違規停車",
+    "address_string": "北區和緯路二段231號獸醫院周圍",
+    "lat": "23.012303619266774",
+    "long": "120.20497497171165",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-08 15:54:00"
+}
