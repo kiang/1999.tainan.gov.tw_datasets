@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602080659",
+    "requested_datetime": "2016-02-08 18:49:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區北門路一段(車站-民族路) 違停",
+    "address_string": "東區北門路一段(車站-民族路)",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-02-09 00:31:46",
+    "expected_datetime": "2016-02-15 18:49:00"
+}
