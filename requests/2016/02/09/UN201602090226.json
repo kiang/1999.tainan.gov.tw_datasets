@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602090226",
+    "requested_datetime": "2016-02-09 11:49:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "交通運輸",
+    "address_string": "北區公園路與北安路一段交叉路口",
+    "lat": "23.01468564430259",
+    "long": "120.21305412054062",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-09 11:49:00"
+}

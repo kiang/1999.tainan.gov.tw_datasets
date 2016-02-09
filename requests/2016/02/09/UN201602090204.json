@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602090204",
+    "requested_datetime": "2016-02-09 11:25:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區開元路333巷(長榮路到開元路) 違規停車",
+    "address_string": "北區開元路333巷(長榮路到開元路)",
+    "lat": "23.009049135416973",
+    "long": "120.22080000489949",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-09 11:25:00"
+}
