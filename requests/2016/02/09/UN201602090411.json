@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602090411",
     "requested_datetime": "2016-02-09 16:15:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "中西區青年路279號 違停",
     "address_string": "中西區青年路279號前面",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-09 18:11:44",
     "expected_datetime": "2016-02-09 16:15:00"
 }
