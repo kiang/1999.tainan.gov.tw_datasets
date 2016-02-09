@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602090562",
+    "requested_datetime": "2016-02-09 20:54:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "北區文賢三街與文成三路交叉路口 漏水",
+    "address_string": "704台灣台南市北區文賢三街與文成三路交叉路口",
+    "lat": "23.015666030261595",
+    "long": "120.19803207367659",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-09 20:54:00"
+}
