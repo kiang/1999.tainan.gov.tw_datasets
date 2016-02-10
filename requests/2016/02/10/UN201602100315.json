@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602100315",
+    "requested_datetime": "2016-02-10 15:58:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "民生管線",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "永康區中山北路171號 漏水",
+    "address_string": "710台灣台南市永康區中山北路171號",
+    "lat": "23.0274549",
+    "long": "120.2606244",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-10 15:58:00"
+}
