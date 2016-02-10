@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602100369",
+    "requested_datetime": "2016-02-10 17:19:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "地震通報",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "永康區民族路250號  路面漏水",
+    "address_string": "永康區民族路250號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-17 17:19:00"
+}
