@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602110143",
+    "requested_datetime": "2016-02-11 10:47:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "地震通報",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "東區中華東路三段40號前方 漏水",
+    "address_string": "東區中華東路三段40號前方",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-18 10:47:00"
+}
