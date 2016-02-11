@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602110442",
+    "requested_datetime": "2016-02-11 19:24:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "永康區永大二路(天公廟前面的廟埕)  妨礙安寧",
+    "address_string": "永康區永大二路(天公廟前面的廟埕)",
+    "lat": "23.0183739",
+    "long": "120.2595948",
+    "service_notice": {},
+    "updated_datetime": "2016-02-11 20:47:20",
+    "expected_datetime": "2016-02-18 19:24:00"
+}
