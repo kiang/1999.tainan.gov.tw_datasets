@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602110040",
+    "requested_datetime": "2016-02-11 07:36:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區實踐街85巷2號(永祥公園周圍及活動中心周邊)   違規停車",
+    "address_string": "北區實踐街85巷2號(永祥公園周圍及活動中心周邊)",
+    "lat": "23.015004725689653",
+    "long": "120.21973215043543",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-11 07:36:00"
+}
