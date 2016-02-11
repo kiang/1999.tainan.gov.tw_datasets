@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新營區大同路72巷14號  違停",
     "address_string": "新營區大同路72巷14號",
-    "lat": {},
-    "long": {},
+    "lat": "23.308453",
+    "long": "120.3227214",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-02-18 14:26:00"
