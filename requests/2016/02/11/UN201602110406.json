@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "中西區永福路和意路口 佔用道路",
     "address_string": "中西區永福路和意路口",
-    "lat": {},
-    "long": {},
+    "lat": "22.9883185",
+    "long": "120.2002437",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-02-18 18:22:00"
