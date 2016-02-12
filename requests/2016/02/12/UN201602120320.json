@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區西華街 7-11 至北忠街路口整條 違規停車",
     "address_string": "西華街 7-11 至北忠街路口整條汽車違停",
-    "lat": {},
-    "long": {},
+    "lat": "25.141943",
+    "long": "121.723865",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-02-12 16:36:00"
