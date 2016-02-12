@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602120293",
+    "requested_datetime": "2016-02-12 15:46:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區文賢路252號到武聖路口 違停",
+    "address_string": "北區文賢路252號到武聖路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-19 15:46:00"
+}
