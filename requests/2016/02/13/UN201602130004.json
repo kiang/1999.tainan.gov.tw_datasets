@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區保安路182號 違停、佔用道路",
     "address_string": "中西區保安路182號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9911432",
+    "long": "120.1928308",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-02-20 00:37:00"
