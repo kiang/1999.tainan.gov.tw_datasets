@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602130411",
+    "requested_datetime": "2016-02-13 19:02:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區公園路135號 違規停車",
+    "address_string": "704台灣台南市北區公園路135號",
+    "lat": "22.9980658",
+    "long": "120.2069545",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-13 19:02:00"
+}
