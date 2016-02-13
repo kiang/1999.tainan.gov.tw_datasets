@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602130113",
+    "requested_datetime": "2016-02-13 10:16:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "地震通報",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "北區北安路轉長和路四段的長和橋下 漏水",
+    "address_string": "北區北安路轉長和路四段的長和橋下",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-20 10:16:00"
+}
