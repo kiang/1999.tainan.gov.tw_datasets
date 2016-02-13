@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602130313",
+    "requested_datetime": "2016-02-13 16:04:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "山上區",
+    "service_name": "地震通報",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "山上區南州里130之1號和山上檳榔中間的水溝 漏水",
+    "address_string": "山上區南洲里130之1和127號中間的水溝",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-20 16:04:00"
+}
