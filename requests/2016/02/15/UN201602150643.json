@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602150643",
+    "requested_datetime": "2016-02-15 18:39:00",
+    "status": {},
+    "keyword": {},
+    "area": "善化區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "善化區大成路316巷2號   違規停車",
+    "address_string": "741台灣台南市善化區大成路316巷2號",
+    "lat": "23.12998092609261",
+    "long": "120.29787696897985",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-15 18:39:00"
+}
