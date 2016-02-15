@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602130511",
     "requested_datetime": "2016-02-13 23:39:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "佳里區佳東路過青年街的下個路口(保安宮) 道路散落物",
     "address_string": "佳里區佳東路過青年街的下個路口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-15 10:15:45",
     "expected_datetime": "2016-02-20 23:39:00"
 }
