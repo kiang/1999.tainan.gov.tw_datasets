@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602140950",
     "requested_datetime": "2016-02-14 21:38:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "東區大同路一段47號前方 路燈",
     "address_string": "東區大同路一段47號前方",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-16 09:16:41",
     "expected_datetime": "2016-02-21 21:38:00"
 }
