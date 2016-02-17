@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602170001",
+    "requested_datetime": "2016-02-17 00:31:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "西港區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "西港區新興街8-113號  妨礙安寧",
+    "address_string": "西港區新興街8-113號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-02-17 03:07:08",
+    "expected_datetime": "2016-02-24 00:31:00"
+}

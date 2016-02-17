@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201602160413",
-    "requested_datetime": "2016-02-16 16:51:00",
+    "service_request_id": "UN201602160490",
+    "requested_datetime": "2016-02-16 18:31:00",
     "status": "未處理",
     "keyword": {},
-    "area": "關廟區",
+    "area": "北區",
     "service_name": "民生管線",
     "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
-    "description": "關廟區文衡路75號 漏水",
-    "address_string": "關廟區文衡路75號",
+    "description": "北區文成三路682巷47號 漏水",
+    "address_string": "北區文成三路682巷47號",
     "lat": {},
     "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-02-23 16:51:00"
+    "expected_datetime": "2016-02-23 18:31:00"
 }

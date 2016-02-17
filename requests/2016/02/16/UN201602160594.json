@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602160594",
+    "requested_datetime": "2016-02-16 23:47:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "永康區大橋一街47之1號2樓之7  妨礙安寧",
+    "address_string": "永康區大橋一街47之1號2樓之6、8",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-02-17 07:45:31",
+    "expected_datetime": "2016-02-23 23:47:00"
+}
