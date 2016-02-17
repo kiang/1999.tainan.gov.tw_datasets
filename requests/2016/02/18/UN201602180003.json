@@ -7,10 +7,10 @@
     "service_name": "噪音舉發",
     "agency": "台南市政府",
     "subproject": "妨礙安寧",
-    "description": "永康區永安路119號  妨礙安寧",
+    "description": "永康區永安路117號  妨礙安寧",
     "address_string": "永康區永安路117號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0444689",
+    "long": "120.2452406",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-02-25 00:30:00"
