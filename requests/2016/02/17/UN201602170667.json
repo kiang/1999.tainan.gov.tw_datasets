@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602170667",
+    "requested_datetime": "2016-02-17 22:14:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "地震通報",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "中西區海安路一段\/保安路 口 路面漏水",
+    "address_string": "中西區海安路一段\/保安路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-24 22:14:00"
+}
