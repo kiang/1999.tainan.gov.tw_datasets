@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201602170620",
     "requested_datetime": "2016-02-17 19:41:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "噪音舉發",
@@ -12,6 +12,6 @@
     "lat": "23.1659477",
     "long": "120.1784341",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-18 06:38:12",
     "expected_datetime": "2016-02-24 19:41:00"
 }
