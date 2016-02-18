@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201602140810",
     "requested_datetime": "2016-02-14 16:01:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "地震通報",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-18 15:55:20",
     "expected_datetime": "2016-02-21 16:01:00"
 }
