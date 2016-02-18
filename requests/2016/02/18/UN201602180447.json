@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201602180447",
     "requested_datetime": "2016-02-18 20:03:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "北園街87巷慈愛醫院旁 違規停車",
     "address_string": "北園街87巷慈愛醫院旁",
-    "lat": {},
-    "long": {},
+    "lat": "23.0125508",
+    "long": "120.2211546",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-18 22:33:08",
     "expected_datetime": "2016-02-18 20:03:00"
 }
