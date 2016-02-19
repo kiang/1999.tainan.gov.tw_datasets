@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602190016",
     "requested_datetime": "2016-02-19 06:45:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "鹽水區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
     "description": "鹽水區鹽水國小(七歲姑娘廟)對面的大排水溝",
     "address_string": "鹽水區朝琴路鹽水國小旁邊(七歲姑娘廟)",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-19 11:37:57",
     "expected_datetime": "2016-02-26 06:45:00"
 }
