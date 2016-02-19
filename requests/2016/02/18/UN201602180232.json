@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602180232",
     "requested_datetime": "2016-02-18 13:30:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "仁德區文華路二段1189-17號旁 空氣汙染",
     "address_string": "仁德區文華路二段1189-17號旁",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-19 20:12:48",
     "expected_datetime": "2016-02-25 13:30:00"
 }
