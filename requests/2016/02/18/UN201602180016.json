@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602180016",
     "requested_datetime": "2016-02-18 07:01:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "東區裕農路801號(慈幼高工) 漏水",
     "address_string": "東區裕農路801號(慈幼高工)門口",
     "lat": "22.9892238",
     "long": "120.2395567",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-19 15:13:53",
     "expected_datetime": "2016-02-25 07:01:00"
 }
