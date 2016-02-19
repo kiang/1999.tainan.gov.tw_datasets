@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區文成路138號 路燈故障",
     "address_string": "北區文成路138號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0126857",
+    "long": "120.2069317",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-02-26 17:15:00"
