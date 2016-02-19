@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602180087",
     "requested_datetime": "2016-02-18 09:30:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "東區富德街25巷全長100公尺 停水",
     "address_string": "東區富德街25巷全長100公尺",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-19 14:53:37",
     "expected_datetime": "2016-02-25 09:30:00"
 }
