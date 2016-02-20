@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602210002",
     "requested_datetime": "2016-02-20 23:58:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "東區北門路二段28號 妨礙安寧\/噪音污染",
     "address_string": "東區北門路二段28號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-21 02:15:04",
     "expected_datetime": "2016-02-27 23:58:00"
 }
