@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602200148",
+    "requested_datetime": "2016-02-20 11:26:00",
+    "status": {},
+    "keyword": {},
+    "area": "歸仁區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "歸仁區中正南路一段\/歸仁郵局前 違規停車",
+    "address_string": "711台灣台南市歸仁區中正南路一段",
+    "lat": "22.96643519202899",
+    "long": "120.29444441199304",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-20 11:26:00"
+}
