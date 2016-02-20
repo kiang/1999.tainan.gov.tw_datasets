@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602200182",
+    "requested_datetime": "2016-02-20 12:15:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中華二路近勝學路路口一帶 違規停車",
+    "address_string": "710台灣台南市永康區中華二路近勝學路路口一帶",
+    "lat": "23.008369047427955",
+    "long": "120.23144260000004",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-20 12:15:00"
+}
