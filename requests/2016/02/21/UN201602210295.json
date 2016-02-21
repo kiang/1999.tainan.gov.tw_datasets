@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602210295",
+    "requested_datetime": "2016-02-21 22:25:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "中西區海安路一段161^169號 佔用人行道、違停",
+    "address_string": "中西區海安路一段161^169號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-28 22:25:00"
+}
