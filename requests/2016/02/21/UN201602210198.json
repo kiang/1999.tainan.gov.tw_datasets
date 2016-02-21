@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602210198",
     "requested_datetime": "2016-02-21 16:57:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "德東街151巷42號路口 違規停車",
     "address_string": "德東街151巷42號路口",
-    "lat": {},
-    "long": {},
+    "lat": "22.9618171",
+    "long": "120.2315112",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-21 18:41:52",
     "expected_datetime": "2016-02-21 16:57:00"
 }
