@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602210306",
     "requested_datetime": "2016-02-21 23:48:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "五妃街與永福路口明仁鍋貼店旁巷子內噪音舉發",
     "address_string": "五妃街與永福路口明仁鍋貼店旁巷子內",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-22 07:30:33",
     "expected_datetime": "2016-02-21 23:48:00"
 }
