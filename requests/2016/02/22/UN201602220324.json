@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602220324",
     "requested_datetime": "2016-02-22 14:49:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "善化區大成路聯合診所前 違規停車",
     "address_string": "741台灣台南市善化區大成路聯合診所前",
     "lat": "23.12997660953812",
     "long": "120.29782801866531",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-22 15:30:34",
     "expected_datetime": "2016-02-22 14:49:00"
 }
