@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602220169",
+    "requested_datetime": "2016-02-22 11:17:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區林森路三段280號282號 佔用道路",
+    "address_string": "北區林森路三段280號282號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-29 11:17:00"
+}
