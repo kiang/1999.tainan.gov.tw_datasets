@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602220050",
+    "requested_datetime": "2016-02-22 08:59:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "安平區建平五街187巷18弄 道路維修",
+    "address_string": "708台灣台南市安平區建平五街187巷18弄",
+    "lat": "22.9875568",
+    "long": "120.1756896",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-22 08:59:00"
+}
