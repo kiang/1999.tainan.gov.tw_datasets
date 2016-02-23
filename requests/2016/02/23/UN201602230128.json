@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602230128",
     "requested_datetime": "2016-02-23 11:13:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心,臺南市政府警察局歸仁分局",
     "subproject": "違規停車",
     "description": "歸仁區長大路 違規停車",
     "address_string": "711台灣台南市歸仁區長大路",
     "lat": "22.9073847",
     "long": "120.2728768",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-23 13:45:27",
     "expected_datetime": "2016-02-23 11:13:00"
 }
