@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602230304",
+    "requested_datetime": "2016-02-23 16:37:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區海安路三段755號 佔用道路",
+    "address_string": "北區海安路三段755號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-01 16:37:00"
+}
