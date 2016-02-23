@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602230102",
     "requested_datetime": "2016-02-23 10:36:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "中西區美術館施工處(忠義路方向) 連續噪音",
     "address_string": "中西區美術館施工處(忠義路方向)",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-23 15:18:18",
     "expected_datetime": "2016-03-01 10:36:00"
 }
