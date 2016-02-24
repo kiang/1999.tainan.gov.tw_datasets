@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602240319",
+    "requested_datetime": "2016-02-24 15:46:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區大武街597巷34弄33號周邊(柴頭港溪防汛道路沿線) 違規停車",
+    "address_string": "北區大武街597巷34弄33號周邊(柴頭港溪防汛道路沿線)",
+    "lat": "23.01821401294311",
+    "long": "120.22240698337555",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-02-24 15:46:00"
+}
