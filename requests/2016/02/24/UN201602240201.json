@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "四維地下道雙側  違停",
     "address_string": "東區四維地下道",
-    "lat": {},
-    "long": {},
+    "lat": "22.9944718",
+    "long": "120.2123437",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-03-02 12:45:00"
