@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602240492",
     "requested_datetime": "2016-02-24 23:15:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "永康區小東路口與中華路口 佔用道路",
     "address_string": "710台灣台南市永康區復興路128巷86號",
     "lat": "22.9992855",
     "long": "120.2446139",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-25 01:36:43",
     "expected_datetime": "2016-02-24 23:15:00"
 }

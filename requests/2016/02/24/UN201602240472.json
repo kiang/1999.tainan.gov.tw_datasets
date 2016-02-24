@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602240472",
     "requested_datetime": "2016-02-24 20:56:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市中西區公所,臺南市政府警察局,臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "中西區海安路二段35號 中西區大同路一段252號 佔用道路",
     "address_string": "中西區海安路二段35號 中西區大同路一段252號",
     "lat": "22.9940722",
     "long": "120.1963148",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-25 01:44:24",
     "expected_datetime": "2016-03-02 20:56:00"
 }
