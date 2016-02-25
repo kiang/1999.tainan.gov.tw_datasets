@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602250119",
+    "requested_datetime": "2016-02-25 10:19:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "安平區育平七街102號正對面的公園邊 漏水",
+    "address_string": "安平區育平七街102號正對面的公園邊",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-03 10:19:00"
+}
