@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602260268",
     "requested_datetime": "2016-02-26 15:33:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "國華街一段183號對面的藍晒圖出入口 違規停車",
     "address_string": "國華街一段183號對面的藍晒圖出入口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-26 18:44:43",
     "expected_datetime": "2016-02-26 15:33:00"
 }

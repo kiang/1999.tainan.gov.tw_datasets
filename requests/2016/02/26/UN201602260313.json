@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201602260313",
+    "requested_datetime": "2016-02-26 16:56:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "仁德交流道下來 交通疏導",
+    "address_string": "仁德交流道下來",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-02-26 18:35:57",
+    "expected_datetime": "2016-03-04 16:56:00"
+}
