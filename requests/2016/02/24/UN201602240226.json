@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602240226",
     "requested_datetime": "2016-02-24 13:37:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市善化區公所",
     "subproject": "9盞以下路燈故障",
     "description": "善化區東昌里 路燈故障",
     "address_string": "善化區東昌里",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-26 15:43:16",
     "expected_datetime": "2016-03-02 13:37:00"
 }
