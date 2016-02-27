@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602270207",
     "requested_datetime": "2016-02-27 15:52:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "台南火車站前站出口處 廣場有街頭藝人",
     "address_string": "台南火車站前站出口處廣場",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-02-27 18:58:25",
     "expected_datetime": "2016-03-05 15:52:00"
 }
