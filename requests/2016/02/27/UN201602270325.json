@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區長北街1號 違規停車",
     "address_string": "中西區長北街1號",
-    "lat": {},
-    "long": {},
+    "lat": "22.99984",
+    "long": "120.203481",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-03-05 22:06:00"
