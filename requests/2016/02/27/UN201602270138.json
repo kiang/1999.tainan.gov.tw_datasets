@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區開元路309號前 違停",
     "address_string": "北區開元路309號前",
-    "lat": {},
-    "long": {},
+    "lat": "23.0091449",
+    "long": "120.2233205",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-03-05 12:30:00"
