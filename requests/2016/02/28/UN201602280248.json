@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區民權路四段182號 違停",
     "address_string": "中西區民權路四段182號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9992777",
+    "long": "120.1811168",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-03-06 22:11:00"
