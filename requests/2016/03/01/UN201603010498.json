@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201603010498",
     "requested_datetime": "2016-03-01 11:47:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局第一分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區成大醫學院小東路靠長榮路側 違規停車",
     "address_string": "成大醫學院小東路靠長榮路側",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-01 14:34:38",
     "expected_datetime": "2016-03-01 11:47:00"
 }
