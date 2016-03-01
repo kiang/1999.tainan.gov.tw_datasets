@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201602290145",
     "requested_datetime": "2016-02-29 13:52:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "道路維修",
-    "agency": "臺南市政府工務局",
+    "agency": "台南市政府",
     "subproject": "路面坑洞",
     "description": "安南區北安路二段305之30號  道路坑洞",
     "address_string": "709台南市安南區北安路二段305之30號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-01 15:05:15",
     "expected_datetime": "2016-02-29 13:52:00"
 }
