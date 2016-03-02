@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603020169",
+    "requested_datetime": "2016-03-02 12:07:00",
+    "status": {},
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "709台灣台南市安南區北安路四段台塑加油站對面 佔用道路",
+    "address_string": "709台灣台南市安南區北安路四段台塑加油站對面",
+    "lat": "23.05865898525124",
+    "long": "120.21391779184341",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-02 12:07:00"
+}
