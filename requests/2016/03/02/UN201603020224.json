@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603020224",
+    "requested_datetime": "2016-03-02 14:37:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區西華街郵局銷售中心,   違規停車",
+    "address_string": "郵局銷售中心, 西華街北區台南市 704",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-02 14:37:00"
+}
