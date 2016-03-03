@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603030327",
+    "requested_datetime": "2016-03-03 18:14:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區中山路166號 新光三越和FOCUS周邊   違停",
+    "address_string": "中西區中山路166號 新光三越和FOCUS周邊",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-10 18:14:00"
+}
