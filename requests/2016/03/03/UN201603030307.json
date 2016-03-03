@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "台南火車站到中山路新光三越 違停",
     "address_string": "台南火車站到中山路新光三越",
-    "lat": {},
-    "long": {},
+    "lat": "22.9998999",
+    "long": "120.2268758",
     "service_notice": {},
     "updated_datetime": "2016-03-03 19:34:53",
     "expected_datetime": "2016-03-10 17:46:00"
