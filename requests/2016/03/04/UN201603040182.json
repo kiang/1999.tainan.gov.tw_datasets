@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603040182",
+    "requested_datetime": "2016-03-04 13:46:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "南區大成路一段193巷89號屋後方的防火巷 漏水",
+    "address_string": "南區大成路一段193巷89號屋後方的防火巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-11 13:46:00"
+}
