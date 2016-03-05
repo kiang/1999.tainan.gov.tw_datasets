@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603050262",
+    "requested_datetime": "2016-03-05 20:27:00",
+    "status": {},
+    "keyword": {},
+    "area": "佳里區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "佳里區林園街84號  違規停車",
+    "address_string": "722, Taïwan, Tainan, 佳里區林園街84號",
+    "lat": "23.16521633704606",
+    "long": "120.17928846180439",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-05 20:27:00"
+}
