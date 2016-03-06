@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201603060243",
     "requested_datetime": "2016-03-06 20:02:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區崇善十五街33巷56號 違規停車",
     "address_string": "701台灣台南市東區崇善十五街33巷56號",
     "lat": "22.9638701",
     "long": "120.2329144",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-07 03:03:30",
     "expected_datetime": "2016-03-06 20:02:00"
 }
