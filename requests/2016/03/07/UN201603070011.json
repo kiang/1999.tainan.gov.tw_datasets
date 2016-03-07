@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201603070011",
     "requested_datetime": "2016-03-07 06:30:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "安南區海佃路二段120號前。騎樓舉發",
     "address_string": "701台灣台南市安南區海佃路二段120號前。",
     "lat": "22.997143956084173",
     "long": "120.21296594291925",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-07 17:25:32",
     "expected_datetime": "2016-03-07 06:30:00"
 }
