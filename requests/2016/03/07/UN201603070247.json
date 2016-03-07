@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201603070247",
     "requested_datetime": "2016-03-07 14:55:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "東區勝利路口跟東豐路口 佔用道路",
     "address_string": "東區勝利路口跟東豐路口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-07 18:42:09",
     "expected_datetime": "2016-03-14 14:55:00"
 }
