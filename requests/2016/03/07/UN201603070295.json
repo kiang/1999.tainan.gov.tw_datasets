@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201603070295",
     "requested_datetime": "2016-03-07 16:53:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區中山路179號.151號.125號周圍 違規停車",
     "address_string": "中西區中山路179號.151號.125號周圍",
     "lat": "22.996519905121943",
     "long": "120.2109656855464",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-08 01:53:10",
     "expected_datetime": "2016-03-07 16:53:00"
 }
