@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603070338",
+    "requested_datetime": "2016-03-07 18:55:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區育樂街148巷1號 違規停車",
+    "address_string": "701台灣台南市東區育樂街148巷1號",
+    "lat": "22.9957813",
+    "long": "120.2146937",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-07 18:55:00"
+}
