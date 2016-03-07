@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201603070479",
     "requested_datetime": "2016-03-07 23:53:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "北區中華北路一段362巷1弄16號噪音舉發",
     "address_string": "台南市中華北路一段362巷1弄16號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-08 05:51:42",
     "expected_datetime": "2016-03-07 23:53:00"
 }
