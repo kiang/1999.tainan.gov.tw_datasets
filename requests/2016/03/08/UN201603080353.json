@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區文南路286號與文南路284號中間 違規停車",
     "address_string": "文南路286號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9864561",
+    "long": "120.1902608",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-03-08 18:53:00"
