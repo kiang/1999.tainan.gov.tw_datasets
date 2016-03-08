@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603080250",
+    "requested_datetime": "2016-03-08 15:17:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "東區崇德路130號 騎樓舉發",
+    "address_string": "東區崇德路130號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-03-08 15:45:56",
+    "expected_datetime": "2016-03-15 15:17:00"
+}
