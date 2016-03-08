@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603080327",
+    "requested_datetime": "2016-03-08 18:00:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "永康區大灣路215巷巷口(217)號旁 制水閥破裂",
+    "address_string": "永康區大灣路215巷巷口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-15 18:00:00"
+}
