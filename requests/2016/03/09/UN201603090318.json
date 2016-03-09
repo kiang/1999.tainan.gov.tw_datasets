@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "歸仁高鐵站 違停",
     "address_string": "歸仁高鐵站",
-    "lat": {},
-    "long": {},
+    "lat": "22.924928",
+    "long": "120.28572",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-03-16 18:18:00"
