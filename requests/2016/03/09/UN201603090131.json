@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區中山路153號前 違規停車",
     "address_string": "中西區中山路153號前",
-    "lat": {},
-    "long": {},
+    "lat": "22.996098",
+    "long": "120.210078",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-03-16 11:44:00"

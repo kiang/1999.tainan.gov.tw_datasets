@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603090166",
+    "requested_datetime": "2016-03-09 13:16:00",
+    "status": {},
+    "keyword": {},
+    "area": "七股區",
+    "service_name": "騎樓舉發",
+    "agency": "台南市政府",
+    "subproject": "騎樓舉發",
+    "description": "騎樓舉發",
+    "address_string": "724台灣台南市七股區",
+    "lat": "23.138020576051268",
+    "long": "120.11399377137423",
+    "service_notice": {},
+    "updated_datetime": "2016-03-09 13:19:00",
+    "expected_datetime": "2016-03-09 13:16:00"
+}
