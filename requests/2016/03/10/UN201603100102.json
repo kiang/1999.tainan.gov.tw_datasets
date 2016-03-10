@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603100102",
+    "requested_datetime": "2016-03-10 10:29:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "東區立德十一路31號   空汙 \/ 占用騎樓",
+    "address_string": "東區立德十一路31號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-17 10:29:00"
+}
