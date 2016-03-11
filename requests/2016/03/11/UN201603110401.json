@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201603110401",
     "requested_datetime": "2016-03-11 22:36:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "中西區衛民街129號 妨礙安寧",
     "address_string": "衛民街129號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9932957",
+    "long": "120.2076893",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-12 01:10:50",
     "expected_datetime": "2016-03-11 22:36:00"
 }
