@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201603100206",
     "requested_datetime": "2016-03-10 15:58:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東 區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "東區林森路二段長榮中學 噪音舉發",
     "address_string": "林森路二段 長榮中學內 司令台 下方",
     "lat": "22.987726096948624",
     "long": "120.22192116826771",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-11 08:37:59",
     "expected_datetime": "2016-03-10 15:58:00"
 }
