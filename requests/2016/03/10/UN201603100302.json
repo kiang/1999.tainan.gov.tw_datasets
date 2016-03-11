@@ -6,12 +6,12 @@
     "area": "安平區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
-    "subproject": "佔用道路",
+    "subproject": "違規停車",
     "description": "安平區健康二街515號   佔用道路",
     "address_string": "安平區健康二街515號",
     "lat": "22.9954364",
     "long": "120.1744391",
     "service_notice": {},
-    "updated_datetime": "2016-03-10 22:10:53",
+    "updated_datetime": "2016-03-10 22:10:00",
     "expected_datetime": "2016-03-17 20:14:00"
 }
