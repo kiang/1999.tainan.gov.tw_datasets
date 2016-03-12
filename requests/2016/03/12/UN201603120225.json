@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603120225",
+    "requested_datetime": "2016-03-12 17:55:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "安南區台江大道北汕尾路口 漏水",
+    "address_string": "安南區台江大道北汕尾路口",
+    "lat": "23.0640491",
+    "long": "120.145454",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-19 17:55:00"
+}
