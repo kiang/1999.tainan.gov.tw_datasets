@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603140003",
+    "requested_datetime": "2016-03-14 00:06:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "佳里區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "佳里區平等街18號 妨礙安寧\/噪音",
+    "address_string": "佳里區平等街18號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-03-14 00:41:12",
+    "expected_datetime": "2016-03-21 00:06:00"
+}
