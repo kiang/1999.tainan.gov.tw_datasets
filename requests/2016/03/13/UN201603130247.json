@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603130247",
+    "requested_datetime": "2016-03-13 22:04:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "永康區龍國街上",
+    "address_string": "永康區龍國街上",
+    "lat": "23.0321481",
+    "long": "120.2640405",
+    "service_notice": {},
+    "updated_datetime": "2016-03-13 22:20:45",
+    "expected_datetime": "2016-03-20 22:04:00"
+}

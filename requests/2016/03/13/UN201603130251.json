@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603130251",
+    "requested_datetime": "2016-03-13 22:25:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "場所連續噪音",
+    "description": "北區公園路593巷7號 妨礙安寧",
+    "address_string": "704台灣台南市北區公園路593巷7號",
+    "lat": "23.0138586",
+    "long": "120.211582",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-13 22:25:00"
+}
