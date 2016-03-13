@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603130185",
+    "requested_datetime": "2016-03-13 17:40:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區永華路二段495號 違規停車",
+    "address_string": "708台灣台南市安平區永華路二段495號",
+    "lat": "22.990729858564453",
+    "long": "120.17414700239897",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-13 17:40:00"
+}
