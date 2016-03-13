@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201603120298",
     "requested_datetime": "2016-03-12 22:35:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "南區新興路金華路一段路口 妨礙安寧",
     "address_string": "南區新興路金華路一段路口ktv音量",
     "lat": "22.9753045",
     "long": "120.1909687",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-13 08:14:24",
     "expected_datetime": "2016-03-19 22:35:00"
 }
