@@ -7,11 +7,11 @@
     "service_name": "違規停車",
     "agency": "臺南市政府交通局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "安南區安中路四段290巷291弄13號斜對面 違停\/標線",
+    "description": "安南區安中路四段290巷291弄13號斜對面 違停",
     "address_string": "安南區安中路四段290巷291弄13號斜對面",
     "lat": "23.0533441",
     "long": "120.1705388",
     "service_notice": {},
-    "updated_datetime": "2016-03-13 16:13:25",
+    "updated_datetime": "2016-03-13 16:13:00",
     "expected_datetime": "2016-03-20 15:00:00"
 }
