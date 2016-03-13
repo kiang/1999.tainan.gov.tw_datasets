@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603130263",
+    "requested_datetime": "2016-03-13 23:39:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "東區東門路三段179巷58弄 妨礙安寧",
+    "address_string": "東門路三段179巷58弄",
+    "lat": "22.9770844",
+    "long": "120.2362301",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-13 23:39:00"
+}
