@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603130151",
+    "requested_datetime": "2016-03-13 15:26:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "安平區怡平路 金城國中、新南國小   占用人行道",
+    "address_string": "安平區怡平路 金城國中、新南國小",
+    "lat": "22.9934066",
+    "long": "120.1769015",
+    "service_notice": {},
+    "updated_datetime": "2016-03-13 16:55:04",
+    "expected_datetime": "2016-03-20 15:26:00"
+}
