@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區文南路與文南3街路口(文南路289號) 違規停車",
     "address_string": "文南路289號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9867964",
+    "long": "120.1899976",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-03-14 17:52:00"

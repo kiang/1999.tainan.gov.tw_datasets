@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "南區建南路跟美南街口 路燈故障",
     "address_string": "南區建南路跟美南街口",
-    "lat": {},
-    "long": {},
+    "lat": "22.9849463",
+    "long": "120.190434",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-03-21 18:26:00"
