@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603150009",
+    "requested_datetime": "2016-03-15 05:09:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市永康區公所,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "永康區復興路423巷85弄18號 妨礙安寧",
+    "address_string": "710台灣台南市永康區復興路423巷85弄18號",
+    "lat": "22.9975074",
+    "long": "120.2418009",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-15 05:09:00"
+}
