@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201603110327",
     "requested_datetime": "2016-03-11 18:51:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "仁德區成功一街３５巷口　漏水",
     "address_string": "仁德區成功一街３５巷口",
     "lat": "22.9605033",
     "long": "120.2250564",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-14 14:04:51",
     "expected_datetime": "2016-03-18 18:51:00"
 }
