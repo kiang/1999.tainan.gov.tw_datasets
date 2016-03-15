@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603150095",
+    "requested_datetime": "2016-03-15 10:15:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "仁德區北保路71號 違停",
+    "address_string": "仁德區北保路71號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-22 10:15:00"
+}
