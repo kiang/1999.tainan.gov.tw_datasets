@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區府東街94號 違規停車",
     "address_string": "701台灣台南市東區府東街94號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9858025",
+    "long": "120.2187349",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-03-15 13:45:00"
