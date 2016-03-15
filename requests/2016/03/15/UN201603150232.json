@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201603150232",
     "requested_datetime": "2016-03-15 15:03:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "東區崇明七街57號 佔用道路",
     "address_string": "東區崇明七街57號",
     "lat": "22.979233",
     "long": "120.217242",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-15 16:35:01",
     "expected_datetime": "2016-03-22 15:03:00"
 }
