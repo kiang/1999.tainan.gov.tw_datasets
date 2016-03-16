@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603160135",
+    "requested_datetime": "2016-03-16 12:05:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區中華東路二段133巷63-65號對面 違停",
+    "address_string": "東區中華東路二段133巷63-65號對面",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-03-16 12:52:15",
+    "expected_datetime": "2016-03-23 12:05:00"
+}
