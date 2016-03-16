@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603160270",
+    "requested_datetime": "2016-03-16 18:08:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區開元路68巷2-4號巷口轉角 違規停車",
+    "address_string": "704台灣台南市北區開元路68巷2-4號",
+    "lat": "23.006086556568164",
+    "long": "120.21693545998005",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-16 18:08:00"
+}
