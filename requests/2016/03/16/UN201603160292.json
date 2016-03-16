@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603160292",
+    "requested_datetime": "2016-03-16 19:26:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區衛國街112巷1號前雙側轉彎處 違規停車",
+    "address_string": "東區衛國街112巷1號前雙側轉彎處",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-23 19:26:00"
+}
