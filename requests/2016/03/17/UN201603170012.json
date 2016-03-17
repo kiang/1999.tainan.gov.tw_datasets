@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201603170012",
     "requested_datetime": "2016-03-17 02:52:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "安平區育平二街17巷3弄1號噪音舉發",
     "address_string": "台南市安平區育平二街17巷3弄1號",
     "lat": "22.9859963",
     "long": "120.1855788",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-17 08:00:06",
     "expected_datetime": "2016-03-17 02:52:00"
 }
