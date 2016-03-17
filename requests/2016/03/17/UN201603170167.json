@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603170167",
+    "requested_datetime": "2016-03-17 13:03:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區正南五街321號  違規停車",
+    "address_string": "台南市永康區正南五街321號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-03-17 13:57:27",
+    "expected_datetime": "2016-03-17 13:03:00"
+}

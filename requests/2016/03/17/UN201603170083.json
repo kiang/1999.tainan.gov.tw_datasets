@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201603170083",
     "requested_datetime": "2016-03-17 10:21:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "道路散落物",
     "description": "中西區衛民街108巷口 髒亂及汙染佔用道路",
     "address_string": "衛民街108巷口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-17 13:59:02",
     "expected_datetime": "2016-03-17 10:21:00"
 }
