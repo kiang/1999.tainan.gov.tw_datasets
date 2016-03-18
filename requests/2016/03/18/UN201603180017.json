@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603180017",
+    "requested_datetime": "2016-03-18 07:22:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區永華五街與建平九街60巷31弄交叉口 違規停車",
+    "address_string": "708台灣台南市安平區永華五街與建平九街60巷31弄交叉口",
+    "lat": "22.99073510552074",
+    "long": "120.17414398491383",
+    "service_notice": {},
+    "updated_datetime": "2016-03-18 07:41:51",
+    "expected_datetime": "2016-03-18 07:22:00"
+}
