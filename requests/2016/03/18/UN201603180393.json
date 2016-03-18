@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安南區海佃路一段51號 違停",
     "address_string": "安南區海佃路一段51號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0211427",
+    "long": "120.1920782",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-03-25 21:18:00"
