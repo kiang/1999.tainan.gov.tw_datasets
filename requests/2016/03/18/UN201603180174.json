@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201603180174",
     "requested_datetime": "2016-03-18 12:57:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "南區文南路沿線 違規停車",
     "address_string": "文南路沿線",
-    "lat": {},
-    "long": {},
+    "lat": "22.9849818",
+    "long": "120.1899424",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-18 14:18:22",
     "expected_datetime": "2016-03-18 12:57:00"
 }
