@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201603180122",
     "requested_datetime": "2016-03-18 11:00:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南 區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局,臺南市動物防疫保護處",
     "subproject": "環境髒亂",
     "description": "南區明興路371巷4號 髒亂及汙染",
     "address_string": "702台灣台南市南區明興路371巷4號",
     "lat": "22.949492366461563",
     "long": "120.18452949821949",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-18 20:20:41",
     "expected_datetime": "2016-03-18 11:00:00"
 }
