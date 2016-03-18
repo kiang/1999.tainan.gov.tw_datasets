@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區公園路528號、530號前 違停",
     "address_string": "北區公園路528號、530號前",
-    "lat": {},
-    "long": {},
+    "lat": "23.00675",
+    "long": "120.210255",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-03-25 20:47:00"
