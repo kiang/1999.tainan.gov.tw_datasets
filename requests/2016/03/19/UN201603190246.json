@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603190246",
+    "requested_datetime": "2016-03-19 18:48:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "10盞以上路燈故障",
+    "description": "南區德興路60號到170號與130巷至164巷及與永興街及永春街永仁街大範圍路燈不亮",
+    "address_string": "南區德興路60號到170號與130巷至164巷及與永興街及永春街永仁街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-26 18:48:00"
+}
