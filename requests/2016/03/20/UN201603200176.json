@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201603200176",
     "requested_datetime": "2016-03-20 14:23:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北 區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區長榮路五段296號周邊 違規停車",
     "address_string": "北區長榮路五段296號周邊",
     "lat": "23.012858472229723",
     "long": "120.21725814789534",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-20 16:46:12",
     "expected_datetime": "2016-03-20 14:23:00"
 }
