@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603200047",
+    "requested_datetime": "2016-03-20 08:06:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區德東街8號旁巷口 違停",
+    "address_string": "東區德東街8號旁巷口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-03-20 10:41:02",
+    "expected_datetime": "2016-03-27 08:06:00"
+}
