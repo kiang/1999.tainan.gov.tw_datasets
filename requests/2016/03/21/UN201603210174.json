@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603210174",
+    "requested_datetime": "2016-03-21 12:10:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區臨安路二段249巷口 違停",
+    "address_string": "北區臨安路二段249巷口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-03-21 14:29:37",
+    "expected_datetime": "2016-03-28 12:10:00"
+}
