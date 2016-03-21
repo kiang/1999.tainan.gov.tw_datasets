@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603210207",
+    "requested_datetime": "2016-03-21 13:19:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "寬頻管線、孔蓋損壞",
+    "description": "中西區南門路59號 鐵蓋鬆動",
+    "address_string": "中西區南門路59號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-28 13:19:00"
+}
