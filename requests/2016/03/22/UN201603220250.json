@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603220250",
+    "requested_datetime": "2016-03-22 17:05:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中正六街6號對面.65號對面  違規停車",
+    "address_string": "永康區中正六街6號對面.65號對面",
+    "lat": "23.03663569548653",
+    "long": "120.23743372410536",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-22 17:05:00"
+}
