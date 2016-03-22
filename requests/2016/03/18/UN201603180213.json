@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區府緯街83號前 違規停車",
     "address_string": "府緯街83號前汽車佔用道路",
     "lat": "22.983904630421446",
     "long": "120.19671846181153",
     "service_notice": {},
-    "updated_datetime": "2016-03-18 17:17:56",
+    "updated_datetime": "2016-03-22 09:23:12",
     "expected_datetime": "2016-03-18 14:26:00"
 }

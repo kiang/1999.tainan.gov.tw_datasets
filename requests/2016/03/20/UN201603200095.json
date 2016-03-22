@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區永華路一段344號 違規停車",
     "address_string": "700台灣台南市中西區永華路一段344號",
     "lat": "22.9891054",
     "long": "120.1874716",
     "service_notice": {},
-    "updated_datetime": "2016-03-20 10:47:07",
+    "updated_datetime": "2016-03-22 09:25:26",
     "expected_datetime": "2016-03-20 10:18:00"
 }
