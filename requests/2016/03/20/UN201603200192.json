@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局永康分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區西勢路456號 違規停車",
     "address_string": "710台灣台南市永康區西勢路456號",
     "lat": "23.02095350261159",
     "long": "120.26982120381857",
     "service_notice": {},
-    "updated_datetime": "2016-03-20 16:49:58",
+    "updated_datetime": "2016-03-23 11:38:18",
     "expected_datetime": "2016-03-20 14:52:00"
 }

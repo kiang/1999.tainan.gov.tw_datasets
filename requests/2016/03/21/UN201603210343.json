@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局永康分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區永二街229巷12號 違規停車",
     "address_string": "台南市永康區永二街229巷12號",
     "lat": "23.0160421",
     "long": "120.253145",
     "service_notice": {},
-    "updated_datetime": "2016-03-21 22:13:56",
+    "updated_datetime": "2016-03-23 11:37:34",
     "expected_datetime": "2016-03-21 18:58:00"
 }
