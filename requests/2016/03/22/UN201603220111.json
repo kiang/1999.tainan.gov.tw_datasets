@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201603220111",
     "requested_datetime": "2016-03-22 11:06:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府水利局",
     "subproject": "人孔蓋聲響、凹陷、漏水",
     "description": "東區裕義路跟裕孝三街路口 人孔蓋鬆動",
     "address_string": "東區裕義路跟裕孝三街路口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-23 15:00:14",
     "expected_datetime": "2016-03-29 11:06:00"
 }
