@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603240312",
+    "requested_datetime": "2016-03-24 20:51:00",
+    "status": {},
+    "keyword": {},
+    "area": "新市區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "新市區民生路與民生路二巷巷口 違規停車",
+    "address_string": "744台灣台南市新市區民生路與民生路二巷巷口",
+    "lat": "23.078917",
+    "long": "120.2911214",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-24 20:51:00"
+}
