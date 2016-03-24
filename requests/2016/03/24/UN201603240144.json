@@ -8,10 +8,10 @@
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區新中街(中正路到正南五街) 違規停車",
-    "address_string": "永康區新中街(中正路到正南五街)",
+    "address_string": "永康區新中街",
     "lat": "23.036245392486684",
     "long": "120.24033587425947",
     "service_notice": {},
-    "updated_datetime": "2016-03-24 16:24:18",
+    "updated_datetime": "2016-03-24 16:24:00",
     "expected_datetime": "2016-03-24 13:17:00"
 }
