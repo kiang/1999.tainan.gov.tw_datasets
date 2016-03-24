@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603240165",
+    "requested_datetime": "2016-03-24 14:24:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區中正六街65號對面 台南應用科大圍牆周圍 違規停車",
+    "address_string": "永康區中正六街65號對面(台南應用科大圍牆周圍)",
+    "lat": "23.036958118851054",
+    "long": "120.2376027032733",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-24 14:24:00"
+}

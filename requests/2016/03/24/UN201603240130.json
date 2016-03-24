@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603240130",
+    "requested_datetime": "2016-03-24 12:31:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "學甲區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面下陷、凹陷",
+    "description": "171縣道,麻豆往學甲方向,要進入學甲區豐和里的橋 路面凹陷",
+    "address_string": "171縣道,麻豆往學甲方向,要進入學甲區豐和里的橋",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-31 12:31:00"
+}
