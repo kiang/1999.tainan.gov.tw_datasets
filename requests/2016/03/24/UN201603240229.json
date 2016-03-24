@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603240229",
+    "requested_datetime": "2016-03-24 16:59:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區北門路ㄧ段132號+134號＋132號與134號中間（地下道出入口外面) 違規停車",
+    "address_string": "北門路ㄧ段",
+    "lat": "22.9932589",
+    "long": "120.2116579",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-24 16:59:00"
+}
