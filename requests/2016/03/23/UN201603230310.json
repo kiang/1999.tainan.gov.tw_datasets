@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201603230310",
     "requested_datetime": "2016-03-23 19:18:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "南區永成路三段61號前 路面坑洞",
     "address_string": "南區永成路三段61號前",
     "lat": "22.9636897",
     "long": "120.1953962",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-25 15:09:27",
     "expected_datetime": "2016-03-30 19:18:00"
 }
