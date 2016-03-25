@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603250029",
+    "requested_datetime": "2016-03-25 08:11:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "東區立德十一路55巷70弄2號 佔用道路",
+    "address_string": "東區立德十一路55巷70弄2號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-01 08:11:00"
+}
