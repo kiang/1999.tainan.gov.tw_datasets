@@ -9,8 +9,8 @@
     "subproject": "交通疏導",
     "description": "河區火山路1號 疏導交通",
     "address_string": "白河區火山路1號",
-    "lat": {},
-    "long": {},
+    "lat": "23.3252316",
+    "long": "120.4808585",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-04-02 10:44:00"
