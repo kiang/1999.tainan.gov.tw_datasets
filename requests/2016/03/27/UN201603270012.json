@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201603270012",
     "requested_datetime": "2016-03-27 01:04:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "噪音舉發",
     "address_string": "710台灣台南市永康區中華二路358巷8號15樓之3",
     "lat": "23.0084833",
     "long": "120.2311059",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-27 03:54:05",
     "expected_datetime": "2016-03-27 01:04:00"
 }
