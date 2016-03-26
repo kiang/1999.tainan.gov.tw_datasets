@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201603260213",
-    "requested_datetime": "2016-03-26 17:49:00",
-    "status": "已完工",
+    "service_request_id": "UN201603260256",
+    "requested_datetime": "2016-03-26 19:47:00",
+    "status": {},
     "keyword": {},
     "area": "南區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "南區文南路與金華路2段385巷路口 違規停車",
+    "description": "南區文南路與金華路二段385巷路口 違規停車",
     "address_string": "文南路與金華路2段385巷路口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": "2016-03-26 19:45:44",
-    "expected_datetime": "2016-03-26 17:49:00"
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-26 19:47:00"
 }
