@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201603270265",
     "requested_datetime": "2016-03-27 22:54:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "南區黃金海岸船屋附近 妨礙安寧",
     "address_string": "南區黃金海岸船屋附近",
     "lat": "22.932178",
     "long": "120.176757",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-28 02:13:08",
     "expected_datetime": "2016-04-03 22:54:00"
 }
