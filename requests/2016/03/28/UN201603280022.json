@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201603280022",
     "requested_datetime": "2016-03-28 07:52:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "白河區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "172市道白河區下秀祐里20K處 貓屍體",
     "address_string": "172市道白河區下秀祐里20K處",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-28 13:49:28",
     "expected_datetime": "2016-04-04 07:52:00"
 }
