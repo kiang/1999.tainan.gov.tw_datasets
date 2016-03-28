@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603280444",
+    "requested_datetime": "2016-03-28 22:29:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "東區中華東路一段209號跟207巷 妨礙安寧",
+    "address_string": "東區中華東路一段209號跟207巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-04 22:29:00"
+}
