@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603280229",
+    "requested_datetime": "2016-03-28 13:57:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "安平區建平三街(近華平路) 坑洞",
+    "address_string": "安平區建平三街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-04 13:57:00"
+}
