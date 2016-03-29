@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201603290861",
     "requested_datetime": "2016-03-29 21:39:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "中西區府緯街四巷16號 妨礙安寧",
     "address_string": "700台灣台南市中西區府緯街四巷16號",
     "lat": "22.997163708391966",
     "long": "120.21296594291925",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-29 22:40:18",
     "expected_datetime": "2016-03-29 21:39:00"
 }
