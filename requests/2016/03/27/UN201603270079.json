@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201603270079",
     "requested_datetime": "2016-03-27 11:17:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "南區大成國中（西門路一段３０６號）後門　號誌故障不亮",
     "address_string": "南區大成國中（西門路一段３０６號）後門　",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-29 09:07:11",
     "expected_datetime": "2016-04-03 11:17:00"
 }
