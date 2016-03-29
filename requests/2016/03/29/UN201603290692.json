@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603290692",
+    "requested_datetime": "2016-03-29 14:36:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "永康區永大路二段311號前 佔用道路",
+    "address_string": "永康區永大路二段311號前",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-05 14:36:00"
+}
