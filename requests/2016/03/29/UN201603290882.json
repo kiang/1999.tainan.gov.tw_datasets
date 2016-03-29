@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603290882",
+    "requested_datetime": "2016-03-29 23:10:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "南區中華西路一段28巷 妨礙安寧\/佔用道路",
+    "address_string": "702台灣台南市南區中華西路一段28巷",
+    "lat": "22.9617918",
+    "long": "120.1818415",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-29 23:10:00"
+}
