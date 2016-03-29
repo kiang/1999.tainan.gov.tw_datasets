@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603290650",
+    "requested_datetime": "2016-03-29 13:09:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "台南市永康區永華路 佔用人行道",
+    "address_string": "710台灣台南市永康區永華路上，探索家園對面人行道",
+    "lat": "23.0417147",
+    "long": "120.2536298",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-29 13:09:00"
+}
