@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201603290625",
     "requested_datetime": "2016-03-29 12:02:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "中西區開山路315號 坑洞",
     "address_string": "700台灣台南市中西區開山路315號",
     "lat": "22.98508216353546",
     "long": "120.21072596311569",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-30 09:46:35",
     "expected_datetime": "2016-03-29 12:02:00"
 }
