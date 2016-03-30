@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603300014",
+    "requested_datetime": "2016-03-30 07:58:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區民除路三段34號前\/ 成功路259號\/民族路三段跟海安路二段交叉口違規停車",
+    "address_string": "中西區民除路三段34號前 成功路259號 民族路三段跟海安路二段交叉口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-06 07:58:00"
+}
