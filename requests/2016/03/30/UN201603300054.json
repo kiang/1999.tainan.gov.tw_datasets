@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201603300054",
     "requested_datetime": "2016-03-30 09:20:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "善化區大成路232號 貓隻救援",
     "address_string": "善化區大成路232號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-30 12:09:40",
     "expected_datetime": "2016-04-06 09:20:00"
 }
