@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603300098",
+    "requested_datetime": "2016-03-30 10:13:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區文賢路人行道兩側   違停",
+    "address_string": "北區文賢路人行道兩側",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-06 10:13:00"
+}
