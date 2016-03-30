@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603300334",
+    "requested_datetime": "2016-03-30 19:30:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區莊敬路136巷9號對面  違規停車",
+    "address_string": "東區莊敬路136巷9號對面",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-03-30 22:44:39",
+    "expected_datetime": "2016-04-06 19:30:00"
+}
