@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區北門路一段132號+134號＋132號與134號中間（地下道出入口)外 違規停車",
     "address_string": "北門路一段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9932589",
+    "long": "120.2116579",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-03-31 20:58:00"
