@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603310190",
+    "requested_datetime": "2016-03-31 15:38:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "道路散落物",
+    "description": "永康區忠孝路(近復國一路) 道路散落物",
+    "address_string": "永康區忠孝路(近復國一路)",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-03-31 16:47:41",
+    "expected_datetime": "2016-04-07 15:38:00"
+}
