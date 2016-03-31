@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201603310210",
+    "requested_datetime": "2016-03-31 16:23:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區北門路一段沿線兩側(車站圓環到民族路)\/北區北門路二段沿線兩側(和緯路到長榮路) 違規停車",
+    "address_string": "中西區北門路一段",
+    "lat": "22.99843556575128",
+    "long": "120.21233461797239",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-03-31 16:23:00"
+}
