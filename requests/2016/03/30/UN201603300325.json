@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201603300325",
     "requested_datetime": "2016-03-30 19:06:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "官田區",
     "service_name": "民生管線",
@@ -12,6 +12,6 @@
     "lat": "23.1836422",
     "long": "120.2954293",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-31 10:24:44",
     "expected_datetime": "2016-04-06 19:06:00"
 }
