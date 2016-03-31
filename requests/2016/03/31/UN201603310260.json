@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201603310260",
     "requested_datetime": "2016-03-31 17:47:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "永康區新行街90號對面 佔用道路",
     "address_string": "永康區新行街90號對面",
     "lat": "23.0401947",
     "long": "120.2419916",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-03-31 21:02:24",
     "expected_datetime": "2016-04-07 17:47:00"
 }
