@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604010010",
     "requested_datetime": "2016-04-01 02:16:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "東區林森路一段(富立建設耘非凡建案)  妨礙安寧",
     "address_string": "東區林森路一段(富立建設耘非凡建案)",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-01 06:59:40",
     "expected_datetime": "2016-04-08 02:16:00"
 }
