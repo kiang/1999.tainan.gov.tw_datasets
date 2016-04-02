@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604020235",
+    "requested_datetime": "2016-04-02 17:01:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區安北路170之3號統一超商周邊 違規停車",
+    "address_string": "安平區安北路170之3號統一超商周邊",
+    "lat": "23.002929098311718",
+    "long": "120.16097735613585",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-02 17:01:00"
+}
