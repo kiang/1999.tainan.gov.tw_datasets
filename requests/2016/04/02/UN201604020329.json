@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604020329",
     "requested_datetime": "2016-04-02 23:49:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "新營區開元路59巷40-6號噪音舉發",
     "address_string": "730台灣台南市新營區開元路59巷40-6號",
     "lat": "23.310629",
     "long": "120.3245587",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-03 02:03:53",
     "expected_datetime": "2016-04-02 23:49:00"
 }
