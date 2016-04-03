@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604030159",
+    "requested_datetime": "2016-04-03 14:39:00",
+    "status": {},
+    "keyword": {},
+    "area": "東 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區北門路一段146號 違規停車",
+    "address_string": "東區北門路一段146號光南批發周邊",
+    "lat": "22.993458248323364",
+    "long": "120.21175056695937",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-03 14:39:00"
+}
