@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201604040140",
-    "requested_datetime": "2016-04-04 14:20:00",
+    "service_request_id": "UN201604040139",
+    "requested_datetime": "2016-04-04 14:41:00",
     "status": "未處理",
     "keyword": {},
     "area": "後壁區",
     "service_name": "民生管線",
     "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
-    "description": "後壁區後壁里195號   冒水",
-    "address_string": "後壁區後壁里195號",
+    "description": "後壁國小(後壁區後壁里195號)東門的正對面馬路 漏水掏空",
+    "address_string": "後壁國小東門正對面馬路",
     "lat": {},
     "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-04-11 14:20:00"
+    "expected_datetime": "2016-04-11 14:41:00"
 }

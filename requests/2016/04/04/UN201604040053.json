@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604040053",
     "requested_datetime": "2016-04-04 10:06:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北 區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "南區中華西路一段81號 髒亂及汙染",
     "address_string": "702台灣台南市南區中華西路一段81號",
     "lat": "22.97610333005446",
     "long": "120.18420193344355",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-04 15:35:37",
     "expected_datetime": "2016-04-04 10:06:00"
 }
