@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604040190",
+    "requested_datetime": "2016-04-04 17:20:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "仁德區二仁路一段 違停",
+    "address_string": "仁德區二仁路一段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-04-04 18:39:33",
+    "expected_datetime": "2016-04-11 17:20:00"
+}
