@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604050194",
+    "requested_datetime": "2016-04-05 16:21:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區府緯街4巷23-33號 違規停車",
+    "address_string": "700台灣台南市中西區府緯街4巷23-33號",
+    "lat": "22.984149397651688",
+    "long": "120.19875559955837",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-05 16:21:00"
+}
