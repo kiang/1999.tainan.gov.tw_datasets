@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604050243",
+    "requested_datetime": "2016-04-05 18:46:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區府前路二段204-216號 違規停車",
+    "address_string": "台南市中西區府前路2段204-216號",
+    "lat": "22.9918871",
+    "long": "120.19252",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-05 18:46:00"
+}
