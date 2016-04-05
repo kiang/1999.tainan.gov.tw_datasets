@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604050274",
+    "requested_datetime": "2016-04-05 20:54:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區大橋一街139巷44弄55號 違停",
+    "address_string": "永康區大橋一街139巷44弄55號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-12 20:54:00"
+}
