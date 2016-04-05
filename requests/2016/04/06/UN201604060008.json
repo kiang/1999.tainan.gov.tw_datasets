@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604060008",
+    "requested_datetime": "2016-04-06 05:40:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "南區新建路3巷(新興國中後門)明和公園 路面漏水",
+    "address_string": "南區新建路3巷(新興國中後門)明和公園",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-13 05:40:00"
+}
