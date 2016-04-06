@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604060132",
+    "requested_datetime": "2016-04-06 10:53:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中正路890號周圍 違規停車",
+    "address_string": "永康區中正路890號周圍",
+    "lat": "23.039406351474977",
+    "long": "120.23941721767189",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-06 10:53:00"
+}

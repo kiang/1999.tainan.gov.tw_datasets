@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604060118",
+    "requested_datetime": "2016-04-06 10:32:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中華路(大武街到大橋車站後門前空地) 違規停車",
+    "address_string": "永康區中華路 大武街到大橋車站後門前空地",
+    "lat": "23.0196384182771",
+    "long": "120.22425703704359",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-06 10:32:00"
+}
