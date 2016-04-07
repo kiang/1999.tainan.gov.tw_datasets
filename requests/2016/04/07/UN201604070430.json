@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區大同路一段159號 違停",
     "address_string": "東區大同路一段159號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9851568",
+    "long": "120.2113847",
     "service_notice": {},
     "updated_datetime": "2016-04-07 22:17:00",
     "expected_datetime": "2016-04-14 21:06:00"
