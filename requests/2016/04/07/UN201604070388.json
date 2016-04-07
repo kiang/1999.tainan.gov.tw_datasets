@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604070388",
+    "requested_datetime": "2016-04-07 18:35:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區北安路一段從育德路和北安路一段142巷之間 違規停車",
+    "address_string": "北區北安路一段從育德路和北安路一段142巷之間",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-14 18:35:00"
+}
