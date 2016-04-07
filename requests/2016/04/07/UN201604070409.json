@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "台南市北區文賢三街265號 違規停車",
     "address_string": "台南市北區文賢三街265號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0147309",
+    "long": "120.1978104",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-04-07 19:35:00"
