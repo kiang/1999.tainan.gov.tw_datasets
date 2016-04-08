@@ -7,10 +7,10 @@
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "東區鐵軌旁青年路到前鋒路 違規停車",
+    "description": "東區鐵軌旁青年路到前鋒路紅 違規停車",
     "address_string": "東區鐵軌旁",
-    "lat": {},
-    "long": {},
+    "lat": "24.7920604",
+    "long": "120.9933678",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-04-08 21:56:00"
