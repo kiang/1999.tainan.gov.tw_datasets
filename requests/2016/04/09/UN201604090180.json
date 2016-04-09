@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604090180",
+    "requested_datetime": "2016-04-09 16:35:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區前鋒路115巷 違規停車",
+    "address_string": "701台灣台南市東區前鋒路115巷",
+    "lat": "22.99328695398193",
+    "long": "120.21298103034496",
+    "service_notice": {},
+    "updated_datetime": "2016-04-09 17:37:51",
+    "expected_datetime": "2016-04-09 16:35:00"
+}

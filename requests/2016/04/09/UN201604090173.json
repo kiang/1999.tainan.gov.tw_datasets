@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604090173",
+    "requested_datetime": "2016-04-09 16:20:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區小東路281號 違規停車",
+    "address_string": "704台灣台南市北區小東路281號",
+    "lat": "22.9995742",
+    "long": "120.2291146",
+    "service_notice": {},
+    "updated_datetime": "2016-04-09 17:20:52",
+    "expected_datetime": "2016-04-09 16:20:00"
+}
