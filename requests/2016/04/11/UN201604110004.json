@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604110004",
+    "requested_datetime": "2016-04-11 00:58:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中正路256巷4號違規停車",
+    "address_string": "710台灣台南市永康區中正路256巷4號",
+    "lat": "23.031411403842736",
+    "long": "120.25105163455008",
+    "service_notice": {},
+    "updated_datetime": "2016-04-11 02:41:10",
+    "expected_datetime": "2016-04-11 00:58:00"
+}
