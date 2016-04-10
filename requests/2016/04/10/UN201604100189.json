@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201604100177",
-    "requested_datetime": "2016-04-10 18:29:00",
+    "service_request_id": "UN201604100189",
+    "requested_datetime": "2016-04-10 19:32:00",
     "status": "未處理",
     "keyword": {},
     "area": "東區",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "東區崇學路223號 違規停車",
     "address_string": "東區崇學路223號",
-    "lat": "22.981119",
-    "long": "120.2241938",
+    "lat": {},
+    "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-04-17 18:29:00"
+    "expected_datetime": "2016-04-17 19:32:00"
 }
