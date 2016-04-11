@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604110041",
     "requested_datetime": "2016-04-11 08:21:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "交通疏導",
     "description": "東區裕農路(夢時代往東).交通擁塞",
     "address_string": "東區裕農路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-11 13:01:07",
     "expected_datetime": "2016-04-18 08:21:00"
 }
