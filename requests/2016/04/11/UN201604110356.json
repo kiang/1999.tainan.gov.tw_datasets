@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604110356",
+    "requested_datetime": "2016-04-11 19:06:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中華北路二段224號(修車廠)前 違規停車",
+    "address_string": "北區中華北路二段224號修車廠前",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-18 19:06:00"
+}
