@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區裕農路389巷底 違停",
     "address_string": "東區裕農路389巷底",
-    "lat": {},
-    "long": {},
+    "lat": "24.7920604",
+    "long": "120.9933678",
     "service_notice": {},
     "updated_datetime": "2016-04-12 23:34:23",
     "expected_datetime": "2016-04-19 21:09:00"
