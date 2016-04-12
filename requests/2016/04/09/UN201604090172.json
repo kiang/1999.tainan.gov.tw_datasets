@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604090172",
     "requested_datetime": "2016-04-09 16:17:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "違規停車",
     "description": "建平路轉建平二街 路燈不亮",
     "address_string": "安平區建平路 建平二街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-12 14:41:12",
     "expected_datetime": "2016-04-16 16:17:00"
 }
