@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604120329",
+    "requested_datetime": "2016-04-12 17:24:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區北門路三段35號.46號.60號.62號   違規停車",
+    "address_string": "北區北門路三段35號.46號.60號.62號",
+    "lat": "23.014305461238944",
+    "long": "120.21735202521084",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-12 17:24:00"
+}
