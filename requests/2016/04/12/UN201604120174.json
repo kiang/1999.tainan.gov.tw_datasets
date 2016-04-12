@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604120174",
+    "requested_datetime": "2016-04-12 12:06:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中正七街27號 違規停車",
+    "address_string": "永康區中正七街27號",
+    "lat": "23.03998886076347",
+    "long": "120.24003479629755",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-12 12:06:00"
+}
