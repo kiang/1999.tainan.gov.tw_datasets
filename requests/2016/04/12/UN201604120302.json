@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604120302",
+    "requested_datetime": "2016-04-12 16:15:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "人孔蓋聲響、凹陷、漏水",
+    "description": "北區大興街361號前面 人孔蓋鬆動",
+    "address_string": "北區大興街361號前面",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-19 16:15:00"
+}
