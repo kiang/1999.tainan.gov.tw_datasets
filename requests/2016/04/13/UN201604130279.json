@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區西門路三段175號 違停",
     "address_string": "北區西門路三段175號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0042522",
+    "long": "120.2044234",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-04-20 18:11:00"
