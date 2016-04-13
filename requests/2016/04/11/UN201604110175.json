@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604110175",
     "requested_datetime": "2016-04-11 11:44:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "東區長榮路二段26號前快車道 坑洞",
     "address_string": "東區長榮路二段26號前快車道",
     "lat": "22.9872955",
     "long": "120.2192356",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-13 09:38:13",
     "expected_datetime": "2016-04-18 11:44:00"
 }
