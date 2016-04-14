@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604140059",
+    "requested_datetime": "2016-04-14 09:16:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "善化區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府工務局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "善化區光復二街88號-90號 違停",
+    "address_string": "善化區光復二街88號-90號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-04-14 12:42:35",
+    "expected_datetime": "2016-04-21 09:16:00"
+}
