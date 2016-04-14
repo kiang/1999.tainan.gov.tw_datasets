@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604120004",
     "requested_datetime": "2016-04-12 00:50:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "安南區安和路四段67巷38-1號路燈故障",
     "address_string": "709台灣台南市安南區安和路四段67巷38-1號",
     "lat": "23.0520365",
     "long": "120.2172599",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-14 08:44:21",
     "expected_datetime": "2016-04-12 00:50:00"
 }
