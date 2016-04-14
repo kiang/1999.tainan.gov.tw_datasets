@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604140010",
     "requested_datetime": "2016-04-14 06:21:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "麻豆區交流道北上出口 號誌故障",
     "address_string": "麻豆區交流道北上出口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-14 17:15:22",
     "expected_datetime": "2016-04-21 06:21:00"
 }
