@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604150131",
+    "requested_datetime": "2016-04-15 11:05:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區民族路與海安路口的海安教會門口的人行道 違規停車",
+    "address_string": "中西區民族路與海安路口",
+    "lat": "22.99716648606001",
+    "long": "120.21296594291925",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-15 11:05:00"
+}
