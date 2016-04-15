@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604150268",
+    "requested_datetime": "2016-04-15 15:20:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區新都路 違規停車",
+    "address_string": "台南市南區新都路",
+    "lat": "22.9688769",
+    "long": "120.199224",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-15 15:20:00"
+}
