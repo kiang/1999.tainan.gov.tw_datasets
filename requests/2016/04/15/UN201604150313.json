@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604150313",
+    "requested_datetime": "2016-04-15 16:51:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區長榮路五段沿線(北門路二段到長榮路五段253巷) 違規停車",
+    "address_string": "北區長榮路五段沿線",
+    "lat": "23.012781940922242",
+    "long": "120.21727457642555",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-15 16:51:00"
+}
