@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604140051",
     "requested_datetime": "2016-04-14 08:56:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "寬頻管線、孔蓋損壞",
     "description": "東區大同路一段197巷23號前",
     "address_string": "東區大同路一段197巷23號前",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-15 08:49:52",
     "expected_datetime": "2016-04-21 08:56:00"
 }
