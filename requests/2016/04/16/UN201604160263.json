@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604160263",
+    "requested_datetime": "2016-04-16 18:30:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府水利局",
+    "subproject": "人孔蓋聲響、凹陷、漏水",
+    "description": "東區崇善路549號 路面下陷",
+    "address_string": "東區崇善路549號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-23 18:30:00"
+}
