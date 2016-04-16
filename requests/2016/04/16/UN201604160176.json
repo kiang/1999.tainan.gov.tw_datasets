@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604160176",
+    "requested_datetime": "2016-04-16 14:42:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "台南市東區東平路142號",
+    "lat": "22.9955723",
+    "long": "120.2295802",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-16 14:42:00"
+}
