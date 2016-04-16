@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604160310",
+    "requested_datetime": "2016-04-16 20:29:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區民權路3段144號 違規停車",
+    "address_string": "700台灣台南市中西區民權路3段144號",
+    "lat": "22.9976461",
+    "long": "120.1946703",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-16 20:29:00"
+}
