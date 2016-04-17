@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604170226",
+    "requested_datetime": "2016-04-17 17:22:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區文南路 違規停車",
+    "address_string": "南區文南路沿線兩側",
+    "lat": "22.9849818",
+    "long": "120.1899424",
+    "service_notice": {},
+    "updated_datetime": "2016-04-17 18:04:55",
+    "expected_datetime": "2016-04-17 17:22:00"
+}

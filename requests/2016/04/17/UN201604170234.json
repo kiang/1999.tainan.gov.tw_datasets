@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區勝利路206巷30號跟50號  違停",
     "address_string": "北區勝利路206巷30號跟50號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0048176",
+    "long": "120.2196461",
     "service_notice": {},
     "updated_datetime": "2016-04-17 17:51:14",
     "expected_datetime": "2016-04-24 17:36:00"

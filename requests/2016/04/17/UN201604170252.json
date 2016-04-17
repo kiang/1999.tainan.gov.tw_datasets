@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604170252",
+    "requested_datetime": "2016-04-17 18:32:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區開元路212巷(口)和長榮路四段交叉口處人行道  違規停車",
+    "address_string": "開元路212巷口人行道",
+    "lat": "23.0058759",
+    "long": "120.2229729",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-17 18:32:00"
+}
