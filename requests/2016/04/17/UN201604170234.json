@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604170234",
+    "requested_datetime": "2016-04-17 17:36:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區勝利路206巷30號跟50號  違停",
+    "address_string": "北區勝利路206巷30號跟50號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-04-17 17:51:14",
+    "expected_datetime": "2016-04-24 17:36:00"
+}
