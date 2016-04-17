@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604170047",
+    "requested_datetime": "2016-04-17 09:02:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區自強路216巷1號 違停",
+    "address_string": "永康區自強路216巷1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-04-17 09:52:33",
+    "expected_datetime": "2016-04-24 09:02:00"
+}
