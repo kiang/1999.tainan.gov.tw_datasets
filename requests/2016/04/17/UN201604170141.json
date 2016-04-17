@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604170141",
+    "requested_datetime": "2016-04-17 13:12:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "西門路4段\/文成路口人行道   違規停車",
+    "address_string": "西門路4段\/文成路口人行道",
+    "lat": "23.0124842",
+    "long": "120.2090936",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-17 13:12:00"
+}
