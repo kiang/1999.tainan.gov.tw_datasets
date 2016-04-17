@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604170214",
+    "requested_datetime": "2016-04-17 16:47:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "安平區文平路與建平十一街口 路面坑洞",
+    "address_string": "安平區文平路 建平十一街口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-24 16:47:00"
+}
