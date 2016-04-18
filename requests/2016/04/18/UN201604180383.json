@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604180383",
     "requested_datetime": "2016-04-18 20:18:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "南區金華路二段9巷2號 違規停車",
     "address_string": "南區金華路二段9巷2號",
     "lat": "22.9758945",
     "long": "120.1908165",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-19 00:27:40",
     "expected_datetime": "2016-04-25 20:18:00"
 }
