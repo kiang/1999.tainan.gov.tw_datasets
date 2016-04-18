@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604150050",
     "requested_datetime": "2016-04-15 08:44:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市永康區公所",
     "subproject": "路面坑洞",
     "description": "永康區中華二路358巷16號 道路維修",
     "address_string": "710台灣台南市永康區中華二路358巷16號",
     "lat": "23.009669592454344",
     "long": "120.22990047915960",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-18 09:45:12",
     "expected_datetime": "2016-04-15 08:44:00"
 }
