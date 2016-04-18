@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604180295",
+    "requested_datetime": "2016-04-18 16:31:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區柴頭港溪防汛道路 大武街597巷36號對面  違規停車",
+    "address_string": "北區柴頭港溪防汛道路 大武街597巷36號對面",
+    "lat": "23.018558389615166",
+    "long": "120.22168178111315",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-18 16:31:00"
+}
