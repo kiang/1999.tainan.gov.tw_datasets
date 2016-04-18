@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604170307",
     "requested_datetime": "2016-04-17 22:48:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "安南區安中路三段400巷左右 噪音污染",
     "address_string": "安南區安中路三段400巷左右",
     "lat": "23.0509565",
     "long": "120.1752822",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-18 07:41:35",
     "expected_datetime": "2016-04-24 22:48:00"
 }
