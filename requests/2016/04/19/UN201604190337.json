@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604190337",
+    "requested_datetime": "2016-04-19 17:16:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中正路495巷沿線(中正路到新中街) 違規停車",
+    "address_string": "永康區中正路495巷沿線(中正路到新中街)",
+    "lat": "23.03735057955123",
+    "long": "120.24101447314024",
+    "service_notice": {},
+    "updated_datetime": "2016-04-19 18:48:27",
+    "expected_datetime": "2016-04-19 17:16:00"
+}
