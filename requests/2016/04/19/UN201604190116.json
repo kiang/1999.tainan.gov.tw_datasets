@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604190116",
+    "requested_datetime": "2016-04-19 11:15:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "南區灣裡路263巷67弄14號對面的牆邊",
+    "address_string": "南區灣裡路263巷67弄14號對面的牆邊",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-26 11:15:00"
+}
