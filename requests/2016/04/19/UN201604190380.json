@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區東門路二段26號 28號 違停",
     "address_string": "東區東門路二段26號 28號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9821618",
+    "long": "120.2280624",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-04-26 18:47:00"
