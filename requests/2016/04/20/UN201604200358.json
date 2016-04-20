@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604200358",
+    "requested_datetime": "2016-04-20 19:00:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "臺南市東區區公所,臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "東區崇德路\/崇明十五街口 佔用道路",
+    "address_string": "東區崇德路與崇明十五街口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-27 19:00:00"
+}
