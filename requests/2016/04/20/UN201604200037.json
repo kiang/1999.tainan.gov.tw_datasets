@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604200037",
     "requested_datetime": "2016-04-20 08:52:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東 區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區長東街41巷212-220號 違規停車",
     "address_string": "701台灣台南市東區長東街41巷212-220號",
     "lat": "22.964259456974723",
     "long": "120.23143094033003",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-20 17:19:58",
     "expected_datetime": "2016-04-20 08:52:00"
 }
