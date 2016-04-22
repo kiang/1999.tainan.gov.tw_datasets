@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604220591",
     "requested_datetime": "2016-04-22 11:43:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府經濟發展局,臺南市政府環境保護局",
     "subproject": "其他汙染舉發",
     "description": "安南區環河街170巷11號 噪音汙染",
     "address_string": "安南區環河街170巷11號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-22 17:38:54",
     "expected_datetime": "2016-04-29 11:43:00"
 }
