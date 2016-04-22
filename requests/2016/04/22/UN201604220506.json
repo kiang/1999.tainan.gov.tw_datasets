@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604220506",
     "requested_datetime": "2016-04-22 09:31:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區立德十一路2號前轉角 違規停車",
     "address_string": "701台灣台南市東區立德十一路2號前轉角",
     "lat": "22.9767047",
     "long": "120.2141655",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-22 15:06:39",
     "expected_datetime": "2016-04-22 09:31:00"
 }
