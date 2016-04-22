@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604220736",
     "requested_datetime": "2016-04-22 17:00:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區文平路363號前面 違規停車",
     "address_string": "安平區文平路363號前面",
     "lat": "22.991715",
     "long": "120.1784283",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-22 18:43:39",
     "expected_datetime": "2016-04-29 17:00:00"
 }
