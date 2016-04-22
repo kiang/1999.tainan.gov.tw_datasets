@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604210424",
     "requested_datetime": "2016-04-21 22:06:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "東區中華東路二段185巷10號交通運輸",
     "address_string": "701台灣台南市東區中華東路二段185巷10號",
     "lat": "22.984645069078105",
     "long": "120.23294073439331",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-22 07:37:35",
     "expected_datetime": "2016-04-21 22:06:00"
 }
