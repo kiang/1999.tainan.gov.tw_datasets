@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604230207",
+    "requested_datetime": "2016-04-23 15:13:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "中西區府緯街四巷二號 佔用道路",
+    "address_string": "700台灣台南市中西區府緯街四巷二號",
+    "lat": "22.983731471999533",
+    "long": "120.19839584827423",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-23 15:13:00"
+}
