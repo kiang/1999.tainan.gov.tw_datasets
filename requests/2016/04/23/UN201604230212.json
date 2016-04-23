@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604230212",
+    "requested_datetime": "2016-04-23 15:22:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區東寧路371號(萬客樓側邊)前 違規停車",
+    "address_string": "709台灣台南市東區東寧路371號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-04-23 17:14:32",
+    "expected_datetime": "2016-04-23 15:22:00"
+}
