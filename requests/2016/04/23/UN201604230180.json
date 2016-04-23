@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201604230180",
     "requested_datetime": "2016-04-23 14:03:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "交通運輸",
@@ -12,6 +12,6 @@
     "lat": "22.98365152890989",
     "long": "120.19965615123512",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-23 19:23:02",
     "expected_datetime": "2016-04-23 14:03:00"
 }

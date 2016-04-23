@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604230304",
+    "requested_datetime": "2016-04-23 19:03:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區德東街220號 違停",
+    "address_string": "東區德東街220號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-30 19:03:00"
+}
