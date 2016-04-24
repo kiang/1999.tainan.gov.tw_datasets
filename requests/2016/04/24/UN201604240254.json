@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604240254",
     "requested_datetime": "2016-04-24 19:06:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "仁德區仁中六街和仁中二街轉彎處 違停",
     "address_string": "仁德區仁中六街和仁中二街轉彎處",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-25 00:59:29",
     "expected_datetime": "2016-05-01 19:06:00"
 }
