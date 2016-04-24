@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604240246",
+    "requested_datetime": "2016-04-24 18:48:00",
+    "status": {},
+    "keyword": {},
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區海安路一段109號 違規停車",
+    "address_string": "700台灣台南市中西區海安路一段109號",
+    "lat": "22.988996808613162",
+    "long": "120.19486404955389",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-24 18:48:00"
+}
