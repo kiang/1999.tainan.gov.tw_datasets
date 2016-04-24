@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604240306",
+    "requested_datetime": "2016-04-24 22:37:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "北區力行三街3號2樓",
+    "address_string": "北區力行三街3號2樓",
+    "lat": "23.0079598",
+    "long": "120.2290941",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-01 22:37:00"
+}
