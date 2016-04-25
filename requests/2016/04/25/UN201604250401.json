@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區中山路(民生綠園的圓環到民族路口) 違規停車",
     "address_string": "中山路",
-    "lat": {},
-    "long": {},
+    "lat": "23.9867969",
+    "long": "121.0179104",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-04-25 19:16:00"
