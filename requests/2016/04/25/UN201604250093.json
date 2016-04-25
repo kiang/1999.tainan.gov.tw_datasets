@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604250093",
     "requested_datetime": "2016-04-25 09:49:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北 區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區實踐街39巷與大武街交叉路口斜坡上 違規停車",
     "address_string": "北區實踐街39巷與大武街交叉路口斜坡上",
     "lat": "23.017741882205407",
     "long": "120.21873403340578",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-25 12:08:44",
     "expected_datetime": "2016-04-25 09:49:00"
 }
