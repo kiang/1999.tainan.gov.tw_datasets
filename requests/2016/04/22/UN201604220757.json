@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604220757",
     "requested_datetime": "2016-04-22 17:31:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "道路維修",
-    "agency": "臺南市仁德區公所",
+    "agency": "台南市政府",
     "subproject": "路面坑洞",
     "description": "仁德交流道南下出口往中山路 坑洞",
     "address_string": "仁德交流道南下出口往中山路交流道南下出口往中山路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-25 09:04:03",
     "expected_datetime": "2016-04-29 17:31:00"
 }
