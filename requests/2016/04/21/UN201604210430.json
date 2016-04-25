@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604210430",
     "requested_datetime": "2016-04-21 23:20:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "動物救援",
-    "agency": "臺南市動物防疫保護處",
+    "agency": "臺南市政府農業局",
     "subproject": "犬貓急難救援",
     "description": "南區國民路475巷16號 山羌",
     "address_string": "南區國民路475巷16號",
     "lat": "22.9742185",
     "long": "120.2047547",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-25 11:28:19",
     "expected_datetime": "2016-04-28 23:20:00"
 }
