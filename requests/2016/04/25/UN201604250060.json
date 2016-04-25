@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604250060",
     "requested_datetime": "2016-04-25 09:01:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "環境髒亂",
     "description": "南區健康路二段533巷10號及12號對面轉角 環境髒亂",
     "address_string": "南區健康二段533巷10號及12號對面轉角",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-25 21:30:31",
     "expected_datetime": "2016-05-02 09:01:00"
 }
