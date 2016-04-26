@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604260351",
+    "requested_datetime": "2016-04-26 18:23:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區大武街與正新街交叉路口 違規停車",
+    "address_string": "永康區大武街與正新街交叉路口",
+    "lat": "23.020005008896646",
+    "long": "120.22255115211009",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-26 18:23:00"
+}

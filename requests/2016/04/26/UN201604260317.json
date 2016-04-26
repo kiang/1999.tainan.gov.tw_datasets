@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "安南區永安路整條 空氣汙染",
     "address_string": "安南區永安路整條",
-    "lat": {},
-    "long": {},
+    "lat": "23.0444983",
+    "long": "120.2215988",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-05-03 16:44:00"
