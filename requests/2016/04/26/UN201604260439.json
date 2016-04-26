@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201604260423",
-    "requested_datetime": "2016-04-26 21:39:00",
+    "service_request_id": "UN201604260439",
+    "requested_datetime": "2016-04-26 22:39:00",
     "status": {},
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "台南市政府",
     "subproject": "違規停車",
     "description": "東區明東街 瑞東街路口   違規停車",
     "address_string": "台南市東區明東街 瑞東街路口",
-    "lat": "22.9612882",
-    "long": "120.235665",
+    "lat": {},
+    "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-04-26 21:39:00"
+    "expected_datetime": "2016-04-26 22:39:00"
 }
