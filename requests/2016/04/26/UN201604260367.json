@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區赤崁街43號 違停",
     "address_string": "中西區赤崁街43號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9971353",
+    "long": "120.2033241",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-05-03 18:52:00"
