@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604250377",
     "requested_datetime": "2016-04-25 18:18:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "新營區新進路二段407號 佔用道路",
     "address_string": "台南市新營區新進路二段407號",
     "lat": "23.332990594194",
     "long": "120.31962398439646",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-26 12:19:45",
     "expected_datetime": "2016-04-25 18:18:00"
 }
