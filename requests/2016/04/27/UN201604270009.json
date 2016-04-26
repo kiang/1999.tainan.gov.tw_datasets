@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604270009",
+    "requested_datetime": "2016-04-27 01:04:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "鹽水區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "蓁豪KTV",
+    "address_string": "鹽水區康樂路 文武街口 蓁豪KTV",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-04-27 02:05:18",
+    "expected_datetime": "2016-05-04 01:04:00"
+}
