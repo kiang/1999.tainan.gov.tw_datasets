@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604260159",
     "requested_datetime": "2016-04-26 11:14:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "官田區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
     "description": "官田區大崎里 中華電信電桿斷裂",
     "address_string": "官田區大崎里",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-27 15:59:40",
     "expected_datetime": "2016-05-03 11:14:00"
 }
