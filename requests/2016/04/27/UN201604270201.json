@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604270201",
     "requested_datetime": "2016-04-27 13:36:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "安南區仁安路252號 噪音",
     "address_string": "安南區仁安路252號",
     "lat": "23.0518357",
     "long": "120.1799863",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-27 23:59:33",
     "expected_datetime": "2016-05-04 13:36:00"
 }
