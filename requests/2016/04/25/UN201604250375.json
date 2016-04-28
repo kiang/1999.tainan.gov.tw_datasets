@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201604250375",
     "requested_datetime": "2016-04-25 18:12:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "動物救援",
@@ -12,6 +12,6 @@
     "lat": "22.910074",
     "long": "120.2728698",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-28 15:59:28",
     "expected_datetime": "2016-04-25 18:12:00"
 }
