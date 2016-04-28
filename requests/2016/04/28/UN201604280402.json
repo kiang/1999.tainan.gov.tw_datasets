@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區崇明十三街11巷36號 違停",
     "address_string": "東區崇明十三街11巷36號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9746334",
+    "long": "120.2247532",
     "service_notice": {},
     "updated_datetime": "2016-04-28 23:52:51",
     "expected_datetime": "2016-05-05 21:15:00"
