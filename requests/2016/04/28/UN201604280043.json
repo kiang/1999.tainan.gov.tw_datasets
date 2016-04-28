@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604280043",
     "requested_datetime": "2016-04-28 08:39:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "南區(文南路旁)金華路二段385巷35號",
     "address_string": "南區(文南路旁)金華路二段385巷35號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-28 18:32:54",
     "expected_datetime": "2016-05-05 08:39:00"
 }

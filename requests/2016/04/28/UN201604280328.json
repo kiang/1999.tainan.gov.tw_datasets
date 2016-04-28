@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604280328",
+    "requested_datetime": "2016-04-28 17:35:00",
+    "status": {},
+    "keyword": {},
+    "area": "東 區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "東區東安路156巷與怡東路交叉路口 佔用道路",
+    "address_string": "東安路156巷與怡東路交叉路口",
+    "lat": "22.9957591269263",
+    "long": "120.22438813000916",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-28 17:35:00"
+}
