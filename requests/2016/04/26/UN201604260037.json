@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604260037",
     "requested_datetime": "2016-04-26 08:12:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "道路維修",
-    "agency": "臺南市政府工務局,臺南市政府水利局",
+    "agency": "臺南市政府水利局",
     "subproject": "路面坑洞",
     "description": "中西區頂美三街\/西湖街口 路燈 中西區民權路四段46號  路面坑洞",
     "address_string": "中西區民權路四段46號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-28 19:41:32",
     "expected_datetime": "2016-05-03 08:12:00"
 }
