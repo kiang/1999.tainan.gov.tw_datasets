@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604290425",
     "requested_datetime": "2016-04-29 22:32:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東 區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "東區怡東路150巷8號1樓 噪音舉發",
     "address_string": "台灣台南市東區怡東路150巷8號1樓",
     "lat": "22.99482087935333",
     "long": "120.22863138467075",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-30 03:42:29",
     "expected_datetime": "2016-04-29 22:32:00"
 }

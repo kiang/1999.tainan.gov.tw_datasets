@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604290395",
     "requested_datetime": "2016-04-29 20:49:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區賢北街65號 違規停車",
     "address_string": "704台灣台南市北區賢北街65號",
     "lat": "23.0088078",
     "long": "120.183331",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-30 03:33:02",
     "expected_datetime": "2016-04-29 20:49:00"
 }
