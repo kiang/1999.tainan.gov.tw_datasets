@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604300169",
+    "requested_datetime": "2016-04-30 13:56:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "北區大武街597巷60號對面(奇美醫院圍牆周圍)",
+    "lat": "23.01913080588331",
+    "long": "120.22191178053619",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-30 13:56:00"
+}

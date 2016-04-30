@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604300152",
+    "requested_datetime": "2016-04-30 13:10:00",
+    "status": {},
+    "keyword": {},
+    "area": "學甲區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "學甲區華宗路142巷   違規停車",
+    "address_string": "台南市學甲區華宗路142巷",
+    "lat": "23.2239727",
+    "long": "120.1837111",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-04-30 13:10:00"
+}
