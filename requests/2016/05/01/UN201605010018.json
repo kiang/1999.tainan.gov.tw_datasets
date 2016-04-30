@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605010018",
+    "requested_datetime": "2016-05-01 04:04:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區前鋒路285號 佔用道路",
+    "address_string": "北區前鋒路285號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-08 04:04:00"
+}
