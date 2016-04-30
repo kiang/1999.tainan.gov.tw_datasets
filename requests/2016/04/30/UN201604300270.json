@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201604300270",
+    "requested_datetime": "2016-04-30 19:09:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區立賢路一段571號前 違停",
+    "address_string": "北區立賢路一段571號前",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-07 19:09:00"
+}
