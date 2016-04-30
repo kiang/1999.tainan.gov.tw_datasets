@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201604300152",
     "requested_datetime": "2016-04-30 13:10:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "學甲區",
     "service_name": "違規停車",
@@ -12,6 +12,6 @@
     "lat": "23.2239727",
     "long": "120.1837111",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-04-30 16:49:06",
     "expected_datetime": "2016-04-30 13:10:00"
 }
