@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區觀光城202號 違停",
     "address_string": "南區觀光城202號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9615564",
+    "long": "120.1905486",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-05-08 19:15:00"
