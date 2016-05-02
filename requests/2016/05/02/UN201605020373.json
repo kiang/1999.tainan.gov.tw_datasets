@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201605020321",
-    "requested_datetime": "2016-05-02 17:34:00",
+    "service_request_id": "UN201605020373",
+    "requested_datetime": "2016-05-02 19:49:00",
     "status": {},
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "中西區成功路21號  違規停車",
-    "address_string": "台南市中西區成功路21號",
+    "description": "中西區中山路(民生綠園到民族路)雙側 違規停車",
+    "address_string": "中山路",
     "lat": {},
     "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-05-02 17:34:00"
+    "expected_datetime": "2016-05-02 19:49:00"
 }
