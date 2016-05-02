@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201604290370",
     "requested_datetime": "2016-04-29 19:29:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "北區開南街157號附近的白馬磁磚  噪音",
     "address_string": "北區開南街157號附近的白馬磁磚",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-02 08:23:31",
     "expected_datetime": "2016-05-06 19:29:00"
 }
