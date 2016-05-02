@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區小東路(林森路～長榮路)  路燈故障",
     "address_string": "北區小東路 林森路到長榮路",
-    "lat": {},
-    "long": {},
+    "lat": "24.8238676",
+    "long": "120.9474747",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-05-09 22:33:00"
