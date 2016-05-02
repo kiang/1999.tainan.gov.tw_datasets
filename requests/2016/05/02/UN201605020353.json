@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605020353",
+    "requested_datetime": "2016-05-02 18:48:00",
+    "status": {},
+    "keyword": {},
+    "area": "南 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區健康路一段133巷51弄18號 違規停車",
+    "address_string": "702台灣台南市南區健康路一段133巷51弄18號",
+    "lat": "22.97928915724233",
+    "long": "120.20951494574545",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-02 18:48:00"
+}
