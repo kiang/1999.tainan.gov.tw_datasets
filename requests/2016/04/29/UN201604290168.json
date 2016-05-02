@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201604290168",
     "requested_datetime": "2016-04-29 12:05:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東山區",
     "service_name": "動物救援",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-02 15:31:15",
     "expected_datetime": "2016-04-29 12:05:00"
 }
