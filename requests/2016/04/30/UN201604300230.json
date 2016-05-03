@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區東寧路464號 違規停車",
     "address_string": "台南市東區東寧路464號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9893544",
+    "long": "120.2294766",
     "service_notice": {},
     "updated_datetime": "2016-04-30 18:22:05",
     "expected_datetime": "2016-04-30 17:01:00"
