@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605040206",
+    "requested_datetime": "2016-05-04 14:35:00",
+    "status": {},
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安南區北安路二段38號 違規停車",
+    "address_string": "709台灣台南市安南區北安路二段38號",
+    "lat": "23.0262967",
+    "long": "120.2052013",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-04 14:35:00"
+}

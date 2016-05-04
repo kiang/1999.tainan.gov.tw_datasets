@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605040053",
     "requested_datetime": "2016-05-04 09:00:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "中西區民權路一段 妨礙安寧",
     "address_string": "中西區民權路一段",
     "lat": "22.9908208",
     "long": "120.2088075",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-04 15:04:02",
     "expected_datetime": "2016-05-11 09:00:00"
 }
