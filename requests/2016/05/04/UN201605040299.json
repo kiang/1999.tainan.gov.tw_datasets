@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605040299",
+    "requested_datetime": "2016-05-04 17:39:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中山東路沿線(中華二路到中山東路120巷) 違規停車",
+    "address_string": "永康區中山東路沿線 中華二路到中山東路120巷",
+    "lat": "23.012756327612056",
+    "long": "120.23662202060224",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-04 17:39:00"
+}
