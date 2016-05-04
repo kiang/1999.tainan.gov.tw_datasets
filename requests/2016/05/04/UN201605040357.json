@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201605040357",
     "requested_datetime": "2016-05-04 20:17:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "噪音舉發",
@@ -12,6 +12,6 @@
     "lat": "23.188194",
     "long": "120.286308",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-04 22:14:29",
     "expected_datetime": "2016-05-04 20:17:00"
 }
