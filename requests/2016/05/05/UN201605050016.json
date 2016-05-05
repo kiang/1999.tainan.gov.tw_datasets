@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605050016",
     "requested_datetime": "2016-05-05 06:20:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東 區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "環境髒亂",
     "description": "東區裕強街 攤販佔用道路",
     "address_string": "701台灣台南市東區裕強街",
     "lat": "22.98566583341814",
     "long": "120.23999355733395",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-05 11:42:50",
     "expected_datetime": "2016-05-05 06:20:00"
 }

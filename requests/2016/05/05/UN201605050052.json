@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605050052",
     "requested_datetime": "2016-05-05 09:14:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北 區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "北區小東路35號 勝利路 小東路口  占用道路",
     "address_string": "704台灣台南市北區小東路35號",
     "lat": "23.000973380719785",
     "long": "120.21701741963624",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-05 11:50:56",
     "expected_datetime": "2016-05-05 09:14:00"
 }
