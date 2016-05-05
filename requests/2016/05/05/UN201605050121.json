@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605050121",
+    "requested_datetime": "2016-05-05 11:05:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "安南區環館北路 環館二路 交叉處   占用道路",
+    "address_string": "安南區環館北路 環館二路 交叉處",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-12 11:05:00"
+}
