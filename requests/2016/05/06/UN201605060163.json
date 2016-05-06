@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605060163",
+    "requested_datetime": "2016-05-06 12:55:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區東寧路391號(多米文具店)前 違規停車",
+    "address_string": "東寧路多米文具店前",
+    "lat": "24.7323541",
+    "long": "121.0893339",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-06 12:55:00"
+}

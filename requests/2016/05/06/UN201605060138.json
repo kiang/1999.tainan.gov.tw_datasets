@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605060138",
+    "requested_datetime": "2016-05-06 11:33:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區臨安路二段201號 佔用道路",
+    "address_string": "704台灣台南市北區臨安路二段201號",
+    "lat": "23.003682429340646",
+    "long": "120.19944056868552",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-06 11:33:00"
+}
