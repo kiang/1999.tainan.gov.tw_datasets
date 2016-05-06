@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區武德街147號 違規停車",
     "address_string": "台南市中西區武德街147號",
     "lat": "22.992921",
     "long": "120.2097604",
     "service_notice": {},
-    "updated_datetime": "2016-05-02 17:31:38",
+    "updated_datetime": "2016-05-06 10:24:40",
     "expected_datetime": "2016-05-02 11:41:00"
 }

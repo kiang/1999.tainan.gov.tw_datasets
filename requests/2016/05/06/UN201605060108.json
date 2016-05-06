@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605060108",
+    "requested_datetime": "2016-05-06 10:49:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東橋三路.東橋八街路口   違規停車",
+    "address_string": "東橋三路.東橋八街路口",
+    "lat": "23.021831467004958",
+    "long": "120.23237507790326",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-06 10:49:00"
+}
