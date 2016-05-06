@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區府連路146號 違規停車",
     "address_string": "台南市東區府連路146號",
-    "lat": {},
-    "long": {},
+    "lat": "22.984758",
+    "long": "120.2113961",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-05-06 21:18:00"
