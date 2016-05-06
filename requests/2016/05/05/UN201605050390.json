@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605050390",
     "requested_datetime": "2016-05-05 23:33:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "新營區開元路170號髒亂及汙染",
     "address_string": "730台灣台南市新營區開元路170號",
     "lat": "23.320915690499419",
     "long": "120.33657423920909",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-06 09:07:49",
     "expected_datetime": "2016-05-05 23:33:00"
 }
