@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區萬昌路和民權路交叉處  違停",
     "address_string": "中西區萬昌路和民權路交叉處",
-    "lat": {},
-    "long": {},
+    "lat": "22.9898338",
+    "long": "120.210109",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-05-13 15:33:00"
