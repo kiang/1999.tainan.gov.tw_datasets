@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605070149",
     "requested_datetime": "2016-05-07 12:54:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "仁德區和愛街,二空新城大樓 妨礙安寧",
     "address_string": "仁德區和愛街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-07 16:54:35",
     "expected_datetime": "2016-05-14 12:54:00"
 }
