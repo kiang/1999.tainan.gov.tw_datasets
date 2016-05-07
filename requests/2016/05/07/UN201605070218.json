@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605070218",
+    "requested_datetime": "2016-05-07 15:52:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "701台灣台南市東區東寧路43號",
+    "lat": "22.9923411",
+    "long": "120.2211742",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-07 15:52:00"
+}
