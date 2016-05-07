@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605070140",
+    "requested_datetime": "2016-05-07 12:45:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "新營醫院急診室正對面的巷子及交叉的三民路上  違規停車",
+    "address_string": "新營醫院急診室正對面的巷子及交叉的三民路上",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-14 12:45:00"
+}
