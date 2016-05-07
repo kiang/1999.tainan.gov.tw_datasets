@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605070248",
     "requested_datetime": "2016-05-07 17:02:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "違規停車",
+    "description": "永康區中山東路117號 違規停車",
     "address_string": "永康區中山東路117號統一超商周邊道路兩側",
     "lat": "23.01265881183239",
     "long": "120.2367226034403",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-07 18:52:30",
     "expected_datetime": "2016-05-07 17:02:00"
 }
