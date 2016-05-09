@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605090412",
     "requested_datetime": "2016-05-09 21:36:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區慶東街127巷口 違停",
     "address_string": "東區慶東街127巷口",
     "lat": "24.2034037",
     "long": "120.8421107",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-10 03:58:51",
     "expected_datetime": "2016-05-16 21:36:00"
 }
