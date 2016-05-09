@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605050370",
     "requested_datetime": "2016-05-05 21:24:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "學甲區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市學甲區公所",
     "subproject": "違規停車",
     "description": "學甲區171市道與南1區道十字路口 路燈不亮",
     "address_string": "學甲區171市道與南1區道十字路口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-09 11:35:29",
     "expected_datetime": "2016-05-12 21:24:00"
 }
