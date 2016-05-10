@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605100398",
     "requested_datetime": "2016-05-10 22:13:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區文賢路1080巷6號巷口轉角處違規停車",
     "address_string": "台南市北區文賢路1080巷6號巷口轉角處",
     "lat": "23.0152216",
     "long": "120.1939588",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-11 02:04:17",
     "expected_datetime": "2016-05-10 22:13:00"
 }
