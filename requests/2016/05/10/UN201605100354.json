@@ -9,8 +9,8 @@
     "subproject": "公車動態LED跑馬燈資訊顯示異常",
     "description": "公車動態LED跑馬燈  故障",
     "address_string": "永康區崑山科大候車亭",
-    "lat": {},
-    "long": {},
+    "lat": "23.0033845",
+    "long": "120.258731",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-05-17 19:00:00"
