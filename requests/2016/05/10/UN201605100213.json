@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605100213",
     "requested_datetime": "2016-05-10 14:11:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區中成路 違規停車",
     "address_string": "中成路",
     "lat": "24.0360842",
     "long": "120.9458542",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-10 17:55:21",
     "expected_datetime": "2016-05-10 14:11:00"
 }
