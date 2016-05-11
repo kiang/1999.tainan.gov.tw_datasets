@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605110007",
     "requested_datetime": "2016-05-11 02:01:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "妨害安寧",
     "description": "中西區南寧街83巷36號3樓之3噪音舉發",
     "address_string": "南寧街83巷36號3樓之3",
     "lat": "22.9845137",
     "long": "120.1983358",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-11 09:11:33",
     "expected_datetime": "2016-05-11 02:01:00"
 }
