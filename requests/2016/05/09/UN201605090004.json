@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605090004",
     "requested_datetime": "2016-05-09 00:39:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "仁德區保安路一段與台一線交叉口 號誌",
     "address_string": "717台灣台南市仁德區保安路一段與台一線交叉口",
     "lat": "22.9229165",
     "long": "120.2248468",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-12 15:01:54",
     "expected_datetime": "2016-05-09 00:39:00"
 }
