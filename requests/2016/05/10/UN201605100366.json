@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605100366",
     "requested_datetime": "2016-05-10 19:35:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "路燈故障",
-    "agency": "臺南市政府聯合服務中心",
+    "agency": "台南市政府",
     "subproject": "10盞以上路燈故障",
     "description": "善化區南科北路到烏橋二路   路燈不亮",
     "address_string": "善化區南科北路到烏橋二路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-12 13:38:11",
     "expected_datetime": "2016-05-17 19:35:00"
 }
