@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區裕農路19巷17弄  違停車輛",
     "address_string": "東區裕農路19巷17弄",
-    "lat": {},
-    "long": {},
+    "lat": "22.9854523",
+    "long": "120.2240234",
     "service_notice": {},
     "updated_datetime": "2016-05-13 01:10:51",
     "expected_datetime": "2016-05-19 23:30:00"
