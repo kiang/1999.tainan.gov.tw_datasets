@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605140254",
+    "requested_datetime": "2016-05-14 20:32:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區北園街20號全家超商周圍 違規停車",
+    "address_string": "北區北園街20號全家超商周圍",
+    "lat": "23.01055757653212",
+    "long": "120.22317007184027",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-14 20:32:00"
+}
