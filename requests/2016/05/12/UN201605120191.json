@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605120191",
     "requested_datetime": "2016-05-12 14:19:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "道路維修",
-    "agency": "臺南市政府工務局",
+    "agency": "台南市政府",
     "subproject": "路面坑洞",
     "description": "東區中華東路二段253號對面  坑洞",
     "address_string": "東區中華東路二段253號對面",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-14 19:33:19",
     "expected_datetime": "2016-05-19 14:19:00"
 }
