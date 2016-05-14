@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605140214",
+    "requested_datetime": "2016-05-14 18:08:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區西華南街人行道 違規停車",
+    "address_string": "708台灣台南市中西區西華南街人行道",
+    "lat": "22.9921161",
+    "long": "120.1652448",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-14 18:08:00"
+}

@@ -7,10 +7,10 @@
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "違規停車",
+    "description": "中西區西華南街 民族路口到衛民街 違規停車",
     "address_string": "西華南街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9954612",
+    "long": "120.2097537",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-05-14 17:51:00"
