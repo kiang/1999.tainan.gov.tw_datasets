@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "台南市永康區鹽信街 空氣污染",
     "address_string": "台南市永康區鹽信街",
-    "lat": {},
-    "long": {},
+    "lat": "23.0300158",
+    "long": "120.2300302",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-05-14 10:37:00"
