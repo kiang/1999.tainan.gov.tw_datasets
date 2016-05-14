@@ -9,8 +9,8 @@
     "subproject": "交通疏導",
     "description": "仁德區仁德交流道  交通疏導",
     "address_string": "仁德區仁德交流道",
-    "lat": {},
-    "long": {},
+    "lat": "22.972818",
+    "long": "120.2495784",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-05-21 12:11:00"
