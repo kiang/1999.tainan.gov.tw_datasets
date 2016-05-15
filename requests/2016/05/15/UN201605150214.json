@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區府連路與府連東路口 違規停車",
     "address_string": "東區府連路與府連東路口",
-    "lat": {},
-    "long": {},
+    "lat": "24.7920604",
+    "long": "120.9933678",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-05-15 20:07:00"
