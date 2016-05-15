@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605130283",
     "requested_datetime": "2016-05-13 17:41:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "永康區永大路二段566巷13號附近 空氣汙染",
     "address_string": "永康區永大路二段566巷13號附近",
     "lat": "23.0112265",
     "long": "120.2632613",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-15 08:18:58",
     "expected_datetime": "2016-05-20 17:41:00"
 }
