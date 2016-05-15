@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區、仁德區 路燈故障",
     "address_string": "東區自由路二段37號",
-    "lat": {},
-    "long": {},
+    "lat": "24.139302",
+    "long": "120.681",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-05-23 00:37:00"
