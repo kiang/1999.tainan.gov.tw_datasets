@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "永康區中正一街46號 佔用道路",
     "address_string": "永康區中正一街46號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0352171",
+    "long": "120.246894",
     "service_notice": {},
     "updated_datetime": "2016-05-16 18:17:31",
     "expected_datetime": "2016-05-23 16:14:00"
