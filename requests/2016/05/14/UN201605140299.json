@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605140299",
     "requested_datetime": "2016-05-14 23:19:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
     "description": "新營區太南里太子宮320之2號 救援",
     "address_string": "新營區太南里太子宮320之2號",
     "lat": "18.4338406",
     "long": "-66.6133213",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-16 15:51:42",
     "expected_datetime": "2016-05-21 23:19:00"
 }
