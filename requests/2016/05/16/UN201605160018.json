@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201605160018",
     "requested_datetime": "2016-05-16 07:07:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "動物救援",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-17 14:28:59",
     "expected_datetime": "2016-05-23 07:07:00"
 }

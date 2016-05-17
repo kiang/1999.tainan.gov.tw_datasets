@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605170185",
+    "requested_datetime": "2016-05-17 14:52:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區中山路166-6號 違規停車",
+    "address_string": "700台灣台南市中西區中山路166-6號",
+    "lat": "22.995594934071715",
+    "long": "120.210132189095",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-17 14:52:00"
+}
