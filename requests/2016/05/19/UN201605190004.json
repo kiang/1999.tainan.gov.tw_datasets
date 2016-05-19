@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605190004",
     "requested_datetime": "2016-05-19 01:13:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "安平區文平路461巷22號   妨礙安寧",
     "address_string": "安平區文平路461巷22號",
     "lat": "22.9942457",
     "long": "120.178149",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-19 16:37:15",
     "expected_datetime": "2016-05-26 01:13:00"
 }
