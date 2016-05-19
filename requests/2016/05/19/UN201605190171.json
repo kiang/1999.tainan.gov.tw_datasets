@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605190171",
+    "requested_datetime": "2016-05-19 12:24:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "南區明興路215之2號對面的機車道上 南區中華南路77號前方的中間車道上 坑洞",
+    "address_string": "南區明興路215之2號對面的機車道上 南區中華南路77號前方的中間車道上",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-26 12:24:00"
+}

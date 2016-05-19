@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605190150",
+    "requested_datetime": "2016-05-19 11:50:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中正路545號周邊.890號周圍\/中正七街27號周圍.70號周圍 違規停車",
+    "address_string": "永康區中正路545號周邊跟890號周圍跟中正七街27號周圍跟70號周圍",
+    "lat": "23.039738949777647",
+    "long": "120.2389173209667",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-19 11:50:00"
+}
