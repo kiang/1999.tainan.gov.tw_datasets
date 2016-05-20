@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605200377",
+    "requested_datetime": "2016-05-20 22:46:00",
+    "status": {},
+    "keyword": {},
+    "area": "東 區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "長榮路二段32巷142號2F-7 妨礙安寧",
+    "address_string": "長榮路二段32巷142號2F-7",
+    "lat": "22.98760171039391",
+    "long": "120.22152889519928",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-20 22:46:00"
+}
