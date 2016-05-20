@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區海安路二段(中正路至友愛街) 汽車違停",
     "address_string": "中西區海安路二段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9968601",
+    "long": "120.1972918",
     "service_notice": {},
     "updated_datetime": "2016-05-21 03:34:56",
     "expected_datetime": "2016-05-27 22:52:00"
