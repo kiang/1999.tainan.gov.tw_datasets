@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區中山南路744號  違規停車",
     "address_string": "台南市永康區中山南路744號",
-    "lat": {},
-    "long": {},
+    "lat": "23.020446",
+    "long": "120.245591",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-05-20 17:52:00"
