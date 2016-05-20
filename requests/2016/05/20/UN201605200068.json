@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605200068",
+    "requested_datetime": "2016-05-20 08:00:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "騎樓舉發",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "永康區龍橋街186巷巷子內 占用道路",
+    "address_string": "永康區龍橋街186巷巷子內",
+    "lat": "23.03855",
+    "long": "120.264852",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-27 08:00:00"
+}
