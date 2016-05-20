@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605200263",
+    "requested_datetime": "2016-05-20 16:55:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "其他汙染舉發",
+    "description": "北區開南街153-159號 噪音汙染 占用道路",
+    "address_string": "北區開南街153-159號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-05-20 17:32:58",
+    "expected_datetime": "2016-05-27 16:55:00"
+}
