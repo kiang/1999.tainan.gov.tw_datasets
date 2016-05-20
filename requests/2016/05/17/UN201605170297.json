@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605170297",
     "requested_datetime": "2016-05-17 19:17:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局",
+    "agency": "臺南市政府警察局第二分局",
     "subproject": "違規停車",
     "description": "車牌：885-HDE，車體疑似改裝(詳附件)",
     "address_string": "台南市中西區民族路與中山路交叉口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-20 13:46:10",
     "expected_datetime": "2016-05-17 19:17:00"
 }
