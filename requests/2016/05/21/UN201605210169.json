@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中華西路北上府前路口 違規停車",
     "address_string": "中華西路北上府前路口",
-    "lat": {},
-    "long": {},
+    "lat": "24.0696144",
+    "long": "120.5275595",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-05-28 15:43:00"
