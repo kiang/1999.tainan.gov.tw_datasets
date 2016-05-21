@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605210106",
+    "requested_datetime": "2016-05-21 12:13:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "北區公園路與公園北路交叉處 往西方向 交通疏導",
+    "address_string": "北區公園路與公園北路交叉處 往西方向",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-28 12:13:00"
+}

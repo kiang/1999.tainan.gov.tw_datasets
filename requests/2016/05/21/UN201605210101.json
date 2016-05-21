@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605210101",
+    "requested_datetime": "2016-05-21 12:15:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區立賢路一段726號旁 違規停車",
+    "address_string": "北區立賢路一段726旁",
+    "lat": "23.0096522",
+    "long": "120.2035558",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-21 12:15:00"
+}
