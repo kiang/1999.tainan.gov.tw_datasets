@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605210045",
+    "requested_datetime": "2016-05-21 09:33:00",
+    "status": {},
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安南區安和路四段和安和路四段589巷巷口 違規停車",
+    "address_string": "安和路四段和安和路四段589巷巷口",
+    "lat": "25.0357748",
+    "long": "121.5533097",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-21 09:33:00"
+}
