@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區崇明路185巷與崇明路口 違規停車",
     "address_string": "崇明路185巷與崇明路口",
-    "lat": {},
-    "long": {},
+    "lat": "22.9785957",
+    "long": "120.2193093",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-05-21 16:59:00"

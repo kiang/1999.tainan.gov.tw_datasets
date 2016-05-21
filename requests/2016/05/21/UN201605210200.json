@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區公園路721號  違停",
     "address_string": "北區公園路721號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0175605",
+    "long": "120.2148131",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-05-28 17:42:00"
