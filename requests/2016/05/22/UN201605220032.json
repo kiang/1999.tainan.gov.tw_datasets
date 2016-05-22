@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605220032",
     "requested_datetime": "2016-05-22 09:31:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區復國一路436號 違規停車",
     "address_string": "臺南市永康區復國一路436號",
     "lat": "23.014067",
     "long": "120.24598",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-22 15:20:47",
     "expected_datetime": "2016-05-22 09:31:00"
 }
