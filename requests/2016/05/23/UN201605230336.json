@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區南華街11號   違停",
     "address_string": "中西區南華街11號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9888333",
+    "long": "120.1910382",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-05-30 19:44:00"
