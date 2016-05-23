@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605240001",
+    "requested_datetime": "2016-05-23 23:17:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "南區鹽埕路159巷70號左側 \/ 金華路二段33巷77號 \/ 永康區中正南路331號 全國加油站右前方分隔島上   路燈不亮",
+    "address_string": "南區鹽埕路159巷70號左側 \/ 金華路二段33巷77號 \/ 永康區中正南路331號 全國加油站右前方分隔島上",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-30 23:17:00"
+}
