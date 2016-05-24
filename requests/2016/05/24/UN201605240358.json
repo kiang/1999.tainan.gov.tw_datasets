@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605240358",
+    "requested_datetime": "2016-05-24 21:02:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "永康區永安一街99號   交通運輸",
+    "address_string": "710台灣台南市永康區永安一街99號",
+    "lat": "23.0441704",
+    "long": "120.2426959",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-24 21:02:00"
+}
