@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605240171",
+    "requested_datetime": "2016-05-24 13:17:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中正路545號統一超商周邊以及中正路890號萊爾富周圍 違規停車",
+    "address_string": "永康區中正路545號統一超商周邊 890號萊爾富周圍",
+    "lat": "23.03975530199213",
+    "long": "120.23890893906353",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-24 13:17:00"
+}
