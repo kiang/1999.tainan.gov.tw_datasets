@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605240150",
+    "requested_datetime": "2016-05-24 12:04:00",
+    "status": {},
+    "keyword": {},
+    "area": "東 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區林森路一段224號 違規停車",
+    "address_string": "701台灣台南市東區林森路一段224號",
+    "lat": "22.98261812903713",
+    "long": "120.21785963326693",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-24 12:04:00"
+}
