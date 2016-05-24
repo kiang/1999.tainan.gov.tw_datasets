@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201605240288",
     "requested_datetime": "2016-05-24 17:27:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "安平區建平路與建平十街交叉口 違規停車",
     "address_string": "台南市安平區建平路與建平十街交叉口",
-    "lat": {},
-    "long": {},
+    "lat": "22.9896816",
+    "long": "120.182553",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-24 18:39:55",
     "expected_datetime": "2016-05-24 17:27:00"
 }

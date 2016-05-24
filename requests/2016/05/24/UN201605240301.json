@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605240301",
+    "requested_datetime": "2016-05-24 18:13:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區北園街8巷62號.66號周邊 違規停車",
+    "address_string": "北區北園街8巷62號.66號周邊",
+    "lat": "23.010945793713834",
+    "long": "120.2238191664219",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-24 18:13:00"
+}
