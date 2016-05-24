@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "安南區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第三分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安南區安中路三段115號 違規停車",
     "address_string": "709台灣台南市安南區安中路三段115號",
     "lat": "23.0475605",
     "long": "120.1816189",
     "service_notice": {},
-    "updated_datetime": "2016-05-24 07:21:26",
+    "updated_datetime": "2016-05-24 17:58:49",
     "expected_datetime": "2016-05-23 17:01:00"
 }
