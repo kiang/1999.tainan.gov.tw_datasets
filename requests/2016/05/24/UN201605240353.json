@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605240353",
+    "requested_datetime": "2016-05-24 20:31:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "東區中華東路二段200號附近機車道上往文化中心方向 坑洞",
+    "address_string": "東區中華東路二段200號附近機車道上往文化中心方向",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-31 20:31:00"
+}
