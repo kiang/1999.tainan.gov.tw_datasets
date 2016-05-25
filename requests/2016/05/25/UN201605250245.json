@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605250245",
+    "requested_datetime": "2016-05-25 15:25:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區東寧路西段\/慶東街口  違規停車",
+    "address_string": "東區東寧路西段與慶東街口",
+    "lat": "24.7920604",
+    "long": "120.9933678",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-01 15:25:00"
+}
