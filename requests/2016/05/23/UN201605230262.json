@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605230262",
     "requested_datetime": "2016-05-23 16:48:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新化區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "新化區竹子腳統一花園別墅 道路坑洞",
     "address_string": "新化區竹子腳統一花園別墅",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-26 15:12:51",
     "expected_datetime": "2016-05-30 16:48:00"
 }
