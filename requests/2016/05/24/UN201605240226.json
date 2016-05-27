@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605240226",
     "requested_datetime": "2016-05-24 15:34:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "道路維修",
-    "agency": "臺南市政府工務局",
+    "agency": "台南市政府",
     "subproject": "路面坑洞",
     "description": "北區成功路40巷47號   坑洞",
     "address_string": "北區成功路40巷47號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-27 13:49:54",
     "expected_datetime": "2016-05-31 15:34:00"
 }
