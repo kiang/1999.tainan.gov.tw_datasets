@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605250071",
     "requested_datetime": "2016-05-25 09:41:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "安平區文平路跟建平一街 坑洞",
     "address_string": "區文平路跟建平一街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-27 15:54:47",
     "expected_datetime": "2016-06-01 09:41:00"
 }
