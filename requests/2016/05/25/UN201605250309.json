@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605250309",
     "requested_datetime": "2016-05-25 18:24:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "違規停車",
     "description": "永康區忠孝路410巷96號-100號對面轉角   佔用道路\/違停\/空氣汙染",
     "address_string": "永康區忠孝路410巷96號-100號對面轉角",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-27 23:10:14",
     "expected_datetime": "2016-06-01 18:24:00"
 }
