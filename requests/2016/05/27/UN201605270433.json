@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605270433",
+    "requested_datetime": "2016-05-27 22:15:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區和緯路二段 小北成功夜市旁人行道   違停",
+    "address_string": "北區和緯路二段 小北成功夜市旁人行道",
+    "lat": "23.0122918",
+    "long": "120.2057211",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-03 22:15:00"
+}
