@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605280193",
+    "requested_datetime": "2016-05-28 15:37:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區興中街108巷6號  違規停車",
+    "address_string": "台南市南區興中街108巷6號",
+    "lat": "22.9792961",
+    "long": "120.201281",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-28 15:37:00"
+}
