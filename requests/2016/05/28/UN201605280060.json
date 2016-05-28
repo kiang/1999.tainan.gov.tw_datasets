@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "東區中華路跟小東路口 佔用道路",
     "address_string": "東區中華路跟小東路口",
-    "lat": {},
-    "long": {},
+    "lat": "24.7920604",
+    "long": "120.9933678",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-06-04 09:45:00"
