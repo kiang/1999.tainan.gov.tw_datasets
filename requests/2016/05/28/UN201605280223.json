@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605280223",
+    "requested_datetime": "2016-05-28 17:12:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區大林路與體育路交界 違規停車",
+    "address_string": "702台灣台南市南區大林路與體育路交界",
+    "lat": "22.975007834318763",
+    "long": "120.21080224362807",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-28 17:12:00"
+}
