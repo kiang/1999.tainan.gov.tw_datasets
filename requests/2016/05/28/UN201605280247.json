@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605280247",
     "requested_datetime": "2016-05-28 19:18:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區運河旁國平路 違停",
     "address_string": "安平區運河旁國平路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-29 03:26:01",
     "expected_datetime": "2016-06-04 19:18:00"
 }

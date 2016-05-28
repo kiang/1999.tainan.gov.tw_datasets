@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605290002",
+    "requested_datetime": "2016-05-29 00:17:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "中西區神農街54號 中西區海安路一段207號-211號 中西區海安路二段19號及53號 佔用道路",
+    "address_string": "中西區神農街54號 中西區海安路一段207號-211號 中西區海安路二段19號及53號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-05-29 03:35:28",
+    "expected_datetime": "2016-06-05 00:17:00"
+}
