@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605290164",
+    "requested_datetime": "2016-05-29 16:29:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "台南市東區大學路西段人行道(台南後火車站至成功大學光復校區門口之人行道)北緯22.996598,東經120.216295  違規停車",
+    "address_string": "台南市東區大學路西段人行道",
+    "lat": "22.9965896",
+    "long": "120.2158356",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-29 16:29:00"
+}

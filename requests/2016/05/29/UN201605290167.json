@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605290167",
+    "requested_datetime": "2016-05-29 16:33:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市東區區公所,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "東區長東街108巷59號旁的鐵皮屋",
+    "address_string": "東區長東街108巷59號旁",
+    "lat": "24.7920604",
+    "long": "120.9933678",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-05 16:33:00"
+}
