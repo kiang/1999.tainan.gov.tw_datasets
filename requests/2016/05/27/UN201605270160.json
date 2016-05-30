@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605270160",
     "requested_datetime": "2016-05-27 12:08:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "中西區五妃街上接近台南大學後門 路燈故障",
     "address_string": "中西區五妃街上接近台南大學後門",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-30 09:42:40",
     "expected_datetime": "2016-06-03 12:08:00"
 }
