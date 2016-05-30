@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605300015",
     "requested_datetime": "2016-05-30 07:28:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌秒差調整",
     "description": "新市區鹽水溪河堤道路上 號誌故障",
     "address_string": "新市區鹽水溪河堤道路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-30 17:11:41",
     "expected_datetime": "2016-06-06 07:28:00"
 }
