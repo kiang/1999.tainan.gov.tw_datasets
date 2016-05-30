@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201605300339",
+    "requested_datetime": "2016-05-30 18:19:00",
+    "status": {},
+    "keyword": {},
+    "area": "東 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區崇善十二街6巷19號與崇善13街路口   違規停車",
+    "address_string": "台灣台南市東區崇善十二街6巷19號與崇善13街路口",
+    "lat": "22.968654109367016",
+    "long": "120.23186881095171",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-05-30 18:19:00"
+}
