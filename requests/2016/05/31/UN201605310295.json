@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605310295",
     "requested_datetime": "2016-05-31 17:57:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東 區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區崇善十二街6巷與崇善13街路口 違規停車",
     "address_string": "台南市東區崇善十二街6巷與崇善13街路口，車輛紅線違停",
     "lat": "22.836449983283895",
     "long": "120.26299115270376",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-01 06:44:23",
     "expected_datetime": "2016-05-31 17:57:00"
 }
