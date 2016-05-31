@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605300419",
     "requested_datetime": "2016-05-30 21:52:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "安南區安和路四段388號前 道路散落物",
     "address_string": "安南區安和路四段388號前",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-05-31 16:35:13",
     "expected_datetime": "2016-06-06 21:52:00"
 }
