@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201605310263",
-    "requested_datetime": "2016-05-31 16:43:00",
+    "service_request_id": "UN201605310266",
+    "requested_datetime": "2016-05-31 16:50:00",
     "status": {},
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "中西區南門路225-1號 違規停車",
-    "address_string": "702台灣台南市中西區南門路225-1號",
+    "description": "中西區衛民街56號  違規停車",
+    "address_string": "衛民街56號",
     "lat": {},
     "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-05-31 16:43:00"
+    "expected_datetime": "2016-05-31 16:50:00"
 }
