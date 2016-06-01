@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606010334",
+    "requested_datetime": "2016-06-01 18:56:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區北安路一段176巷22號 違規停車",
+    "address_string": "704台灣台南市北區北安路一段176巷22號",
+    "lat": "23.017772538608888",
+    "long": "120.20875009719302",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-01 18:56:00"
+}
