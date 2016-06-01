@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區莊敬路115號 違停",
     "address_string": "東區莊敬路115號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9953482",
+    "long": "120.2327019",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-06-08 16:38:00"
