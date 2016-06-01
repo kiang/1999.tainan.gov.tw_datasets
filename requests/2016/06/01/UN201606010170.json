@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區復國一路254號 違停",
     "address_string": "永康區復國一路254號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0078422",
+    "long": "120.2462868",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-06-08 12:27:00"

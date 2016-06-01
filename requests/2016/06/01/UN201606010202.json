@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606010202",
+    "requested_datetime": "2016-06-01 13:46:00",
+    "status": {},
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "新建案天鑽與海佃路一段158巷麥當勞後方中間的巷子 佔用道路",
+    "address_string": "709台灣台南市安南區海佃路一段",
+    "lat": "23.0239767",
+    "long": "120.1926644",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-01 13:46:00"
+}

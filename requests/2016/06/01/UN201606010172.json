@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區長榮路二段159號 違停",
     "address_string": "東區長榮路二段159號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9915131",
+    "long": "120.2213862",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-06-08 12:30:00"
