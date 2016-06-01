@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區中正路永福路交叉口 違規停車",
     "address_string": "台南市中西區中正路永福路交叉口",
     "lat": "22.9922595",
     "long": "120.2008878",
     "service_notice": {},
-    "updated_datetime": "2016-05-30 01:43:48",
+    "updated_datetime": "2016-06-01 10:32:30",
     "expected_datetime": "2016-05-29 18:01:00"
 }
