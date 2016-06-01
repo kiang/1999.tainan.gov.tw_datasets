@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606010121",
     "requested_datetime": "2016-06-01 10:44:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "號誌故障",
     "description": "安南區安寧街158巷6弄2號 占用道路",
     "address_string": "709台灣台南市安南區安寧街121巷40號",
     "lat": "23.0239767",
     "long": "120.1926644",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-01 12:40:28",
     "expected_datetime": "2016-06-01 10:44:00"
 }
