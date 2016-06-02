@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606020223",
+    "requested_datetime": "2016-06-02 15:14:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "人孔蓋凹陷坑洞",
+    "description": "北區和緯路四段8號 道路維修",
+    "address_string": "704台灣台南市北區和緯路四段8號",
+    "lat": "23.009887211846067",
+    "long": "120.19363405347464",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-02 15:14:00"
+}
