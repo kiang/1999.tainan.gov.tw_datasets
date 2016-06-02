@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606020381",
     "requested_datetime": "2016-06-02 21:01:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "觀夕平台接近廁所 妨礙安寧",
     "address_string": "觀夕平台接近廁所",
     "lat": "22.99053",
     "long": "120.147033",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-02 22:52:32",
     "expected_datetime": "2016-06-09 21:01:00"
 }

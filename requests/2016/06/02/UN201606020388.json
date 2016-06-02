@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606020388",
+    "requested_datetime": "2016-06-02 21:46:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "台南火車站後站 違規停車",
+    "address_string": "台南火車站後站",
+    "lat": "23.0193951",
+    "long": "120.2233489",
+    "service_notice": {},
+    "updated_datetime": "2016-06-02 22:18:49",
+    "expected_datetime": "2016-06-02 21:46:00"
+}
