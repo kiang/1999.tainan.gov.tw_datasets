@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606020160",
+    "requested_datetime": "2016-06-02 12:24:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區勝利路282號  違停",
+    "address_string": "北區勝利路282號",
+    "lat": "24.8016229",
+    "long": "120.9642222",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-09 12:24:00"
+}
