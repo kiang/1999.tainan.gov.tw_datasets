@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201605310330",
     "requested_datetime": "2016-05-31 19:03:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "安平區慶平路469號 路燈故障",
     "address_string": "安平區慶平路469號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-02 09:51:37",
     "expected_datetime": "2016-06-07 19:03:00"
 }
