@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606030362",
+    "requested_datetime": "2016-06-03 22:33:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區和緯路二段上 違停",
+    "address_string": "北區和緯路二段上",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-10 22:33:00"
+}
