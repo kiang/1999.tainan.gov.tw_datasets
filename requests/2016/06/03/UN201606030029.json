@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606030029",
+    "requested_datetime": "2016-06-03 08:12:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區慈音街3號旁(與廣慈街交會)  違規停車",
+    "address_string": "700台灣台南市中西區慈音街3號旁邊小巷口",
+    "lat": "22.996447429141814",
+    "long": "120.20667728836065",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-03 08:12:00"
+}
