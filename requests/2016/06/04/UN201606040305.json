@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201606040280",
-    "requested_datetime": "2016-06-04 17:48:00",
+    "service_request_id": "UN201606040305",
+    "requested_datetime": "2016-06-04 18:52:00",
     "status": "未處理",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "東區崇學路143號   違停",
-    "address_string": "東區崇學路143號",
+    "description": "東區大同路一段59號  違停",
+    "address_string": "東區大同路一段59號",
     "lat": {},
     "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-06-11 17:48:00"
+    "expected_datetime": "2016-06-11 18:52:00"
 }
