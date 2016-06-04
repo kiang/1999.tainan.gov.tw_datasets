@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201606040184",
-    "requested_datetime": "2016-06-04 14:21:00",
+    "service_request_id": "UN201606040193",
+    "requested_datetime": "2016-06-04 14:36:00",
     "status": {},
     "keyword": {},
     "area": "中西區",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "中西區民權路二段260號 違規停車",
     "address_string": "台南市中西區民權路二段260號",
-    "lat": "22.996165",
-    "long": "120.200285",
+    "lat": {},
+    "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-06-04 14:21:00"
+    "expected_datetime": "2016-06-04 14:36:00"
 }

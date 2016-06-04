@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201606020039",
     "requested_datetime": "2016-06-02 08:37:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "道路維修",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-04 15:39:22",
     "expected_datetime": "2016-06-09 08:37:00"
 }
