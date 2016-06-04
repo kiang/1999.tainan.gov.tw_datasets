@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606030132",
     "requested_datetime": "2016-06-03 12:26:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "動物救援",
-    "agency": "臺南市政府環境保護局,臺南市動物防疫保護處",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
     "description": "南區健康路二段217號 狗",
     "address_string": "南區健康路二段217號",
     "lat": "22.981263",
     "long": "120.191859",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-04 09:18:21",
     "expected_datetime": "2016-06-10 12:26:00"
 }
