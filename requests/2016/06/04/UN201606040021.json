@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606040021",
+    "requested_datetime": "2016-06-04 07:21:00",
+    "status": {},
+    "keyword": {},
+    "area": "東 區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "東區裕強街 佔用道路",
+    "address_string": "701台灣台南市東區裕強街",
+    "lat": "22.985659351640578",
+    "long": "120.23997008800507",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-04 07:21:00"
+}

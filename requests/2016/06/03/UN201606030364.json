@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201606030364",
     "requested_datetime": "2016-06-03 22:52:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
@@ -12,6 +12,6 @@
     "lat": "22.9853072",
     "long": "120.218799",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-04 07:13:05",
     "expected_datetime": "2016-06-03 22:52:00"
 }
