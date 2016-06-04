@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606040238",
     "requested_datetime": "2016-06-04 16:36:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區和緯路四五段上接進和緯黃昏市場附近 違停",
     "address_string": "北區和緯路四五段上接進和緯黃昏市場附近",
-    "lat": {},
-    "long": {},
+    "lat": "23.0098199",
+    "long": "120.1938494",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-04 17:28:09",
     "expected_datetime": "2016-06-11 16:36:00"
 }
