@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "北區和緯路四段跟中華西路口  佔用道路",
     "address_string": "北區和緯路四段跟中華西路口",
-    "lat": {},
-    "long": {},
+    "lat": "23.008397",
+    "long": "120.1900374",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-06-12 14:56:00"

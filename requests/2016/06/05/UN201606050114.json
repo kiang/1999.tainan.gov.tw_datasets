@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區大同路二段11號   違規停車",
     "address_string": "台南市中西區大同路二段11號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9801518",
+    "long": "120.2113177",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-06-05 14:28:00"
