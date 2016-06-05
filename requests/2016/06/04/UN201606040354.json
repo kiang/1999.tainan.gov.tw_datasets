@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606040354",
     "requested_datetime": "2016-06-04 21:54:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "交通疏導",
     "description": "安平區永華路跟建平路口 交通疏導",
     "address_string": "安平區永華路跟建平路口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-05 07:15:03",
     "expected_datetime": "2016-06-11 21:54:00"
 }
