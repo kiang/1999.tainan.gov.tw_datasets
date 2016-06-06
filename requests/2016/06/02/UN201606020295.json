@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第四分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區育平五街6號 違規停車",
     "address_string": "708台灣台南市安平區育平五街6號",
     "lat": "22.9908225",
     "long": "120.1710523",
     "service_notice": {},
-    "updated_datetime": "2016-06-02 19:27:44",
+    "updated_datetime": "2016-06-06 16:48:22",
     "expected_datetime": "2016-06-02 17:26:00"
 }
