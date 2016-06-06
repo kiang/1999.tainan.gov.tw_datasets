@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區健康路一段298號  違規停車",
     "address_string": "700台灣台南市中西區健康路一段298號",
     "lat": "22.9815095",
     "long": "120.2031256",
     "service_notice": {},
-    "updated_datetime": "2016-06-04 05:53:43",
+    "updated_datetime": "2016-06-06 11:52:55",
     "expected_datetime": "2016-06-03 18:14:00"
 }
