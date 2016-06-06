@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606060367",
     "requested_datetime": "2016-06-06 21:44:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區西華南街32號 違規停車",
     "address_string": "西華南街32號",
     "lat": "22.9937244",
     "long": "120.2094374",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-07 03:57:32",
     "expected_datetime": "2016-06-06 21:44:00"
 }
