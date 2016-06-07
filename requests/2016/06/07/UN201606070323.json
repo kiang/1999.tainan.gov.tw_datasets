@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606070323",
+    "requested_datetime": "2016-06-07 19:44:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區健康三街590號 違規停車",
+    "address_string": "708台灣台南市安平區健康三街590號",
+    "lat": "22.997318837190807",
+    "long": "120.16943942142643",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-07 19:44:00"
+}
