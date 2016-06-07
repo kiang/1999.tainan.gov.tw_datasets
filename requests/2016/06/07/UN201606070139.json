@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606070139",
+    "requested_datetime": "2016-06-07 12:00:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府水利局",
+    "subproject": "人孔蓋聲響、凹陷、漏水",
+    "description": "北區文賢二街370號路口  孔蓋噪音",
+    "address_string": "北區文賢二街370號路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-14 12:00:00"
+}
