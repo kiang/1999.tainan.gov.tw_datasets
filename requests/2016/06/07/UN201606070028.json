@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606070028",
+    "requested_datetime": "2016-06-07 08:42:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區新興街12號周邊(往新興街37巷下坡路段)  違規停車",
+    "address_string": "永康區新興街12號周邊",
+    "lat": "23.011725002094238",
+    "long": "120.22885568439959",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-07 08:42:00"
+}
