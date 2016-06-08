@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606080170",
+    "requested_datetime": "2016-06-08 12:20:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "六甲區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "六甲區信義街跟信義街211巷口 佔用道路",
+    "address_string": "六甲區信義街跟信義街211巷口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-15 12:20:00"
+}
