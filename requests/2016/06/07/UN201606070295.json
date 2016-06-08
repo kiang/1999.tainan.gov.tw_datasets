@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區保安路58號    違規停車",
     "address_string": "台南市保安路58號",
     "lat": "23.0046681",
     "long": "120.2033275",
     "service_notice": {},
-    "updated_datetime": "2016-06-08 09:36:33",
+    "updated_datetime": "2016-06-08 17:29:37",
     "expected_datetime": "2016-06-07 18:47:00"
 }
