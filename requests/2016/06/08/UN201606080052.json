@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201606080052",
     "requested_datetime": "2016-06-08 09:10:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "噪音舉發",
@@ -12,6 +12,6 @@
     "lat": "23.0431447",
     "long": "120.1842764",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-08 18:11:48",
     "expected_datetime": "2016-06-15 09:10:00"
 }
