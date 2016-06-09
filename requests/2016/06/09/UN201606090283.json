@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606090283",
+    "requested_datetime": "2016-06-09 20:04:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區立賢路一段565號 違規停車",
+    "address_string": "704台灣台南市北區立賢路一段565號",
+    "lat": "23.0095762",
+    "long": "120.2012737",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-09 20:04:00"
+}

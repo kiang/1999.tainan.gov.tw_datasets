@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "麻豆區信義路16-2號  違規停車",
     "address_string": "麻豆區信義路16-2號",
-    "lat": {},
-    "long": {},
+    "lat": "23.181734",
+    "long": "120.251894",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-06-09 19:04:00"
