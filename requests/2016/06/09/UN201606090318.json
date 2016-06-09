@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201606090318",
     "requested_datetime": "2016-06-09 21:50:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "東區崇學路243號  違規停車",
     "address_string": "台南市東區崇學路243號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9815053",
+    "long": "120.2244381",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-10 00:11:34",
     "expected_datetime": "2016-06-09 21:50:00"
 }
