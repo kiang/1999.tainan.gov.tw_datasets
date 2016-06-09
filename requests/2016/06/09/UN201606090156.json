@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606090156",
+    "requested_datetime": "2016-06-09 14:18:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區民生路二段  裕成冰果店 \/ 永福路^民生路二段 整條    違停",
+    "address_string": "中西區民生路二段  裕成冰果店 \/ 永福路^民生路二段 整條",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-16 14:18:00"
+}
