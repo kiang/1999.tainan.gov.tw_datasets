@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606090228",
+    "requested_datetime": "2016-06-09 17:31:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區大武街597巷奇美醫院周圍(58號對面) 違規停車",
+    "address_string": "北區大武街597巷奇美醫院周圍",
+    "lat": "23.01905767251165",
+    "long": "120.22188495844603",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-09 17:31:00"
+}

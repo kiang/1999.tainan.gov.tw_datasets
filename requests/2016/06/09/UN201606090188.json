@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606090188",
+    "requested_datetime": "2016-06-09 15:42:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區運河路16號  違規停車",
+    "address_string": "安平區運河路16號",
+    "lat": "22.9989579",
+    "long": "120.1626214",
+    "service_notice": {},
+    "updated_datetime": "2016-06-09 17:10:58",
+    "expected_datetime": "2016-06-16 15:42:00"
+}
