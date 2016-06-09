@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606090135",
+    "requested_datetime": "2016-06-09 13:12:00",
+    "status": {},
+    "keyword": {},
+    "area": "麻豆區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "麻豆區文昌路25-9號    交通運輸",
+    "address_string": "721台灣台南市麻豆區文昌路25-9號",
+    "lat": "23.185674",
+    "long": "120.252691",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-09 13:12:00"
+}
