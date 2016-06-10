@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606110007",
+    "requested_datetime": "2016-06-11 02:25:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區慶平路281-283號 違規停車",
+    "address_string": "708台灣台南市安平區慶平路281-283號",
+    "lat": "22.996841217027704",
+    "long": "120.1761491182074",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-11 02:25:00"
+}
