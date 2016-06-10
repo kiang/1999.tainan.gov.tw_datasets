@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606100314",
+    "requested_datetime": "2016-06-10 21:34:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌秒差調整",
+    "description": "北區開元路與開南街口 秒差調整",
+    "address_string": "704台灣台南市北區開南街1號",
+    "lat": "23.008200043558169",
+    "long": "120.22196986532890",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-10 21:34:00"
+}
