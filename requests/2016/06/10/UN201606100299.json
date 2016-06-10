@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606100299",
+    "requested_datetime": "2016-06-10 20:39:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區東榮街\/青年路口 東榮街的九號公園旁邊  違規停車",
+    "address_string": "東榮街 九號公園旁邊",
+    "lat": "24.9825784",
+    "long": "121.4160487",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-10 20:39:00"
+}
