@@ -9,8 +9,8 @@
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "中西區法華街2號門口   停電",
     "address_string": "中西區法華街2號門口",
-    "lat": {},
-    "long": {},
+    "lat": "22.984573",
+    "long": "120.2108204",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-06-18 09:59:00"
