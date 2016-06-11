@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606110013",
+    "requested_datetime": "2016-06-11 07:19:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面掏空、塌陷",
+    "description": "東區長榮路二段135號  長榮女中前方    路面下陷",
+    "address_string": "東區長榮路二段135號  長榮女中前方",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-18 07:19:00"
+}
