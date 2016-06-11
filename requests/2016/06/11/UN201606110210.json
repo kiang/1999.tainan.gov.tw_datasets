@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "違規停車",
     "address_string": "台南市新市區和平街215號附近",
-    "lat": {},
-    "long": {},
+    "lat": "23.0794344",
+    "long": "120.291496",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-06-11 13:31:00"
