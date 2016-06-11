@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201606110144",
-    "requested_datetime": "2016-06-11 11:39:00",
+    "service_request_id": "UN201606110166",
+    "requested_datetime": "2016-06-11 12:13:00",
     "status": {},
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "違規停車",
+    "description": "慶中街 違規停車",
     "address_string": "慶中街",
-    "lat": "22.9834726",
-    "long": "120.2055312",
+    "lat": {},
+    "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-06-11 11:39:00"
+    "expected_datetime": "2016-06-11 12:13:00"
 }
