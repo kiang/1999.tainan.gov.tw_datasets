@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606110305",
+    "requested_datetime": "2016-06-11 16:24:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "台南市北區成功路572號",
+    "lat": "23.0019028",
+    "long": "120.1955174",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-11 16:24:00"
+}
