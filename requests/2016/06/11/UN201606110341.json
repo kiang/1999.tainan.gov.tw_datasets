@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606110341",
+    "requested_datetime": "2016-06-11 17:14:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區中華東路三段377巷  違規停車",
+    "address_string": "701台灣台南市東區中華東路三段377巷10號",
+    "lat": "22.972800464320567",
+    "long": "120.22177178197023",
+    "service_notice": {},
+    "updated_datetime": "2016-06-11 18:52:16",
+    "expected_datetime": "2016-06-11 17:14:00"
+}

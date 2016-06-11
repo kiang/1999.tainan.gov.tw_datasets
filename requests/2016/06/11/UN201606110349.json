@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606110349",
     "requested_datetime": "2016-06-11 17:28:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區中華東路三段318號(台北富邦銀行)前  違規停車",
     "address_string": "701台灣台南市東區中華東路三段316號",
     "lat": "22.974426665758784",
     "long": "120.22318590160523",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-11 18:38:25",
     "expected_datetime": "2016-06-11 17:28:00"
 }

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606110351",
+    "requested_datetime": "2016-06-11 17:31:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "南區金華路二段127號前  路面坑洞",
+    "address_string": "702台灣台南市南區金華路二段127號前",
+    "lat": "22.9990491",
+    "long": "120.1678288",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-11 17:31:00"
+}
