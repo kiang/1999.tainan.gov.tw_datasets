@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區大武街542巷43號違規停車",
     "address_string": "台南市北區大武街542巷43號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0168566",
+    "long": "120.2216985",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-06-12 23:27:00"
