@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606120139",
+    "requested_datetime": "2016-06-12 13:32:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區文成路\/育賢街口 違停",
+    "address_string": "北區文成路與育賢街口",
+    "lat": "24.8238676",
+    "long": "120.9474747",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-19 13:32:00"
+}
