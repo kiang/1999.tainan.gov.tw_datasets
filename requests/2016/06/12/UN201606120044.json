@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606120044",
+    "requested_datetime": "2016-06-12 08:36:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "人孔蓋聲響、凹陷、漏水",
+    "description": "東區裕義路380號 人孔蓋鬆動",
+    "address_string": "東區裕義路380號",
+    "lat": "22.9816225",
+    "long": "120.2478133",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-19 08:36:00"
+}
