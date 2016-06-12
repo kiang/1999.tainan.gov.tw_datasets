@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606110135",
+    "requested_datetime": "2016-06-11 11:24:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區育成路209號 違停",
+    "address_string": "北區育成路209號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-06-12 07:43:40",
+    "expected_datetime": "2016-06-18 11:24:00"
+}
