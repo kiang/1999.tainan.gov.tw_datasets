@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606120222",
     "requested_datetime": "2016-06-12 17:36:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局",
     "subproject": "違規停車",
     "description": "安南區海佃路四段140巷36弄55號 違規停車",
     "address_string": "台南市安南區海佃路四段140巷36弄55號",
     "lat": "23.0569467",
     "long": "120.1781628",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-12 18:37:14",
     "expected_datetime": "2016-06-12 17:36:00"
 }
