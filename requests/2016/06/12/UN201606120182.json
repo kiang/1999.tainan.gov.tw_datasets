@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606120182",
     "requested_datetime": "2016-06-12 15:51:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "麻豆區興中路82號 騎樓舉發",
     "address_string": "台南市麻豆區興中路82號",
     "lat": "23.1835293",
     "long": "120.250606",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-12 17:02:09",
     "expected_datetime": "2016-06-12 15:51:00"
 }

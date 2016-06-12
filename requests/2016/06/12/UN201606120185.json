@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606120185",
     "requested_datetime": "2016-06-12 15:59:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "佳里區忠孝東路77號 噪音舉發",
     "address_string": "722, Taïwan, Tainan, 佳里區忠孝東路77號",
     "lat": "23.164916106796586",
     "long": "120.17874699085951",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-12 17:02:53",
     "expected_datetime": "2016-06-12 15:59:00"
 }
