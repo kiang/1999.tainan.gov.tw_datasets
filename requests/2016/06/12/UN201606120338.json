@@ -7,10 +7,10 @@
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "違規停車",
+    "description": "台南市永康區忠孝路239巷和中興街轉角處 違規停車",
     "address_string": "台南市永康區忠孝路239巷和中興街轉角處",
-    "lat": {},
-    "long": {},
+    "lat": "23.0054452",
+    "long": "120.239958",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-06-12 22:39:00"
