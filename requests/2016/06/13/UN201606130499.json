@@ -7,11 +7,11 @@
     "service_name": "交通運輸",
     "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
-    "description": "安南區海佃路二段上往一段方向 號誌",
+    "description": "安南區海佃路二段上往一段方向 號誌故障",
     "address_string": "709台灣台南市安南區海佃路上與安吉路交接路口",
     "lat": "23.0400092",
     "long": "120.1877729",
     "service_notice": {},
-    "updated_datetime": "2016-06-13 16:31:33",
+    "updated_datetime": "2016-06-13 16:31:00",
     "expected_datetime": "2016-06-13 11:42:00"
 }
