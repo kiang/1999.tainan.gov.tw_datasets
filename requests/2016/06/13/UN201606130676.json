@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606130676",
+    "requested_datetime": "2016-06-13 17:22:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區開元路148巷148號前 違停",
+    "address_string": "北區開元路148巷148號前",
+    "lat": "23.0051259",
+    "long": "120.2201904",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-20 17:22:00"
+}
