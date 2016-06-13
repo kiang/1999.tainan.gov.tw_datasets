@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606130775",
+    "requested_datetime": "2016-06-13 20:52:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "南區夏林路224號  佔用道路",
+    "address_string": "702台灣台南市南區夏林路224號",
+    "lat": "22.9788663",
+    "long": "120.1948616",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-13 20:52:00"
+}
