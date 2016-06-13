@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606130526",
+    "requested_datetime": "2016-06-13 12:42:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "道路維修",
+    "agency": "臺南市中西區公所",
+    "subproject": "路面掏空、塌陷",
+    "description": "中西區忠義路二段84巷3號前方  掏空",
+    "address_string": "中西區忠義路二段84巷3號前方",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-20 12:42:00"
+}
