@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606120200",
     "requested_datetime": "2016-06-12 16:33:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區崑大路,星巴克前方 違停",
     "address_string": "永康區崑大路 星巴克前方",
     "lat": "22.9982835",
     "long": "120.2542593",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-13 07:41:36",
     "expected_datetime": "2016-06-19 16:33:00"
 }
