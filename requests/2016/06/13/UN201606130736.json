@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606130736",
+    "requested_datetime": "2016-06-13 19:09:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區北忠街69號前面 路燈故障",
+    "address_string": "北區北忠街69號前面",
+    "lat": "22.9990212",
+    "long": "120.2106987",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-20 19:09:00"
+}
