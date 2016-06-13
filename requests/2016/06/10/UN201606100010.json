@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606100010",
     "requested_datetime": "2016-06-10 07:11:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "人孔蓋聲響、凹陷、漏水",
     "description": "安平區府平路和健康二街口轉角處 漏水",
     "address_string": "安平區府平路和健康二街口轉角處",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-13 13:45:50",
     "expected_datetime": "2016-06-17 07:11:00"
 }
