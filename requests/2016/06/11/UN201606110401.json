@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606110401",
     "requested_datetime": "2016-06-11 19:12:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府水利局",
     "subproject": "人孔蓋聲響、凹陷、漏水",
     "description": "東區裕和路跟裕農三街口 人孔蓋聲響",
     "address_string": "東區裕和路跟裕農三街口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-13 10:41:48",
     "expected_datetime": "2016-06-18 19:12:00"
 }

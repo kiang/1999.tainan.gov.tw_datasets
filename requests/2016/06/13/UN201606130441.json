@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606130441",
+    "requested_datetime": "2016-06-13 09:59:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "臺南市永康區公所",
+    "subproject": "路面坑洞",
+    "description": "永康區文賢街跟大彎路口  坑洞",
+    "address_string": "永康區文賢街跟大彎路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-20 09:59:00"
+}
