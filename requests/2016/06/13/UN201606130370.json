@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201606130370",
     "requested_datetime": "2016-06-13 07:02:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "白河區",
     "service_name": "交通運輸",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-13 16:10:02",
     "expected_datetime": "2016-06-20 07:02:00"
 }

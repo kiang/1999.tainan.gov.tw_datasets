@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606100191",
     "requested_datetime": "2016-06-10 16:05:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "永康區中正路跟中正六街口 號誌故障不亮",
     "address_string": "永康區中正路跟中正六街口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-13 16:10:08",
     "expected_datetime": "2016-06-17 16:05:00"
 }
