@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606120026",
     "requested_datetime": "2016-06-12 07:25:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "永康區中正七街96號　髒亂及汙染",
     "address_string": "710台灣台南市永康區中正七街96號",
     "lat": "23.04103760050893",
     "long": "120.24042463872604",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-14 16:35:52",
     "expected_datetime": "2016-06-12 07:25:00"
 }
