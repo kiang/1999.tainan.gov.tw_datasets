@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606120353",
     "requested_datetime": "2016-06-12 23:38:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "佳里區延平路青龍宮噪音舉發",
     "address_string": "722台灣台南市佳里區延平路青龍宮",
     "lat": "23.1548631",
     "long": "120.1787552",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-14 10:38:16",
     "expected_datetime": "2016-06-12 23:38:00"
 }
