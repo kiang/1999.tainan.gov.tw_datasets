@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606141234",
+    "requested_datetime": "2016-06-14 22:50:00",
+    "status": {},
+    "keyword": {},
+    "area": "麻豆區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "交通運輸",
+    "address_string": "721台灣台南市麻豆區文昌路29-1號",
+    "lat": "23.2106895",
+    "long": "120.2052726",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-14 22:50:00"
+}
