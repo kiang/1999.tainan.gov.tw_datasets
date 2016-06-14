@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "鹽水區朝琴路178號  違停",
     "address_string": "鹽水區朝琴路178號",
-    "lat": {},
-    "long": {},
+    "lat": "23.3245938",
+    "long": "120.2746662",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-06-21 10:46:00"
