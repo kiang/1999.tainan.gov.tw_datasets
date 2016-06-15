@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606120281",
     "requested_datetime": "2016-06-12 20:03:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "道路維修",
-    "agency": "臺南市政府工務局",
+    "agency": "台南市政府",
     "subproject": "路面坑洞",
     "description": "東區大同路一段12鄰141巷7號^11號之間   坑洞",
     "address_string": "東區大同路一段12鄰141巷7號^11號之間",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-15 10:53:45",
     "expected_datetime": "2016-06-19 20:03:00"
 }
