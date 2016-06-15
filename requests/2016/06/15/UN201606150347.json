@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606150347",
+    "requested_datetime": "2016-06-15 19:13:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "新營區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面下陷、凹陷",
+    "description": "新營區府西路87巷32號   路面凹陷",
+    "address_string": "新營區府西路87巷32號",
+    "lat": "23.3137825",
+    "long": "120.3127539",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-22 19:13:00"
+}
