@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606150380",
+    "requested_datetime": "2016-06-15 21:11:00",
+    "status": {},
+    "keyword": {},
+    "area": "歸仁區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "歸仁區成功路二段120-7號   違規停車",
+    "address_string": "711台灣台南市歸仁區成功路二段120-7號",
+    "lat": "22.959461499820822",
+    "long": "120.29986673507008",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-15 21:11:00"
+}
