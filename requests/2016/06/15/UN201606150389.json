@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東興路   違規停車",
     "address_string": "東興路",
-    "lat": {},
-    "long": {},
+    "lat": "23.6076894",
+    "long": "120.3325606",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-06-15 21:25:00"
