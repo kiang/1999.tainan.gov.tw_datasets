@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606150280",
     "requested_datetime": "2016-06-15 16:31:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北 區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區北門路二段台南公園周圍人行道(公園北路到公園南路) 違規停車",
     "address_string": "北區北門路二段台南公園周圍人行道(公園北路到公園南路)",
     "lat": "23.000070043806318",
     "long": "120.21257601678373",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-15 18:17:00",
     "expected_datetime": "2016-06-15 16:31:00"
 }
