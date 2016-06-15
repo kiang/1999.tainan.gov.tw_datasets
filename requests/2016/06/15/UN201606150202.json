@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606150202",
+    "requested_datetime": "2016-06-15 14:28:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "仁德區文宏路140號 路面坑洞",
+    "address_string": "仁德區文宏路140號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-22 14:28:00"
+}
