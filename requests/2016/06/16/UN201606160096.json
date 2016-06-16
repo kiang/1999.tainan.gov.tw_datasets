@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606160096",
+    "requested_datetime": "2016-06-16 10:41:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "柳營區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "南106區道,柳營交流道下來路面上  坑洞",
+    "address_string": "南106區道 柳營交流道下來路面上",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-23 10:41:00"
+}
