@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606160155",
+    "requested_datetime": "2016-06-16 12:21:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區公園路746巷27-2號 佔用道路",
+    "address_string": "北區公園路746巷27-2號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-23 12:21:00"
+}
