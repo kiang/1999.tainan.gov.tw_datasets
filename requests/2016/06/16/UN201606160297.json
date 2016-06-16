@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606160297",
+    "requested_datetime": "2016-06-16 17:48:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "東區林森路二段240-230號  騎樓舉發",
+    "address_string": "704台灣台南市東區林森路二段240-230號",
+    "lat": "23.01094983706531",
+    "long": "120.19836056057382",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-16 17:48:00"
+}
