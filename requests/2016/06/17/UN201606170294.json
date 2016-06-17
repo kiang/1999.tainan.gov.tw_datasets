@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606170294",
+    "requested_datetime": "2016-06-17 16:32:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區中正路242號全家超商周邊   違規停車",
+    "address_string": "永康區中正路242號全家超商周邊",
+    "lat": "23.03103373635634",
+    "long": "120.25082029402255",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-17 16:32:00"
+}
