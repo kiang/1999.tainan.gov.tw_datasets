@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606170239",
+    "requested_datetime": "2016-06-17 14:58:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "臺南市北區區公所",
+    "subproject": "路面坑洞",
+    "description": "北區大興街602巷3弄15號 坑洞",
+    "address_string": "北區大興街602巷3弄15號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-24 14:58:00"
+}

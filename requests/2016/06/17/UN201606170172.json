@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201606170172",
     "requested_datetime": "2016-06-17 12:28:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "南區西門路一段672號至府前路口 違規停車",
     "address_string": "台南市南區西門路一段672號至府前路口",
-    "lat": {},
-    "long": {},
+    "lat": "22.9890398",
+    "long": "120.1976671",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-17 15:04:48",
     "expected_datetime": "2016-06-17 12:28:00"
 }
