@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606170408",
     "requested_datetime": "2016-06-17 21:29:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "南區文南路285號 佔用騎樓",
     "address_string": "文南路285號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-17 23:18:44",
     "expected_datetime": "2016-06-17 21:29:00"
 }
