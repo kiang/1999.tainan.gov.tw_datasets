@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606170212",
+    "requested_datetime": "2016-06-17 14:14:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "北區西門路四段9號前面的斑馬線 路面坑洞",
+    "address_string": "北區西門路四段9號前面的斑馬線",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-24 14:14:00"
+}
