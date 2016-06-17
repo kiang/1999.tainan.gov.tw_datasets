@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606170038",
     "requested_datetime": "2016-06-17 08:33:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "台南市佳里區新生路108號 違規停車",
     "address_string": "台南市佳里區新生路108號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-17 13:23:53",
     "expected_datetime": "2016-06-17 08:33:00"
 }
