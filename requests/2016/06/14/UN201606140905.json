@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606140905",
     "requested_datetime": "2016-06-14 10:41:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面掏空、塌陷",
     "description": "台南市南區仁南街58號旁邊 道路維修",
     "address_string": "台南市南區仁南街58號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-17 12:07:57",
     "expected_datetime": "2016-06-14 10:41:00"
 }
