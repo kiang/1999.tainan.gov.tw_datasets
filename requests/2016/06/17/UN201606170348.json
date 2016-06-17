@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606170348",
+    "requested_datetime": "2016-06-17 18:32:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區臨安路二段86號 違規停車",
+    "address_string": "704台灣台南市北區臨安路二段茶魔飲料店兩側紅線違停",
+    "lat": "23.0029288",
+    "long": "120.1977482",
+    "service_notice": {},
+    "updated_datetime": "2016-06-17 19:45:18",
+    "expected_datetime": "2016-06-17 18:32:00"
+}
