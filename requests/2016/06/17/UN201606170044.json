@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201606170044",
     "requested_datetime": "2016-06-17 08:40:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "髒亂及汙染",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-17 11:29:29",
     "expected_datetime": "2016-06-24 08:40:00"
 }
