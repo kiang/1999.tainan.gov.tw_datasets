@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201606180186",
-    "requested_datetime": "2016-06-18 13:43:00",
+    "service_request_id": "UN201606180201",
+    "requested_datetime": "2016-06-18 14:25:00",
     "status": "未處理",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "東區育樂街161號 \/ 民族路    違停",
-    "address_string": "東區育樂街161號 \/ 民族路",
+    "description": "東區勝利國小側門消防栓旁邊",
+    "address_string": "東區勝利國小側門消防栓旁邊",
     "lat": {},
     "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-06-25 13:43:00"
+    "expected_datetime": "2016-06-25 14:25:00"
 }

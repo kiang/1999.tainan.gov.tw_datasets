@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606180210",
+    "requested_datetime": "2016-06-18 14:42:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安南區安中路一段755號雙側  違規停車",
+    "address_string": "安南區安中路一段755號雙側",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-25 14:42:00"
+}
