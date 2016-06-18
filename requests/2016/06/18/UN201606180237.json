@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606180237",
+    "requested_datetime": "2016-06-18 15:54:00",
+    "status": {},
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "仁德區文賢路一段1511號  違規停車",
+    "address_string": "717台灣台南市仁德區文賢路一段1511號",
+    "lat": "22.932915617733197",
+    "long": "120.23052192304304",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-18 15:54:00"
+}

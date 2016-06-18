@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606180238",
+    "requested_datetime": "2016-06-18 15:54:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區長榮路五段兩側(大武街到長榮地下道)  違規停車",
+    "address_string": "北區長榮路五段兩側(大武街到長榮地下道)",
+    "lat": "23.012772374505747",
+    "long": "120.21749753504992",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-18 15:54:00"
+}
