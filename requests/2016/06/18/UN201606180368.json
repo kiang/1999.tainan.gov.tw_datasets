@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606180368",
     "requested_datetime": "2016-06-18 22:21:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區復國二路 永信國小側門  違規停車",
     "address_string": "復國二路 永信國小側門",
     "lat": "23.0090518",
     "long": "120.2474576",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-19 01:26:21",
     "expected_datetime": "2016-06-18 22:21:00"
 }
