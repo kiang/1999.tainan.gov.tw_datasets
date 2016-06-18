@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606180171",
+    "requested_datetime": "2016-06-18 13:22:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區海安路三段219巷43弄  違停",
+    "address_string": "北區海安路三段219巷43弄",
+    "lat": "23.0062236",
+    "long": "120.1990961",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-25 13:22:00"
+}
