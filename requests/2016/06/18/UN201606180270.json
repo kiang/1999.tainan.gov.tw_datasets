@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606180270",
     "requested_datetime": "2016-06-18 17:15:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區公園路54號 違規停車",
     "address_string": "台南市中西區公園路54號",
     "lat": "22.9949029",
     "long": "120.2056793",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-18 19:28:43",
     "expected_datetime": "2016-06-18 17:15:00"
 }

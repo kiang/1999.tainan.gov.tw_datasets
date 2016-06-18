@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606180240",
     "requested_datetime": "2016-06-18 15:58:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區圖書館(中西區中正路5巷1號) 違規停車",
     "address_string": "No. 5, Lane 5, Zhongzheng Rd, West Central District, Tainan City, Taiwan 700",
     "lat": "22.9914253",
     "long": "120.203644",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-18 19:18:00",
     "expected_datetime": "2016-06-18 15:58:00"
 }
