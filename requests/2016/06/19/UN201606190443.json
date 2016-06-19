@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606190443",
+    "requested_datetime": "2016-06-19 10:30:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府工務局,臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "東區東豐路\/北門路二段    交通疏導",
+    "address_string": "東區東豐路\/北門路二段",
+    "lat": "23.0039267",
+    "long": "120.213494",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-26 10:30:00"
+}
