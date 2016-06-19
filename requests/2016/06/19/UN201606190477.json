@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "民族路二段77號 違規停車",
     "address_string": "民族路二段77號",
-    "lat": {},
-    "long": {},
+    "lat": "23.905612",
+    "long": "120.522453",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-06-19 12:01:00"
