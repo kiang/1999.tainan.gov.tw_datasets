@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606190495",
+    "requested_datetime": "2016-06-19 12:39:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中正路 台南科技大學大門左右兩側   違停",
+    "address_string": "永康區中正路 台南科技大學大門左右兩側",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-26 12:39:00"
+}
