@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201606190411",
     "requested_datetime": "2016-06-19 08:43:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "六甲區",
     "service_name": "違規停車",
@@ -12,6 +12,6 @@
     "lat": "23.22886",
     "long": "120.3525015",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-19 18:24:15",
     "expected_datetime": "2016-06-26 08:43:00"
 }
