@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606190582",
+    "requested_datetime": "2016-06-19 18:25:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "永康區中山南路與忠孝路口 號誌故障",
+    "address_string": "永康區中山南路與忠孝路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-26 18:25:00"
+}
