@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606190408",
+    "requested_datetime": "2016-06-19 08:26:00",
+    "status": {},
+    "keyword": {},
+    "area": "麻豆區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "麻豆區民權路87號   違規停車",
+    "address_string": "721台灣台南市麻豆區民權路87號",
+    "lat": "23.180086",
+    "long": "120.2525796",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-19 08:26:00"
+}
