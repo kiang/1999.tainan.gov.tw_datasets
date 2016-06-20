@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606200254",
+    "requested_datetime": "2016-06-20 14:43:00",
+    "status": {},
+    "keyword": {},
+    "area": "東 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區中華東路三段360號德安百貨大門周圍 違規停車",
+    "address_string": "東區中華東路三段360號德安百貨大門周圍",
+    "lat": "22.973710437686215",
+    "long": "120.2207463607192",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-20 14:43:00"
+}
