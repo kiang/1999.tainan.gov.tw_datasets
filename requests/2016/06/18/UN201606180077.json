@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606180077",
     "requested_datetime": "2016-06-18 10:04:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "噪音舉發",
-    "agency": "臺南市政府環境保護局",
+    "agency": "臺南市政府都市發展局,臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "新市區民族路71號隔壁    散熱器噪音",
     "address_string": "新市區民族路71號隔壁",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-20 17:11:34",
     "expected_datetime": "2016-06-25 10:04:00"
 }
