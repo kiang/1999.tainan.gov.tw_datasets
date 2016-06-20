@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606160334",
     "requested_datetime": "2016-06-16 19:04:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "官田區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "官田區隆田里勝利路123號 號誌故障",
     "address_string": "720台灣台南市官田區隆田里勝利路123號",
     "lat": "23.194970008528426",
     "long": "120.3211967221644",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-20 09:26:27",
     "expected_datetime": "2016-06-16 19:04:00"
 }

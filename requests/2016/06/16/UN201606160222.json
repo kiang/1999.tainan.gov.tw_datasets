@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606160222",
     "requested_datetime": "2016-06-16 15:07:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "將軍區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市將軍區公所",
     "subproject": "路面坑洞",
     "description": "將軍區南20昌平1之6號 道路坑洞",
     "address_string": "將軍區南20  門牌昌平1之6號處",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-20 09:31:40",
     "expected_datetime": "2016-06-16 15:07:00"
 }
