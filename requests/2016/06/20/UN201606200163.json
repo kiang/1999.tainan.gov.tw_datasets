@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606200163",
+    "requested_datetime": "2016-06-20 11:40:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區民權路二段254號 違規停車",
+    "address_string": "台南市中西區民權路二段254號",
+    "lat": "22.996178",
+    "long": "120.20048",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-20 11:40:00"
+}
