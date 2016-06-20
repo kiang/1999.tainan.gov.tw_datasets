@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201606200157",
-    "requested_datetime": "2016-06-20 11:32:00",
-    "status": "已完工",
+    "service_request_id": "UN201606200185",
+    "requested_datetime": "2016-06-20 12:19:00",
+    "status": {},
     "keyword": {},
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "台南市政府",
     "subproject": "違規停車",
     "description": "安南區海佃路一段132號 違規停車",
     "address_string": "台南市安南區海佃路一段132號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": "2016-06-20 12:53:34",
-    "expected_datetime": "2016-06-20 11:32:00"
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-20 12:19:00"
 }
