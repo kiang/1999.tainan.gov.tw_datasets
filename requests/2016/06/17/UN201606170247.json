@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606170247",
     "requested_datetime": "2016-06-17 15:05:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "道路維修",
-    "agency": "臺南市政府工務局",
+    "agency": "臺南市政府水利局",
     "subproject": "路面坑洞",
     "description": "安平區建平路321號靠公車亭的前方走道   路面不平",
     "address_string": "安平區建平路321號靠公車亭的前方走道",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-20 16:07:38",
     "expected_datetime": "2016-06-24 15:05:00"
 }
