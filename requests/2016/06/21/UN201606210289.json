@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606210289",
+    "requested_datetime": "2016-06-21 16:49:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "南區機場號775號 坑洞",
+    "address_string": "南區機場號775號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-28 16:49:00"
+}
