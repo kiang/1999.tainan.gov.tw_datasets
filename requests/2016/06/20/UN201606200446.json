@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606200446",
     "requested_datetime": "2016-06-20 21:59:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "南區萬年五街40巷 空氣污染",
     "address_string": "南區萬年五街40巷",
     "lat": "22.9315861",
     "long": "120.1884906",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-21 14:20:41",
     "expected_datetime": "2016-06-27 21:59:00"
 }
