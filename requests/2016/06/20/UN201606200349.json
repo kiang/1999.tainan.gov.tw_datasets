@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606200349",
     "requested_datetime": "2016-06-20 18:04:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "永康區大民街129巷 佔用道路",
     "address_string": "台南市永康區大民街129巷20號",
     "lat": "23.010519",
     "long": "120.267172",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-21 21:36:44",
     "expected_datetime": "2016-06-20 18:04:00"
 }
