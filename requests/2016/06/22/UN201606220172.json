@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "中西區金華路和永華路路口 號誌故障",
     "address_string": "中西區金華路和永華路路口",
-    "lat": {},
-    "long": {},
+    "lat": "22.9881429",
+    "long": "120.1920402",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-06-29 11:47:00"
