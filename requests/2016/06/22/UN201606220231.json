@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606220231",
+    "requested_datetime": "2016-06-22 14:57:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中山東路兩側機慢車道(中山東路120巷到中華二路)   違規停車",
+    "address_string": "永康區中山東路兩側機慢車道",
+    "lat": "23.012598944515",
+    "long": "120.2367128804326",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-22 14:57:00"
+}
