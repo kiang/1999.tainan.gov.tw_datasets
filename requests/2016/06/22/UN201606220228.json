@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606220228",
     "requested_datetime": "2016-06-22 14:31:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "東區東寧路與林森路二段 騎樓舉發",
     "address_string": "701台灣台南市東區東寧路與林森路二段華齊堂燕窩",
     "lat": "22.990905700210867",
     "long": "120.22469489499827",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-22 19:29:49",
     "expected_datetime": "2016-06-22 14:31:00"
 }

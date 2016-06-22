@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606220082",
     "requested_datetime": "2016-06-22 09:41:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區中正七街沿線兩側 違規停車",
     "address_string": "永康區中正七街沿線兩側 中正七街25巷到中正路",
     "lat": "23.039719203704667",
     "long": "120.23972433060409",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-22 19:01:40",
     "expected_datetime": "2016-06-22 09:41:00"
 }

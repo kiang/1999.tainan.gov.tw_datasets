@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區府前路一段129號 違規停車",
     "address_string": "台南市中西區府前路一段129號",
     "lat": "22.9888662",
     "long": "120.2081984",
     "service_notice": {},
-    "updated_datetime": "2016-06-19 19:19:59",
+    "updated_datetime": "2016-06-22 19:18:48",
     "expected_datetime": "2016-06-19 15:15:00"
 }
