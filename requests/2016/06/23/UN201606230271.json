@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606230271",
+    "requested_datetime": "2016-06-23 16:12:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區開元路352-1對面   佔用道路",
+    "address_string": "北區開元路352-1對面",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-30 16:12:00"
+}
