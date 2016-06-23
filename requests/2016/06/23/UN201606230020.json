@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606230020",
+    "requested_datetime": "2016-06-23 08:17:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區開元路沿線(成大城周圍)\/開元路485巷沿線兩側(開元路到桂花鄉大樓前)  違規停車",
+    "address_string": "北區開元路沿線(成大城周圍)\/開元路485巷沿線兩側(開元路到桂花鄉大樓前)",
+    "lat": "23.010263481214352",
+    "long": "120.22475995123388",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-23 08:17:00"
+}

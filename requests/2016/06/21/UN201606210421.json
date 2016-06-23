@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606210421",
     "requested_datetime": "2016-06-21 22:27:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "後壁區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市後壁區公所",
     "subproject": "9盞以下路燈故障",
     "description": "後壁區後壁火車站外停車場路燈故障",
     "address_string": "後壁火車站外停車場",
     "lat": "23.366246",
     "long": "120.360603",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-23 08:24:53",
     "expected_datetime": "2016-06-21 22:27:00"
 }
