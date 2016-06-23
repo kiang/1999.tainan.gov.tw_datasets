@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606230175",
+    "requested_datetime": "2016-06-23 13:18:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區柴頭港溪防汛道路(開元路553號亞太門市旁邊)   違規停車",
+    "address_string": "北區柴頭港溪防汛道路",
+    "lat": "23.011190511919658",
+    "long": "120.22603500634432",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-23 13:18:00"
+}
