@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606240294",
     "requested_datetime": "2016-06-24 17:24:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區長榮路三段22號 違規停車",
     "address_string": "台南市東區長榮路三段22號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9926671",
+    "long": "120.221878",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-24 18:30:22",
     "expected_datetime": "2016-06-24 17:24:00"
 }
