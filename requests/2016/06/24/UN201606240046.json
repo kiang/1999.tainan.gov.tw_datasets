@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606240046",
+    "requested_datetime": "2016-06-24 09:14:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區開元路485巷(成大城停車場出入口周邊)違規停車",
+    "address_string": "北區開元路485巷(成大城停車場出入口周邊)",
+    "lat": "23.010295575592885",
+    "long": "120.22468015551567",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-24 09:14:00"
+}
