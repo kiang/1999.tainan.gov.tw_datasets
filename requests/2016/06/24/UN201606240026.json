@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606240026",
+    "requested_datetime": "2016-06-24 08:21:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區小東路299巷一號對面 違規停車",
+    "address_string": "小東路299巷1號對面",
+    "lat": "23.158769726856235",
+    "long": "120.15763856439315",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-24 08:21:00"
+}
