@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606240356",
+    "requested_datetime": "2016-06-24 19:31:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "六甲區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "六甲區中山路43巷\/中正路485巷交叉口  違規停車",
+    "address_string": "六甲區中山路43巷與中正路485巷交叉口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-01 19:31:00"
+}
