@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606240301",
+    "requested_datetime": "2016-06-24 17:38:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區長榮路五段沿線(276巷到大武街) 交通運輸",
+    "address_string": "北區長榮路五段沿線(276巷到大武街)",
+    "lat": "23.012849523006494",
+    "long": "120.21751597523689",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-24 17:38:00"
+}
