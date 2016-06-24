@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606240151",
+    "requested_datetime": "2016-06-24 12:15:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "中西區南門路17號(民生綠園圓環旁)  騎樓舉發",
+    "address_string": "民生綠園圓環",
+    "lat": "24.557277",
+    "long": "121.114883",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-24 12:15:00"
+}
