@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606250319",
+    "requested_datetime": "2016-06-25 20:17:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區莊敬路118-136號 違規停車",
+    "address_string": "台南市東區莊敬路118-136號",
+    "lat": "22.9956406",
+    "long": "120.23301",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-25 20:17:00"
+}
