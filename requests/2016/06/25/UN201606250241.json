@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606250241",
+    "requested_datetime": "2016-06-25 17:08:00",
+    "status": {},
+    "keyword": {},
+    "area": "麻豆區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "麻豆區興中路179號 違規停車",
+    "address_string": "721台灣台南市麻豆區興中路179號",
+    "lat": "23.18385127468331",
+    "long": "120.25392612453574",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-25 17:08:00"
+}
