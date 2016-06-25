@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區正興街和海安路二段交叉口 違停",
     "address_string": "中西區正興街和海安路二段交叉口",
-    "lat": {},
-    "long": {},
+    "lat": "22.9943898",
+    "long": "120.1971916",
     "service_notice": {},
     "updated_datetime": "2016-06-25 22:43:00",
     "expected_datetime": "2016-07-02 21:45:00"
