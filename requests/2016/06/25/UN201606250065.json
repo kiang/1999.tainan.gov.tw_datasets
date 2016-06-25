@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606250065",
+    "requested_datetime": "2016-06-25 09:36:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違東區長榮路三段 規停車",
+    "address_string": "701台灣台南市東區長榮路三段",
+    "lat": "23.000404899499898",
+    "long": "120.22246196866035",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-25 09:36:00"
+}
