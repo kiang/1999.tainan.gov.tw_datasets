@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606260254",
+    "requested_datetime": "2016-06-26 21:46:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區體育路33號及双月牌沙茶爐四週   違規停車",
+    "address_string": "702台灣台南市南區體育路33號",
+    "lat": "22.9802702",
+    "long": "120.2071076",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-26 21:46:00"
+}
