@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606260052",
+    "requested_datetime": "2016-06-26 09:51:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區萬昌街71號對面(停車場外面)紅線、萬昌街51號對面巷口紅線   違規停車",
+    "address_string": "中西區萬昌街71號、51號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-03 09:51:00"
+}
