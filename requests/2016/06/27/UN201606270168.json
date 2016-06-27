@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區東平路上和中華東路口 違規停車",
     "address_string": "東區東平路上和中華東路口",
-    "lat": {},
-    "long": {},
+    "lat": "22.9946483",
+    "long": "120.2342987",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-07-04 11:37:00"
