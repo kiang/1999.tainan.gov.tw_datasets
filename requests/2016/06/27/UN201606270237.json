@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606270237",
+    "requested_datetime": "2016-06-27 14:14:00",
+    "status": {},
+    "keyword": {},
+    "area": "六甲區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "六甲區林鳳營240之89號門口旁邊 路燈故障",
+    "address_string": "734台灣台南市六甲區林鳳營240之89號門口旁邊",
+    "lat": "23.240524",
+    "long": "120.3184122",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-27 14:14:00"
+}
