@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606270026",
+    "requested_datetime": "2016-06-27 07:54:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區育樂街168巷轉角處 違停",
+    "address_string": "東區育樂街168巷轉角處",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-04 07:54:00"
+}
