@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區中華東路三段74號  違規停車",
     "address_string": "台南市東區中華東路三段74號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9795088",
+    "long": "120.2277811",
     "service_notice": {},
     "updated_datetime": "2016-06-24 16:10:53",
     "expected_datetime": "2016-06-24 12:55:00"
