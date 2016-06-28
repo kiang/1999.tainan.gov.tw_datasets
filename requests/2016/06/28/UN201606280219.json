@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606280219",
+    "requested_datetime": "2016-06-28 13:59:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區府緯街27號   違規停車",
+    "address_string": "700台灣台南市中西區府緯街27號",
+    "lat": "22.9844427",
+    "long": "120.1986343",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-28 13:59:00"
+}
