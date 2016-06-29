@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局永康分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東橋十街68號 違規停車",
     "address_string": "台南市東橋十街68號",
     "lat": "23.021925",
     "long": "120.2324455",
     "service_notice": {},
-    "updated_datetime": "2016-06-27 19:27:09",
+    "updated_datetime": "2016-06-29 11:20:40",
     "expected_datetime": "2016-06-27 17:00:00"
 }
