@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606290202",
+    "requested_datetime": "2016-06-29 13:10:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區開元路485巷37號超商周邊 違規停車",
+    "address_string": "北區開元路485巷37號超商周邊",
+    "lat": "23.011408073129655",
+    "long": "120.22428151220083",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-29 13:10:00"
+}

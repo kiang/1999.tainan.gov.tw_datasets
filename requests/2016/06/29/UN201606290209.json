@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606290209",
+    "requested_datetime": "2016-06-29 13:28:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區大同路二段170號 違停",
+    "address_string": "南區大同路二段170號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-06 13:28:00"
+}
