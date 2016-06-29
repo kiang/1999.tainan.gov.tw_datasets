@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "新營區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局勤務指揮中心,臺南市政府警察局新營分局",
     "subproject": "違規停車",
     "description": "新營區太子路200巷 違規停車",
     "address_string": "台南市新營區太子路200巷",
     "lat": "23.3039016",
     "long": "120.2944985",
     "service_notice": {},
-    "updated_datetime": "2016-06-26 23:09:45",
+    "updated_datetime": "2016-06-29 17:27:18",
     "expected_datetime": "2016-06-26 18:00:00"
 }
