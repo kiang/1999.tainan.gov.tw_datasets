@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606300318",
+    "requested_datetime": "2016-06-30 19:04:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區長榮路三段66巷與東寧路93巷 違規停車",
+    "address_string": "長榮路三段66巷25號",
+    "lat": "22.9938500840431",
+    "long": "120.22281752910486",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-30 19:04:00"
+}
