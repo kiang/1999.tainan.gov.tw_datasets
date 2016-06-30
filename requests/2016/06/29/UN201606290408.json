@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606290408",
     "requested_datetime": "2016-06-29 20:35:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "東區崇善路873號 噪音",
     "address_string": "東區崇善路873號",
     "lat": "22.9662725",
     "long": "120.2329053",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-30 20:33:17",
     "expected_datetime": "2016-07-06 20:35:00"
 }
