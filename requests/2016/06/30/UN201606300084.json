@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606300084",
     "requested_datetime": "2016-06-30 10:21:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "台南市政府",
     "subproject": "違規停車",
     "description": "北區忠義路5段違規停車",
     "address_string": "臺南市北區忠義路5段",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-30 13:39:22",
     "expected_datetime": "2016-06-30 10:21:00"
 }
