@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第六分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "南區金華路一段515號   違規停車",
     "address_string": "702台灣台南市南區金華路一段515號",
     "lat": "22.9751744",
     "long": "120.1911729",
     "service_notice": {},
-    "updated_datetime": "2016-06-28 03:27:52",
+    "updated_datetime": "2016-06-30 14:53:41",
     "expected_datetime": "2016-06-27 20:16:00"
 }
