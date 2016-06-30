@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區忠義路三段違規停車",
     "address_string": "臺南市北區忠義路三段",
-    "lat": {},
-    "long": {},
+    "lat": "23.0002869",
+    "long": "120.2056488",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-06-30 10:47:00"
