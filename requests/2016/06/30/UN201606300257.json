@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201606300257",
+    "requested_datetime": "2016-06-30 16:38:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區開元路485巷37號超商周圍   違規停車",
+    "address_string": "北區開元路485巷37號超商周圍",
+    "lat": "23.011365795304958",
+    "long": "120.22426944226027",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-06-30 16:38:00"
+}
