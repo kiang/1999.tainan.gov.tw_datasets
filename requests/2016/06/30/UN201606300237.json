@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201606300237",
     "requested_datetime": "2016-06-30 15:55:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "安南區安富街215號門口前 佔用道路",
     "address_string": "安南區安富街215號門口前",
     "lat": "23.026625",
     "long": "120.1965756",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-06-30 23:13:59",
     "expected_datetime": "2016-07-07 15:55:00"
 }
