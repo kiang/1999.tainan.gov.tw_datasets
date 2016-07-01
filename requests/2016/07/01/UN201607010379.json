@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區海安路三段245號違規停車",
     "address_string": "台南市北區海安路三段245號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0069585",
+    "long": "120.1997089",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-07-01 00:34:00"

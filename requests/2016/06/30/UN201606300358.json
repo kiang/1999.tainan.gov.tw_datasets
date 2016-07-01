@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區小東路307巷91弄93號  紅線違停",
     "address_string": "北區小東路307巷91弄93號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0003474",
+    "long": "120.229978",
     "service_notice": {},
     "updated_datetime": "2016-07-01 00:46:00",
     "expected_datetime": "2016-07-07 22:00:00"
