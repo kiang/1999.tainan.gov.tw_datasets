@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607010699",
+    "requested_datetime": "2016-07-01 19:52:00",
+    "status": {},
+    "keyword": {},
+    "area": "東 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區 崇善十二街6弄與崇善十三街路口違規停車",
+    "address_string": "台南市東區 崇善十二街6弄與崇善十三街路口",
+    "lat": "22.968501922682815",
+    "long": "120.2319536358118",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-01 19:52:00"
+}
