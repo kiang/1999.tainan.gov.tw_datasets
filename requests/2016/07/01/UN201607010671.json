@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607010671",
+    "requested_datetime": "2016-07-01 18:25:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區大武街33號超商周圍 違規停車",
+    "address_string": "永康區大武街33號超商周圍",
+    "lat": "23.020014574800143",
+    "long": "120.22262658923864",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-01 18:25:00"
+}
