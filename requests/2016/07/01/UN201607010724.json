@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201607010724",
     "requested_datetime": "2016-07-01 20:59:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "交通運輸",
@@ -12,6 +12,6 @@
     "lat": "23.132959",
     "long": "120.30185",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-02 01:41:45",
     "expected_datetime": "2016-07-01 20:59:00"
 }
