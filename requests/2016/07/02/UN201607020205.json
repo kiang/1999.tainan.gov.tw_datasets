@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區仁和路250號前 車輛違停",
     "address_string": "東區仁和路250號前",
-    "lat": {},
-    "long": {},
+    "lat": "24.1249226",
+    "long": "120.6846725",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-07-09 17:09:00"
