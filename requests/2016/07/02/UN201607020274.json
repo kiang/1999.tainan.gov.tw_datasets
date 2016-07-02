@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區南園街109巷35號  違停",
     "address_string": "北區南園街109巷35號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0079335",
+    "long": "120.2267955",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-07-09 20:39:00"
