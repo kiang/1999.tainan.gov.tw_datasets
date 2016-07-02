@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區中華東路一段217巷 違停",
     "address_string": "東區中華東路一段217巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.9900661",
+    "long": "120.2344328",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-07-09 19:10:00"
