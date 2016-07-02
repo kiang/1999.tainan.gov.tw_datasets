@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607020149",
+    "requested_datetime": "2016-07-02 14:24:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "中西區中正路3號 佔用道路違停",
+    "address_string": "700台灣台南市中西區中正路3號",
+    "lat": "22.9921587",
+    "long": "120.2036415",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-02 14:24:00"
+}
