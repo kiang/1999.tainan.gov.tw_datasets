@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607020184",
+    "requested_datetime": "2016-07-02 16:12:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區中山路185號.153號.125號違規停車",
+    "address_string": "中西區中山路185號.153號.125號",
+    "lat": "22.99561653840609",
+    "long": "120.2095001935959",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-02 16:12:00"
+}
