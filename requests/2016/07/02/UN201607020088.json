@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607020088",
+    "requested_datetime": "2016-07-02 11:27:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "永康區大橋一街73巷和大橋一街222號交叉T型路口 佔用道路",
+    "address_string": "永康區大橋一街73巷和大橋一街222號交叉T型路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-09 11:27:00"
+}
