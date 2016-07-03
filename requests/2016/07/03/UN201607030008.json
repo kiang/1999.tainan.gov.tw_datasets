@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區怡東路177號到179號 路燈故障",
     "address_string": "東區怡東路177號到179號",
-    "lat": {},
-    "long": {},
+    "lat": "24.7920604",
+    "long": "120.9933678",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-07-10 04:32:00"
