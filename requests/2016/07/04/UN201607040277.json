@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607040277",
     "requested_datetime": "2016-07-04 14:46:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區中華路1號及21號周邊 違規停車",
     "address_string": "永康區中華路1號國泰銀行周圍.21號大眾銀行周邊",
     "lat": "22.999600009942863",
     "long": "120.23469015955924",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-04 19:07:01",
     "expected_datetime": "2016-07-04 14:46:00"
 }

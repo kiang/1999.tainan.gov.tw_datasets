@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607040376",
+    "requested_datetime": "2016-07-04 18:17:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "道路散落物",
+    "description": "南區尊南街233號前 佔用道路",
+    "address_string": "702台灣台南市南區尊南街233號前一般道路",
+    "lat": "22.9802215",
+    "long": "120.1891876",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-04 18:17:00"
+}

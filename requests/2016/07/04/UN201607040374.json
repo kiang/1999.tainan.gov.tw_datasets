@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607040374",
+    "requested_datetime": "2016-07-04 18:13:00",
+    "status": {},
+    "keyword": {},
+    "area": "佳里區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "佳里區林園街74-84號前 違規停車",
+    "address_string": "No. 74-84, Linyuan St, Jiali District",
+    "lat": "23.165241921317516",
+    "long": "120.17933338880539",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-04 18:13:00"
+}
