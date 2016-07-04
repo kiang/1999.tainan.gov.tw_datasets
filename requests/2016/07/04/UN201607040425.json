@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607040425",
+    "requested_datetime": "2016-07-04 19:58:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "佳里區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "佳里區六合街9號  違規停車",
+    "address_string": "722台灣台南市佳里區六合街9號",
+    "lat": "23.164959100539228",
+    "long": "120.17941365581964",
+    "service_notice": {},
+    "updated_datetime": "2016-07-04 20:52:29",
+    "expected_datetime": "2016-07-04 19:58:00"
+}
