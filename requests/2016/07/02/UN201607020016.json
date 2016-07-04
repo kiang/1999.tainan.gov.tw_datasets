@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607020016",
     "requested_datetime": "2016-07-02 08:09:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "六甲區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市六甲區公所",
     "subproject": "9盞以下路燈故障",
     "description": "六甲區菁埔里252號 路燈",
     "address_string": "六甲區菁埔里252號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-04 17:05:23",
     "expected_datetime": "2016-07-09 08:09:00"
 }
