@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201607040458",
     "requested_datetime": "2016-07-04 21:43:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "新市區民生路與民生路二巷巷口違規停車",
     "address_string": "台南市新市區民生路與民生路二巷巷口",
-    "lat": {},
-    "long": {},
+    "lat": "23.1845709",
+    "long": "120.253163",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-04 22:47:21",
     "expected_datetime": "2016-07-04 21:43:00"
 }
