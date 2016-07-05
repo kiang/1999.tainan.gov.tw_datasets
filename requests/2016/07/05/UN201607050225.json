@@ -1,5 +1,5 @@
 {
-    "service_request_id": "UN201607050226",
+    "service_request_id": "UN201607050225",
     "requested_datetime": "2016-07-05 14:57:00",
     "status": {},
     "keyword": {},
@@ -7,10 +7,10 @@
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "710台灣台南市永康區中華路231巷30號 違規停車",
-    "address_string": "710台灣台南市永康區中華路231巷30號",
-    "lat": "23.0058257",
-    "long": "120.2349101",
+    "description": "710台灣台南市永康區中華路251巷19弄34號 違規停車",
+    "address_string": "710台灣台南市永康區中華路251巷19弄34號",
+    "lat": "23.0055123",
+    "long": "120.2335966",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-07-05 14:57:00"
