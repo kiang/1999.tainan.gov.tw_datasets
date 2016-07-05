@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201607050037",
-    "requested_datetime": "2016-07-05 08:49:00",
+    "service_request_id": "UN201607050109",
+    "requested_datetime": "2016-07-05 10:51:00",
     "status": "未處理",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "永康區中正南路52巷64弄路口  違停",
+    "description": "永康區中正南路52巷64弄路口 違規停車",
     "address_string": "永康區中正南路52巷64弄路口",
-    "lat": "23.0202523",
-    "long": "120.2161108",
+    "lat": {},
+    "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-07-12 08:49:00"
+    "expected_datetime": "2016-07-12 10:51:00"
 }
