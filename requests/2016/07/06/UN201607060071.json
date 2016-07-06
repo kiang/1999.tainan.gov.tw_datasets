@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607060071",
     "requested_datetime": "2016-07-06 09:58:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "南區尊南街229號 佔用道路\/環境髒亂",
     "address_string": "702台灣台南市南區尊南街229號十字路口 紅綠燈下轉角處(紅線)",
     "lat": "23.0906637",
     "long": "120.2775722",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-06 14:46:43",
     "expected_datetime": "2016-07-06 09:58:00"
 }

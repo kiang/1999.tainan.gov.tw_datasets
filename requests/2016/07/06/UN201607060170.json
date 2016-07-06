@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201607060170",
     "requested_datetime": "2016-07-06 13:38:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "民族路二段 違規停車",
     "address_string": "民族路二段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9956728",
+    "long": "120.2057033",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-06 14:57:13",
     "expected_datetime": "2016-07-06 13:38:00"
 }
