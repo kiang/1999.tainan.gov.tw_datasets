@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607060327",
+    "requested_datetime": "2016-07-06 20:09:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局",
+    "subproject": "9盞以下路燈故障",
+    "description": "南區南都里中華南路二段315巷12弄20號-2 路燈故障",
+    "address_string": "南區南都里中華南路二段315巷12弄20號-2",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-13 20:09:00"
+}
