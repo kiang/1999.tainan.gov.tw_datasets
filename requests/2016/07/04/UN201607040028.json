@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201607040028",
     "requested_datetime": "2016-07-04 07:55:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "七股區",
     "service_name": "髒亂及汙染",
@@ -12,6 +12,6 @@
     "lat": "23.1446946",
     "long": "120.1441756",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-07 07:56:08",
     "expected_datetime": "2016-07-04 07:55:00"
 }
