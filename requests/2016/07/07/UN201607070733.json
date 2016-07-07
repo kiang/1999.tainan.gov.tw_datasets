@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區中山路(民生綠園～火車站前站) 違規停車",
     "address_string": "中山路",
-    "lat": {},
-    "long": {},
+    "lat": "23.8455049",
+    "long": "121.5009948",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-07-07 18:16:00"
