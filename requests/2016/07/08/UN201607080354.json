@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607080354",
+    "requested_datetime": "2016-07-08 17:16:00",
+    "status": {},
+    "keyword": {},
+    "area": "楠西區",
+    "service_name": "民生管線",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "楠西區鹿陶洋61號 民生管線",
+    "address_string": "715台灣台南市楠西區鹿陶洋61號",
+    "lat": "23.15679918999999",
+    "long": "120.49196584999996",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-08 17:16:00"
+}
