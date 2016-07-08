@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201607080399",
-    "requested_datetime": "2016-07-08 19:25:00",
+    "service_request_id": "UN201607080423",
+    "requested_datetime": "2016-07-08 21:12:00",
     "status": "未處理",
     "keyword": {},
     "area": "中西區",
     "service_name": "路燈故障",
     "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
-    "description": "中西區湖美街106號附近 路燈不亮",
-    "address_string": "中西區湖美街106號附近",
+    "description": "中西區國華街三段14號周圍 路燈不亮",
+    "address_string": "中西區國華街三段14號周圍",
     "lat": {},
     "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-07-15 19:25:00"
+    "expected_datetime": "2016-07-15 21:12:00"
 }
