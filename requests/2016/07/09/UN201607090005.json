@@ -9,8 +9,8 @@
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "官田區社子里23之5號 停電",
     "address_string": "官田區社子里23之5號",
-    "lat": {},
-    "long": {},
+    "lat": "23.1775636",
+    "long": "120.3608455",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-07-16 01:59:00"
