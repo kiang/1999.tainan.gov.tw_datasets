@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607100003",
     "requested_datetime": "2016-07-10 00:05:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "永康區成功路130巷22號到32號其中一間  妨礙安寧",
     "address_string": "710台灣台南市永康區成功路130巷",
     "lat": "23.009449419579681",
     "long": "120.23430495297544",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-10 03:16:42",
     "expected_datetime": "2016-07-10 00:05:00"
 }
