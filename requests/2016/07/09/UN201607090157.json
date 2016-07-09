@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607090157",
+    "requested_datetime": "2016-07-09 13:09:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區長榮路五段1號 違規停車",
+    "address_string": "台南市北區長榮路五段1號",
+    "lat": "23.0088366",
+    "long": "120.2205086",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-09 13:09:00"
+}
