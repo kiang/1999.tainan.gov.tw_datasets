@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607100012",
+    "requested_datetime": "2016-07-10 02:23:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "10盞以上路燈故障",
+    "description": "東區崇仁街57號～73號及崇仁街53巷4號～36號週邊區域   路燈故障",
+    "address_string": "東區崇仁街57號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-17 02:23:00"
+}
