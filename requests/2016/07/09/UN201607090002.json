@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區中山南路43巷60號違規停車",
     "address_string": "台南市永康區中山南路43巷60號",
-    "lat": {},
-    "long": {},
+    "lat": "23.013599",
+    "long": "120.2261602",
     "service_notice": {},
     "updated_datetime": "2016-07-09 04:21:13",
     "expected_datetime": "2016-07-09 00:25:00"
