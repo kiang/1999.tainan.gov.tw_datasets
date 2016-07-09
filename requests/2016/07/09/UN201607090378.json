@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607090378",
+    "requested_datetime": "2016-07-09 21:35:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區國華街一段183號違規停車",
+    "address_string": "台南市南區國華街一段183號",
+    "lat": "22.9871139",
+    "long": "120.1961834",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-09 21:35:00"
+}

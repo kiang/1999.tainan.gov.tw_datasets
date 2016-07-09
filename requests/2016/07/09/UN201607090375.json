@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607090375",
+    "requested_datetime": "2016-07-09 21:30:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區協和街和善街口違規停車",
+    "address_string": "700台灣台南市中西區協和街和善街口",
+    "lat": "23.000414135016506",
+    "long": "120.1908765097815",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-09 21:30:00"
+}
