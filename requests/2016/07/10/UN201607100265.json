@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "仁德區北保一街105號 違停",
     "address_string": "仁德區北保一街105號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9553346",
+    "long": "120.2503424",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-07-17 22:27:00"
