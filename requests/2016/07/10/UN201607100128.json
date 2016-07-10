@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607100128",
+    "requested_datetime": "2016-07-10 13:07:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區中山路,民生綠園到火車站前站雙側 違規停車",
+    "address_string": "中山路",
+    "lat": "23.8455049",
+    "long": "121.5009948",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-10 13:07:00"
+}
