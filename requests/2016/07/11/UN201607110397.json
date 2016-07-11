@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607110397",
+    "requested_datetime": "2016-07-11 19:43:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區文賢路1122巷10號違規停車",
+    "address_string": "704台灣台南市北區文賢路1122巷10號",
+    "lat": "23.01633873025236",
+    "long": "120.19381262373197",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-11 19:43:00"
+}
