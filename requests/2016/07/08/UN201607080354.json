@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201607080354",
     "requested_datetime": "2016-07-08 17:16:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "楠西區",
     "service_name": "民生管線",
@@ -12,6 +12,6 @@
     "lat": "23.15679918999999",
     "long": "120.49196584999996",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-11 15:50:48",
     "expected_datetime": "2016-07-08 17:16:00"
 }

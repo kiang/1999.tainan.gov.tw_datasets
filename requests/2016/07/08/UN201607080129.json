@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607080129",
     "requested_datetime": "2016-07-08 11:01:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "佳里區漳洲里253號附近部份住戶 停電",
     "address_string": "佳里區漳洲里253號附近部份住戶",
     "lat": "23.1843503",
     "long": "120.1538785",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-11 15:46:55",
     "expected_datetime": "2016-07-15 11:01:00"
 }

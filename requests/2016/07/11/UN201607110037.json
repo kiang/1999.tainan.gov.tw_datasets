@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607110037",
     "requested_datetime": "2016-07-11 08:55:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北 區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區開元路 違規停車",
     "address_string": "北區開元路511號成大城周圍\/北區開元路485巷沿線兩側(開元路到桂花鄉大樓前)",
     "lat": "23.0106572540232",
     "long": "120.22524274885656",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-11 15:24:50",
     "expected_datetime": "2016-07-11 08:55:00"
 }
