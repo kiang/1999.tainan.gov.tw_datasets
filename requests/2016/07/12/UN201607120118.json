@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607120118",
     "requested_datetime": "2016-07-12 10:36:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "道路維修",
-    "agency": "臺南市新市區公所",
+    "agency": "台南市政府",
     "subproject": "路面坑洞",
     "description": "新市區台一線跟高鐵路口,台一線上往新市方向 坑洞",
     "address_string": "新市區台一線跟高鐵路口 台一線上往新市方向",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-12 14:34:21",
     "expected_datetime": "2016-07-19 10:36:00"
 }
