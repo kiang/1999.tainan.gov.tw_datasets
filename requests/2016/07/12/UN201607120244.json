@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607120244",
     "requested_datetime": "2016-07-12 15:28:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "民生綠園～火車站前站的雙側  違規停車",
+    "description": "民生綠園至火車站前站的雙側  違規停車",
     "address_string": "民生綠園～火車站前站的雙側",
     "lat": "24.557277",
     "long": "121.114883",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-12 18:49:14",
     "expected_datetime": "2016-07-12 15:28:00"
 }
