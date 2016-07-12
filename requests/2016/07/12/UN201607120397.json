@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607120397",
     "requested_datetime": "2016-07-12 20:55:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "道路維修",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "台南市政府",
     "subproject": "路面坑洞",
     "description": "南區健康路二段236號(中國信託)前  路面坑洞",
     "address_string": "南區健康路二段236號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-13 04:48:12",
     "expected_datetime": "2016-07-19 20:55:00"
 }
