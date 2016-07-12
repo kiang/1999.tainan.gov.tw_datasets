@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局永康分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區中山南路43巷60號違規停車",
     "address_string": "台南市永康區中山南路43巷60號",
     "lat": "23.013599",
     "long": "120.2261602",
     "service_notice": {},
-    "updated_datetime": "2016-07-09 04:21:13",
+    "updated_datetime": "2016-07-12 08:42:29",
     "expected_datetime": "2016-07-09 00:25:00"
 }
