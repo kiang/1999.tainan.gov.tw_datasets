@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607120004",
     "requested_datetime": "2016-07-12 00:33:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "仁德區民安路一段310巷  空氣污染",
     "address_string": "仁德區民安路一段310巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-12 20:38:09",
     "expected_datetime": "2016-07-19 00:33:00"
 }
