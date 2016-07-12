@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607110002",
     "requested_datetime": "2016-07-11 00:21:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "西港區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "西港區南45鄉道後營國小 大範圍路燈不亮",
     "address_string": "西港區南45鄉道後營國小",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-12 17:41:24",
     "expected_datetime": "2016-07-18 00:21:00"
 }
