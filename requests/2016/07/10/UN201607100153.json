@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607100153",
     "requested_datetime": "2016-07-10 14:39:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "麻豆區台176線18k+200處跟國道1號口 路面坑洞",
     "address_string": "麻豆區台176線18k+200處跟國道1號口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-12 10:48:21",
     "expected_datetime": "2016-07-17 14:39:00"
 }
