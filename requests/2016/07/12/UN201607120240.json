@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607120240",
     "requested_datetime": "2016-07-12 15:11:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "南區中華西路一段與新和路口 空氣汙染",
     "address_string": "南區中華西路一段與新和路口",
     "lat": "22.9747977",
     "long": "120.1840415",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-13 10:26:05",
     "expected_datetime": "2016-07-19 15:11:00"
 }
