@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607100269",
     "requested_datetime": "2016-07-10 22:51:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市仁德區公所",
     "subproject": "9盞以下路燈故障",
     "description": "歸仁區中洲里往太爺方向聯外道路 路燈不亮",
     "address_string": "歸仁區中洲里往太爺方向聯外道路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-13 17:25:39",
     "expected_datetime": "2016-07-17 22:51:00"
 }
