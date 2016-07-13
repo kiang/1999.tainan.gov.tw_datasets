@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201607130158",
-    "requested_datetime": "2016-07-13 12:06:00",
+    "service_request_id": "UN201607130231",
+    "requested_datetime": "2016-07-13 14:58:00",
     "status": {},
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "開山路 友愛街口到府前路口 違規停車",
-    "address_string": "開山路的友愛街口到府前路口",
+    "description": "衛民街萬昌街興華街   違規停車",
+    "address_string": "衛民街,萬昌街,興華街",
     "lat": {},
     "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-07-13 12:06:00"
+    "expected_datetime": "2016-07-13 14:58:00"
 }
