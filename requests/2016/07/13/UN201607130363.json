@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607130363",
+    "requested_datetime": "2016-07-13 20:06:00",
+    "status": {},
+    "keyword": {},
+    "area": "東 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區崇善東路15巷與崇善13街路口 違規停車",
+    "address_string": "台灣台南市東區崇善東路15巷與崇善13街路口",
+    "lat": "22.968772648166627",
+    "long": "120.23191306740047",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-13 20:06:00"
+}

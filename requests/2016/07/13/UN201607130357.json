@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607130357",
+    "requested_datetime": "2016-07-13 19:49:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區東豐路165到211號 路燈故障",
+    "address_string": "北區東豐路165到211號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-20 19:49:00"
+}
