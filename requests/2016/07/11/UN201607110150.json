@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607110150",
     "requested_datetime": "2016-07-11 12:27:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市永康區公所",
     "subproject": "路面坑洞",
     "description": "永康區正強街198號  路面坑洞",
     "address_string": "710台灣台南市永康區正強街198號",
     "lat": "23.028525744875566",
     "long": "120.25182661904910",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-14 08:41:54",
     "expected_datetime": "2016-07-11 12:27:00"
 }
