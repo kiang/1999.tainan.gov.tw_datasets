@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607140364",
+    "requested_datetime": "2016-07-14 19:42:00",
+    "status": {},
+    "keyword": {},
+    "area": "鹽水區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "路燈故障",
+    "address_string": "737台灣台南市鹽水區51-2",
+    "lat": "23.2662942",
+    "long": "120.2117826",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-14 19:42:00"
+}
