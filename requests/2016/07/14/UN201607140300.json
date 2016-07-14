@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607140300",
+    "requested_datetime": "2016-07-14 16:51:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區安平路448號～474號間 違規停車",
+    "address_string": "708台灣台南市安平區安平路448號～474號間",
+    "lat": "22.998089903204384",
+    "long": "120.17442394047976",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-14 16:51:00"
+}
