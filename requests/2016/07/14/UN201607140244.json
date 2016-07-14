@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607140244",
+    "requested_datetime": "2016-07-14 15:01:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中華路473號郵局周邊及423號國泰銀行周邊  違規停車",
+    "address_string": "永康區中華路473號郵局周邊.423號國泰銀行周邊",
+    "lat": "23.011194832287533",
+    "long": "120.2321383729577",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-14 15:01:00"
+}
