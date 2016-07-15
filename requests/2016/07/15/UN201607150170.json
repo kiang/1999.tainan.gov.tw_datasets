@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607150170",
+    "requested_datetime": "2016-07-15 12:43:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區小東路與長榮路交叉路口 佔用道路",
+    "address_string": "704台灣台南市北區小東路與長榮路交叉路口",
+    "lat": "23.000506436223493",
+    "long": "120.22254511713982",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-15 12:43:00"
+}
