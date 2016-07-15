@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607150002",
     "requested_datetime": "2016-07-15 00:19:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北 區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府衛生局,臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "其他汙染舉發",
     "description": "北區大興街233巷46弄髒亂及汙染",
     "address_string": "704台灣台南市北區大興街233巷46弄",
     "lat": "23.009041420351565",
     "long": "120.18824469298124",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-15 06:59:30",
     "expected_datetime": "2016-07-15 00:19:00"
 }
