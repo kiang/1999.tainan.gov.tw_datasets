@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607160117",
+    "requested_datetime": "2016-07-16 12:13:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區公園路768號 違規停車",
+    "address_string": "704台灣台南市北區公園路768號",
+    "lat": "23.01125510597882",
+    "long": "120.21098211418857",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-16 12:13:00"
+}
