@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607160089",
+    "requested_datetime": "2016-07-16 11:16:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "民生管線",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "南區文華里美南街80號 停水",
+    "address_string": "南區文華里美南街80號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-23 11:16:00"
+}
