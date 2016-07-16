@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607160358",
     "requested_datetime": "2016-07-16 22:34:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "官田區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨礙安寧",
     "description": "官田區二鎮里工社西街附近 妨礙安寧",
     "address_string": "官田區二鎮里工社西街附近",
     "lat": "23.2182725",
     "long": "120.324272",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-17 04:15:30",
     "expected_datetime": "2016-07-23 22:34:00"
 }
