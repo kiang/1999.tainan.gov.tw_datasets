@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607170165",
+    "requested_datetime": "2016-07-17 15:50:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區西門路三段107-1號 違規停車",
+    "address_string": "704台灣台南市北區西門路三段107-1號",
+    "lat": "23.002867419294084",
+    "long": "120.2035090607779",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-17 15:50:00"
+}
