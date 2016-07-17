@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "善化火車站附近 空氣汙染",
     "address_string": "善化火車站附近",
-    "lat": {},
-    "long": {},
+    "lat": "23.1333466",
+    "long": "120.3065872",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-07-24 21:40:00"
