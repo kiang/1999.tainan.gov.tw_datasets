@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607170301",
+    "requested_datetime": "2016-07-17 21:44:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "台南火車站前機車臨停區 違規停車",
+    "address_string": "台南火車站前機車臨停區",
+    "lat": "22.996952",
+    "long": "120.2118733",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-17 21:44:00"
+}
