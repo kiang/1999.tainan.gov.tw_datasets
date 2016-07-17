@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607170080",
+    "requested_datetime": "2016-07-17 11:24:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區安平路602號前 違規停車",
+    "address_string": "702台灣台南市安平路602號前",
+    "lat": "22.9817574",
+    "long": "120.1916085",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-17 11:24:00"
+}
