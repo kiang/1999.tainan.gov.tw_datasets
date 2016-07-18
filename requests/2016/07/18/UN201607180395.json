@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區武英街17號和19號  違停",
     "address_string": "中西區武英街17號和19號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9890991",
+    "long": "120.1919899",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-07-25 19:11:00"
