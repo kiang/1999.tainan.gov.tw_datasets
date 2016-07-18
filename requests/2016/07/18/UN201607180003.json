@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區中華南路二段302巷3弄違規停車",
     "address_string": "台南市南區中華南路二段302巷3弄",
-    "lat": {},
-    "long": {},
+    "lat": "22.9623468",
+    "long": "120.1865379",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-07-18 00:55:00"
