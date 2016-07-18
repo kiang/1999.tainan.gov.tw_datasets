@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607180299",
     "requested_datetime": "2016-07-18 15:57:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區忠勇街與忠勇街65巷交叉口 違規停車",
     "address_string": "永康區忠勇街與忠勇街65巷交叉路口周邊",
     "lat": "23.00151994753947",
     "long": "120.23803252726793",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-18 19:06:31",
     "expected_datetime": "2016-07-18 15:57:00"
 }
