@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607190256",
+    "requested_datetime": "2016-07-19 14:53:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區中華路425號\/473號 違規停車",
+    "address_string": "永康區中華路473號郵局周邊.425號中國信託銀行周邊",
+    "lat": "23.011163663916236",
+    "long": "120.23209109902382",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-19 14:53:00"
+}
