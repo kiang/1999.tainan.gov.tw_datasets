@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607180376",
     "requested_datetime": "2016-07-18 18:36:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路樹傾倒",
     "description": "安南區海尾路  路樹傾倒",
     "address_string": "安南區海尾路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-20 09:48:23",
     "expected_datetime": "2016-07-25 18:36:00"
 }
