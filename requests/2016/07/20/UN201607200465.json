@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607200465",
     "requested_datetime": "2016-07-20 08:46:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "安南區公學路一段124巷91號前面 電線掉落",
     "address_string": "安南區公學路一段124巷91號前面",
     "lat": "23.0785221",
     "long": "120.2000075",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-20 14:13:14",
     "expected_datetime": "2016-07-27 08:46:00"
 }
