@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607200691",
+    "requested_datetime": "2016-07-20 16:04:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府水利局",
+    "subproject": "人孔蓋聲響、凹陷、漏水",
+    "description": "北區文成二路212巷21弄及23弄口  孔蓋鬆動",
+    "address_string": "北區文成二路212巷21弄及23弄口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-27 16:04:00"
+}

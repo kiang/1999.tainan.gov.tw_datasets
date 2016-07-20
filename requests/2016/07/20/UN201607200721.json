@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607200721",
+    "requested_datetime": "2016-07-20 17:16:00",
+    "status": {},
+    "keyword": {},
+    "area": "善化區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "善化區三抱竹路9號違規停車",
+    "address_string": "741台灣台南市善化區三抱竹路9號",
+    "lat": "23.10806826690501",
+    "long": "120.26864751253302",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-20 17:16:00"
+}
