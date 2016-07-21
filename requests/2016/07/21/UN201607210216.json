@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607210216",
+    "requested_datetime": "2016-07-21 15:08:00",
+    "status": {},
+    "keyword": {},
+    "area": "南 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區府南里活動中心-永成路3段529號   違規停車",
+    "address_string": "701台灣台南市南區府南里活動中心",
+    "lat": "22.99716648606001",
+    "long": "120.21296594291925",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-21 15:08:00"
+}
