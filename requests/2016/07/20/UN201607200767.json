@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201607200767",
     "requested_datetime": "2016-07-20 19:06:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "左鎮區",
     "service_name": "髒亂及汙染",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-21 14:03:27",
     "expected_datetime": "2016-07-27 19:06:00"
 }
