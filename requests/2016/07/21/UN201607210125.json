@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "區長東街41巷76號 空污",
     "address_string": "東區長東街41巷76號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9640796",
+    "long": "120.2311363",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-07-28 11:19:00"
