@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607210206",
     "requested_datetime": "2016-07-21 14:55:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南 區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "南區府南里活動中心轉彎處 佔用道路",
     "address_string": "701台灣台南市南區府南里活動中心轉彎處",
     "lat": "22.99716648606001",
     "long": "120.21296594291925",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-21 16:54:56",
     "expected_datetime": "2016-07-21 14:55:00"
 }
