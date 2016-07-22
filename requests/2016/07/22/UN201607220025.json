@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607220025",
+    "requested_datetime": "2016-07-22 07:24:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "仁德區仁中三街57號 違規停車",
+    "address_string": "仁德區仁中三街57號",
+    "lat": "22.9633265",
+    "long": "120.2520991",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-29 07:24:00"
+}
