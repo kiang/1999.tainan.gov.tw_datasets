@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607220121",
+    "requested_datetime": "2016-07-22 10:22:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "臺南市東區區公所",
+    "subproject": "路面坑洞",
+    "description": "東區崇善路231巷26號前方 坑洞",
+    "address_string": "東區崇善路231巷26號前方",
+    "lat": "22.9796107",
+    "long": "120.2261216",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-29 10:22:00"
+}
