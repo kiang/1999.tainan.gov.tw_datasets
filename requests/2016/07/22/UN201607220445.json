@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區民族路二段133號外  違規停車",
     "address_string": "民族路二段133號外 汽車停車格023有機車違停",
-    "lat": {},
-    "long": {},
+    "lat": "23.8961099",
+    "long": "120.5337665",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-07-22 22:45:00"

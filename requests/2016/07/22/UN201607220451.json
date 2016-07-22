@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607220451",
+    "requested_datetime": "2016-07-22 23:03:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "東區文東街18號附近 空氣汙染",
+    "address_string": "東區文東街18號附近",
+    "lat": "22.9606817",
+    "long": "120.2327232",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-29 23:03:00"
+}
