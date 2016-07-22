@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "新市區",
     "service_name": "交通運輸",
-    "agency": "臺南市政府工務局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "新市區南科火車站 佔用道路",
     "address_string": "新市區南科火車站",
     "lat": "23.107024",
     "long": "120.301923",
     "service_notice": {},
-    "updated_datetime": "2016-07-21 16:24:54",
+    "updated_datetime": "2016-07-22 16:55:01",
     "expected_datetime": "2016-07-28 12:04:00"
 }
