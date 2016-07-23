@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607230029",
+    "requested_datetime": "2016-07-23 08:29:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區武聖路66號和68號中間巷道內 違停",
+    "address_string": "北區武聖路66號和68號中間巷道內",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-30 08:29:00"
+}
