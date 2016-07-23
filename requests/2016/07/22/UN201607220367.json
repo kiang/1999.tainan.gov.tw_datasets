@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607220367",
     "requested_datetime": "2016-07-22 19:04:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區勝利路155號 違規停車",
     "address_string": "台南市東區勝利路155號",
     "lat": "22.9954643",
     "long": "120.2178774",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-23 07:22:56",
     "expected_datetime": "2016-07-22 19:04:00"
 }
