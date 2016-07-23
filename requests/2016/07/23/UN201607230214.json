@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607230214",
+    "requested_datetime": "2016-07-23 18:01:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區北門路二段沿線兩側(和緯路到長榮路)   違規停車",
+    "address_string": "北區北門路二段沿線兩側  和緯路到長榮路",
+    "lat": "23.012666835285273",
+    "long": "120.21683737635612",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-23 18:01:00"
+}
