@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607230032",
     "requested_datetime": "2016-07-23 08:38:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區海安路三段770號 違規停車",
     "address_string": "No. 770, Section 3, Hai'an Rd, North District, Tainan City, Taiwan 704",
     "lat": "23.0151344",
     "long": "120.2003687",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-23 13:39:11",
     "expected_datetime": "2016-07-23 08:38:00"
 }
