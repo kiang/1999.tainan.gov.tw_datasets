@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607240178",
+    "requested_datetime": "2016-07-24 16:59:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區北門路一段從青年路至民族路口  違停",
+    "address_string": "北區北門路一段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-31 16:59:00"
+}
