@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607240248",
     "requested_datetime": "2016-07-24 20:44:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "仁德區德南路188號  違規停車",
     "address_string": "717台灣台南市仁德區德南路188號",
     "lat": "22.94621474999999",
     "long": "120.26351228999995",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-25 05:11:11",
     "expected_datetime": "2016-07-24 20:44:00"
 }
