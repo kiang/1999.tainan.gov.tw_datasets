@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607240085",
+    "requested_datetime": "2016-07-24 11:33:00",
+    "status": {},
+    "keyword": {},
+    "area": "佳里區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "佳里區新生路417-421號  違規停車",
+    "address_string": "台南市佳里區新生路417-421號",
+    "lat": "23.1594975",
+    "long": "120.1724914",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-24 11:33:00"
+}
