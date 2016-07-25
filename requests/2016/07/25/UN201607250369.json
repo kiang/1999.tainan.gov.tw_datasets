@@ -1,5 +1,5 @@
 {
-    "service_request_id": "UN201607250375",
+    "service_request_id": "UN201607250369",
     "requested_datetime": "2016-07-25 20:18:00",
     "status": "未處理",
     "keyword": {},
@@ -7,10 +7,10 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "北區開元路212巷接近林森路口    違停",
-    "address_string": "北區開元路212巷接近林森路口",
-    "lat": "23.0058759",
-    "long": "120.2229729",
+    "description": "北區海安路\/立賢路口    違規停車",
+    "address_string": "北區海安路立賢路",
+    "lat": {},
+    "long": {},
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-08-01 20:18:00"

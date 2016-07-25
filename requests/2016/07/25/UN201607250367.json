@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中山路2號到100號及11號到117號   紅黃線違規停車",
     "address_string": "中西區中山路2號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9928053",
+    "long": "120.2057059",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-07-25 20:10:00"
