@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "台南市北區長勝路19號 停車格違規停車",
     "address_string": "台南市北區長勝路19號",
-    "lat": {},
-    "long": {},
+    "lat": "23.009676",
+    "long": "120.2198885",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-07-25 09:22:00"
