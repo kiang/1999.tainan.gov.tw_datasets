@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607250364",
     "requested_datetime": "2016-07-25 20:07:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "南區夏林路跟府緯街交叉口自助洗衣店前面  違規停車",
     "address_string": "南區夏林路府緯街",
     "lat": "22.983851",
     "long": "120.1949241",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-25 23:07:28",
     "expected_datetime": "2016-07-25 20:07:00"
 }
