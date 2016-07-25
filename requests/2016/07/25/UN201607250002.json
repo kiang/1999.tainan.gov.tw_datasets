@@ -6,12 +6,12 @@
     "area": "南區",
     "service_name": "噪音舉發",
     "agency": "臺南市政府警察局勤務指揮中心",
-    "subproject": "場所連續噪音",
-    "description": "南區夏林路242號對面噪音舉發",
+    "subproject": "妨害安寧",
+    "description": "南區夏林路242號對面 妨害安寧",
     "address_string": "702台灣台南市南區夏林路242號對面",
     "lat": "22.9787669",
     "long": "120.1944327",
     "service_notice": {},
-    "updated_datetime": "2016-07-25 07:24:35",
+    "updated_datetime": "2016-07-25 07:24:00",
     "expected_datetime": "2016-07-25 00:38:00"
 }
