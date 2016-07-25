@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607250216",
     "requested_datetime": "2016-07-25 14:15:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區長勝路5號 機車佔用汽車停車格",
     "address_string": "704台湾台南市北區長勝路5號",
     "lat": "23.0095108",
     "long": "120.2201445",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-25 19:14:40",
     "expected_datetime": "2016-07-25 14:15:00"
 }
