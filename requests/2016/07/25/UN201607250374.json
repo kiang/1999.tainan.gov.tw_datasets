@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區中華東路(文化中心廣場旁)人行道上  違規停車",
     "address_string": "東區中華東路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9752626",
+    "long": "120.2241397",
     "service_notice": {},
     "updated_datetime": "2016-07-25 21:58:45",
     "expected_datetime": "2016-08-01 20:33:00"
