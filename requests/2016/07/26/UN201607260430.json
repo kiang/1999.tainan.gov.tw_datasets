@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607260430",
+    "requested_datetime": "2016-07-26 23:34:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "北區和緯路一段86巷20號 妨害安寧",
+    "address_string": "704台灣台南市北區和緯路一段86巷20號",
+    "lat": "23.009880196530524",
+    "long": "120.21441299206549",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-26 23:34:00"
+}
