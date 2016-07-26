@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607260383",
     "requested_datetime": "2016-07-26 20:32:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區五妃街(南門路口到府連路口)雙側紅線及五妃街190號(全家便利商店)對面人行道上   違規停車",
     "address_string": "中西區五妃街",
     "lat": "22.982596",
     "long": "120.2046065",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-27 03:52:36",
     "expected_datetime": "2016-07-26 20:32:00"
 }
