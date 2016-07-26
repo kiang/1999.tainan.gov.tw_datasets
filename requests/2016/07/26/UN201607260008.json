@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607260008",
+    "requested_datetime": "2016-07-26 07:32:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區南園街105巷與101巷34弄口 違規停車",
+    "address_string": "南園街",
+    "lat": "23.008313",
+    "long": "120.2248924",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-26 07:32:00"
+}
