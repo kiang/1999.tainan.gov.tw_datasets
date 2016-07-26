@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607250339",
     "requested_datetime": "2016-07-25 18:49:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "中華東路三段399巷口(停車場側)  號誌故障",
     "address_string": "701台灣台南市東區中華東路三段399巷3號",
     "lat": "22.973266881328851",
     "long": "120.22045176884762",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-26 14:00:54",
     "expected_datetime": "2016-07-25 18:49:00"
 }
