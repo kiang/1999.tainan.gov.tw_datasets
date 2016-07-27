@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607270002",
     "requested_datetime": "2016-07-27 00:24:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "學甲區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "學甲區寶發路248號附近  酸臭味空氣汙染",
     "address_string": "學甲區寶發路248號附近",
     "lat": "23.2266709",
     "long": "120.1814634",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-27 14:55:53",
     "expected_datetime": "2016-08-03 00:24:00"
 }
