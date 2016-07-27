@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607270313",
+    "requested_datetime": "2016-07-27 18:25:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區大學路20號 紅線違規停車",
+    "address_string": "701台灣台南市東區大學路20號",
+    "lat": "22.996033",
+    "long": "120.2211595",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-27 18:25:00"
+}
