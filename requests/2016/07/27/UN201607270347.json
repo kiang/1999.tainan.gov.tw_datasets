@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607270347",
     "requested_datetime": "2016-07-27 19:51:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "中西區衛民街31號旁老唐牛肉麵外",
     "address_string": "中西區衛民街31號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9927556",
+    "long": "120.2112766",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-27 21:41:04",
     "expected_datetime": "2016-07-27 19:51:00"
 }

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607270370",
+    "requested_datetime": "2016-07-27 20:55:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區武聖路69巷47號  紅線違停",
+    "address_string": "中西區武聖路69巷47號",
+    "lat": "23.004417",
+    "long": "120.19141",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-03 20:55:00"
+}
