@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607270292",
+    "requested_datetime": "2016-07-27 17:31:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區北門路二段沿線兩側 違規停車",
+    "address_string": "北區北門路二段沿線兩側長榮路到和緯路",
+    "lat": "23.012396506379012",
+    "long": "120.21679412573577",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-27 17:31:00"
+}
