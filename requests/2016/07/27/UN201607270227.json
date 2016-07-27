@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "中西區中山路2號到100號  違規停車",
     "address_string": "中西區中山路2號100號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9928053",
+    "long": "120.2057059",
     "service_notice": {},
-    "updated_datetime": "2016-07-27 16:21:39",
+    "updated_datetime": "2016-07-27 16:21:00",
     "expected_datetime": "2016-07-27 15:24:00"
 }

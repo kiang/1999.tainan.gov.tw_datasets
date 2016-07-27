@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607260418",
     "requested_datetime": "2016-07-26 22:21:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市仁德區公所",
     "subproject": "9盞以下路燈故障",
     "description": "仁德區民安路一段310巷口2號   路燈故障",
     "address_string": "仁德區民安路一段310巷口2號",
     "lat": "22.9555865",
     "long": "120.2479463",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-27 17:39:07",
     "expected_datetime": "2016-08-02 22:21:00"
 }
