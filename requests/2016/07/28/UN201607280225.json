@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607280225",
+    "requested_datetime": "2016-07-28 15:03:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區和順里民德路大潤發右轉西門路 違停",
+    "address_string": "北區和順里民德路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-07-28 16:53:43",
+    "expected_datetime": "2016-08-04 15:03:00"
+}
