@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607280320",
+    "requested_datetime": "2016-07-28 18:34:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區永安路165巷115號  紅線違停",
+    "address_string": "710台灣台南市永康區永安路165巷115號",
+    "lat": "23.044468976460287",
+    "long": "120.2437399327755",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-28 18:34:00"
+}
