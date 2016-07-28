@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607260013",
     "requested_datetime": "2016-07-26 07:49:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "永康區中正北路88巷口 髒亂及汙染",
     "address_string": "710台灣台南市永康區中正北路88巷口",
     "lat": "23.041162574685217",
     "long": "120.24069503892235",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-28 17:14:11",
     "expected_datetime": "2016-07-26 07:49:00"
 }
