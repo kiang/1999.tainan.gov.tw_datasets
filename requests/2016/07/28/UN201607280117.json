@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607280117",
     "requested_datetime": "2016-07-28 10:51:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區府前三街上活動中心前 紅線違停",
     "address_string": "安平區府前三街",
     "lat": "22.9945024",
     "long": "120.185661",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-28 12:40:09",
     "expected_datetime": "2016-08-04 10:51:00"
 }
