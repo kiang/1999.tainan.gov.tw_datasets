@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607280384",
+    "requested_datetime": "2016-07-28 22:05:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區崇德路140號違規停車",
+    "address_string": "701台灣台南市東區崇德路140號",
+    "lat": "22.979277173165592",
+    "long": "120.21986827265482",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-28 22:05:00"
+}
