@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607290297",
+    "requested_datetime": "2016-07-29 17:18:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區公園路769巷8號之一   紅線違規停車",
+    "address_string": "704台灣台南市北區公園路769巷8號之一",
+    "lat": "23.01885539667962",
+    "long": "120.21470577467252",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-29 17:18:00"
+}
