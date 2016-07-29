@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607290017",
     "requested_datetime": "2016-07-29 05:54:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區開元路開南街",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "北區開元路跟開南街 號誌故障",
     "address_string": "北區開元路開南街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-29 10:27:35",
     "expected_datetime": "2016-08-05 05:54:00"
 }
