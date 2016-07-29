@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607290142",
+    "requested_datetime": "2016-07-29 11:55:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "永康區中山路122號前 占用騎樓",
+    "address_string": "永康區中山路122號前",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-05 11:55:00"
+}
