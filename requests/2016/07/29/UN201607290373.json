@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607290373",
+    "requested_datetime": "2016-07-29 21:37:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區裕農路後甲圓環 違停",
+    "address_string": "東區裕農路後甲圓環",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-05 21:37:00"
+}
