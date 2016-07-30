@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607300612",
+    "requested_datetime": "2016-07-30 17:17:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區德東街與德東街235巷口 紅線違停",
+    "address_string": "東區德東街與德東街235巷口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-06 17:17:00"
+}
