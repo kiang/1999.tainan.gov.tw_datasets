@@ -8,9 +8,9 @@
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區建平七街與建平七街818巷口  違規停車",
-    "address_string": "安平區建平七街與建平七街818巷口",
-    "lat": {},
-    "long": {},
+    "address_string": "安平區建平七街",
+    "lat": "22.9893009",
+    "long": "120.175365",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-07-30 10:10:00"
