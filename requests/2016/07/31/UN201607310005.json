@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201607310005",
     "requested_datetime": "2016-07-31 06:41:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "No. 27, Lane 84, Section 7, Fuan Rd, Annan District, Tainan City, Taiwan 709  噪音舉發",
     "address_string": "No 27 Lane 84 Section 7 Fuan Rd Annan District Tainan City  Taiwan 709",
     "lat": "23.012827006190093",
     "long": "120.17823318030702",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-31 15:04:37",
     "expected_datetime": "2016-07-31 06:41:00"
 }
