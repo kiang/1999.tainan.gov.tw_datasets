@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607310160",
+    "requested_datetime": "2016-07-31 16:36:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "北區長榮路五段280號周邊  招牌旗幟佔用道路",
+    "address_string": "北區長榮路五段280號",
+    "lat": "23.01285168316388",
+    "long": "120.21767523139715",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-31 16:36:00"
+}
