@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201607310240",
     "requested_datetime": "2016-07-31 20:59:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "歸仁區中山路二段189號  違規停車",
     "address_string": "台南市歸仁區中山路二段189號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9671509",
+    "long": "120.2900384",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-31 22:25:56",
     "expected_datetime": "2016-07-31 20:59:00"
 }

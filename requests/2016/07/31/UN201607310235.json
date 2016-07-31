@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201607310235",
     "requested_datetime": "2016-07-31 20:42:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "東區長榮路二段180號(全聯福利中心)外面的停車格   違規停車",
     "address_string": "東區長榮路二段180號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9901221",
+    "long": "120.22073",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-07-31 22:23:51",
     "expected_datetime": "2016-07-31 20:42:00"
 }
