@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201607310192",
+    "requested_datetime": "2016-07-31 18:33:00",
+    "status": {},
+    "keyword": {},
+    "area": "善化區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "善化區光復路20號  違規停車",
+    "address_string": "741台灣台南市善化區光復路20號",
+    "lat": "23.128878730370783",
+    "long": "120.29338577773449",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-07-31 18:33:00"
+}
