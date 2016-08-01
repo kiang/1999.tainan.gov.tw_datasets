@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區民權路三段322號 違停",
     "address_string": "中西區民權路三段322號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9982914",
+    "long": "120.1908872",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-08-08 21:26:00"

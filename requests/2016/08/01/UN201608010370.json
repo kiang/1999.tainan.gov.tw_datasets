@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201608010370",
     "requested_datetime": "2016-08-01 19:45:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "違規停車",
@@ -12,6 +12,6 @@
     "lat": "23.1321795",
     "long": "120.2980494",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-01 23:13:16",
     "expected_datetime": "2016-08-01 19:45:00"
 }
