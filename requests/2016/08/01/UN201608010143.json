@@ -9,8 +9,8 @@
     "subproject": "交通疏導",
     "description": "仁德區下交流道平面道路，中山路和中正路口 交通疏導",
     "address_string": "仁德區中山路中正路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9716784",
+    "long": "120.2516944",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-08-08 11:37:00"
