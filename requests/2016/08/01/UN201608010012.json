@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201608010012",
     "requested_datetime": "2016-08-01 06:34:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "西港區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
     "description": "西港區東港12之12 動物救援",
     "address_string": "西港區東港12之12",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-01 17:42:43",
     "expected_datetime": "2016-08-08 06:34:00"
 }
