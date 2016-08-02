@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201608020205",
     "requested_datetime": "2016-08-02 13:53:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區中華路619巷9號 紅線違規停車",
     "address_string": "710台灣台南市永康區中華路619巷9號",
     "lat": "23.014360390351698",
     "long": "120.22943068295716",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-02 18:00:03",
     "expected_datetime": "2016-08-02 13:53:00"
 }
