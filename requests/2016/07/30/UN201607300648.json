@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "安南區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第三分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安南區海佃路一段190號    違規停車",
     "address_string": "709台灣台南市安南區海佃路一段190號",
     "lat": "23.0247474",
     "long": "120.1915917",
     "service_notice": {},
-    "updated_datetime": "2016-07-31 14:58:38",
+    "updated_datetime": "2016-08-03 11:58:40",
     "expected_datetime": "2016-07-30 18:53:00"
 }
