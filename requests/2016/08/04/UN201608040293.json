@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608040293",
+    "requested_datetime": "2016-08-04 16:56:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安定區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "安定區港口里港口333-40號往左方向(背向工廠)   坑洞",
+    "address_string": "安定區港口里港口333-40號往左方向(背向工廠)",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-11 16:56:00"
+}
