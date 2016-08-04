@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608040330",
+    "requested_datetime": "2016-08-04 18:56:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌故障",
+    "description": "交通運輸",
+    "address_string": "704台灣台南市北區立賢路一段20號",
+    "lat": "23.009521086526984",
+    "long": "120.20567315625158",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-04 18:56:00"
+}
