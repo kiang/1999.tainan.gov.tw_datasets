@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201608040051",
     "requested_datetime": "2016-08-04 08:59:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南 區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "南區尊南街231號前  佔用道路",
     "address_string": "702台灣台南市南區尊南街231號前",
     "lat": "22.980165779004135",
     "long": "120.18911138176918",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-04 16:33:29",
     "expected_datetime": "2016-08-04 08:59:00"
 }

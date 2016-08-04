@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201608040151",
     "requested_datetime": "2016-08-04 12:25:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "北區成功路526號 佔用騎樓",
     "address_string": "704台灣台南市北區成功路526號",
     "lat": "23.0014477",
     "long": "120.1961808",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-04 16:52:32",
     "expected_datetime": "2016-08-04 12:25:00"
 }
