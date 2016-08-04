@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201608030338",
     "requested_datetime": "2016-08-03 19:45:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "北區育德路與立賢一路口 號誌故障",
     "address_string": "704台灣台南市北區育德路167號",
     "lat": "23.0093152",
     "long": "120.2055496",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-04 10:37:05",
     "expected_datetime": "2016-08-03 19:45:00"
 }
