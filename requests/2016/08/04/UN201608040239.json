@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608040239",
+    "requested_datetime": "2016-08-04 15:22:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區勝學路275號 違規停車",
+    "address_string": "704台灣台南市永康區勝學路275號",
+    "lat": "23.007890865089237",
+    "long": "120.23040664385593",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-04 15:22:00"
+}
