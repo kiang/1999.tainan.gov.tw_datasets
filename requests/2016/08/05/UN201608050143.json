@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201608050143",
     "requested_datetime": "2016-08-05 12:51:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區龍山街63號旁 汽車黃線違停",
     "address_string": "東區龍山街63號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-05 17:09:17",
     "expected_datetime": "2016-08-05 12:51:00"
 }

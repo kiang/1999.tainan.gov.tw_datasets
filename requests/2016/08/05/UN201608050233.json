@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608050233",
+    "requested_datetime": "2016-08-05 16:46:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區西賢一街230巷19號  違停",
+    "address_string": "中西區西賢一街230巷19號",
+    "lat": "23.0041241",
+    "long": "120.178342",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-12 16:46:00"
+}
