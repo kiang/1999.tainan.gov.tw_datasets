@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201608040093",
     "requested_datetime": "2016-08-04 10:01:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府水利局",
     "subproject": "人孔蓋或溝蓋聲響鬆動",
     "description": "安平區育平二街17巷3弄2號前 孔蓋鬆動",
     "address_string": "安平區育平二街17巷3弄2號前",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-05 13:36:08",
     "expected_datetime": "2016-08-11 10:01:00"
 }
