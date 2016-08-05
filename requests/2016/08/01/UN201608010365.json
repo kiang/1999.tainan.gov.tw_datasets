@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "違規停車",
     "address_string": "700台南市中西區民生路二段403號",
     "lat": "22.9975269",
     "long": "120.1884858",
     "service_notice": {},
-    "updated_datetime": "2016-08-01 23:24:03",
+    "updated_datetime": "2016-08-05 18:58:42",
     "expected_datetime": "2016-08-01 19:41:00"
 }
