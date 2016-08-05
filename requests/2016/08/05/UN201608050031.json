@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608050031",
+    "requested_datetime": "2016-08-05 08:29:00",
+    "status": {},
+    "keyword": {},
+    "area": "南 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區金華路二段147巷37弄 紅線違規停車",
+    "address_string": "702台灣台南市南區金華路二段147巷37弄",
+    "lat": "22.980124108732237",
+    "long": "120.18905371427536",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-05 08:29:00"
+}
