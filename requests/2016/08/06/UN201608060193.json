@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608060193",
+    "requested_datetime": "2016-08-06 18:06:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區武聖路69巷  和美街上   違規停車",
+    "address_string": "700台灣台南市中西區武聖路69巷和美街上",
+    "lat": "23.0036611",
+    "long": "120.1904688",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-06 18:06:00"
+}
