@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608070238",
+    "requested_datetime": "2016-08-07 21:59:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區健康路一段113巷的竹溪里活動中心前  紅線違規停車",
+    "address_string": "南區健康路一段113巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-14 21:59:00"
+}
