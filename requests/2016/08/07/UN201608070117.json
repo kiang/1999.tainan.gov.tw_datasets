@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608070117",
+    "requested_datetime": "2016-08-07 14:41:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "永康區復國一路266號 占用道路",
+    "address_string": "710台灣台南市永康區復國一路266號",
+    "lat": "23.00555490890798",
+    "long": "120.24611628625564",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-07 14:41:00"
+}
