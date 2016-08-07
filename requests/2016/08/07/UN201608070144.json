@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608070144",
+    "requested_datetime": "2016-08-07 16:19:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區安北路149之1號(郵局)周邊及安平路沿線兩側(安北路到古堡街)    違規停車",
+    "address_string": "安平區安北路149之1號",
+    "lat": "23.002849475204282",
+    "long": "120.16126669943334",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-07 16:19:00"
+}

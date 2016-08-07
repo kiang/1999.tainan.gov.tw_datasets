@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608070134",
+    "requested_datetime": "2016-08-07 15:54:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中正區中正路(海安路到西門路這段)，  違規停車",
+    "address_string": "700台灣台南市中西區中正路",
+    "lat": "22.992986554451551",
+    "long": "120.19741439259030",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-07 15:54:00"
+}
