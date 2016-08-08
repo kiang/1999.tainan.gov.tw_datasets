@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201608060007",
     "requested_datetime": "2016-08-06 01:46:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市永康區公所",
     "subproject": "路面坑洞",
     "description": "永康區大灣路881號   道路坑洞",
     "address_string": "永康區大灣路881號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-08 15:20:15",
     "expected_datetime": "2016-08-13 01:46:00"
 }
