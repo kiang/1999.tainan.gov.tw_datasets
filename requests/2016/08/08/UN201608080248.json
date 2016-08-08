@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608080248",
+    "requested_datetime": "2016-08-08 16:38:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區實踐街23巷20弄內 違停",
+    "address_string": "北區實踐街23巷20弄內",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-15 16:38:00"
+}
