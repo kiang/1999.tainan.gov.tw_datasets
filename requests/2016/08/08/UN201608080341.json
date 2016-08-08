@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201608080341",
     "requested_datetime": "2016-08-08 21:16:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "違規停車",
     "address_string": "台南市東區崇德路367號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9767417",
+    "long": "120.22388",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-09 00:41:52",
     "expected_datetime": "2016-08-08 21:16:00"
 }
