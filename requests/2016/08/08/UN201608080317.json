@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201608080317",
     "requested_datetime": "2016-08-08 20:09:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "仁德區中正路二段1050號 汽車違規停車",
     "address_string": "台南市仁德區中正路二段1050號",
     "lat": "22.9681004",
     "long": "120.2526684",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-08 22:18:09",
     "expected_datetime": "2016-08-08 20:09:00"
 }
