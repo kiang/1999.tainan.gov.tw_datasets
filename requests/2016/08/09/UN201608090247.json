@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608090247",
+    "requested_datetime": "2016-08-09 16:23:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區文成一路10號 違規停車",
+    "address_string": "704台灣台南市北區文成一路10號",
+    "lat": "23.013649689986384",
+    "long": "120.20830803561975",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-09 16:23:00"
+}
