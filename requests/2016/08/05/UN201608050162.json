@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區海安路二段268號 違規停車",
     "address_string": "台南市中西區海安路二段268號",
     "lat": "22.9979061",
     "long": "120.197809",
     "service_notice": {},
-    "updated_datetime": "2016-08-05 18:23:17",
+    "updated_datetime": "2016-08-09 11:40:35",
     "expected_datetime": "2016-08-05 14:02:00"
 }
