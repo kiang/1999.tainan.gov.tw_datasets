@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608140104",
+    "requested_datetime": "2016-08-14 12:22:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區中華東路三段399巷24弄與29弄 違規停車",
+    "address_string": "東區中華東路三段399巷24弄29弄",
+    "lat": "22.9719472",
+    "long": "120.2193522",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-14 12:22:00"
+}

@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區衛民街從西華南街至北門路口 違停",
     "address_string": "衛民街西華南街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9930658",
+    "long": "120.2092987",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-08-14 11:52:00"
