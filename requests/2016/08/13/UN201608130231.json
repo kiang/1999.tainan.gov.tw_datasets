@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608130231",
+    "requested_datetime": "2016-08-13 18:50:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區大同路二段61巷口 違停",
+    "address_string": "東區大同路二段61巷口",
+    "lat": "22.9720392",
+    "long": "120.2165698",
+    "service_notice": {},
+    "updated_datetime": "2016-08-13 21:44:48",
+    "expected_datetime": "2016-08-20 18:50:00"
+}

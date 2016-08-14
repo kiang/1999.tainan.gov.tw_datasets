@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608110267",
+    "requested_datetime": "2016-08-11 18:01:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "東區崇善路689號前",
+    "address_string": "東區崇善路689號前",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-08-12 20:51:04",
+    "expected_datetime": "2016-08-18 18:01:00"
+}

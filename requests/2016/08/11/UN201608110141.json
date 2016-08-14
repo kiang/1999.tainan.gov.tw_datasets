@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608110141",
+    "requested_datetime": "2016-08-11 12:30:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中華路425號  違規停車",
+    "address_string": "710台灣台南市永康區中華路425號",
+    "lat": "23.0097649",
+    "long": "120.2323762",
+    "service_notice": {},
+    "updated_datetime": "2016-08-11 15:14:55",
+    "expected_datetime": "2016-08-11 12:30:00"
+}

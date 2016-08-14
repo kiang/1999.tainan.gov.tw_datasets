@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608130112",
+    "requested_datetime": "2016-08-13 12:53:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區西門路一段419號 違停",
+    "address_string": "南區西門路一段419號",
+    "lat": "22.9803971",
+    "long": "120.197399",
+    "service_notice": {},
+    "updated_datetime": "2016-08-13 18:52:49",
+    "expected_datetime": "2016-08-20 12:53:00"
+}

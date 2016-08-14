@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608130216",
+    "requested_datetime": "2016-08-13 18:06:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "新營區中華路與復興路148巷路口  違規停車",
+    "address_string": "730台灣台南市新營區中華路與復興路148巷路口",
+    "lat": "23.304467397176886",
+    "long": "120.30887117620591",
+    "service_notice": {},
+    "updated_datetime": "2016-08-13 21:36:41",
+    "expected_datetime": "2016-08-13 18:06:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608110004",
+    "requested_datetime": "2016-08-11 00:28:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區大德街109號 違規停車",
+    "address_string": "702台灣台南市南區大德街109號",
+    "lat": "22.987314046756648",
+    "long": "120.19581824541092",
+    "service_notice": {},
+    "updated_datetime": "2016-08-11 07:43:42",
+    "expected_datetime": "2016-08-11 00:28:00"
+}

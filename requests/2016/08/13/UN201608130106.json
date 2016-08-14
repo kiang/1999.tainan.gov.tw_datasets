@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608130106",
+    "requested_datetime": "2016-08-13 12:24:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區裕農路8號",
+    "address_string": "東區裕農路8號",
+    "lat": "22.9849405",
+    "long": "120.2247628",
+    "service_notice": {},
+    "updated_datetime": "2016-08-13 18:51:46",
+    "expected_datetime": "2016-08-20 12:24:00"
+}

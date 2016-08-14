@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608130114",
+    "requested_datetime": "2016-08-13 12:59:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區開元路280號 違規停車",
+    "address_string": "北區開元路280號",
+    "lat": "23.0084879",
+    "long": "120.2222386",
+    "service_notice": {},
+    "updated_datetime": "2016-08-13 18:57:52",
+    "expected_datetime": "2016-08-13 12:59:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608100353",
+    "requested_datetime": "2016-08-10 20:37:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "704台灣台南市北區北門路二段609號 違規停車",
+    "address_string": "704台灣台南市北區北門路二段609號",
+    "lat": "23.012791760287257",
+    "long": "120.21696486521532",
+    "service_notice": {},
+    "updated_datetime": "2016-08-11 00:25:33",
+    "expected_datetime": "2016-08-10 20:37:00"
+}

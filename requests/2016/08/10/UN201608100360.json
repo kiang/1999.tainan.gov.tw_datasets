@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608100360",
+    "requested_datetime": "2016-08-10 20:54:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "仁德區中正路和保安路口 空氣汙染",
+    "address_string": "仁德區中正路保安路",
+    "lat": "22.9379282",
+    "long": "120.2479033",
+    "service_notice": {},
+    "updated_datetime": "2016-08-12 08:33:12",
+    "expected_datetime": "2016-08-17 20:54:00"
+}

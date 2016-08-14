@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608100367",
+    "requested_datetime": "2016-08-10 21:23:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "東區崇善路873號  妨礙安寧",
+    "address_string": "東區崇善路873號",
+    "lat": "22.9662725",
+    "long": "120.2329053",
+    "service_notice": {},
+    "updated_datetime": "2016-08-10 22:17:41",
+    "expected_datetime": "2016-08-17 21:23:00"
+}

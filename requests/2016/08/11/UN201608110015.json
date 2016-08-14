@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608110015",
+    "requested_datetime": "2016-08-11 02:51:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "道路散落物",
+    "description": "東區東門路三段226巷  道路散落物",
+    "address_string": "東區東門路三段226巷",
+    "lat": "22.9763316",
+    "long": "120.2343346",
+    "service_notice": {},
+    "updated_datetime": "2016-08-11 10:26:14",
+    "expected_datetime": "2016-08-18 02:51:00"
+}

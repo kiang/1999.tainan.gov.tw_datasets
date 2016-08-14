@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608130062",
+    "requested_datetime": "2016-08-13 10:22:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區臨安路二段58號  違規停車",
+    "address_string": "704台灣台南市北區臨安路二段58號",
+    "lat": "23.0026813",
+    "long": "120.1965657",
+    "service_notice": {},
+    "updated_datetime": "2016-08-13 14:03:55",
+    "expected_datetime": "2016-08-13 10:22:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608120118",
+    "requested_datetime": "2016-08-12 11:59:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區北門路一段從東門圓環到火車站前 紅黃線違規停車",
+    "address_string": "東區北門路一段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-08-12 17:44:15",
+    "expected_datetime": "2016-08-12 11:59:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608130293",
+    "requested_datetime": "2016-08-13 23:34:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區仁和路95之16號 違規停車",
+    "address_string": "東區仁和路95之16號",
+    "lat": "22.9726051",
+    "long": "120.2333192",
+    "service_notice": {},
+    "updated_datetime": "2016-08-14 04:11:18",
+    "expected_datetime": "2016-08-20 23:34:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608100366",
+    "requested_datetime": "2016-08-10 21:29:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "勝利路40號   違規停車",
+    "address_string": "勝利路40號",
+    "lat": "22.988737332820513",
+    "long": "120.22191982655579",
+    "service_notice": {},
+    "updated_datetime": "2016-08-11 00:30:33",
+    "expected_datetime": "2016-08-10 21:29:00"
+}

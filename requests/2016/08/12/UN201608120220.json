@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608120220",
+    "requested_datetime": "2016-08-12 16:08:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區開南街近林森路三段140巷 貨車違停",
+    "address_string": "北區開南街近林森路三段140巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-08-12 18:19:11",
+    "expected_datetime": "2016-08-19 16:08:00"
+}

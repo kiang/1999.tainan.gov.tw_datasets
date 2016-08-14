@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608120110",
+    "requested_datetime": "2016-08-12 11:51:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區樹林街二段426號對面 違規停車",
+    "address_string": "樹林街二段426號對面",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-08-12 16:19:56",
+    "expected_datetime": "2016-08-12 11:51:00"
+}

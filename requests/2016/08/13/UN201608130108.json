@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608130108",
+    "requested_datetime": "2016-08-13 12:39:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區華興街83號 違規停車",
+    "address_string": "台南市永康區華興街83號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-08-13 18:54:18",
+    "expected_datetime": "2016-08-13 12:39:00"
+}

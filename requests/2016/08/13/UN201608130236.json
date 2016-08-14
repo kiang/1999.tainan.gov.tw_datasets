@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608130236",
+    "requested_datetime": "2016-08-13 19:20:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區華平路656號  黃線違規停車",
+    "address_string": "安平區華平路656號",
+    "lat": "22.9958683",
+    "long": "120.1757755",
+    "service_notice": {},
+    "updated_datetime": "2016-08-13 21:51:04",
+    "expected_datetime": "2016-08-13 19:20:00"
+}

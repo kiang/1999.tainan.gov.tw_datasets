@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608100260",
+    "requested_datetime": "2016-08-10 16:13:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區青年路127號 違規停車",
+    "address_string": "北區青年路127號",
+    "lat": "22.992064",
+    "long": "120.2088279",
+    "service_notice": {},
+    "updated_datetime": "2016-08-10 18:18:07",
+    "expected_datetime": "2016-08-10 16:13:00"
+}

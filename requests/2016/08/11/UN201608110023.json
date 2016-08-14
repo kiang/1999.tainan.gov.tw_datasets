@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608110023",
+    "requested_datetime": "2016-08-11 07:46:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "道路散落物",
+    "description": "安南區台江大道左轉往北汕尾三路上 道路散落物",
+    "address_string": "安南區台江大道北汕尾三路口",
+    "lat": "23.0641771",
+    "long": "120.145499",
+    "service_notice": {},
+    "updated_datetime": "2016-08-11 11:56:56",
+    "expected_datetime": "2016-08-18 07:46:00"
+}

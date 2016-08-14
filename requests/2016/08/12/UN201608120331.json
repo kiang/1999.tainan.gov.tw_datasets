@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608120331",
+    "requested_datetime": "2016-08-12 20:46:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區東門路三段179巷147弄27號門口  違停",
+    "address_string": "東區東門路三段179巷147弄27號門口",
+    "lat": "22.9787318",
+    "long": "120.236836",
+    "service_notice": {},
+    "updated_datetime": "2016-08-13 03:17:56",
+    "expected_datetime": "2016-08-19 20:46:00"
+}

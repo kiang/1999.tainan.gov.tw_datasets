@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608110097",
+    "requested_datetime": "2016-08-11 11:00:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區六合路44巷57號 違規停車",
+    "address_string": "710台灣台南市永康區六合路44巷57號",
+    "lat": "23.0096576",
+    "long": "120.2322692",
+    "service_notice": {},
+    "updated_datetime": "2016-08-11 13:26:53",
+    "expected_datetime": "2016-08-11 11:00:00"
+}

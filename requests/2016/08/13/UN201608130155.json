@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608130155",
+    "requested_datetime": "2016-08-13 14:48:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "中西區民族路和北門路交叉口 交通疏導",
+    "address_string": "中西區民族路和北門路交叉口",
+    "lat": "22.9945122",
+    "long": "120.2117605",
+    "service_notice": {},
+    "updated_datetime": "2016-08-13 19:45:22",
+    "expected_datetime": "2016-08-20 14:48:00"
+}

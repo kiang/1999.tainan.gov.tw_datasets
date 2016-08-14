@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608100315",
+    "requested_datetime": "2016-08-10 18:37:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區文化路 統一宅急便 違停",
+    "address_string": "東區文化路 統一宅急便",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-08-10 22:07:24",
+    "expected_datetime": "2016-08-17 18:37:00"
+}

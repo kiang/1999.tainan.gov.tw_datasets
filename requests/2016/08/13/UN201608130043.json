@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608130043",
+    "requested_datetime": "2016-08-13 09:34:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "六甲區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "六甲區中正路市場週邊 汽車占用機車道",
+    "address_string": "六甲區中正路市場週邊",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-08-13 13:59:13",
+    "expected_datetime": "2016-08-20 09:34:00"
+}

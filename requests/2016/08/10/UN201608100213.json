@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608100213",
+    "requested_datetime": "2016-08-10 14:44:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區大林路119號  違規停車",
+    "address_string": "702台灣台南市南區大林路119號",
+    "lat": "22.9754442",
+    "long": "120.2109632",
+    "service_notice": {},
+    "updated_datetime": "2016-08-10 18:09:21",
+    "expected_datetime": "2016-08-10 14:44:00"
+}

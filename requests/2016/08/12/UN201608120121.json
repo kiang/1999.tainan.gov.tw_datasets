@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608120121",
+    "requested_datetime": "2016-08-12 12:00:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區大同路二段61巷陸東里活動中心對面 紅線違停",
+    "address_string": "東區大同路二段61巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-08-12 16:36:24",
+    "expected_datetime": "2016-08-19 12:00:00"
+}

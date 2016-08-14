@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608120358",
+    "requested_datetime": "2016-08-12 22:09:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區西門路一段471巷 違規停車",
+    "address_string": "南區西門路一段471巷",
+    "lat": "22.9819691",
+    "long": "120.1969589",
+    "service_notice": {},
+    "updated_datetime": "2016-08-13 03:47:23",
+    "expected_datetime": "2016-08-19 22:09:00"
+}

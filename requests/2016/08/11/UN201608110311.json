@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608110311",
+    "requested_datetime": "2016-08-11 19:29:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "安平區民權路四段335號  空氣汙染",
+    "address_string": "安平區民權路四段335號",
+    "lat": "22.9989319",
+    "long": "120.1766872",
+    "service_notice": {},
+    "updated_datetime": "2016-08-12 09:43:56",
+    "expected_datetime": "2016-08-18 19:29:00"
+}

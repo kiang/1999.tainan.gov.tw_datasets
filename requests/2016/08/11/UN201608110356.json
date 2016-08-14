@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608110356",
+    "requested_datetime": "2016-08-11 22:07:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "南區中華西路一段靠近新興國宅二期    妨礙安寧",
+    "address_string": "南區中華西路一段靠近新興國宅二期",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-08-12 07:59:06",
+    "expected_datetime": "2016-08-18 22:07:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608130277",
+    "requested_datetime": "2016-08-13 21:24:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區崇善東路與崇善東路15巷  違規停車",
+    "address_string": "東區崇善東路與崇善東路15巷 巷口",
+    "lat": "24.7920604",
+    "long": "120.9933678",
+    "service_notice": {},
+    "updated_datetime": "2016-08-14 03:58:34",
+    "expected_datetime": "2016-08-13 21:24:00"
+}

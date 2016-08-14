@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608100274",
+    "requested_datetime": "2016-08-10 16:48:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "七股區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "七股區龍山里5-40號  塑膠味空氣汙染",
+    "address_string": "七股區龍山里5-40號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-08-11 21:23:33",
+    "expected_datetime": "2016-08-17 16:48:00"
+}

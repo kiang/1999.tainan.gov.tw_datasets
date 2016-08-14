@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608110317",
+    "requested_datetime": "2016-08-11 20:01:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "東區崇德路663號2樓  妨害安寧",
+    "address_string": "東區崇德路663號2樓",
+    "lat": "22.9696904",
+    "long": "120.2275043",
+    "service_notice": {},
+    "updated_datetime": "2016-08-12 07:49:12",
+    "expected_datetime": "2016-08-18 20:01:00"
+}

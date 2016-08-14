@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608130093",
+    "requested_datetime": "2016-08-13 11:47:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區大同路二段672-674號 違規停車",
+    "address_string": "702台灣台南市南區大同路二段672-674號",
+    "lat": "22.968014",
+    "long": "120.2156875",
+    "service_notice": {},
+    "updated_datetime": "2016-08-13 18:47:52",
+    "expected_datetime": "2016-08-13 11:47:00"
+}

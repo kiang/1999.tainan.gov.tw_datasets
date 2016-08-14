@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608110211",
+    "requested_datetime": "2016-08-11 15:58:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區北門路二段三段沿線兩側違規停車",
+    "address_string": "北區北門路二段三段沿線兩側",
+    "lat": "23.009448775202404",
+    "long": "120.21582953631878",
+    "service_notice": {},
+    "updated_datetime": "2016-08-12 11:47:13",
+    "expected_datetime": "2016-08-11 15:58:00"
+}
