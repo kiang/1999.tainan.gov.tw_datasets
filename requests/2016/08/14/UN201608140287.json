@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608140287",
+    "requested_datetime": "2016-08-14 19:15:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "中西區民生路右轉中華西路,汽車道上 路面坑洞",
+    "address_string": "中西區中華西路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-21 19:15:00"
+}

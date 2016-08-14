@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608140279",
+    "requested_datetime": "2016-08-14 18:57:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區中華東路二段243巷57弄口 違停",
+    "address_string": "東區中華東路二段243巷57弄口",
+    "lat": "22.9725291",
+    "long": "120.2157326",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-21 18:57:00"
+}
