@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區永安路165巷143號  違停",
     "address_string": "永康區永安路165巷143號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0446428",
+    "long": "120.243046",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-08-22 18:07:00"
