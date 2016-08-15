@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608150305",
+    "requested_datetime": "2016-08-15 18:00:00",
+    "status": {},
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
+    "description": "安南區大安街117巷 電線垂落",
+    "address_string": "709台灣台南市安南區大安街",
+    "lat": "23.0327006",
+    "long": "120.1928683",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-15 18:00:00"
+}
