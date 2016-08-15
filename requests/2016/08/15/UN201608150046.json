@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201608150046",
     "requested_datetime": "2016-08-15 08:59:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "永康區洲尾街154巷9號 佔用道路",
     "address_string": "710台灣台南市永康區洲尾街154巷9號",
     "lat": "23.042055247372986",
     "long": "120.23060197021833",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-15 12:58:52",
     "expected_datetime": "2016-08-15 08:59:00"
 }
