@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201608160047",
     "requested_datetime": "2016-08-16 09:12:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區民生路二段190號 違規停車",
     "address_string": "700台灣台南市中西區民生路二段190號",
     "lat": "22.9962322",
     "long": "120.1939037",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-16 14:35:11",
     "expected_datetime": "2016-08-16 09:12:00"
 }
