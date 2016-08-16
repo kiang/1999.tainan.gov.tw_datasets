@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區民族路二段與赤崁街口 汽車違停",
     "address_string": "700台灣台南市中西區赤崁街口",
     "lat": "22.9931958",
     "long": "120.2117022",
     "service_notice": {},
-    "updated_datetime": "2016-08-14 18:54:29",
+    "updated_datetime": "2016-08-16 08:31:28",
     "expected_datetime": "2016-08-14 12:34:00"
 }
