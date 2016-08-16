@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201608160302",
     "requested_datetime": "2016-08-16 19:36:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "噪音舉發",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局勤務指揮中心,臺南市動物防疫保護處",
     "subproject": "妨害安寧",
     "description": "麻豆區油車里新生北路82巷30號的文旦園附近  妨害安寧",
     "address_string": "麻豆區油車里新生北路82巷30號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-16 22:17:09",
     "expected_datetime": "2016-08-23 19:36:00"
 }
