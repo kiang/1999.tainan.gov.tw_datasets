@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608170221",
+    "requested_datetime": "2016-08-17 14:58:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區立賢路一段靠近西門路四段 佔用道路",
+    "address_string": "北區立賢路一段靠近西門路四段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-24 14:58:00"
+}
