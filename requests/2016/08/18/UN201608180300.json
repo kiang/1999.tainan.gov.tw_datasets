@@ -1,5 +1,5 @@
 {
-    "service_request_id": "UN201608180299",
+    "service_request_id": "UN201608180300",
     "requested_datetime": "2016-08-18 18:44:00",
     "status": {},
     "keyword": {},
@@ -7,8 +7,8 @@
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "中西區西華南街8號 違規停車",
-    "address_string": "西華南街8號",
+    "description": "台南市中西區忠明街與仁愛街交叉口 違規停車",
+    "address_string": "台南市中西區忠明街仁愛街",
     "lat": {},
     "long": {},
     "service_notice": {},
