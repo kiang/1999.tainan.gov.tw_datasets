@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201608190444",
     "requested_datetime": "2016-08-19 10:09:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府水利局",
     "subproject": "人孔蓋或溝蓋聲響鬆動",
     "description": "北區文賢路1122巷153-1號前面  孔蓋噪音",
     "address_string": "北區文賢路1122巷153-1號前面",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-19 15:50:54",
     "expected_datetime": "2016-08-26 10:09:00"
 }

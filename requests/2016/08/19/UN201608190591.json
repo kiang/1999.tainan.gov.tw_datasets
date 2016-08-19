@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608190591",
+    "requested_datetime": "2016-08-19 14:51:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌故障",
+    "description": "永康區四維街和中正路148巷路口  號誌",
+    "address_string": "永康區四維街中正路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-26 14:51:00"
+}
