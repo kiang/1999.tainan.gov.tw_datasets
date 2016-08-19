@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608190719",
+    "requested_datetime": "2016-08-19 20:47:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "歸仁區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "10盞以上路燈故障",
+    "description": "歸仁區高發三路301號到武東",
+    "address_string": "歸仁區高發三路301號到武東",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-26 20:47:00"
+}
