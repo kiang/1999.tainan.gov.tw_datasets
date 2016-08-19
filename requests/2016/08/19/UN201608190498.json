@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201608190498",
     "requested_datetime": "2016-08-19 12:19:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區五妃街國華街一段路口 違規車輛",
     "address_string": "700台灣台南市中西區西門路一段436號",
     "lat": "22.982518707595307",
     "long": "120.19770017567134",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-19 16:11:35",
     "expected_datetime": "2016-08-19 12:19:00"
 }
