@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區青年路55號  違規停車",
     "address_string": "700台灣台南市中西區青年路55號",
     "lat": "22.9922784",
     "long": "120.2069398",
     "service_notice": {},
-    "updated_datetime": "2016-08-18 15:05:52",
+    "updated_datetime": "2016-08-20 01:50:06",
     "expected_datetime": "2016-08-18 10:12:00"
 }
