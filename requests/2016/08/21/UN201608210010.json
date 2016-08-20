@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608210010",
+    "requested_datetime": "2016-08-21 02:12:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "永康區小東路上(往西，於中華路交接路段的彰銀前)  路面坑洞",
+    "address_string": "710台灣台南市永康區小東路473-3號",
+    "lat": "22.998465502555202",
+    "long": "120.23490808904171",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-21 02:12:00"
+}
