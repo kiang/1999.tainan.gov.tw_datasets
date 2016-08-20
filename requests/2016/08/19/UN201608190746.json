@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201608190746",
     "requested_datetime": "2016-08-19 23:46:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "東區東興路二段59號  狗吠",
     "address_string": "東區東興路二段59號",
     "lat": "24.8021235",
     "long": "121.0515086",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-20 07:19:33",
     "expected_datetime": "2016-08-26 23:46:00"
 }
