@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201608210272",
     "requested_datetime": "2016-08-21 19:39:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "佳里延平路麥當勞附近 違規停車",
     "address_string": "延平路麥當勞附近",
     "lat": "24.9600909",
     "long": "121.2253792",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-21 22:27:52",
     "expected_datetime": "2016-08-21 19:39:00"
 }
