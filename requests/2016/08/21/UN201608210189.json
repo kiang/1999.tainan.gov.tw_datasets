@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608210189",
+    "requested_datetime": "2016-08-21 16:25:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區安億路上 港濱歷史公園、原住民文化館    違停",
+    "address_string": "安平區安億路上 港濱歷史公園、原住民文化館",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-28 16:25:00"
+}
