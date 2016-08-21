@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608210284",
+    "requested_datetime": "2016-08-21 20:02:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區小東路299巷內整條 違規停車",
+    "address_string": "東區小東路299巷",
+    "lat": "23.0000536",
+    "long": "120.2270729",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-28 20:02:00"
+}

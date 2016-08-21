@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608210285",
+    "requested_datetime": "2016-08-21 20:00:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區崇德路與崇德二十一街口   違停",
+    "address_string": "東區崇德路與崇德二十一街口",
+    "lat": "24.7920604",
+    "long": "120.9933678",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-28 20:00:00"
+}
