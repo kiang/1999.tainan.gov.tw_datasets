@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608210031",
+    "requested_datetime": "2016-08-21 09:06:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區水交社路*興昌路口  違規停車",
+    "address_string": "702台灣台南市南區水交社路 興昌路口",
+    "lat": "22.976550871751392",
+    "long": "120.20028045767208",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-21 09:06:00"
+}
