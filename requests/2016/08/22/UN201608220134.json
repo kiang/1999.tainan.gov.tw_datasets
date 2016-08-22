@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608220134",
+    "requested_datetime": "2016-08-22 11:17:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": "臺南市永康區公所",
+    "subproject": "9盞以下路燈故障",
+    "description": "永康區國華街99巷11號 路燈故障",
+    "address_string": "永康區國華街99巷11號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-29 11:17:00"
+}
