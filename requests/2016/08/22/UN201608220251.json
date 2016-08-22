@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608220251",
+    "requested_datetime": "2016-08-22 16:00:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區漁濱路觀夕平台 違規停車",
+    "address_string": "708台灣台南市安平區漁濱路",
+    "lat": "22.990572144093420",
+    "long": "120.14724541534429",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-22 16:00:00"
+}
