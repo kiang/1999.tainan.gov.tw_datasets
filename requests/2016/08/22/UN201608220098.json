@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608220098",
+    "requested_datetime": "2016-08-22 10:20:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "南區大同路至中華南路 交通疏導",
+    "address_string": "南區大同路中華南路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-29 10:20:00"
+}
