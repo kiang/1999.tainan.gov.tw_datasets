@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201608220235",
     "requested_datetime": "2016-08-22 15:21:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "交通運輸",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-22 18:12:30",
     "expected_datetime": "2016-08-29 15:21:00"
 }
