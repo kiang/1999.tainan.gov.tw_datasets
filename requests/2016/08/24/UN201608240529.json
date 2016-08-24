@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608240529",
+    "requested_datetime": "2016-08-24 10:57:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區夏林路220號前方  違停",
+    "address_string": "南區夏林路220號前方",
+    "lat": "22.97949",
+    "long": "120.194799",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-31 10:57:00"
+}
