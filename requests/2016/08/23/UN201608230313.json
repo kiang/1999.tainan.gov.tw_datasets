@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201608230313",
     "requested_datetime": "2016-08-23 17:21:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "仁德路大同路三段456巷和亞航街口 號誌故障",
     "address_string": "台南市仁德區仁德路大同路三段456巷亞航街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-24 16:10:55",
     "expected_datetime": "2016-08-30 17:21:00"
 }
