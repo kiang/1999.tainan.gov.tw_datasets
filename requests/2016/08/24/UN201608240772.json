@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608240772",
+    "requested_datetime": "2016-08-24 19:48:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "南區賢南街128號 路燈故障",
+    "address_string": "702台灣台南市南區賢南街128號",
+    "lat": "22.981274",
+    "long": "120.1873197",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-24 19:48:00"
+}

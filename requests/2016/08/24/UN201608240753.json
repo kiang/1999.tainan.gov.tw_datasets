@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區興安路80號  路燈不亮",
     "address_string": "安南區興安路80號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0416086",
+    "long": "120.2140671",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-08-31 18:52:00"
