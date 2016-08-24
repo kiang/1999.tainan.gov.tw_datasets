@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局永康分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區中華西街63巷   違規停車",
     "address_string": "台南市永康區中華西街63巷",
     "lat": "23.0136062",
     "long": "120.2259912",
     "service_notice": {},
-    "updated_datetime": "2016-08-22 23:38:04",
+    "updated_datetime": "2016-08-24 17:32:16",
     "expected_datetime": "2016-08-22 20:26:00"
 }
