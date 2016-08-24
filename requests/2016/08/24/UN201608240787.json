@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608240787",
+    "requested_datetime": "2016-08-24 20:27:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區成功路614巷13弄10號及成功路504巷17弄 路燈不亮",
+    "address_string": {},
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-31 20:27:00"
+}
