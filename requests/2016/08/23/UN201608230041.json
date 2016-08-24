@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201608230041",
     "requested_datetime": "2016-08-23 08:58:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "麻豆區麻佳路一段16-5號 道路散落物",
     "address_string": "台南市麻豆區麻佳路一段16-5號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-24 08:44:25",
     "expected_datetime": "2016-08-30 08:58:00"
 }
