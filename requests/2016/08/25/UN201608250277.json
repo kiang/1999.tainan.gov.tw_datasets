@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201608250277",
     "requested_datetime": "2016-08-25 18:02:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區復國一路復華十街 違規停車",
     "address_string": "永康區復國一路復華十街",
     "lat": "23.013902132742714",
     "long": "120.24588268250227",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-26 03:52:28",
     "expected_datetime": "2016-08-25 18:02:00"
 }
