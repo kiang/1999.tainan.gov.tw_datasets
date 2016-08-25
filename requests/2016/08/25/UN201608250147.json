@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608250147",
+    "requested_datetime": "2016-08-25 12:28:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "704台灣台南市北區成功路624號 違規停車",
+    "address_string": "704台灣台南市北區成功路624號",
+    "lat": "23.0031644",
+    "long": "120.1942744",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-25 12:28:00"
+}
