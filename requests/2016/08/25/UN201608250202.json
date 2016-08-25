@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "台南市中華東路3段336巷 違規停車",
     "address_string": "台南市中華東路3段336巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.973695",
+    "long": "120.2212354",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-08-25 15:00:00"
