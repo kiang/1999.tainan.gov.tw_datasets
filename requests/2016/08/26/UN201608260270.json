@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201608260270",
     "requested_datetime": "2016-08-26 16:57:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區台南火車站前站圓環公車南站後方人行道 違規停車",
     "address_string": "中西區台南火車站",
     "lat": "22.99689273116734",
     "long": "120.21133851259947",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-27 04:05:34",
     "expected_datetime": "2016-08-26 16:57:00"
 }
