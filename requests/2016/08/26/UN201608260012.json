@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608260012",
+    "requested_datetime": "2016-08-26 19:51:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "東區後甲里裕勇路裡面 空氣汙染",
+    "address_string": "東區後甲里裕勇路裡面",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-08-26 09:52:50",
+    "expected_datetime": "2016-09-02 19:51:00"
+}
