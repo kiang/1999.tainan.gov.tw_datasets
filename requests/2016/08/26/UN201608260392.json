@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201608260392",
     "requested_datetime": "2016-08-26 21:02:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新營區三民路89-5號   違規停車",
     "address_string": "730台灣台南市新營區三民路89-5號",
     "lat": "23.306975726610524",
     "long": "120.31342301772156",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-27 05:14:20",
     "expected_datetime": "2016-08-26 21:02:00"
 }
