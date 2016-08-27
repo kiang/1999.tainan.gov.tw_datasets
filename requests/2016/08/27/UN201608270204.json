@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608270204",
+    "requested_datetime": "2016-08-27 17:14:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區中正南路從正南五街至中正路 違規停車",
+    "address_string": "永康區中正南路",
+    "lat": "23.0405374291783",
+    "long": "120.23634709417819",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-27 17:14:00"
+}
