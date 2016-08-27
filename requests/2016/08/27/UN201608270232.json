@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608270232",
+    "requested_datetime": "2016-08-27 18:06:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區崇德十九街76號 違停",
+    "address_string": "東區崇德十九街76號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-03 18:06:00"
+}
