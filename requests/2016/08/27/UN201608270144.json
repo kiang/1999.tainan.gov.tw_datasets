@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608270144",
+    "requested_datetime": "2016-08-27 14:24:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區安億路和光州路口 違停",
+    "address_string": "安平區安億路光州路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-03 14:24:00"
+}
