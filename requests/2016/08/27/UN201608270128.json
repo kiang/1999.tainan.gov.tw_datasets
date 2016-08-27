@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201608270120",
-    "requested_datetime": "2016-08-27 12:37:00",
+    "service_request_id": "UN201608270128",
+    "requested_datetime": "2016-08-27 12:56:00",
     "status": {},
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "東區中華東路三段367號   紅線違停",
-    "address_string": "台南市東區中華東路三段367號",
+    "description": "東區樹林街一段與大同路一段轉角 違規停車",
+    "address_string": "樹林街一段",
     "lat": {},
     "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-08-27 12:37:00"
+    "expected_datetime": "2016-08-27 12:56:00"
 }
