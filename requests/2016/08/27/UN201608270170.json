@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608270170",
+    "requested_datetime": "2016-08-27 16:00:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "台南公園北門路及公園南路人行道沿線",
+    "lat": "23.0057668",
+    "long": "120.2107005",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-27 16:00:00"
+}
