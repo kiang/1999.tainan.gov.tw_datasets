@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608280601",
+    "requested_datetime": "2016-08-28 21:12:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中華西街196巷 紅線違停",
+    "address_string": "永康區中華西街196巷",
+    "lat": "23.0173244",
+    "long": "120.2266635",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-04 21:12:00"
+}
