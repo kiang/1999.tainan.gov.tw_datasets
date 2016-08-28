@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608280576",
+    "requested_datetime": "2016-08-28 19:38:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區武英街17號、 24號  違停",
+    "address_string": "中西區武英街17號、 24號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-04 19:38:00"
+}
