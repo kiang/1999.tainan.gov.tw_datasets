@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區長榮路三段19號  紅線違停",
     "address_string": "東區長榮路三段19號",
-    "lat": {},
-    "long": {},
+    "lat": "22.993339",
+    "long": "120.2214573",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-08-28 12:29:00"
