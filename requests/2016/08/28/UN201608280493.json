@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "文南路沿線兩側 紅線違規停車",
     "address_string": "文南路沿線兩側",
-    "lat": {},
-    "long": {},
+    "lat": "22.9849818",
+    "long": "120.1899424",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-08-28 15:36:00"
