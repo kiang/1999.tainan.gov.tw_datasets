@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608280529",
+    "requested_datetime": "2016-08-28 17:37:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區環河街金華橋 違停",
+    "address_string": "中西區環河街金華橋",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-08-28 19:00:13",
+    "expected_datetime": "2016-09-04 17:37:00"
+}

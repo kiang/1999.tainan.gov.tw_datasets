@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區文化路65號門口 路燈不亮",
     "address_string": "東區文化路65號門口",
-    "lat": {},
-    "long": {},
+    "lat": "23.476871",
+    "long": "120.4499059",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-09-04 16:54:00"
