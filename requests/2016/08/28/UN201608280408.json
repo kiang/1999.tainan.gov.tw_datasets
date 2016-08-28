@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201608280408",
+    "requested_datetime": "2016-08-28 11:11:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區安平路沿線兩側(安北路到古堡街) 違規停車",
+    "address_string": "安平區安平路",
+    "lat": "22.99904139895502",
+    "long": "120.16770131886005",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-08-28 11:11:00"
+}
