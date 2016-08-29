@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201608290167",
     "requested_datetime": "2016-08-29 11:50:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "學甲區",
     "service_name": "違規停車",
-    "agency": "臺南市政府交通局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "台南市學甲區中山路68號 違規停車",
     "address_string": "台南市學甲區中山路68號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-29 16:58:39",
     "expected_datetime": "2016-08-29 11:50:00"
 }
