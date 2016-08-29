@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201608260368",
     "requested_datetime": "2016-08-26 19:43:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "中西區府前路二段右轉府前一街  漏水",
     "address_string": "中西區府前一街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-29 14:08:32",
     "expected_datetime": "2016-09-02 19:43:00"
 }
