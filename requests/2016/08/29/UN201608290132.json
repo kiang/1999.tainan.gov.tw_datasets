@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201608290132",
     "requested_datetime": "2016-08-29 11:00:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "柳營區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市柳營區公所",
     "subproject": "9盞以下路燈故障",
     "description": "柳營區太康里55-18號前面 路燈故障",
     "address_string": "柳營區太康里55-18號前面",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-08-30 14:54:08",
     "expected_datetime": "2016-09-05 11:00:00"
 }
