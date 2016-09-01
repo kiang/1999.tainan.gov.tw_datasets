@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "青年路段，北門路口到民權路口、城隍街段，青年路口到開山路口、民權路段，中山路口到青年路口 違規停車",
     "address_string": "青年路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9915546",
+    "long": "120.2116019",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-09-01 16:20:00"

@@ -1,5 +1,5 @@
 {
-    "service_request_id": "UN201609010246",
+    "service_request_id": "UN201609010247",
     "requested_datetime": "2016-09-01 16:22:00",
     "status": {},
     "keyword": {},
@@ -7,10 +7,10 @@
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "中西區中山路2號到100號、11號到117號 違規停車",
-    "address_string": "中山路2號",
-    "lat": "25.0594835",
-    "long": "121.5320722",
+    "description": "民權路段，中山路口到海安路口 違規停車",
+    "address_string": "民權路",
+    "lat": "24.1512529",
+    "long": "120.6704887",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-09-01 16:22:00"
