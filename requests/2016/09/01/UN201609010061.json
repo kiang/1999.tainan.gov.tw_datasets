@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201609010061",
     "requested_datetime": "2016-09-01 09:44:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "中西區民生路二段389號之後，綠海社區 燒金紙空氣污染",
     "address_string": "中西區民生路二段389號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-01 14:15:34",
     "expected_datetime": "2016-09-08 09:44:00"
 }
