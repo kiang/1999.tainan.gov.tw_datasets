@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201608300092",
     "requested_datetime": "2016-08-30 10:48:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "道路維修",
@@ -12,6 +12,6 @@
     "lat": "22.9708371",
     "long": "120.2578936",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-01 10:34:01",
     "expected_datetime": "2016-09-06 10:48:00"
 }
