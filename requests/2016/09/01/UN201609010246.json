@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201609010246",
     "requested_datetime": "2016-09-01 16:22:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區中山路2號到100號、11號到117號 違規停車",
     "address_string": "中山路2號",
     "lat": "25.0594835",
     "long": "121.5320722",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-01 19:33:19",
     "expected_datetime": "2016-09-01 16:22:00"
 }
