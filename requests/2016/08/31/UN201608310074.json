@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201608310074",
     "requested_datetime": "2016-08-31 09:35:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "道路維修",
-    "agency": "臺南市政府工務局",
+    "agency": "台南市政府",
     "subproject": "路面下陷、凹陷",
     "description": "東區育英街跟裕義路路口  路面下陷",
     "address_string": "東區育英街裕義路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-01 09:22:00",
     "expected_datetime": "2016-09-07 09:35:00"
 }
