@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201609010392",
     "requested_datetime": "2016-09-01 21:40:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區公園路601號    違規停車",
     "address_string": "台南市北區公園路601號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0072239",
+    "long": "120.2099435",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-01 22:35:38",
     "expected_datetime": "2016-09-01 21:40:00"
 }
