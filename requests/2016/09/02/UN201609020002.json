@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609020002",
+    "requested_datetime": "2016-09-02 02:03:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "忠義路一段84巷6弄底",
+    "lat": "25.0053993",
+    "long": "121.3170692",
+    "service_notice": {},
+    "updated_datetime": "2016-09-02 06:40:23",
+    "expected_datetime": "2016-09-02 02:03:00"
+}

@@ -9,8 +9,8 @@
     "subproject": "10盞以上路燈故障",
     "description": "安南區四草里大眾六路跟大眾六街 路燈不亮",
     "address_string": "安南區四草里大眾路 大眾六街",
-    "lat": {},
-    "long": {},
+    "lat": "23.0168052",
+    "long": "120.1283221",
     "service_notice": {},
     "updated_datetime": "2016-09-01 10:51:23",
     "expected_datetime": "2016-09-08 04:04:00"
