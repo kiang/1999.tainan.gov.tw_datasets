@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201609030165",
     "requested_datetime": "2016-09-03 14:42:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "騎樓舉發",
@@ -12,6 +12,6 @@
     "lat": "23.0083095",
     "long": "120.2319145",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-03 19:33:55",
     "expected_datetime": "2016-09-03 14:42:00"
 }
