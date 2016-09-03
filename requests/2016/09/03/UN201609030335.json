@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609030335",
+    "requested_datetime": "2016-09-03 21:44:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區德興路190巷6號 違規停車",
+    "address_string": "702台灣台南市南區德興路190巷6號",
+    "lat": "22.961208399066702",
+    "long": "120.19254702623232",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-03 21:44:00"
+}
