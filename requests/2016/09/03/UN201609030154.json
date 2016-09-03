@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609030154",
+    "requested_datetime": "2016-09-03 14:22:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "路面坑洞",
+    "description": "安南區安吉路二段700號附近 往高速公路方向      路面坑洞",
+    "address_string": "安南區安吉路二段700號附近 往高速公路方向",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-10 14:22:00"
+}
