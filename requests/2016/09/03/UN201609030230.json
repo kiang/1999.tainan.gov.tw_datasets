@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609030230",
+    "requested_datetime": "2016-09-03 17:25:00",
+    "status": {},
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌秒差調整",
+    "description": "安南區海安路三段53巷2號   交通運輸",
+    "address_string": "704台灣台南市安南區海安路三段53巷2號",
+    "lat": "23.002084591447378",
+    "long": "120.19920587550867",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-03 17:25:00"
+}
