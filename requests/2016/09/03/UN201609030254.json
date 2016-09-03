@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609030254",
+    "requested_datetime": "2016-09-03 18:10:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區大仁里活動中心 違停",
+    "address_string": "北區大仁里活動中心",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-10 18:10:00"
+}
