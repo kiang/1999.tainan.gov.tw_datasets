@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201609030342",
     "requested_datetime": "2016-09-03 22:32:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "永康區富強路與西勢路口 連續噪音\/妨害安寧",
     "address_string": "台南市永康區富強路",
     "lat": "23.0170142",
     "long": "120.273991",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-04 11:30:31",
     "expected_datetime": "2016-09-03 22:32:00"
 }
