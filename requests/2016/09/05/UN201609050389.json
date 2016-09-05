@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609050389",
+    "requested_datetime": "2016-09-05 20:14:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安南區府安路五段11巷27號  違停",
+    "address_string": "安南區府安路五段11巷27號",
+    "lat": "23.0274566",
+    "long": "120.2031636",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-12 20:14:00"
+}
