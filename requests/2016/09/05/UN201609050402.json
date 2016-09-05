@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609050402",
+    "requested_datetime": "2016-09-05 20:56:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "永康區大灣路40巷58弄20號之1  妨害安寧",
+    "address_string": "大灣路40巷58弄20號之1",
+    "lat": "23.015377",
+    "long": "120.269608",
+    "service_notice": {},
+    "updated_datetime": "2016-09-05 22:39:30",
+    "expected_datetime": "2016-09-12 20:56:00"
+}
