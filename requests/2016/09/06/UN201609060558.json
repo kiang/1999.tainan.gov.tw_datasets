@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201609060558",
     "requested_datetime": "2016-09-06 21:12:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安定區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市安定區公所",
     "subproject": "路面坑洞",
     "description": "安定區往西港方向的堤防道路 坑洞",
     "address_string": "安定區堤防道路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-07 16:51:02",
     "expected_datetime": "2016-09-13 21:12:00"
 }

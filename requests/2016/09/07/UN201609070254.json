@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609070254",
+    "requested_datetime": "2016-09-07 16:25:00",
+    "status": {},
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "仁德區中正路二段145號 違規停車",
+    "address_string": "仁德區中正路二段145號",
+    "lat": "22.946932859649710",
+    "long": "120.25107441534419",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-07 16:25:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609070239",
+    "requested_datetime": "2016-09-07 15:08:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "永康區永安橋和永康抽水站中間 路面坑洞",
+    "address_string": "永康區永安橋",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-14 15:08:00"
+}
