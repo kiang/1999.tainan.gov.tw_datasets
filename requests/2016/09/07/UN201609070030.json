@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609070030",
+    "requested_datetime": "2016-09-07 07:45:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安定區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "安定區台19線與安吉路三段交叉口 交通疏導",
+    "address_string": "安定區台19線\/安吉路三段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-14 07:45:00"
+}
