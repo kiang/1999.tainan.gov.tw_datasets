@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "台南市東區東興路133號 違規停車",
     "address_string": "台南市東區東興路133號",
-    "lat": {},
-    "long": {},
+    "lat": "22.992875",
+    "long": "120.228926",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-09-08 22:36:00"
