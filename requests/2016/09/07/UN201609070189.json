@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201609070189",
     "requested_datetime": "2016-09-07 13:38:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "道路維修",
-    "agency": "臺南市政府水利局",
+    "agency": "台南市政府",
     "subproject": "人孔蓋或溝蓋聲響鬆動",
     "description": "中西區忠義路跟樹林街口 人孔蓋聲響鬆動",
     "address_string": "中西區忠義路樹林街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-08 09:03:22",
     "expected_datetime": "2016-09-14 13:38:00"
 }
