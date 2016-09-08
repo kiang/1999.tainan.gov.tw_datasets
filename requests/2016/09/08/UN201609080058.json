@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609080058",
+    "requested_datetime": "2016-09-08 08:44:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "仁德交流道,北上交流道方向 交通疏導",
+    "address_string": "仁德交流道",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-15 08:44:00"
+}

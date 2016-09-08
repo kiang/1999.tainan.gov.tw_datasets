@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局永康分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區中華路21之1號  違規停車",
     "address_string": "台南市永康區中華路21之1號",
     "lat": "22.999505",
     "long": "120.234286",
     "service_notice": {},
-    "updated_datetime": "2016-09-05 17:17:41",
+    "updated_datetime": "2016-09-08 10:43:04",
     "expected_datetime": "2016-09-05 11:45:00"
 }
