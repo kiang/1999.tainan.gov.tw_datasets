@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201609090038",
     "requested_datetime": "2016-09-09 08:41:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區開元路66巷巷底 違規停車",
     "address_string": "704台灣台南市北區開元路66巷巷底",
     "lat": "23.005366344530792",
     "long": "120.21394260129983",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-09 16:33:27",
     "expected_datetime": "2016-09-09 08:41:00"
 }
