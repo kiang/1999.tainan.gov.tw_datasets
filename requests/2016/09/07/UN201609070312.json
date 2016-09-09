@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201609070312",
     "requested_datetime": "2016-09-07 18:49:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "道路維修",
-    "agency": "臺南市政府工務局,臺南市政府警察局",
+    "agency": "臺南市永康區公所,臺南市政府警察局",
     "subproject": "路面坑洞",
     "description": "永康區勝利街2巷59弄2號  坑洞",
     "address_string": "永康區勝利街2巷59弄2號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-09 08:59:45",
     "expected_datetime": "2016-09-14 18:49:00"
 }
