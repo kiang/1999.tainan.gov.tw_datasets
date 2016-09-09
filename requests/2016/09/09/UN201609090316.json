@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609090316",
+    "requested_datetime": "2016-09-09 16:55:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "歸仁區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "歸仁區和仁德區交界處，青森汽車旅館（歸仁區南興里文化街三段529號） 路中違停",
+    "address_string": "歸仁區南興里文化街三段529號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-16 16:55:00"
+}
