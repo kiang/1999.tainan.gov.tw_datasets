@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201609080441",
     "requested_datetime": "2016-09-08 22:36:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "台南市東區東興路133號 違規停車",
     "address_string": "台南市東區東興路133號",
     "lat": "22.992875",
     "long": "120.228926",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-09 07:51:08",
     "expected_datetime": "2016-09-08 22:36:00"
 }
