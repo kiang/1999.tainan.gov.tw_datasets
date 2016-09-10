@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201609100095",
     "requested_datetime": "2016-09-10 09:50:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "安南區海佃路一158巷99號 道路坑洞",
     "address_string": "安南區海佃路一158巷99號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-10 17:07:16",
     "expected_datetime": "2016-09-17 09:50:00"
 }

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609100317",
+    "requested_datetime": "2016-09-10 17:55:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "南區健康路一段179號 交通疏導",
+    "address_string": "南區健康路一段179號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-17 17:55:00"
+}
