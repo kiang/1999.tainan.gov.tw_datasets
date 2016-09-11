@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201609110008",
     "requested_datetime": "2016-09-11 03:02:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "730台灣台南市新營區裕民路32號 妨害安寧",
     "address_string": "730台灣台南市新營區裕民路32號",
     "lat": "23.301840209989098",
     "long": "120.30730264113924",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-11 16:14:04",
     "expected_datetime": "2016-09-11 03:02:00"
 }

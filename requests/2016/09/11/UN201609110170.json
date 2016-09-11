@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609110170",
+    "requested_datetime": "2016-09-11 16:00:00",
+    "status": {},
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "安南區安和路一段267號  佔用道路",
+    "address_string": "709台灣台南市安南區安和路一段267號",
+    "lat": "23.031954456643213",
+    "long": "120.21253352064650",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-11 16:00:00"
+}
