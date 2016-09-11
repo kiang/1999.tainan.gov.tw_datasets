@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201609110170",
     "requested_datetime": "2016-09-11 16:00:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "交通運輸",
@@ -12,6 +12,6 @@
     "lat": "23.031954456643213",
     "long": "120.21253352064650",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-12 00:25:11",
     "expected_datetime": "2016-09-11 16:00:00"
 }
