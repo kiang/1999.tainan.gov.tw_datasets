@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609110033",
+    "requested_datetime": "2016-09-11 08:39:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區國華街82號ˋ及78號 違規停車",
+    "address_string": "710台灣台南市永康區國華街82號",
+    "lat": "23.0119048",
+    "long": "120.2473266",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-11 08:39:00"
+}
