@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609120131",
+    "requested_datetime": "2016-09-12 11:27:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中正六街台南應用科大周圍(1號對面到77號對面) 違規停車",
+    "address_string": "永康區中正六街台南應用科大周圍",
+    "lat": "23.036762505150655",
+    "long": "120.23763522505759",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-12 11:27:00"
+}
