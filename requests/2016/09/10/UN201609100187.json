@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201609100187",
     "requested_datetime": "2016-09-10 12:57:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "永康區新興街8-16號 道路散落物",
     "address_string": "710台灣台南市永康區新興街8-16號",
     "lat": "23.0115999",
     "long": "120.2285073",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-12 13:34:54",
     "expected_datetime": "2016-09-10 12:57:00"
 }
