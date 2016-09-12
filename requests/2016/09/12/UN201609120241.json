@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609120241",
+    "requested_datetime": "2016-09-12 15:05:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區忠勇街沿線  違規停車",
+    "address_string": "永康區忠勇街",
+    "lat": "23.00058359173746",
+    "long": "120.23802582174538",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-12 15:05:00"
+}
