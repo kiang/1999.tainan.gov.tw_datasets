@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "新市區中正路276號  空氣汙染",
     "address_string": "新市區中正路276號",
-    "lat": {},
-    "long": {},
+    "lat": "23.078976",
+    "long": "120.2925216",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-09-19 10:54:00"
