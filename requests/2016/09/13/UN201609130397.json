@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609130397",
+    "requested_datetime": "2016-09-13 19:08:00",
+    "status": {},
+    "keyword": {},
+    "area": "東 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "701台灣台南市東區裕農路572號  違規停車",
+    "address_string": "701台灣台南市東區裕農路572號",
+    "lat": "22.98847333982008",
+    "long": "120.23404341191055",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-13 19:08:00"
+}
