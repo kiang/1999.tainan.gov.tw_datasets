@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609140971",
+    "requested_datetime": "2016-09-14 20:08:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路樹傾倒",
+    "description": "台南後火車站,前鋒路上 路樹倒塌",
+    "address_string": "東區前鋒路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-21 20:08:00"
+}
