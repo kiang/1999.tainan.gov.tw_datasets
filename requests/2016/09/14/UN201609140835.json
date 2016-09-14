@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609140835",
+    "requested_datetime": "2016-09-14 17:45:00",
+    "status": {},
+    "keyword": {},
+    "area": "歸仁區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路樹傾倒",
+    "description": "道路維修",
+    "address_string": "711台灣台南市歸仁區七甲一街142號",
+    "lat": "22.984538616760187",
+    "long": "120.2948524430394",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-14 17:45:00"
+}
