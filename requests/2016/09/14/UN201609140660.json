@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609140660",
+    "requested_datetime": "2016-09-14 15:53:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "北區文賢路520巷60-70號 停電",
+    "address_string": "704台灣台南市北區文賢路520巷60-70號",
+    "lat": "23.006991859364906",
+    "long": "120.19555093868611",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-14 15:53:00"
+}
