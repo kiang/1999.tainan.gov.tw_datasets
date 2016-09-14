@@ -9,8 +9,8 @@
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "安通路四段119巷民生管線",
     "address_string": "709台灣台南市安南區安通路四段119巷43號",
-    "lat": {},
-    "long": {},
+    "lat": "23.030462",
+    "long": "120.207037",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-09-14 18:45:00"
