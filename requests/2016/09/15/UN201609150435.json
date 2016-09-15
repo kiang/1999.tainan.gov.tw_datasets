@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201609150108",
-    "requested_datetime": "2016-09-15 09:13:00",
+    "service_request_id": "UN201609150435",
+    "requested_datetime": "2016-09-15 16:26:00",
     "status": "未處理",
     "keyword": {},
-    "area": "東區",
+    "area": "北區",
     "service_name": "民生管線",
     "agency": "臺南市政府聯合服務中心",
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
-    "description": "東區崇善路1089巷10號  停電",
-    "address_string": "東區崇善路1089巷10號",
+    "description": "北區北門路二段開元陸橋下  電線",
+    "address_string": "北門路二段開元陸橋下",
     "lat": {},
     "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-09-22 09:13:00"
+    "expected_datetime": "2016-09-22 16:26:00"
 }
