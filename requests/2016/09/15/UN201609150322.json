@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "歸仁區台南高鐵站 違規停車",
     "address_string": "歸仁區台南高鐵站",
-    "lat": {},
-    "long": {},
+    "lat": "22.924928",
+    "long": "120.28572",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-09-22 13:57:00"
