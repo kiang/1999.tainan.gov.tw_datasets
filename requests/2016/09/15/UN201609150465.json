@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609150465",
+    "requested_datetime": "2016-09-15 17:23:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "701台灣台南市東區中華東路三段336巷1號  紅線違停",
+    "address_string": "701台灣台南市東區中華東路三段336巷1號",
+    "lat": "22.9746089",
+    "long": "120.22121",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-15 17:23:00"
+}
