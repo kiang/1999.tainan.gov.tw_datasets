@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609150557",
+    "requested_datetime": "2016-09-15 19:35:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區實踐街沿線 大武街到北門路   違規停車",
+    "address_string": "北區實踐街沿線 大武街到北門路",
+    "lat": "23.014532892307578",
+    "long": "120.21707408130169",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-15 19:35:00"
+}
