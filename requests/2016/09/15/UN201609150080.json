@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新市區中正路398-1號 違規停車",
     "address_string": "台南市新市區中正路398-1號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0360274",
+    "long": "120.2429973",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-09-15 08:24:00"
