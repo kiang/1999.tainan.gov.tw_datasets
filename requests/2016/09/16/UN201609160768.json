@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201609160768",
     "requested_datetime": "2016-09-16 10:10:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安南區育安街與育安二街路口 違規停車",
     "address_string": "709台灣台南市安南區育安二街135巷7號",
     "lat": "23.0499304",
     "long": "120.2153338",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-16 18:14:50",
     "expected_datetime": "2016-09-16 10:10:00"
 }
