@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201609170390",
     "requested_datetime": "2016-09-17 21:16:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "學甲區",
     "service_name": "噪音舉發",
@@ -12,6 +12,6 @@
     "lat": "23.232931779853210",
     "long": "120.18012078490119",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-18 03:21:03",
     "expected_datetime": "2016-09-17 21:16:00"
 }
