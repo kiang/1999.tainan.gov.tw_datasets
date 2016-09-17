@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609170297",
+    "requested_datetime": "2016-09-17 17:59:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "六甲區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "六甲區中正路485巷內 違規停車",
+    "address_string": "六甲區中正路485巷內",
+    "lat": "23.2294131",
+    "long": "120.3513387",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-24 17:59:00"
+}
