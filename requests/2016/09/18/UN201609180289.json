@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609180289",
+    "requested_datetime": "2016-09-18 19:28:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區體育路1號  違規停車",
+    "address_string": "702台灣台南市南區體育路1號",
+    "lat": "22.9812114",
+    "long": "120.2071834",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-18 19:28:00"
+}
