@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609180199",
+    "requested_datetime": "2016-09-18 15:02:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "佳里區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "佳里區佳東路457號   佔用道路",
+    "address_string": "佳里區佳東路457號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-25 15:02:00"
+}
