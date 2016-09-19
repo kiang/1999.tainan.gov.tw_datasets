@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201609190087",
     "requested_datetime": "2016-09-19 09:18:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區中華路58巷70號周圍 違規停車",
     "address_string": "永康區中華路58巷70號",
     "lat": "23.002219895491358",
     "long": "120.23814283311366",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-19 18:41:12",
     "expected_datetime": "2016-09-19 09:18:00"
 }

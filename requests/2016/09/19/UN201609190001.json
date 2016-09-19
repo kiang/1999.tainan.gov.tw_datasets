@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201609190001",
     "requested_datetime": "2016-09-19 00:14:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "新營區建業路跟興農街 廟會鞭炮噪音",
     "address_string": "新營區建業路興農街",
     "lat": "23.2982468",
     "long": "120.3084433",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-19 18:20:36",
     "expected_datetime": "2016-09-26 00:14:00"
 }
