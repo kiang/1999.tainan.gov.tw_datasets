@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201609190430",
     "requested_datetime": "2016-09-19 18:06:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "台南女中門口  違規停車",
     "address_string": "台南女中門口",
-    "lat": {},
-    "long": {},
+    "lat": "23.69781",
+    "long": "120.960515",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-19 21:09:54",
     "expected_datetime": "2016-09-19 18:06:00"
 }
