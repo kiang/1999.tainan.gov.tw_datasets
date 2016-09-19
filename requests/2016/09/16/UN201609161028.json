@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201609161028",
     "requested_datetime": "2016-09-16 18:20:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "七股區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "通報七股區龍山里25號旁 空氣汙染",
     "address_string": "七股區龍山里25號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-19 08:43:18",
     "expected_datetime": "2016-09-23 18:20:00"
 }
