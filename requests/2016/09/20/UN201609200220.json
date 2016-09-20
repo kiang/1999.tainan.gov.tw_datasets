@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201609200220",
     "requested_datetime": "2016-09-20 14:53:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "北區成功路54號 騎樓舉發",
     "address_string": "北區成功路54號",
     "lat": "22.9980911",
     "long": "120.2074545",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-20 17:13:16",
     "expected_datetime": "2016-09-20 14:53:00"
 }
