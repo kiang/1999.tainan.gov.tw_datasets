@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201609200039",
     "requested_datetime": "2016-09-20 09:00:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區安平路446巷與安平路446巷27弄交叉口 違規停車",
     "address_string": "安平區安平路446巷27弄",
-    "lat": {},
-    "long": {},
+    "lat": "22.9980234",
+    "long": "120.173477",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-20 10:52:01",
     "expected_datetime": "2016-09-20 09:00:00"
 }

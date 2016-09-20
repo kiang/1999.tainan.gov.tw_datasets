@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201609200023",
     "requested_datetime": "2016-09-20 08:18:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "交通運輸",
@@ -9,9 +9,9 @@
     "subproject": "交通疏導",
     "description": "中西區中華西路二段345號 交通疏導",
     "address_string": "中西區中華西路二段345號",
-    "lat": {},
-    "long": {},
+    "lat": "22.993197",
+    "long": "120.1866909",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-20 10:46:54",
     "expected_datetime": "2016-09-27 08:18:00"
 }
