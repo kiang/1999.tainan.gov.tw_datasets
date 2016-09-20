@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201609190022",
     "requested_datetime": "2016-09-19 07:57:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路樹傾倒",
     "description": "南區大成國中後面水交社路（公園道路13號）， 路樹倒塌",
     "address_string": "南區水交社路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-20 15:41:35",
     "expected_datetime": "2016-09-26 07:57:00"
 }
