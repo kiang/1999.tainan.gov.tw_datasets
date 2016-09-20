@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609200092",
+    "requested_datetime": "2016-09-20 10:49:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "人孔蓋或溝蓋聲響鬆動",
+    "description": "北區賢北街57巷46弄2號  人孔蓋或溝鬆動",
+    "address_string": "北區賢北街57巷46弄2號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-09-20 11:44:10",
+    "expected_datetime": "2016-09-27 10:49:00"
+}
