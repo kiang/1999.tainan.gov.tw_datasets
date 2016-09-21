@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609210220",
+    "requested_datetime": "2016-09-21 12:49:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面下陷、凹陷",
+    "description": "永康區東橋二街和東橋三路的T字路口 路面下陷",
+    "address_string": "永康區東橋二街東橋三路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-28 12:49:00"
+}
