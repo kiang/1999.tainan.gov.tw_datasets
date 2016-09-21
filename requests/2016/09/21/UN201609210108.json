@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609210108",
+    "requested_datetime": "2016-09-21 09:31:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "永康區忠勇街65巷23號對面(精忠新城周圍)",
+    "lat": "23.001544945743102",
+    "long": "120.23711957037447",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-21 09:31:00"
+}
