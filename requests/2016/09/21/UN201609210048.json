@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609210048",
+    "requested_datetime": "2016-09-21 08:11:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區勝利街197巷8弄 違規停車 佔用道路",
+    "address_string": "永康區勝利街197巷8弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-28 08:11:00"
+}
