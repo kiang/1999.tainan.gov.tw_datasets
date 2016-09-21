@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201609210273",
     "requested_datetime": "2016-09-21 14:01:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "玉井區",
     "service_name": "噪音舉發",
@@ -12,6 +12,6 @@
     "lat": "23.1237916",
     "long": "120.4663041",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-21 16:46:29",
     "expected_datetime": "2016-09-28 14:01:00"
 }
