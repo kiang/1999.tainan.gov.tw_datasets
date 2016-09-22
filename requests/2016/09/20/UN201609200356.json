@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201609200356",
     "requested_datetime": "2016-09-20 19:45:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "山上區",
     "service_name": "路燈故障",
-    "agency": "臺南市政府工務局",
+    "agency": "臺南市山上區公所",
     "subproject": "9盞以下路燈故障",
     "description": "743台灣台南市山上區南140鄉道42號  路燈故障",
     "address_string": "743台灣台南市山上區南140鄉道42號",
     "lat": "23.1053748",
     "long": "120.3487189",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-22 10:08:24",
     "expected_datetime": "2016-09-20 19:45:00"
 }
