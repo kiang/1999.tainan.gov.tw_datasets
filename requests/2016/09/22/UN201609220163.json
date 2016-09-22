@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609220163",
+    "requested_datetime": "2016-09-22 11:32:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區南園街127巷106弄82號門口右側  路燈不亮",
+    "address_string": "北區南園街127巷106弄82號門口右側",
+    "lat": "23.0081761",
+    "long": "120.2249846",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-29 11:32:00"
+}
