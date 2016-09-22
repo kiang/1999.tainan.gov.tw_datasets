@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區開元橋河堤邊的單向道，由崑山中學旁到南園街，違停",
     "address_string": "北區開元橋",
-    "lat": {},
-    "long": {},
+    "lat": "23.0111749",
+    "long": "120.2260566",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-09-29 12:22:00"

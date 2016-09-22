@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區海安路和保安路轉角處 紅線違停",
     "address_string": "中西區海安路保安路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9904972",
+    "long": "120.1954962",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-09-29 12:27:00"
