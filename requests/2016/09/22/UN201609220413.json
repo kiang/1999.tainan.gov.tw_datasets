@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局永康分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區大灣三街102號 違規停車",
     "address_string": "台南市永康區大灣三街102號",
     "lat": "23.0049488",
     "long": "120.2660028",
     "service_notice": {},
-    "updated_datetime": "2016-09-23 03:46:28",
+    "updated_datetime": "2016-09-23 17:32:18",
     "expected_datetime": "2016-09-22 19:24:00"
 }
