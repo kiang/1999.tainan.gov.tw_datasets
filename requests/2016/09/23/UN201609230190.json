@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609230190",
+    "requested_datetime": "2016-09-23 12:51:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區廣慈街 逆向違規停車",
+    "address_string": "中西區廣慈街",
+    "lat": "22.996499409637281",
+    "long": "120.20687829947508",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-23 12:51:00"
+}
