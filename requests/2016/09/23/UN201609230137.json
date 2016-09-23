@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609230137",
+    "requested_datetime": "2016-09-23 11:09:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌故障",
+    "description": "南區新興路*新建路 興新國中旁邊  號誌故障",
+    "address_string": "南區新興路*新建路 興新國中旁邊",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-30 11:09:00"
+}
