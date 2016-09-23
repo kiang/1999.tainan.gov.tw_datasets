@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609230368",
+    "requested_datetime": "2016-09-23 18:39:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "700台灣台南市中西區國華街二段46號",
+    "lat": "22.9884274",
+    "long": "120.1964734",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-23 18:39:00"
+}
