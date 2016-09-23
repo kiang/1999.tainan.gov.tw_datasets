@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201609230393",
     "requested_datetime": "2016-09-23 19:38:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區長榮路二段257號旁邊  違規停車",
     "address_string": "東區長榮路二段257號旁邊",
     "lat": "22.9919097",
     "long": "120.2214619",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-23 23:24:29",
     "expected_datetime": "2016-09-30 19:38:00"
 }
