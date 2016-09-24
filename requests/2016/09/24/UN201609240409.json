@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609240409",
+    "requested_datetime": "2016-09-24 21:25:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區立賢路一段563號對面 紅線違停",
+    "address_string": "北區立賢路一段563號對面",
+    "lat": "23.0095995",
+    "long": "120.2012714",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-24 21:25:00"
+}
