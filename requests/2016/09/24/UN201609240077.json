@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201609240077",
     "requested_datetime": "2016-09-24 10:39:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "南區健康路三段中華西路二段口 佔用道路",
     "address_string": "南區健康路三段中華西路二段口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-24 18:44:40",
     "expected_datetime": "2016-10-01 10:39:00"
 }
