@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609240248",
+    "requested_datetime": "2016-09-24 15:56:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區海安路三段580號～600號 佔用人行道",
+    "address_string": "北區海安路三段580號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-01 15:56:00"
+}

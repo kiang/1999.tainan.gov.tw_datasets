@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區永華路一段64號、62號  違停",
     "address_string": "中西區永華路一段64號、62號",
-    "lat": {},
-    "long": {},
+    "lat": "22.987609",
+    "long": "120.195495",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-10-01 21:38:00"
