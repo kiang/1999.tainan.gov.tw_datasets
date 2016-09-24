@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區南門路(民生綠園圓環到健康路口) 違規停車",
     "address_string": "南門路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9839852",
+    "long": "120.2040603",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-09-24 15:04:00"
