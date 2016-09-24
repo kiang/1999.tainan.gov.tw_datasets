@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609240150",
+    "requested_datetime": "2016-09-24 12:22:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區復國二路和復華三街交叉口 紅線違停",
+    "address_string": "永康區復國二路復華三街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-01 12:22:00"
+}
