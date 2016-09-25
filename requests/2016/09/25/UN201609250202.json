@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201609250202",
     "requested_datetime": "2016-09-25 17:36:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "騎樓舉發",
@@ -12,6 +12,6 @@
     "lat": "22.998153480489254",
     "long": "120.19469406455754",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-25 19:25:27",
     "expected_datetime": "2016-09-25 17:36:00"
 }
