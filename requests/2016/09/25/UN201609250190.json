@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609250190",
+    "requested_datetime": "2016-09-25 16:54:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區開元路成大城周圍 違規停車",
+    "address_string": "北區開元路成大城周圍",
+    "lat": "23.011034361388134",
+    "long": "120.22579662501813",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-25 16:54:00"
+}
