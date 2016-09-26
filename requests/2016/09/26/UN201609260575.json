@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609260575",
+    "requested_datetime": "2016-09-26 20:59:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區海安路三段59之1號 佔用道路",
+    "address_string": "北區海安路三段59之1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-03 20:59:00"
+}
