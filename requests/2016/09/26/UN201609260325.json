@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609260325",
+    "requested_datetime": "2016-09-26 15:42:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "南區金華路一段484巷151弄4號 占用道路",
+    "address_string": "南區金華路一段484巷151弄4號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-03 15:42:00"
+}
