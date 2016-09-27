@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609271145",
+    "requested_datetime": "2016-09-27 22:11:00",
+    "status": {},
+    "keyword": {},
+    "area": "新化區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "民生管線",
+    "address_string": "712台灣台南市新化區信義路117巷",
+    "lat": "23.03217876907861",
+    "long": "120.31369060277939",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-27 22:11:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609271065",
+    "requested_datetime": "2016-09-27 20:42:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "南區鹽埕路103巷38弄 民生管線",
+    "address_string": "台南市南區鹽埕路103巷38弄，58弄",
+    "lat": "22.966027",
+    "long": "120.1872825",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-27 20:42:00"
+}
