@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201609270586",
-    "requested_datetime": "2016-09-27 13:20:00",
-    "status": {},
+    "requested_datetime": "2016-09-27 13:19:00",
+    "status": "未處理",
     "keyword": {},
-    "area": "南區",
-    "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
-    "subproject": "違規停車",
-    "description": "南區大同路二段及大同路二段164巷交叉口  違規停車",
-    "address_string": "大同路二段",
+    "area": "安南區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "安南區同安路167巷117弄2號 停電",
+    "address_string": "安南區同安路167巷117弄2號",
     "lat": {},
     "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-09-27 13:20:00"
+    "expected_datetime": "2016-10-04 13:19:00"
 }
