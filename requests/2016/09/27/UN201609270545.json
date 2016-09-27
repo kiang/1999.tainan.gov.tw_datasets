@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609270545",
+    "requested_datetime": "2016-09-27 12:31:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區海安路三段580號 違規停車",
+    "address_string": "北區海安路三段580號",
+    "lat": "23.011927",
+    "long": "120.2005341",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-27 12:31:00"
+}
