@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609270538",
+    "requested_datetime": "2016-09-27 12:25:00",
+    "status": {},
+    "keyword": {},
+    "area": "新化區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "新化區五甲勢47號 停電",
+    "address_string": "新化區五甲勢47號",
+    "lat": "23.012337",
+    "long": "120.3343618",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-27 12:25:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609270735",
+    "requested_datetime": "2016-09-27 15:40:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "永康區大灣三街40號整條街 停電",
+    "address_string": "永康區大灣三街40號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-04 15:40:00"
+}
