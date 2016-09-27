@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609270945",
+    "requested_datetime": "2016-09-27 18:38:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "永康區東灣里大灣三街57巷20號 停電",
+    "address_string": "永康區東灣里大灣三街57巷20號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-04 18:38:00"
+}
