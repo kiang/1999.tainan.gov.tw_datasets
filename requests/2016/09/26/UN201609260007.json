@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201609260007",
     "requested_datetime": "2016-09-26 01:21:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "遊蕩犬隻捕捉管制",
     "description": "東區府東街41巷   遊蕩犬隻捕捉",
     "address_string": "東區府東街41巷府東街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-27 10:15:42",
     "expected_datetime": "2016-10-03 01:21:00"
 }
