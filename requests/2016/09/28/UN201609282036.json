@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區東寧路266號違規停車",
     "address_string": "台南市東區東寧路266號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9904796",
+    "long": "120.225709",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-09-28 19:10:00"

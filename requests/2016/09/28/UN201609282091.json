@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609282091",
+    "requested_datetime": "2016-09-28 21:02:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面掏空、塌陷",
+    "description": "北區正覺街58號前   道路維修",
+    "address_string": "704台灣台南市北區正覺街58號前",
+    "lat": "23.01671337207239",
+    "long": "120.21281607449055",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-28 21:02:00"
+}
