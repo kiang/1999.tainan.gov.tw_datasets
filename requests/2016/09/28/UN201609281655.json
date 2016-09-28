@@ -9,8 +9,8 @@
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "安平區安北路84號週邊  停電",
     "address_string": "安平區安北路84號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0014913",
+    "long": "120.1657341",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-10-05 13:50:00"
