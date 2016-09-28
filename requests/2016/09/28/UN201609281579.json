@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609281579",
+    "requested_datetime": "2016-09-28 11:46:00",
+    "status": {},
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "仁德區後壁里中正路二段 停電",
+    "address_string": "717台灣台南市仁德區中正路二段142-154號",
+    "lat": "22.9468987",
+    "long": "120.251156",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-28 11:46:00"
+}
