@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609281458",
+    "requested_datetime": "2016-09-28 09:47:00",
+    "status": {},
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "安南區安通路二段60號 電線掉落",
+    "address_string": "709台灣台南市安南區安通路二段60號",
+    "lat": "23.033772901665024",
+    "long": "120.21797664474718",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-28 09:47:00"
+}
