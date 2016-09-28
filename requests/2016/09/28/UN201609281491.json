@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609281491",
+    "requested_datetime": "2016-09-28 10:19:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "安南區安和里府安路三段287號 停電",
+    "address_string": "安南區安和里府安路三段287號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-05 10:19:00"
+}
