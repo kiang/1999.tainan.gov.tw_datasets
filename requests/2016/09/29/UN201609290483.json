@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201609290483",
     "requested_datetime": "2016-09-29 13:53:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "髒亂及汙染",
-    "agency": "臺南市政府環境保護局",
+    "agency": "台南市政府",
     "subproject": "道路散落物",
     "description": "東區林森路二段158號 道路散落物",
     "address_string": "東區林森路二段158號",
     "lat": "22.988587",
     "long": "120.223892",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-29 16:29:38",
     "expected_datetime": "2016-10-06 13:53:00"
 }
