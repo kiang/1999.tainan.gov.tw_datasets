@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201609290092",
+    "requested_datetime": "2016-09-29 07:14:00",
+    "status": {},
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "安南區北安路二段32-36號 交通疏導",
+    "address_string": "709台灣台南市安南區北安路二段32-36號",
+    "lat": "23.025949",
+    "long": "120.2051933",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-09-29 07:14:00"
+}
