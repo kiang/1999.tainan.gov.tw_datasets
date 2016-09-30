@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201609270799",
     "requested_datetime": "2016-09-27 16:52:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府水利局,臺南市新營區公所",
     "subproject": "路樹傾倒",
     "description": "新營火車站後方 路樹傾倒",
     "address_string": "新營火車站後方",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-09-30 13:26:20",
     "expected_datetime": "2016-10-04 16:52:00"
 }
