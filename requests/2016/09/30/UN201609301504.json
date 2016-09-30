@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區臨安路二段\/海安路三段 違停\/佔用",
     "address_string": "北區臨安路二段海安路三段",
-    "lat": {},
-    "long": {},
+    "lat": "23.0039148",
+    "long": "120.1999343",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-10-07 22:48:00"
