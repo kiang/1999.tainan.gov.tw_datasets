@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610010280",
+    "requested_datetime": "2016-10-01 16:56:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區台糖長榮酒店（中華東路三段336巷1號） 人行道違停機車",
+    "address_string": "東區台糖長榮酒店",
+    "lat": "22.974235",
+    "long": "120.220428",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-08 16:56:00"
+}
