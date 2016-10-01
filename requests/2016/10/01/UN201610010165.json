@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610010165",
+    "requested_datetime": "2016-10-01 12:24:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區北門路三段沿線(實踐街到北門路三段27巷)  違規停車",
+    "address_string": "北區北門路三段",
+    "lat": "23.01398144073661",
+    "long": "120.2171827107668",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-01 12:24:00"
+}
