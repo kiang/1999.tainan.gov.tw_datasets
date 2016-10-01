@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610010124",
+    "requested_datetime": "2016-10-01 11:00:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "東區東門陸橋(西→東方向)在接近下橋之前  路面坑洞",
+    "address_string": "東區東門陸橋",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-08 11:00:00"
+}
