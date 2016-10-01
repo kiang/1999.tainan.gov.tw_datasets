@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610010096",
+    "requested_datetime": "2016-10-01 10:17:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "仁德區土庫里土庫路209號 地下水管破裂",
+    "address_string": "仁德區土庫里土庫路209號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-08 10:17:00"
+}
