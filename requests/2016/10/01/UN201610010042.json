@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610010042",
+    "requested_datetime": "2016-10-01 08:38:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "北區長榮路四段31巷25-1號3樓  妨害安寧",
+    "address_string": "704台灣台南市北區長榮路四段31巷25-1號3樓",
+    "lat": "23.0037559",
+    "long": "120.2213433",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-01 08:38:00"
+}
