@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610010319",
+    "requested_datetime": "2016-10-01 18:22:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區華平路650號  違規停車",
+    "address_string": "安平區華平路650號",
+    "lat": "22.9956932",
+    "long": "120.175787",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-01 18:22:00"
+}
