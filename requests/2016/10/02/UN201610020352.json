@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201610020334",
-    "requested_datetime": "2016-10-02 18:33:00",
+    "service_request_id": "UN201610020352",
+    "requested_datetime": "2016-10-02 18:59:00",
     "status": {},
     "keyword": {},
     "area": "安平區",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "安平區華平路658號  違規停車",
     "address_string": "安平區華平路658號",
-    "lat": "22.9958258",
-    "long": "120.1758042",
+    "lat": {},
+    "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-10-02 18:33:00"
+    "expected_datetime": "2016-10-02 18:59:00"
 }
