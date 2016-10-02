@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610020399",
+    "requested_datetime": "2016-10-02 20:50:00",
+    "status": {},
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "安南區安和路一段95號  騎樓舉發",
+    "address_string": "709台灣台南市安南區安和路一段95號",
+    "lat": "23.0274524",
+    "long": "120.2148047",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-02 20:50:00"
+}
