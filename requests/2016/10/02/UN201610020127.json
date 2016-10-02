@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610020127",
+    "requested_datetime": "2016-10-02 12:25:00",
+    "status": {},
+    "keyword": {},
+    "area": "佳里區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "佳里區林園街74號～84號  紅線違規停車",
+    "address_string": "No. 74-84, Linyuan Street, Jiali District",
+    "lat": "23.165210172160652",
+    "long": "120.17929784953596",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-02 12:25:00"
+}
