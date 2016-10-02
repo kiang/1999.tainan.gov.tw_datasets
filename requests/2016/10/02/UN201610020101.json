@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610020101",
     "requested_datetime": "2016-10-02 11:33:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北 區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區長榮路五段246巷 違規停車",
     "address_string": "北區長榮路五段246巷",
     "lat": "23.012850140194328",
     "long": "120.2176581323147",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-02 16:37:19",
     "expected_datetime": "2016-10-02 11:33:00"
 }
