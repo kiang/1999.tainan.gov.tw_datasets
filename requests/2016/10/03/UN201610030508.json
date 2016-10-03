@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610030508",
+    "requested_datetime": "2016-10-03 19:29:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區文成二路212巷上，靠近文成三路處 路燈不亮",
+    "address_string": "北區文成二路212巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-10 19:29:00"
+}
