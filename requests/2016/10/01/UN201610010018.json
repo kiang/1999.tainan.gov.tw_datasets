@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610010018",
     "requested_datetime": "2016-10-01 07:17:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "東區大同路與府連路口 號誌故障",
     "address_string": "701台灣台南市東區大同路一段171號",
     "lat": "22.9847602",
     "long": "120.2111612",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-03 14:53:28",
     "expected_datetime": "2016-10-01 07:17:00"
 }
