@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610020358",
     "requested_datetime": "2016-10-02 19:08:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "竹溪旁網球場 噪音舉發",
     "address_string": "竹溪旁",
     "lat": "23.69781",
     "long": "120.960515",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-03 07:37:09",
     "expected_datetime": "2016-10-02 19:08:00"
 }
