@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610040082",
+    "requested_datetime": "2016-10-04 09:43:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區東豐路305巷86弄2號  路燈",
+    "address_string": "北區東豐路305巷86弄2號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-11 09:43:00"
+}
