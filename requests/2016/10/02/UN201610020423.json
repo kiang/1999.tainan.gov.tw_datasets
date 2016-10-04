@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610020423",
     "requested_datetime": "2016-10-02 21:58:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "南區喜樹路302巷46號+中華南路二段315巷2弄19號前  路燈故障",
     "address_string": "南區喜樹路302巷46號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-04 10:47:14",
     "expected_datetime": "2016-10-09 21:58:00"
 }
