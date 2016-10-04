@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610040447",
+    "requested_datetime": "2016-10-04 19:11:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "東區崇德路128號 騎樓舉發",
+    "address_string": "701台灣台南市東區崇德路128號",
+    "lat": "22.9794257",
+    "long": "120.2198237",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-04 19:11:00"
+}
