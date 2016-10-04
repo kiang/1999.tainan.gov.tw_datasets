@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區東豐路163號違規停車",
     "address_string": "台南市北區東豐路163號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0030079",
+    "long": "120.2188328",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-10-05 00:39:00"
