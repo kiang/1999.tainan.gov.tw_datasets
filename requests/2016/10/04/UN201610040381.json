@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610040381",
+    "requested_datetime": "2016-10-04 17:22:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區開元路485巷沿線兩側(開元路到桂花鄉大樓前)  違規停車",
+    "address_string": "北區開元路485巷",
+    "lat": "23.011106573316486",
+    "long": "120.22438041865827",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-04 17:22:00"
+}
