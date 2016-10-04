@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610040330",
+    "requested_datetime": "2016-10-04 15:59:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區友愛街  違規停車",
+    "address_string": "友愛街",
+    "lat": "22.9914679",
+    "long": "120.1996507",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-04 15:59:00"
+}

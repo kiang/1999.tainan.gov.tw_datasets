@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610040368",
+    "requested_datetime": "2016-10-04 16:54:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "騎樓舉發",
+    "agency": "台南市政府",
+    "subproject": "騎樓舉發",
+    "description": "700台灣台南市中西區民權路三段23號 騎樓舉發",
+    "address_string": "700台灣台南市中西區民權路三段23號",
+    "lat": "22.9963685",
+    "long": "120.1984814",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-04 16:54:00"
+}
