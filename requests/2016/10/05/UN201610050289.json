@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610050289",
+    "requested_datetime": "2016-10-05 15:54:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區實踐街85巷2號  違規停車",
+    "address_string": "北區實踐街85巷2號永祥社區發展協會周圍",
+    "lat": "23.014999171087815",
+    "long": "120.21971505135296",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-05 15:54:00"
+}
