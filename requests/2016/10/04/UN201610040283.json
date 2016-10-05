@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610040283",
     "requested_datetime": "2016-10-04 14:38:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "道路維修",
-    "agency": "臺南市政府工務局",
+    "agency": "台南市政府",
     "subproject": "路面坑洞",
     "description": "南區永成路三段409號  坑洞",
     "address_string": "南區永成路三段409號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-05 08:57:05",
     "expected_datetime": "2016-10-11 14:38:00"
 }
