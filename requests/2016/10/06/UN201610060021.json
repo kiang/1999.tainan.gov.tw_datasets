@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610060021",
+    "requested_datetime": "2016-10-06 06:47:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區小東路291-295號  人行道違停",
+    "address_string": "北區小東路291號 295號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-13 06:47:00"
+}
