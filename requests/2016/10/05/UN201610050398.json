@@ -1,7 +1,7 @@
 {
-    "service_request_id": "UN201610050281",
-    "requested_datetime": "2016-10-05 15:37:00",
-    "status": "已完工",
+    "service_request_id": "UN201610050398",
+    "requested_datetime": "2016-10-05 19:20:00",
+    "status": {},
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "中西區西華南街沿線(成功路到中山路)  違規停車",
     "address_string": "中西區西華南街沿線(成功路到中山路)",
-    "lat": "22.996109733556366",
-    "long": "120.20983882248402",
+    "lat": "22.9958730124544",
+    "long": "120.20979490131138",
     "service_notice": {},
-    "updated_datetime": "2016-10-05 19:05:51",
-    "expected_datetime": "2016-10-05 15:37:00"
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-05 19:20:00"
 }
