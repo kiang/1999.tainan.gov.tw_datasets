@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610040484",
     "requested_datetime": "2016-10-04 19:57:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "東區東興路236號 路燈故障",
     "address_string": "東區東興路236號",
     "lat": "22.994654",
     "long": "120.230165",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-06 10:31:26",
     "expected_datetime": "2016-10-11 19:57:00"
 }
