@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610060073",
     "requested_datetime": "2016-10-06 08:55:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "安南區智安一街27號 佔用道路",
     "address_string": "臺南市安南區智安一街27號",
     "lat": "23.0498195",
     "long": "120.1768404",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-06 11:28:58",
     "expected_datetime": "2016-10-06 08:55:00"
 }
