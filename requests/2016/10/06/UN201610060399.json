@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610060399",
+    "requested_datetime": "2016-10-06 19:01:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中正六街沿線(正南五街到正南五街410巷) 違規停車",
+    "address_string": "永康區中正六街沿線(正南五街到正南五街410巷)",
+    "lat": "23.036694935052513",
+    "long": "120.23752324283123",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-06 19:01:00"
+}
