@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610040369",
     "requested_datetime": "2016-10-04 16:53:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安定區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市安定區公所",
     "subproject": "10盞以上路燈故障",
     "description": "安定往西港曾文溪河堤旁  路燈不亮",
     "address_string": "安定往西港曾文溪河堤旁",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-06 17:28:31",
     "expected_datetime": "2016-10-11 16:53:00"
 }
