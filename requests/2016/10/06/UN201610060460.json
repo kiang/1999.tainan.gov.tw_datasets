@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610060460",
+    "requested_datetime": "2016-10-06 22:09:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區民族路二段121至145號 汽車停車格023有機車違停+紅線違停違規停車",
+    "address_string": "民族路二段121至145號 汽車停車格023有機車違停+紅線違停",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-06 22:09:00"
+}
