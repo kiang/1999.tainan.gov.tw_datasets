@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610060024",
     "requested_datetime": "2016-10-06 07:04:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "安南區同安路167巷 佔用道路",
     "address_string": "台南市安南區同安路167巷到底",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-06 13:20:23",
     "expected_datetime": "2016-10-06 07:04:00"
 }
