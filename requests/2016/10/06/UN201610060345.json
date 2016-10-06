@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610060345",
+    "requested_datetime": "2016-10-06 16:31:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中華路58巷68號精忠新城周圍   違規停車",
+    "address_string": "永康區中華路58巷68號精忠新城周圍",
+    "lat": "23.002040896801496",
+    "long": "120.23814283311366",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-06 16:31:00"
+}

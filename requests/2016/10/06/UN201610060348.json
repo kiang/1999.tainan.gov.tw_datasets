@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610060348",
+    "requested_datetime": "2016-10-06 16:34:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區台南火車站圓環公車北站  違規停車",
+    "address_string": "北區台南火車站圓環公車北站",
+    "lat": "22.99763591113965",
+    "long": "120.21150011569262",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-06 16:34:00"
+}
