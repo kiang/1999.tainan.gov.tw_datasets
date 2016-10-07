@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610040230",
     "requested_datetime": "2016-10-04 13:04:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "東區裕敬一街與裕孝二街 消防栓損壞",
     "address_string": "裕敬一街與裕孝二街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-07 11:03:30",
     "expected_datetime": "2016-10-04 13:04:00"
 }
