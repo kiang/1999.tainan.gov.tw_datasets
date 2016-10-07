@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201610050393",
     "requested_datetime": "2016-10-05 18:56:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "山上區",
     "service_name": "路燈故障",
@@ -12,6 +12,6 @@
     "lat": "23.1053073",
     "long": "120.3487864",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-07 08:38:54",
     "expected_datetime": "2016-10-05 18:56:00"
 }
