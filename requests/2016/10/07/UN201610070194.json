@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區青年路(北門路口到民權路口)+城隍街(青年路口到開山路口)+民權路(中山路口到青年路口)雙側紅黃線   違規停車",
     "address_string": "中西區青年路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9919699",
+    "long": "120.2086419",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-10-07 12:47:00"
