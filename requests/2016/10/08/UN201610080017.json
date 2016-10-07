@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610080017",
     "requested_datetime": "2016-10-08 01:06:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區鹽洲二街12號違規停車",
     "address_string": "710台灣台南市永康區鹽洲二街12號",
     "lat": "23.041694105202392",
     "long": "120.23336112499238",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-08 06:13:43",
     "expected_datetime": "2016-10-08 01:06:00"
 }
