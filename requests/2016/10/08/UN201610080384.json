@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201610080384",
     "requested_datetime": "2016-10-08 23:05:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "東區大同路二段63號 違規停車",
     "address_string": "台南市東區大同路二段63號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9795269",
+    "long": "120.2129989",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-09 01:53:11",
     "expected_datetime": "2016-10-08 23:05:00"
 }
