@@ -9,8 +9,8 @@
     "subproject": "10盞以上路燈故障",
     "description": "東區東光路一、二段、莊敬路、凱旋路 大範圍路燈不亮",
     "address_string": "東區東光路一二段 莊敬路 凱旋路",
-    "lat": {},
-    "long": {},
+    "lat": "24.1426446",
+    "long": "120.6969792",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-10-15 04:42:00"
