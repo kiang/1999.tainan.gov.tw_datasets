@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610090140",
+    "requested_datetime": "2016-10-09 14:30:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "永康區復興路71巷 路面坑洞",
+    "address_string": "永康區復興路71巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-16 14:30:00"
+}
