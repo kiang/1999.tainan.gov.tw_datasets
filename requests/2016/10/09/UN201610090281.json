@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610090281",
+    "requested_datetime": "2016-10-09 20:53:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區華平路和平通路交叉口，紅太陽斜對面 紅線違停",
+    "address_string": "安平區華平路平通路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-16 20:53:00"
+}

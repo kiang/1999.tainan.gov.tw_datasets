@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610090299",
+    "requested_datetime": "2016-10-09 22:42:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "中西區海安路二段16號  佔用道路",
+    "address_string": "中西區海安路二段16號",
+    "lat": "22.9941249",
+    "long": "120.1964804",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-16 22:42:00"
+}
