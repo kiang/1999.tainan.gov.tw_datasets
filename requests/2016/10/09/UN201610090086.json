@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610090086",
+    "requested_datetime": "2016-10-09 11:51:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "704台灣台南市北區公園路952巷10號 妨害安寧",
+    "address_string": "704台灣台南市北區公園路952巷10號",
+    "lat": "23.0158007",
+    "long": "120.2139735",
+    "service_notice": {},
+    "updated_datetime": "2016-10-09 19:31:00",
+    "expected_datetime": "2016-10-09 11:51:00"
+}
