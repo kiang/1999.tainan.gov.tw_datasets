@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610080020",
     "requested_datetime": "2016-10-08 04:42:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "10盞以上路燈故障",
     "description": "東區東光路一、二段、莊敬路、凱旋路 大範圍路燈不亮",
     "address_string": "東區東光路一二段 莊敬路 凱旋路",
     "lat": "24.1426446",
     "long": "120.6969792",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-11 10:21:50",
     "expected_datetime": "2016-10-15 04:42:00"
 }
