@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610110159",
     "requested_datetime": "2016-10-11 11:45:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區永大路二段677巷1號 違規停車",
     "address_string": "台南市永康區永大路二段677巷1號",
     "lat": "23.0006481",
     "long": "120.259213",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-11 18:41:16",
     "expected_datetime": "2016-10-11 11:45:00"
 }
