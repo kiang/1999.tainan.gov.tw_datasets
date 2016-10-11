@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610110333",
     "requested_datetime": "2016-10-11 16:50:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區府前路口從東門圓環到西門路口 違規停車",
     "address_string": "府前路",
     "lat": "23.9987046",
     "long": "121.6207736",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-11 19:32:20",
     "expected_datetime": "2016-10-11 16:50:00"
 }

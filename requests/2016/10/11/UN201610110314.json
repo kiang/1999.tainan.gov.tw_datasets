@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610110314",
     "requested_datetime": "2016-10-11 16:26:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區育樂街156-4號1樓 違規停車",
     "address_string": "台南市東區育樂街156-4號1樓",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-11 19:42:29",
     "expected_datetime": "2016-10-11 16:26:00"
 }
