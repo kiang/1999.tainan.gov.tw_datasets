@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610110385",
     "requested_datetime": "2016-10-11 18:18:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新市區民生路69號 違規停車",
     "address_string": "744台灣台南市新市區民生路69號",
     "lat": "23.0790697",
     "long": "120.2893994",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-11 21:14:42",
     "expected_datetime": "2016-10-11 18:18:00"
 }
