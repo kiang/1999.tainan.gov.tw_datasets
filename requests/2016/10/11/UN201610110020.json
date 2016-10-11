@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610110020",
+    "requested_datetime": "2016-10-11 07:59:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "仁德區中正路二段德昌路 路面漏水",
+    "address_string": "仁德區中正路二段德昌路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-18 07:59:00"
+}
