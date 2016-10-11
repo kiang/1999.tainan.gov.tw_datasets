@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610110216",
+    "requested_datetime": "2016-10-11 13:51:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "白河區",
+    "service_name": "民生管線",
+    "agency": "臺南市白河區公所,臺南市政府聯合服務中心",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "白河區火山路1號  路樹壓電線",
+    "address_string": "白河區火山路1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-18 13:51:00"
+}
