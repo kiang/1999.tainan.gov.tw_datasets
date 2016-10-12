@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201610120377",
-    "requested_datetime": "2016-10-12 19:11:00",
+    "service_request_id": "UN201610120392",
+    "requested_datetime": "2016-10-12 19:50:00",
     "status": {},
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "中西區中山路73號 違規停車",
-    "address_string": "台南市中西區中山路73號",
+    "description": "中西區中山路2號到100號雙側  紅線違規停車",
+    "address_string": "中西區中山路2號到100號",
     "lat": {},
     "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-10-12 19:11:00"
+    "expected_datetime": "2016-10-12 19:50:00"
 }
