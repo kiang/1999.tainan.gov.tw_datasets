@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區海安路三段65號67號 違停",
     "address_string": "北區海安路三段65號67號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0023711",
+    "long": "120.1992291",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-10-19 18:03:00"
