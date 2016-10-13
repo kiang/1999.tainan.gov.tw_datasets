@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610120007",
     "requested_datetime": "2016-10-12 06:09:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "麻豆區中正路1-2號空氣汙染",
     "address_string": "721台灣台南市麻豆區中正路1-2號",
     "lat": "23.190476918298994",
     "long": "120.24299294989406",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-13 13:47:27",
     "expected_datetime": "2016-10-12 06:09:00"
 }
