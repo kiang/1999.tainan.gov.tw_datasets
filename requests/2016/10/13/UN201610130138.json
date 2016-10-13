@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610130138",
+    "requested_datetime": "2016-10-13 11:39:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區中正路545號統一超商周邊 違規停車",
+    "address_string": "永康區中正路545號",
+    "lat": "23.039779676043995",
+    "long": "120.23890659213066",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-13 11:39:00"
+}
