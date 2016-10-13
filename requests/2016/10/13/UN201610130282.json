@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610130282",
+    "requested_datetime": "2016-10-13 16:23:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區中華路58巷68號、70號(精忠新城周圍)， 違規停車",
+    "address_string": "永康區中華路58巷68號",
+    "lat": "23.002212797271973",
+    "long": "120.23812405765058",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-13 16:23:00"
+}

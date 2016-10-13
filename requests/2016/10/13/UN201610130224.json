@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610130224",
+    "requested_datetime": "2016-10-13 14:08:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "東區中華陸橋往中華東路三段方向，正要上斜坡處 路面坑洞",
+    "address_string": "東區中華陸橋",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-20 14:08:00"
+}
