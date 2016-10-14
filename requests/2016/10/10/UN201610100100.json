@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "東區",
     "service_name": "路燈故障",
-    "agency": "臺南市政府工務局",
+    "agency": "臺南市政府工務局,臺南市政府水利局",
     "subproject": "9盞以下路燈故障",
     "description": "東區崇德34街54號  路燈",
     "address_string": "東區崇德34街54號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": "2016-10-12 17:04:02",
+    "updated_datetime": "2016-10-14 10:02:31",
     "expected_datetime": "2016-10-17 12:07:00"
 }
