@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區西門路四段32號 違規停車",
     "address_string": "台南市北區西門路四段32號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0065536",
+    "long": "120.2063561",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-10-14 20:54:00"
