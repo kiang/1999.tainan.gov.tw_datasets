@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610140189",
+    "requested_datetime": "2016-10-14 12:32:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "市區道路路面油漬",
+    "description": "東區東寧路和長榮路交叉口 路面油漬",
+    "address_string": "東區東寧路長榮路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-10-14 17:33:46",
+    "expected_datetime": "2016-10-21 12:32:00"
+}

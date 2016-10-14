@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610140118",
+    "requested_datetime": "2016-10-14 10:29:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局,臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "北區北安路二段和北成路交叉口 交通疏導",
+    "address_string": "北區北安路二段和北成路交叉口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-10-14 15:49:35",
+    "expected_datetime": "2016-10-21 10:29:00"
+}

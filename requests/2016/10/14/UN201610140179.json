@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610140179",
+    "requested_datetime": "2016-10-14 12:11:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中正七街70號，麵包店周圍 違規停車",
+    "address_string": "永康區中正七街70號",
+    "lat": "23.040644797763004",
+    "long": "120.24051792919637",
+    "service_notice": {},
+    "updated_datetime": "2016-10-14 17:13:01",
+    "expected_datetime": "2016-10-14 12:11:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610140309",
+    "requested_datetime": "2016-10-14 16:43:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區開元路485巷 北區北園街8巷 違規停車",
+    "address_string": "北區開元路485巷 北區北園街8巷",
+    "lat": "23.011257169008523",
+    "long": "120.22435292601587",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-14 16:43:00"
+}

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610110063",
     "requested_datetime": "2016-10-11 09:17:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面下陷、凹陷",
     "description": "東區凱旋路101號^105號號   路面下陷",
     "address_string": "東區凱旋路101號^105號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-14 14:14:06",
     "expected_datetime": "2016-10-18 09:17:00"
 }
