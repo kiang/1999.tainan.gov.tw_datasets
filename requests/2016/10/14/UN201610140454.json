@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區公園路834號  違規停車",
     "address_string": "台南市北區公園路834號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0130677",
+    "long": "120.2119105",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-10-14 22:29:00"
