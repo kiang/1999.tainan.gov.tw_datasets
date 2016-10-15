@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610140340",
     "requested_datetime": "2016-10-14 17:36:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區中山路125號，南方公園周圍 違規停車",
     "address_string": "中西區中山路125號",
     "lat": "22.99561900747266",
     "long": "120.20959541201591",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-15 07:24:39",
     "expected_datetime": "2016-10-14 17:36:00"
 }
