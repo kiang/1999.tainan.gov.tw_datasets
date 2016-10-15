@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區大橋二街與中華路交叉口，85度C、華南銀行附近 紅線違停",
     "address_string": "永康區大橋二街中華路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0182606",
+    "long": "120.2267375",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-10-22 21:48:00"
