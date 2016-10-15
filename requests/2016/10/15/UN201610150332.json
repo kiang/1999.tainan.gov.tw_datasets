@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610150332",
+    "requested_datetime": "2016-10-15 20:32:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "中西區民權路二段51號 騎樓舉發",
+    "address_string": "中西區民權路二段51號",
+    "lat": "22.9941658",
+    "long": "120.2059033",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-15 20:32:00"
+}
