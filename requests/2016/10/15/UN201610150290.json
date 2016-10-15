@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區裕平路100號 路燈故障",
     "address_string": "東區裕平路100號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9849984",
+    "long": "120.2406842",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-10-22 18:18:00"
