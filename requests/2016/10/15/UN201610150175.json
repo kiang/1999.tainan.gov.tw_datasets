@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610150175",
     "requested_datetime": "2016-10-15 13:48:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區北門路一段214號  違規停車",
     "address_string": "701台灣台南市東區北門路一段214號",
     "lat": "22.9941808",
     "long": "120.2117376",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-15 16:35:04",
     "expected_datetime": "2016-10-15 13:48:00"
 }
