@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610150145",
+    "requested_datetime": "2016-10-15 12:28:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區前鋒路*小東路 成大創意基地(灰色建築)   違停",
+    "address_string": "北區前鋒路*小東路 成大創意基地 灰色建築",
+    "lat": "23.0015043",
+    "long": "120.2146015",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-22 12:28:00"
+}
