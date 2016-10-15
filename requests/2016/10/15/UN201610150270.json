@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610150270",
+    "requested_datetime": "2016-10-15 17:30:00",
+    "status": {},
+    "keyword": {},
+    "area": "南 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區鹽埕路291巷14弄104號 違規停車",
+    "address_string": "南區鹽埕路291巷14弄104號",
+    "lat": "22.972241096816266",
+    "long": "120.18882639706135",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-15 17:30:00"
+}
