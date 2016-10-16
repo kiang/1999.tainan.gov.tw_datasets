@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610160264",
     "requested_datetime": "2016-10-16 20:30:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "704台灣台南市北區實踐街7巷2號 騎樓舉發",
     "address_string": "704台灣台南市北區實踐街7巷2號",
     "lat": "23.014888368249515",
     "long": "120.21643999043874",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-17 04:50:42",
     "expected_datetime": "2016-10-16 20:30:00"
 }
