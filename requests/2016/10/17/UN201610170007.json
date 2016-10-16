@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610170007",
+    "requested_datetime": "2016-10-17 05:55:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區中華南路二段300巷30弄14號 紅線違規停車",
+    "address_string": "702台灣台南市南區中華南路二段300巷30弄14號",
+    "lat": "22.9628011",
+    "long": "120.1885599",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-17 05:55:00"
+}
