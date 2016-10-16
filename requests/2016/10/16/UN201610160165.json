@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610160165",
+    "requested_datetime": "2016-10-16 15:54:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "中西區府前路一段290號 交通疏導",
+    "address_string": "700台灣台南市中西區府前路一段290號",
+    "lat": "22.990143774098705",
+    "long": "120.19928273756075",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-16 15:54:00"
+}
