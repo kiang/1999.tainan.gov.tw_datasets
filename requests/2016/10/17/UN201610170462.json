@@ -9,8 +9,8 @@
     "subproject": "交通疏導",
     "description": "南區機場路9xx號附近  交通疏導",
     "address_string": "南區機場路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9485857",
+    "long": "120.2166338",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-10-24 23:24:00"
