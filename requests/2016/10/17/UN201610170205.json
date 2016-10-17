@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "玉井區中華路198號  佔用道路",
     "address_string": "玉井區中華路198號",
-    "lat": {},
-    "long": {},
+    "lat": "23.1212336",
+    "long": "120.4649601",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-10-24 13:15:00"
