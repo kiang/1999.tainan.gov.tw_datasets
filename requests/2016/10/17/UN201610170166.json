@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610170166",
     "requested_datetime": "2016-10-17 12:06:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "玉井區",
     "service_name": "髒亂及汙染",
-    "agency": "臺南市政府環境保護局",
+    "agency": "台南市政府",
     "subproject": "道路散落物",
     "description": "玉井區84快速道路 道路散落物",
     "address_string": "玉井區84快速道路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-17 16:21:25",
     "expected_datetime": "2016-10-24 12:06:00"
 }
