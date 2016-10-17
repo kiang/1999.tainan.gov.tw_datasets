@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區成功路514號 違規停車",
     "address_string": "700台灣台南市中西區成功路514號",
     "lat": "23.0012961",
     "long": "120.1965875",
     "service_notice": {},
-    "updated_datetime": "2016-10-15 07:10:48",
+    "updated_datetime": "2016-10-17 19:38:05",
     "expected_datetime": "2016-10-14 13:48:00"
 }

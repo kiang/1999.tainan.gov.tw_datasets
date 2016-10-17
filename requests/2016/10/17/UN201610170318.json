@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201610170318",
     "requested_datetime": "2016-10-17 16:34:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "柳營區",
     "service_name": "違規停車",
@@ -12,6 +12,6 @@
     "lat": "23.69781",
     "long": "120.960515",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-17 19:31:45",
     "expected_datetime": "2016-10-24 16:34:00"
 }
