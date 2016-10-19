@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610190221",
+    "requested_datetime": "2016-10-19 13:37:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "永康區中正南路52巷6號之1 環境髒亂",
+    "address_string": "永康區中正南路52巷6號之1",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-26 13:37:00"
+}
