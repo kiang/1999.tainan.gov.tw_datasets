@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610190278",
+    "requested_datetime": "2016-10-19 15:36:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區公園南路沿線(北門路到西華街)  違規停車",
+    "address_string": "北區公園南路",
+    "lat": "23.000265710736443",
+    "long": "120.21185349673033",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-19 15:36:00"
+}

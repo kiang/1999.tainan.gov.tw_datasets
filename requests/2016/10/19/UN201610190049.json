@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610190049",
     "requested_datetime": "2016-10-19 08:58:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "台南市新市區民生路和富林路交叉口 違規停車",
     "address_string": "744台灣台南市新市區民生路富林路",
     "lat": "23.0792245",
     "long": "120.2895028",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-19 15:16:16",
     "expected_datetime": "2016-10-19 08:58:00"
 }
