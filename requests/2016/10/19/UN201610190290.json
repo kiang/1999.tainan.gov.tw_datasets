@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610190290",
+    "requested_datetime": "2016-10-19 15:56:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區大武街34號奇美醫院後面  違規停車",
+    "address_string": "710台灣台南市永康區大武街34號",
+    "lat": "23.02002002021579",
+    "long": "120.22270697180203",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-19 15:56:00"
+}

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610160267",
     "requested_datetime": "2016-10-16 20:40:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "歸仁區中山路二段183巷 違規停車",
     "address_string": "台南市歸仁區中山路二段183巷與中山路二段路口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-19 16:44:09",
     "expected_datetime": "2016-10-16 20:40:00"
 }
