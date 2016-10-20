@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610200256",
+    "requested_datetime": "2016-10-20 14:06:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "東區中華東路一段205號 佔用道路",
+    "address_string": "東區中華東路一段205號",
+    "lat": "22.9902032",
+    "long": "120.2340092",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-27 14:06:00"
+}
