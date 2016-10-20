@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610200452",
+    "requested_datetime": "2016-10-20 20:01:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區新興路461巷6弄和金華路一段503巷交叉口 違停",
+    "address_string": "南區新興路461巷6弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-27 20:01:00"
+}
