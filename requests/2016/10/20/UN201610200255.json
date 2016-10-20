@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "違反交通規則",
     "address_string": "台南市北區公園路145號",
-    "lat": {},
-    "long": {},
+    "lat": "22.998343",
+    "long": "120.2069412",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-10-20 14:23:00"
