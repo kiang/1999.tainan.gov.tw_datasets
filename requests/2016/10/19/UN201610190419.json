@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區民族路二段76\/99號 違規停車",
     "address_string": "中西區民族路二段76\/99號的公車站有違規停車",
-    "lat": {},
-    "long": {},
+    "lat": "22.994746",
+    "long": "120.2087298",
     "service_notice": {},
     "updated_datetime": "2016-10-20 07:32:41",
     "expected_datetime": "2016-10-19 22:04:00"
