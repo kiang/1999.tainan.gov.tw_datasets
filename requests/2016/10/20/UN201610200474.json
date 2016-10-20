@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610200474",
     "requested_datetime": "2016-10-20 21:20:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區公園路703號 違規停車",
     "address_string": "台南市北區公園路703號",
     "lat": "23.0166966",
     "long": "120.2145553",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-21 02:54:05",
     "expected_datetime": "2016-10-20 21:20:00"
 }
