@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "違反交通規則",
     "address_string": "700台南市中西區永福路民族路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9968291",
+    "long": "120.2025501",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-10-21 21:38:00"
