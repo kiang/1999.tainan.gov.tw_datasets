@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610210210",
+    "requested_datetime": "2016-10-21 13:18:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "南區新都路\/金華路口 騎樓舉發",
+    "address_string": "南區新都路金華路",
+    "lat": "22.9672625",
+    "long": "120.1901745",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-28 13:18:00"
+}
