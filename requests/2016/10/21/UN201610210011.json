@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201610210007",
-    "requested_datetime": "2016-10-21 06:41:00",
+    "service_request_id": "UN201610210011",
+    "requested_datetime": "2016-10-21 07:19:00",
     "status": {},
     "keyword": {},
     "area": "東區",
@@ -8,10 +8,10 @@
     "agency": "台南市政府",
     "subproject": "違規停車",
     "description": "東區裕農路448之9號 違規停車",
-    "address_string": "東區裕農路448之9號",
-    "lat": "22.9880373",
-    "long": "120.2322003",
+    "address_string": "裕農路448之9號",
+    "lat": {},
+    "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-10-21 06:41:00"
+    "expected_datetime": "2016-10-21 07:19:00"
 }
