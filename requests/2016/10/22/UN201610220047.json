@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610220047",
+    "requested_datetime": "2016-10-22 09:45:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "東區大同路二段695號2～4樓 不明噪音",
+    "address_string": "東區大同路二段695號2樓",
+    "lat": "22.966858",
+    "long": "120.216336",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-29 09:45:00"
+}
