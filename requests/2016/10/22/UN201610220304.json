@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610220304",
+    "requested_datetime": "2016-10-22 21:03:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中山路和聖龍街口 違規停車",
+    "address_string": "永康區中山路聖龍街口",
+    "lat": "23.030076",
+    "long": "120.2561858",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-22 21:03:00"
+}
