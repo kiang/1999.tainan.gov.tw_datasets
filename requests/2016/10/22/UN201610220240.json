@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610220240",
+    "requested_datetime": "2016-10-22 17:46:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "南區灣裡路64號萬年殿，往北第2個號誌燈下 路面坑洞",
+    "address_string": "南區灣裡路64號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-29 17:46:00"
+}
