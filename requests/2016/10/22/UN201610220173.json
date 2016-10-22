@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610220173",
+    "requested_datetime": "2016-10-22 15:27:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "台南市南區明興路681巷32號^50號路段  交通運輸",
+    "address_string": "台南市南區明興路681巷32號^",
+    "lat": "22.9600206",
+    "long": "120.1879891",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-22 15:27:00"
+}
