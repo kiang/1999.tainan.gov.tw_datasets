@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610220151",
     "requested_datetime": "2016-10-22 14:13:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "中西區北門路一段95號 騎樓舉發",
     "address_string": "北門路一段95號彰化銀行",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-22 19:06:29",
     "expected_datetime": "2016-10-22 14:13:00"
 }
