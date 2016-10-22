@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610220069",
+    "requested_datetime": "2016-10-22 10:44:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區永安路165巷141號前方 違停",
+    "address_string": "永康區永安路165巷141號前方",
+    "lat": "23.0445817",
+    "long": "120.24311",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-29 10:44:00"
+}
