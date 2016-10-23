@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201610230102",
     "requested_datetime": "2016-10-23 12:07:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "交通運輸",
@@ -12,6 +12,6 @@
     "lat": "24.9812733",
     "long": "121.4199384",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-23 16:49:34",
     "expected_datetime": "2016-10-23 12:07:00"
 }
