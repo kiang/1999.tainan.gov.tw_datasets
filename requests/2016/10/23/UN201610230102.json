@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610230102",
+    "requested_datetime": "2016-10-23 12:07:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "永康區八德街88巷 佔用道路",
+    "address_string": "八德街88巷",
+    "lat": "24.9812733",
+    "long": "121.4199384",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-23 12:07:00"
+}
