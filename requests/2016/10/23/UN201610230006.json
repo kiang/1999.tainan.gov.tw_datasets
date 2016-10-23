@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610230006",
     "requested_datetime": "2016-10-23 01:39:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "北區長榮路地下道 佔用道路",
     "address_string": "北區長榮路地下道",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-23 07:19:23",
     "expected_datetime": "2016-10-30 01:39:00"
 }
