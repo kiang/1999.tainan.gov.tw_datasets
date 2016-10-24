@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610240371",
+    "requested_datetime": "2016-10-24 22:37:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區立德二路8巷 大聖殿前方  違規停車",
+    "address_string": "東區立德二路8巷",
+    "lat": "22.9746217",
+    "long": "120.2146611",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-24 22:37:00"
+}
