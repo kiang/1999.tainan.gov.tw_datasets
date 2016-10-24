@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610240130",
+    "requested_datetime": "2016-10-24 11:22:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中正路545號  紅線違停",
+    "address_string": "永康區中正路545號",
+    "lat": "23.03977689925349",
+    "long": "120.23892201483248",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-24 11:22:00"
+}
