@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610230279",
     "requested_datetime": "2016-10-23 21:35:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "中西區民族路三段208號 騎樓舉發",
     "address_string": "中西區民族路三段208號",
     "lat": "22.9997184",
     "long": "120.1937016",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-24 07:39:00",
     "expected_datetime": "2016-10-23 21:35:00"
 }
