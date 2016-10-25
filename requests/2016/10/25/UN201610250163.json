@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610250163",
+    "requested_datetime": "2016-10-25 11:32:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中正七街沿線兩側(中正路到新民街) 違規停車",
+    "address_string": "永康區中正七街沿線兩側(中正路到新民街)",
+    "lat": "23.03969914909636",
+    "long": "120.23972500115633",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-25 11:32:00"
+}
