@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610260366",
+    "requested_datetime": "2016-10-26 19:53:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區東寧路和東寧路428巷交叉路口 違規停車",
+    "address_string": "東寧路和東寧路428巷交叉路口",
+    "lat": "22.9897166",
+    "long": "120.2289297",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-26 19:53:00"
+}
