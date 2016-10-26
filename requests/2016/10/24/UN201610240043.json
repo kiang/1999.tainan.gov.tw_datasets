@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610240043",
     "requested_datetime": "2016-10-24 08:31:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市新營區公所",
     "subproject": "9盞以下路燈故障",
     "description": "新營區太北里 路燈故障",
     "address_string": "新營區太北里",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-25 19:41:20",
     "expected_datetime": "2016-10-31 08:31:00"
 }

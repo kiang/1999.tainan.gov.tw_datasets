@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610250421",
+    "requested_datetime": "2016-10-25 19:49:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區仁愛街108巷與新行街  違停",
+    "address_string": "永康區仁愛街108巷與新行街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-10-26 04:22:19",
+    "expected_datetime": "2016-11-01 19:49:00"
+}

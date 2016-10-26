@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610260169",
+    "requested_datetime": "2016-10-26 11:51:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區榮譽街182號 違停",
+    "address_string": "東區榮譽街182號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-10-26 15:52:27",
+    "expected_datetime": "2016-11-02 11:51:00"
+}

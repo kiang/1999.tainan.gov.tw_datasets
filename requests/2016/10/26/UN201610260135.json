@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610260135",
+    "requested_datetime": "2016-10-26 10:58:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌故障",
+    "description": "北區文賢路跟大興街    號誌故障",
+    "address_string": "北區文賢路大興街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-10-26 16:37:37",
+    "expected_datetime": "2016-11-02 10:58:00"
+}

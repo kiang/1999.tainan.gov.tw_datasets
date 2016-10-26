@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610260159",
+    "requested_datetime": "2016-10-26 11:30:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "佳里區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "台南市佳里區新生路延平路 違規停車",
+    "address_string": "台南市佳里區新生路延平路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-10-26 15:44:46",
+    "expected_datetime": "2016-10-26 11:30:00"
+}

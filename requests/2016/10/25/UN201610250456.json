@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610250456",
+    "requested_datetime": "2016-10-25 22:26:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "台南市北區西門路四段376號 違規停車",
+    "address_string": "台南市北區西門路四段376號",
+    "lat": "23.0144847",
+    "long": "120.2098957",
+    "service_notice": {},
+    "updated_datetime": "2016-10-26 04:35:13",
+    "expected_datetime": "2016-10-25 22:26:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610250445",
+    "requested_datetime": "2016-10-25 21:07:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區崇明十街中華東路三段336巷 違規停車",
+    "address_string": "東區崇明十街中華東路三段336巷",
+    "lat": "22.9755054",
+    "long": "120.2206812",
+    "service_notice": {},
+    "updated_datetime": "2016-10-26 04:26:51",
+    "expected_datetime": "2016-11-01 21:07:00"
+}

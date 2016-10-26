@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610250363",
+    "requested_datetime": "2016-10-25 17:33:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "台南市北區開元路212巷52號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-10-25 21:51:14",
+    "expected_datetime": "2016-10-25 17:33:00"
+}

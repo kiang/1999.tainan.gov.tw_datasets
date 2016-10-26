@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610260306",
+    "requested_datetime": "2016-10-26 16:57:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區青年路(北門路口到民權路口)+城隍街(青年路口到開山路口)雙側紅黃線  違規停車",
+    "address_string": "中西區青年路",
+    "lat": "22.9919699",
+    "long": "120.2086419",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-26 16:57:00"
+}

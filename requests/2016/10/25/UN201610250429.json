@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610250429",
+    "requested_datetime": "2016-10-25 19:46:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": "臺南市永康區公所",
+    "subproject": "9盞以下路燈故障",
+    "description": "永康區忠義街30號 路燈故障",
+    "address_string": "永康區忠義街30號",
+    "lat": "22.9993742",
+    "long": "120.2365492",
+    "service_notice": {},
+    "updated_datetime": "2016-10-26 16:53:47",
+    "expected_datetime": "2016-11-01 19:46:00"
+}

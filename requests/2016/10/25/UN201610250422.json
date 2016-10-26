@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610250422",
+    "requested_datetime": "2016-10-25 19:54:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區華平路658號 違規停車",
+    "address_string": "安平區華平路658號",
+    "lat": "22.9959013",
+    "long": "120.175814",
+    "service_notice": {},
+    "updated_datetime": "2016-10-26 04:20:34",
+    "expected_datetime": "2016-10-25 19:54:00"
+}
