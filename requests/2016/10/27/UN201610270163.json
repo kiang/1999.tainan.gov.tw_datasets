@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610270163",
     "requested_datetime": "2016-10-27 12:49:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區西華南街68號旁 違規停車",
     "address_string": "西華南街68號旁高元補習班騎樓的104年度優質補習班的旗子外的“機車” 黃線違規停車，造成車輛無法靠右等待，阻礙對向來車",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-27 19:10:44",
     "expected_datetime": "2016-10-27 12:49:00"
 }

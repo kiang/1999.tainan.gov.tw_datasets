@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區民族路三段(西門路口到臨安路口)+民族路三段274號    違規停車",
     "address_string": "中西區民族路三段274號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0003506",
+    "long": "120.1926735",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-10-27 18:34:00"
