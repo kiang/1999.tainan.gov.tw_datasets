@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610260252",
     "requested_datetime": "2016-10-26 15:24:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "道路維修",
-    "agency": "臺南市政府工務局,臺南市政府水利局",
+    "agency": "台南市政府",
     "subproject": "鬆動人孔蓋凹陷坑洞",
     "description": "東區凱旋路與莊敬路口 人孔蓋凹陷",
     "address_string": "凱旋路與莊敬路口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-27 10:06:04",
     "expected_datetime": "2016-10-26 15:24:00"
 }
