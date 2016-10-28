@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610270007",
     "requested_datetime": "2016-10-27 06:42:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "六甲區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府新聞及國際關係處",
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "六甲區中正路809號 民生管線",
     "address_string": "734台灣台南市六甲區中正路809號",
     "lat": "23.234714046142283",
     "long": "120.35438315022769",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-28 09:55:40",
     "expected_datetime": "2016-10-27 06:42:00"
 }
