@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610280259",
     "requested_datetime": "2016-10-28 15:47:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "歸仁區長榮路一段200巷72弄105號 空氣汙染",
     "address_string": "歸仁區長榮路一段200巷72弄105號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-28 17:15:03",
     "expected_datetime": "2016-11-04 15:47:00"
 }

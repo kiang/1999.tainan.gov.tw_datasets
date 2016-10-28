@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610280291",
+    "requested_datetime": "2016-10-28 16:34:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "新化區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "新化區大德路768號    空氣廢水汙染",
+    "address_string": "新化區大德路768號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-10-28 17:54:22",
+    "expected_datetime": "2016-11-04 16:34:00"
+}
