@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610280436",
+    "requested_datetime": "2016-10-28 22:15:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區西門路四段171巷19弄、20弄口 轉角處   違停",
+    "address_string": "北區西門路四段171巷19弄、20弄口 轉角處",
+    "lat": "23.0106363",
+    "long": "120.2072001",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-04 22:15:00"
+}
