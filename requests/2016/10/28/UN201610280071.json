@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610280071",
     "requested_datetime": "2016-10-28 09:55:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區崇學路261巷靠近崇學路口 違規停車",
     "address_string": "崇學路261巷",
     "lat": "22.9816066",
     "long": "120.2249055",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-28 12:19:46",
     "expected_datetime": "2016-10-28 09:55:00"
 }
