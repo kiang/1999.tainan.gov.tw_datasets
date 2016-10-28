@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610280360",
+    "requested_datetime": "2016-10-28 18:51:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區中華東路三段*中華東路 靠近拖吊場  違停",
+    "address_string": "東區中華東路三段*中華東路 靠近拖吊場",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-04 18:51:00"
+}
