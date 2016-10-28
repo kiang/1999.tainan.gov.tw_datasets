@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610280362",
+    "requested_datetime": "2016-10-28 18:59:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區永大二路和永大三路路口  違規停車",
+    "address_string": "710台灣台南市永康區永大二路永大三路",
+    "lat": "23.0195002",
+    "long": "120.2600168",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-28 18:59:00"
+}
