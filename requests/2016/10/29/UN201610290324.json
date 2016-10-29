@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "麻豆區高速公路涵洞301k+817北側以及東西兩側     路燈故障",
     "address_string": "高速公路涵洞301k+817北側以及東西兩側路燈不亮",
-    "lat": {},
-    "long": {},
+    "lat": "23.993972",
+    "long": "120.8525186",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-10-29 17:42:00"
