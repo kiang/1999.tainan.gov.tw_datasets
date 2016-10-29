@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610290289",
+    "requested_datetime": "2016-10-29 16:31:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "中西區永華路一段接近西門路口 妨害安寧",
+    "address_string": "中西區永華路一段西門路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-10-29 18:41:00",
+    "expected_datetime": "2016-11-05 16:31:00"
+}
