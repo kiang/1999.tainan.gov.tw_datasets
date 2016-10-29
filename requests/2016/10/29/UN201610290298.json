@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610290298",
+    "requested_datetime": "2016-10-29 16:53:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "中西區府前路一段279號 佔用道路",
+    "address_string": "700台灣台南市中西區府前路一段279號",
+    "lat": "22.9897399",
+    "long": "120.2020886",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-29 16:53:00"
+}
