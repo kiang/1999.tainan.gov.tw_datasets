@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610290171",
+    "requested_datetime": "2016-10-29 12:59:00",
+    "status": {},
+    "keyword": {},
+    "area": "歸仁區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "711台灣台南市歸仁區民權北路61巷  違規停車",
+    "address_string": "711台灣台南市歸仁區民權北路61巷",
+    "lat": "22.968529533313806",
+    "long": "120.28779408626016",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-29 12:59:00"
+}
