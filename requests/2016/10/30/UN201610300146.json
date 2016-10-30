@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610300146",
     "requested_datetime": "2016-10-30 14:08:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區忠義路二段1號  違規停車",
     "address_string": "700台灣台南市中西區忠義路二段1號",
     "lat": "22.9901951",
     "long": "120.2027199",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-30 18:41:07",
     "expected_datetime": "2016-10-30 14:08:00"
 }

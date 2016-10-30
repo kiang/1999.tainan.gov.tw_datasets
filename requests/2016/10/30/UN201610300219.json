@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610300219",
+    "requested_datetime": "2016-10-30 18:19:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "國賓大樓成功路 違停",
+    "address_string": "北區成功路國賓大樓",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-06 18:19:00"
+}
