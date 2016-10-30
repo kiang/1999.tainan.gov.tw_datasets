@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610300156",
+    "requested_datetime": "2016-10-30 14:22:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區府前路一段*南門路 莉莉水果店  違停",
+    "address_string": "中西區府前路一段*南門路 莉莉水果店",
+    "lat": "22.9890188",
+    "long": "120.2046679",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-06 14:22:00"
+}
