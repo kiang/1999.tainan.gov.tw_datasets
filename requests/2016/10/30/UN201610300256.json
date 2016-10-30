@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610300256",
+    "requested_datetime": "2016-10-30 19:46:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區海安路三段51號 違規停車",
+    "address_string": "台南市北區海安路三段51號",
+    "lat": "23.0020401",
+    "long": "120.19912",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-30 19:46:00"
+}
