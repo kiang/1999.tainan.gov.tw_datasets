@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區金華路五段29號 違停",
     "address_string": "北區金華路五段29號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0023471",
+    "long": "120.196334",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-11-06 16:32:00"
