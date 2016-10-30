@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "國賓大樓成功路 違停",
     "address_string": "北區成功路國賓大樓",
-    "lat": {},
-    "long": {},
+    "lat": "24.8112883",
+    "long": "120.9518578",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-11-06 18:19:00"
