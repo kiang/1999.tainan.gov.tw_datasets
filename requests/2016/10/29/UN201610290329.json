@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610290329",
+    "requested_datetime": "2016-10-29 17:48:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "中西區民權路往城隍街方向 交通阻塞",
+    "address_string": "中西區民權路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-05 17:48:00"
+}
