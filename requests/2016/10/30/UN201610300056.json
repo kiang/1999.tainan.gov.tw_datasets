@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610300056",
+    "requested_datetime": "2016-10-30 10:38:00",
+    "status": {},
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "安南區大安街271巷8號 妨害安寧",
+    "address_string": "709台灣台南市安南區大安街271巷8號",
+    "lat": "23.036010891315620",
+    "long": "120.19466515577096",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-30 10:38:00"
+}
