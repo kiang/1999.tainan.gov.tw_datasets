@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區民生路及中正路及府前路 違規停車",
     "address_string": "民生路",
-    "lat": {},
-    "long": {},
+    "lat": "22.6658976",
+    "long": "120.500694",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-10-30 21:27:00"
