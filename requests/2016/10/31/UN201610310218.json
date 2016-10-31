@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610310218",
+    "requested_datetime": "2016-10-31 13:45:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區中正七街27號全家超商周邊  違規停車",
+    "address_string": "永康區中正七街27號",
+    "lat": "23.03998793516809",
+    "long": "120.24003513157368",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-10-31 13:45:00"
+}
