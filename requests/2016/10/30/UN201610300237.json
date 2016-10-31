@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610300237",
     "requested_datetime": "2016-10-30 18:59:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "環境髒亂",
     "description": "南區灣裡路211巷40號之1對面 偷倒家庭廢棄物",
     "address_string": "南區灣裡路211巷40號之1",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-31 09:32:57",
     "expected_datetime": "2016-11-06 18:59:00"
 }
