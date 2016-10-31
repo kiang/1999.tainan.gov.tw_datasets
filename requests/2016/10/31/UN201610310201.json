@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201610310201",
+    "requested_datetime": "2016-10-31 13:17:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "人孔蓋或溝蓋聲響鬆動",
+    "description": "安平區建平七街26巷1號 孔蓋鬆動",
+    "address_string": "安平區建平七街26巷1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-07 13:17:00"
+}

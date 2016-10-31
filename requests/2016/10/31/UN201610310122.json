@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201610310122",
     "requested_datetime": "2016-10-31 10:56:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "佳里區延平路46號 違規停車",
     "address_string": "佳里區延平路46號",
     "lat": "23.1545901",
     "long": "120.1795599",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-10-31 14:28:12",
     "expected_datetime": "2016-10-31 10:56:00"
 }
