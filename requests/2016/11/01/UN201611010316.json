@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201611010175",
-    "requested_datetime": "2016-11-01 12:58:00",
-    "status": "已完工",
+    "service_request_id": "UN201611010316",
+    "requested_datetime": "2016-11-01 17:35:00",
+    "status": {},
     "keyword": {},
     "area": "安平區",
     "service_name": "騎樓舉發",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
-    "description": "安平區華平路656號    騎樓舉發",
+    "description": "安平區華平路656號  騎樓舉發",
     "address_string": "安平區華平路656號",
     "lat": "22.9958627",
     "long": "120.175809",
     "service_notice": {},
-    "updated_datetime": "2016-11-01 17:28:41",
-    "expected_datetime": "2016-11-01 12:58:00"
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-01 17:35:00"
 }
