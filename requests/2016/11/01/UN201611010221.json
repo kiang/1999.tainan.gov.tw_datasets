@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611010221",
+    "requested_datetime": "2016-11-01 14:15:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區華興街120巷17號周邊(精忠新城周圍)  違規停車",
+    "address_string": "永康區華興街120巷17號",
+    "lat": "23.001481987295442",
+    "long": "120.237033739686",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-01 14:15:00"
+}
