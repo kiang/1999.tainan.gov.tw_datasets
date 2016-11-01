@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201611010313",
     "requested_datetime": "2016-11-01 17:27:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "中西區西華南街58號  違規停車",
     "address_string": "中西區西華南街58號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9940774",
+    "long": "120.2095668",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-01 18:52:23",
     "expected_datetime": "2016-11-01 17:27:00"
 }
