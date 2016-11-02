@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611020271",
     "requested_datetime": "2016-11-02 16:04:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區東寧路 違規停車",
     "address_string": "東區東寧路",
     "lat": "22.9908416",
     "long": "120.2252715",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-02 18:52:57",
     "expected_datetime": "2016-11-09 16:04:00"
 }
