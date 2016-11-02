@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201611020313",
+    "service_request_id": "UN201611020314",
     "requested_datetime": "2016-11-02 16:59:00",
     "status": "已完工",
     "keyword": {},
-    "area": "中西區",
+    "area": "北區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "中西區公園路民生綠園圓環到公園北路口雙側紅線  違規停車",
-    "address_string": "中西區公園路",
+    "description": "北區小東路57號   違規停車",
+    "address_string": "北區小東路57號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": "2016-11-02 19:17:42",
+    "updated_datetime": "2016-11-02 19:30:47",
     "expected_datetime": "2016-11-02 16:59:00"
 }
