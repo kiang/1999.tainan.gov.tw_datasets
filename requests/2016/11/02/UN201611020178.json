@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區民族路二段的忠義路口到西門路口雙側紅黃線違規停車",
     "address_string": "中西區民族路二段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9957239",
+    "long": "120.2057375",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-11-02 12:54:00"
