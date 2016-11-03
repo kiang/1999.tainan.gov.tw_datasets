@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611030122",
+    "requested_datetime": "2016-11-03 11:42:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "仁德區文華路二段1257號，修車廠門口右前方 孔蓋冒水",
+    "address_string": "仁德區文華路二段1257號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-10 11:42:00"
+}
