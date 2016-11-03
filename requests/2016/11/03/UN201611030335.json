@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區中華東路一段66號 違停",
     "address_string": "東區中華東路一段66號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9962572",
+    "long": "120.2342627",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-11-10 20:25:00"
