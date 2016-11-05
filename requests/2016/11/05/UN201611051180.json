@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611051180",
+    "requested_datetime": "2016-11-05 16:41:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區北門路二段616號  違規停車",
+    "address_string": "704台灣台南市北區北門路二段616_號",
+    "lat": "23.0114701",
+    "long": "120.2165167",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-05 16:41:00"
+}
