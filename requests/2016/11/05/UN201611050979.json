@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區和緯路二段育德一街 違規停車",
     "address_string": "北區和緯路二段育德一街",
-    "lat": {},
-    "long": {},
+    "lat": "23.0123903",
+    "long": "120.2051039",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-11-12 10:08:00"
