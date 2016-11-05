@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611051021",
+    "requested_datetime": "2016-11-05 11:56:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區永華十街和育平6街路口違規停車",
+    "address_string": "安平區永華十街育平6街路",
+    "lat": "22.9927163",
+    "long": "120.1663222",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-05 11:56:00"
+}
