@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611060122",
     "requested_datetime": "2016-11-06 13:16:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區樹林街二段慶中街五妃街 違規停車",
     "address_string": "***樹林街二段的南門路口到大同路雙側紅黃線 違停 **慶中街的健康路口到樹林街二段口雙側紅黃線違規停車  ***五妃街的南門路口到府連路口雙側 紅黃線違停",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-06 19:48:02",
     "expected_datetime": "2016-11-06 13:16:00"
 }
