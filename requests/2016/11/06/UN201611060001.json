@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611060001",
     "requested_datetime": "2016-11-06 00:21:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "新營區民治路96號 妨害安寧",
     "address_string": "新營區民治路96號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-06 07:24:45",
     "expected_datetime": "2016-11-13 00:21:00"
 }
