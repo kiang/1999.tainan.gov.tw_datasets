@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安平區平通路41號 違停",
     "address_string": "安平區平通路41號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9922452",
+    "long": "120.1817962",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-11-13 13:22:00"
