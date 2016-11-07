@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611070316",
+    "requested_datetime": "2016-11-07 16:09:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "臺南市東區區公所",
+    "subproject": "路面坑洞",
+    "description": "東區中華東路二段243巷72弄9號11號前方   坑洞",
+    "address_string": "東區中華東路二段243巷72弄9號11號前方",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-14 16:09:00"
+}
