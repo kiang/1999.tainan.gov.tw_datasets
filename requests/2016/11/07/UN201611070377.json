@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611070377",
+    "requested_datetime": "2016-11-07 19:11:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局",
+    "subproject": "9盞以下路燈故障",
+    "description": "東區林森路二段192巷50弄35號^37號之間  路燈不亮",
+    "address_string": "東區林森路二段192巷50弄35號^37號之間",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-14 19:11:00"
+}
