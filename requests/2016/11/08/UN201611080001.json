@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611080001",
     "requested_datetime": "2016-11-08 00:10:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "新營區東仁街43巷16弄26號 噪音舉發",
     "address_string": "730台灣台南市新營區東仁街43巷16弄26號",
     "lat": "23.3183437",
     "long": "120.3275103",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-08 05:03:36",
     "expected_datetime": "2016-11-08 00:10:00"
 }
