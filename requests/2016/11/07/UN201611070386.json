@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611070386",
     "requested_datetime": "2016-11-07 20:00:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "台南市新營區中正路10號 違規停車",
     "address_string": "台南市新營區中正路10號",
     "lat": "23.3089269",
     "long": "120.3163691",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-08 04:53:16",
     "expected_datetime": "2016-11-07 20:00:00"
 }
