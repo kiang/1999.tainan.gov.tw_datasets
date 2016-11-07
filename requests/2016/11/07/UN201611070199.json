@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611070199",
+    "requested_datetime": "2016-11-07 13:58:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "民生管線",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "仁德區文華路二段1257號  孔蓋",
+    "address_string": "仁德區文華路二段1257號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-14 13:58:00"
+}
