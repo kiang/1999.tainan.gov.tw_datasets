@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611070105",
     "requested_datetime": "2016-11-07 10:35:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區西華街（公園南路到北忠街口） 違規停車",
     "address_string": "西華街",
     "lat": "22.9990543",
     "long": "120.210508",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-07 15:20:34",
     "expected_datetime": "2016-11-07 10:35:00"
 }
