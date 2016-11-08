@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611080292",
     "requested_datetime": "2016-11-08 17:43:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安南區安豐五街玉山銀行 違規停車",
     "address_string": "安南區安豐五街玉山銀行",
-    "lat": {},
-    "long": {},
+    "lat": "23.0477591",
+    "long": "120.2164445",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-08 18:21:23",
     "expected_datetime": "2016-11-08 17:43:00"
 }
