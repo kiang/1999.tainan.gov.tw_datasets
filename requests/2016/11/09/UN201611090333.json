@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611090333",
+    "requested_datetime": "2016-11-09 21:08:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "佳里區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "佳里區忠孝東路77號  違規停車",
+    "address_string": "722台灣台南市佳里區忠孝東路77號",
+    "lat": "23.165162785825089",
+    "long": "120.17899105612344",
+    "service_notice": {},
+    "updated_datetime": "2016-11-09 22:35:45",
+    "expected_datetime": "2016-11-09 21:08:00"
+}
