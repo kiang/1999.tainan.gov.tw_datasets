@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611090187",
     "requested_datetime": "2016-11-09 14:01:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "南區健康路二段114號  違規停車",
     "address_string": "702台灣台南市南區健康路二段114號",
     "lat": "22.981591",
     "long": "120.1945133",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-09 19:24:21",
     "expected_datetime": "2016-11-09 14:01:00"
 }
