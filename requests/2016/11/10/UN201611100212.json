@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611100212",
+    "requested_datetime": "2016-11-10 15:37:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區和緯路二段197號前 違停",
+    "address_string": "北區和緯路二段197號前",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-17 15:37:00"
+}
