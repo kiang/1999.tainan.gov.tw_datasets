@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611100218",
+    "requested_datetime": "2016-11-10 15:58:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "704台灣台南市北區和緯路二段238-248號違規停車",
+    "address_string": "704台灣台南市北區和緯路二段238-248號",
+    "lat": "23.012161777989984",
+    "long": "120.20660424616210",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-10 15:58:00"
+}

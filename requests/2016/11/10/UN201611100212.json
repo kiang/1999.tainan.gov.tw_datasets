@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區和緯路二段197號前 違停",
     "address_string": "北區和緯路二段197號前",
-    "lat": {},
-    "long": {},
+    "lat": "23.0121417",
+    "long": "120.205898",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-11-17 15:37:00"
