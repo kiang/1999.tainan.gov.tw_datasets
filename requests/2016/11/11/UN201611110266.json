@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611110266",
     "requested_datetime": "2016-11-11 15:01:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "違規停車",
-    "address_string": "704台灣台南市北區成功路176號到長北街口",
+    "description": "北區成功路176號 違規停車",
+    "address_string": "704台灣台南市北區成功路176號",
     "lat": "22.9987359",
     "long": "120.2042078",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-11 17:55:06",
     "expected_datetime": "2016-11-11 15:01:00"
 }
