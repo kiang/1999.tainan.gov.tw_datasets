@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611110289",
+    "requested_datetime": "2016-11-11 15:50:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府研究發展考核委員會,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區青年路309號  違規停車",
+    "address_string": "臺南市東區青年路309號",
+    "lat": "22.9918136",
+    "long": "120.2132254",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-11 15:50:00"
+}
