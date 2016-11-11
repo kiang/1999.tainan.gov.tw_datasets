@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611110180",
+    "requested_datetime": "2016-11-11 12:24:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "仁德火車站前 違規停車",
+    "address_string": "仁德火車站",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-18 12:24:00"
+}
