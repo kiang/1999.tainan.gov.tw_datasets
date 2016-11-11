@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611090319",
     "requested_datetime": "2016-11-09 20:13:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "佳里區蕭壠文化園區（佳里區六安里六安130號）附近 空氣污染",
     "address_string": "佳里區六安里六安130號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-11 11:15:51",
     "expected_datetime": "2016-11-16 20:13:00"
 }
