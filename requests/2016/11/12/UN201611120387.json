@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新市區 中正路 和 民權路 路口 四個轉角   違規停車",
     "address_string": "新市區中正路民權路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0779369",
+    "long": "120.2919699",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-11-12 20:25:00"
