@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201611120358",
-    "requested_datetime": "2016-11-12 18:49:00",
+    "service_request_id": "UN201611120364",
+    "requested_datetime": "2016-11-12 18:59:00",
     "status": {},
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "台南市永康區復華十街45巷38號違規停車",
+    "description": "台南市永康區復華十街45巷38號    違規停車",
     "address_string": "台南市永康區復華十街45巷38號",
     "lat": "23.0172365",
     "long": "120.2455837",
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-11-12 18:49:00"
+    "expected_datetime": "2016-11-12 18:59:00"
 }
