@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611130008",
+    "requested_datetime": "2016-11-13 01:41:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區大橋一街247巷 違規停車",
+    "address_string": "永康區大橋一街247巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-20 01:41:00"
+}
