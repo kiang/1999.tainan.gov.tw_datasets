@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611120154",
+    "requested_datetime": "2016-11-12 12:32:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區北忠街58巷18號   違規停車",
+    "address_string": "704台灣台南市北區北忠街58巷18號",
+    "lat": "22.999248281142673",
+    "long": "120.21142032008638",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-12 12:32:00"
+}

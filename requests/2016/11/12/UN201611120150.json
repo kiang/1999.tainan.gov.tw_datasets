@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611120150",
+    "requested_datetime": "2016-11-12 12:22:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區富北街64號  違規停車",
+    "address_string": "704台灣台南市北區富北街64號",
+    "lat": "22.99930314069893",
+    "long": "120.21155241888036",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-12 12:22:00"
+}

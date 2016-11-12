@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611120139",
+    "requested_datetime": "2016-11-12 11:57:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "新營區民權路跟武昌街交叉口  違規攤販",
+    "address_string": "新營區民權路武昌街",
+    "lat": "23.3059254",
+    "long": "120.3127039",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-19 11:57:00"
+}
