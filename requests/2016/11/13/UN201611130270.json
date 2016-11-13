@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611130270",
+    "requested_datetime": "2016-11-13 18:44:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "l中西區南寧街  違規停車",
+    "address_string": "l中西區南寧街",
+    "lat": "22.9850662",
+    "long": "120.2016401",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-13 18:44:00"
+}
