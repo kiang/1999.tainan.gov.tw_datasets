@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "台南市東區大同路二段63號  違規停車",
     "address_string": "台南市東區大同路二段63號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9795269",
+    "long": "120.2129989",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-11-13 13:57:00"
