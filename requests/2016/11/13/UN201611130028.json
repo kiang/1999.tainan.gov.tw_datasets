@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611130028",
     "requested_datetime": "2016-11-13 07:33:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "其他汙染舉發",
     "description": "南區新建路31巷內 噪音污染妨害安寧",
     "address_string": "南區新建路31巷內",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-13 20:33:02",
     "expected_datetime": "2016-11-20 07:33:00"
 }
