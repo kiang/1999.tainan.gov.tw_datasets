@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611140410",
+    "requested_datetime": "2016-11-14 19:50:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區崑山科技大學 違規停車",
+    "address_string": "永康區崑大路195號",
+    "lat": "22.998238",
+    "long": "120.2547842",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-14 19:50:00"
+}
