@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區裕學路 違停",
     "address_string": "東區裕學路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9850335",
+    "long": "120.2382693",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-11-21 09:00:00"
