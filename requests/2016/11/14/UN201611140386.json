@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611140386",
+    "requested_datetime": "2016-11-14 18:50:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "山上區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "山上區明和里北勢洲98號 消防栓漏水",
+    "address_string": "山上區明和里北勢洲98號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-21 18:50:00"
+}
