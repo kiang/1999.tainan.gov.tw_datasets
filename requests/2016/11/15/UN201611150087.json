@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611150087",
+    "requested_datetime": "2016-11-15 10:47:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區忠勇街中華里活動中心周邊 違規停車",
+    "address_string": "永康區忠勇街中華里活動中心周邊",
+    "lat": "23.000178061862755",
+    "long": "120.23797553032635",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-15 10:47:00"
+}
