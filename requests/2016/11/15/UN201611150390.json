@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611150390",
     "requested_datetime": "2016-11-15 21:36:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "台南市北區公園路840號 AQR8666 違規停車",
     "address_string": "台南市北區公園路840號",
     "lat": "23.0133278",
     "long": "120.2121398",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-16 02:30:17",
     "expected_datetime": "2016-11-15 21:36:00"
 }
