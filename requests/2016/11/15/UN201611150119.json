@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611150119",
     "requested_datetime": "2016-11-15 11:40:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區青年路193號 違規停車",
     "address_string": "青年路193號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-15 18:10:30",
     "expected_datetime": "2016-11-15 11:40:00"
 }
