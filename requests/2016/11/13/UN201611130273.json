@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611130273",
     "requested_datetime": "2016-11-13 18:45:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "永康焚化爐（永康區王行東路166號）空氣污染",
     "address_string": "永康焚化爐",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-15 20:35:03",
     "expected_datetime": "2016-11-20 18:45:00"
 }
