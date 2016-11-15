@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "違規停車",
     "address_string": "台南市永康區中華路324號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0082335",
+    "long": "120.2342847",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-11-15 20:30:00"
