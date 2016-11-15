@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611140413",
     "requested_datetime": "2016-11-14 19:34:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "南區國民路567巷口汽車保養廠 空氣污染",
     "address_string": "南區國民路567巷",
     "lat": "22.973134",
     "long": "120.205122",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-15 15:48:54",
     "expected_datetime": "2016-11-21 19:34:00"
 }

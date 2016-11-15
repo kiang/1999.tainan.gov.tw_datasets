@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "請相關單位查處是否違反交通規則?",
     "address_string": "台南市東區富農街一段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9818645",
+    "long": "120.2346671",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-11-15 13:30:00"
