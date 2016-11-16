@@ -7,10 +7,10 @@
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "南區大成路一段168巷違規停車",
+    "description": "南區大成路一段168巷紅線違規停車",
     "address_string": "台南市南區大成路一段168巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.9755762",
+    "long": "120.1996001",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-11-16 23:43:00"
