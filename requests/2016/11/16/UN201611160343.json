@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611160343",
+    "requested_datetime": "2016-11-16 18:57:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心,臺南市動物防疫保護處",
+    "subproject": "妨害安寧",
+    "description": "仁德區仁中六街40號   妨害安寧",
+    "address_string": "仁德區仁中六街40號",
+    "lat": "22.9629261",
+    "long": "120.2529194",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-23 18:57:00"
+}
