@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611160073",
+    "requested_datetime": "2016-11-16 10:02:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "人孔蓋或溝蓋聲響鬆動",
+    "description": "北區公園路533號前  人孔蓋噪音",
+    "address_string": "北區公園路533號前",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-23 10:02:00"
+}
