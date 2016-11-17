@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201611170267",
     "requested_datetime": "2016-11-17 17:00:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "東區崇德路144號  違規停車",
     "address_string": "台南市東區崇德路144號",
-    "lat": {},
-    "long": {},
+    "lat": "22.979294",
+    "long": "120.219885",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-17 18:25:56",
     "expected_datetime": "2016-11-17 17:00:00"
 }
