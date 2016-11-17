@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201611170357",
     "requested_datetime": "2016-11-17 21:13:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "北區公園路848號 違規停車",
     "address_string": "台南市北區公園路848號",
-    "lat": {},
-    "long": {},
+    "lat": "23.013613",
+    "long": "120.2123589",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-17 23:39:51",
     "expected_datetime": "2016-11-17 21:13:00"
 }
