@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611160331",
     "requested_datetime": "2016-11-16 18:31:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "歸仁區民權北路265號 違停",
     "address_string": "歸仁區民權北路265號",
     "lat": "22.9732989",
     "long": "120.2881954",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-17 07:34:10",
     "expected_datetime": "2016-11-23 18:31:00"
 }

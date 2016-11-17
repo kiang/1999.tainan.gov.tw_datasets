@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611160366",
     "requested_datetime": "2016-11-16 19:50:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "善化區光明路55號 違規停車",
     "address_string": "台南市善化區光明路55號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-17 07:35:12",
     "expected_datetime": "2016-11-16 19:50:00"
 }
