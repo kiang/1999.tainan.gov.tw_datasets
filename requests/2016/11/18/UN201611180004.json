@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611180004",
     "requested_datetime": "2016-11-18 00:41:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "永康區正南一街10號 噪音舉發",
     "address_string": "永康區正南一街10號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-18 04:05:44",
     "expected_datetime": "2016-11-18 00:41:00"
 }
