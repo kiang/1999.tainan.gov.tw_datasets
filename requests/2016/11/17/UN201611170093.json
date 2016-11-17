@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611170093",
+    "requested_datetime": "2016-11-17 10:31:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府水利局",
+    "subproject": "人孔蓋或溝蓋聲響鬆動",
+    "description": "北區公園路533號和535號中間  人孔蓋聲響鬆動",
+    "address_string": "北區公園路533號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-24 10:31:00"
+}

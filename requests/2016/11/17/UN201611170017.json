@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611170017",
     "requested_datetime": "2016-11-17 06:44:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "安南區長和路二段17號交通運輸",
     "address_string": "709台灣台南市安南區長和路二段17號",
     "lat": "23.064197446158119",
     "long": "120.22452592963873",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-17 10:14:48",
     "expected_datetime": "2016-11-17 06:44:00"
 }
