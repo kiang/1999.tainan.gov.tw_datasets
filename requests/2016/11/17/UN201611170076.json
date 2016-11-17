@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "臺南市永康區中華路185號  違規停車",
     "address_string": "臺南市永康區中華路185號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0043624",
+    "long": "120.2350991",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-11-17 09:49:00"
