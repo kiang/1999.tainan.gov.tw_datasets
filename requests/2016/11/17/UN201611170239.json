@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611170239",
+    "requested_datetime": "2016-11-17 16:00:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "永康區南灣街與大安街 號誌故障",
+    "address_string": "永康區南灣街與大安街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-24 16:00:00"
+}
