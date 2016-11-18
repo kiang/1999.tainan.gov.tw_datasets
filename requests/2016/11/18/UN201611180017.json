@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611180017",
+    "requested_datetime": "2016-11-18 07:38:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "安南區安和路二段318巷45號    路燈不亮\/號誌相反",
+    "address_string": "安南區安和路二段318巷45號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-25 07:38:00"
+}
