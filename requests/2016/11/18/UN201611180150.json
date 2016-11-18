@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611180150",
+    "requested_datetime": "2016-11-18 11:46:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "701台灣台南市東區東門路二段28號   違規停車",
+    "address_string": "701台灣台南市東區東門路二段28號",
+    "lat": "22.98629459461475",
+    "long": "120.21948597405125",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-18 11:46:00"
+}
