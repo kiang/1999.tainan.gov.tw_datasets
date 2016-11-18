@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611180400",
+    "requested_datetime": "2016-11-18 21:37:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區自強路330巷12弄2號 違規停車",
+    "address_string": "7鞥10台灣台南市永康區自強路330巷12弄2號",
+    "lat": "23.0285957",
+    "long": "120.2528504",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-18 21:37:00"
+}
