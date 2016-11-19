@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611190253",
+    "requested_datetime": "2016-11-19 16:35:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西西華南街靠近台南醫院圍牆邊 違停",
+    "address_string": "中西西華南街靠近台南醫院圍牆邊",
+    "lat": "22.9955627",
+    "long": "120.2097732",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-26 16:35:00"
+}

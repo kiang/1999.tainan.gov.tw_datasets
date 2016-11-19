@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611190238",
+    "requested_datetime": "2016-11-19 15:52:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區永華路國華街口 違規停車",
+    "address_string": "南區永華路國華街",
+    "lat": "22.987386",
+    "long": "120.1963873",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-19 15:52:00"
+}
