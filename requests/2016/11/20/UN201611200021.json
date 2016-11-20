@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611200021",
     "requested_datetime": "2016-11-20 08:03:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府教育局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "永康區大橋國小 妨害安寧",
     "address_string": "永康區大橋國小",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-20 14:24:13",
     "expected_datetime": "2016-11-27 08:03:00"
 }
