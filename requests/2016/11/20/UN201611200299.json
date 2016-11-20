@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611200299",
+    "requested_datetime": "2016-11-20 20:22:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區長賢街口靠近西門路三段 違規停車",
+    "address_string": "長賢街西門路三段",
+    "lat": "23.0036115",
+    "long": "120.2041144",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-20 20:22:00"
+}
