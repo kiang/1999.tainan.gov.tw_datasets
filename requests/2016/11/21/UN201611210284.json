@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611210284",
     "requested_datetime": "2016-11-21 17:04:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區崇明路與榮譽街 違規停車",
     "address_string": "701台灣台南市東區崇明路榮譽街",
     "lat": "22.9770041",
     "long": "120.2208448",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-21 18:59:30",
     "expected_datetime": "2016-11-21 17:04:00"
 }

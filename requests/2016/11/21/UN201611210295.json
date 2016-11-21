@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "東區東安路164號 佔用道路",
     "address_string": "東區東安路164號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9947695",
+    "long": "120.2270625",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-11-28 17:17:00"

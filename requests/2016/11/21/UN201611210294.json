@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611210294",
+    "requested_datetime": "2016-11-21 17:18:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區永福路靠近中正路口、永福路靠近民生路口 違規停車",
+    "address_string": "永福路",
+    "lat": "24.1839341",
+    "long": "120.6205417",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-21 17:18:00"
+}
