@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611180115",
     "requested_datetime": "2016-11-18 10:45:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "消防栓倒塌",
     "address_string": "東區崇德路670號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-21 10:49:58",
     "expected_datetime": "2016-11-25 10:45:00"
 }
