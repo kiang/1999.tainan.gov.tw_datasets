@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611210276",
+    "requested_datetime": "2016-11-21 16:53:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區東豐路247號  違規停車",
+    "address_string": "704台灣台南市北區東豐路247號",
+    "lat": "23.003044032508534",
+    "long": "120.22152318465578",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-21 16:53:00"
+}
