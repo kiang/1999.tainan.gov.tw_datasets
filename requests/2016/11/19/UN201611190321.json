@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611190321",
     "requested_datetime": "2016-11-19 18:53:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "七股區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "七股區大潭里南26鄉道，後港國小到後港國中之間路段 路燈不亮",
     "address_string": "七股區大潭里",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-22 09:09:22",
     "expected_datetime": "2016-11-26 18:53:00"
 }
