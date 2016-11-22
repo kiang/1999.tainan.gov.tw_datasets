@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區水交社路 違停",
     "address_string": "南區水交社路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9781472",
+    "long": "120.2005555",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-11-29 13:40:00"
