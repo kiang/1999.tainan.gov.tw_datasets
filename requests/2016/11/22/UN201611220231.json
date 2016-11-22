@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611220231",
+    "requested_datetime": "2016-11-22 15:12:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區慶平路394號右邊(巧味鹽酥雞攤右邊)  違規停車",
+    "address_string": "安平區慶平路394號",
+    "lat": "22.9969176",
+    "long": "120.1763666",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-22 15:12:00"
+}

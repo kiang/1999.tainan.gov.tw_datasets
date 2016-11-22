@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611220230",
+    "requested_datetime": "2016-11-22 15:10:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "台南市中西區國華街三段178號  違規停車",
+    "address_string": "台南市中西區國華街三段178號",
+    "lat": "22.9974674",
+    "long": "120.1989795",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-22 15:10:00"
+}
