@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611220315",
     "requested_datetime": "2016-11-22 18:40:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "台南市永康區勝華街19號 違規停車",
     "address_string": "台南市永康區勝華街19號",
     "lat": "23.0064796",
     "long": "120.2343511",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-22 22:06:45",
     "expected_datetime": "2016-11-22 18:40:00"
 }
