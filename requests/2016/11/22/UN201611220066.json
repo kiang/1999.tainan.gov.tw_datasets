@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611220066",
+    "requested_datetime": "2016-11-22 09:48:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "永康區中正六街581號咖啡店周圍",
+    "lat": "23.040219950879813",
+    "long": "120.23836512118578",
+    "service_notice": {},
+    "updated_datetime": "2016-11-23 00:51:47",
+    "expected_datetime": "2016-11-22 09:48:00"
+}
