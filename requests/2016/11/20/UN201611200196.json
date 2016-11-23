@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區國華街三段273號違規停車",
     "address_string": "中西區國華街三段273號",
     "lat": "22.9998556",
     "long": "120.1998553",
     "service_notice": {},
-    "updated_datetime": "2016-11-20 18:37:17",
+    "updated_datetime": "2016-11-23 12:17:14",
     "expected_datetime": "2016-11-20 15:20:00"
 }
