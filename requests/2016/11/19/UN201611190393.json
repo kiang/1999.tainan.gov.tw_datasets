@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區西門路二段25巷 違規停車",
     "address_string": "700台灣台南市中西區西門路二段25巷",
     "lat": "22.990714518556633",
     "long": "120.19778689196542",
     "service_notice": {},
-    "updated_datetime": "2016-11-20 07:45:20",
+    "updated_datetime": "2016-11-23 12:01:24",
     "expected_datetime": "2016-11-19 22:08:00"
 }
