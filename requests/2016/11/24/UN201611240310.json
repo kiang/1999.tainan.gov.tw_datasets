@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區公園路591-44號 違規停車",
     "address_string": "台南市北區公園路591之44號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0131237",
+    "long": "120.2116186",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-11-24 20:20:00"

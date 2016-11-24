@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區大武街6號對面及正新街57號 違停",
     "address_string": "永康區大武街6號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0138565",
+    "long": "120.216076",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-12-01 20:50:00"
