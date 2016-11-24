@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611240061",
     "requested_datetime": "2016-11-24 09:41:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區開元路485巷 違規停車",
     "address_string": "北區開元路485巷",
     "lat": "23.0105672",
     "long": "120.2244792",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-24 12:22:46",
     "expected_datetime": "2016-11-24 09:41:00"
 }
