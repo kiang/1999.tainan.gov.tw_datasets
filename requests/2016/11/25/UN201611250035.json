@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區樹林街二段151號前、及239號前 違停",
     "address_string": "中西區樹林街二段151號",
-    "lat": {},
-    "long": {},
+    "lat": "22.985978",
+    "long": "120.202258",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-12-02 08:25:00"
