@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611250331",
+    "requested_datetime": "2016-11-25 20:46:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "東區林森路二段192巷70弄1號",
+    "lat": "22.9894956",
+    "long": "120.2265413",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-25 20:46:00"
+}
