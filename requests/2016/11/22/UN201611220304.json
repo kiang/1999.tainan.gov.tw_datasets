@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611220304",
     "requested_datetime": "2016-11-22 18:08:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安定區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市安定區公所",
     "subproject": "9盞以下路燈故障",
     "description": "709台灣台南市安定區六嘉里六塊寮159之1號 路燈故障",
     "address_string": "709台灣台南市安定區六嘉里六塊寮159之1號",
     "lat": "23.0759427",
     "long": "120.2193618",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-25 14:10:36",
     "expected_datetime": "2016-11-22 18:08:00"
 }
