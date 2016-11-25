@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611250002",
     "requested_datetime": "2016-11-25 00:31:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "721台灣台南市麻豆區中正路2號 妨害安寧",
     "address_string": "721台灣台南市麻豆區中正路2號",
     "lat": "23.183753836996832",
     "long": "120.24855114530783",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-25 07:35:10",
     "expected_datetime": "2016-11-25 00:31:00"
 }
