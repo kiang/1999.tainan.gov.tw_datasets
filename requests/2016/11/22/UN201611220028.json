@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611220028",
     "requested_datetime": "2016-11-22 08:14:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "大內區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "遊蕩犬隻捕捉管制",
     "description": "大內區頭社里竹宅子177-2號 捕犬",
     "address_string": "大內區頭社里竹宅子177-2號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-25 15:30:45",
     "expected_datetime": "2016-11-29 08:14:00"
 }

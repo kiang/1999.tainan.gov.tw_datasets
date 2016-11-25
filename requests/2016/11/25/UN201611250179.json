@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安平區城平路1號 路燈不亮",
     "address_string": "安平區城平路1號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9928027",
+    "long": "120.1522468",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-12-02 13:52:00"
