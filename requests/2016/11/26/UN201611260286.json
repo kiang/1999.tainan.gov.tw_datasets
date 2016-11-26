@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611260286",
+    "requested_datetime": "2016-11-26 19:20:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "台南市北區育德二路756號 違規停車",
+    "address_string": "台南市北區育德二路756號",
+    "lat": "23.0199355",
+    "long": "120.2013899",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-26 19:20:00"
+}
