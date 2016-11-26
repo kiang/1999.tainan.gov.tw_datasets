@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611260304",
+    "requested_datetime": "2016-11-26 20:21:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區崇明十三街11巷 違規停車",
+    "address_string": "東區崇明十三街11巷",
+    "lat": "22.9746403",
+    "long": "120.2245734",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-03 20:21:00"
+}
