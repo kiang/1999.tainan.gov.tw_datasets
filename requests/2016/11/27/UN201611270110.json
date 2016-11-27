@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611270110",
+    "requested_datetime": "2016-11-27 14:37:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "安南區長和路四段231巷  妨害安寧",
+    "address_string": "安南區長和路四段231巷",
+    "lat": "23.0629568",
+    "long": "120.2079367",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-04 14:37:00"
+}
