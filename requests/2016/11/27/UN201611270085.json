@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611270085",
+    "requested_datetime": "2016-11-27 12:59:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區衛國街112巷1號 違規停車",
+    "address_string": "東區衛國街112巷1號",
+    "lat": "22.9874217",
+    "long": "120.2252497",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-04 12:59:00"
+}
