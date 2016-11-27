@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611270221",
+    "requested_datetime": "2016-11-27 21:25:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "人孔蓋或溝蓋聲響鬆動",
+    "description": "北區公園北路96巷口的內側車道孔蓋鬆動",
+    "address_string": "北區公園北路96巷",
+    "lat": "23.0050945",
+    "long": "120.2100782",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-04 21:25:00"
+}
