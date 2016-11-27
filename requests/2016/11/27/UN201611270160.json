@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611270160",
+    "requested_datetime": "2016-11-27 17:40:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區西門路一段689巷  違規停車",
+    "address_string": "台南市西門路一段689巷",
+    "lat": "22.9870881",
+    "long": "120.1968897",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-11-27 17:40:00"
+}
