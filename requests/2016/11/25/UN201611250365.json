@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611250365",
     "requested_datetime": "2016-11-25 22:29:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "妨害安寧",
     "description": "永康區小北路20號對面噪音舉發",
     "address_string": "台南市永康區小北路20號對面",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-27 20:39:49",
     "expected_datetime": "2016-11-25 22:29:00"
 }
