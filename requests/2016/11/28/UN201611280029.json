@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201611280026",
-    "requested_datetime": "2016-11-28 08:24:00",
+    "service_request_id": "UN201611280029",
+    "requested_datetime": "2016-11-28 08:31:00",
     "status": "未處理",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "東區青年路勝利路交叉口   違停",
-    "address_string": "東區青年路  勝利路",
+    "description": "東區榮譽街的台南大學榮譽校區 違停",
+    "address_string": "東區榮譽街的台南大學榮譽校區",
     "lat": {},
     "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-12-05 08:24:00"
+    "expected_datetime": "2016-12-05 08:31:00"
 }
