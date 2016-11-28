@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611260290",
     "requested_datetime": "2016-11-26 19:29:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "將軍區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
     "description": "學甲往將軍方向，將軍區華宗橋，下橋後約100公尺處 貓救援",
     "address_string": "將軍區華宗橋",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-28 14:32:02",
     "expected_datetime": "2016-12-03 19:29:00"
 }
