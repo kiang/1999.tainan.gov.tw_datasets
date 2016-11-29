@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201611290015",
-    "requested_datetime": "2016-11-29 06:39:00",
+    "service_request_id": "UN201611290028",
+    "requested_datetime": "2016-11-29 07:44:00",
     "status": "未處理",
     "keyword": {},
     "area": "中西區",
     "service_name": "交通運輸",
     "agency": "台南市政府",
     "subproject": "佔用道路",
-    "description": "中西區五妃街187號  餐車",
-    "address_string": "中西區五妃街187號",
+    "description": "中西區五妃街187號邊 佔用道路",
+    "address_string": "中西區五妃街187號邊",
     "lat": {},
     "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-12-06 06:39:00"
+    "expected_datetime": "2016-12-06 07:44:00"
 }
