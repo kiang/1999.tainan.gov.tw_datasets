@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611290047",
+    "requested_datetime": "2016-11-29 08:55:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區臨安路二段249巷33弄跟民德路95巷交叉口 紅線違停",
+    "address_string": "北區臨安路二段249巷33弄民德路95巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-06 08:55:00"
+}
