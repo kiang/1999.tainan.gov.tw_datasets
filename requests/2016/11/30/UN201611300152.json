@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611300152",
     "requested_datetime": "2016-11-30 12:13:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新化區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新化區忠孝路285號 違規停車",
     "address_string": "新化區忠孝路285號",
     "lat": "23.0369551",
     "long": "120.3012497",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-11-30 16:56:09",
     "expected_datetime": "2016-11-30 12:13:00"
 }
