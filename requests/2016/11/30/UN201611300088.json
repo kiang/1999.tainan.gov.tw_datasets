@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201611300088",
+    "requested_datetime": "2016-11-30 10:11:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "佳里區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "台19縣佳里區  疏導交通",
+    "address_string": "台19縣佳里區",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-07 10:11:00"
+}
