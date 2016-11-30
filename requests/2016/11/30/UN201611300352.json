@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201611300357",
-    "requested_datetime": "2016-11-30 20:24:00",
+    "service_request_id": "UN201611300352",
+    "requested_datetime": "2016-11-30 20:08:00",
     "status": {},
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "安平區安平路70號違規停車",
-    "address_string": "安平區安平路70號",
+    "description": "安平區華平路650號違規停車",
+    "address_string": "安平區華平路650號",
     "lat": {},
     "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-11-30 20:24:00"
+    "expected_datetime": "2016-11-30 20:08:00"
 }
