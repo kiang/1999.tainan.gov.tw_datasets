@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612010391",
+    "requested_datetime": "2016-12-01 23:22:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "東區裕信六街22號  妨害安寧",
+    "address_string": "東區裕信六街22號",
+    "lat": "22.9765274",
+    "long": "120.2461254",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-08 23:22:00"
+}
