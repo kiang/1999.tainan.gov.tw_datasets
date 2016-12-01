@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612020005",
     "requested_datetime": "2016-12-02 01:52:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "北區南園街101巷34弄33號2弄 妨害安寧",
     "address_string": "南園街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-02 06:53:15",
     "expected_datetime": "2016-12-02 01:52:00"
 }
