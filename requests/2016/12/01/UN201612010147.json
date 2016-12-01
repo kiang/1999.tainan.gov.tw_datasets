@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區西門路一段209號 違規停車",
     "address_string": "台南市南區西門路一段209號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9752726",
+    "long": "120.197449",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-12-01 12:26:00"
