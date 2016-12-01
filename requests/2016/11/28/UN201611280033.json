@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201611280033",
     "requested_datetime": "2016-11-28 08:36:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "學甲區",
     "service_name": "動物救援",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-01 18:46:51",
     "expected_datetime": "2016-12-05 08:36:00"
 }
