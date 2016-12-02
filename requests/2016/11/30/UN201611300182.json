@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201611300182",
     "requested_datetime": "2016-11-30 13:34:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "環境髒亂",
     "description": "安南區府安路六段45巷17弄2號 環境髒亂",
     "address_string": "安南區府安路六段45巷17弄2號",
     "lat": "23.0200362",
     "long": "120.1894962",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-02 12:28:38",
     "expected_datetime": "2016-12-07 13:34:00"
 }
