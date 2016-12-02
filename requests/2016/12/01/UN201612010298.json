@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區大同路二段412-432號 違規停車",
     "address_string": "702台灣台南市南區大同路二段412號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9744463",
+    "long": "120.2141942",
     "service_notice": {},
     "updated_datetime": "2016-12-02 02:01:55",
     "expected_datetime": "2016-12-01 18:32:00"

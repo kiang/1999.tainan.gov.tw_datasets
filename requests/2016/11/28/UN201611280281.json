@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "新市區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "10盞以上路燈故障",
     "description": "新市區三舍239號 路燈不亮",
     "address_string": "新市區三舍239號",
     "lat": "23.69781",
     "long": "120.960515",
     "service_notice": {},
-    "updated_datetime": "2016-12-01 14:28:08",
+    "updated_datetime": "2016-12-02 11:46:26",
     "expected_datetime": "2016-12-05 17:57:00"
 }

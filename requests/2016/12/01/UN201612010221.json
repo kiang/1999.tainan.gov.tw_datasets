@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區南台街36號(全家超商)周邊違規停車",
     "address_string": "永康區南台街36號",
-    "lat": {},
-    "long": {},
+    "lat": "23.022328",
+    "long": "120.223467",
     "service_notice": {},
     "updated_datetime": "2016-12-01 16:55:35",
     "expected_datetime": "2016-12-01 15:10:00"

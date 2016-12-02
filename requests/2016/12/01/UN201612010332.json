@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "關廟區大仁街 路燈編號：0021  路燈不亮",
     "address_string": "關廟區大仁街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9575078",
+    "long": "120.325951",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-12-08 19:21:00"

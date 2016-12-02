@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "台南市安南區安中路一段812號髒亂及汙染",
     "address_string": "台南市安南區安中路一段812號",
-    "lat": {},
-    "long": {},
+    "lat": "23.043593",
+    "long": "120.1947679",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-12-01 14:53:00"
