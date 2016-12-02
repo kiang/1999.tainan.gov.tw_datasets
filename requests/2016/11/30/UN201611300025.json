@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區東平路和東安路口交叉處 違停",
     "address_string": "東平路東安路口",
-    "lat": {},
-    "long": {},
+    "lat": "22.995615",
+    "long": "120.2270868",
     "service_notice": {},
     "updated_datetime": "2016-11-30 16:29:13",
     "expected_datetime": "2016-11-30 08:42:00"

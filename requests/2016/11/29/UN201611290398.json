@@ -9,8 +9,8 @@
     "subproject": "場所連續噪音",
     "description": "新營區南紙街98號 警報器噪音汙染",
     "address_string": "新營區南紙街98號",
-    "lat": {},
-    "long": {},
+    "lat": "23.2992269",
+    "long": "120.2942625",
     "service_notice": {},
     "updated_datetime": "2016-11-30 08:40:00",
     "expected_datetime": "2016-12-06 21:48:00"

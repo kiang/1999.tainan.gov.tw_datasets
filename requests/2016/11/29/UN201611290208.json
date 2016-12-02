@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區長興街加油站旁邊，靠近西門路口 違規停車",
     "address_string": "長興街",
-    "lat": {},
-    "long": {},
+    "lat": "25.0164895",
+    "long": "121.5453188",
     "service_notice": {},
     "updated_datetime": "2016-11-29 18:57:36",
     "expected_datetime": "2016-11-29 14:23:00"

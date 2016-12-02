@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區海安路一段87號 汽車違停",
     "address_string": "中西區海安路一段87號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9897656",
+    "long": "120.1950209",
     "service_notice": {},
     "updated_datetime": "2016-11-28 22:16:40",
     "expected_datetime": "2016-12-05 19:19:00"

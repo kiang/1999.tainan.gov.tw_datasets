@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區北安路三段396巷58號 路燈故障",
     "address_string": "安南區北安路三段396巷58號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0452336",
+    "long": "120.2088662",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-12-06 22:01:00"

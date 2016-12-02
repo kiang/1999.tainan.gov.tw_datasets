@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "南區新愛路跟中華西路口 號誌燈故障",
     "address_string": "南區新愛路跟中華西路口",
-    "lat": {},
-    "long": {},
+    "lat": "22.9747751",
+    "long": "120.1802017",
     "service_notice": {},
     "updated_datetime": "2016-11-28 16:50:08",
     "expected_datetime": "2016-12-05 14:53:00"

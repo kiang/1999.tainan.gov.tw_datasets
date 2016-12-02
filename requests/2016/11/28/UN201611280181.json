@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "關廟區關新路 號誌故障",
     "address_string": "關廟區關新路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9847282",
+    "long": "120.3109762",
     "service_notice": {},
     "updated_datetime": "2016-11-28 17:57:36",
     "expected_datetime": "2016-12-05 14:24:00"

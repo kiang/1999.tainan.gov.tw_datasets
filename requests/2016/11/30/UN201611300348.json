@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區勝利路116號 違停",
     "address_string": "東區勝利路116號",
-    "lat": {},
-    "long": {},
+    "lat": "24.8009021",
+    "long": "120.9687539",
     "service_notice": {},
     "updated_datetime": "2016-12-01 01:29:56",
     "expected_datetime": "2016-12-07 19:53:00"

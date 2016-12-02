@@ -9,8 +9,8 @@
     "subproject": "交通疏導",
     "description": "台19縣佳里區  疏導交通",
     "address_string": "台19縣佳里區",
-    "lat": {},
-    "long": {},
+    "lat": "24.1449509",
+    "long": "120.691617",
     "service_notice": {},
     "updated_datetime": "2016-11-30 16:51:22",
     "expected_datetime": "2016-12-07 10:11:00"

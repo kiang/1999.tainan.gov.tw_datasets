@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安平區華平路650號違規停車",
     "address_string": "安平區華平路650號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9957693",
+    "long": "120.1757969",
     "service_notice": {},
     "updated_datetime": "2016-12-01 01:33:51",
     "expected_datetime": "2016-11-30 20:08:00"

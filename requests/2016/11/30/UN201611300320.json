@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "路燈不亮",
     "address_string": "善化區",
-    "lat": {},
-    "long": {},
+    "lat": "23.1402613",
+    "long": "120.3089541",
     "service_notice": {},
     "updated_datetime": "2016-12-01 18:32:34",
     "expected_datetime": "2016-12-07 18:47:00"

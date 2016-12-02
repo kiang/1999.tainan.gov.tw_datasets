@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安平區永華六街\/平通路口  違規停車",
     "address_string": "安平區永華六街平通路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9928447",
+    "long": "120.176915",
     "service_notice": {},
     "updated_datetime": "2016-11-30 17:14:00",
     "expected_datetime": "2016-12-07 14:08:00"

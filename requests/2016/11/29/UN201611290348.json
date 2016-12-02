@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區開元路485巷11號 違停",
     "address_string": "北區開元路485巷11號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0055235",
+    "long": "120.2149067",
     "service_notice": {},
     "updated_datetime": "2016-11-30 04:08:12",
     "expected_datetime": "2016-12-06 19:14:00"

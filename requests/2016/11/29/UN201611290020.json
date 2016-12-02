@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "南區大成路和永安街口 廢棄車",
     "address_string": "南區大成路永安街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9671025",
+    "long": "120.1944569",
     "service_notice": {},
     "updated_datetime": "2016-11-29 15:12:28",
     "expected_datetime": "2016-12-06 07:33:00"

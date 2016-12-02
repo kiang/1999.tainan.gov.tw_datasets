@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區小東路35號(成大醫院公車站公車停靠區)  違規停車",
     "address_string": "東區小東路35號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9985496",
+    "long": "120.2381876",
     "service_notice": {},
     "updated_datetime": "2016-11-30 16:54:48",
     "expected_datetime": "2016-11-30 11:47:00"

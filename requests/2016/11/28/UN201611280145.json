@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "仁德火車站前 紅線違停",
     "address_string": "仁德火車站",
-    "lat": {},
-    "long": {},
+    "lat": "22.9234",
+    "long": "120.240447",
     "service_notice": {},
     "updated_datetime": "2016-11-28 21:56:23",
     "expected_datetime": "2016-12-05 12:44:00"

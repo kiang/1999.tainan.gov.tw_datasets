@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區小東路583號  違停",
     "address_string": "永康區小東路583號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9987711",
+    "long": "120.237107",
     "service_notice": {},
     "updated_datetime": "2016-11-30 16:25:35",
     "expected_datetime": "2016-12-07 07:42:00"

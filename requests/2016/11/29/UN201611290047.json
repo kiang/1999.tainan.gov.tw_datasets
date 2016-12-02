@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區臨安路二段249巷33弄跟民德路95巷交叉口 紅線違停",
     "address_string": "北區臨安路二段249巷33弄民德路95巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.0050929",
+    "long": "120.2005941",
     "service_notice": {},
     "updated_datetime": "2016-11-29 18:43:37",
     "expected_datetime": "2016-12-06 08:55:00"

@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區實踐街85巷2號 違規停車",
     "address_string": "北區實踐街85巷2號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0143933",
+    "long": "120.2195715",
     "service_notice": {},
     "updated_datetime": "2016-11-29 22:59:30",
     "expected_datetime": "2016-11-29 16:26:00"

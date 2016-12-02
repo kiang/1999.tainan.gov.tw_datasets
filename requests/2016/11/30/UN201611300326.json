@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "台南市東區崇明十街4號 違規停車",
     "address_string": "台南市東區崇明十街4號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9749297",
+    "long": "120.2200099",
     "service_notice": {},
     "updated_datetime": "2016-12-01 16:46:53",
     "expected_datetime": "2016-11-30 18:51:00"

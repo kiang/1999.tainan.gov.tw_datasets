@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "安南區海佃路四段 空汙",
     "address_string": "安南區海佃路四段",
-    "lat": {},
-    "long": {},
+    "lat": "23.0591969",
+    "long": "120.1764913",
     "service_notice": {},
     "updated_datetime": "2016-12-01 16:01:23",
     "expected_datetime": "2016-12-06 16:02:00"

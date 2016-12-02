@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "東區崇善十一街54巷10號 佔用道路",
     "address_string": "東區崇善十一街54巷10號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9708346",
+    "long": "120.2323699",
     "service_notice": {},
     "updated_datetime": "2016-11-29 22:50:28",
     "expected_datetime": "2016-12-06 15:56:00"

@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "仁德區中正路和忠義路口 揚塵",
     "address_string": "仁德區中正路忠義路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9800921",
+    "long": "120.2563131",
     "service_notice": {},
     "updated_datetime": "2016-12-01 17:34:40",
     "expected_datetime": "2016-12-06 09:43:00"

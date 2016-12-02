@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "台南市中西區中山路158號 違規停車",
     "address_string": "台南市中西區中山路158號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9953659",
+    "long": "120.209659",
     "service_notice": {},
     "updated_datetime": "2016-11-30 04:21:15",
     "expected_datetime": "2016-11-29 21:17:00"

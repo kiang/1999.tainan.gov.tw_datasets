@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區民德路85巷64號 路燈",
     "address_string": "北區民德路85巷64號",
-    "lat": {},
-    "long": {},
+    "lat": "23.004882",
+    "long": "120.2011579",
     "service_notice": {},
     "updated_datetime": "2016-11-29 09:17:00",
     "expected_datetime": "2016-12-05 14:22:00"

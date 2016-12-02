@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "中西區五妃街187號  餐車",
     "address_string": "中西區五妃街187號",
-    "lat": {},
-    "long": {},
+    "lat": "22.982526",
+    "long": "120.2059071",
     "service_notice": {},
     "updated_datetime": "2016-11-29 10:59:36",
     "expected_datetime": "2016-12-06 06:39:00"

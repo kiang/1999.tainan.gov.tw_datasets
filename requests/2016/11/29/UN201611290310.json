@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "安定交流道南下方向  空氣汙染",
     "address_string": "安定交流道",
-    "lat": {},
-    "long": {},
+    "lat": "24.3198058",
+    "long": "120.6659697",
     "service_notice": {},
     "updated_datetime": "2016-12-01 16:08:53",
     "expected_datetime": "2016-12-06 18:04:00"

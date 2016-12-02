@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安南區北安路三段308號前方 違停",
     "address_string": "安南區北安路三段308號",
-    "lat": {},
-    "long": {},
+    "lat": "23.044267",
+    "long": "120.205902",
     "service_notice": {},
     "updated_datetime": "2016-11-29 22:53:37",
     "expected_datetime": "2016-12-06 16:37:00"

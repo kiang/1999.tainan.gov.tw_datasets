@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "楠西區水庫路458號 路燈故障",
     "address_string": "楠西區水庫路458號",
-    "lat": {},
-    "long": {},
+    "lat": "23.173906",
+    "long": "120.4889184",
     "service_notice": {},
     "updated_datetime": "2016-12-01 16:56:12",
     "expected_datetime": "2016-12-06 10:48:00"

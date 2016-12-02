@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "南區中華西路一段137巷37號對面 路燈不亮",
     "address_string": "南區中華西路一段137巷37號",
-    "lat": {},
-    "long": {},
+    "lat": "22.981459",
+    "long": "120.184287",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-12-06 13:40:00"

@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區東和路靠近小東路口  違規停車",
     "address_string": "東區東和路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9985075",
+    "long": "120.2274616",
     "service_notice": {},
     "updated_datetime": "2016-11-30 19:02:07",
     "expected_datetime": "2016-11-30 16:23:00"

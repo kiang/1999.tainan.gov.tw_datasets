@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "中西區南寧街25號 空氣汙染",
     "address_string": "中西區南寧街25號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9845287",
+    "long": "120.2049978",
     "service_notice": {},
     "updated_datetime": "2016-12-01 16:56:24",
     "expected_datetime": "2016-12-07 18:25:00"

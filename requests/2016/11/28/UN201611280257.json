@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "安南區安順國中前 號誌故障",
     "address_string": "安南區安順國中前",
-    "lat": {},
-    "long": {},
+    "lat": "23.0585336",
+    "long": "120.1358346",
     "service_notice": {},
     "updated_datetime": "2016-11-29 13:46:37",
     "expected_datetime": "2016-12-05 17:07:00"

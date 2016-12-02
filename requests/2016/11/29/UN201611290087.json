@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "東區林森路二段166號 油煙空氣汙染",
     "address_string": "東區林森路二段166號",
-    "lat": {},
-    "long": {},
+    "lat": "22.988701",
+    "long": "120.223934",
     "service_notice": {},
     "updated_datetime": "2016-11-29 15:26:48",
     "expected_datetime": "2016-12-06 10:32:00"

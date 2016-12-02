@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區小東路373號 違規停車",
     "address_string": "北區小東路373號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9989054",
+    "long": "120.2319979",
     "service_notice": {},
     "updated_datetime": "2016-11-30 04:16:40",
     "expected_datetime": "2016-12-06 18:47:00"

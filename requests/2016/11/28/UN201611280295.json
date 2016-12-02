@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區海東三街與五街 路燈不亮",
     "address_string": "安南區海東三街",
-    "lat": {},
-    "long": {},
+    "lat": "23.0311444",
+    "long": "120.1895175",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-12-05 18:29:00"

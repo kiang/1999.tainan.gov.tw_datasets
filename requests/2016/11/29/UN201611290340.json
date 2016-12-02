@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "白河區虎山里 路燈故障",
     "address_string": "白河區虎山里",
-    "lat": {},
-    "long": {},
+    "lat": "23.3530109",
+    "long": "120.4559258",
     "service_notice": {},
     "updated_datetime": "2016-12-02 08:28:45",
     "expected_datetime": "2016-12-06 18:54:00"

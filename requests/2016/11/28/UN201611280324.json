@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "東區榮譽街198號～208號對面    占用道路",
     "address_string": "東區榮譽街198號～208號對面",
-    "lat": {},
-    "long": {},
+    "lat": "24.7920604",
+    "long": "120.9933678",
     "service_notice": {},
     "updated_datetime": "2016-11-28 22:02:23",
     "expected_datetime": "2016-12-05 19:16:00"

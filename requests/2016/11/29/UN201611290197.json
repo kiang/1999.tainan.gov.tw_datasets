@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區南台街43號 違規停車",
     "address_string": "永康區南台街43號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0222441",
+    "long": "120.22282",
     "service_notice": {},
     "updated_datetime": "2016-11-29 19:37:32",
     "expected_datetime": "2016-11-29 13:59:00"

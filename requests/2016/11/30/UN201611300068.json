@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "北區北圓街20號路口  占用道路",
     "address_string": "北區北圓街20號路口",
-    "lat": {},
-    "long": {},
+    "lat": "23.0091899",
+    "long": "120.2233594",
     "service_notice": {},
     "updated_datetime": "2016-11-30 16:35:31",
     "expected_datetime": "2016-12-07 09:36:00"

@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "安南區長和路三段84號 號誌燈故障",
     "address_string": "安南區長和路三段84號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0634415",
+    "long": "120.2169444",
     "service_notice": {},
     "updated_datetime": "2016-12-01 13:41:53",
     "expected_datetime": "2016-12-07 17:39:00"

@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區大橋一街249號 紅線違停",
     "address_string": "永康區大橋一街249號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0196624",
+    "long": "120.2321862",
     "service_notice": {},
     "updated_datetime": "2016-11-28 22:15:35",
     "expected_datetime": "2016-12-05 16:58:00"

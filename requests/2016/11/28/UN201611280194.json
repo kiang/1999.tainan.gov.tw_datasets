@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區府前路一段172號 違規停車",
     "address_string": "中西區府前路一段172號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9892166",
+    "long": "120.206705",
     "service_notice": {},
     "updated_datetime": "2016-11-28 22:07:03",
     "expected_datetime": "2016-11-28 15:03:00"

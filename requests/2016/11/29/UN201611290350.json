@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "台南市安南區文安街110巷7號違規停車",
     "address_string": "台南市安南區文安街110巷7號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0267049",
+    "long": "120.2113192",
     "service_notice": {},
     "updated_datetime": "2016-11-30 04:04:44",
     "expected_datetime": "2016-11-29 19:24:00"

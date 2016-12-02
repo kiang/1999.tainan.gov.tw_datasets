@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區裕忠三街85號  違停",
     "address_string": "東區裕忠三街85號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9796531",
+    "long": "120.240537",
     "service_notice": {},
     "updated_datetime": "2016-11-28 18:34:23",
     "expected_datetime": "2016-12-05 15:40:00"
