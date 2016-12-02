@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612010118",
     "requested_datetime": "2016-12-01 11:09:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "安南區永安路75號 路面坑洞",
     "address_string": "安南區永安路75號",
     "lat": "23.044191",
     "long": "120.2225278",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-02 16:44:36",
     "expected_datetime": "2016-12-08 11:09:00"
 }
