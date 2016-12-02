@@ -8,9 +8,9 @@
     "agency": "台南市政府",
     "subproject": "違規停車",
     "description": "東區中華東路二段243巷57弄93號右前方 違停",
-    "address_string": {},
-    "lat": "23.69781",
-    "long": "120.960515",
+    "address_string": "東區中華東路二段243巷57弄93號右前方",
+    "lat": {},
+    "long": {},
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-12-09 20:51:00"
