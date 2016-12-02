@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612020410",
+    "requested_datetime": "2016-12-02 22:47:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區臨安路二段169巷1號  違停",
+    "address_string": "北區臨安路二段169巷1號",
+    "lat": "23.0036555",
+    "long": "120.198409",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-09 22:47:00"
+}
