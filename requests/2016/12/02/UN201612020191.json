@@ -4,14 +4,14 @@
     "status": "已完工",
     "keyword": {},
     "area": "東山區",
-    "service_name": {},
+    "service_name": "交通運輸",
     "agency": "臺南市政府警察局勤務指揮中心",
-    "subproject": {},
+    "subproject": "佔用道路",
     "description": "東山區東山農會附近 佔用道路",
     "address_string": "東山區東山農會",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": "2016-12-02 17:20:05",
+    "updated_datetime": "2016-12-02 17:20:00",
     "expected_datetime": "2016-12-09 14:09:00"
 }
