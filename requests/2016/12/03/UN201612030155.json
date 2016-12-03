@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612030155",
     "requested_datetime": "2016-12-03 14:35:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南 區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "南區中華南路一段175巷2號 違規停車",
     "address_string": "702台灣台南市南區中華南路一段175巷2號",
     "lat": "22.969816032075126",
     "long": "120.21111220121385",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-03 18:35:19",
     "expected_datetime": "2016-12-03 14:35:00"
 }
