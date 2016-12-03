@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201612040009",
     "requested_datetime": "2016-12-04 02:05:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "噪音舉發",
@@ -9,9 +9,9 @@
     "subproject": "場所連續噪音",
     "description": "南區中華西路一段470號 妨害安寧",
     "address_string": "702台南市南區中華西路一段470號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9859911",
+    "long": "120.186843",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-04 04:11:00",
     "expected_datetime": "2016-12-04 02:05:00"
 }

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612040001",
     "requested_datetime": "2016-12-04 00:19:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "台南市西門路一段健康路 噪音舉發",
     "address_string": "台南市西門路一段健康路",
     "lat": "22.9813467",
     "long": "120.201331",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-04 04:07:16",
     "expected_datetime": "2016-12-04 00:19:00"
 }
