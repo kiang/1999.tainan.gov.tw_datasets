@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612040222",
     "requested_datetime": "2016-12-04 18:49:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "噪音舉發",
-    "agency": "臺南市政府環境保護局",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "佳里區忠孝東路13號  妨害安寧",
     "address_string": "佳里區忠孝東路13-2號",
     "lat": "23.16411096855395",
     "long": "120.18113784492016",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-04 23:02:12",
     "expected_datetime": "2016-12-04 18:49:00"
 }
