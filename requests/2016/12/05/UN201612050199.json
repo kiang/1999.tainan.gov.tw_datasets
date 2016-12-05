@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612050199",
+    "requested_datetime": "2016-12-05 14:40:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "大橋國中(永康區東橋十街1號)對面人行道轉角處 攤車妨礙通行",
+    "address_string": "永康區東橋十街1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-12 14:40:00"
+}
