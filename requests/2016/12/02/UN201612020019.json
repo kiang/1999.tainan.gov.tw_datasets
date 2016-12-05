@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612020019",
     "requested_datetime": "2016-12-02 07:49:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "妨害安寧",
     "description": "北區北園街8巷23-75號   噪音舉發",
     "address_string": "北區北園街8巷23-75號",
     "lat": "23.0107286",
     "long": "120.2239087",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-05 18:17:17",
     "expected_datetime": "2016-12-02 07:49:00"
 }
