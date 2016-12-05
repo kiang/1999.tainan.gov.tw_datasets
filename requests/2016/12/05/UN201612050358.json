@@ -9,8 +9,8 @@
     "subproject": "場所連續噪音",
     "description": "北區和緯路一段94號 連續噪音",
     "address_string": "北區和緯路一段94號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0095672",
+    "long": "120.2144842",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-12-05 23:23:00"

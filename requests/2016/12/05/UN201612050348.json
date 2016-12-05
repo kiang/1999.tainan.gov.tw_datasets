@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "744台灣台南市新市區中正路224號違規停車",
     "address_string": "744台灣台南市新市區中正路224號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0758095",
+    "long": "120.2916422",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-12-05 21:34:00"
