@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201612060078",
-    "requested_datetime": "2016-12-06 10:30:00",
+    "service_request_id": "UN201612060102",
+    "requested_datetime": "2016-12-06 11:10:00",
     "status": {},
     "keyword": {},
     "area": "麻豆區",
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "麻豆區中山路110號 違規停車",
+    "description": "台南市麻豆區中山路110號違規停車",
     "address_string": "台南市麻豆區中山路110號",
-    "lat": "23.1837887",
-    "long": "120.2448468",
+    "lat": {},
+    "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-12-06 10:30:00"
+    "expected_datetime": "2016-12-06 11:10:00"
 }
