@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612050358",
     "requested_datetime": "2016-12-05 23:23:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "北區和緯路一段94號 連續噪音",
     "address_string": "北區和緯路一段94號",
     "lat": "23.0095672",
     "long": "120.2144842",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-06 15:04:36",
     "expected_datetime": "2016-12-05 23:23:00"
 }
