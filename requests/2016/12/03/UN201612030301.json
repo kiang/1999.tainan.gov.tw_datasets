@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612030301",
     "requested_datetime": "2016-12-03 20:12:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "永康火車站（永康區中山路459號）站前7-11工地內 消防栓冒水",
     "address_string": "永康火車站",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-06 09:38:41",
     "expected_datetime": "2016-12-10 20:12:00"
 }
