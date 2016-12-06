@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612060311",
+    "requested_datetime": "2016-12-06 18:51:00",
+    "status": {},
+    "keyword": {},
+    "area": "善化區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "善化區興華路286號  違規停車",
+    "address_string": "741台灣台南市善化區興華路286號",
+    "lat": "23.1278547",
+    "long": "120.295026",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-06 18:51:00"
+}
