@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612060352",
+    "requested_datetime": "2016-12-06 20:37:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安南區府安路五段119巷33弄 違停",
+    "address_string": "安南區府安路五段119巷33弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-12-06 23:48:20",
+    "expected_datetime": "2016-12-13 20:37:00"
+}
