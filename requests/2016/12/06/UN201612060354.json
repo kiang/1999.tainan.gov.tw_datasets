@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安南區智安一街與功安一街交叉口 違規停車",
     "address_string": "台南市安南區智安一街功安一街",
-    "lat": {},
-    "long": {},
+    "lat": "23.0500883",
+    "long": "120.1767803",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-12-06 20:50:00"

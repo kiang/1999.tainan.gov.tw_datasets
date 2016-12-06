@@ -7,10 +7,10 @@
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "違規停車",
+    "description": "東區青年路272號  違規停車",
     "address_string": "台南市東區青年路272號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9914471",
+    "long": "120.2128752",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-12-06 21:40:00"
