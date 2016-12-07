@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612070342",
     "requested_datetime": "2016-12-07 19:58:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新市區中正路199號及中正路240號 違規停車",
     "address_string": "744台灣台南市新市區中正路199號",
     "lat": "23.076723",
     "long": "120.2917388",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-08 03:49:01",
     "expected_datetime": "2016-12-07 19:58:00"
 }
