@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612070282",
     "requested_datetime": "2016-12-07 16:56:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "台南市東區東門路一段南下東門城公車站違停違規停車",
     "address_string": "台南市東區東門路一段",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-07 20:11:48",
     "expected_datetime": "2016-12-07 16:56:00"
 }

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612070333",
+    "requested_datetime": "2016-12-07 19:28:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區東門路二段12號 違停",
+    "address_string": "東區東門路二段12號",
+    "lat": "22.9821593",
+    "long": "120.2280662",
+    "service_notice": {},
+    "updated_datetime": "2016-12-07 20:35:57",
+    "expected_datetime": "2016-12-14 19:28:00"
+}
