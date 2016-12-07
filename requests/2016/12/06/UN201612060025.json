@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區西華街郵局 違規停車",
     "address_string": "西華街郵局旁",
-    "lat": {},
-    "long": {},
+    "lat": "22.9990543",
+    "long": "120.210508",
     "service_notice": {},
     "updated_datetime": "2016-12-06 14:21:09",
     "expected_datetime": "2016-12-06 08:40:00"

@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "台南市南區三和街43號違規停車",
     "address_string": "台南市南區三和街43號",
-    "lat": {},
-    "long": {},
+    "lat": "22.981016",
+    "long": "120.1924081",
     "service_notice": {},
     "updated_datetime": "2016-12-06 17:37:13",
     "expected_datetime": "2016-12-06 15:58:00"

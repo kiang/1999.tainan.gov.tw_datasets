@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區樹林街二段65號違規停車",
     "address_string": "中西區樹林街二段65號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9855591",
+    "long": "120.2055626",
     "service_notice": {},
     "updated_datetime": "2016-12-06 15:26:21",
     "expected_datetime": "2016-12-06 11:18:00"

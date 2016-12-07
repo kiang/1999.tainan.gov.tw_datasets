@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "佳里區延平路276號 違規停車",
     "address_string": "佳里區延平路276號",
-    "lat": {},
-    "long": {},
+    "lat": "23.160232",
+    "long": "120.17856",
     "service_notice": {},
     "updated_datetime": "2016-12-06 15:36:39",
     "expected_datetime": "2016-12-13 12:00:00"

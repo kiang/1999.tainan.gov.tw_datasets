@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安平區安平路21號 違規停車",
     "address_string": "安平區安平路21號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9990011",
+    "long": "120.1678689",
     "service_notice": {},
     "updated_datetime": "2016-12-06 15:38:55",
     "expected_datetime": "2016-12-13 13:32:00"

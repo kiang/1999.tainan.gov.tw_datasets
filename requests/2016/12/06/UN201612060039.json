@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區東興路二段51號前 違停",
     "address_string": "北區東興路二段51號前",
-    "lat": {},
-    "long": {},
+    "lat": "24.1546786",
+    "long": "120.6643894",
     "service_notice": {},
     "updated_datetime": "2016-12-06 14:22:03",
     "expected_datetime": "2016-12-13 09:15:00"

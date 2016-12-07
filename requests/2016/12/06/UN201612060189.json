@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區大同路一段58號違規停車",
     "address_string": "中西區大同路一段58號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9872867",
+    "long": "120.2111478",
     "service_notice": {},
     "updated_datetime": "2016-12-06 17:31:19",
     "expected_datetime": "2016-12-06 13:53:00"

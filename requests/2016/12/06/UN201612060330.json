@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新營區中山路252巷  違規停車",
     "address_string": "台南市新營區中山路252巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.3035394",
+    "long": "120.3141571",
     "service_notice": {},
     "updated_datetime": "2016-12-06 23:35:06",
     "expected_datetime": "2016-12-06 19:23:00"

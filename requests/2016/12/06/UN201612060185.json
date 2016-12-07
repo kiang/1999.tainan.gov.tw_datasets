@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區中山路177巷 違停",
     "address_string": "中西區中山路177巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.9962034",
+    "long": "120.2106243",
     "service_notice": {},
     "updated_datetime": "2016-12-06 15:40:01",
     "expected_datetime": "2016-12-13 13:42:00"

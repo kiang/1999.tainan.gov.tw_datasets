@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "佳里區延平路與自由路口 違停",
     "address_string": "佳里區延平路與自由路口",
-    "lat": {},
-    "long": {},
+    "lat": "23.1634839",
+    "long": "120.1782215",
     "service_notice": {},
     "updated_datetime": "2016-12-06 18:20:23",
     "expected_datetime": "2016-12-13 14:05:00"

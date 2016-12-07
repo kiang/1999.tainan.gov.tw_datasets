@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區崇明路172號違規停車",
     "address_string": "東區崇明路172號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9794121",
+    "long": "120.2176527",
     "service_notice": {},
     "updated_datetime": "2016-12-06 15:46:05",
     "expected_datetime": "2016-12-06 13:57:00"
