@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "永康區永康國小對面永康街 佔用道路",
     "address_string": "永康區永康街",
-    "lat": {},
-    "long": {},
+    "lat": "23.0231777",
+    "long": "120.2585997",
     "service_notice": {},
     "updated_datetime": "2016-12-05 16:33:55",
     "expected_datetime": "2016-12-12 07:35:00"

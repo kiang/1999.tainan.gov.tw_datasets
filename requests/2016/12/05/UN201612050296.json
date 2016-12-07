@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區開元路212巷94號違規停車",
     "address_string": "北區開元路212巷94號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0050928",
+    "long": "120.2240827",
     "service_notice": {},
     "updated_datetime": "2016-12-06 07:14:17",
     "expected_datetime": "2016-12-12 18:47:00"

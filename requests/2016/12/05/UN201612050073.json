@@ -9,8 +9,8 @@
     "subproject": "場所連續噪音",
     "description": "中西區西湖街233號 噪音",
     "address_string": "中西區西湖街233號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0036281",
+    "long": "120.182568",
     "service_notice": {},
     "updated_datetime": "2016-12-06 09:25:53",
     "expected_datetime": "2016-12-12 10:04:00"

@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "新化區中正路中山路 空氣汙染",
     "address_string": "新化區中正路中山路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0359549",
+    "long": "120.3080696",
     "service_notice": {},
     "updated_datetime": "2016-12-07 12:03:44",
     "expected_datetime": "2016-12-12 17:28:00"

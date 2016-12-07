@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "仁德區德安路24號  違停",
     "address_string": "仁德區德安路24號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9526521",
+    "long": "120.2527317",
     "service_notice": {},
     "updated_datetime": "2016-12-05 07:41:40",
     "expected_datetime": "2016-12-12 02:35:00"

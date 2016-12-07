@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區怡東路22號 紅線違停",
     "address_string": "東區怡東路22號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9907829",
+    "long": "120.2276621",
     "service_notice": {},
     "updated_datetime": "2016-12-05 16:58:24",
     "expected_datetime": "2016-12-12 10:47:00"

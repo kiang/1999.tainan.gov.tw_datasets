@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "永康區龍埔街85號 妨礙出入",
     "address_string": "永康區龍埔街85號",
-    "lat": {},
-    "long": {},
+    "lat": "23.033831",
+    "long": "120.264748",
     "service_notice": {},
     "updated_datetime": "2016-12-05 16:50:02",
     "expected_datetime": "2016-12-12 11:07:00"

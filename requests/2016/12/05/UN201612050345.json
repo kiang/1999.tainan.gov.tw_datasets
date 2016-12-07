@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區東安路東寧路違規停車",
     "address_string": "東區東安路東寧路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9906426",
+    "long": "120.2259269",
     "service_notice": {},
     "updated_datetime": "2016-12-06 08:59:54",
     "expected_datetime": "2016-12-05 21:26:00"

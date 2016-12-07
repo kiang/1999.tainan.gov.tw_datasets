@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區大仁街87號 違停",
     "address_string": "永康區大仁街87號",
-    "lat": {},
-    "long": {},
+    "lat": "23.002408",
+    "long": "120.2567483",
     "service_notice": {},
     "updated_datetime": "2016-12-05 16:34:45",
     "expected_datetime": "2016-12-12 07:23:00"

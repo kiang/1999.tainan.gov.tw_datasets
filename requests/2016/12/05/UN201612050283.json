@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區衛民街154號 違規停車",
     "address_string": "中西區衛民街154號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9936801",
+    "long": "120.207395",
     "service_notice": {},
     "updated_datetime": "2016-12-06 07:14:57",
     "expected_datetime": "2016-12-05 18:04:00"

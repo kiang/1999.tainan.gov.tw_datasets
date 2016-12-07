@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安南區安和路三段190巷口，違停",
     "address_string": "安南區安和路三段190巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.0479248",
+    "long": "120.2201718",
     "service_notice": {},
     "updated_datetime": "2016-12-05 17:06:05",
     "expected_datetime": "2016-12-12 13:44:00"

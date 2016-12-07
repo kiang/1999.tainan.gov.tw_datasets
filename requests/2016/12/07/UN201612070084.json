@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612070084",
     "requested_datetime": "2016-12-07 10:01:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "安平區平生路43號 佔用人行道",
     "address_string": "安平區平生路43號",
     "lat": "23.0007441",
     "long": "120.1642246",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-07 14:30:24",
     "expected_datetime": "2016-12-14 10:01:00"
 }

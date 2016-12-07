@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "南區長南街文南路 號誌故障",
     "address_string": "南區長南街文南路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9828918",
+    "long": "120.1897968",
     "service_notice": {},
     "updated_datetime": "2016-12-06 16:04:07",
     "expected_datetime": "2016-12-12 21:47:00"

@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "台南市永康區復華五街55巷17號違規停車",
     "address_string": "台南市永康區復華五街55巷17號",
-    "lat": {},
-    "long": {},
+    "lat": "23.011057",
+    "long": "120.2470519",
     "service_notice": {},
     "updated_datetime": "2016-12-06 09:18:54",
     "expected_datetime": "2016-12-05 21:22:00"

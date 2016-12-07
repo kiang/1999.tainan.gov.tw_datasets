@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安平區建平十七街從華平路方向開始 路燈故障",
     "address_string": "安平區建平十七街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9974975",
+    "long": "120.1801139",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-12-12 14:08:00"

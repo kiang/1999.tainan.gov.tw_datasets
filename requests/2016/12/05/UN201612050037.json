@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區濟生街11號對面 違停",
     "address_string": "中西區濟生街11號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9975004",
+    "long": "120.1916498",
     "service_notice": {},
     "updated_datetime": "2016-12-05 16:24:40",
     "expected_datetime": "2016-12-12 08:31:00"

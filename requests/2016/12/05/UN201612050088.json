@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區中華東路一段201號 機車黃線及騎樓違停",
     "address_string": "東區中華東路一段201號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9902337",
+    "long": "120.2340168",
     "service_notice": {},
     "updated_datetime": "2016-12-05 16:20:07",
     "expected_datetime": "2016-12-12 10:43:00"

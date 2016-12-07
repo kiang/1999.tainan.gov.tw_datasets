@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "安南區城西街一段\/青砂街一段交叉口    號誌故障",
     "address_string": "安南區城西街一段青砂街一段",
-    "lat": {},
-    "long": {},
+    "lat": "23.0620995",
+    "long": "120.1287291",
     "service_notice": {},
     "updated_datetime": "2016-12-06 16:07:30",
     "expected_datetime": "2016-12-12 15:17:00"
