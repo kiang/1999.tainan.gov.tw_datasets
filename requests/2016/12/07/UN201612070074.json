@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201612070074",
     "requested_datetime": "2016-12-07 09:36:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "七股區",
     "service_name": "動物救援",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-08 17:26:10",
     "expected_datetime": "2016-12-14 09:36:00"
 }
