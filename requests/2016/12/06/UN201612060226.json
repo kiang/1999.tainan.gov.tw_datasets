@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區大學路西段53號 違規停車",
     "address_string": "大學路西段53號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9963236",
+    "long": "120.2169355",
     "service_notice": {},
     "updated_datetime": "2016-12-06 16:01:39",
     "expected_datetime": "2016-12-06 14:58:00"

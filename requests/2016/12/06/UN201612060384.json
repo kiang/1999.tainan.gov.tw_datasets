@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區國華街三段132號違規停車",
     "address_string": "國華街三段132號",
-    "lat": {},
-    "long": {},
+    "lat": "22.996695",
+    "long": "120.198632",
     "service_notice": {},
     "updated_datetime": "2016-12-07 07:28:11",
     "expected_datetime": "2016-12-06 22:26:00"
