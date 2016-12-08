@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "新市區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "善化區、新市區路燈不亮",
     "address_string": "新市區西拉雅大道   善化區目加溜灣大道",
     "lat": "23.1191958",
     "long": "120.3061954",
     "service_notice": {},
-    "updated_datetime": "2016-12-05 14:23:53",
+    "updated_datetime": "2016-12-08 14:40:12",
     "expected_datetime": "2016-12-12 00:46:00"
 }
