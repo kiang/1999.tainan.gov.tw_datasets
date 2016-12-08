@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612080024",
     "requested_datetime": "2016-12-08 07:40:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "台南市北區大興街628號   騎樓舉發",
     "address_string": "台南市北區大興街628號",
     "lat": "23.0075655",
     "long": "120.1786083",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-08 14:16:09",
     "expected_datetime": "2016-12-08 07:40:00"
 }
