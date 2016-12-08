@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區洲尾街321號違規停車",
     "address_string": "台南市永康區洲尾街321號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0422331",
+    "long": "120.2304548",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-12-08 05:45:00"
