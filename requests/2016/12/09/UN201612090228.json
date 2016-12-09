@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612090228",
     "requested_datetime": "2016-12-09 15:33:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "髒亂及汙染",
-    "agency": "臺南市政府環境保護局",
+    "agency": "台南市政府",
     "subproject": "大型廢棄物清運",
     "description": "安平區府平路480號旁邊 大型廢棄物清運",
     "address_string": "安平區府平路480號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-09 17:14:35",
     "expected_datetime": "2016-12-16 15:33:00"
 }
