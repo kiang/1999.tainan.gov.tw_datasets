@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "台南市中西區民生路一段59號   違規停車",
     "address_string": "台南市中西區民生路一段59號",
-    "lat": {},
-    "long": {},
+    "lat": "22.993056",
+    "long": "120.203184",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-12-09 12:25:00"
