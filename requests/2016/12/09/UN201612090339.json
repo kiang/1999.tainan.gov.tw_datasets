@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612090339",
     "requested_datetime": "2016-12-09 20:39:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "南區明興路1398巷8號 舊衣回收箱佔用道路",
     "address_string": "南區明興路1398巷8號",
     "lat": "22.921698",
     "long": "120.1841752",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-09 23:01:55",
     "expected_datetime": "2016-12-16 20:39:00"
 }
