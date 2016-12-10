@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612090184",
     "requested_datetime": "2016-12-09 14:26:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "永康區龍橋街36號 機具噪音",
     "address_string": "永康區龍橋街36號",
     "lat": "23.0350971",
     "long": "120.266718",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-10 18:51:07",
     "expected_datetime": "2016-12-16 14:26:00"
 }
