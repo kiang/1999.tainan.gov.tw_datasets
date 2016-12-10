@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612090347",
     "requested_datetime": "2016-12-09 21:08:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "佳里區博愛東街67巷附近，佳池宮（佳里區平等街16號），妨害安寧",
     "address_string": "佳里區佳池宮",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-10 07:19:12",
     "expected_datetime": "2016-12-16 21:08:00"
 }
