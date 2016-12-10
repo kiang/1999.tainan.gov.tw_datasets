@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612100020",
     "requested_datetime": "2016-12-10 06:17:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "南區尊南街163號對面噪音舉發",
     "address_string": "尊南街163號對面",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-10 14:38:34",
     "expected_datetime": "2016-12-10 06:17:00"
 }
