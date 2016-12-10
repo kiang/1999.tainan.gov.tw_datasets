@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612100287",
+    "requested_datetime": "2016-12-10 20:21:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "場所連續噪音",
+    "description": "南區新城街 噪音舉發",
+    "address_string": "台南市新城街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-12-10 22:32:31",
+    "expected_datetime": "2016-12-10 20:21:00"
+}
