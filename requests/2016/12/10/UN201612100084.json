@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201612100084",
     "requested_datetime": "2016-12-10 11:18:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "永康區正南二街87號 違規停車",
     "address_string": "永康區正南二街87號",
-    "lat": {},
-    "long": {},
+    "lat": "23.035481",
+    "long": "120.2260102",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-10 12:53:15",
     "expected_datetime": "2016-12-17 11:18:00"
 }
