@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201612100181",
-    "requested_datetime": "2016-12-10 15:06:00",
+    "service_request_id": "UN201612100202",
+    "requested_datetime": "2016-12-10 16:31:00",
     "status": {},
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "台南市東區中華東路三段46號 違規停車",
+    "description": "東區中華東路三段46號 違規停車",
     "address_string": "台南市東區中華東路三段46號",
-    "lat": "22.9801825",
-    "long": "120.2284071",
+    "lat": {},
+    "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-12-10 15:06:00"
+    "expected_datetime": "2016-12-10 16:31:00"
 }
