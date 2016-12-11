@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612120322",
+    "requested_datetime": "2016-12-12 02:43:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "南區賢南街76號  妨害安寧",
+    "address_string": "南區賢南街76號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-12-12 06:35:06",
+    "expected_datetime": "2016-12-19 02:43:00"
+}
