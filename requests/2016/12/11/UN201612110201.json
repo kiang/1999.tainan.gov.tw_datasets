@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612110201",
+    "requested_datetime": "2016-12-11 19:03:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "仁德區中正路一段274號 妨害安寧",
+    "address_string": "仁德區中正路一段274號",
+    "lat": "22.9228403",
+    "long": "120.2372303",
+    "service_notice": {},
+    "updated_datetime": "2016-12-11 20:31:16",
+    "expected_datetime": "2016-12-18 19:03:00"
+}
