@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612110066",
+    "requested_datetime": "2016-12-11 10:52:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "安南區同安路347巷46號 妨害安寧",
+    "address_string": "安南區同安路347巷46號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-12-11 12:45:18",
+    "expected_datetime": "2016-12-18 10:52:00"
+}
