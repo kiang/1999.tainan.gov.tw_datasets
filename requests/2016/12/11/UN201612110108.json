@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612110108",
+    "requested_datetime": "2016-12-11 13:45:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區勝利路與勝利路262巷口 違規停車",
+    "address_string": "704台灣台南市北區勝利路和勝利路262巷口",
+    "lat": "23.0056041",
+    "long": "120.2190865",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-11 13:45:00"
+}
