@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612090246",
     "requested_datetime": "2016-12-09 16:18:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "道路維修",
-    "agency": "臺南市政府工務局",
+    "agency": "台南市政府",
     "subproject": "路面坑洞",
     "description": "永康區大灣路949號    坑洞",
     "address_string": "710台灣台南市永康區大灣路949號",
     "lat": "22.9977505",
     "long": "120.2533462",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-12 14:06:11",
     "expected_datetime": "2016-12-09 16:18:00"
 }
