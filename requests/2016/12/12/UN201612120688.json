@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安定區178縣道與直加弄大道路口 違規停車",
     "address_string": "台南市安定區178縣道直加弄大道",
-    "lat": {},
-    "long": {},
+    "lat": "23.1242421",
+    "long": "120.2498949",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-12-12 20:27:00"
