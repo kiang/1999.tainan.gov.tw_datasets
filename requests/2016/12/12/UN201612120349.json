@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612120349",
+    "requested_datetime": "2016-12-12 08:21:00",
+    "status": {},
+    "keyword": {},
+    "area": "東 區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "交通運輸",
+    "address_string": "701台灣台南市東區裕智街11號",
+    "lat": "22.986207523728563",
+    "long": "120.23973908275367",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-12 08:21:00"
+}
