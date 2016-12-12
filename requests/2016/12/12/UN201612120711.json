@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612120711",
     "requested_datetime": "2016-12-12 22:10:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區林森路二段南下東門國宅公車站違停違規停車",
     "address_string": "台南市東區林森路二段南下東門國宅公車站違停",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-13 01:07:27",
     "expected_datetime": "2016-12-12 22:10:00"
 }
