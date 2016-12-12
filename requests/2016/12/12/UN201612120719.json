@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區仁和路87-11號 路燈故障",
     "address_string": "東區仁和路87-11號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9731651",
+    "long": "120.232625",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-12-19 22:32:00"
