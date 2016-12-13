@@ -7,10 +7,10 @@
     "service_name": "交通運輸",
     "agency": "台南市政府",
     "subproject": "交通疏導",
-    "description": "安南區安吉路二段，近台江大道 施工無人交管",
+    "description": "安南區安吉路二段 近台江大道 交通疏導",
     "address_string": "安南區安吉路二段台江大道",
-    "lat": {},
-    "long": {},
+    "lat": "23.0601723",
+    "long": "120.1914373",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-12-20 09:53:00"
