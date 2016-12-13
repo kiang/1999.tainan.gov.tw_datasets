@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區南門路233-6   違規停車",
     "address_string": "中西區南門路233-6號",
     "lat": "22.9832731",
     "long": "120.204233",
     "service_notice": {},
-    "updated_datetime": "2016-12-09 18:10:55",
+    "updated_datetime": "2016-12-13 10:30:16",
     "expected_datetime": "2016-12-09 12:54:00"
 }
