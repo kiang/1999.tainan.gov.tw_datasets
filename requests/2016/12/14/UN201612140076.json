@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612140076",
     "requested_datetime": "2016-12-14 10:07:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "東區林森路二段166號 空氣汙染",
     "address_string": "東區林森路二段166號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-14 14:30:08",
     "expected_datetime": "2016-12-21 10:07:00"
 }
