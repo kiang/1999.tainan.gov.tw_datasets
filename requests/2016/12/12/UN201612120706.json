@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612120706",
     "requested_datetime": "2016-12-12 21:59:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "仁德區德洋二街五巷噪音舉發",
     "address_string": "德洋二街五巷",
     "lat": "22.9540834",
     "long": "120.2433164",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-14 09:47:06",
     "expected_datetime": "2016-12-12 21:59:00"
 }
