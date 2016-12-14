@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201612140350",
     "requested_datetime": "2016-12-14 19:47:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "騎樓舉發",
@@ -9,9 +9,9 @@
     "subproject": "騎樓舉發",
     "description": "東區崇道路48號 騎樓舉發",
     "address_string": "台南市東區崇道路48號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9719241",
+    "long": "120.226992",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-14 21:51:00",
     "expected_datetime": "2016-12-14 19:47:00"
 }
