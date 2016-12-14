@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612140314",
+    "requested_datetime": "2016-12-14 17:59:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區北門路一段270號前 違規停車",
+    "address_string": "東區北門路一段270號",
+    "lat": "22.9951754",
+    "long": "120.2120275",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-21 17:59:00"
+}
