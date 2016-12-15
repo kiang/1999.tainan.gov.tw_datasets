@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612140025",
     "requested_datetime": "2016-12-14 07:46:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安定區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "環境髒亂",
     "description": "安定區海竂里203號之4 亂丟垃圾",
     "address_string": "安定區海竂里203號之4",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-15 17:12:47",
     "expected_datetime": "2016-12-21 07:46:00"
 }
