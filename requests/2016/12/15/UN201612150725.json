@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612150725",
     "requested_datetime": "2016-12-15 19:59:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區康樂街府前路 違規停車",
     "address_string": "中西區康樂街府前路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-16 03:42:10",
     "expected_datetime": "2016-12-22 19:59:00"
 }
