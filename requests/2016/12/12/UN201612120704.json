@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第一分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區東光路二段118號 違規停車",
     "address_string": "台南市東區東光路二段118號",
     "lat": "22.9978221",
     "long": "120.231819",
     "service_notice": {},
-    "updated_datetime": "2016-12-13 00:48:08",
+    "updated_datetime": "2016-12-15 20:45:55",
     "expected_datetime": "2016-12-12 21:50:00"
 }
