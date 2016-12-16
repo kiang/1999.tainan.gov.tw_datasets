@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612160212",
     "requested_datetime": "2016-12-16 16:19:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "台南市永康區勝利路116巷33號   違規停車",
     "address_string": "台南市永康區勝利路116巷33號",
     "lat": "23.0034238",
     "long": "120.2336546",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-16 22:27:08",
     "expected_datetime": "2016-12-16 16:19:00"
 }

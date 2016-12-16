@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612160333",
+    "requested_datetime": "2016-12-16 22:21:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "南區南區鹽埕路103巷38弄24號噪音舉發",
+    "address_string": "702台灣台南市南區鹽埕路103巷38弄24號",
+    "lat": "22.9661296",
+    "long": "120.1873884",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-16 22:21:00"
+}
