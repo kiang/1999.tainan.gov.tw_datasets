@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612160285",
     "requested_datetime": "2016-12-16 19:08:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區中山路30號 違規停車",
     "address_string": "中西區中山路30號附近",
     "lat": "22.9931647",
     "long": "120.2063663",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-16 23:28:54",
     "expected_datetime": "2016-12-16 19:08:00"
 }
