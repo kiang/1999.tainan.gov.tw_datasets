@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612150461",
     "requested_datetime": "2016-12-15 08:39:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
     "description": "麻豆區龍泉里溝子墘2-3號   狗受困",
     "address_string": "麻豆區龍泉里溝子墘2-3號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-16 16:04:01",
     "expected_datetime": "2016-12-22 08:39:00"
 }
