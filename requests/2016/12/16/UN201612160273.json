@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201612160246",
-    "requested_datetime": "2016-12-16 17:06:00",
+    "service_request_id": "UN201612160273",
+    "requested_datetime": "2016-12-16 18:37:00",
     "status": {},
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "中西區西華南街18號 違規停車",
-    "address_string": "西華南街18號",
+    "description": "中西區民權路二段184號附近   違規停車",
+    "address_string": "中西區民權路二段184號附近",
     "lat": {},
     "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2016-12-16 17:06:00"
+    "expected_datetime": "2016-12-16 18:37:00"
 }
