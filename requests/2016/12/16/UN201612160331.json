@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "歸仁區高鐵1號出口 違停",
     "address_string": "歸仁區高鐵1號出口",
-    "lat": {},
-    "long": {},
+    "lat": "22.9238933",
+    "long": "120.2863924",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-12-23 22:13:00"
