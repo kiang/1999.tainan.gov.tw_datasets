@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612170107",
+    "requested_datetime": "2016-12-17 11:46:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區長榮路四段\/開元路口  違規停車",
+    "address_string": "北區長榮路四段開元路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-24 11:46:00"
+}
