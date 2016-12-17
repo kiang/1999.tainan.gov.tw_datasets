@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612170320",
+    "requested_datetime": "2016-12-17 23:42:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區正新街51-65號 違停",
+    "address_string": "永康區正新街51號",
+    "lat": "23.0197731",
+    "long": "120.2227872",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-24 23:42:00"
+}
