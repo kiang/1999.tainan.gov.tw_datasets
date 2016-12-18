@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612180114",
     "requested_datetime": "2016-12-18 12:25:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "北區富北街11號 妨礙安寧",
     "address_string": "北區富北街11號",
     "lat": "22.9986022",
     "long": "120.2114113",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-18 15:48:35",
     "expected_datetime": "2016-12-18 12:25:00"
 }
