@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612180112",
+    "requested_datetime": "2016-12-18 12:17:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區民德路58巷35號跟37號中間一盞LED路燈不亮",
+    "address_string": "北區民德路58巷35號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-25 12:17:00"
+}
