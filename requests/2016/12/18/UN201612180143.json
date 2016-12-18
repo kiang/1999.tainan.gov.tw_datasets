@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612180143",
+    "requested_datetime": "2016-12-18 13:25:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區菱洲宮附近，3號公車站牌，站名為成功路西段，公車停靠站 違停",
+    "address_string": "北區菱洲宮",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-12-18 17:08:45",
+    "expected_datetime": "2016-12-25 13:25:00"
+}

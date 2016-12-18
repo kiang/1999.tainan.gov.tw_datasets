@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612180222",
+    "requested_datetime": "2016-12-18 17:33:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區崇德路上崇義市場 違規停車",
+    "address_string": "東區崇德路上崇義市場",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-25 17:33:00"
+}
