@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區前鋒路126號 違規停車",
     "address_string": "台南市東區前鋒路126號",
-    "lat": {},
-    "long": {},
+    "lat": "22.994548",
+    "long": "120.2133713",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-12-19 22:30:00"
