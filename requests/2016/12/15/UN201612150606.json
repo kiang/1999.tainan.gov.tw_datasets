@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612150606",
     "requested_datetime": "2016-12-15 14:09:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局",
+    "agency": "臺南市政府警察局第二分局",
     "subproject": "違規停車",
     "description": "中西區民族路二段\/99號的公車站有違規停車",
     "address_string": "中西區民族路二段\/99號的公車站有違規停車",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-19 12:58:34",
     "expected_datetime": "2016-12-15 14:09:00"
 }
