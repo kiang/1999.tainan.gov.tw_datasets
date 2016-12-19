@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612190365",
+    "requested_datetime": "2016-12-19 20:05:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區西門路二段221號223號 違停",
+    "address_string": "中西區西門路二段221號223號",
+    "lat": "22.9951192",
+    "long": "120.1991033",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-26 20:05:00"
+}

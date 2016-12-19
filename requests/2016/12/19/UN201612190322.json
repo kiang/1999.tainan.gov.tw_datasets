@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612190322",
     "requested_datetime": "2016-12-19 18:08:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "永康區永大一路221號 妨害安寧",
     "address_string": "永康區永大一路221號",
     "lat": "23.0166727",
     "long": "120.2559714",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-19 21:03:57",
     "expected_datetime": "2016-12-26 18:08:00"
 }

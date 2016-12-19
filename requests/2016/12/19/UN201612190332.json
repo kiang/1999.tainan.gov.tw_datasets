@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612190332",
     "requested_datetime": "2016-12-19 18:41:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區中華路410、412號 違規停車",
     "address_string": "710台灣台南市永康區中華路412號",
     "lat": "23.0104172",
     "long": "120.2327464",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-19 21:12:31",
     "expected_datetime": "2016-12-19 18:41:00"
 }
