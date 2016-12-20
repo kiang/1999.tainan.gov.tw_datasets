@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612200233",
     "requested_datetime": "2016-12-20 15:48:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區府前路一段建興國中前 汽車違停",
     "address_string": "中西區府前路一段建興國中",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-20 22:02:25",
     "expected_datetime": "2016-12-27 15:48:00"
 }
