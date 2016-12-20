@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612160274",
     "requested_datetime": "2016-12-16 18:42:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "路燈故障",
     "address_string": "安南區環館五路161號",
     "lat": "23.0643631",
     "long": "120.2308717",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-20 09:06:37",
     "expected_datetime": "2016-12-16 18:42:00"
 }

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612200052",
+    "requested_datetime": "2016-12-20 09:12:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "安南區安吉路*安中路  台江文化中心  路面塌陷",
+    "address_string": "安南區安吉路*安中路  台江文化中心",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-27 09:12:00"
+}
