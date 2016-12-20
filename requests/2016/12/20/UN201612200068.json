@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612200068",
+    "requested_datetime": "2016-12-20 09:58:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區育德一街跟文成三路 違停",
+    "address_string": "北區育德一街跟文成三路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-27 09:58:00"
+}
