@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612200389",
+    "requested_datetime": "2016-12-20 21:00:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違反交通規則",
+    "address_string": "台南市東區中華東路二段",
+    "lat": "22.984491",
+    "long": "120.2322092",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-20 21:00:00"
+}
