@@ -9,8 +9,8 @@
     "subproject": "場所連續噪音",
     "description": "新化區和平街73號 連續噪音",
     "address_string": "新化區和平街73號",
-    "lat": {},
-    "long": {},
+    "lat": "23.034275",
+    "long": "120.3069617",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-12-27 13:04:00"
