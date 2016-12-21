@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612210308",
     "requested_datetime": "2016-12-21 17:20:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區安平路550巷與安平路500巷25弄交叉口 違規停車",
     "address_string": "安平路550巷安平路500巷25弄",
     "lat": "22.9981387",
     "long": "120.1722019",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-21 19:28:43",
     "expected_datetime": "2016-12-21 17:20:00"
 }
