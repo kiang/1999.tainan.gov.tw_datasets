@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612210397",
+    "requested_datetime": "2016-12-21 21:55:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區文賢路365巷18弄 違停巷弄",
+    "address_string": "北區文賢路365巷18弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-28 21:55:00"
+}
