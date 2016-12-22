@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612220044",
+    "requested_datetime": "2016-12-22 08:29:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "中西區健康路一段195號 騎樓舉發",
+    "address_string": "健康路一段195號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-12-22 12:24:39",
+    "expected_datetime": "2016-12-22 08:29:00"
+}
