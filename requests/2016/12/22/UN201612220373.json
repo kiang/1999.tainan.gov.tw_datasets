@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區東豐路305巷11號 違停",
     "address_string": "北區東豐路305巷11號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0030632",
+    "long": "120.2235823",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-12-29 20:46:00"
