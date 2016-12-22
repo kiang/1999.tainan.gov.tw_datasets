@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612220010",
     "requested_datetime": "2016-12-22 01:20:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "北區金華路5段1號騎樓舉發",
     "address_string": "(台安藥局)台南市北區台南市北區金華路5段1號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-22 10:58:33",
     "expected_datetime": "2016-12-22 01:20:00"
 }
