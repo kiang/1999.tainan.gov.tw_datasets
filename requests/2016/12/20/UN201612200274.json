@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612200274",
     "requested_datetime": "2016-12-20 16:31:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "道路維修",
-    "agency": "臺南市安南區公所",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "安南區長和路二段12巷277弄 斜對面7-11旁  坑洞",
     "address_string": "安南區長和路二段12巷277弄 斜對面7-11旁",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-22 08:25:57",
     "expected_datetime": "2016-12-27 16:31:00"
 }
