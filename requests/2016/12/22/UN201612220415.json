@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612220415",
     "requested_datetime": "2016-12-22 23:51:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "妨害安寧",
     "description": "歸仁區成功9街2號噪音舉發",
     "address_string": "台南市歸仁區成功9街2號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-23 17:46:08",
     "expected_datetime": "2016-12-22 23:51:00"
 }
