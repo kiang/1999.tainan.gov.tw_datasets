@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612230071",
+    "requested_datetime": "2016-12-23 09:51:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區西門路四段和西門路四段300巷口  違規停車",
+    "address_string": "704台灣台南市北區西門路四段西門路四段300巷",
+    "lat": "23.0128841",
+    "long": "120.2091676",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-23 09:51:00"
+}
