@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612200404",
     "requested_datetime": "2016-12-20 22:09:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局",
+    "agency": "臺南市政府警察局永康分局",
     "subproject": "違規停車",
     "description": "永康區復華八街國華街 違規停車",
     "address_string": "永康區復華八街國華街",
     "lat": "23.0151315",
     "long": "120.2456445",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-23 16:03:51",
     "expected_datetime": "2016-12-20 22:09:00"
 }
