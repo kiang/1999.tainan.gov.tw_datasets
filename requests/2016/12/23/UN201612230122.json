@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612230122",
+    "requested_datetime": "2016-12-23 11:23:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "安南區安和路二段43號，機車行 佔用道路",
+    "address_string": "安南區安和路二段43號",
+    "lat": "23.0370351",
+    "long": "120.2140231",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-30 11:23:00"
+}
