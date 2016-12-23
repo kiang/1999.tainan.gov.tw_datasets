@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201612230287",
     "requested_datetime": "2016-12-23 17:19:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "交通運輸",
@@ -9,9 +9,9 @@
     "subproject": "佔用道路",
     "description": "南區新興路350號  占用道路",
     "address_string": "台南市南區新興路350號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9753591",
+    "long": "120.1900982",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-23 18:53:39",
     "expected_datetime": "2016-12-23 17:19:00"
 }
