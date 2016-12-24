@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612240293",
+    "requested_datetime": "2016-12-24 17:52:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面掏空、塌陷",
+    "description": "東區大同路生產路 路面下陷",
+    "address_string": "東區大同路生產路",
+    "lat": "22.9646643",
+    "long": "120.2165179",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-31 17:52:00"
+}
