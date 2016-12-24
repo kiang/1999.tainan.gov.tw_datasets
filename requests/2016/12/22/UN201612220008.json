@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612220008",
     "requested_datetime": "2016-12-22 01:06:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "永康區永大一路51號場所連續噪音",
     "address_string": "台南市永康區永大一路51號",
     "lat": "23.0176682",
     "long": "120.2606173",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-24 21:45:39",
     "expected_datetime": "2016-12-22 01:06:00"
 }
