@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612240094",
+    "requested_datetime": "2016-12-24 11:13:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區中華南路二段德興路口 全家便利商店  違規停車",
+    "address_string": "南區中華南路二段德興路",
+    "lat": "22.9617129",
+    "long": "120.1925822",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-24 11:13:00"
+}
