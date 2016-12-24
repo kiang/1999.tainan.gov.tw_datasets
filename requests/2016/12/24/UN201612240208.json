@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "台南市安平區建平七街309號違規停車",
     "address_string": "台南市安平區建平七街309號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9889105",
+    "long": "120.1785931",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-12-24 16:39:00"
