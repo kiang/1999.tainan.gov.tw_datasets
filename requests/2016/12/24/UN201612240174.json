@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612240174",
+    "requested_datetime": "2016-12-24 14:54:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區中華東路三段366巷51號 違規停車",
+    "address_string": "No. 51, Lane 336, Section 3, Zhonghua E Rd, East District, Tainan City, Taiwan 701",
+    "lat": "22.97541",
+    "long": "120.2208448",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-24 14:54:00"
+}
