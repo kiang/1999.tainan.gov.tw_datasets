@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "台南市北區開元路519-17號違規停車",
     "address_string": "台南市北區開元路519-17號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0111877",
+    "long": "120.2258346",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2016-12-25 15:05:00"

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612250564",
+    "requested_datetime": "2016-12-25 16:22:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區成功路380號  違規停車",
+    "address_string": "北區成功路380號",
+    "lat": "24.8095311",
+    "long": "120.9507252",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-25 16:22:00"
+}
