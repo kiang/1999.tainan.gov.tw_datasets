@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612250539",
     "requested_datetime": "2016-12-25 15:05:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "台南市北區開元路519-17號違規停車",
     "address_string": "台南市北區開元路519-17號",
     "lat": "23.0111877",
     "long": "120.2258346",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-25 17:57:49",
     "expected_datetime": "2016-12-25 15:05:00"
 }

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612250484",
     "requested_datetime": "2016-12-25 12:49:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區樹林街二段68號對面人行道  違規停車",
     "address_string": "中西區樹林街二段68號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-25 17:43:13",
     "expected_datetime": "2016-12-25 12:49:00"
 }
