@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612250607",
+    "requested_datetime": "2016-12-25 19:13:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區西門路四段27巷53號 違規停車",
+    "address_string": "台南市北區西門路四段27巷53號",
+    "lat": "23.0073545",
+    "long": "120.2065669",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-25 19:13:00"
+}
