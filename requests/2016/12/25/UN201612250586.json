@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612250586",
+    "requested_datetime": "2016-12-25 18:00:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區立賢路一段135號 違停",
+    "address_string": "北區立賢路一段135號",
+    "lat": "23.0096501",
+    "long": "120.2040612",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-01 18:00:00"
+}
