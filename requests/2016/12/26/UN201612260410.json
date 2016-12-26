@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612260410",
+    "requested_datetime": "2016-12-26 22:28:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區東門路二段158巷36號對面 違規停車",
+    "address_string": "東區東門路二段158巷36號對面",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-02 22:28:00"
+}

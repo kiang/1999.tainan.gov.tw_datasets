@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612260357",
+    "requested_datetime": "2016-12-26 19:27:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "場所連續噪音",
+    "description": "北區和緯路二段和育德一街口，小北百貨 妨害安寧",
+    "address_string": "北區和緯路二段育德一街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-12-26 22:25:20",
+    "expected_datetime": "2017-01-02 19:27:00"
+}

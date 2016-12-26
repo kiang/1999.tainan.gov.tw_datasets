@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612260369",
+    "requested_datetime": "2016-12-26 19:57:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "東區大東夜市隔壁水土保持局前單車道 攤販佔用",
+    "address_string": "東區大東夜市",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-12-26 22:29:08",
+    "expected_datetime": "2017-01-02 19:57:00"
+}
