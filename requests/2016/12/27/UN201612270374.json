@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612270374",
+    "requested_datetime": "2016-12-27 21:37:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區林森路一段260號 違規停車",
+    "address_string": "台南市東區林森路一段260號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2016-12-27 22:35:35",
+    "expected_datetime": "2016-12-27 21:37:00"
+}
