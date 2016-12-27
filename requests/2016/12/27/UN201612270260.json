@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612270260",
+    "requested_datetime": "2016-12-27 16:10:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "中西區華路三段140號 中西區忠義路三段88號 騎樓佔用",
+    "address_string": "中西區華路三段140號 中西區忠義路三段88號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-03 16:10:00"
+}
