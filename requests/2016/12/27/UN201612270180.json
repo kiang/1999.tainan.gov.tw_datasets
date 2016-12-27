@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612270180",
     "requested_datetime": "2016-12-27 13:17:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區開元路307號 正對面違規停車",
     "address_string": "北區開元路307號",
     "lat": "23.0091195",
     "long": "120.2232603",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-27 17:03:56",
     "expected_datetime": "2016-12-27 13:17:00"
 }
