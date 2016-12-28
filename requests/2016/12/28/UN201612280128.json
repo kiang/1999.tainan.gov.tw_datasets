@@ -9,8 +9,8 @@
     "subproject": "交通疏導",
     "description": "東區裕農路與東寧路口 交通疏導",
     "address_string": "東區裕農路東寧路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9884748",
+    "long": "120.2329004",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-01-04 11:48:00"
