@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局永康分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區中正北路正北一街 違規停車",
     "address_string": "台南市永康區中正北路正北一街",
     "lat": "23.0466724",
     "long": "120.2627228",
     "service_notice": {},
-    "updated_datetime": "2016-12-26 17:38:26",
+    "updated_datetime": "2016-12-28 09:32:20",
     "expected_datetime": "2016-12-26 14:26:00"
 }

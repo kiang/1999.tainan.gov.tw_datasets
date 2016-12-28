@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612280043",
+    "requested_datetime": "2016-12-28 09:18:00",
+    "status": {},
+    "keyword": {},
+    "area": "佳里區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "佳里區佳西路525巷  路霸",
+    "address_string": "722台灣台南市佳里區佳西路525巷",
+    "lat": "23.169028956063524",
+    "long": "120.16852945089342",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-28 09:18:00"
+}
