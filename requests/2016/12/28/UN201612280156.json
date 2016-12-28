@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612280156",
+    "requested_datetime": "2016-12-28 13:57:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區永大二路88號和永大三路路口(永康圖書館前)，違規停車",
+    "address_string": "710台灣台南市永康區永大二路88號",
+    "lat": "23.0191067",
+    "long": "120.2601902",
+    "service_notice": {},
+    "updated_datetime": "2016-12-28 17:42:44",
+    "expected_datetime": "2016-12-28 13:57:00"
+}
