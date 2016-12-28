@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612280175",
+    "requested_datetime": "2016-12-28 14:36:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區民權路一段110號 違規停車",
+    "address_string": "民權路一段110號",
+    "lat": "22.9905169",
+    "long": "120.2092959",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2016-12-28 14:36:00"
+}
