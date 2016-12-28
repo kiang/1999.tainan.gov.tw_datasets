@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "安南區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第三分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安南區公學路五段697巷79號附近  違規停車",
     "address_string": "安南區公學路五段697巷79號",
     "lat": "23.07316",
     "long": "120.1591345",
     "service_notice": {},
-    "updated_datetime": "2016-12-24 23:33:20",
+    "updated_datetime": "2016-12-28 08:30:05",
     "expected_datetime": "2016-12-24 11:47:00"
 }
