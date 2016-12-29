@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612280201",
     "requested_datetime": "2016-12-28 15:34:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "安南區安明路南向，安通路口 號誌故障",
     "address_string": "安南區安明路安通路口",
     "lat": "23.0237415",
     "long": "120.1733333",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-29 17:24:54",
     "expected_datetime": "2016-12-28 15:34:00"
 }
