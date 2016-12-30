@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612300245",
     "requested_datetime": "2016-12-30 15:51:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區北門路一段107-109號 違規停車",
     "address_string": "中西區北門路一段109號",
     "lat": "22.993430496027127",
     "long": "120.21161501904908",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2016-12-30 19:16:46",
     "expected_datetime": "2016-12-30 15:51:00"
 }
