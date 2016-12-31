@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612310279",
+    "requested_datetime": "2016-12-31 18:03:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區海安路三段\/臨安路交叉口  廟會違規停車",
+    "address_string": "北區海安路三段臨安路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-07 18:03:00"
+}
