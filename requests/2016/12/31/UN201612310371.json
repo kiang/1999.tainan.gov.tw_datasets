@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201612310371",
     "requested_datetime": "2016-12-31 21:28:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "北區東豐路451巷 妨害安寧",
     "address_string": "北區東豐路451巷",
     "lat": "23.0031743",
     "long": "120.2279355",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-01 05:34:56",
     "expected_datetime": "2016-12-31 21:28:00"
 }
