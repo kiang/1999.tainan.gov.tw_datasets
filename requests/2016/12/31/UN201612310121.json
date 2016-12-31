@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201612310121",
+    "requested_datetime": "2016-12-31 11:28:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "北區公園路624巷 交通疏導",
+    "address_string": "交通疏導",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-07 11:28:00"
+}
