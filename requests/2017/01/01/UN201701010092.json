@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701010092",
+    "requested_datetime": "2017-01-01 11:47:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區和緯路一段1號靠近鐵道的轉彎紅線處  違規停車",
+    "address_string": "北區和緯路一段1號",
+    "lat": "23.009843",
+    "long": "120.2136111",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-08 11:47:00"
+}
