@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701010181",
+    "requested_datetime": "2017-01-01 16:53:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區東寧路與勝利路口 違停",
+    "address_string": "東區東寧路勝利路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-08 16:53:00"
+}
