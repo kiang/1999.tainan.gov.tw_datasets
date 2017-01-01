@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701010206",
     "requested_datetime": "2017-01-01 18:50:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區大同路一段252號  違規停車",
     "address_string": "中西區大同路一段252號",
     "lat": "22.9815896",
     "long": "120.2117084",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-01 21:40:37",
     "expected_datetime": "2017-01-01 18:50:00"
 }
