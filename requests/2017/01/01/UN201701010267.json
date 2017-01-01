@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701010267",
+    "requested_datetime": "2017-01-01 23:43:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "永康區中華路286巷內 妨害安寧",
+    "address_string": "永康區中華路286巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-01-02 00:33:35",
+    "expected_datetime": "2017-01-08 23:43:00"
+}
