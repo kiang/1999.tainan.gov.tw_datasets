@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區立賢路一段與海安路三段500巷路口 違規停車",
     "address_string": "臺南市北區立賢路一段",
-    "lat": {},
-    "long": {},
+    "lat": "23.0096404",
+    "long": "120.2036009",
     "service_notice": {},
     "updated_datetime": "2017-01-02 01:19:19",
     "expected_datetime": "2017-01-01 23:50:00"
