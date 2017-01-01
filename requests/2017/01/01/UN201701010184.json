@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "歸仁區歸仁大道100號  違停",
     "address_string": "歸仁區歸仁大道100號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9250853",
+    "long": "120.285896",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-01-08 16:56:00"
