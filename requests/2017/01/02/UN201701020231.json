@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201701020231",
     "requested_datetime": "2017-01-02 16:56:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "善化區建國路29號 違停",
     "address_string": "善化區建國路29號",
-    "lat": {},
-    "long": {},
+    "lat": "23.1273555",
+    "long": "120.2973356",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-02 19:00:12",
     "expected_datetime": "2017-01-09 16:56:00"
 }
