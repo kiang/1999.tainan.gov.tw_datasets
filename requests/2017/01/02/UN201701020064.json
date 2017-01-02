@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701020064",
+    "requested_datetime": "2017-01-02 10:07:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "安平區平通路580巷102號妨礙安寧",
+    "address_string": "安平區平通路580巷102號",
+    "lat": "22.9962317",
+    "long": "120.1705811",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-09 10:07:00"
+}
