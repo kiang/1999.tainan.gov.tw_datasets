@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區南門路57號 違停",
     "address_string": "中西區南門路57號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9899139",
+    "long": "120.2048615",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-01-09 15:25:00"

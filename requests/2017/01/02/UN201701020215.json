@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701020215",
+    "requested_datetime": "2017-01-02 16:25:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "710台灣台南市永康區正義街和永正路口(紅線轉彎處停車)**-5013    違規停車",
+    "address_string": "710台灣台南市永康區正義街和永正路口(紅線轉彎處停車)**-5013",
+    "lat": "23.0275512",
+    "long": "120.2544689",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-02 16:25:00"
+}
