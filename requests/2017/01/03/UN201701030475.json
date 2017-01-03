@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701030475",
     "requested_datetime": "2017-01-03 11:56:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "東區東門路一段與長榮路一段口 空污",
     "address_string": "東區東門路一段長榮路一段",
     "lat": "22.9866476",
     "long": "120.218752",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-03 16:37:15",
     "expected_datetime": "2017-01-10 11:56:00"
 }
