@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "東區東門路一段與長榮路一段口 空污",
     "address_string": "東區東門路一段長榮路一段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9866476",
+    "long": "120.218752",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-01-10 11:56:00"
