@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701020318",
     "requested_datetime": "2017-01-02 22:30:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新營區三民路大同路路口 違規停車",
     "address_string": "台南市新營區三民路大同路路口",
     "lat": "23.3079839",
     "long": "120.322616",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-03 07:21:15",
     "expected_datetime": "2017-01-02 22:30:00"
 }
