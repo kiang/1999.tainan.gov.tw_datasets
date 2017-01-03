@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701030763",
+    "requested_datetime": "2017-01-03 22:29:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區同平路156巷 違規停車",
+    "address_string": "安平區同平路156巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-01-03 22:47:14",
+    "expected_datetime": "2017-01-10 22:29:00"
+}
