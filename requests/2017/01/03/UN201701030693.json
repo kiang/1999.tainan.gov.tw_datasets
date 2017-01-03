@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201701030679",
-    "requested_datetime": "2017-01-03 17:55:00",
+    "service_request_id": "UN201701030693",
+    "requested_datetime": "2017-01-03 18:24:00",
     "status": {},
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "安平區華平路658號 違規停車",
+    "description": "安平區華平路658號  違規停車",
     "address_string": "安平區華平路658號",
-    "lat": "22.9959034",
-    "long": "120.1757953",
+    "lat": {},
+    "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2017-01-03 17:55:00"
+    "expected_datetime": "2017-01-03 18:24:00"
 }

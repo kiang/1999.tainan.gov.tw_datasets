@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701030690",
+    "requested_datetime": "2017-01-03 18:20:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區中華北路二段39號  違規停車",
+    "address_string": "台南市北區中華北路二段39號",
+    "lat": "23.0187544",
+    "long": "120.1952704",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-03 18:20:00"
+}
