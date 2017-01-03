@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201701030504",
     "requested_datetime": "2017-01-03 13:27:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "東區自由路三段155巷尾，建築工地 違停",
     "address_string": "東區自由路三段155巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.9811909",
+    "long": "120.2366486",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-03 14:41:28",
     "expected_datetime": "2017-01-10 13:27:00"
 }
