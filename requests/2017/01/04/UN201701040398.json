@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701040398",
     "requested_datetime": "2017-01-04 22:30:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區裕豐街96號 違規停車",
     "address_string": "台南市東區裕豐街96號",
     "lat": "22.9852642",
     "long": "120.2269131",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-05 03:47:32",
     "expected_datetime": "2017-01-04 22:30:00"
 }
