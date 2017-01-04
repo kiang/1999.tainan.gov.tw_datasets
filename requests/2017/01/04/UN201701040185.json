@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701040185",
     "requested_datetime": "2017-01-04 13:32:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "永康區小東路 不連鎖",
     "address_string": "永康區小東路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-04 17:59:09",
     "expected_datetime": "2017-01-11 13:32:00"
 }
