@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701030745",
     "requested_datetime": "2017-01-03 20:57:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "違規停車",
     "description": "南區中華南路二段315巷3弄31號前 違停",
     "address_string": "南區中華南路二段315巷3弄31號前",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-05 08:54:29",
     "expected_datetime": "2017-01-10 20:57:00"
 }
