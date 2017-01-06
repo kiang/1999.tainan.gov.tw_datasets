@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701060317",
+    "requested_datetime": "2017-01-06 17:41:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "北區公園北路96巷口 孔蓋聲響",
+    "address_string": "北區公園北路96巷口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-13 17:41:00"
+}
