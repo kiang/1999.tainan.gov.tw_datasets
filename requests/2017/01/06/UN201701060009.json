@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701060009",
     "requested_datetime": "2017-01-06 02:16:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "歸仁區中山八街15巷 妨害安寧",
     "address_string": "歸仁區中山八街15巷10 12號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-06 07:51:15",
     "expected_datetime": "2017-01-13 02:16:00"
 }
