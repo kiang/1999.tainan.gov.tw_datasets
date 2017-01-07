@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區開元路84號前 違規停車",
     "address_string": "台南市北區開元路84號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0062015",
+    "long": "120.2174157",
     "service_notice": {},
     "updated_datetime": "2017-01-06 16:29:16",
     "expected_datetime": "2017-01-06 11:33:00"
