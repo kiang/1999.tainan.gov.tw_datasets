@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701070207",
+    "requested_datetime": "2017-01-07 16:57:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "中西區青年路34號 佔用道路",
+    "address_string": "中西區青年路34號",
+    "lat": "22.9922039",
+    "long": "120.2065499",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-14 16:57:00"
+}
