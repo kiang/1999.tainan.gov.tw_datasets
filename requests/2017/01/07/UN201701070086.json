@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201701070077",
-    "requested_datetime": "2017-01-07 10:49:00",
+    "service_request_id": "UN201701070086",
+    "requested_datetime": "2017-01-07 11:12:00",
     "status": {},
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "東區東安路51號 違規停車",
-    "address_string": "台南市東區東安路51號旁紅線",
+    "description": "東區裕農路574號 違規停車",
+    "address_string": "701台南市東區裕農路574號",
     "lat": {},
     "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2017-01-07 10:49:00"
+    "expected_datetime": "2017-01-07 11:12:00"
 }
