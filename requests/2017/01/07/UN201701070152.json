@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701070152",
+    "requested_datetime": "2017-01-07 13:49:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "北區東豐路\/前鋒路交叉口   號誌故障",
+    "address_string": "北區東豐路\/前鋒路交叉口東豐路前鋒路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-14 13:49:00"
+}
