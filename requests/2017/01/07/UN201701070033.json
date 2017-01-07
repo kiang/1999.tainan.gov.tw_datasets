@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701070033",
     "requested_datetime": "2017-01-07 08:40:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局,臺南市政府警察局勤務指揮中心",
     "subproject": "號誌故障",
     "description": "安平區中華西路二段和府前一街 中華西路和建平十六街 號誌\/交通疏導",
     "address_string": "安平區中華西路二段和府前一街 中華西路和建平十六街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-07 10:38:00",
     "expected_datetime": "2017-01-14 08:40:00"
 }
