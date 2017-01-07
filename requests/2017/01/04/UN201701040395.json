@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701040395",
     "requested_datetime": "2017-01-04 22:15:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "山上區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "山上區明和里256號宏遠紡織公司 空氣汙染",
     "address_string": "山上區明和里256號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-07 20:10:58",
     "expected_datetime": "2017-01-11 22:15:00"
 }
