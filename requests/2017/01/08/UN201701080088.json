@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701080088",
     "requested_datetime": "2017-01-08 12:58:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "台南市東區龍山街55巷違規停車",
     "address_string": "台南市東區龍山街55巷",
     "lat": "22.9827793",
     "long": "120.2218624",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-08 16:14:19",
     "expected_datetime": "2017-01-08 12:58:00"
 }
