@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701080035",
+    "requested_datetime": "2017-01-08 09:41:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "東區中華東路三段260號 佔用道路",
+    "address_string": "東區中華東路三段260號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-15 09:41:00"
+}
