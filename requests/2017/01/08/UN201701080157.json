@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701080157",
+    "requested_datetime": "2017-01-08 15:55:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中華路6號-2",
+    "address_string": "永康區中華路6號-2",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-01-08 17:58:31",
+    "expected_datetime": "2017-01-15 15:55:00"
+}
