@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "台南市北區和緯路二段172號違規停車",
     "address_string": "台南市北區和緯路二段172號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0122244",
+    "long": "120.2076637",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-01-08 21:00:00"

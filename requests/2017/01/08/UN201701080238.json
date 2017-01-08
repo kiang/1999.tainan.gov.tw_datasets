@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區公園路792號車輛RBN8697，公園路591號6862ER  違規停車",
     "address_string": "台南市北區公園路792號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0116535",
+    "long": "120.2112726",
     "service_notice": {},
     "updated_datetime": "2017-01-08 21:36:27",
     "expected_datetime": "2017-01-08 20:49:00"
