@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701080227",
+    "requested_datetime": "2017-01-08 20:05:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心,臺南市停車管理處",
+    "subproject": "違規停車",
+    "description": "中西區和緯路四段95巷34號   違規停車\/紅線違停",
+    "address_string": "中西區和緯路四段95巷34號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-15 20:05:00"
+}
