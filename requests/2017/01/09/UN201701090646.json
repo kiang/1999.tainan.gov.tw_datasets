@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701090646",
     "requested_datetime": "2017-01-09 19:30:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區建平七街58巷43號 違規停車",
     "address_string": "台南市安平區建平七街58巷43號",
     "lat": "22.9887374",
     "long": "120.1834068",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-09 22:35:53",
     "expected_datetime": "2017-01-09 19:30:00"
 }
