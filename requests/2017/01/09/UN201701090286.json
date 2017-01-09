@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701090286",
     "requested_datetime": "2017-01-09 00:29:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "安南區北安路二段528號 噪音",
     "address_string": "安南區北安路二段528號",
     "lat": "23.0370562",
     "long": "120.2030636",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-09 18:11:38",
     "expected_datetime": "2017-01-16 00:29:00"
 }
