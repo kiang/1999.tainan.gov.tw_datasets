@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701090445",
+    "requested_datetime": "2017-01-09 12:48:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "704台灣台南市北區北門路二段107號 違規停車",
+    "address_string": "704台灣台南市北區北門路二段107號消防栓紅線停車",
+    "lat": "22.9996029",
+    "long": "120.2124592",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-09 12:48:00"
+}
