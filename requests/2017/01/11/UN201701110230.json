@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新營區中正路35巷27號 違規停車",
     "address_string": "台南市新營區中正路35巷27號",
-    "lat": {},
-    "long": {},
+    "lat": "23.312912",
+    "long": "120.315127",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-01-11 15:30:00"

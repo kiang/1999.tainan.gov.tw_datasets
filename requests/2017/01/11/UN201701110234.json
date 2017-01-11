@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701110234",
+    "requested_datetime": "2017-01-11 15:35:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "北區開南街 寶仁國小　交通疏導",
+    "address_string": "北區開南街寶仁國小",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-01-11 17:00:17",
+    "expected_datetime": "2017-01-18 15:35:00"
+}
