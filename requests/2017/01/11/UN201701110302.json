@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701110302",
+    "requested_datetime": "2017-01-11 18:59:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區富北街7-1號 違規停車",
+    "address_string": "台南市北區富北街7-1號",
+    "lat": "22.9984154",
+    "long": "120.2113284",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-11 18:59:00"
+}
