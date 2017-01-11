@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "善化區光明路和中正路口 空氣污染",
     "address_string": "善化區光明路中正路",
-    "lat": {},
-    "long": {},
+    "lat": "23.130135",
+    "long": "120.2939549",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-01-18 19:47:00"

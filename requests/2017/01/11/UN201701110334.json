@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701110334",
+    "requested_datetime": "2017-01-11 20:33:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "歸仁區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "歸仁區長榮路三段和大武路三段交叉口 違停",
+    "address_string": "歸仁區長榮路三段大武路三段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-18 20:33:00"
+}
