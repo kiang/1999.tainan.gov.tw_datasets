@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701120236",
+    "requested_datetime": "2017-01-12 16:06:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區長榮路三段133號 違規停車",
+    "address_string": "701台灣台南市東區長榮路三段133號",
+    "lat": "22.9952077",
+    "long": "120.2216563",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-12 16:06:00"
+}
