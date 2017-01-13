@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區臨安路成功路 違規停車",
     "address_string": "北區臨安路成功路",
     "lat": "23.0021115",
     "long": "120.19522",
     "service_notice": {},
-    "updated_datetime": "2017-01-13 11:46:37",
+    "updated_datetime": "2017-01-13 18:02:39",
     "expected_datetime": "2017-01-20 08:27:00"
 }
