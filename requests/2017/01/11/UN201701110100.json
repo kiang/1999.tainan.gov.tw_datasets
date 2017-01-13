@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區中正路122-124號 違規停車",
     "address_string": "台南市中西區中正路122-124號",
     "lat": "22.9927399",
     "long": "120.1997347",
     "service_notice": {},
-    "updated_datetime": "2017-01-11 15:48:31",
+    "updated_datetime": "2017-01-13 11:15:13",
     "expected_datetime": "2017-01-11 11:10:00"
 }
