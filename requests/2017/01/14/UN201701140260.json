@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701140260",
     "requested_datetime": "2017-01-14 17:44:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "安平區安平路590號 騎樓舉發",
     "address_string": "安平區安平路590號",
     "lat": "22.9987503",
     "long": "120.1696348",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-15 06:59:32",
     "expected_datetime": "2017-01-14 17:44:00"
 }
