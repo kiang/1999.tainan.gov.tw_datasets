@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "歸仁區中正南路二段跟中正南路二段50巷口　違停",
     "address_string": "歸仁區中正南路二段50巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.9276552",
+    "long": "120.2766499",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-01-21 15:12:00"
