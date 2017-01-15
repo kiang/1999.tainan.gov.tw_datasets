@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "台南市安平區安平路802號違規停車",
     "address_string": "台南市安平區安平路802號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0002941",
+    "long": "120.160144",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-01-15 16:59:00"
