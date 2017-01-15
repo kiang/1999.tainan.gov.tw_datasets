@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701150467",
+    "requested_datetime": "2017-01-15 11:48:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區北門路二段591號(活動中心)週邊  違規停車",
+    "address_string": "北區北門路二段591號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-22 11:48:00"
+}
