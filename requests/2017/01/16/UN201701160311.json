@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701160311",
+    "requested_datetime": "2017-01-16 16:49:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "永康區正北五路99號房子後面道路 路面坑洞",
+    "address_string": "永康區正北五路99號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-23 16:49:00"
+}
