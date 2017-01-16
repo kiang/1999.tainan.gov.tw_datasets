@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701160094",
+    "requested_datetime": "2017-01-16 10:12:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "中西區健康路一段170巷1弄10號一樓 佔用道路",
+    "address_string": "中西區健康路一段170巷1弄10號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-23 10:12:00"
+}
