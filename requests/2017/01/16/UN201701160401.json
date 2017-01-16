@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區中華東路二段195號 違規停車",
     "address_string": "台南市東區中華東路二段195號",
-    "lat": {},
-    "long": {},
+    "lat": "22.984385",
+    "long": "120.232649",
     "service_notice": {},
     "updated_datetime": "2017-01-17 00:20:28",
     "expected_datetime": "2017-01-16 22:42:00"
