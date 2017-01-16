@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701160365",
+    "requested_datetime": "2017-01-16 19:41:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "大內區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "走馬瀨農場 妨害安寧",
+    "address_string": "走馬瀨農場",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-01-16 20:41:42",
+    "expected_datetime": "2017-01-23 19:41:00"
+}

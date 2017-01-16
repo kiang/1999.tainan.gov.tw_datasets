@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701160367",
+    "requested_datetime": "2017-01-16 19:45:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區永華路二段35號 違規停車",
+    "address_string": "708台灣台南市安平區永華路二段35號",
+    "lat": "22.9895655",
+    "long": "120.1856748",
+    "service_notice": {},
+    "updated_datetime": "2017-01-16 20:36:46",
+    "expected_datetime": "2017-01-16 19:45:00"
+}

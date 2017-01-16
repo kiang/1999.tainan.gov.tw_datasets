@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701160381",
+    "requested_datetime": "2017-01-16 20:30:00",
+    "status": {},
+    "keyword": {},
+    "area": "善化區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "善化區光復路810號違規停車",
+    "address_string": "台南市善化區光復路810號",
+    "lat": "23.1359356",
+    "long": "120.2856292",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-16 20:30:00"
+}
