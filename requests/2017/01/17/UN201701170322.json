@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701170322",
     "requested_datetime": "2017-01-17 23:48:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "南區鹽埕路103巷38弄14號 噪音舉發",
     "address_string": "702台灣台南市南區鹽埕路103巷38弄14號",
     "lat": "22.9661016",
     "long": "120.1874478",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-18 03:28:40",
     "expected_datetime": "2017-01-17 23:48:00"
 }
