@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701180337",
+    "requested_datetime": "2017-01-18 23:09:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "安南長溪路二段570巷81弄14-9號 路面坑洞",
+    "address_string": "安南長溪路二段570巷81弄14-9號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-25 23:09:00"
+}
