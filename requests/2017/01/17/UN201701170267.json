@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701170267",
     "requested_datetime": "2017-01-17 18:40:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌秒差調整",
     "description": "南區國民路和南門路交叉口、民生綠園圓環轉公園路開始一直到成功路 號誌不連鎖",
     "address_string": "南區國民路南門路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-18 17:15:43",
     "expected_datetime": "2017-01-24 18:40:00"
 }

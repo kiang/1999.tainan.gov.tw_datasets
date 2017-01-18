@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701170260",
     "requested_datetime": "2017-01-17 18:18:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌秒差調整",
     "description": "中西區西門路一段，從新光三越開始一直到成功路 號誌不連鎖",
     "address_string": "中西區西門路一段",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-18 17:12:19",
     "expected_datetime": "2017-01-24 18:18:00"
 }
