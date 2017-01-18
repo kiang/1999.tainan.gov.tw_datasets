@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701180138",
+    "requested_datetime": "2017-01-18 12:25:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區東門路一段330號違規停車",
+    "address_string": "台南市東區東門路ㄧ段330號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-01-18 18:49:00",
+    "expected_datetime": "2017-01-18 12:25:00"
+}
