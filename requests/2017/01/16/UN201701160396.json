@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701160396",
     "requested_datetime": "2017-01-16 21:33:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "中西區樹林街二段288號 路燈故障",
     "address_string": "700台灣台南市中西區樹林街二段288號",
     "lat": "22.9863478",
     "long": "120.2014574",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-19 09:17:12",
     "expected_datetime": "2017-01-16 21:33:00"
 }
