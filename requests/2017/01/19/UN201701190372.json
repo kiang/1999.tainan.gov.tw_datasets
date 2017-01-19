@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701190372",
+    "requested_datetime": "2017-01-19 08:01:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌秒差調整",
+    "description": "永康區大灣交流道往小東路      紅綠燈號誌不連鎖",
+    "address_string": "永康區大灣交流道小東路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-26 08:01:00"
+}
