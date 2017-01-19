@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區中華路835號 違規停車",
     "address_string": "台南市永康區中華路835號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0193991",
+    "long": "120.2244201",
     "service_notice": {},
     "updated_datetime": "2017-01-19 22:38:37",
     "expected_datetime": "2017-01-19 20:33:00"
