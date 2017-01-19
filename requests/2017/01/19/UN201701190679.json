@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701190679",
     "requested_datetime": "2017-01-19 19:51:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "南區中華南路一段和中華南路一段20巷交叉口 違停",
     "address_string": "南區中華南路一段中華南路一段20巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.9723178",
+    "long": "120.2142199",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-19 22:30:54",
     "expected_datetime": "2017-01-26 19:51:00"
 }
