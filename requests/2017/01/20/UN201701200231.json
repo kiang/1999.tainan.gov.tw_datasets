@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201701200231",
     "requested_datetime": "2017-01-20 16:23:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "騎樓舉發",
@@ -12,6 +12,6 @@
     "lat": "23.1320504",
     "long": "120.2952307",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-21 04:03:14",
     "expected_datetime": "2017-01-27 16:23:00"
 }
