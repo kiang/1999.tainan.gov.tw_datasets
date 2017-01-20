@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701200015",
     "requested_datetime": "2017-01-20 07:30:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "永康區永大一路237號對面 妨害安寧",
     "address_string": "永康區永大一路237號對面",
     "lat": "23.019267",
     "long": "120.2619192",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-20 10:31:01",
     "expected_datetime": "2017-01-27 07:30:00"
 }

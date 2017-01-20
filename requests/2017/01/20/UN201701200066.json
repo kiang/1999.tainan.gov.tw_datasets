@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701200066",
+    "requested_datetime": "2017-01-20 10:36:00",
+    "status": {},
+    "keyword": {},
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "新營區長春街113巷19號 違規停車",
+    "address_string": "730台灣台南市新營區長春街113巷19號",
+    "lat": "23.3006053",
+    "long": "120.3108914",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-20 10:36:00"
+}
