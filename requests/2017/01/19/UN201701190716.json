@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701190716",
     "requested_datetime": "2017-01-19 22:56:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "南區福吉五街50號 路燈故障",
     "address_string": "702台灣台南市南區福吉五街50號",
     "lat": "22.982862714013599",
     "long": "120.19194717486880",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-20 08:58:01",
     "expected_datetime": "2017-01-19 22:56:00"
 }

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701200021",
+    "requested_datetime": "2017-01-20 08:12:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區開元路289巷口  違停",
+    "address_string": "北區開元路289巷",
+    "lat": "23.0076695",
+    "long": "120.2208365",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-27 08:12:00"
+}
