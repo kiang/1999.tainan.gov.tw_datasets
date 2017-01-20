@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701200010",
+    "requested_datetime": "2017-01-20 05:04:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "場所連續噪音",
+    "description": "北區北園街80巷7號 妨害安寧",
+    "address_string": "704台灣台南市北區北園街80巷7號",
+    "lat": "23.0126997",
+    "long": "120.2234596",
+    "service_notice": {},
+    "updated_datetime": "2017-01-20 07:23:07",
+    "expected_datetime": "2017-01-20 05:04:00"
+}
