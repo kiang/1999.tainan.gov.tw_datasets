@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701200293",
+    "requested_datetime": "2017-01-20 18:53:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安南區安中二街56巷口 違停",
+    "address_string": "安南區安中二街56巷口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-27 18:53:00"
+}
