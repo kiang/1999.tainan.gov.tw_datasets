@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701210148",
+    "requested_datetime": "2017-01-21 13:36:00",
+    "status": {},
+    "keyword": {},
+    "area": "東 區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌故障",
+    "description": "東門路，長榮路口 號誌故障",
+    "address_string": "東區東門路一段368號",
+    "lat": "22.986601058061755",
+    "long": "120.21885875612499",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-21 13:36:00"
+}
