@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701210025",
     "requested_datetime": "2017-01-21 07:44:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "北區公園路798號 妨害安寧",
     "address_string": "北區公園路798號",
     "lat": "23.0117179",
     "long": "120.2112982",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-21 16:38:05",
     "expected_datetime": "2017-01-28 07:44:00"
 }
