@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701200311",
     "requested_datetime": "2017-01-20 20:08:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "善化區建國路往興華路方向(善化逸仙禮儀公司前至全家便利商店)，違規停車",
     "address_string": "善化區建國路興華路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-21 07:18:58",
     "expected_datetime": "2017-01-20 20:08:00"
 }
