@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701220061",
+    "requested_datetime": "2017-01-22 11:01:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "南區喜樹路146巷5號 妨礙安寧",
+    "address_string": "南區喜樹路146巷5號",
+    "lat": "22.9435254",
+    "long": "120.1792709",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-29 11:01:00"
+}
