@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701220246",
     "requested_datetime": "2017-01-22 23:03:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "台南市東區中華東路三段452巷8弄42號違規停車",
     "address_string": "台南市東區中華東路三段452巷8弄42號",
     "lat": "22.9740654",
     "long": "120.2202469",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-23 07:46:49",
     "expected_datetime": "2017-01-22 23:03:00"
 }
