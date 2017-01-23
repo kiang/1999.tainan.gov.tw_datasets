@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區健康路一段260號 違停",
     "address_string": "中西區健康路一段260號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9814396",
+    "long": "120.2042852",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-01-30 12:35:00"
