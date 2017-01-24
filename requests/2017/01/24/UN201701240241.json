@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701240241",
     "requested_datetime": "2017-01-24 16:04:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新營區東興六街沿線 違規停車",
     "address_string": "新營區東興六街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-24 22:38:52",
     "expected_datetime": "2017-01-31 16:04:00"
 }
