@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701240078",
     "requested_datetime": "2017-01-24 09:58:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "南區金華路一段484巷240弄17號 噪音舉發",
     "address_string": "南區金華路一段484巷240弄17號",
     "lat": "22.96851",
     "long": "120.194684",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-24 14:35:41",
     "expected_datetime": "2017-01-31 09:58:00"
 }
