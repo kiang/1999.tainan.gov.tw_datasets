@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區中正南路79號 違規停車",
     "address_string": "永康區中正南路79號",
-    "lat": {},
-    "long": {},
+    "lat": "23.021614",
+    "long": "120.21604",
     "service_notice": {},
     "updated_datetime": "2017-01-25 16:50:18",
     "expected_datetime": "2017-02-01 15:00:00"

@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區中正路84號    違規停車",
     "address_string": "中西區中正路84號",
-    "lat": {},
-    "long": {},
+    "lat": "22.992509",
+    "long": "120.200966",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-02-01 16:49:00"
