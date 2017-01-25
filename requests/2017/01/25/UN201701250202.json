@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701250202",
+    "requested_datetime": "2017-01-25 14:45:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "東區東門路三段99號 空汙",
+    "address_string": "東區東門路三段99號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-02-01 14:45:00"
+}
