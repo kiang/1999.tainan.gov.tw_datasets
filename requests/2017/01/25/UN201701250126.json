@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701250126",
+    "requested_datetime": "2017-01-25 12:02:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區成功路207號    違規停車",
+    "address_string": "北區成功路207號",
+    "lat": "24.812446",
+    "long": "120.953225",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-02-01 12:02:00"
+}
