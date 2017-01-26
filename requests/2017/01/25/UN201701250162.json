@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701250162",
     "requested_datetime": "2017-01-25 13:40:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "永康區王行路866巷7弄7號 空汙",
     "address_string": "永康區王行路866巷7弄7號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-26 09:48:02",
     "expected_datetime": "2017-02-01 13:40:00"
 }
