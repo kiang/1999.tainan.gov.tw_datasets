@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701270003",
+    "requested_datetime": "2017-01-27 00:33:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "北區成功路40巷6號 噪音舉發",
+    "address_string": "704台灣台南市北區成功路40巷6號",
+    "lat": "22.998777619999913",
+    "long": "120.21207666999987",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-27 00:33:00"
+}
