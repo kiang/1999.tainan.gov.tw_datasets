@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "仁德區中山路711號 違規停車",
     "address_string": "台南市仁德區中山路711號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9721967",
+    "long": "120.246959",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-01-26 14:23:00"
