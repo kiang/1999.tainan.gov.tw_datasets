@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201701250035",
     "requested_datetime": "2017-01-25 08:22:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "民生管線",
@@ -12,6 +12,6 @@
     "lat": "23.0047696",
     "long": "120.2174635",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-26 17:13:11",
     "expected_datetime": "2017-01-25 08:22:00"
 }
