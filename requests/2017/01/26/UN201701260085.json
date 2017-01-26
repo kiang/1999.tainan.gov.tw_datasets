@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701260085",
+    "requested_datetime": "2017-01-26 10:53:00",
+    "status": {},
+    "keyword": {},
+    "area": "鹽水區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "鹽水區民生街39號 違規停車",
+    "address_string": "鹽水區民生街39號",
+    "lat": "23.322690856540994",
+    "long": "120.26744819021303",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-01-26 10:53:00"
+}
