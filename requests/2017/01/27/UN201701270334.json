@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區立德十路10幾號 違停",
     "address_string": "東區立德十路10幾號",
-    "lat": {},
-    "long": {},
+    "lat": "22.978047",
+    "long": "120.2138205",
     "service_notice": {},
     "updated_datetime": "2017-01-27 19:28:21",
     "expected_datetime": "2017-02-03 18:45:00"

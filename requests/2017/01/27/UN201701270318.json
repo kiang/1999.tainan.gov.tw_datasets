@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701270318",
+    "requested_datetime": "2017-01-27 17:57:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區裕農路448之1號  違規停車",
+    "address_string": "東區裕農路448之1號",
+    "lat": "22.9879321",
+    "long": "120.2318539",
+    "service_notice": {},
+    "updated_datetime": "2017-01-27 21:56:42",
+    "expected_datetime": "2017-01-27 17:57:00"
+}
