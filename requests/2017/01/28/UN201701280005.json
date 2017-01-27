@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701280005",
     "requested_datetime": "2017-01-28 00:09:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "永康區復興路26巷39號電鍍廠 妨害安寧",
     "address_string": "永康區復興路26巷39號",
     "lat": "23.0014291",
     "long": "120.249943",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-28 04:26:08",
     "expected_datetime": "2017-02-04 00:09:00"
 }

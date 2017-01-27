@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701280001",
     "requested_datetime": "2017-01-28 00:01:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "永康區新行街262-284號 噪音舉發",
     "address_string": "710台灣台南市永康區新行街262號",
     "lat": "23.0446508",
     "long": "120.2423029",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-28 04:22:40",
     "expected_datetime": "2017-01-28 00:01:00"
 }
