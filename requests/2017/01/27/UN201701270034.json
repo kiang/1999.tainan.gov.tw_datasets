@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701270034",
+    "requested_datetime": "2017-01-27 08:32:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區府連路204巷17弄路口   違規停車",
+    "address_string": "東區府連路204巷17弄",
+    "lat": "22.9847012",
+    "long": "120.2135803",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-02-03 08:32:00"
+}
