@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201701280184",
     "requested_datetime": "2017-01-28 19:31:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
@@ -9,9 +9,9 @@
     "subproject": "妨害安寧",
     "description": "北區富北街7號國稅局前噪音舉發",
     "address_string": "北區富北街7號國稅局前",
-    "lat": {},
-    "long": {},
+    "lat": "22.9983148",
+    "long": "120.211229",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-28 20:17:02",
     "expected_datetime": "2017-01-28 19:31:00"
 }

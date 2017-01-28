@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201701280185",
     "requested_datetime": "2017-01-28 19:32:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
@@ -9,9 +9,9 @@
     "subproject": "妨害安寧",
     "description": "永康區富強路二段189巷66號附近噪音舉發",
     "address_string": "710台南市永康區富強路二段189巷66號附近",
-    "lat": {},
-    "long": {},
+    "lat": "23.0249521",
+    "long": "120.2714217",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-28 20:53:12",
     "expected_datetime": "2017-01-28 19:32:00"
 }
