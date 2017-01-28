@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701290005",
+    "requested_datetime": "2017-01-29 00:58:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "新營區民治路和民權路交叉口、及大同路72巷12號旁 違停",
+    "address_string": "新營區民治路民權路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-02-05 00:58:00"
+}
