@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新市區中山路213號(麥當勞)  違規停車",
     "address_string": "新市區中山路213號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0683374",
+    "long": "120.2921573",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-01-31 12:06:00"
