@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201701310273",
+    "requested_datetime": "2017-01-31 19:07:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "鹽水區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "鹽水區武廟路1-1號  違規停車",
+    "address_string": "鹽水區武廟路1-1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-02-07 19:07:00"
+}
