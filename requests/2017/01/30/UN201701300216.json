@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701300216",
     "requested_datetime": "2017-01-30 18:06:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "交通疏導",
     "description": "中西區府前路二段與海安路一段口 交通疏導",
     "address_string": "中西區府前路二段海安路一段",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-01-31 07:13:02",
     "expected_datetime": "2017-02-06 18:06:00"
 }
