@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702010266",
     "requested_datetime": "2017-02-01 23:09:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "702台灣台南市南區體育路41巷34之1號 妨礙安寧",
     "address_string": "702台灣台南市南區體育路41巷34之1號",
     "lat": "22.9797387",
     "long": "120.2085815",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-02 05:15:05",
     "expected_datetime": "2017-02-01 23:09:00"
 }
