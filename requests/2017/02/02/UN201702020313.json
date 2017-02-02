@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702020313",
+    "requested_datetime": "2017-02-02 19:24:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區夏林路上保安到大勇街路段 違停",
+    "address_string": "中西區夏林路上保安到大勇街路段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-02-09 19:24:00"
+}
