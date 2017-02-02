@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區北成路153號前、及斜對面和北區北安路和北成路口 路燈不亮",
     "address_string": "北區北成路153號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0200438",
+    "long": "120.2077312",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-02-09 20:27:00"
