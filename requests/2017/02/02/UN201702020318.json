@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702020318",
     "requested_datetime": "2017-02-02 19:53:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "北區公園路145號",
     "address_string": "北區公園路145號",
     "lat": "22.998343",
     "long": "120.2069412",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-03 00:35:52",
     "expected_datetime": "2017-02-09 19:53:00"
 }
