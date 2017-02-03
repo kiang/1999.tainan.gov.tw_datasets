@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702030017",
     "requested_datetime": "2017-02-03 07:56:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區長榮路一段135巷與府連東路22巷路口 違規停車",
     "address_string": "長榮路一段135巷與府連東路22巷路口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-03 10:55:38",
     "expected_datetime": "2017-02-03 07:56:00"
 }
