@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702010264",
     "requested_datetime": "2017-02-01 22:09:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "安南區安明路二段 路面散落物",
     "address_string": "安南區安明路二段",
     "lat": "23.0266914",
     "long": "120.1706573",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-03 08:28:00",
     "expected_datetime": "2017-02-08 22:09:00"
 }
