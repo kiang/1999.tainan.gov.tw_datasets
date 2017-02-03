@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201701300231",
     "requested_datetime": "2017-01-30 18:53:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "民生管線",
-    "agency": "臺南市政府聯合服務中心",
+    "agency": "臺南市政府水利局",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "東區府連地下道 漏水、停水、消防栓漏水或損壞",
     "address_string": {},
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-03 09:41:43",
     "expected_datetime": "2017-02-06 18:53:00"
 }
