@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "安平區永華三街和永華路二段 閃黃燈",
     "address_string": "安平區永華三街永華路二段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9896905",
+    "long": "120.1812764",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-02-10 11:11:00"
