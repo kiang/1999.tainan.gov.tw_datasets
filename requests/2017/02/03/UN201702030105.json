@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702030105",
     "requested_datetime": "2017-02-03 11:17:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "東區北門路二段22號 佔用道路",
     "address_string": "東區北門路二段22號",
     "lat": "23.0001915",
     "long": "120.2130301",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-03 16:32:44",
     "expected_datetime": "2017-02-10 11:17:00"
 }
