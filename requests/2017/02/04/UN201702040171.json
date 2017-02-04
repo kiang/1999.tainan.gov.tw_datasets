@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區西華南街跟成功路 違停",
     "address_string": "中西區西華南街跟成功路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9976603",
+    "long": "120.2105929",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-02-11 17:21:00"
