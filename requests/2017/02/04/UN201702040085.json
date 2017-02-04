@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702040085",
+    "requested_datetime": "2017-02-04 12:13:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區莊敬路25號對面 違規停車",
+    "address_string": "東區莊敬路25號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-02-04 13:39:03",
+    "expected_datetime": "2017-02-11 12:13:00"
+}
