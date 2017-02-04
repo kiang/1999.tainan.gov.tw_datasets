@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702040001",
     "requested_datetime": "2017-02-04 01:08:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "台南市東區東寧路201巷45號 妨礙安寧",
     "address_string": "台南市東區東寧路201巷45號",
     "lat": "22.9920231",
     "long": "120.2255762",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-04 07:44:21",
     "expected_datetime": "2017-02-04 01:08:00"
 }
