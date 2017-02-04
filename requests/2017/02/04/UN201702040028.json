@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702040028",
+    "requested_datetime": "2017-02-04 09:11:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區安和路五段84巷36弄77號    違規停車",
+    "address_string": "北區安和路五段84巷36弄77號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-02-11 09:11:00"
+}
