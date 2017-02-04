@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702050007",
     "requested_datetime": "2017-02-05 00:21:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "仁德區仁義三街252號妨礙安寧",
     "address_string": "仁德區仁義三街252號",
     "lat": "22.9697041",
     "long": "120.2579657",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-05 01:37:14",
     "expected_datetime": "2017-02-05 00:21:00"
 }
