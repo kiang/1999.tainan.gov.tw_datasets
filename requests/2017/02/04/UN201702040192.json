@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702040192",
     "requested_datetime": "2017-02-04 18:12:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區裕農路499號 違規停車",
     "address_string": "東區裕農路499號",
     "lat": "22.9882215",
     "long": "120.2322739",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-04 20:28:07",
     "expected_datetime": "2017-02-04 18:12:00"
 }
