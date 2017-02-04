@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702040126",
+    "requested_datetime": "2017-02-04 14:26:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "中西區海安路\/府前路口  交通疏導",
+    "address_string": "中西區海安路府前路",
+    "lat": "22.9909764",
+    "long": "120.1954346",
+    "service_notice": {},
+    "updated_datetime": "2017-02-04 15:56:05",
+    "expected_datetime": "2017-02-11 14:26:00"
+}
