@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702050218",
     "requested_datetime": "2017-02-05 21:35:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "安南區大安街805號隔壁空地前方 佔用道路",
     "address_string": "台南市安南區大安街805號",
     "lat": "23.0463357",
     "long": "121.1651326",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-05 22:25:19",
     "expected_datetime": "2017-02-05 21:35:00"
 }
