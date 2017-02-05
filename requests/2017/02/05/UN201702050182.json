@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區和緯路四段，好市多 違停",
     "address_string": "北區和緯路四段",
-    "lat": {},
-    "long": {},
+    "lat": "23.008397",
+    "long": "120.1900374",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-02-12 18:18:00"
