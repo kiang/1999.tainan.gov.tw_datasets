@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702050234",
+    "requested_datetime": "2017-02-05 23:01:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "中西區金華路三段209號5樓或6樓，今海派酒店 妨害安寧",
+    "address_string": "中西區金華路三段209號",
+    "lat": "22.9944796",
+    "long": "120.193335",
+    "service_notice": {},
+    "updated_datetime": "2017-02-06 00:41:37",
+    "expected_datetime": "2017-02-12 23:01:00"
+}

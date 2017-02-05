@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702050239",
+    "requested_datetime": "2017-02-05 23:33:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府衛生局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "永康區永大路二段永達醫院 妨害安寧",
+    "address_string": "永康區永達醫院",
+    "lat": "23.022175",
+    "long": "120.2614491",
+    "service_notice": {},
+    "updated_datetime": "2017-02-06 00:38:06",
+    "expected_datetime": "2017-02-12 23:33:00"
+}
