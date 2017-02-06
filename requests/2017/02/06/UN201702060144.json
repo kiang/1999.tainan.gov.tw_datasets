@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702060144",
     "requested_datetime": "2017-02-06 12:21:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "北區大武街219號路口 號誌不亮",
     "address_string": "大武街219號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-06 17:14:39",
     "expected_datetime": "2017-02-06 12:21:00"
 }
