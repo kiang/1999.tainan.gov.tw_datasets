@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區光明街201巷 路燈故障",
     "address_string": "台南市東區光明街201巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.9960413",
+    "long": "120.2293678",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-02-06 22:15:00"
