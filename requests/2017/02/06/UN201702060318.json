@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702060318",
+    "requested_datetime": "2017-02-06 19:55:00",
+    "status": {},
+    "keyword": {},
+    "area": "麻豆區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "麻豆區仁愛路11-19號 違規停車",
+    "address_string": "台南市麻豆區仁愛路11-19號",
+    "lat": "23.182774",
+    "long": "120.246245",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-02-06 19:55:00"
+}
