@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區中華南路二段239-241號 違規停車",
     "address_string": "台南市南區中華南路二段239號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9614681",
+    "long": "120.1882598",
     "service_notice": {},
     "updated_datetime": "2017-02-07 15:28:40",
     "expected_datetime": "2017-02-07 13:15:00"
