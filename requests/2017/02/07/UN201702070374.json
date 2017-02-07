@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702070374",
     "requested_datetime": "2017-02-07 21:46:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "鹽水區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "鹽水區西門路2號 違規停車",
     "address_string": "鹽水區西門路2號",
     "lat": "23.3173193",
     "long": "120.2666789",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-08 05:40:37",
     "expected_datetime": "2017-02-07 21:46:00"
 }
