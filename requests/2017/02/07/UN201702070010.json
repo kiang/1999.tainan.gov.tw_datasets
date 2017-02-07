@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702070010",
     "requested_datetime": "2017-02-07 01:21:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "中西區西門路三段260號12樓  場所連續噪音",
     "address_string": "北區西門路三段260號",
     "lat": "23.0042826",
     "long": "120.2048357",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-07 13:47:19",
     "expected_datetime": "2017-02-14 01:21:00"
 }

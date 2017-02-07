@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702060308",
     "requested_datetime": "2017-02-06 19:22:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "新營區中正路與中華路口  號誌故障",
     "address_string": "新營區中正路與中華路口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-07 13:31:29",
     "expected_datetime": "2017-02-13 19:22:00"
 }
