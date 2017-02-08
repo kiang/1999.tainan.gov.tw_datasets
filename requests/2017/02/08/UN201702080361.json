@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區和平里活動中心 違停",
     "address_string": "東區和平里活動中心",
-    "lat": "22.9778247",
-    "long": "120.2330825",
+    "lat": {},
+    "long": {},
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-02-15 22:21:00"
