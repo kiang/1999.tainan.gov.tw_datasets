@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702080265",
+    "requested_datetime": "2017-02-08 16:53:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區裕農路930號  違規停車",
+    "address_string": "東區裕農路930號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-02-08 17:40:39",
+    "expected_datetime": "2017-02-15 16:53:00"
+}
