@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區和緯路五段76號 違規停車",
     "address_string": "北區和緯路五段76號",
-    "lat": "23.0060826",
-    "long": "120.1841996",
+    "lat": {},
+    "long": {},
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-02-08 18:41:00"
