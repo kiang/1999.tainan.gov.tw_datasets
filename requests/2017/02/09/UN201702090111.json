@@ -8,9 +8,9 @@
     "agency": "台南市政府",
     "subproject": "違規停車",
     "description": "中西區金華路三段205號違規停車",
-    "address_string": "中西區金華路三段205號附近的公車停靠站",
-    "lat": {},
-    "long": {},
+    "address_string": "中西區金華路三段205號",
+    "lat": "22.9944527",
+    "long": "120.1932237",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-02-09 11:58:00"
