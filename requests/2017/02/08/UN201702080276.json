@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702080276",
     "requested_datetime": "2017-02-08 17:17:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "環境髒亂",
     "description": "永康區復興路 環境髒亂",
     "address_string": "永康區復興路",
     "lat": "22.9986627",
     "long": "120.2454263",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-09 14:43:31",
     "expected_datetime": "2017-02-15 17:17:00"
 }
