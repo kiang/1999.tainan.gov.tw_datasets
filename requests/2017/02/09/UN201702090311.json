@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702090311",
+    "requested_datetime": "2017-02-09 20:47:00",
+    "status": {},
+    "keyword": {},
+    "area": "鹽水區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "台南市鹽水區武廟路87號 佔用道路",
+    "address_string": "737台灣台南市鹽水區武廟路87號",
+    "lat": "23.3239532",
+    "long": "120.2658758",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-02-09 20:47:00"
+}
