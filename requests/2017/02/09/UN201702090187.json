@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702090187",
+    "requested_datetime": "2017-02-09 14:53:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "中西區海安路和正興街口 占用道路",
+    "address_string": "中西區海安路和正興街口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-02-09 16:00:20",
+    "expected_datetime": "2017-02-16 14:53:00"
+}
