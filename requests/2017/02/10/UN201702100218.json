@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區西和路181號 違停",
     "address_string": "中西區西和路181號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0019049",
+    "long": "120.1907137",
     "service_notice": {},
     "updated_datetime": "2017-02-10 18:19:56",
     "expected_datetime": "2017-02-17 16:26:00"

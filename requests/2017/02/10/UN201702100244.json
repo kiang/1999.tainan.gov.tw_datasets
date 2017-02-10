@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "北區和緯路二段 空氣汙染",
     "address_string": "北區和緯路二段",
-    "lat": {},
-    "long": {},
+    "lat": "23.012179",
+    "long": "120.2057702",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-02-17 15:20:00"
