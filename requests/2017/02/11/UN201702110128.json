@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "安平區怡平路與永華三街口 號誌不亮",
     "address_string": "安平區怡平路永華三街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9928627",
+    "long": "120.1816995",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-02-18 10:06:00"
