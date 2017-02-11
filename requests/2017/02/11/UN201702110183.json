@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702110183",
+    "requested_datetime": "2017-02-11 11:59:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區新行街68巷與4巷口 違停",
+    "address_string": "新行街68巷跟4巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-02-18 11:59:00"
+}
