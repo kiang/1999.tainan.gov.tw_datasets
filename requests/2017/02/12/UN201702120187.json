@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702120187",
+    "requested_datetime": "2017-02-12 18:06:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "永康區正南五街520巷56弄31號2樓 妨害安寧",
+    "address_string": "永康區正南五街520巷56弄31號",
+    "lat": "23.038164",
+    "long": "120.236355",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-02-19 18:06:00"
+}
