@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702120214",
+    "requested_datetime": "2017-02-12 19:19:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "中西區府連路和開山路口，府連地下道內 積水",
+    "address_string": "府連地下道",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-02-19 19:19:00"
+}
