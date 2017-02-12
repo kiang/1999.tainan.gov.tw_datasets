@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區大同路二段與健康路一段口，大埔鐵板燒 違停",
     "address_string": "南區大同路二段健康路一段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9808789",
+    "long": "120.2122714",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-02-19 19:45:00"

@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "仁德區德南路180^260號 路燈故障",
     "address_string": "仁德區德南路180號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9460767",
+    "long": "120.2557887",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-02-19 19:58:00"
