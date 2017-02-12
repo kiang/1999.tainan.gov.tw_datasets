@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702120263",
+    "requested_datetime": "2017-02-12 23:30:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "場所連續噪音",
+    "description": "南區新興路419號，酒孃卡拉OK店 妨害安寧",
+    "address_string": "南區新興路419號",
+    "lat": "22.9750908",
+    "long": "120.1904151",
+    "service_notice": {},
+    "updated_datetime": "2017-02-13 01:28:48",
+    "expected_datetime": "2017-02-19 23:30:00"
+}
