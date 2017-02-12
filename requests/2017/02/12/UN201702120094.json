@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702120094",
     "requested_datetime": "2017-02-12 12:34:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區南寧街130號對面,進學國小門口兩側 違規停車",
     "address_string": "南寧街130號對面",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-12 13:58:37",
     "expected_datetime": "2017-02-12 12:34:00"
 }
