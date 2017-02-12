@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區府前路二段202號 違規停車",
     "address_string": "臺南市府前路二段202號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9918781",
+    "long": "120.192562",
     "service_notice": {},
     "updated_datetime": "2017-02-12 22:14:44",
     "expected_datetime": "2017-02-12 20:41:00"
