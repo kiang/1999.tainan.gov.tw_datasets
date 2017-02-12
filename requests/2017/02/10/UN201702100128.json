@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702100128",
     "requested_datetime": "2017-02-10 12:59:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "仁德區中正路一段38號 違規停車",
     "address_string": "717台灣台南市仁德區中正路一段38號",
     "lat": "22.919019518323243",
     "long": "120.22760644555093",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-12 07:18:04",
     "expected_datetime": "2017-02-10 12:59:00"
 }
