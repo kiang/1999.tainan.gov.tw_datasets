@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702130270",
     "requested_datetime": "2017-02-13 00:05:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "東區建東街43巷15號 場所連續噪音",
     "address_string": "台南市東區建東街43巷15號",
     "lat": "22.9902181",
     "long": "120.2365604",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-13 10:20:53",
     "expected_datetime": "2017-02-13 00:05:00"
 }
