@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702110165",
     "requested_datetime": "2017-02-11 11:16:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "南區五妃街與國華街一段口 空污",
     "address_string": "南區五妃街國華街一段",
     "lat": "22.9826627",
     "long": "120.1964883",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-13 08:43:42",
     "expected_datetime": "2017-02-18 11:16:00"
 }

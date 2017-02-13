@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702130300",
+    "requested_datetime": "2017-02-13 08:11:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "永康區復國一路284號 佔用道路",
+    "address_string": "永康區復國一路284號",
+    "lat": "23.0091552",
+    "long": "120.2464374",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-02-20 08:11:00"
+}

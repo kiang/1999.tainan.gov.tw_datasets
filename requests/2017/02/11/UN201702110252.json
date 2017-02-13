@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702110252",
     "requested_datetime": "2017-02-11 14:52:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "南區新孝路148巷95弄   噪音舉發",
     "address_string": "南區新孝路148巷95弄",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-13 08:45:22",
     "expected_datetime": "2017-02-11 14:52:00"
 }
