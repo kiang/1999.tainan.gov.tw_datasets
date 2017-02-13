@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區城隍街33號 違停",
     "address_string": "中西區城隍街33號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9898559",
+    "long": "120.2082159",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-02-20 11:15:00"
