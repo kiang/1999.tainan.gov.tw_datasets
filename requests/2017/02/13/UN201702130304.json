@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702130304",
     "requested_datetime": "2017-02-13 08:16:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "安南區北安路四段與州南路口 佔用道路",
     "address_string": "安南區北安路四段",
     "lat": "23.057463366427733",
     "long": "120.21372814285280",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-13 11:56:52",
     "expected_datetime": "2017-02-13 08:16:00"
 }
