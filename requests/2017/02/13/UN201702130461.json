@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702130461",
+    "requested_datetime": "2017-02-13 13:16:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "北安路二段加油站（安南區北安路二段363號）  警報器聲響妨礙安寧",
+    "address_string": "安南區北安路二段363號",
+    "lat": "23.0352649",
+    "long": "120.2032008",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-02-20 13:16:00"
+}
