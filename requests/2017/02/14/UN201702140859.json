@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201702140859",
     "requested_datetime": "2017-02-14 16:08:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
@@ -9,9 +9,9 @@
     "subproject": "妨害安寧",
     "description": "永康區永華路201巷 妨害安寧",
     "address_string": "永康區永華路201巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.0103828",
+    "long": "120.2590425",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-14 19:12:54",
     "expected_datetime": "2017-02-14 16:08:00"
 }
