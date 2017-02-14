@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702140640",
     "requested_datetime": "2017-02-14 02:18:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "安南區府安路六段跟宜居路 號誌燈傾斜",
     "address_string": "安南區府安路六段  宜居路",
     "lat": "23.0169396",
     "long": "120.1866057",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-14 14:39:29",
     "expected_datetime": "2017-02-21 02:18:00"
 }
