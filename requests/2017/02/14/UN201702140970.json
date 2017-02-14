@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "仁德區保華路279號 違停",
     "address_string": "仁德區保華路279號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9592479",
+    "long": "120.2253997",
     "service_notice": {},
     "updated_datetime": "2017-02-15 02:54:05",
     "expected_datetime": "2017-02-21 23:53:00"
