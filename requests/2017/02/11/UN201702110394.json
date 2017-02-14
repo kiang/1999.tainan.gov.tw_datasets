@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702110394",
     "requested_datetime": "2017-02-11 22:37:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局",
+    "agency": "臺南市政府警察局第二分局",
     "subproject": "違規停車",
     "description": "中西區海安路二段268號 違規停車",
     "address_string": "中西區海安路二段268號",
     "lat": "22.9979061",
     "long": "120.197809",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-14 11:11:15",
     "expected_datetime": "2017-02-11 22:37:00"
 }
