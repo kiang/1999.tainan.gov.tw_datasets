@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702140850",
+    "requested_datetime": "2017-02-14 15:50:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "臺南市安南區公所,臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "安南區安通路\/安通二街口  佔用道路",
+    "address_string": "安南區安通路安通二街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-02-21 15:50:00"
+}
