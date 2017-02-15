@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702150273",
+    "requested_datetime": "2017-02-15 16:58:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區中正路240號 違規停車",
+    "address_string": "704台灣台南市中西區中正路240號",
+    "lat": "23.002067746620114",
+    "long": "120.19951835274695",
+    "service_notice": {},
+    "updated_datetime": "2017-02-15 17:57:21",
+    "expected_datetime": "2017-02-15 16:58:00"
+}

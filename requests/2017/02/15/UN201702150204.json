@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702150204",
     "requested_datetime": "2017-02-15 14:23:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "歸仁區民生北街52號 佔用道路",
     "address_string": "歸仁區民生北街52號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-15 17:48:31",
     "expected_datetime": "2017-02-22 14:23:00"
 }

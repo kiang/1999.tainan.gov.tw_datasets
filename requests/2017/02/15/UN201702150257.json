@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702150257",
+    "requested_datetime": "2017-02-15 16:18:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區中華東路三段377巷 違規停車",
+    "address_string": "701台灣台南市東區中華東路三段377巷底巴克禮公園",
+    "lat": "22.972521762811084",
+    "long": "120.22210672222900",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-02-15 16:18:00"
+}
