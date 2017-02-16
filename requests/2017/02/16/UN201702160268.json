@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702160268",
+    "requested_datetime": "2017-02-16 17:17:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區頂美三街246號 違規停車",
+    "address_string": "中西區頂美三街246號",
+    "lat": "23.0050297",
+    "long": "120.1860238",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-02-16 17:17:00"
+}
