@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區城隍街15號到25號 違規停車",
     "address_string": "城隍街15號到25號",
-    "lat": {},
-    "long": {},
+    "lat": "25.0439485",
+    "long": "121.5127061",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-02-16 19:42:00"
