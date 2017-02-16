@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區安富街283號  路燈故障",
     "address_string": "安南區安富街283號",
-    "lat": {},
-    "long": {},
+    "lat": "23.026258",
+    "long": "120.1946296",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-02-23 22:22:00"
