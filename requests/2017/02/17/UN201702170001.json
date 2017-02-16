@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新市區富強路違規停車",
     "address_string": "富強路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0684581",
+    "long": "120.2867872",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-02-17 00:01:00"
