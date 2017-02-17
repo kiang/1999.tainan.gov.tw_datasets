@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702150365",
     "requested_datetime": "2017-02-15 23:25:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "永康區永明街73號 噪音舉發",
     "address_string": "永康區永明街73號",
     "lat": "23.0251831",
     "long": "120.2602547",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-17 20:45:03",
     "expected_datetime": "2017-02-15 23:25:00"
 }
