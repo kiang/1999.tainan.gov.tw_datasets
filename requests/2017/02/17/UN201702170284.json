@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702170284",
+    "requested_datetime": "2017-02-17 18:22:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局",
+    "subproject": "9盞以下路燈故障",
+    "description": "東區德光街62巷29號前方 路燈不亮",
+    "address_string": "東區德光街62巷29號前方",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-02-24 18:22:00"
+}
