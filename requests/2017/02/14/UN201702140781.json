@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "新化區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局勤務指揮中心,臺南市政府警察局新化分局",
     "subproject": "違規停車",
     "description": "新化區中興路和護安街口 違規停車",
     "address_string": "台南巿新化區中興路護安街",
     "lat": "23.0345339",
     "long": "120.3095657",
     "service_notice": {},
-    "updated_datetime": "2017-02-14 15:39:00",
+    "updated_datetime": "2017-02-17 17:09:24",
     "expected_datetime": "2017-02-14 12:15:00"
 }

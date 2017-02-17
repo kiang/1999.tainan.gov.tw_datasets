@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "新營區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局勤務指揮中心,臺南市政府警察局新營分局",
     "subproject": "違規停車",
     "description": "新營區中正路35巷  違規停車",
     "address_string": "新營區中正路35巷",
     "lat": "23.3127664",
     "long": "120.3147106",
     "service_notice": {},
-    "updated_datetime": "2017-02-14 19:15:40",
+    "updated_datetime": "2017-02-17 17:52:24",
     "expected_datetime": "2017-02-14 16:26:00"
 }
