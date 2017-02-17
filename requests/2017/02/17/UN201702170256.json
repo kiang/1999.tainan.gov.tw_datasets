@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "六甲區工研路，鎮南宮 空污",
     "address_string": "六甲區工研路",
-    "lat": {},
-    "long": {},
+    "lat": "23.2271643",
+    "long": "120.3667892",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-02-24 17:10:00"
