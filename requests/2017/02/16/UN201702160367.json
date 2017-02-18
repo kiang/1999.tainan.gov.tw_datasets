@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702160367",
     "requested_datetime": "2017-02-16 22:12:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "安南區科工區本田路二段377號 噪音汙染",
     "address_string": "安南區科工區本田路二段377號",
     "lat": "23.0385992",
     "long": "120.1556669",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-18 17:43:24",
     "expected_datetime": "2017-02-23 22:12:00"
 }
