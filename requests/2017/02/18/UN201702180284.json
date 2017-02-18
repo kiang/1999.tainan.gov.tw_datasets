@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702180284",
     "requested_datetime": "2017-02-18 19:01:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "中西區衛民街110\/112號附近 妨害安寧",
     "address_string": "中西區衛民街110號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-18 23:52:36",
     "expected_datetime": "2017-02-18 19:01:00"
 }
