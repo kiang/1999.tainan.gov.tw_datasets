@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區林森路三段南園街違規停車",
     "address_string": "北區林森路三段南園街",
-    "lat": {},
-    "long": {},
+    "lat": "23.0077968",
+    "long": "120.2238334",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-02-18 09:28:00"
