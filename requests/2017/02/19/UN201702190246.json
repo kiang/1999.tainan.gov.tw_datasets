@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702190246",
+    "requested_datetime": "2017-02-19 21:49:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區文化中心附近,在文化派出所後面三角窗 違規停車",
+    "address_string": "東區文化派出所",
+    "lat": "22.9760232",
+    "long": "120.221173",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-02-26 21:49:00"
+}
