@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702190256",
+    "requested_datetime": "2017-02-19 23:07:00",
+    "status": {},
+    "keyword": {},
+    "area": "佳里區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "場所連續噪音",
+    "description": "佳里區延平路青龍宮 噪音舉發",
+    "address_string": "佳里區延平路青龍宮",
+    "lat": "23.152304343365493",
+    "long": "120.18001736032716",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-02-19 23:07:00"
+}
