@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區明興路1195號 違停",
     "address_string": "南區明興路1195號",
-    "lat": {},
-    "long": {},
+    "lat": "22.925527",
+    "long": "120.185759",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-02-27 09:49:00"
