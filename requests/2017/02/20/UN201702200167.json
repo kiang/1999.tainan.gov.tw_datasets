@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區崇善路與崇善15街 違規停車",
     "address_string": "東區崇善路與崇善15街",
-    "lat": {},
-    "long": {},
+    "lat": "22.975884",
+    "long": "120.228572",
     "service_notice": {},
     "updated_datetime": "2017-02-20 14:28:08",
     "expected_datetime": "2017-02-20 13:30:00"
