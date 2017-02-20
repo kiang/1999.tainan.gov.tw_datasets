@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201702200118",
     "requested_datetime": "2017-02-20 11:00:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "柳營區",
     "service_name": "髒亂及汙染",
@@ -12,6 +12,6 @@
     "lat": "23.2798418",
     "long": "120.3621984",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-20 14:26:15",
     "expected_datetime": "2017-02-27 11:00:00"
 }
