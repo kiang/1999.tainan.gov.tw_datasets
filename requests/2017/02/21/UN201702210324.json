@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702210324",
+    "requested_datetime": "2017-02-21 19:46:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區裕學路185巷105號 違規停車",
+    "address_string": "裕學路185巷105號",
+    "lat": "22.9831854",
+    "long": "120.2365285",
+    "service_notice": {},
+    "updated_datetime": "2017-02-21 23:58:34",
+    "expected_datetime": "2017-02-21 19:46:00"
+}

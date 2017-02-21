@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "南區濱南路*安平港聯外道路  路燈忽熄忽亮",
     "address_string": "南區濱南路*安平港聯外道路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9433988",
+    "long": "120.1756498",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-02-28 21:08:00"
