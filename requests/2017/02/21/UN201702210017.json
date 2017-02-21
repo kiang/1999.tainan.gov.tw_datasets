@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702210017",
+    "requested_datetime": "2017-02-21 07:11:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區崇善路\/中華東路口  違規停車",
+    "address_string": "東區崇善路中華東路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-02-28 07:11:00"
+}
