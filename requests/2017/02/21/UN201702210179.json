@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702210179",
+    "requested_datetime": "2017-02-21 13:33:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "永康區大灣路536號 路面坑洞",
+    "address_string": "永康區大灣路536號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-02-28 13:33:00"
+}
