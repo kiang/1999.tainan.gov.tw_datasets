@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702210379",
+    "requested_datetime": "2017-02-21 23:48:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區大同路二段406巷內 違停",
+    "address_string": "南區大同路二段406巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-02-22 02:42:36",
+    "expected_datetime": "2017-02-28 23:48:00"
+}

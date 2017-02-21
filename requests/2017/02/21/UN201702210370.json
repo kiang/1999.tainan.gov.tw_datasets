@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702210370",
+    "requested_datetime": "2017-02-21 22:46:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "歸仁區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "歸仁區中正南路二段和大武路二段交叉口，人行道上 違停",
+    "address_string": "歸仁區中正南路二段大武路二段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-02-22 02:47:01",
+    "expected_datetime": "2017-02-28 22:46:00"
+}
