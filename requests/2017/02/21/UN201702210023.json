@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702210023",
     "requested_datetime": "2017-02-21 08:02:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "中西區健康路一段348號騎樓舉發",
     "address_string": "中西區健康路一段348號",
     "lat": "22.981564",
     "long": "120.1998271",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-21 14:06:34",
     "expected_datetime": "2017-02-21 08:02:00"
 }
