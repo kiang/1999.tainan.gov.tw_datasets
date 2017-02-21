@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702210351",
     "requested_datetime": "2017-02-21 21:37:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區德東街與德東街235巷口，理髮店前 違規停車",
     "address_string": "德東街德東街235巷",
     "lat": "22.9617731",
     "long": "120.2334377",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-22 00:05:49",
     "expected_datetime": "2017-02-21 21:37:00"
 }
