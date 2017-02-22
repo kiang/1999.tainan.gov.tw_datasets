@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "新市區樹谷大道 路燈故障",
     "address_string": "新市區樹谷大道",
-    "lat": {},
-    "long": {},
+    "lat": "23.104411",
+    "long": "120.2612715",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-03-01 20:25:00"
