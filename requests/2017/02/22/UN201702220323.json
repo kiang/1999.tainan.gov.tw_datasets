@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702220323",
     "requested_datetime": "2017-02-22 19:42:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區育德路221巷46號 違規停車",
     "address_string": "台南市北區育德路221巷46號",
     "lat": "23.011432",
     "long": "120.2048936",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-23 02:06:50",
     "expected_datetime": "2017-02-22 19:42:00"
 }
