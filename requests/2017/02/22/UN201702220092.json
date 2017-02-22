@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "麻豆區文昌路與興中路口 違規停車",
     "address_string": "文昌路",
-    "lat": {},
-    "long": {},
+    "lat": "25.0977855",
+    "long": "121.5205909",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-02-22 11:00:00"
