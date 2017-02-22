@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702220092",
     "requested_datetime": "2017-02-22 11:00:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "麻豆區文昌路與興中路口 違規停車",
     "address_string": "文昌路",
     "lat": "25.0977855",
     "long": "121.5205909",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-22 18:28:26",
     "expected_datetime": "2017-02-22 11:00:00"
 }
