@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702220363",
+    "requested_datetime": "2017-02-22 23:45:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "東區崇德二十二街80號二樓後面廚房  妨害安寧",
+    "address_string": "701台灣台南市東區崇德二十二街80號二樓後面廚房",
+    "lat": "22.9663075",
+    "long": "120.2298613",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-02-22 23:45:00"
+}
