@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702210061",
     "requested_datetime": "2017-02-21 09:23:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "妨害安寧",
     "description": "中西區大同路一段46巷3號  連續噪音",
     "address_string": "大同路一段46巷3號",
     "lat": "22.9875936",
     "long": "120.2108405",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-22 13:48:16",
     "expected_datetime": "2017-02-21 09:23:00"
 }

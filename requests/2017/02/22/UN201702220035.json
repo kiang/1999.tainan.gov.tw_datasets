@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702220035",
     "requested_datetime": "2017-02-22 08:34:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "安南區長和路二段12巷281號 號誌不亮",
     "address_string": "安南區長和路二段12巷281號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-22 13:43:34",
     "expected_datetime": "2017-03-01 08:34:00"
 }
