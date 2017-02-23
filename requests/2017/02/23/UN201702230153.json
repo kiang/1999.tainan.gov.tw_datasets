@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區林森路二段91巷與東寧路134巷口 違停",
     "address_string": "東區林森路二段91巷東寧路134巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.9903409",
+    "long": "120.2229761",
     "service_notice": {},
     "updated_datetime": "2017-02-23 15:01:07",
     "expected_datetime": "2017-03-02 12:07:00"
