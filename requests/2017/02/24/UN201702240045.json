@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702240045",
+    "requested_datetime": "2017-02-24 09:33:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "南區福吉路*福吉五街占用道路",
+    "address_string": "南區福吉路*福吉五街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-03-03 09:33:00"
+}
