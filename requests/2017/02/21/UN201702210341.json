@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "歸仁區高鐵十二路接近高鐵大道及前端接近歸仁八路 路燈不亮",
     "address_string": "歸仁區高鐵十二路高鐵大道",
-    "lat": {},
-    "long": {},
+    "lat": "22.924928",
+    "long": "120.28572",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-02-28 20:52:00"

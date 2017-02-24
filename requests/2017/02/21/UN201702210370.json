@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "歸仁區中正南路二段和大武路二段交叉口，人行道上 違停",
     "address_string": "歸仁區中正南路二段大武路二段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9289483",
+    "long": "120.2777088",
     "service_notice": {},
     "updated_datetime": "2017-02-22 02:47:01",
     "expected_datetime": "2017-02-28 22:46:00"
