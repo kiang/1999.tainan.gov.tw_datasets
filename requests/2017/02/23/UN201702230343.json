@@ -9,8 +9,8 @@
     "subproject": "場所連續噪音",
     "description": "北區公園路128號 連續噪音",
     "address_string": "北區公園路128號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9987144",
+    "long": "120.207501",
     "service_notice": {},
     "updated_datetime": "2017-02-23 23:50:41",
     "expected_datetime": "2017-03-02 23:23:00"
