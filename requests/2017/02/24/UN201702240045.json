@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201702240045",
     "requested_datetime": "2017-02-24 09:33:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "交通運輸",
@@ -9,9 +9,9 @@
     "subproject": "佔用道路",
     "description": "南區福吉路*福吉五街占用道路",
     "address_string": "南區福吉路*福吉五街",
-    "lat": {},
-    "long": {},
+    "lat": "22.982488",
+    "long": "120.1927141",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-24 12:25:12",
     "expected_datetime": "2017-03-03 09:33:00"
 }
