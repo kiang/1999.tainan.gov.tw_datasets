@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702240255",
+    "requested_datetime": "2017-02-24 19:26:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區國華街81號 違規停車",
+    "address_string": "710台灣台南市永康區國華街81號",
+    "lat": "23.0119735",
+    "long": "120.2472874",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-02-24 19:26:00"
+}
