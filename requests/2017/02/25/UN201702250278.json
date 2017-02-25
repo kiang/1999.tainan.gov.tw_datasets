@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702250278",
+    "requested_datetime": "2017-02-25 19:34:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區金華路二段跟健康路三段85度C門口",
+    "address_string": "南區金華路二段健康路三段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-03-04 19:34:00"
+}
