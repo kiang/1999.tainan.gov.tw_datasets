@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702250118",
     "requested_datetime": "2017-02-25 11:02:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "交通運輸",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "交通疏導",
-    "description": "文德路跟中山路口",
+    "description": "仁德區 文德路跟中山路口",
     "address_string": "仁德區文德路中山路口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-25 16:41:29",
     "expected_datetime": "2017-03-04 11:02:00"
 }
