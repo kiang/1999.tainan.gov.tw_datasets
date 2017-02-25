@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702250308",
     "requested_datetime": "2017-02-25 21:50:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "新營區太子路32-10號前  妨害安寧",
     "address_string": "新營區太子路32-10號",
     "lat": "23.30278197154222",
     "long": "120.28864162840397",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-26 03:00:52",
     "expected_datetime": "2017-02-25 21:50:00"
 }
