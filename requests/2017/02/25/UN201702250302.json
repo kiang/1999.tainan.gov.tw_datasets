@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702250302",
     "requested_datetime": "2017-02-25 21:16:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新營區裕民路4號 違規停車",
     "address_string": "730台灣台南市新營區裕民路4號",
     "lat": "23.302942239495366",
     "long": "120.30717089384848",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-26 06:25:47",
     "expected_datetime": "2017-02-25 21:16:00"
 }
