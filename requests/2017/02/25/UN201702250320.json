@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201702250320",
     "requested_datetime": "2017-02-25 23:26:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
@@ -9,9 +9,9 @@
     "subproject": "妨害安寧",
     "description": "北區北成路464號 妨害安寧",
     "address_string": "北成路464號",
-    "lat": {},
-    "long": {},
+    "lat": "23.018689",
+    "long": "120.2004707",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-26 01:45:48",
     "expected_datetime": "2017-02-25 23:26:00"
 }

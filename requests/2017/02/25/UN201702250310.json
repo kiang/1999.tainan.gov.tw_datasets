@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "南區新和東路與新建路口及南區中華西路一段2巷12號對面 路燈故障",
     "address_string": "南區新和東路新建路口",
-    "lat": {},
-    "long": {},
+    "lat": "22.968898",
+    "long": "120.1853633",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-03-04 21:52:00"

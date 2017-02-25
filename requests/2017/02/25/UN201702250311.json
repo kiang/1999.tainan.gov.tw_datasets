@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區中華西街122巷43號前 違規停車",
     "address_string": "中華西街122巷43號前",
-    "lat": {},
-    "long": {},
+    "lat": "23.015755",
+    "long": "120.227565",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-02-25 21:55:00"
