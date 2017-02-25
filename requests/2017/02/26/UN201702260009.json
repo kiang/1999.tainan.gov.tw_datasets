@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702260009",
+    "requested_datetime": "2017-02-26 02:09:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "中西區開山路5號，四號碼頭酒吧附設卡拉OK 妨害安寧",
+    "address_string": "中西區開山路5號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-02-26 04:24:39",
+    "expected_datetime": "2017-03-05 02:09:00"
+}
