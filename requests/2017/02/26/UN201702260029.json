@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702260029",
+    "requested_datetime": "2017-02-26 07:55:00",
+    "status": {},
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "仁德區文賢路一段574號 違規停車",
+    "address_string": "717台灣台南市仁德區文賢路一段574號",
+    "lat": "22.931014331124214",
+    "long": "120.23094311356543",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-02-26 07:55:00"
+}
