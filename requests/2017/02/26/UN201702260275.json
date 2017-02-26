@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702260275",
+    "requested_datetime": "2017-02-26 21:01:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區西門路三段159號對面  違規停車",
+    "address_string": "北區西門路三段159號對面",
+    "lat": "23.003828",
+    "long": "120.204008",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-03-05 21:01:00"
+}
