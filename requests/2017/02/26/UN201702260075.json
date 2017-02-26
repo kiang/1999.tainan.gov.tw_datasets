@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702260075",
     "requested_datetime": "2017-02-26 10:40:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新化區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新化區中興路825巷\/中興路跟中正路口  違停",
     "address_string": "新化區中興路825巷\/中興路跟中正路口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-26 16:40:05",
     "expected_datetime": "2017-03-05 10:40:00"
 }

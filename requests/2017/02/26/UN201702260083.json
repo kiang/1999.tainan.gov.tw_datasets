@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702260083",
     "requested_datetime": "2017-02-26 11:16:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "空氣汙染",
     "description": "中西區康樂街102號  空氣汙染",
     "address_string": "中西區康樂街102號",
     "lat": "22.9930501",
     "long": "120.1946668",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-26 16:36:15",
     "expected_datetime": "2017-03-05 11:16:00"
 }
