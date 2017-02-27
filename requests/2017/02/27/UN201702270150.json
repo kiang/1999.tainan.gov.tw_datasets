@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201702270150",
+    "requested_datetime": "2017-02-27 14:08:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區成功路160號 違規停車",
+    "address_string": "北區成功路160號",
+    "lat": "22.9986854",
+    "long": "120.2045283",
+    "service_notice": {},
+    "updated_datetime": "2017-02-27 14:55:40",
+    "expected_datetime": "2017-03-06 14:08:00"
+}
