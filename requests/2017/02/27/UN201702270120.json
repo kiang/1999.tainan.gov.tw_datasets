@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區神農街跟康樂街路口 違停",
     "address_string": "中西區神農街跟康樂街路口",
-    "lat": {},
-    "long": {},
+    "lat": "22.998317",
+    "long": "120.1962631",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-03-06 12:14:00"
