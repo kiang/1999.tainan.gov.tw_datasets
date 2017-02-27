@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702280016",
     "requested_datetime": "2017-02-28 03:15:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "東區莊敬路噪音舉發",
     "address_string": "莊敬路",
-    "lat": {},
-    "long": {},
+    "lat": "25.0291244",
+    "long": "121.5626207",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-28 05:27:56",
     "expected_datetime": "2017-02-28 03:15:00"
 }

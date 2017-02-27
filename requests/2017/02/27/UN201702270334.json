@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702270334",
     "requested_datetime": "2017-02-27 23:39:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "歸仁區中正一街51號   妨害安寧",
     "address_string": "歸仁區中正一街51號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9660543",
+    "long": "120.2953363",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-28 05:44:05",
     "expected_datetime": "2017-03-06 23:39:00"
 }

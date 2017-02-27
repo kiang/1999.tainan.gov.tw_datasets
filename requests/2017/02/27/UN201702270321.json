@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201702270321",
     "requested_datetime": "2017-02-27 22:09:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "北區北成路460-6號噪音舉發",
     "address_string": "北成路460-6號",
     "lat": "23.697614",
     "long": "120.5279853",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-28 05:56:08",
     "expected_datetime": "2017-02-27 22:09:00"
 }
