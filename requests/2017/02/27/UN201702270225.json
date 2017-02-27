@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201702270225",
     "requested_datetime": "2017-02-27 17:44:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "新市區中正路丹丹漢堡 和 全聯違規停車",
     "address_string": "新市區中正路丹丹漢堡 和 全聯",
-    "lat": {},
-    "long": {},
+    "lat": "23.0742238",
+    "long": "120.2914209",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-02-27 19:31:45",
     "expected_datetime": "2017-02-27 17:44:00"
 }
