@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "中西區中華西路與府前一街路口  號誌故障",
     "address_string": "中西區中華西路府前一街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9969088",
+    "long": "120.1865453",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-02-28 01:15:00"
