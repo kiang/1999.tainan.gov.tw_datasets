@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "歸仁區保大路一段與中正北路三段口 號誌故障",
     "address_string": "歸仁區保大路一段中正北路三段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9960851",
+    "long": "120.2940614",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-03-07 22:22:00"
