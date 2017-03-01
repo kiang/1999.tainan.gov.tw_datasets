@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703010378",
     "requested_datetime": "2017-03-01 21:47:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "南區德興路139巷 違規停車",
     "address_string": "南區德興路139巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.9634545",
+    "long": "120.194248",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-02 00:18:46",
     "expected_datetime": "2017-03-01 21:47:00"
 }

@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安平區安平路92號至108號\/安平區安平路242號 違停",
     "address_string": "安平區安平路242號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9985218",
+    "long": "120.1794312",
     "service_notice": {},
     "updated_datetime": "2017-03-01 22:26:34",
     "expected_datetime": "2017-03-08 21:36:00"
