@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703010029",
     "requested_datetime": "2017-03-01 08:07:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "南區府緯街國華街 號誌故障",
     "address_string": "南區府緯街國華街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-01 17:28:25",
     "expected_datetime": "2017-03-01 08:07:00"
 }
