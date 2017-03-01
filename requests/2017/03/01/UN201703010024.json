@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區府連東路22巷7號違規停車",
     "address_string": "東區府連東路22巷7號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9842577",
+    "long": "120.2171326",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-03-01 07:50:00"
