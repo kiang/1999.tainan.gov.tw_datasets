@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703020282",
     "requested_datetime": "2017-03-02 20:04:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "大內區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "大內區二溪里唭子瓦60號 妨害安寧",
     "address_string": "大內區二溪里唭子瓦60號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-03 02:06:37",
     "expected_datetime": "2017-03-09 20:04:00"
 }
