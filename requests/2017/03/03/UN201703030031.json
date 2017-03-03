@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703030031",
+    "requested_datetime": "2017-03-03 08:39:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "北區海安路三路與民德路口 交通疏導\/號誌故障",
+    "address_string": "北區海安路三路與民德路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-03-10 08:39:00"
+}
