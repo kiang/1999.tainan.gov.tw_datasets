@@ -9,8 +9,8 @@
     "subproject": "10盞以上路燈故障",
     "description": "南區台南機場方向到台17線  10盞以上路燈故障",
     "address_string": "南區台南機場",
-    "lat": {},
-    "long": {},
+    "lat": "22.9477075",
+    "long": "120.2162932",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-03-10 21:58:00"
