@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703020328",
     "requested_datetime": "2017-03-02 23:33:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "其他汙染舉發",
     "description": "仁德區嘉南藥理大學附近工廠髒亂及汙染",
     "address_string": "嘉南藥理大學附近工廠",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-03 17:22:02",
     "expected_datetime": "2017-03-02 23:33:00"
 }
