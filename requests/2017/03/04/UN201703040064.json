@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703040064",
+    "requested_datetime": "2017-03-04 09:38:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面下陷、凹陷",
+    "description": "安平區安北路122號 路面凹陷",
+    "address_string": "安平區安北路122號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-03-11 09:38:00"
+}
