@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201703060354",
     "requested_datetime": "2017-03-06 19:17:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "安南區安中一街63號、65號對側 違規停車",
     "address_string": "安南區安中一街63號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0359538",
+    "long": "120.2055006",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-06 23:53:02",
     "expected_datetime": "2017-03-13 19:17:00"
 }
