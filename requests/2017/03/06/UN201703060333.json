@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "北區小東路295號 違規停車",
     "address_string": "北區小東路295號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9994997",
+    "long": "120.2299666",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-03-13 18:21:00"
