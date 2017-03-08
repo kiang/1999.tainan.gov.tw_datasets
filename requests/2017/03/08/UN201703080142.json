@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703080142",
+    "requested_datetime": "2017-03-08 13:05:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區大林路110巷,大林公園對面停車場 違停",
+    "address_string": "南區大林路110巷",
+    "lat": "22.9752604",
+    "long": "120.2106211",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-03-15 13:05:00"
+}
