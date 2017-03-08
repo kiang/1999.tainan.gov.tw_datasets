@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703060332",
     "requested_datetime": "2017-03-06 18:18:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面掏空、塌陷",
     "description": "南區育安街跟安豐三街街口 路面掏空、塌陷",
     "address_string": "安南區育安街安豐三街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-08 08:42:40",
     "expected_datetime": "2017-03-13 18:18:00"
 }
