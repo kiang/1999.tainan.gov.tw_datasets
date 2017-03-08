@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703080069",
     "requested_datetime": "2017-03-08 09:49:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": {},
     "service_name": {},
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": {},
     "description": "電線",
     "address_string": {},
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-08 15:12:34",
     "expected_datetime": "2017-03-15 09:49:00"
 }
