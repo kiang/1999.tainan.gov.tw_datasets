@@ -9,8 +9,8 @@
     "subproject": "場所連續噪音",
     "description": "中西區協和街133之1號 噪音",
     "address_string": "中西區協和街133之1號",
-    "lat": {},
-    "long": {},
+    "lat": "23.001375",
+    "long": "120.192206",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-03-15 14:49:00"

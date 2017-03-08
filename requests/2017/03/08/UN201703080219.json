@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703080219",
+    "requested_datetime": "2017-03-08 16:06:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區府緯街四巷3號 違規停車",
+    "address_string": "府緯街四巷三號",
+    "lat": "22.9841658",
+    "long": "120.1995288",
+    "service_notice": {},
+    "updated_datetime": "2017-03-08 16:58:54",
+    "expected_datetime": "2017-03-08 16:06:00"
+}

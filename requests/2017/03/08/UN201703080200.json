@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703080200",
     "requested_datetime": "2017-03-08 15:25:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區東榮街1號對面 違規停車",
     "address_string": "東榮街1號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9886146",
+    "long": "120.215396",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-08 16:55:03",
     "expected_datetime": "2017-03-08 15:25:00"
 }
