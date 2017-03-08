@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "善化區中山路401號 違停",
     "address_string": "善化區中山路401號",
-    "lat": {},
-    "long": {},
+    "lat": "23.1321809",
+    "long": "120.2909581",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-03-15 17:26:00"
