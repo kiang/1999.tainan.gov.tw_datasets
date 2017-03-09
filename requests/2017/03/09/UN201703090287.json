@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703090287",
+    "requested_datetime": "2017-03-09 20:37:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區保安路65號 逆向違停",
+    "address_string": "中西區保安路65號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-03-10 01:18:08",
+    "expected_datetime": "2017-03-16 20:37:00"
+}
