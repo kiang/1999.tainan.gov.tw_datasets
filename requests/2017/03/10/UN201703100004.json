@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703100004",
+    "requested_datetime": "2017-03-10 00:50:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "南區五妃街412號1樓  妨害安寧 連續噪音",
+    "address_string": "南區五妃街412號1樓",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-03-10 03:47:07",
+    "expected_datetime": "2017-03-17 00:50:00"
+}
