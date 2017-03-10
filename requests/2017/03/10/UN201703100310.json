@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "東區生產路與崇德路口 號誌故障",
     "address_string": "東區生產路崇德路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9648407",
+    "long": "120.2275047",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-03-17 19:30:00"
