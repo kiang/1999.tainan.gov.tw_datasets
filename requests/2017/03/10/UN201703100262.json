@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "六甲區中山路43巷口 違規停車",
     "address_string": "六甲區中山路43巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.2302707",
+    "long": "120.350373",
     "service_notice": {},
     "updated_datetime": "2017-03-10 18:40:32",
     "expected_datetime": "2017-03-17 17:34:00"
