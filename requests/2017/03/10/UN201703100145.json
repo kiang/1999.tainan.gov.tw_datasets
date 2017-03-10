@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703100145",
     "requested_datetime": "2017-03-10 12:23:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區安平路380號、382號、384號、402號 違規停車",
     "address_string": "安平路380號",
     "lat": "22.999348",
     "long": "120.1734082",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-10 16:58:17",
     "expected_datetime": "2017-03-10 12:23:00"
 }
