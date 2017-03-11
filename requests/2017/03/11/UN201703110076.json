@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703110076",
+    "requested_datetime": "2017-03-11 11:07:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "麻豆區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "麻豆區台19線 交通疏導",
+    "address_string": "麻豆區台19線",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-03-11 18:39:46",
+    "expected_datetime": "2017-03-18 11:07:00"
+}
