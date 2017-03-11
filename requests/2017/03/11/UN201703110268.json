@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703110268",
+    "requested_datetime": "2017-03-11 21:01:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區體育路體育公園周圍 違停",
+    "address_string": "南區體育路體育公園周圍",
+    "lat": "22.9810701",
+    "long": "120.2072426",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-03-18 21:01:00"
+}
