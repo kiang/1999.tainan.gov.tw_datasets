@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703120008",
     "requested_datetime": "2017-03-12 00:49:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "妨害安寧",
     "description": "東區林森路二段79號 噪音舉發",
     "address_string": "東區林森路二段79號",
     "lat": "22.9881969",
     "long": "120.2229308",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-13 02:35:24",
     "expected_datetime": "2017-03-12 00:49:00"
 }
