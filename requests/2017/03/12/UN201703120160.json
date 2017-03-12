@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703120160",
+    "requested_datetime": "2017-03-12 14:55:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區勝利路大學路交叉口，九乘九文具前廣場 違規停車",
+    "address_string": "勝利路大學路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-03-12 17:18:24",
+    "expected_datetime": "2017-03-12 14:55:00"
+}
