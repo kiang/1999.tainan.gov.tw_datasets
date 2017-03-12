@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703120159",
+    "requested_datetime": "2017-03-12 14:46:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區和緯路二段149號、141號、135號 違停人行道",
+    "address_string": "北區和緯路二段149號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-03-12 22:43:01",
+    "expected_datetime": "2017-03-19 14:46:00"
+}
