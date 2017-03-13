@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703130357",
+    "requested_datetime": "2017-03-13 20:58:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "北區南園街101巷34弄39號 噪音舉發",
+    "address_string": "北區南園街101巷34弄39號",
+    "lat": "23.0091481",
+    "long": "120.227695",
+    "service_notice": {},
+    "updated_datetime": "2017-03-13 21:22:21",
+    "expected_datetime": "2017-03-13 20:58:00"
+}
