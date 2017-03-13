@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703120035",
     "requested_datetime": "2017-03-12 08:51:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "安平區永華路二段819號大世紀隔壁工地 噪音舉發",
     "address_string": "安平區永華路二段819號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-13 14:16:44",
     "expected_datetime": "2017-03-12 08:51:00"
 }
