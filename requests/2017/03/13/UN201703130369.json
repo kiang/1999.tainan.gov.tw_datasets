@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區衛民街69號違規停車",
     "address_string": "中西區衛民街69號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9931382",
+    "long": "120.2088967",
     "service_notice": {},
     "updated_datetime": "2017-03-13 22:21:25",
     "expected_datetime": "2017-03-13 21:46:00"
