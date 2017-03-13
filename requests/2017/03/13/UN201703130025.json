@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703130025",
+    "requested_datetime": "2017-03-13 07:17:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區台南公園(兵工廠斜對面)  佔用道路",
+    "address_string": "北區兵工廠",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-03-20 07:17:00"
+}
