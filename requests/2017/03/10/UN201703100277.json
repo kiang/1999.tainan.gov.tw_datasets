@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703100277",
     "requested_datetime": "2017-03-10 18:17:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "10盞以上路燈故障",
     "description": "佳里區中山路140號附近，中山路和博愛街交叉口往南 跳電",
     "address_string": "佳里區中山路140號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-13 09:28:41",
     "expected_datetime": "2017-03-17 18:17:00"
 }
