@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703140476",
+    "requested_datetime": "2017-03-14 10:56:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "佳里區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "佳里區延平路與建中街口，丹丹漢堡 違停",
+    "address_string": "佳里區延平路建中街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-03-21 10:56:00"
+}
