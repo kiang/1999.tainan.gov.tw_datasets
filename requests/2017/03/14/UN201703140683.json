@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "仁德區中正路二段806號 路燈故障",
     "address_string": "仁德區中正路二段806號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9631484",
+    "long": "120.253485",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-03-21 21:03:00"
