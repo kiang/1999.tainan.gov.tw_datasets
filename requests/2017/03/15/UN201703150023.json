@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區大林路111巷  紅線違停",
     "address_string": "南區大林路111巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.9749699",
+    "long": "120.2114668",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-03-22 06:34:00"
