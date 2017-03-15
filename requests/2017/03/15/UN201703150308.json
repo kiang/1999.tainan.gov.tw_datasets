@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703150308",
+    "requested_datetime": "2017-03-15 17:54:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "永康區中山東路 路面坑洞",
+    "address_string": "永康區中山東路239號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-03-22 17:54:00"
+}
