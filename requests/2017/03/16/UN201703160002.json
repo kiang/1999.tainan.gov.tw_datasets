@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201703150334",
-    "requested_datetime": "2017-03-15 22:40:00",
+    "service_request_id": "UN201703160002",
+    "requested_datetime": "2017-03-16 00:35:00",
     "status": "未處理",
     "keyword": {},
     "area": "安南區",
     "service_name": "髒亂及汙染",
     "agency": "台南市政府",
     "subproject": "空氣汙染",
-    "description": "安南區同安路344巷18號 空氣汙然",
+    "description": "安南區同安路344巷18號 空汙",
     "address_string": "安南區同安路344巷18號",
-    "lat": "23.042706",
-    "long": "120.193167",
+    "lat": {},
+    "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2017-03-22 22:40:00"
+    "expected_datetime": "2017-03-23 00:35:00"
 }
