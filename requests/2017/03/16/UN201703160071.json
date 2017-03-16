@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703160071",
+    "requested_datetime": "2017-03-16 09:51:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "寬頻管線、孔蓋損壞",
+    "description": "南區健康路一段133巷99號前面 電信孔蓋鬆動",
+    "address_string": "南區健康路一段133巷99號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-03-23 09:51:00"
+}
