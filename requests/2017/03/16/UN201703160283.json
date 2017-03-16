@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703160283",
+    "requested_datetime": "2017-03-16 18:27:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面掏空、塌陷",
+    "description": "東區仁和路139巷51弄12-6號、12-7號 路面掏空",
+    "address_string": "東區仁和路139巷51弄12-6號、12-7號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-03-23 18:27:00"
+}
