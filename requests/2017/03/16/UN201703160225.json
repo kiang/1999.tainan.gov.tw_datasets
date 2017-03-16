@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703160225",
+    "requested_datetime": "2017-03-16 15:56:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區東寧路43號門口 佔用機慢車道",
+    "address_string": "東區東寧路43號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-03-16 22:32:48",
+    "expected_datetime": "2017-03-23 15:56:00"
+}
