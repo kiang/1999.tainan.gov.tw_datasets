@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703160329",
+    "requested_datetime": "2017-03-16 21:49:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安南區長和路四段182號、188號前 紅線違停",
+    "address_string": "安南區長和路四段182號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-03-17 01:57:36",
+    "expected_datetime": "2017-03-23 21:49:00"
+}
