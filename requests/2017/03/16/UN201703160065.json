@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703160065",
+    "requested_datetime": "2017-03-16 09:34:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "東區自由路2段175巷21號  民生管線",
+    "address_string": "東區自由路2段175巷21號",
+    "lat": "22.9833746",
+    "long": "120.2791464",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-03-16 09:34:00"
+}
