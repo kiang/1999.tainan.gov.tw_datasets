@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703150335",
     "requested_datetime": "2017-03-15 20:15:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "安南區本原街三段321巷28號 噪音舉發",
     "address_string": "安南區本原街三段321巷28號",
     "lat": "23.050925",
     "long": "120.1743142",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-17 17:38:22",
     "expected_datetime": "2017-03-22 20:15:00"
 }

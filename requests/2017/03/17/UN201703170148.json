@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703170148",
     "requested_datetime": "2017-03-17 13:13:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區北門路一段72號，南一書局旁 違停",
     "address_string": "東區北門路一段72號",
     "lat": "22.9911878",
     "long": "120.2117569",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-17 17:14:57",
     "expected_datetime": "2017-03-24 13:13:00"
 }
