@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703170345",
+    "requested_datetime": "2017-03-17 21:20:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區文賢路799巷40弄口 違停",
+    "address_string": "北區文賢路799巷40弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-03-18 01:07:45",
+    "expected_datetime": "2017-03-24 21:20:00"
+}
