@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703160129",
     "requested_datetime": "2017-03-16 12:31:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "南區金華路二段279號 空氣汙染",
     "address_string": "702台灣台南市南區金華路二段279號",
     "lat": "22.9842154",
     "long": "120.1913268",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-17 10:17:46",
     "expected_datetime": "2017-03-16 12:31:00"
 }
