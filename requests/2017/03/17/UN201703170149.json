@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區公園路159號到175號  違規停車",
     "address_string": "北區公園路159號",
-    "lat": {},
-    "long": {},
+    "lat": "22.998641",
+    "long": "120.207109",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-03-17 13:24:00"
