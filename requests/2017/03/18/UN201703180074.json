@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703180074",
     "requested_datetime": "2017-03-18 10:53:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區城隍街96號旁（靠近民權路口） 違規停車",
     "address_string": "中西區城隍街96號",
     "lat": "22.9911898",
     "long": "120.2090078",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-18 17:10:26",
     "expected_datetime": "2017-03-18 10:53:00"
 }
