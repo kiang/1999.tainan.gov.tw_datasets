@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區立德三路23號  違停",
     "address_string": "東區立德三路23號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9756056",
+    "long": "120.2157622",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-03-25 17:15:00"
