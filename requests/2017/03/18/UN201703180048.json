@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703180048",
+    "requested_datetime": "2017-03-18 09:36:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "北區臨安路二段143巷跟海安路三段181巷口 空氣汙染",
+    "address_string": "區臨安路二段143巷海安路三段181巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-03-25 09:36:00"
+}
