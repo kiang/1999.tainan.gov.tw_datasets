@@ -7,10 +7,10 @@
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "東區青年路278號台酒公司 違規停車",
+    "description": "併A-TB-2017-17185",
     "address_string": "東區青年路278號台酒公司",
-    "lat": {},
-    "long": {},
+    "lat": "22.991358",
+    "long": "120.21322",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-03-19 11:14:00"
