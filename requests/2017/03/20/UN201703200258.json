@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703200258",
     "requested_datetime": "2017-03-20 16:19:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區勝利路182號前  違規停車",
     "address_string": "北區勝利路182號前",
     "lat": "23.0036967",
     "long": "120.2188418",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-20 18:38:46",
     "expected_datetime": "2017-03-20 16:19:00"
 }
