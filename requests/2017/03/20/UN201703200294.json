@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703200294",
     "requested_datetime": "2017-03-20 16:37:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "永康區鹽和街247巷 民生管線",
     "address_string": "永康區鹽和街247巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-21 17:08:43",
     "expected_datetime": "2017-03-27 16:37:00"
 }
