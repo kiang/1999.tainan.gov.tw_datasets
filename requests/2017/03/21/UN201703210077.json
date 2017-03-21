@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703210077",
+    "requested_datetime": "2017-03-21 10:03:00",
+    "status": {},
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "仁德區德崙路127巷 違規停車",
+    "address_string": "德崙路127巷",
+    "lat": "22.9456379",
+    "long": "120.2544419",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-03-21 10:03:00"
+}
