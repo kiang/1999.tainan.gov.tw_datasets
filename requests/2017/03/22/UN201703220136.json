@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703220136",
     "requested_datetime": "2017-03-22 11:40:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區永福路二段52號 違規停車",
     "address_string": "台南市永福路二段52號",
     "lat": "22.9917269",
     "long": "120.2007744",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-22 18:39:17",
     "expected_datetime": "2017-03-22 11:40:00"
 }
