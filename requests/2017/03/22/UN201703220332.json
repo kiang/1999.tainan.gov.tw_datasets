@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703220332",
+    "requested_datetime": "2017-03-22 22:40:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區北安路一段142巷53-57號前轉角 違規停車",
+    "address_string": "臺南市北區北安路一段142巷53號",
+    "lat": "23.015499",
+    "long": "120.2116859",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-03-22 22:40:00"
+}
