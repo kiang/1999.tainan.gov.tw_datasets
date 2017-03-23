@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703230199",
     "requested_datetime": "2017-03-23 15:16:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "永康區崑大路仁愛眼鏡 佔用到路",
     "address_string": "永康區崑大路仁愛眼鏡",
     "lat": "23.0211846",
     "long": "120.2233414",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-23 16:42:15",
     "expected_datetime": "2017-03-30 15:16:00"
 }
