@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201703210170",
     "requested_datetime": "2017-03-21 13:59:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "動物救援",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-23 14:52:02",
     "expected_datetime": "2017-03-28 13:59:00"
 }
