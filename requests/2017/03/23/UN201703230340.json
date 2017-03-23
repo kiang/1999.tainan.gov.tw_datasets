@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703230340",
     "requested_datetime": "2017-03-23 23:02:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "中華路石頭燒烤轉角紅綠燈下，路邊賣杏仁茶攤販 妨害安寧",
     "address_string": "永康區中華路166號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-24 06:53:02",
     "expected_datetime": "2017-03-30 23:02:00"
 }

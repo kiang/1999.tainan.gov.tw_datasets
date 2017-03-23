@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703230332",
     "requested_datetime": "2017-03-23 22:14:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "佳里區佳西路14號 妨害安寧",
     "address_string": "佳里區佳西路14號",
     "lat": "23.1585488",
     "long": "120.1676076",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-24 06:50:11",
     "expected_datetime": "2017-03-30 22:14:00"
 }
