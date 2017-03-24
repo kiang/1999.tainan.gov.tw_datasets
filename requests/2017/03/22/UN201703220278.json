@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703220278",
     "requested_datetime": "2017-03-22 18:39:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "東區光華街92、94號前，消防栓正前方路中央 疑水管破裂",
     "address_string": "東區光華街94號",
     "lat": "22.9855704",
     "long": "120.2171344",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-24 10:03:16",
     "expected_datetime": "2017-03-29 18:39:00"
 }
