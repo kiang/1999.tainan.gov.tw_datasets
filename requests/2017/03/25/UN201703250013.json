@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "南區惠南街91號  路燈故障",
     "address_string": "南區惠南街91號",
-    "lat": {},
-    "long": {},
+    "lat": "22.979976",
+    "long": "120.187921",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-01 02:22:00"
