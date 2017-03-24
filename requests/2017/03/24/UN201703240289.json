@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703240289",
+    "requested_datetime": "2017-03-24 19:06:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區開元路66巷與東豐路85巷交接口 違規停車",
+    "address_string": "台南市北區開元路66巷東豐路85巷",
+    "lat": "23.0045868",
+    "long": "120.2172595",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-03-24 19:06:00"
+}

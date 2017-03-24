@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703240285",
+    "requested_datetime": "2017-03-24 18:47:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "東區東寧路410號 路面坑洞",
+    "address_string": "東區東寧路410號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-03-31 18:47:00"
+}
