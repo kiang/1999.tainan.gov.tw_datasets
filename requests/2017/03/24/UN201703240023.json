@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區西門路三段185號 違規停車",
     "address_string": "台南巿北區西門路三段185號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0044581",
+    "long": "120.2045484",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-03-24 07:57:00"
