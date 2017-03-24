@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703240281",
+    "requested_datetime": "2017-03-24 18:34:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "南區水交社路80巷18號附近 路燈閃爍",
+    "address_string": "南區水交社路80巷18號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-03-31 18:34:00"
+}
