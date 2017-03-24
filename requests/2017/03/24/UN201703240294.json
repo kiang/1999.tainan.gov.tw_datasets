@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703240294",
     "requested_datetime": "2017-03-24 19:20:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安南區海佃路一段152號，麥當勞前 違規停車",
     "address_string": "704台灣台南市北區育德三街270號",
     "lat": "23.018581919999992",
     "long": "120.20120900999996",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-24 22:51:14",
     "expected_datetime": "2017-03-24 19:20:00"
 }
