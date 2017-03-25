@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703250190",
+    "requested_datetime": "2017-03-25 17:53:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "善化區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "善化區中山路368號 違規停車",
+    "address_string": "善化區中山路368號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-03-25 18:24:41",
+    "expected_datetime": "2017-03-25 17:53:00"
+}
