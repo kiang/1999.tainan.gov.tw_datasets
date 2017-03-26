@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區成功路109號 違規停車",
     "address_string": "台南市永康區成功路109號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9978688",
+    "long": "120.2073479",
     "service_notice": {},
     "updated_datetime": "2017-03-24 22:52:36",
     "expected_datetime": "2017-03-24 19:49:00"
