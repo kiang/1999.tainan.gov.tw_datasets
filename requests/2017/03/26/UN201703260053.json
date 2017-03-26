@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703260053",
     "requested_datetime": "2017-03-26 09:36:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區復國二路25-1號，復國里活動中心前 違規停車",
     "address_string": "710台灣台南市永康區復國二路25-1號",
     "lat": "23.0051877",
     "long": "120.2474771",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-26 14:35:08",
     "expected_datetime": "2017-03-26 09:36:00"
 }
