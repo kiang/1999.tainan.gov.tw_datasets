@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703280063",
+    "requested_datetime": "2017-03-28 09:38:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "東區崇學路198號及202號 騎樓舉發",
+    "address_string": "崇學路198號202號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-03-28 10:18:22",
+    "expected_datetime": "2017-03-28 09:38:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703280031",
+    "requested_datetime": "2017-03-28 08:37:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "永康區中華路154巷15弄 佔用道路",
+    "address_string": "永康區中華路154巷15弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-03-28 10:32:20",
+    "expected_datetime": "2017-04-04 08:37:00"
+}
