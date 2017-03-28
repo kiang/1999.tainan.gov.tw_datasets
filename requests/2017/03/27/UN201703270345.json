@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703270345",
     "requested_datetime": "2017-03-27 23:42:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "安南區安和路四段537巷62號噪音舉發",
     "address_string": "台南市安南區安和路四段537巷62號",
     "lat": "23.0623062",
     "long": "120.2178673",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-28 08:33:12",
     "expected_datetime": "2017-03-27 23:42:00"
 }
