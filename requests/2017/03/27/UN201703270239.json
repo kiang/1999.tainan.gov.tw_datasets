@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703270239",
     "requested_datetime": "2017-03-27 17:07:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "第二分局民權派出所前永福路二段，從派出所及對面牙科和前方全美戲院 違停",
     "address_string": {},
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-28 07:42:39",
     "expected_datetime": "2017-04-03 17:07:00"
 }
