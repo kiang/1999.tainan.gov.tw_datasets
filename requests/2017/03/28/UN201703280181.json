@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201703280181",
     "requested_datetime": "2017-03-28 14:40:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "中西區永福路二段130號 違規停車",
     "address_string": "台南市中西區永福路二段130號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9940178",
+    "long": "120.2014565",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-28 16:39:46",
     "expected_datetime": "2017-03-28 14:40:00"
 }
