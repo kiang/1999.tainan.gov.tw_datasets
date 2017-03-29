@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703290284",
+    "requested_datetime": "2017-03-29 19:29:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "中西區成功路和金華路口，菱洲宮 妨害安寧",
+    "address_string": "中西區成功路金華路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-03-29 22:00:34",
+    "expected_datetime": "2017-04-05 19:29:00"
+}
