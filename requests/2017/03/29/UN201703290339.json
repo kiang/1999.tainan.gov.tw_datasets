@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703290339",
     "requested_datetime": "2017-03-29 23:31:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "中西區成功路上金華路海安路 廟會妨礙安寧",
     "address_string": "中西區成功路上金華路海安路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-30 02:35:03",
     "expected_datetime": "2017-04-05 23:31:00"
 }
