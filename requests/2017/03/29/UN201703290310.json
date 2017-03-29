@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201703290310",
     "requested_datetime": "2017-03-29 21:15:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "安平區華平路648號違規停車",
     "address_string": "安平區華平路648號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9957551",
+    "long": "120.1757761",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-29 22:46:54",
     "expected_datetime": "2017-03-29 21:15:00"
 }
