@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703270212",
     "requested_datetime": "2017-03-27 16:09:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府都市發展局,臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "永康區大安街326巷 噴漆空氣污染及住宅區設立工廠",
     "address_string": "永康區大安街326巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-29 16:25:06",
     "expected_datetime": "2017-04-03 16:09:00"
 }
