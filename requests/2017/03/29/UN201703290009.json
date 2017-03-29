@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703290009",
     "requested_datetime": "2017-03-29 02:05:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "南區金華路一段283號 騎樓舉發",
     "address_string": "台南市南區金華路一段283號",
     "lat": "22.9681027",
     "long": "120.1900467",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-29 07:24:21",
     "expected_datetime": "2017-03-29 02:05:00"
 }
