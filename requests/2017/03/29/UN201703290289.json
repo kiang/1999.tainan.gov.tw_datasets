@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703290289",
     "requested_datetime": "2017-03-29 19:39:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "東區中華東路一段，南紡購物中心對面 妨害安寧",
     "address_string": "東區中華東路一段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9932289",
+    "long": "120.2340371",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-29 20:08:13",
     "expected_datetime": "2017-04-05 19:39:00"
 }

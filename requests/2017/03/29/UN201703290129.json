@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703290129",
+    "requested_datetime": "2017-03-29 11:52:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區大同路二段615號，亞伯大飯店附近及騎樓 違停",
+    "address_string": "東區大同路二段615號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-03-29 20:42:26",
+    "expected_datetime": "2017-04-05 11:52:00"
+}
