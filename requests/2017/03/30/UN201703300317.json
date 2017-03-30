@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703300317",
     "requested_datetime": "2017-03-30 21:45:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區中華路359號，林志民牙醫診所前 違規停車",
     "address_string": "710台灣台南市永康區中華路359號",
     "lat": "23.0089887",
     "long": "120.2335578",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-31 03:02:29",
     "expected_datetime": "2017-03-30 21:45:00"
 }
