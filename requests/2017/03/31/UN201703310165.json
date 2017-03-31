@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201703310165",
+    "requested_datetime": "2017-03-31 14:08:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "南區金華路一段475巷 佔用道路",
+    "address_string": "南區金華路一段475巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-03-31 17:53:44",
+    "expected_datetime": "2017-04-07 14:08:00"
+}

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201703310200",
     "requested_datetime": "2017-03-31 15:34:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區中華北路一段203巷84號 違規停車",
     "address_string": "台南市北區中華北路一段203巷84號",
     "lat": "23.0087366",
     "long": "120.1855824",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-03-31 17:48:11",
     "expected_datetime": "2017-03-31 15:34:00"
 }
