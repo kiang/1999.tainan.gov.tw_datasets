@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704010093",
+    "requested_datetime": "2017-04-01 11:04:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌故障",
+    "description": "安南區安和路一段148號斜對面  號誌燈垂掉",
+    "address_string": "安南區安和路一段148號斜對面",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-08 11:04:00"
+}
