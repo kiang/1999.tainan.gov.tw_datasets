@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704010203",
+    "requested_datetime": "2017-04-01 16:48:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區民生路二段與海安路二段口，名東蛋糕 違停",
+    "address_string": "中西區民生路二段海安路二段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-04-01 19:39:02",
+    "expected_datetime": "2017-04-08 16:48:00"
+}
