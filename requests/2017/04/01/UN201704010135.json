@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704010135",
+    "requested_datetime": "2017-04-01 12:54:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區三官路176巷18號 違規停車",
+    "address_string": "南區三官路176巷18號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-04-01 15:10:32",
+    "expected_datetime": "2017-04-08 12:54:00"
+}

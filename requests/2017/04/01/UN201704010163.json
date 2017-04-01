@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區中華東路三段332號違規停車",
     "address_string": "東區中華東路三段332號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9747216",
+    "long": "120.2215852",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-01 14:35:00"
