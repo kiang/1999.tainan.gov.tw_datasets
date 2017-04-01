@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704010104",
+    "requested_datetime": "2017-04-01 11:23:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "中西區大福街36巷21號 噪音舉發",
+    "address_string": "台南市中西區大福街36巷21號",
+    "lat": "22.999031",
+    "long": "120.19434",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-01 11:23:00"
+}

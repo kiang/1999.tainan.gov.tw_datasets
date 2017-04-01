@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704010123",
+    "requested_datetime": "2017-04-01 12:01:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "永康區大橋一街旁巷內 台中銀行附近  交通疏導",
+    "address_string": "永康區大橋一街旁巷內 台中銀行附近",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-08 12:01:00"
+}
