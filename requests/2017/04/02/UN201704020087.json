@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704020087",
     "requested_datetime": "2017-04-02 12:20:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "南區金華路一段475巷內，學校旁圍牆 佔用道路",
     "address_string": "南區金華路一段475巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-02 17:50:55",
     "expected_datetime": "2017-04-09 12:20:00"
 }
