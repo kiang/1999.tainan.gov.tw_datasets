@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "北區文賢路799巷與大港街38巷口 空污",
     "address_string": "北區文賢路799巷大港街38巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.0157667",
+    "long": "120.1916499",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-09 15:30:00"
