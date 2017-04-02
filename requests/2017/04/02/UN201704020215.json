@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704020215",
+    "requested_datetime": "2017-04-02 20:25:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區騰揮會館前中正路970巷27號 違規停車",
+    "address_string": "騰揮會館前中正路970巷27號",
+    "lat": "23.0412574",
+    "long": "120.2395062",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-02 20:25:00"
+}
