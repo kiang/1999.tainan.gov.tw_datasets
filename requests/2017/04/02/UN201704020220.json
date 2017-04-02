@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704020220",
     "requested_datetime": "2017-04-02 19:12:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "南區大同路二段97巷內  違規停車",
     "address_string": "南區大同路二段97巷",
     "lat": "22.9785025",
     "long": "120.2134088",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-02 22:27:06",
     "expected_datetime": "2017-04-09 19:12:00"
 }

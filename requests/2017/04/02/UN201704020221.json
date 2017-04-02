@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704020221",
     "requested_datetime": "2017-04-02 20:51:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新市區中正路丹丹漢堡 和 全聯 違規停車",
     "address_string": "中正路",
     "lat": "23.984755",
     "long": "120.7468745",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-02 22:29:41",
     "expected_datetime": "2017-04-02 20:51:00"
 }
