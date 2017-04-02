@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區新興路與慶南街口 違規停車",
     "address_string": "新興路",
-    "lat": {},
-    "long": {},
+    "lat": "24.8752821",
+    "long": "121.0030207",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-02 17:34:00"
