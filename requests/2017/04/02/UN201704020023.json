@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "新市區木柵港西路13號 空汙",
     "address_string": "新市區木柵港西路13號",
-    "lat": {},
-    "long": {},
+    "lat": "23.1046737",
+    "long": "120.2552198",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-09 07:38:00"
