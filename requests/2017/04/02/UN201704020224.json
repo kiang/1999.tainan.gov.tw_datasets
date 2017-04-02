@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704020224",
+    "requested_datetime": "2017-04-02 21:18:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區府連路422號\/424號對面人行道 違停",
+    "address_string": "東區府連路422號\/424號對面人行道",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-09 21:18:00"
+}
