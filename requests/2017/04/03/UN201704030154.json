@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201704030154",
     "requested_datetime": "2017-04-03 17:53:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "中西區南寧街33號 違規停車",
     "address_string": "台南市中西區南寧街33號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9844948",
+    "long": "120.2045474",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-03 19:27:09",
     "expected_datetime": "2017-04-03 17:53:00"
 }
