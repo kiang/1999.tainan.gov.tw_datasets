@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704030100",
+    "requested_datetime": "2017-04-03 13:28:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區北門路一段車站機車等候車  違停",
+    "address_string": "東區北門路一段車站機車等候車",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-10 13:28:00"
+}
