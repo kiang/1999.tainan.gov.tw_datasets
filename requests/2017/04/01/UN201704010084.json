@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704010084",
     "requested_datetime": "2017-04-01 10:20:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "永康區中山南路 台南高工 空汙",
     "address_string": "永康區中山南路 台南高工",
     "lat": "23.0145585",
     "long": "120.2335483",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-03 09:35:09",
     "expected_datetime": "2017-04-08 10:20:00"
 }
