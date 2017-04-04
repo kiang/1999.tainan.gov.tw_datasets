@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704020141",
     "requested_datetime": "2017-04-02 15:30:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "北區文賢路799巷與大港街38巷口 空污",
     "address_string": "北區文賢路799巷大港街38巷",
     "lat": "23.0157667",
     "long": "120.1916499",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-04 10:05:05",
     "expected_datetime": "2017-04-09 15:30:00"
 }
