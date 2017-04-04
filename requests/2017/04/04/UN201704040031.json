@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704040031",
+    "requested_datetime": "2017-04-04 09:10:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區安平路402號 違規停車",
+    "address_string": "安平區安平路402號",
+    "lat": "22.9719114",
+    "long": "120.2327464",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-04 09:10:00"
+}
