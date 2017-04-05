@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201704050314",
-    "requested_datetime": "2017-04-05 16:28:00",
-    "status": "已完工",
+    "service_request_id": "UN201704050380",
+    "requested_datetime": "2017-04-05 19:32:00",
+    "status": "未處理",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區中正路529號 違規停車",
-    "address_string": "永康區中正路529號",
+    "address_string": "永康區中正路新行街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": "2017-04-05 19:25:08",
-    "expected_datetime": "2017-04-12 16:28:00"
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-12 19:32:00"
 }

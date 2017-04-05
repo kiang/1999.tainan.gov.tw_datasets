@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704050324",
     "requested_datetime": "2017-04-05 16:49:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區健康路一段260號 違停",
     "address_string": "中西區健康路一段260號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-05 19:43:38",
     "expected_datetime": "2017-04-12 16:49:00"
 }
