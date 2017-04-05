@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704020018",
     "requested_datetime": "2017-04-02 07:13:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "東區林森路二段190巷 空氣汙染",
     "address_string": "東區林森路二段190巷",
     "lat": "22.9887816",
     "long": "120.2236692",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-05 08:33:06",
     "expected_datetime": "2017-04-09 07:13:00"
 }
