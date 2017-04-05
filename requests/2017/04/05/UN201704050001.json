@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704050001",
     "requested_datetime": "2017-04-05 00:37:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "東區崇明路391號 場所連續噪音",
     "address_string": "崇明路391號",
     "lat": "22.9742472",
     "long": "120.2231355",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-05 07:06:23",
     "expected_datetime": "2017-04-05 00:37:00"
 }

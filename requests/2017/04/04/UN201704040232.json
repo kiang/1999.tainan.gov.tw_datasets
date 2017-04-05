@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704040232",
     "requested_datetime": "2017-04-04 22:20:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區復華六街67巷6號 違規停車",
     "address_string": "復華六街67巷6號",
     "lat": "23.012398",
     "long": "120.2481749",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-05 07:02:44",
     "expected_datetime": "2017-04-04 22:20:00"
 }
