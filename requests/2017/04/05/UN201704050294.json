@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區大同路二段615號 違停",
     "address_string": "東區大同路二段615號",
-    "lat": {},
-    "long": {},
+    "lat": "22.967842",
+    "long": "120.2160378",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-12 15:54:00"
