@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704050378",
+    "requested_datetime": "2017-04-05 19:22:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區大橋一街139巷22弄61號巷子",
+    "address_string": "永康區大橋一街139巷22弄61號",
+    "lat": "23.0191311",
+    "long": "120.229943",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-12 19:22:00"
+}
