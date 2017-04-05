@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區西華南街43號違規停車",
     "address_string": "中西區西華南街43號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9940092",
+    "long": "120.2094811",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-05 12:39:00"
