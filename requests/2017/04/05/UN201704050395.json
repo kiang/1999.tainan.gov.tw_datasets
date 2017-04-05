@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704050395",
     "requested_datetime": "2017-04-05 20:26:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區衛民街67號停車場外面 違規停車",
     "address_string": "中西區衛民街67號",
     "lat": "22.9931295",
     "long": "120.2089413",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-06 00:50:08",
     "expected_datetime": "2017-04-05 20:26:00"
 }
