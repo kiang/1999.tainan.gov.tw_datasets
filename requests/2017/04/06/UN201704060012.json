@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704060012",
     "requested_datetime": "2017-04-06 03:35:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "東區東平路12巷9號噪音舉發",
     "address_string": "東平路12巷9號",
     "lat": "22.995564",
     "long": "120.233581",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-06 16:00:48",
     "expected_datetime": "2017-04-06 03:35:00"
 }
