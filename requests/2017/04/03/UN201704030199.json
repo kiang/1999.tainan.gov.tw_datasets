@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704030199",
     "requested_datetime": "2017-04-03 19:52:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "佳里",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "佳里區佳化里166-5號門前 電桿線火花",
     "address_string": "佳里區佳化里166-5號門前",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-06 10:24:59",
     "expected_datetime": "2017-04-10 19:52:00"
 }
