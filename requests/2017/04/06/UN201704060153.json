@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區長榮路四段144巷之13號  違停",
     "address_string": "北區長榮路四段144巷之13號",
-    "lat": {},
-    "long": {},
+    "lat": "23.003169",
+    "long": "120.2222563",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-13 11:43:00"
