@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704060278",
     "requested_datetime": "2017-04-06 17:22:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "歸仁戶政事務所對面 空氣汙染",
     "address_string": "歸仁戶政事務所",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-07 10:18:06",
     "expected_datetime": "2017-04-06 17:22:00"
 }
