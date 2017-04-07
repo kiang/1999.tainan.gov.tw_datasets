@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區中正路752號 違規停車",
     "address_string": "永康區中正路752號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0367288",
+    "long": "120.2422927",
     "service_notice": {},
     "updated_datetime": "2017-04-07 18:42:52",
     "expected_datetime": "2017-04-07 17:54:00"

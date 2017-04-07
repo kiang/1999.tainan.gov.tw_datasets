@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201704070292",
     "requested_datetime": "2017-04-07 17:37:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "騎樓舉發",
@@ -9,9 +9,9 @@
     "subproject": "騎樓舉發",
     "description": "北區開元路142號 佔用騎樓",
     "address_string": "北區開元路142號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0068925",
+    "long": "120.2193318",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-07 19:07:49",
     "expected_datetime": "2017-04-14 17:37:00"
 }
