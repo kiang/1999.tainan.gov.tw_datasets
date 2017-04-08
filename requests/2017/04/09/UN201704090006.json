@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704090006",
+    "requested_datetime": "2017-04-09 01:28:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "北區大興街233巷44弄28號 噪音舉發",
+    "address_string": "704台灣台南市北區大興街233巷44弄28號",
+    "lat": "23.00894698791508",
+    "long": "120.18812097609042",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-09 01:28:00"
+}
