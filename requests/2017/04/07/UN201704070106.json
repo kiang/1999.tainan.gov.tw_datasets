@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704070106",
     "requested_datetime": "2017-04-07 10:18:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "麻豆區中正路31號  空氣汙染",
     "address_string": "麻豆區中正路31號",
     "lat": "23.1843218",
     "long": "120.2486414",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-08 08:39:44",
     "expected_datetime": "2017-04-14 10:18:00"
 }
