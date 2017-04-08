@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704080144",
+    "requested_datetime": "2017-04-08 13:01:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安南區海佃路一段中華電信 違規停車",
+    "address_string": "安南區海佃路一段中華電信",
+    "lat": "23.0248439",
+    "long": "120.191664",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-15 13:01:00"
+}
