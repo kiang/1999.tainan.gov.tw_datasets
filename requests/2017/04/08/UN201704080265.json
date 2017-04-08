@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區文成五街育德三街路燈故障",
     "address_string": "北區文成五街育德三街",
-    "lat": {},
-    "long": {},
+    "lat": "23.0177996",
+    "long": "120.201283",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-15 19:44:00"
