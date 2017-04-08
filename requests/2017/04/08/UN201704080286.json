@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新市區中正路，丹丹漢堡和全聯的轉角紅線和人行道、騎樓 違規停車",
     "address_string": "中正路",
-    "lat": {},
-    "long": {},
+    "lat": "25.0323329",
+    "long": "121.4336602",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-08 21:27:00"
