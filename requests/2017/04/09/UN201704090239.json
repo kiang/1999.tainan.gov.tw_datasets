@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704090239",
     "requested_datetime": "2017-04-09 22:55:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "北區文成三街海安路交接口遠雄建設 施工噪音",
     "address_string": "文成三街海安路",
     "lat": "23.0159807",
     "long": "120.2002775",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-10 01:42:35",
     "expected_datetime": "2017-04-09 22:55:00"
 }
