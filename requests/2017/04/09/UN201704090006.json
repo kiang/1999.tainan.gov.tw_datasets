@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704090006",
     "requested_datetime": "2017-04-09 01:28:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北 區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "北區大興街233巷44弄28號 噪音舉發",
     "address_string": "704台灣台南市北區大興街233巷44弄28號",
     "lat": "23.00894698791508",
     "long": "120.18812097609042",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-09 07:14:55",
     "expected_datetime": "2017-04-09 01:28:00"
 }

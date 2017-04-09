@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704080300",
     "requested_datetime": "2017-04-08 22:43:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區新民街16巷內預轉新民街16巷1弄 違規停車",
     "address_string": "新民街16巷新民街16巷1弄",
     "lat": "25.0082387",
     "long": "121.4811886",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-09 07:08:39",
     "expected_datetime": "2017-04-08 22:43:00"
 }
