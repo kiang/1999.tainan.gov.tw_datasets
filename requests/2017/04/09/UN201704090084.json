@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704090084",
     "requested_datetime": "2017-04-09 12:37:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區大同街和大同街966巷口 違規停車",
     "address_string": "永康區大同街大同街966巷",
     "lat": "23.0229095",
     "long": "120.2633519",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-09 17:13:43",
     "expected_datetime": "2017-04-09 12:37:00"
 }
