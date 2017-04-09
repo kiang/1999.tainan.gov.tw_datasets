@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704090218",
+    "requested_datetime": "2017-04-09 20:51:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安南區海佃路四段一號與本原街",
+    "address_string": "安南區海佃路四段一號本原街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-04-09 21:26:27",
+    "expected_datetime": "2017-04-16 20:51:00"
+}
