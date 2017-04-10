@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704100321",
+    "requested_datetime": "2017-04-10 19:44:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "中西區西門路和民生路口 廟會鞭炮噪音",
+    "address_string": "中西區西門路民生路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-04-10 22:58:49",
+    "expected_datetime": "2017-04-17 19:44:00"
+}
