@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704100378",
+    "requested_datetime": "2017-04-10 23:31:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "北區成功路86號(興濟宮) 廟會噪音妨害安寧",
+    "address_string": "北區成功路86號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-04-11 01:00:55",
+    "expected_datetime": "2017-04-17 23:31:00"
+}

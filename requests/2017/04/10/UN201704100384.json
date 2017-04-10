@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704100384",
+    "requested_datetime": "2017-04-10 23:42:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "場所連續噪音",
+    "description": "仁德區保生宮前 廟會噪音舉發",
+    "address_string": "保生宮前",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-04-11 00:59:04",
+    "expected_datetime": "2017-04-10 23:42:00"
+}
