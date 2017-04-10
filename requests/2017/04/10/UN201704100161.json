@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704100161",
+    "requested_datetime": "2017-04-10 13:05:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區青年路115號和117號中間 黃線違停",
+    "address_string": "中西區青年路115號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-04-10 20:59:10",
+    "expected_datetime": "2017-04-17 13:05:00"
+}
