@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704090243",
     "requested_datetime": "2017-04-09 23:07:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "麻豆監理站對面往東，餐廳附近路中央 狗屍",
     "address_string": "麻豆區新生北路551號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-10 10:49:57",
     "expected_datetime": "2017-04-16 23:07:00"
 }
