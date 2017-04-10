@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704090249",
     "requested_datetime": "2017-04-09 23:47:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
     "subproject": "交通疏導",
     "description": "仁德區太子廟，中正路三段靠近永大路 交通疏導",
     "address_string": "仁德區太子廟",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-10 07:21:12",
     "expected_datetime": "2017-04-16 23:47:00"
 }
