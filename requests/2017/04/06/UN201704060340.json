@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704060340",
     "requested_datetime": "2017-04-06 20:27:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "鹽水區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市鹽水區公所",
     "subproject": "9盞以下路燈故障",
     "description": "鹽水區歡雅台19線104.5公里處 路燈傾斜",
     "address_string": "鹽水區台19線",
     "lat": "23.2734112",
     "long": "120.2262919",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-10 16:30:52",
     "expected_datetime": "2017-04-13 20:27:00"
 }
