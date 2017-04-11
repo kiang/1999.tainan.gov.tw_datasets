@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704110031",
+    "requested_datetime": "2017-04-11 08:14:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "仁德區忠義路199巷口 違規停車",
+    "address_string": "仁德區忠義路199巷",
+    "lat": "22.9747679",
+    "long": "120.2591239",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-18 08:14:00"
+}
