@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區公園路180號，公園國小門口右側 路燈不亮",
     "address_string": "北區公園路180號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0003908",
+    "long": "120.2085746",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-18 21:12:00"
