@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201704110302",
-    "requested_datetime": "2017-04-11 18:56:00",
+    "service_request_id": "UN201704110329",
+    "requested_datetime": "2017-04-11 20:48:00",
     "status": {},
     "keyword": {},
     "area": "東區",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "東區裕學路185巷105號違規停車",
     "address_string": "東區裕學路185巷105號",
-    "lat": "22.9831854",
-    "long": "120.2365285",
+    "lat": {},
+    "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2017-04-11 18:56:00"
+    "expected_datetime": "2017-04-11 20:48:00"
 }

@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區東寧路與裕豐街口 違停",
     "address_string": "東區東寧路裕豐街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9900265",
+    "long": "120.2279758",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-18 18:08:00"
