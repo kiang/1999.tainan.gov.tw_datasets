@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704100105",
     "requested_datetime": "2017-04-10 10:56:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "白河區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "其他汙染舉發",
     "description": "白河區往關仔嶺方向，過白河橋左手邊走到底，堤防邊 偷倒廢土",
     "address_string": "白河區",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-12 15:21:16",
     "expected_datetime": "2017-04-17 10:56:00"
 }
