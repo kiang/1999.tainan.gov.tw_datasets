@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704120203",
+    "requested_datetime": "2017-04-12 16:20:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區中華北路和和緯路口，和緯黃昏市場附近 紅線違停",
+    "address_string": "北區中華北路和緯路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-19 16:20:00"
+}
