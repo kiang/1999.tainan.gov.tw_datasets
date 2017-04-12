@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704120002",
     "requested_datetime": "2017-04-12 00:04:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新市區富強路違規停車",
     "address_string": "富強路",
     "lat": "23.0684581",
     "long": "120.2867872",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-12 09:11:29",
     "expected_datetime": "2017-04-12 00:04:00"
 }
