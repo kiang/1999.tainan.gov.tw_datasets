@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201704120142",
     "requested_datetime": "2017-04-12 13:33:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "北區東豐路111號  違規停車",
     "address_string": "北區東豐路111號",
-    "lat": {},
-    "long": {},
+    "lat": "23.003935",
+    "long": "120.217453",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-12 14:17:20",
     "expected_datetime": "2017-04-19 13:33:00"
 }
