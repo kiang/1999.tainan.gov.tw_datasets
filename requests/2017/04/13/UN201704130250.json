@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區育忠路295號、299號 路燈故障",
     "address_string": "東區裕忠路295號、299號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9807156",
+    "long": "120.2418725",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-20 18:56:00"

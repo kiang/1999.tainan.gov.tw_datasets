@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區東寧路與林森路二段口 違停",
     "address_string": "東區東寧路林森路二段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9910979",
+    "long": "120.2245453",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-20 20:15:00"
