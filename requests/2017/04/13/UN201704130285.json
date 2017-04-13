@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704130285",
     "requested_datetime": "2017-04-13 21:34:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
     "subproject": "交通疏導",
     "description": "南區明興路和喜樹路交叉口 塞車",
     "address_string": "南區明興路喜樹路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-14 00:10:16",
     "expected_datetime": "2017-04-20 21:34:00"
 }
