@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704130117",
+    "requested_datetime": "2017-04-13 12:30:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區自強路600號 違規停車",
+    "address_string": "710台灣台南市永康區自強路600號",
+    "lat": "23.0329197",
+    "long": "120.2572223",
+    "service_notice": {},
+    "updated_datetime": "2017-04-13 16:11:14",
+    "expected_datetime": "2017-04-13 12:30:00"
+}
