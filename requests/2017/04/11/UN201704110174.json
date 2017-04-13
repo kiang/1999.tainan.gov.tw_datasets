@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704110174",
     "requested_datetime": "2017-04-11 14:04:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "東區裕農路779號 髒亂及汙染",
     "address_string": "No. 779, Yunong Rd, East District, Tainan City, Taiwan 701",
     "lat": "22.988938456422638",
     "long": "120.23837065335385",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-13 08:50:32",
     "expected_datetime": "2017-04-11 14:04:00"
 }
