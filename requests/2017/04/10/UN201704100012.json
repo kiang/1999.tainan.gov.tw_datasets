@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局永康分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區新民街66巷違規停車",
     "address_string": "710台灣台南市永康區新民街66巷",
     "lat": "23.0407543",
     "long": "120.2424832",
     "service_notice": {},
-    "updated_datetime": "2017-04-10 07:29:43",
+    "updated_datetime": "2017-04-13 13:39:24",
     "expected_datetime": "2017-04-10 05:01:00"
 }
