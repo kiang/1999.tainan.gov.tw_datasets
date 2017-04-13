@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704100335",
     "requested_datetime": "2017-04-10 20:23:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "山上區",
     "service_name": "道路維修",
-    "agency": "臺南市山上區公所",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "山上區明和里178道路中油加油站斜對面 路面坑洞",
     "address_string": "山上區明和里178道路中油加油站斜對面",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-13 14:05:22",
     "expected_datetime": "2017-04-17 20:23:00"
 }
