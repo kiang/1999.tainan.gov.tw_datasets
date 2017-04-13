@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704120005",
     "requested_datetime": "2017-04-12 01:43:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "東區崇德路與崇德十八街 路燈故障",
     "address_string": "701台灣台南市東區崇德十八街43號",
     "lat": "22.9689019",
     "long": "120.2286891",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-13 09:18:33",
     "expected_datetime": "2017-04-12 01:43:00"
 }

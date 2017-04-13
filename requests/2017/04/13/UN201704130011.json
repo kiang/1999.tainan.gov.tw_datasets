@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704130011",
     "requested_datetime": "2017-04-13 07:17:00",
-    "status": "已完工",
+    "status": {},
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "違規停車",
-    "address_string": "永華路二段495號「湯村足體養生會館」",
+    "description": "安平區永華路二段495號 違規停車",
+    "address_string": "永華路二段495號",
     "lat": "22.9909451",
     "long": "120.1738592",
     "service_notice": {},
-    "updated_datetime": "2017-04-13 09:00:08",
+    "updated_datetime": {},
     "expected_datetime": "2017-04-13 07:17:00"
 }
