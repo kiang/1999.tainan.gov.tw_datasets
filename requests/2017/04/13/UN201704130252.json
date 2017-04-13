@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704130252",
     "requested_datetime": "2017-04-13 18:57:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區永華路一段250巷2號入口 違規停車",
     "address_string": "台南市中西區永華路ㄧ段250巷2號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9879571",
+    "long": "120.1944026",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-13 20:28:05",
     "expected_datetime": "2017-04-13 18:57:00"
 }
