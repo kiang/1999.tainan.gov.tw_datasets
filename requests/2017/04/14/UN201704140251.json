@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704140251",
+    "requested_datetime": "2017-04-14 16:19:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區大學路1號 違規停車",
+    "address_string": "東區大學路1號",
+    "lat": "22.996117514579552",
+    "long": "120.22115858282913",
+    "service_notice": {},
+    "updated_datetime": "2017-04-14 20:26:00",
+    "expected_datetime": "2017-04-14 16:19:00"
+}
