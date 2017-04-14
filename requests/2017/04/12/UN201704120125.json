@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704120125",
     "requested_datetime": "2017-04-12 12:46:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "環境髒亂",
     "description": "府前四街春夏秋冬 路面垃圾",
     "address_string": "府前四街12號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-14 17:10:07",
     "expected_datetime": "2017-04-19 12:46:00"
 }
