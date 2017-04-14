@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區立德五路與立德二路  路燈故障",
     "address_string": "東區立德五路立德二路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9751502",
+    "long": "120.2153086",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-21 20:28:00"

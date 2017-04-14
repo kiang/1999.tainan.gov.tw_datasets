@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704140312",
+    "requested_datetime": "2017-04-14 19:04:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區東橋十街58號 違規停車",
+    "address_string": "台南市永康區東橋十街58號",
+    "lat": "22.995304818389403",
+    "long": "120.23400854319335",
+    "service_notice": {},
+    "updated_datetime": "2017-04-14 23:29:43",
+    "expected_datetime": "2017-04-14 19:04:00"
+}
