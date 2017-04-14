@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704150008",
     "requested_datetime": "2017-04-15 01:53:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府工務局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "後甲公園 妨礙安寧",
     "address_string": "後甲公園",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-15 06:58:42",
     "expected_datetime": "2017-04-22 01:53:00"
 }
