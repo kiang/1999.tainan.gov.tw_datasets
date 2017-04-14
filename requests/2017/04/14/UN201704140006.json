@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704140006",
     "requested_datetime": "2017-04-14 01:21:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東 區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "701台灣台南市東區長榮路二段32巷142號 妨礙安寧",
     "address_string": "701台灣台南市東區長榮路二段32巷142號5F^",
     "lat": "22.987664675314335",
     "long": "120.22145211696625",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-14 07:24:53",
     "expected_datetime": "2017-04-14 01:21:00"
 }
