@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704140191",
     "requested_datetime": "2017-04-14 13:59:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "中西區衛民街86號及69號 違停",
     "address_string": "衛民街86號",
     "lat": "22.9930717",
     "long": "120.2096846",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-14 19:04:30",
     "expected_datetime": "2017-04-14 13:59:00"
 }
