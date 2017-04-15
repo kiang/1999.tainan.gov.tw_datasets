@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704150223",
+    "requested_datetime": "2017-04-15 19:02:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區北安路一段94巷2號 違規停車",
+    "address_string": "704台灣台南市北區北安路一段94巷2號",
+    "lat": "23.016600214083120",
+    "long": "120.21025159577027",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-15 19:02:00"
+}
