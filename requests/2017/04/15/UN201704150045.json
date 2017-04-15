@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區開山路76、78、80、82-1、86號周邊及對面75、77、85號 違規停車",
     "address_string": "開山路86號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9900518",
+    "long": "120.2066853",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-15 09:35:00"
