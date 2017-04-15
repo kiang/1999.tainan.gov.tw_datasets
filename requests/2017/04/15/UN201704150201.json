@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704150201",
+    "requested_datetime": "2017-04-15 17:54:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區公兒23停車場 違規停車",
+    "address_string": "台南市北區公兒23停車場",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-04-15 18:50:18",
+    "expected_datetime": "2017-04-15 17:54:00"
+}
