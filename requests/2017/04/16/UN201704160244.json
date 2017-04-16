@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704160244",
     "requested_datetime": "2017-04-16 22:06:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區東門路三段204號違規停車",
     "address_string": "東區東門路三段204號",
     "lat": "22.9773885",
     "long": "120.2340467",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-17 03:16:56",
     "expected_datetime": "2017-04-16 22:06:00"
 }
