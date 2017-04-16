@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201704160034",
     "requested_datetime": "2017-04-16 09:04:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "東區立德二路86號、立德二路54巷 附近  違停",
     "address_string": "東區立德二路86號、立德二路54巷 附近",
-    "lat": {},
-    "long": {},
+    "lat": "22.9751638",
+    "long": "120.2157222",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-16 11:48:12",
     "expected_datetime": "2017-04-23 09:04:00"
 }
