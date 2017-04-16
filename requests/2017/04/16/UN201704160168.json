@@ -9,8 +9,8 @@
     "subproject": "公車動態LED跑馬燈資訊顯示異常",
     "description": "北區成功路 火車站北站公車動態跑馬燈故障",
     "address_string": "北區成功路 火車站北站",
-    "lat": {},
-    "long": {},
+    "lat": "22.9971831",
+    "long": "120.2125774",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-23 16:07:00"
