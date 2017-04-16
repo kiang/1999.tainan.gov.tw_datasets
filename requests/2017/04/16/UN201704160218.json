@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704160218",
+    "requested_datetime": "2017-04-16 19:42:00",
+    "status": {},
+    "keyword": {},
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "新營區三民路民權路口 違規停車",
+    "address_string": "新營區三民路民權路",
+    "lat": "23.3069189",
+    "long": "120.3125008",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-16 19:42:00"
+}
