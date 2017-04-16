@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704160012",
     "requested_datetime": "2017-04-16 05:58:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "701台灣台南市東區裕敬二街妨礙安寧",
     "address_string": "701台灣台南市東區裕敬二街",
     "lat": "22.9782766",
     "long": "120.2468105",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-16 09:59:21",
     "expected_datetime": "2017-04-16 05:58:00"
 }
