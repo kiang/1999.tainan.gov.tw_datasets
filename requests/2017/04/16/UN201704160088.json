@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704160088",
+    "requested_datetime": "2017-04-16 11:59:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區樹林街二段整條(西門路二段^南門路) 、新光三越 違停",
+    "address_string": "中西區樹林街二段整條(西門路二段^南門路) 、新光三越",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-23 11:59:00"
+}
