@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704170144",
     "requested_datetime": "2017-04-17 12:46:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區民權路二段104號125號113號 違規停車",
     "address_string": "中西區民權路二段104號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9948763",
+    "long": "120.2038246",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-17 14:01:40",
     "expected_datetime": "2017-04-17 12:46:00"
 }
