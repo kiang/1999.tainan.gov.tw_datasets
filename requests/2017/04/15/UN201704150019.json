@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201704150019",
     "requested_datetime": "2017-04-15 07:05:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "交通運輸",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-17 11:25:33",
     "expected_datetime": "2017-04-22 07:05:00"
 }
