@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704170124",
+    "requested_datetime": "2017-04-17 11:35:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區中華東路二段349號與355號 違停",
+    "address_string": "東區中華東路二段349號",
+    "lat": "22.98131",
+    "long": "120.229924",
+    "service_notice": {},
+    "updated_datetime": "2017-04-17 12:12:49",
+    "expected_datetime": "2017-04-24 11:35:00"
+}
