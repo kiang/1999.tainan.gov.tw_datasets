@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "永康區大灣路205號 空汙",
     "address_string": "永康區大灣路205號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0077592",
+    "long": "120.2683211",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-24 00:49:00"

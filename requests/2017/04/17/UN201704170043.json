@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區安和路一段288巷169號之8 路燈故障",
     "address_string": "安南區安和路一段288巷169號之8",
-    "lat": {},
-    "long": {},
+    "lat": "23.033765",
+    "long": "120.2175569",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-24 08:35:00"
