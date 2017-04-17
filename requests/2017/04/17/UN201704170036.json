@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704170036",
+    "requested_datetime": "2017-04-17 08:23:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "善化區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "善化區文昌路與光復路 交通阻塞",
+    "address_string": "善化區文昌路與光復路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-04-17 08:55:54",
+    "expected_datetime": "2017-04-24 08:23:00"
+}
