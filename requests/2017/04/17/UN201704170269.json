@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704170269",
+    "requested_datetime": "2017-04-17 17:57:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區中華東路三段399巷24弄28號左右 違規停車",
+    "address_string": "東區中華東路三段399巷24弄28號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-04-17 22:39:22",
+    "expected_datetime": "2017-04-24 17:57:00"
+}
