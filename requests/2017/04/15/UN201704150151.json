@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704150151",
     "requested_datetime": "2017-04-15 14:44:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "安南區海中街77巷55號至61號間，建築工地 噪音",
     "address_string": "安南區海中街77巷55號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-18 00:34:16",
     "expected_datetime": "2017-04-22 14:44:00"
 }
