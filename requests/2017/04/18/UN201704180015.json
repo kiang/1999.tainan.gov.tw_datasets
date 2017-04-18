@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704180015",
+    "requested_datetime": "2017-04-18 06:30:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區金華路四段64號違規停車",
+    "address_string": "金華路四段64號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-04-18 07:25:11",
+    "expected_datetime": "2017-04-18 06:30:00"
+}
