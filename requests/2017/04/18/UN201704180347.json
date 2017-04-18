@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704180347",
+    "requested_datetime": "2017-04-18 21:34:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "702台灣台南市南區國民路23號佔用道路",
+    "address_string": "702台灣台南市南區國民路23號",
+    "lat": "22.9676185",
+    "long": "120.2150081",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-18 21:34:00"
+}
