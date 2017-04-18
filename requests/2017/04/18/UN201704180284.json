@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704180284",
+    "requested_datetime": "2017-04-18 17:42:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "麻豆區",
+    "service_name": "民生管線",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "麻豆區興國路42之19號與42之18號 孔蓋鬆動",
+    "address_string": "麻豆區興國路42之19號與42之18號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-25 17:42:00"
+}
