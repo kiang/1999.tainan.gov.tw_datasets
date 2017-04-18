@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704170007",
     "requested_datetime": "2017-04-17 00:49:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "永康區大灣路205號 空汙",
     "address_string": "永康區大灣路205號",
     "lat": "23.0077592",
     "long": "120.2683211",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-18 16:23:20",
     "expected_datetime": "2017-04-24 00:49:00"
 }
