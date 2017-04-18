@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區金華路四段64號違規停車",
     "address_string": "金華路四段64號",
-    "lat": {},
-    "long": {},
+    "lat": "22.997608",
+    "long": "120.1946297",
     "service_notice": {},
     "updated_datetime": "2017-04-18 07:25:11",
     "expected_datetime": "2017-04-18 06:30:00"
