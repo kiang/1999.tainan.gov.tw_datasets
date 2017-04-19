@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704190289",
+    "requested_datetime": "2017-04-19 20:03:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區復華一街19巷 紫龍宮 違規停車",
+    "address_string": "永康區復華一街19巷",
+    "lat": "23.0047515",
+    "long": "120.2453656",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-19 20:03:00"
+}
