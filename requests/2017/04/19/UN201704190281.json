@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區信義街46巷 路燈故障",
     "address_string": "中西區信義街46巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.0000446",
+    "long": "120.1961441",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-26 19:24:00"
