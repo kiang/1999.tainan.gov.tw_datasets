@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704190305",
+    "requested_datetime": "2017-04-19 21:29:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區新民街77巷8弄，要進去社區處 紅線違停",
+    "address_string": "永康區新民街77巷8弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-26 21:29:00"
+}
