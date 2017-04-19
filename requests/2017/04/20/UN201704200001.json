@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704200001",
+    "requested_datetime": "2017-04-20 00:16:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "永康區中華二路 路面坑洞",
+    "address_string": "永康區中華二路 中山東路",
+    "lat": "23.0085172",
+    "long": "120.2377848",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-27 00:16:00"
+}

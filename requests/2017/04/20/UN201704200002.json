@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704200002",
+    "requested_datetime": "2017-04-20 00:23:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "東區莊敬路17號    道路散落物",
+    "address_string": "東區莊敬路17號",
+    "lat": "22.9934001",
+    "long": "120.2325424",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-27 00:23:00"
+}
