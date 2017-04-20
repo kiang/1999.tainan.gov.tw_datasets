@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704200331",
     "requested_datetime": "2017-04-20 21:33:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "東區東興路二段59號 妨害安寧",
     "address_string": "東區東興路二段59號",
     "lat": "24.8021235",
     "long": "121.0515086",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-21 05:57:38",
     "expected_datetime": "2017-04-27 21:33:00"
 }
