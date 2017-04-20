@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新營區府西路228號 違停",
     "address_string": "新營區府西路228號",
-    "lat": {},
-    "long": {},
+    "lat": "23.317406",
+    "long": "120.313729",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-27 12:50:00"
