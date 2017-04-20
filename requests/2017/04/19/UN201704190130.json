@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704190130",
     "requested_datetime": "2017-04-19 11:53:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "路燈故障",
-    "agency": "臺南市政府工務局",
+    "agency": "台南市政府",
     "subproject": "9盞以下路燈故障",
     "description": "東區裕農路621巷63-4號門前路燈不亮",
     "address_string": "東區裕農路621巷63-4號門前",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-20 08:59:58",
     "expected_datetime": "2017-04-26 11:53:00"
 }
