@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704200151",
     "requested_datetime": "2017-04-20 12:50:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新營區府西路228號 違停",
     "address_string": "新營區府西路228號",
     "lat": "23.317406",
     "long": "120.313729",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-20 14:37:12",
     "expected_datetime": "2017-04-27 12:50:00"
 }
