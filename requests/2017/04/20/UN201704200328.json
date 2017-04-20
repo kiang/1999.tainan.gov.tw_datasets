@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區西寧街25號與37號 違停",
     "address_string": "中西區西寧街25號",
-    "lat": {},
-    "long": {},
+    "lat": "22.997149",
+    "long": "120.1917842",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-27 21:18:00"
