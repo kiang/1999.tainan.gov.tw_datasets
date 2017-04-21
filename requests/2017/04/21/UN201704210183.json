@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704210183",
     "requested_datetime": "2017-04-21 14:28:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區公園南路358號  違停",
     "address_string": "北區公園南路358號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0030618",
+    "long": "120.2026601",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-21 17:54:31",
     "expected_datetime": "2017-04-28 14:28:00"
 }
