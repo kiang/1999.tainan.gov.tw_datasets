@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704210342",
     "requested_datetime": "2017-04-21 21:41:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區自強路330巷23號前 違規停車",
     "address_string": "710台灣台南市永康區自強路330巷23號",
     "lat": "23.0286083",
     "long": "120.2532217",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-21 23:58:52",
     "expected_datetime": "2017-04-21 21:41:00"
 }
