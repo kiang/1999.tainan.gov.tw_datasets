@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "將軍區將貴里70號前面路口 路燈故障",
     "address_string": "將軍區將貴里70號",
-    "lat": {},
-    "long": {},
+    "lat": "23.2067064",
+    "long": "120.1401654",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-28 19:45:00"
