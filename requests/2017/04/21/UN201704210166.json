@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704210166",
+    "requested_datetime": "2017-04-21 13:42:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "中西區健康路一段2號道路維修",
+    "address_string": "700台灣台南市中西區健康路一段2號",
+    "lat": "22.980941769719312",
+    "long": "120.21215926855801",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-21 13:42:00"
+}
