@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704220141",
+    "requested_datetime": "2017-04-22 15:23:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區育平九街246巷和國平路591巷交叉口 違停轉角紅線",
+    "address_string": "安平區育平九街246巷國平路591巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-04-22 19:36:14",
+    "expected_datetime": "2017-04-29 15:23:00"
+}
