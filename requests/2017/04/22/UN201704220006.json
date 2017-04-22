@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "北區賢北街大興街 號誌故障",
     "address_string": "北區賢北街大興街",
-    "lat": {},
-    "long": {},
+    "lat": "23.0092148",
+    "long": "120.1828041",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-29 01:01:00"

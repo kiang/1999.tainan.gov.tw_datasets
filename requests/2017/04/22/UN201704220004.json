@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安平區文平路建平一街 路燈故障",
     "address_string": "安平區文平路建平一街",
-    "lat": {},
-    "long": {},
+    "lat": "22.984251",
+    "long": "120.1774825",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-29 00:54:00"
