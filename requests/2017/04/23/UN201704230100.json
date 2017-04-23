@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "東區小東路250號之1到250號之4 佔用道路",
     "address_string": "東區小東路250號之1",
-    "lat": {},
-    "long": {},
+    "lat": "22.9989651",
+    "long": "120.230116",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-30 13:17:00"
