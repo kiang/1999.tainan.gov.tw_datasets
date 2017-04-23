@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704230110",
+    "requested_datetime": "2017-04-23 13:56:00",
+    "status": {},
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安南區長和路一段250號 違規停車",
+    "address_string": "709台南市安南區長和路一段250號",
+    "lat": "23.0583737",
+    "long": "120.2349839",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-23 13:56:00"
+}
