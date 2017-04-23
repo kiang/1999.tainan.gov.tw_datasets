@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704230137",
     "requested_datetime": "2017-04-23 16:07:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "違規停車 丹丹漢堡 和 全聯 的 轉角紅線 和 人行道 騎樓",
     "address_string": "新市區中正路丹丹漢堡",
     "lat": "23.0741017",
     "long": "120.2914464",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-23 19:51:41",
     "expected_datetime": "2017-04-23 16:07:00"
 }
