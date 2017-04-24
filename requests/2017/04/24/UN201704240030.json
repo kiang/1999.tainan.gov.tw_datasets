@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704240030",
+    "requested_datetime": "2017-04-24 08:49:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區文成里文賢路292巷35號 北區海安路三段135巷 路燈",
+    "address_string": "北區文成里文賢路292巷35號 北區海安路三段135巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-01 08:49:00"
+}
