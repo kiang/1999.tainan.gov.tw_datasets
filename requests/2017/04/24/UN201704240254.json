@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區大同路二段9號 違規停車",
     "address_string": "中西區大同路二段9號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9803718",
+    "long": "120.2112657",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-24 18:09:00"
