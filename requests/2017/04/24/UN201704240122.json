@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704240122",
+    "requested_datetime": "2017-04-24 12:01:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "台南市北區南園街127巷17弄違規停車",
+    "address_string": "台南市北區南園街127巷17弄",
+    "lat": "23.0091904",
+    "long": "120.2282524",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-24 12:01:00"
+}

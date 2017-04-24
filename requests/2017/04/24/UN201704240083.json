@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "南區長南街36巷佔用道路",
     "address_string": "南區長南街36巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.982865",
+    "long": "120.1902834",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-05-01 10:24:00"

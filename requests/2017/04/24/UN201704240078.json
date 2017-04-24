@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201704240078",
     "requested_datetime": "2017-04-24 10:27:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "東區中華東路二段345號前違規停車",
     "address_string": "東區中華東路二段345號前",
-    "lat": {},
-    "long": {},
+    "lat": "22.9868484",
+    "long": "120.2330004",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-24 12:11:30",
     "expected_datetime": "2017-04-24 10:27:00"
 }
