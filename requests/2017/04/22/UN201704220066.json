@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704220066",
     "requested_datetime": "2017-04-22 10:49:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "東區裕農路771巷1弄38號  場所連續噪音",
     "address_string": "東區裕農路771巷1弄38號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-24 17:29:00",
     "expected_datetime": "2017-04-29 10:49:00"
 }
