@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704240103",
     "requested_datetime": "2017-04-24 11:15:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府教育局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "東區富農街二段33號 妨害安寧",
     "address_string": "富農街二段33號",
     "lat": "22.9859038",
     "long": "120.2355401",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-24 14:04:26",
     "expected_datetime": "2017-04-24 11:15:00"
 }
