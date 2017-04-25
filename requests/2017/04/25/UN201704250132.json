@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "高鐵台南站 佔用道路",
     "address_string": "歸仁區",
-    "lat": {},
-    "long": {},
+    "lat": "22.9519268",
+    "long": "120.2858846",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-05-02 12:32:00"
