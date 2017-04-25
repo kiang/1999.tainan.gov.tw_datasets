@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704240281",
     "requested_datetime": "2017-04-24 19:11:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區育平9街192巷102號旁，平通里活動中心廣場門口 違規停車",
     "address_string": "育平9街192巷102號",
     "lat": "22.996394",
     "long": "120.170762",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-25 07:27:32",
     "expected_datetime": "2017-04-24 19:11:00"
 }
