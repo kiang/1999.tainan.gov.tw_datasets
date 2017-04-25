@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704250132",
     "requested_datetime": "2017-04-25 12:32:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "高鐵台南站 佔用道路",
     "address_string": "歸仁區",
     "lat": "22.9519268",
     "long": "120.2858846",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-25 14:58:39",
     "expected_datetime": "2017-05-02 12:32:00"
 }
