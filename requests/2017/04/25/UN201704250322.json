@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704250322",
     "requested_datetime": "2017-04-25 20:10:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "台南市東區崇德四街七巷12號違規停車",
     "address_string": "台南市東區崇德四街七巷12號",
     "lat": "22.9776831",
     "long": "120.225107",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-26 01:28:47",
     "expected_datetime": "2017-04-25 20:10:00"
 }
