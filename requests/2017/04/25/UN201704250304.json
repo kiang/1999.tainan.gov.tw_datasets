@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704250304",
+    "requested_datetime": "2017-04-25 19:08:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "東區仁和路文化三街 佔用騎樓",
+    "address_string": "東區仁和路文化三街",
+    "lat": "22.9757365",
+    "long": "120.2306331",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-02 19:08:00"
+}
