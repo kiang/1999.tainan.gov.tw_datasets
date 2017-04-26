@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704260298",
+    "requested_datetime": "2017-04-26 20:36:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區鹽行里仁愛街108巷與仁愛街108巷21弄 違規停車",
+    "address_string": "永康區鹽行里仁愛街108巷21弄",
+    "lat": "23.0445822",
+    "long": "120.2408316",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-26 20:36:00"
+}
