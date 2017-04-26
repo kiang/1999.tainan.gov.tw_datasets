@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區海安路三段815號旁 路燈故障",
     "address_string": "北區海安路三段815號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0162323",
+    "long": "120.2003665",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-05-03 20:47:00"

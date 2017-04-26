@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704260315",
+    "requested_datetime": "2017-04-26 22:07:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "安南區安和路一段18巷17弄6號 停水",
+    "address_string": "安南區安和路一段18巷17弄6號",
+    "lat": "23.027987",
+    "long": "120.217172",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-03 22:07:00"
+}
