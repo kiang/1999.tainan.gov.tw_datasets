@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區中成路  違規停車",
     "address_string": "中成路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9970008",
+    "long": "120.2050903",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-26 14:55:00"
