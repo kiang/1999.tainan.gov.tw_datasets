@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區東榮街 路燈故障",
     "address_string": "東區東榮街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9900815",
+    "long": "120.215341",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-05-03 19:15:00"
