@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安平區平生路67號  違停",
     "address_string": "安平區平生路67號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0010632",
+    "long": "120.1643358",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-05-03 23:51:00"
