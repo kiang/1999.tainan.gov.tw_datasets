@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704260294",
     "requested_datetime": "2017-04-26 20:11:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區中正南路242巷4弄 違規停車",
     "address_string": "永康區中正南路242巷4弄",
     "lat": "23.0258162",
     "long": "120.2239981",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-27 03:54:47",
     "expected_datetime": "2017-04-26 20:11:00"
 }
