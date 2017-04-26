@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安定區港南里港口142之5號 違停",
     "address_string": "安定區港南里港口142之5號",
-    "lat": {},
-    "long": {},
+    "lat": "23.087846",
+    "long": "120.2287036",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-05-03 13:26:00"
