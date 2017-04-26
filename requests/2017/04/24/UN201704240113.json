@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704240113",
     "requested_datetime": "2017-04-24 11:32:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "民生管線",
-    "agency": "臺南市政府聯合服務中心",
+    "agency": "台南市政府",
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "永康區南台街8號 南台科大守衛室前方   台電電線掉落",
     "address_string": "永康區南台街8號 南台科大守衛室前方",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-26 12:01:26",
     "expected_datetime": "2017-05-01 11:32:00"
 }
