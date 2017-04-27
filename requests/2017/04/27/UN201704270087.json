@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704270087",
     "requested_datetime": "2017-04-27 10:29:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "歸仁區民權南路312號 違規停車",
     "address_string": "歸仁區民權南路312號",
     "lat": "22.9617499",
     "long": "120.2875868",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-27 17:22:08",
     "expected_datetime": "2017-04-27 10:29:00"
 }
