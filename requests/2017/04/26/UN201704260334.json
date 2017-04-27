@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704260334",
     "requested_datetime": "2017-04-26 23:40:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "官田區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "官田區南廍里35之2號 道路散落物",
     "address_string": "官田區南廍里35之2號",
     "lat": "23.1995224",
     "long": "120.3178945",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-27 16:21:14",
     "expected_datetime": "2017-05-03 23:40:00"
 }
