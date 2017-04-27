@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704270205",
     "requested_datetime": "2017-04-27 15:37:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "東區仁何路騎樓舉發",
     "address_string": "東區仁何路",
     "lat": "22.9650282",
     "long": "120.2368416",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-27 18:20:50",
     "expected_datetime": "2017-05-04 15:37:00"
 }

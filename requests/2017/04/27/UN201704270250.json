@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704270250",
+    "requested_datetime": "2017-04-27 17:49:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區民族路二段57號 違規停車",
+    "address_string": "中西區民族路二段57號",
+    "lat": "22.9941968",
+    "long": "120.2100977",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-27 17:49:00"
+}

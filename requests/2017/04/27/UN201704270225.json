@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區永康國小以及永康國中的後門 違停",
     "address_string": "永康區永康國小以及永康國中的後門",
-    "lat": {},
-    "long": {},
+    "lat": "23.0259331",
+    "long": "120.2559899",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-05-04 16:29:00"
