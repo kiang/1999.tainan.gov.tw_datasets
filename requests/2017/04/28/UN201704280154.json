@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704280154",
     "requested_datetime": "2017-04-28 13:11:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "騎樓舉發",
-    "agency": "臺南市政府交通局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局勤務指揮中心,臺南市停車管理處",
     "subproject": "騎樓舉發",
     "description": "永康區鹽行里中正南路768號 騎樓舉發",
     "address_string": "永康區鹽行里中正南路768號",
     "lat": "23.040604",
     "long": "120.2366418",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-28 19:05:50",
     "expected_datetime": "2017-04-28 13:11:00"
 }
