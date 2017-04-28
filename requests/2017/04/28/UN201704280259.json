@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704280259",
+    "requested_datetime": "2017-04-28 17:37:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "東區林森路一段與東門路二段 交通疏導",
+    "address_string": "東區林森路一段東門路二段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-05 17:37:00"
+}
