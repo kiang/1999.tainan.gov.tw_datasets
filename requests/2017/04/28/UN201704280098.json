@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704280098",
     "requested_datetime": "2017-04-28 11:05:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "下營區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "下營區茅港里三山國王廟 妨害安寧",
     "address_string": "下營區茅港里三山國王廟",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-28 18:44:06",
     "expected_datetime": "2017-05-05 11:05:00"
 }
