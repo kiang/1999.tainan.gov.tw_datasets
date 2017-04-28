@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704280075",
     "requested_datetime": "2017-04-28 10:14:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "東區崇學路135巷口 妨礙安寧",
     "address_string": "東區崇學路135巷口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-28 15:53:11",
     "expected_datetime": "2017-05-05 10:14:00"
 }
