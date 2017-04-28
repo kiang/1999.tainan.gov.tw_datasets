@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區海安路二段29號  違停",
     "address_string": "中西區海安路二段29號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9940885",
+    "long": "120.1963701",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-05-05 23:56:00"
