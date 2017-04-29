@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704290453",
+    "requested_datetime": "2017-04-29 13:31:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區金華路二段33巷79號, 金華零售市場 違規停車",
+    "address_string": "南區金華路二段33巷79號",
+    "lat": "22.9770755",
+    "long": "120.1885753",
+    "service_notice": {},
+    "updated_datetime": "2017-04-29 14:14:53",
+    "expected_datetime": "2017-04-29 13:31:00"
+}
