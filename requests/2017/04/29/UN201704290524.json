@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區西和路268號違規停車",
     "address_string": "700臺南市中西區西和路268號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0027467",
+    "long": "120.1925975",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-29 17:51:00"
