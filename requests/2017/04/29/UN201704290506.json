@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704290506",
+    "requested_datetime": "2017-04-29 17:11:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "永康區民族路110號旁空地前 交通運輸",
+    "address_string": "永康區民族路110號旁空地前",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-04-29 20:51:01",
+    "expected_datetime": "2017-04-29 17:11:00"
+}
