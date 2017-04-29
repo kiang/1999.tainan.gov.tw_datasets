@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201704290467",
     "requested_datetime": "2017-04-29 14:19:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "違規停車",
@@ -12,6 +12,6 @@
     "lat": "22.9608038",
     "long": "120.2451253",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-29 16:31:26",
     "expected_datetime": "2017-05-06 14:19:00"
 }

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704290487",
+    "requested_datetime": "2017-04-29 15:45:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "安平區安億路，原住民文化會館公車站 佔用道路",
+    "address_string": "安平區安億路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-04-29 16:59:15",
+    "expected_datetime": "2017-05-06 15:45:00"
+}

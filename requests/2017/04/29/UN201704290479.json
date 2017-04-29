@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201704290479",
     "requested_datetime": "2017-04-29 15:21:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "北區中華北路2段25巷 文中公園違規停車",
     "address_string": "北區中華北路2段25巷 文中公園",
-    "lat": {},
-    "long": {},
+    "lat": "23.0175945",
+    "long": "120.1944714",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-29 16:54:14",
     "expected_datetime": "2017-04-29 15:21:00"
 }
