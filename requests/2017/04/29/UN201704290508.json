@@ -9,9 +9,9 @@
     "subproject": "交通疏導",
     "description": "北區火車站塞車 交通疏導",
     "address_string": "北區北門路火車站",
-    "lat": {},
-    "long": {},
+    "lat": "22.9971831",
+    "long": "120.2125774",
     "service_notice": {},
-    "updated_datetime": "2017-04-29 18:27:10",
+    "updated_datetime": "2017-04-29 18:27:00",
     "expected_datetime": "2017-05-06 17:12:00"
 }
