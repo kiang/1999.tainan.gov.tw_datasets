@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704290497",
+    "requested_datetime": "2017-04-29 16:25:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "仁德區文華一街89號，中華醫專 交通疏導",
+    "address_string": "仁德區文華一街89號",
+    "lat": "22.9608207",
+    "long": "120.2431033",
+    "service_notice": {},
+    "updated_datetime": "2017-04-29 17:23:48",
+    "expected_datetime": "2017-05-06 16:25:00"
+}
