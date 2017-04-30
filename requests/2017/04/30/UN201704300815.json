@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區實踐街39巷29號違停",
     "address_string": "北區實踐街39巷29號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0152902",
+    "long": "120.2185283",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-05-07 19:42:00"

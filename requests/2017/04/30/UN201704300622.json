@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201704300622",
     "requested_datetime": "2017-04-30 00:10:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "永康區鹽行新行街 空氣污染",
     "address_string": "鹽行新行街",
     "lat": "23.0426804",
     "long": "120.2421719",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-04-30 20:22:09",
     "expected_datetime": "2017-04-30 00:10:00"
 }
