@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704300799",
+    "requested_datetime": "2017-04-30 18:25:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北門區",
+    "service_name": "路燈故障",
+    "agency": "臺南市北門區公所",
+    "subproject": "9盞以下路燈故障",
+    "description": "北門區中樞里漁權會後門 路燈不亮",
+    "address_string": "北門區中樞里漁權會後門",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-07 18:25:00"
+}

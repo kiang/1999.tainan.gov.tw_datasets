@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區北忠街58巷56號違規停車",
     "address_string": "北區北忠街58巷56號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9999128",
+    "long": "120.2112126",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-04-30 18:32:00"
