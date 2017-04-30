@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新化區正新北路*正新路  違停",
     "address_string": "新化區正新北路*正新路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0412429",
+    "long": "120.3030161",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-05-07 10:32:00"
