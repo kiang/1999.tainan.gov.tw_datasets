@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安平區平通路580巷*國平路591巷 違停",
     "address_string": "安平區平通路580巷*國平路591巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.9964767",
+    "long": "120.1706083",
     "service_notice": {},
     "updated_datetime": "2017-04-30 21:46:49",
     "expected_datetime": "2017-05-07 20:13:00"

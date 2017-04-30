@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201704300852",
+    "requested_datetime": "2017-04-30 23:34:00",
+    "status": {},
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安南區海佃路一段97-103號違規停車",
+    "address_string": "709台灣台南市安南區海佃路一段97-103號",
+    "lat": "23.022094779939948",
+    "long": "120.19194568156445",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-04-30 23:34:00"
+}
