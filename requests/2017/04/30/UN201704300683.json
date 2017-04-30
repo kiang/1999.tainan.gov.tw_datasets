@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新營區新進路一段68號 違停",
     "address_string": "新營區新進路一段68號",
-    "lat": {},
-    "long": {},
+    "lat": "23.3011142",
+    "long": "120.3144626",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-05-07 11:49:00"
