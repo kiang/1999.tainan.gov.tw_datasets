@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "新化區正新路跟中山北路 空汙",
     "address_string": "新化區正新路  中山路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0358893",
+    "long": "120.3029023",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-05-08 23:29:00"
