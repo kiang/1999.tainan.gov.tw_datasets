@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705020214",
+    "requested_datetime": "2017-05-02 15:44:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "北區實踐街39巷111號-133號 佔用道路",
+    "address_string": "北區實踐街39巷111號至133號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-09 15:44:00"
+}
