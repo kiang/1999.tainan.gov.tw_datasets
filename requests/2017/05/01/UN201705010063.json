@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705010063",
     "requested_datetime": "2017-05-01 09:28:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北門區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "其他汙染舉發",
     "description": "北門區保吉里53號 汙染舉發",
     "address_string": "北門區保吉里53號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-02 16:46:26",
     "expected_datetime": "2017-05-08 09:28:00"
 }
