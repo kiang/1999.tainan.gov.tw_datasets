@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705030243",
     "requested_datetime": "2017-05-03 16:17:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "歸仁區大德路520號 噪音舉發",
     "address_string": "歸仁區大德路520號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9737106",
+    "long": "120.2882455",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-03 17:12:05",
     "expected_datetime": "2017-05-03 16:17:00"
 }
