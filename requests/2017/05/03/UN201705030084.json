@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705030084",
+    "requested_datetime": "2017-05-03 09:56:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區仁愛街 三村國小圍牆旁  違停",
+    "address_string": "永康區仁愛街 三村國小圍牆旁",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-05-03 10:55:30",
+    "expected_datetime": "2017-05-10 09:56:00"
+}
