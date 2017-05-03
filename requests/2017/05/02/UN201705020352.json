@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705020352",
     "requested_datetime": "2017-05-02 23:37:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "後壁區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "後壁區菁豐里崩埤1-62號 空汙",
     "address_string": "後壁區菁豐里崩埤1-62號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-03 14:37:29",
     "expected_datetime": "2017-05-09 23:37:00"
 }

@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201705030150",
     "requested_datetime": "2017-05-03 12:01:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "中西區開山路76號 違規停車",
     "address_string": "中西區開山路76號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9900953",
+    "long": "120.2065688",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-03 14:37:02",
     "expected_datetime": "2017-05-03 12:01:00"
 }
