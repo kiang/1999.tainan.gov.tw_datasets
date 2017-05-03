@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705030357",
     "requested_datetime": "2017-05-03 22:03:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區二王路6號對面 違規停車",
     "address_string": "710台灣台南市永康區二王路6號",
     "lat": "23.0208403",
     "long": "120.2488389",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-04 01:18:54",
     "expected_datetime": "2017-05-03 22:03:00"
 }
