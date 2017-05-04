@@ -7,10 +7,10 @@
     "service_name": "民生管線",
     "agency": "台南市政府",
     "subproject": "漏水、停水、消防栓漏水或損壞",
-    "description": "中西區法華街27號",
+    "description": "中西區法華街27號 路面冒水",
     "address_string": "中西區法華街27號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9840072",
+    "long": "120.2100371",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-05-11 15:42:00"
