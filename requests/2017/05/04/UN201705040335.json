@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "白河區中山路32-2號違規停車",
     "address_string": "白河區中山路32-2號",
-    "lat": {},
-    "long": {},
+    "lat": "23.3482914",
+    "long": "120.4147135",
     "service_notice": {},
     "updated_datetime": "2017-05-04 23:16:04",
     "expected_datetime": "2017-05-04 20:52:00"
