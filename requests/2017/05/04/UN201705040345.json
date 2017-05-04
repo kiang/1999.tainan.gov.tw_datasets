@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705040345",
     "requested_datetime": "2017-05-04 21:21:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區東寧路201巷30-6號旁 違規停車",
     "address_string": "台南市東區東寧路201巷30之6號",
     "lat": "22.9908379",
     "long": "120.2218836",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-05 04:03:00",
     "expected_datetime": "2017-05-04 21:21:00"
 }
