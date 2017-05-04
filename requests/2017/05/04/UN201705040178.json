@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705040178",
+    "requested_datetime": "2017-05-04 13:43:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "臺南市東區區公所,臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "東區崇德31街、崇德29街及長東街 佔用道路",
+    "address_string": "東區崇德31街崇德29街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-11 13:43:00"
+}
