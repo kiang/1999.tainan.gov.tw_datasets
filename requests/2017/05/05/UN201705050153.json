@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705050153",
+    "requested_datetime": "2017-05-05 13:12:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "東區大同路二段  佔用道路",
+    "address_string": "東區大同路二段小百北貨",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-12 13:12:00"
+}
