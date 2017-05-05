@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705050308",
+    "requested_datetime": "2017-05-05 20:21:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區華平路和建平十七街交叉口 紅線違停",
+    "address_string": "安平區華平路建平十七街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-12 20:21:00"
+}
