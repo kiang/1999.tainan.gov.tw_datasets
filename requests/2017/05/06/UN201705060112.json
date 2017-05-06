@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705060112",
+    "requested_datetime": "2017-05-06 13:06:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區國華街2段86號對面 違規停車",
+    "address_string": "和意路國華街2段",
+    "lat": "22.9910894",
+    "long": "120.1969903",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-06 13:06:00"
+}

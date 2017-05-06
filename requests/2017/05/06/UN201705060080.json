@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705060080",
     "requested_datetime": "2017-05-06 11:09:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區裕農路360號對面 違規停車",
     "address_string": "東區裕農路360號",
     "lat": "22.9871069",
     "long": "120.2300077",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-06 13:56:27",
     "expected_datetime": "2017-05-06 11:09:00"
 }
