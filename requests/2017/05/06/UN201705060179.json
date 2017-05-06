@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區裕農路448之9號 違規停車",
     "address_string": "裕農路448之9號",
-    "lat": {},
-    "long": {},
+    "lat": "23.9609473",
+    "long": "120.5507669",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-05-06 16:07:00"
