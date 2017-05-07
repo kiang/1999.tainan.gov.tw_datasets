@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705070103",
     "requested_datetime": "2017-05-07 13:24:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區忠義路三段和公園南路口，阿憨鹹粥店附近 違停",
     "address_string": "北區忠義路三段公園南路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-07 14:11:03",
     "expected_datetime": "2017-05-14 13:24:00"
 }
