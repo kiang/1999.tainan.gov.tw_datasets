@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705070078",
+    "requested_datetime": "2017-05-07 11:43:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安南區智安一街與功安一街交叉路口 違規停車",
+    "address_string": "臺南市安南區智安一街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-05-07 12:45:13",
+    "expected_datetime": "2017-05-07 11:43:00"
+}
