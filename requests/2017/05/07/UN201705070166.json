@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705070166",
+    "requested_datetime": "2017-05-07 17:10:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "東區東寧路464號 佔用道路",
+    "address_string": "台南市東區東寧路464號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-05-07 19:40:11",
+    "expected_datetime": "2017-05-07 17:10:00"
+}
