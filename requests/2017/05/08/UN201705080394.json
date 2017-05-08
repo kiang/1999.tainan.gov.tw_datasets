@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705080394",
     "requested_datetime": "2017-05-08 18:45:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市南區區公所,臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "南區金華路一段484巷220弄1號 佔用道路",
     "address_string": "南區金華路一段484巷220弄1號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-08 22:53:02",
     "expected_datetime": "2017-05-15 18:45:00"
 }
