@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705060057",
     "requested_datetime": "2017-05-06 08:59:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "中西區金華路與府前路口(金華路上) 道路散落物",
     "address_string": "中西區金華路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-08 10:50:12",
     "expected_datetime": "2017-05-13 08:59:00"
 }

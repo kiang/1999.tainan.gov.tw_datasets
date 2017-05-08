@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區公園路282號違停",
     "address_string": "北區公園路282號",
-    "lat": {},
-    "long": {},
+    "lat": "24.8030061",
+    "long": "120.9793225",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-05-15 09:16:00"
