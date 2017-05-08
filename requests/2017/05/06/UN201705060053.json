@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201705060053",
     "requested_datetime": "2017-05-06 09:47:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "玉井區",
     "service_name": "動物救援",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-08 14:51:33",
     "expected_datetime": "2017-05-13 09:47:00"
 }
