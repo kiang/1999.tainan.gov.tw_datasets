@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705060289",
     "requested_datetime": "2017-05-06 23:59:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "台南市東區裕平路116號路燈故障",
     "address_string": "台南市東區裕平路116號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-09 09:21:46",
     "expected_datetime": "2017-05-06 23:59:00"
 }
