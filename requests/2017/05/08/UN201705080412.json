@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705080412",
     "requested_datetime": "2017-05-08 20:21:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "安南區海環街六巷與海佃路二段417巷巷口 路燈故障",
     "address_string": "安南區海環街六巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-09 09:00:28",
     "expected_datetime": "2017-05-15 20:21:00"
 }
