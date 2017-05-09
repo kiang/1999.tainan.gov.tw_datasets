@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "台南市東區裕平路116號路燈故障",
     "address_string": "台南市東區裕平路116號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9849373",
+    "long": "120.240962",
     "service_notice": {},
     "updated_datetime": "2017-05-09 09:21:46",
     "expected_datetime": "2017-05-06 23:59:00"
