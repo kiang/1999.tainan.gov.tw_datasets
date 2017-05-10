@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705100155",
     "requested_datetime": "2017-05-10 12:24:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "永康區中正七街39號騎樓舉發",
     "address_string": "永康區中正七街39號",
     "lat": "25.137603",
     "long": "121.7506309",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-10 16:47:58",
     "expected_datetime": "2017-05-10 12:24:00"
 }
