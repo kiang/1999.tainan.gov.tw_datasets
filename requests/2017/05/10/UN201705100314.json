@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705100314",
+    "requested_datetime": "2017-05-10 20:10:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區臨安路二段231號 違規停車",
+    "address_string": "704台灣台南市北區臨安路二段231號",
+    "lat": "23.0039435",
+    "long": "120.2003752",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-10 20:10:00"
+}
