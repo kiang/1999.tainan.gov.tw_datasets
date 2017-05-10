@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201705100251",
-    "requested_datetime": "2017-05-10 16:38:00",
+    "service_request_id": "UN201705100285",
+    "requested_datetime": "2017-05-10 18:18:00",
     "status": {},
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "中西區衛民街106之18號違規停車",
-    "address_string": "中西區衛民街106之18號",
+    "description": "中西區北門路一段違規停車",
+    "address_string": "中西區北門路一段",
     "lat": {},
     "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2017-05-10 16:38:00"
+    "expected_datetime": "2017-05-10 18:18:00"
 }
