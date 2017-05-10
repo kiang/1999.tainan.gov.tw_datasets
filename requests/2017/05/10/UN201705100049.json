@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705100049",
+    "requested_datetime": "2017-05-10 09:11:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "東區東寧路與長榮路口 妨害安寧",
+    "address_string": "東區東寧路與長榮路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-05-10 11:19:46",
+    "expected_datetime": "2017-05-17 09:11:00"
+}
