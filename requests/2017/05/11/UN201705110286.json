@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705110286",
     "requested_datetime": "2017-05-11 18:42:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區東門路二段175號 違規停車",
     "address_string": "東區東門路二段175號",
     "lat": "22.985179885311968",
     "long": "120.22379770886174",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-11 21:50:08",
     "expected_datetime": "2017-05-11 18:42:00"
 }
