@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705130007",
     "requested_datetime": "2017-05-13 03:27:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "台南火車站前站機車臨停等候區 腳踏車違停",
     "address_string": "台南火車站",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-13 04:10:46",
     "expected_datetime": "2017-05-20 03:27:00"
 }
