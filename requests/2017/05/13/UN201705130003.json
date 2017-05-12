@@ -9,8 +9,8 @@
     "subproject": "犬貓急難救援",
     "description": "國道8號下新市交流道，往新市市區方向 貓救援",
     "address_string": "新市交流道",
-    "lat": {},
-    "long": {},
+    "lat": "24.7576289",
+    "long": "120.957206",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-05-20 00:40:00"
