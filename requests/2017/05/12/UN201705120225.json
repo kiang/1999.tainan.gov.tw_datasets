@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705120225",
     "requested_datetime": "2017-05-12 16:45:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區開南街275巷20弄1號 違規停車",
     "address_string": "北區開南街275巷20弄1號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-12 22:35:46",
     "expected_datetime": "2017-05-12 16:45:00"
 }
