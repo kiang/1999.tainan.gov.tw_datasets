@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201705120253",
     "requested_datetime": "2017-05-12 17:49:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "交通運輸",
@@ -9,9 +9,9 @@
     "subproject": "佔用道路",
     "description": "永康區中山南路2-2號 佔用道路",
     "address_string": "永康區中山南路2-2號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0126141",
+    "long": "120.229211",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-12 18:53:08",
     "expected_datetime": "2017-05-19 17:49:00"
 }

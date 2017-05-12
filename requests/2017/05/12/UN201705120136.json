@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705120136",
     "requested_datetime": "2017-05-12 13:19:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "新營區民治路與同濟街口，洗車廠 妨害安寧",
     "address_string": "新營區民治路同濟街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-12 18:37:41",
     "expected_datetime": "2017-05-19 13:19:00"
 }
