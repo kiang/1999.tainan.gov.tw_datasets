@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705130162",
+    "requested_datetime": "2017-05-13 14:06:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "南區明興路1181巷53號 漏水、停水、消防栓漏水或損壞",
+    "address_string": "南區明興路1181巷53號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-20 14:06:00"
+}
