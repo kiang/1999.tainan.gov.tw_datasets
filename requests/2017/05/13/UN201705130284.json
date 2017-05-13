@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區文賢一路124號 違停",
     "address_string": "北區文賢一路124號",
-    "lat": {},
-    "long": {},
+    "lat": "23.01046",
+    "long": "120.195288",
     "service_notice": {},
     "updated_datetime": "2017-05-13 22:38:05",
     "expected_datetime": "2017-05-20 20:47:00"
