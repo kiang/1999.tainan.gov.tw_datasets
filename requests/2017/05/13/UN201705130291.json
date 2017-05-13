@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705130291",
     "requested_datetime": "2017-05-13 21:09:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新營區東明街96巷違規停車",
     "address_string": "新營區東明街96巷",
     "lat": "23.3196247",
     "long": "120.3246608",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-13 22:36:10",
     "expected_datetime": "2017-05-13 21:09:00"
 }
