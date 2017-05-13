@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705130145",
     "requested_datetime": "2017-05-13 13:11:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區中華北路一段近大興街 違規停車",
     "address_string": "北區中華北路一段大興街",
     "lat": "23.0099295",
     "long": "120.1854993",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-13 16:54:52",
     "expected_datetime": "2017-05-13 13:11:00"
 }

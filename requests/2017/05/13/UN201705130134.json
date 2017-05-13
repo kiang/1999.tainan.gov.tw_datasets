@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705130134",
     "requested_datetime": "2017-05-13 12:43:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "南區國民路20-1號 違規停車",
     "address_string": "南區國民路20之1號",
     "lat": "22.9675943",
     "long": "120.2148936",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-13 16:56:01",
     "expected_datetime": "2017-05-13 12:43:00"
 }

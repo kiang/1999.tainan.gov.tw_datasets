@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705130146",
     "requested_datetime": "2017-05-13 13:17:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區中華北路一段51號 違規停車",
     "address_string": "北區中華北路一段51號",
     "lat": "24.8187073",
     "long": "121.0310638",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-13 16:54:19",
     "expected_datetime": "2017-05-13 13:17:00"
 }
