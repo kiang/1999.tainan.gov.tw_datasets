@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705140176",
+    "requested_datetime": "2017-05-14 19:37:00",
+    "status": {},
+    "keyword": {},
+    "area": "佳里區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "佳里區忠孝東路六合街口 違規停車",
+    "address_string": "722台灣台南市佳里區忠孝東路六合街",
+    "lat": "23.165048197750654",
+    "long": "120.17905234553837",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-14 19:37:00"
+}
