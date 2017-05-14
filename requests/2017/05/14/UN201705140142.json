@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705140142",
+    "requested_datetime": "2017-05-14 17:00:00",
+    "status": {},
+    "keyword": {},
+    "area": "佳里區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "佳里區延平路268巷1號 違規停車",
+    "address_string": "722台灣台南市佳里區延平路268巷1號",
+    "lat": "23.159957953313896",
+    "long": "120.17851095396736",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-14 17:00:00"
+}
