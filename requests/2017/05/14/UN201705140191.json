@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區林森路一段26號 違規停車",
     "address_string": "東區林森路一段26號",
-    "lat": {},
-    "long": {},
+    "lat": "23.4901013",
+    "long": "120.4515754",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-05-14 20:47:00"
