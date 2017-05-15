@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705150079",
+    "requested_datetime": "2017-05-15 09:17:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區自強路與龍中街 違規停車",
+    "address_string": "永康區自強路與龍中街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-05-15 10:26:14",
+    "expected_datetime": "2017-05-22 09:17:00"
+}
