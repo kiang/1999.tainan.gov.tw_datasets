@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安平區安平路128號左邊、470號左邊,人行道上 違規停車",
     "address_string": "安平路",
-    "lat": {},
-    "long": {},
+    "lat": "24.6762069",
+    "long": "121.7728803",
     "service_notice": {},
     "updated_datetime": "2017-05-15 08:07:55",
     "expected_datetime": "2017-05-15 07:04:00"
