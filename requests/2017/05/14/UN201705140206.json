@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705140206",
     "requested_datetime": "2017-05-14 22:11:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "柳營區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "越美人 妨害安寧、K煙",
     "address_string": "柳營區柳營路二段480號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-15 07:48:59",
     "expected_datetime": "2017-05-21 22:11:00"
 }
