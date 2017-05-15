@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705150188",
+    "requested_datetime": "2017-05-15 13:25:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中正南路35號 違規停車",
+    "address_string": "710台灣台南市永康區中正南路35號",
+    "lat": "23.0204119",
+    "long": "120.2158855",
+    "service_notice": {},
+    "updated_datetime": "2017-05-15 14:25:37",
+    "expected_datetime": "2017-05-15 13:25:00"
+}
