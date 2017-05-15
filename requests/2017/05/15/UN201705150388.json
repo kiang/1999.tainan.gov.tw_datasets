@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705150388",
+    "requested_datetime": "2017-05-15 22:16:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區長榮路三段24巷底 紅線違停",
+    "address_string": "東區長榮路三段24巷底",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-22 22:16:00"
+}
