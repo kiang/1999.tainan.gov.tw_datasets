@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705170006",
+    "requested_datetime": "2017-05-17 05:32:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "新市區",
+    "service_name": "民生管線",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "新市區中山路193號、195號 台電孔蓋冒水",
+    "address_string": "新市區中山路193號、195號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-24 05:32:00"
+}
