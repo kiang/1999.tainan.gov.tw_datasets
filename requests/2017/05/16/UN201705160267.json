@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705160267",
     "requested_datetime": "2017-05-16 18:39:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "中西區西門路二段387號交通運輸",
     "address_string": "中西區西門路二段387號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-16 21:46:33",
     "expected_datetime": "2017-05-16 18:39:00"
 }
