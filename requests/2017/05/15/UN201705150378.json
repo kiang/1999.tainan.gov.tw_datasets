@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705150378",
     "requested_datetime": "2017-05-15 21:12:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "市區道路路面油漬",
     "description": "東區仁和路和德東街口 路面油漬",
     "address_string": "東區仁和路德東街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-16 14:33:26",
     "expected_datetime": "2017-05-22 21:12:00"
 }

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705150285",
     "requested_datetime": "2017-05-15 16:38:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "善化區中正路與目加溜灣大道  號誌故障",
     "address_string": "善化區中正路與目加溜灣大道",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-16 14:26:14",
     "expected_datetime": "2017-05-22 16:38:00"
 }
