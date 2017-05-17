@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705170074",
+    "requested_datetime": "2017-05-17 09:48:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌秒差調整",
+    "description": "北區北成路跟育德路交叉口與下一個紅綠燈(在北安路一段) 號誌秒差調整",
+    "address_string": "北區北成路育德路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-24 09:48:00"
+}
