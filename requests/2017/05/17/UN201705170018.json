@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705170018",
     "requested_datetime": "2017-05-17 07:22:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
     "description": "仁德區虎山一街17巷16號 犬貓救援",
     "address_string": "仁德區虎山一街17巷16號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-17 16:32:39",
     "expected_datetime": "2017-05-24 07:22:00"
 }
