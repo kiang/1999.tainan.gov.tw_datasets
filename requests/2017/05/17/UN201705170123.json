@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705170123",
+    "requested_datetime": "2017-05-17 12:02:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區賢北街243號 佔用道路",
+    "address_string": "北區賢北街243號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-24 12:02:00"
+}
