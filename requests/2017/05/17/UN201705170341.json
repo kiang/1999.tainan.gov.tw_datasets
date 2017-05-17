@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705170341",
     "requested_datetime": "2017-05-17 22:29:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "永康區信義二街113號廟旁 噪音舉發",
     "address_string": "臺南市永康區信義二街113號廟旁",
     "lat": "23.0194414",
     "long": "120.2475615",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-18 00:16:39",
     "expected_datetime": "2017-05-17 22:29:00"
 }
