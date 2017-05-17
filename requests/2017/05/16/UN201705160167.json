@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705160167",
     "requested_datetime": "2017-05-16 14:13:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "歸仁區中山路3段436巷6號 噪音舉發",
     "address_string": "711台灣台南市歸仁區中山路3段436巷6號",
     "lat": "22.967999919999993",
     "long": "120.27573219999995",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-17 14:13:36",
     "expected_datetime": "2017-05-16 14:13:00"
 }
