@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705160318",
     "requested_datetime": "2017-05-16 23:23:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "道路維修",
-    "agency": "臺南市政府工務局,臺南市政府警察局",
+    "agency": "臺南市永康區公所,臺南市政府警察局永康分局",
     "subproject": "路面下陷、凹陷",
     "description": "永康區復國一路及復華十街 道路維修",
     "address_string": "永康區復國一路復華十街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-18 09:11:38",
     "expected_datetime": "2017-05-16 23:23:00"
 }
