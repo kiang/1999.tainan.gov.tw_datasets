@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區民族路二段的永福路口到西門路口 違規停車",
     "address_string": "中西區民族路二段永福路西門路",
-    "lat": {},
-    "long": {},
+    "lat": "22.987482",
+    "long": "120.199767",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-05-18 15:55:00"
