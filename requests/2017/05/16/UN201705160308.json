@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705160308",
     "requested_datetime": "2017-05-16 21:49:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "南區大成路一段193巷 路燈故障",
     "address_string": "南區大成路一段193巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-18 08:30:34",
     "expected_datetime": "2017-05-23 21:49:00"
 }
