@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "新化區中興路470～490號附近 空氣污染",
     "address_string": "新化區中興路490號",
-    "lat": {},
-    "long": {},
+    "lat": "23.032118",
+    "long": "120.316848",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-05-25 22:40:00"
