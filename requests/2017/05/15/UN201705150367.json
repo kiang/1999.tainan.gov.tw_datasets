@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705150367",
     "requested_datetime": "2017-05-15 20:40:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南化區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市南化區公所",
     "subproject": "路面掏空、塌陷",
     "description": "道路維修",
     "address_string": "710台灣台南市南化區南化里南化285之1號",
     "lat": "23.0185004",
     "long": "120.2409693",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-18 13:14:29",
     "expected_datetime": "2017-05-15 20:40:00"
 }
