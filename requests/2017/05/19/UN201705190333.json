@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705190333",
+    "requested_datetime": "2017-05-19 21:12:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區新都路378號和376號前 違停機車道",
+    "address_string": "南區新都路378號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-05-20 00:31:09",
+    "expected_datetime": "2017-05-26 21:12:00"
+}
