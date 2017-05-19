@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705190007",
+    "requested_datetime": "2017-05-19 05:04:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "北區北園街80巷13號 佔用道路",
+    "address_string": "704台灣台南市北區北園街80巷13號",
+    "lat": "23.0130164",
+    "long": "120.2235498",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-19 05:04:00"
+}
