@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705190036",
     "requested_datetime": "2017-05-19 08:33:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "南區金華路二段15巷77號對面 佔用道路",
     "address_string": "金華路二段15巷77號",
     "lat": "24.8165749",
     "long": "120.9788079",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-19 10:31:44",
     "expected_datetime": "2017-05-19 08:33:00"
 }
