@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705190250",
+    "requested_datetime": "2017-05-19 16:57:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區北門路一段294號 違規停車",
+    "address_string": "東區北門路一段294號",
+    "lat": "22.9955864",
+    "long": "120.212087",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-19 16:57:00"
+}
