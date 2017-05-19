@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201705190327",
     "requested_datetime": "2017-05-19 20:46:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "噪音舉發",
@@ -9,9 +9,9 @@
     "subproject": "妨害安寧",
     "description": "歸仁區國光街91號 妨礙安寧",
     "address_string": "歸仁區國光街91號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9700552",
+    "long": "120.2914026",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-19 22:52:04",
     "expected_datetime": "2017-05-26 20:46:00"
 }

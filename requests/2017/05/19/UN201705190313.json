@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705190313",
+    "requested_datetime": "2017-05-19 20:03:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區鹽行里中正七街與三村一街交叉口 違規停車",
+    "address_string": "永康區鹽行里中正七街三村一街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-05-19 22:53:55",
+    "expected_datetime": "2017-05-19 20:03:00"
+}
