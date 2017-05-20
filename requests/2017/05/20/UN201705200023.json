@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705200023",
+    "requested_datetime": "2017-05-20 08:05:00",
+    "status": {},
+    "keyword": {},
+    "area": "新市區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "新市區復興路 和平街 違規停車",
+    "address_string": "復興路",
+    "lat": "22.663176",
+    "long": "120.4879254",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-20 08:05:00"
+}
