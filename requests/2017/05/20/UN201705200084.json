@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705200084",
     "requested_datetime": "2017-05-20 11:50:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "佳里區延平路和自由路（應為自由街）交叉口，寶雅前面 違停",
     "address_string": "佳里區延平路自由街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-20 17:17:50",
     "expected_datetime": "2017-05-27 11:50:00"
 }
