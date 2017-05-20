@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705200261",
+    "requested_datetime": "2017-05-20 19:26:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區大同路二段182號 違規停車",
+    "address_string": "南區大同路二段182號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-27 19:26:00"
+}
