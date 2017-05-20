@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705200233",
     "requested_datetime": "2017-05-20 18:31:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安南區安中路一段797號 妨礙出入",
     "address_string": "安南區安中路一段797號",
     "lat": "23.042865",
     "long": "120.196191",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-21 04:18:58",
     "expected_datetime": "2017-05-27 18:31:00"
 }
