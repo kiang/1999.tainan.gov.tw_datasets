@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705210238",
+    "requested_datetime": "2017-05-21 22:08:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區公園南路17-1號 違規停車",
+    "address_string": "台南市北區公園南路17-1號",
+    "lat": "23.0038331",
+    "long": "120.201242",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-21 22:08:00"
+}
