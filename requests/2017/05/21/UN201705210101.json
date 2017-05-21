@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201705210101",
     "requested_datetime": "2017-05-21 13:10:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "玉井區",
     "service_name": "違規停車",
@@ -12,6 +12,6 @@
     "lat": "23.155423",
     "long": "120.488585",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-21 17:01:10",
     "expected_datetime": "2017-05-28 13:10:00"
 }
