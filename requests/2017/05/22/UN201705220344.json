@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705220344",
+    "requested_datetime": "2017-05-22 19:59:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區臨安路二段264號 違規停車",
+    "address_string": "北區臨安路二段264號",
+    "lat": "23.0040495",
+    "long": "120.2008712",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-22 19:59:00"
+}
