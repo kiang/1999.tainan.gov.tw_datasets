@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705220120",
+    "requested_datetime": "2017-05-22 11:21:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區崇善路720號 違規停車",
+    "address_string": "崇善路720號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-05-22 13:30:03",
+    "expected_datetime": "2017-05-22 11:21:00"
+}
