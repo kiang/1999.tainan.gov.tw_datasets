@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705210259",
     "requested_datetime": "2017-05-21 23:44:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "新市區中正路佔用道路",
     "address_string": "新市區中正路",
     "lat": "23.0425292",
     "long": "120.3053191",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-22 16:10:53",
     "expected_datetime": "2017-05-21 23:44:00"
 }
