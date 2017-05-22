@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705210241",
     "requested_datetime": "2017-05-21 20:53:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市麻豆區公所",
     "subproject": "9盞以下路燈故障",
     "description": "麻豆區港尾里客子寮168號 路燈故障",
     "address_string": "麻豆區港尾里客子寮168號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-22 15:22:31",
     "expected_datetime": "2017-05-28 20:53:00"
 }
