@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705230272",
+    "requested_datetime": "2017-05-23 17:55:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "永康區永大一路9號 路面坑洞",
+    "address_string": "永康區永大一路9號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-30 17:55:00"
+}
