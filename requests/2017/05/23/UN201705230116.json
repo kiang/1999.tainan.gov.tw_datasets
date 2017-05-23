@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區青年路從北門路至民權路口 違規停車",
     "address_string": "青年路",
-    "lat": {},
-    "long": {},
+    "lat": "24.9242451",
+    "long": "121.1711451",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-05-23 11:20:00"
