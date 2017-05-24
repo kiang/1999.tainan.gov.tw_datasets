@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705240189",
     "requested_datetime": "2017-05-24 15:58:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "南區永華路一段與國華街一段口 違停",
     "address_string": "南區永華路一段",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-24 19:19:42",
     "expected_datetime": "2017-05-31 15:58:00"
 }
