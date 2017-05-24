@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705220374",
     "requested_datetime": "2017-05-22 23:05:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安定區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市安定區公所,臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "安定區保溪里426-1號 空氣汙染",
     "address_string": "安定區保溪里426-1號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-24 13:40:27",
     "expected_datetime": "2017-05-29 23:05:00"
 }
