@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705230269",
     "requested_datetime": "2017-05-23 17:49:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "學甲區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市學甲區公所",
     "subproject": "9盞以下路燈故障",
     "description": "學甲區豐和里美豐49-23號，東林護理之家 路燈故障",
     "address_string": "學甲區豐和里美豐49-23號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-24 15:25:58",
     "expected_datetime": "2017-05-30 17:49:00"
 }
