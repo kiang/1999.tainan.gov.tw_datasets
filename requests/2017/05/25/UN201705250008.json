@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區自強路728號 違規停車",
     "address_string": "台南市永康區自強路728號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0359901",
+    "long": "120.2622683",
     "service_notice": {},
     "updated_datetime": "2017-05-25 05:00:37",
     "expected_datetime": "2017-05-25 00:41:00"
