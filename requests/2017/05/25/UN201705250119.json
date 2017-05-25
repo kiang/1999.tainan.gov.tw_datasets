@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區成功路273號  違停",
     "address_string": "北區成功路273號",
-    "lat": {},
-    "long": {},
+    "lat": "24.811419",
+    "long": "120.952037",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-06-01 11:51:00"
