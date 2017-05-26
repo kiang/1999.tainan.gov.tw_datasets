@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "東區東豐路181號 佔用道路",
     "address_string": "北區東豐路181號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0034218",
+    "long": "120.219477",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-06-02 20:35:00"
