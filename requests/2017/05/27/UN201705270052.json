@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705270052",
+    "requested_datetime": "2017-05-27 10:16:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區小東路423巷1號 違規停車",
+    "address_string": "永康區小東路423巷1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-03 10:16:00"
+}
