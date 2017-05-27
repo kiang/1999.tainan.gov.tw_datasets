@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201705270179",
-    "requested_datetime": "2017-05-27 16:57:00",
+    "service_request_id": "UN201705270187",
+    "requested_datetime": "2017-05-27 17:41:00",
     "status": "已完工",
     "keyword": {},
     "area": "安平區",
@@ -9,9 +9,9 @@
     "subproject": "騎樓舉發",
     "description": "安平區華平路656號 騎樓舉發",
     "address_string": "安平區華平路656號",
-    "lat": "22.9962418",
-    "long": "120.1758139",
+    "lat": {},
+    "long": {},
     "service_notice": {},
-    "updated_datetime": "2017-05-27 18:23:00",
-    "expected_datetime": "2017-05-27 16:57:00"
+    "updated_datetime": "2017-05-27 18:52:09",
+    "expected_datetime": "2017-05-27 17:41:00"
 }
