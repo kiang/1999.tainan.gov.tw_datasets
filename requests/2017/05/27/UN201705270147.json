@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201705270147",
     "requested_datetime": "2017-05-27 14:37:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "騎樓舉發",
@@ -12,6 +12,6 @@
     "lat": "23.007704",
     "long": "120.193557",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-27 17:13:06",
     "expected_datetime": "2017-05-27 14:37:00"
 }

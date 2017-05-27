@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705270154",
     "requested_datetime": "2017-05-27 15:11:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區南門路府前路口孔廟文化園區 違規停車",
     "address_string": "南門路府前路口孔廟文化園區旁人行道",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-27 17:16:30",
     "expected_datetime": "2017-05-27 15:11:00"
 }

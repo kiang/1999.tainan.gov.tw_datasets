@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705270182",
+    "requested_datetime": "2017-05-27 17:13:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區北園街8巷5號  違停",
+    "address_string": "北區北園街8巷5號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-03 17:13:00"
+}
