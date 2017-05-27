@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705270140",
+    "requested_datetime": "2017-05-27 14:04:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "北區文賢路363號 騎樓舉發",
+    "address_string": "台南市北區文賢路363號",
+    "lat": "23.007704",
+    "long": "120.193557",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-27 14:04:00"
+}
