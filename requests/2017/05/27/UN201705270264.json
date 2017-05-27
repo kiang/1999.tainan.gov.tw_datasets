@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安平區健康路三段與國平路口 路燈不亮",
     "address_string": "安平區健康路三段國平路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9845475",
+    "long": "120.170686",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-06-03 23:33:00"
