@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705270174",
+    "requested_datetime": "2017-05-27 16:24:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區成功路16號 違規停車",
+    "address_string": "北區成功路16號",
+    "lat": "22.9980142",
+    "long": "120.2092577",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-27 16:24:00"
+}
