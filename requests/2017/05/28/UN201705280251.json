@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705280251",
+    "requested_datetime": "2017-05-28 23:09:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "永康區大灣三街236號 佔用道路",
+    "address_string": "永康區大灣三街236號",
+    "lat": "23.0036621",
+    "long": "120.266483",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-04 23:09:00"
+}
