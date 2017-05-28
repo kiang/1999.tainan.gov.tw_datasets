@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "永康區中正北路533號 空汙",
     "address_string": "永康區中正北路533號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0345432",
+    "long": "120.2290255",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-06-05 00:14:00"
