@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705280067",
+    "requested_datetime": "2017-05-28 11:43:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區忠義路二段與忠義路二段84巷 違規停車",
+    "address_string": "中西區忠義路二段忠義路二段84巷",
+    "lat": "22.9938523",
+    "long": "120.2039576",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-04 11:43:00"
+}
