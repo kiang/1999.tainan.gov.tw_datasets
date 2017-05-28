@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705280001",
     "requested_datetime": "2017-05-28 00:37:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "中西區正興街接近海安路口，小地球店家前 妨害安寧",
     "address_string": "中西區正興街海安路",
     "lat": "22.9948518",
     "long": "120.1964638",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-28 07:14:11",
     "expected_datetime": "2017-06-04 00:37:00"
 }
