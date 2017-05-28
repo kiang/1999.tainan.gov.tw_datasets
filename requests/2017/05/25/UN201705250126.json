@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705250126",
     "requested_datetime": "2017-05-25 12:09:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "北區公園路433巷21弄10號 空氣汙染",
     "address_string": "台南市北區公園路433巷21弄10號",
     "lat": "23.0185937",
     "long": "120.214661",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-28 15:43:20",
     "expected_datetime": "2017-05-25 12:09:00"
 }
