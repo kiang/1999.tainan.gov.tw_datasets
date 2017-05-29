@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "南區永成路三段112號 及南區健康路二段483號 550號之214  路燈故障",
     "address_string": "南區永成路三段112號",
-    "lat": {},
-    "long": {},
+    "lat": "22.963204",
+    "long": "120.195184",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-06-05 23:59:00"
