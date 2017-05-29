@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區東門路二段158巷48號 違停",
     "address_string": "東區東門路二段158巷48號",
-    "lat": {},
-    "long": {},
+    "lat": "24.807603",
+    "long": "120.9776478",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-06-05 21:58:00"
