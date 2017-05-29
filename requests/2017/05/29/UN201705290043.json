@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201705290043",
     "requested_datetime": "2017-05-29 09:45:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "交通運輸",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-29 15:30:59",
     "expected_datetime": "2017-06-05 09:45:00"
 }
