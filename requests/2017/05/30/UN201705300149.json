@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705300149",
+    "requested_datetime": "2017-05-30 17:54:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區公園南路91號違規停車",
+    "address_string": "No. 91, Gongyuan South Road, North District, Tainan City, Taiwan 704",
+    "lat": "23.000549858893425",
+    "long": "120.21045556303147",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-30 17:54:00"
+}
