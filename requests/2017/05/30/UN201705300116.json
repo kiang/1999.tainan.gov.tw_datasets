@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705300116",
     "requested_datetime": "2017-05-30 15:49:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "仁德區中正路二段與仁義路口 違規停車",
     "address_string": "仁德區中正路二段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9653019",
+    "long": "120.253241",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-30 17:27:05",
     "expected_datetime": "2017-06-06 15:49:00"
 }
