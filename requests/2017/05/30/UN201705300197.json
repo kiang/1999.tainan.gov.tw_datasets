@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705300197",
+    "requested_datetime": "2017-05-30 22:53:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "安平區安平路124號 路面坑洞",
+    "address_string": "安平區安平路124號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-06 22:53:00"
+}
