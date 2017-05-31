@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705290001",
     "requested_datetime": "2017-05-29 00:14:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "永康區中正北路533號 空汙",
     "address_string": "永康區中正北路533號",
     "lat": "23.0345432",
     "long": "120.2290255",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-31 17:43:08",
     "expected_datetime": "2017-06-05 00:14:00"
 }
