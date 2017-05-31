@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705310086",
+    "requested_datetime": "2017-05-31 10:11:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區北門路二段547巷與北門路二段口 違規停車",
+    "address_string": "704台灣台南市北區北門路二段547巷北門路二段",
+    "lat": "23.0102744",
+    "long": "120.2161673",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-05-31 10:11:00"
+}

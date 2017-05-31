@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區中華一路203巷6號 違規停車",
     "address_string": "台南市永康區中華一路203巷6號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0026763",
+    "long": "120.2380037",
     "service_notice": {},
     "updated_datetime": "2017-05-31 05:55:49",
     "expected_datetime": "2017-05-31 00:45:00"
