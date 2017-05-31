@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705280153",
     "requested_datetime": "2017-05-28 16:13:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
     "description": "歸仁區西埔里二街 犬貓救援",
     "address_string": "歸仁區西埔里二街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-31 12:12:24",
     "expected_datetime": "2017-06-04 16:13:00"
 }
