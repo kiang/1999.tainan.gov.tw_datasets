@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201705310304",
+    "requested_datetime": "2017-05-31 19:30:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "中西區成功路忠義路口，捌柒海產粥 騎樓舉發",
+    "address_string": "成功路忠義路",
+    "lat": "23.7425868",
+    "long": "121.4446594",
+    "service_notice": {},
+    "updated_datetime": "2017-05-31 20:32:53",
+    "expected_datetime": "2017-05-31 19:30:00"
+}

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705310259",
     "requested_datetime": "2017-05-31 17:03:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區鹽行里中正路與中正七街交叉口 違規停車",
     "address_string": "永康區鹽行里中正路",
     "lat": "23.041356",
     "long": "120.2368389",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-31 20:33:59",
     "expected_datetime": "2017-05-31 17:03:00"
 }
