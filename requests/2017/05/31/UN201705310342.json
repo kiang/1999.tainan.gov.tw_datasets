@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705310342",
     "requested_datetime": "2017-05-31 22:29:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區德東街與信東街口違規停車",
     "address_string": "701台灣台南市東區德東街與信東街口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-01 00:17:29",
     "expected_datetime": "2017-05-31 22:29:00"
 }
