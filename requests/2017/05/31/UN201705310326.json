@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區鹽行里中正六街410巷1之6號，和正南五街交叉口 紅線違停",
     "address_string": "永康區鹽行里中正六街410巷1之6號",
-    "lat": {},
-    "long": {},
+    "lat": "23.041356",
+    "long": "120.2368389",
     "service_notice": {},
     "updated_datetime": "2017-05-31 22:52:17",
     "expected_datetime": "2017-06-07 21:02:00"
