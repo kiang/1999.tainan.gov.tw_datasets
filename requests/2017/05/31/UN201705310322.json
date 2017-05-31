@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705310322",
     "requested_datetime": "2017-05-31 20:45:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區東門路二段181號 違停",
     "address_string": "東區東門路二段181號",
-    "lat": {},
-    "long": {},
+    "lat": "24.7992661",
+    "long": "120.9920048",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-05-31 22:23:41",
     "expected_datetime": "2017-06-07 20:45:00"
 }
