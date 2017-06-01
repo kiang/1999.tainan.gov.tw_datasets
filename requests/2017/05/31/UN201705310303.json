@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705310303",
     "requested_datetime": "2017-05-31 19:27:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "安平區建平路和建平十二街交叉口，左轉一進去建平十二街內 路燈不亮",
     "address_string": "安平區建平十二街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-01 09:11:15",
     "expected_datetime": "2017-06-07 19:27:00"
 }
