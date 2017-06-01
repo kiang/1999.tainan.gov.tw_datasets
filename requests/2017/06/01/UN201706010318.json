@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706010318",
     "requested_datetime": "2017-06-01 22:46:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "南區敬南街40巷1號對面，可能是43號或41號，玩具行隔壁 妨害安寧",
     "address_string": "南區敬南街40巷43號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-02 03:45:14",
     "expected_datetime": "2017-06-08 22:46:00"
 }

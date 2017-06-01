@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706010288",
     "requested_datetime": "2017-06-01 21:12:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心,臺南市動物防疫保護處",
     "subproject": "妨害安寧",
     "description": "新營區隋唐街295巷11弄6號隔壁 妨害安寧",
     "address_string": "新營區隋唐街295巷11弄6號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-02 03:38:57",
     "expected_datetime": "2017-06-08 21:12:00"
 }
