@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706030005",
+    "requested_datetime": "2017-06-03 01:09:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "南區仁南街86號 妨害安寧",
+    "address_string": "南區仁南街86號",
+    "lat": "22.9843882",
+    "long": "120.1846058",
+    "service_notice": {},
+    "updated_datetime": "2017-06-03 03:12:07",
+    "expected_datetime": "2017-06-10 01:09:00"
+}
