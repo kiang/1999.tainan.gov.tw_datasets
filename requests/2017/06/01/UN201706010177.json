@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706010177",
     "requested_datetime": "2017-06-01 15:37:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "東區德高街76號  線路掉落",
     "address_string": "東區德高街76號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-02 16:45:19",
     "expected_datetime": "2017-06-08 15:37:00"
 }

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706020137",
     "requested_datetime": "2017-06-02 12:56:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "永康崑山科大沿著高速公路便道北上 道路散落物",
     "address_string": "永康區崑山科大",
     "lat": "22.998268",
     "long": "120.253104",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-02 16:03:56",
     "expected_datetime": "2017-06-09 12:56:00"
 }
