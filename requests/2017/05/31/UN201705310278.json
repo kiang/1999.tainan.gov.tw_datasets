@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201705310278",
     "requested_datetime": "2017-05-31 17:49:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "七股區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "七股區176線 路面坑洞",
     "address_string": "七股區176線",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-02 08:12:04",
     "expected_datetime": "2017-06-07 17:49:00"
 }
