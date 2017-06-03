@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706030128",
+    "requested_datetime": "2017-06-03 12:24:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區忠孝街78巷口與康樂街口違規停車",
+    "address_string": "中西區忠孝街78巷口與康樂街口",
+    "lat": "22.997166486060006",
+    "long": "120.21296594291925",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-03 12:24:00"
+}
