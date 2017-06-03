@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706030172",
     "requested_datetime": "2017-06-03 14:26:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "永康區新民街100號 違停",
     "address_string": "台南市永康區新民街100號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-04 03:23:11",
     "expected_datetime": "2017-06-03 14:26:00"
 }

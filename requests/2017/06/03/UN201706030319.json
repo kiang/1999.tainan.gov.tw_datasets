@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706030319",
     "requested_datetime": "2017-06-03 22:58:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "北區小東路299巷9弄20號3樓 妨害安寧",
     "address_string": "北區小東路299巷9弄20號3樓",
     "lat": "23.0017178",
     "long": "120.217767",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-04 03:46:17",
     "expected_datetime": "2017-06-10 22:58:00"
 }
