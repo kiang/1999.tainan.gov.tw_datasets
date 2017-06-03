@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第五分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區公園南路91號違規停車",
     "address_string": "No. 91, Gongyuan South Road, North District, Tainan City, Taiwan 704",
     "lat": "23.000549858893425",
     "long": "120.21045556303147",
     "service_notice": {},
-    "updated_datetime": "2017-05-31 06:45:04",
+    "updated_datetime": "2017-06-03 11:37:57",
     "expected_datetime": "2017-05-30 17:54:00"
 }

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706030102",
+    "requested_datetime": "2017-06-03 11:06:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府水利局",
+    "subproject": "地下道積水",
+    "description": "北區開元地下道 地下道積水",
+    "address_string": "北區開元地下道",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-10 11:06:00"
+}
