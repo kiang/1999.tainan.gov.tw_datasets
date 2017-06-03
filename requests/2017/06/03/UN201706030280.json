@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區民族路三段郵局前 路燈不亮",
     "address_string": "中西區民族路三段282號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0001608",
+    "long": "120.1923223",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-06-10 19:55:00"
