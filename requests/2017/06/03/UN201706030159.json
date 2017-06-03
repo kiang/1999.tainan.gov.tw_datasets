@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706030159",
+    "requested_datetime": "2017-06-03 13:54:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "永康區新民街95號 騎樓舉發",
+    "address_string": "永康區新民街95號",
+    "lat": "25.1311539",
+    "long": "121.7360247",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-10 13:54:00"
+}
