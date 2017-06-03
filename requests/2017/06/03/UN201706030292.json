@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區金華路二段365號 紅線違停",
     "address_string": "南區金華路二段365號",
-    "lat": {},
-    "long": {},
+    "lat": "23.3061881",
+    "long": "120.2979142",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-06-10 20:31:00"
