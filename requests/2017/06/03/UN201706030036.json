@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706030036",
     "requested_datetime": "2017-06-03 08:49:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區西門路三段268號 違規停車",
     "address_string": "北區西門路三段268號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-03 10:58:57",
     "expected_datetime": "2017-06-10 08:49:00"
 }
