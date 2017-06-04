@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706040156",
+    "requested_datetime": "2017-06-04 17:42:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區府東街259巷底 違規停車",
+    "address_string": "東區府東街259巷底",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-06-04 18:32:03",
+    "expected_datetime": "2017-06-11 17:42:00"
+}
