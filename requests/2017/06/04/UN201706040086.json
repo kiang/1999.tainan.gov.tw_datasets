@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706040086",
     "requested_datetime": "2017-06-04 11:55:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區鹽行里仁愛街108巷與三村一街138巷口 違規停車",
     "address_string": "仁愛街108巷三村一街138巷交叉口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-04 15:47:49",
     "expected_datetime": "2017-06-04 11:55:00"
 }
