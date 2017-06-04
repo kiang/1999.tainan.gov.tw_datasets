@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706040145",
+    "requested_datetime": "2017-06-04 16:36:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區東寧路上東興路至裕豐街 違規停車",
+    "address_string": "東區東寧路東興路裕豐街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-11 16:36:00"
+}

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706040121",
     "requested_datetime": "2017-06-04 14:46:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區崇善十三街21號 違規停車",
     "address_string": "701台灣台南市東區崇善十三街21號",
     "lat": "22.968585",
     "long": "120.232083",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-04 16:07:41",
     "expected_datetime": "2017-06-04 14:46:00"
 }
