@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706040060",
+    "requested_datetime": "2017-06-04 10:21:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區前鋒路31號對面 違規停車",
+    "address_string": "東區前鋒路31號",
+    "lat": "22.9932946",
+    "long": "120.2131537",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-04 10:21:00"
+}
