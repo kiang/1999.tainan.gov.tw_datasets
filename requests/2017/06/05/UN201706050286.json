@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706050286",
+    "requested_datetime": "2017-06-05 18:27:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局",
+    "subproject": "9盞以下路燈故障",
+    "description": "安平區安北路121巷15弄和16弄內",
+    "address_string": "安平區安北路121巷15弄和16弄內",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-12 18:27:00"
+}
