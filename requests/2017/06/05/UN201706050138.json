@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706050138",
+    "requested_datetime": "2017-06-05 12:21:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "東區裕敬路*裕義路 路面坑洞",
+    "address_string": "東區裕敬路*裕義路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-12 12:21:00"
+}
