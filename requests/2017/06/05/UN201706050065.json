@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706050065",
     "requested_datetime": "2017-06-05 09:44:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "中西區臨安路一段和善街口佔用道路",
     "address_string": "中西區臨安路一段和善街口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-05 14:21:03",
     "expected_datetime": "2017-06-12 09:44:00"
 }
