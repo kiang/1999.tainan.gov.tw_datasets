@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "官田區工業西路違規停車",
     "address_string": "官田區工業西路",
-    "lat": {},
-    "long": {},
+    "lat": "23.2113355",
+    "long": "120.320328",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-06-12 07:19:00"

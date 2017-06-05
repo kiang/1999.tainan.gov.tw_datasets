@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第五分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "台南市北區西門路四段126巷17號違規停車",
     "address_string": "台南市北區西門路四段126巷17號",
     "lat": "23.012967",
     "long": "120.20877",
     "service_notice": {},
-    "updated_datetime": "2017-06-01 22:05:11",
+    "updated_datetime": "2017-06-05 09:44:19",
     "expected_datetime": "2017-06-01 20:53:00"
 }
