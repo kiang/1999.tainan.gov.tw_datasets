@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區東門路一段172巷15號 路燈故障",
     "address_string": "東區東門路一段172巷15號",
-    "lat": {},
-    "long": {},
+    "lat": "24.8159053",
+    "long": "120.9882394",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-06-12 11:12:00"

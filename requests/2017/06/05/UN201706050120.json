@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "南區灣裡路327號 路燈故障",
     "address_string": "南區灣裡路327號",
-    "lat": {},
-    "long": {},
+    "lat": "22.929544",
+    "long": "120.179707",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-06-12 11:19:00"

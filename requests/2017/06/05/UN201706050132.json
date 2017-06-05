@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706050132",
+    "requested_datetime": "2017-06-05 12:02:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "台灣台南市東區北門路一段290號佔用道路",
+    "address_string": "台灣台南市東區北門路一段290號",
+    "lat": "22.9957816",
+    "long": "120.2118509",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-05 12:02:00"
+}
