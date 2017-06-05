@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706050202",
+    "requested_datetime": "2017-06-05 15:38:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "仁德區中正路二段369號 違規停車",
+    "address_string": "仁德區中正路二段369號",
+    "lat": "22.9653019",
+    "long": "120.253241",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-12 15:38:00"
+}

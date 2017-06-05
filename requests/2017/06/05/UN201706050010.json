@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706050010",
     "requested_datetime": "2017-06-05 05:23:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "永康區南興路63號前、仁德區長興路38號對面，汽車道上 老鼠屍和貓屍",
     "address_string": "永康區南興路63號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-05 15:17:36",
     "expected_datetime": "2017-06-12 05:23:00"
 }
