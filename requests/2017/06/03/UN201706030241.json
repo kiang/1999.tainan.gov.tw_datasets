@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706030241",
     "requested_datetime": "2017-06-03 17:34:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市新營區公所",
     "subproject": "路面坑洞",
     "description": "新營區埤寮里市刑大隊進去，經過自行車道左轉，橋邊編號 613777 路燈旁 路面坑洞",
     "address_string": "新營區埤寮里埤寮59之9號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-05 17:30:16",
     "expected_datetime": "2017-06-10 17:34:00"
 }
