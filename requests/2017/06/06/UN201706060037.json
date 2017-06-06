@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706060037",
+    "requested_datetime": "2017-06-06 07:53:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "佳里區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "佳里區光復路243號 違停\/佔用道路",
+    "address_string": "佳里區光復路243號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-13 07:53:00"
+}
