@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706060139",
     "requested_datetime": "2017-06-06 11:25:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區中華路901號 違規停車",
     "address_string": "台南市永康區中華路901號",
     "lat": "23.0207438",
     "long": "120.2220235",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-06 16:24:20",
     "expected_datetime": "2017-06-06 11:25:00"
 }
