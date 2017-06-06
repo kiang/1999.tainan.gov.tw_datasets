@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706060269",
     "requested_datetime": "2017-06-06 17:31:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區大同路開山路違規停車",
     "address_string": "中西區大同路開山路",
     "lat": "22.9841892",
     "long": "120.2111145",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-06 22:47:02",
     "expected_datetime": "2017-06-06 17:31:00"
 }

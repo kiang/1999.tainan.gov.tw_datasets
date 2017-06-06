@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706060340",
+    "requested_datetime": "2017-06-06 21:53:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區永華路一段193號，凱悅牙醫診所，人行道 違規停車",
+    "address_string": "永華路一段193號",
+    "lat": "22.9881631",
+    "long": "120.1916325",
+    "service_notice": {},
+    "updated_datetime": "2017-06-06 22:59:58",
+    "expected_datetime": "2017-06-06 21:53:00"
+}
