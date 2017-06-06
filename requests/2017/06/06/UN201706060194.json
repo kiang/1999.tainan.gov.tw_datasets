@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706060194",
     "requested_datetime": "2017-06-06 14:11:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "安南區國安街117號 佔用道路",
     "address_string": "台南市安南區國安街117號",
     "lat": "23.0220185",
     "long": "120.1868741",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-06 19:45:32",
     "expected_datetime": "2017-06-06 14:11:00"
 }
