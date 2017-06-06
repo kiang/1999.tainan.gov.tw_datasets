@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706060321",
+    "requested_datetime": "2017-06-06 19:56:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "安平區安平路51巷20弄28號 妨害安寧",
+    "address_string": "708台灣台南市安平區安平路51巷20弄28號",
+    "lat": "22.998431826846115",
+    "long": "120.16558156878659",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-06 19:56:00"
+}
