@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201706040127",
     "requested_datetime": "2017-06-04 15:20:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "道路維修",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-06 09:48:09",
     "expected_datetime": "2017-06-11 15:20:00"
 }
