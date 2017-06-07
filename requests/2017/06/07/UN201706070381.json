@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706070381",
     "requested_datetime": "2017-06-07 23:39:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "多福豆花店 違規停車",
     "address_string": "新中街多福豆花店旁",
     "lat": "23.0356851",
     "long": "120.2393523",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-08 06:57:29",
     "expected_datetime": "2017-06-07 23:39:00"
 }
