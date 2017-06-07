@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第六分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "南區福吉五街9號違規停車",
     "address_string": "台南市福吉五街9號",
     "lat": "22.9820199",
     "long": "120.1930583",
     "service_notice": {},
-    "updated_datetime": "2017-06-04 09:28:18",
+    "updated_datetime": "2017-06-07 16:37:51",
     "expected_datetime": "2017-06-04 06:52:00"
 }
