@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區東門路二段與長榮路二段口 違規停車",
     "address_string": "東門路二段與長榮路二段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9864244",
+    "long": "120.2199888",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-06-07 09:41:00"
