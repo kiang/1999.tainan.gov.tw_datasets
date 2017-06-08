@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706070223",
     "requested_datetime": "2017-06-07 15:33:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "永康區中山北路與永科王田大道口 廚餘",
     "address_string": "永康區中山北路永科王田大道",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-08 14:04:39",
     "expected_datetime": "2017-06-14 15:33:00"
 }

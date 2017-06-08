@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706080168",
+    "requested_datetime": "2017-06-08 13:57:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局",
+    "subproject": "9盞以下路燈故障",
+    "description": "安平區建平十二街，從永華三街到文平路之間路段 路燈不亮",
+    "address_string": "安平區建平十二街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-15 13:57:00"
+}
