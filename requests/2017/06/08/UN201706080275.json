@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706080275",
+    "requested_datetime": "2017-06-08 18:00:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "南區中華南路二段上 坑洞",
+    "address_string": "南區中華南路二段上",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-15 18:00:00"
+}
