@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706080079",
+    "requested_datetime": "2017-06-08 10:10:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區西華街59號 違規停車",
+    "address_string": "北區西華街59號",
+    "lat": "22.9991052",
+    "long": "120.2105089",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-08 10:10:00"
+}
