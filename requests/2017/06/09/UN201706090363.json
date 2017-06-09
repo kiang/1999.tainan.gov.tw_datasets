@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706090363",
     "requested_datetime": "2017-06-09 02:37:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": {},
     "service_name": {},
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": {},
     "description": "祥興麵包店",
     "address_string": {},
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-09 14:39:47",
     "expected_datetime": "2017-06-16 02:37:00"
 }

@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區長榮路一段203號 違規停車",
     "address_string": "長榮路一段203號",
-    "lat": {},
-    "long": {},
+    "lat": "23.3198182",
+    "long": "120.3180313",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-06-09 13:05:00"
