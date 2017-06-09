@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706070318",
     "requested_datetime": "2017-06-07 19:19:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "學甲區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市學甲區公所",
     "subproject": "9盞以下路燈故障",
     "description": "學甲區171縣道往西方向，約5.5～5.7K處 路燈不亮",
     "address_string": "學甲區171縣道",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-09 08:41:55",
     "expected_datetime": "2017-06-14 19:19:00"
 }
