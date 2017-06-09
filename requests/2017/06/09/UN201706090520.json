@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706090520",
     "requested_datetime": "2017-06-09 13:23:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區新中街 違規停車",
     "address_string": "新中街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-09 17:38:38",
     "expected_datetime": "2017-06-09 13:23:00"
 }
