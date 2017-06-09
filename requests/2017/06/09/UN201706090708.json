@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706090708",
+    "requested_datetime": "2017-06-09 21:03:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "場所連續噪音",
+    "description": "東區榮譽街94號，鄭記麵店 妨害安寧",
+    "address_string": "台南市東區榮譽街94號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-06-09 22:44:26",
+    "expected_datetime": "2017-06-09 21:03:00"
+}
