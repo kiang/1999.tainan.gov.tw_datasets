@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706100217",
     "requested_datetime": "2017-06-10 18:34:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "南區健康路和體育路交叉口，體育路上 違停",
     "address_string": "南區體育路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-10 22:25:21",
     "expected_datetime": "2017-06-17 18:34:00"
 }

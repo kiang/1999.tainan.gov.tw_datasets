@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706100238",
     "requested_datetime": "2017-06-10 19:26:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區西門路二段387號(郡緯街轉角)，違規停車",
     "address_string": "西門路二段387號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-10 22:22:46",
     "expected_datetime": "2017-06-10 19:26:00"
 }
