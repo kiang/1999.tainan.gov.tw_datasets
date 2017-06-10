@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706100173",
     "requested_datetime": "2017-06-10 15:19:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "東區崇明路387號 佔用道路",
     "address_string": "東區崇明路387號",
     "lat": "22.9712325",
     "long": "120.225502",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-10 17:01:39",
     "expected_datetime": "2017-06-17 15:19:00"
 }

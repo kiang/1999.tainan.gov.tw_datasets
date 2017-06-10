@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區西門路二段，從郭綜合醫院往北區方向 違停",
     "address_string": "中西區西門路二段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9951256",
+    "long": "120.1994075",
     "service_notice": {},
     "updated_datetime": "2017-06-10 16:55:08",
     "expected_datetime": "2017-06-17 14:47:00"

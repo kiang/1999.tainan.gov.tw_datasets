@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區新行街 違規停車",
     "address_string": "新行街",
-    "lat": {},
-    "long": {},
+    "lat": "24.043348",
+    "long": "121.6074529",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-06-10 16:50:00"
