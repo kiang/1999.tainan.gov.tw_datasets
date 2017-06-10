@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201706110003",
     "requested_datetime": "2017-06-11 00:08:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "永康區華興街138號 違規停車",
     "address_string": "永康區華興街138號",
-    "lat": {},
-    "long": {},
+    "lat": "25.1369688",
+    "long": "121.7390292",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-11 06:23:13",
     "expected_datetime": "2017-06-18 00:08:00"
 }

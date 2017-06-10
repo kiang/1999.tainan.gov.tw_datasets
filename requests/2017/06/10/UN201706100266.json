@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706100266",
     "requested_datetime": "2017-06-10 21:24:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "永康區東橋三路440號 佔用道路",
     "address_string": "永康區東橋三路440號",
     "lat": "23.0301701",
     "long": "120.244174",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-11 06:15:26",
     "expected_datetime": "2017-06-17 21:24:00"
 }
