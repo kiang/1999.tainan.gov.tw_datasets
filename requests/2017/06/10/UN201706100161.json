@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706100161",
     "requested_datetime": "2017-06-10 14:56:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區公園路512號 紅線違停",
     "address_string": "北區公園路512號",
     "lat": "24.1471416",
     "long": "120.679516",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-10 17:00:28",
     "expected_datetime": "2017-06-17 14:56:00"
 }

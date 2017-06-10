@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706100104",
     "requested_datetime": "2017-06-10 12:10:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "南區夏林路33號 妨害安寧",
     "address_string": "南區夏林路33號",
     "lat": "22.983953",
     "long": "120.195157",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-10 16:32:40",
     "expected_datetime": "2017-06-10 12:10:00"
 }
