@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706100135",
+    "requested_datetime": "2017-06-10 13:54:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "台南市中西區西華南街120巷13號 噪音舉發",
+    "address_string": "台南市中西區西華南街120巷13號",
+    "lat": "22.9946816",
+    "long": "120.2096086",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-10 13:54:00"
+}
