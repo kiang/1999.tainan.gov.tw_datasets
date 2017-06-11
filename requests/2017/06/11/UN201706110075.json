@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706110075",
+    "requested_datetime": "2017-06-11 11:45:00",
+    "status": {},
+    "keyword": {},
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "新營區中正路36號 違規停車",
+    "address_string": "新營區中正路36號",
+    "lat": "23.311122959942963",
+    "long": "120.31641664053654",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-11 11:45:00"
+}
