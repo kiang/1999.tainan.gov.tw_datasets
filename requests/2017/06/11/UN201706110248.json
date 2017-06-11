@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706110248",
+    "requested_datetime": "2017-06-11 19:59:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "北區文成一路 妨害安寧",
+    "address_string": "北區文成一路",
+    "lat": "23.0139614",
+    "long": "120.2052112",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-18 19:59:00"
+}
