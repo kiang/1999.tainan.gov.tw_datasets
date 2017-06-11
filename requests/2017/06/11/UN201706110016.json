@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706110016",
     "requested_datetime": "2017-06-11 06:23:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "702台灣台南市南區大同路二段704巷46號違規停車",
     "address_string": "702台灣台南市南區大同路二段704巷46號",
     "lat": "22.9669476",
     "long": "120.2141279",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-11 09:12:35",
     "expected_datetime": "2017-06-11 06:23:00"
 }
