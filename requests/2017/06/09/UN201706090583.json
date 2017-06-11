@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706090583",
     "requested_datetime": "2017-06-09 15:31:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "其他汙染舉發",
     "description": "安南區府安路七段405號 廢棄物",
     "address_string": "安南區府安路七段405號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-12 00:47:07",
     "expected_datetime": "2017-06-16 15:31:00"
 }
