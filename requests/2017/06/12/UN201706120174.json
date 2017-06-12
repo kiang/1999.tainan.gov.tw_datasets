@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706120174",
+    "requested_datetime": "2017-06-12 13:33:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "北區和緯路一段82號前 騎樓舉發",
+    "address_string": "北區和緯路一段82號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-06-12 15:22:15",
+    "expected_datetime": "2017-06-19 13:33:00"
+}
