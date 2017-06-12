@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706120199",
+    "requested_datetime": "2017-06-12 14:27:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌故障",
+    "description": "北區北門路*公園北路(南二中旁) 號誌故障",
+    "address_string": "北區北門路*公園北路(南二中旁)",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-19 14:27:00"
+}
