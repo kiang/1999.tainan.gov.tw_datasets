@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安平區古堡街62號 違停",
     "address_string": "安平區古堡街62號",
-    "lat": {},
-    "long": {},
+    "lat": "23.00241",
+    "long": "120.1613079",
     "service_notice": {},
     "updated_datetime": "2017-06-12 22:42:49",
     "expected_datetime": "2017-06-19 20:45:00"
