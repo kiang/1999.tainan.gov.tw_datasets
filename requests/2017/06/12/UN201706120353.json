@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706120353",
     "requested_datetime": "2017-06-12 20:50:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區南台街54巷 違停",
     "address_string": "永康區南台街54巷",
     "lat": "23.0239715",
     "long": "120.2224494",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-12 22:41:44",
     "expected_datetime": "2017-06-19 20:50:00"
 }
