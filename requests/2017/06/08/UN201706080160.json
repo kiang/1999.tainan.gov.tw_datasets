@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706080160",
     "requested_datetime": "2017-06-08 13:26:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路樹傾倒",
     "description": "北區東豐路，介於長榮路四段與林森路三段間 斷枝",
     "address_string": "北區東豐路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-12 09:04:23",
     "expected_datetime": "2017-06-15 13:26:00"
 }
