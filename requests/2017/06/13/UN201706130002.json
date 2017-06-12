@@ -9,8 +9,8 @@
     "subproject": "10盞以上路燈故障",
     "description": "安南區台江大道三段 路燈大範圍不亮",
     "address_string": "安南區台江大道三段",
-    "lat": {},
-    "long": {},
+    "lat": "23.0639816",
+    "long": "120.1626834",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-06-20 00:31:00"
