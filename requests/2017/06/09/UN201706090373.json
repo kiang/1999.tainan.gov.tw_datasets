@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706090373",
     "requested_datetime": "2017-06-09 08:03:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "中西區西賢一街159巷 路燈故障",
     "address_string": "中西區西賢一街159巷",
     "lat": "23.0026398",
     "long": "120.1776336",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-12 09:07:23",
     "expected_datetime": "2017-06-09 08:03:00"
 }
