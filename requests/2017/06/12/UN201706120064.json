@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706120064",
+    "requested_datetime": "2017-06-12 09:35:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "場所連續噪音",
+    "description": "東區立德十路3號一樓  噪音\/佔用道路",
+    "address_string": "東區立德十路3號一樓",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-06-12 10:30:51",
+    "expected_datetime": "2017-06-19 09:35:00"
+}

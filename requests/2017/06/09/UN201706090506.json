@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706090506",
     "requested_datetime": "2017-06-09 12:49:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "北區公園路321巷24號  消防栓漏水",
     "address_string": "北區公園路321巷24號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-12 10:58:42",
     "expected_datetime": "2017-06-16 12:49:00"
 }
