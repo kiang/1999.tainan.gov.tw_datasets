@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706120236",
+    "requested_datetime": "2017-06-12 15:41:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "永華路文華社區活動中心前，剛好在橋頭處，快車道和慢車道中間 路面坑洞",
+    "address_string": "南區永華路一段275號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-19 15:41:00"
+}
