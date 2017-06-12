@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706120265",
     "requested_datetime": "2017-06-12 16:44:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "東區仁和路跟德祥街37號路口  佔用道路",
     "address_string": "佔用道路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-12 19:05:31",
     "expected_datetime": "2017-06-19 16:44:00"
 }

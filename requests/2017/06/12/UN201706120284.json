@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區民權路一段（東門圓環到中山路口）雙側 違規停車",
     "address_string": "民權路一段",
-    "lat": {},
-    "long": {},
+    "lat": "24.752639",
+    "long": "121.7537578",
     "service_notice": {},
     "updated_datetime": "2017-06-12 18:46:42",
     "expected_datetime": "2017-06-12 17:28:00"
