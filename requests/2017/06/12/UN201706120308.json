@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706120308",
     "requested_datetime": "2017-06-12 18:53:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區開元路和長榮路交叉口 違停＆路樹修剪",
     "address_string": "北區開元路長榮路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-13 07:09:12",
     "expected_datetime": "2017-06-19 18:53:00"
 }

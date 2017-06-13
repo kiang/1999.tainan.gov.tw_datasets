@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706120380",
     "requested_datetime": "2017-06-12 22:53:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區育平五街33-77號違規停車",
     "address_string": "安平區育平五街33-77號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-13 07:10:03",
     "expected_datetime": "2017-06-12 22:53:00"
 }
