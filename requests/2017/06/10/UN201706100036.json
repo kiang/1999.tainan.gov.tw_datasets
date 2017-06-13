@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706100036",
     "requested_datetime": "2017-06-10 08:48:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "東區德東街51號 孔蓋鬆動",
     "address_string": "東區德東街51號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-13 08:45:56",
     "expected_datetime": "2017-06-17 08:48:00"
 }
