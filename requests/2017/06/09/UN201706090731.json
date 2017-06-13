@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706090731",
     "requested_datetime": "2017-06-09 23:50:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "學甲區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市學甲區公所",
     "subproject": "9盞以下路燈故障",
     "description": "學甲往下營的174縣道 路燈閃爍",
     "address_string": "174縣道",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-13 09:18:20",
     "expected_datetime": "2017-06-16 23:50:00"
 }
