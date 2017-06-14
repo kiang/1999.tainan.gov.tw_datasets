@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706140198",
     "requested_datetime": "2017-06-14 16:19:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "安南區大安街68巷27號 佔用道路",
     "address_string": "安南區大安街68巷27號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-14 17:19:29",
     "expected_datetime": "2017-06-21 16:19:00"
 }

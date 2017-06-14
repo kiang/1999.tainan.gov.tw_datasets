@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區南華街81號 違規停車",
     "address_string": "700台南市中西區南華街81號",
     "lat": "22.9907743",
     "long": "120.1915542",
     "service_notice": {},
-    "updated_datetime": "2017-06-11 17:02:24",
+    "updated_datetime": "2017-06-14 17:36:29",
     "expected_datetime": "2017-06-11 15:31:00"
 }
