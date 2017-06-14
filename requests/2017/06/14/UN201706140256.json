@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706140256",
+    "requested_datetime": "2017-06-14 20:05:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區立德十路43號 違規停車",
+    "address_string": "東區立德十路43號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-21 20:05:00"
+}
