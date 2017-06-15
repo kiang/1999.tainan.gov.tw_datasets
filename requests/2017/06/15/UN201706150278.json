@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706150278",
+    "requested_datetime": "2017-06-15 21:10:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "仁德交流道下方,線道182(東門路往關廟方向)",
+    "address_string": "仁德交流道下方",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-22 21:10:00"
+}
