@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706150098",
+    "requested_datetime": "2017-06-15 11:01:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區中華東路一段217巷  違規停車",
+    "address_string": "東區中華東路一段217巷",
+    "lat": "24.8110057",
+    "long": "120.9864408",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-15 11:01:00"
+}
