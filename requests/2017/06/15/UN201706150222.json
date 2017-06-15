@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區勝利路206巷49號 違停",
     "address_string": "北區勝利路206巷49號",
-    "lat": {},
-    "long": {},
+    "lat": "24.800741",
+    "long": "120.9685771",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-06-22 17:28:00"
