@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706150294",
     "requested_datetime": "2017-06-15 23:34:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "歸仁區大廟一街218號 妨害安寧",
     "address_string": "711台灣台南市歸仁區大廟一街218號",
     "lat": "22.9924438",
     "long": "120.2740893",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-16 01:55:27",
     "expected_datetime": "2017-06-15 23:34:00"
 }

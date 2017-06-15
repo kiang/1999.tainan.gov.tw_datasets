@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706150239",
     "requested_datetime": "2017-06-15 18:07:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "麻豆區新生南路與中山路口，阿南碗粿 違停",
     "address_string": "麻豆區新生南路中山路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-16 01:36:11",
     "expected_datetime": "2017-06-22 18:07:00"
 }
