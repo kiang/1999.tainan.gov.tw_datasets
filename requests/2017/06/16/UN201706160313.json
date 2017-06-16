@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區公園路28號 違停",
     "address_string": "中西區公園路28號",
-    "lat": {},
-    "long": {},
+    "lat": "22.997471",
+    "long": "120.206348",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-06-23 20:36:00"
