@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706150234",
     "requested_datetime": "2017-06-15 18:03:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安南區安和路五段 58度c 違規停車",
     "address_string": "安南區安和路五段",
     "lat": "23.0671765",
     "long": "120.2172323",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-16 22:09:36",
     "expected_datetime": "2017-06-15 18:03:00"
 }
