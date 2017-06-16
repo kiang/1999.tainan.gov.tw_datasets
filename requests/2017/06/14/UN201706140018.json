@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706140018",
     "requested_datetime": "2017-06-14 07:24:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "安南區長溪路一段190號旁工地 噪音舉發",
     "address_string": "安南區長溪路一段190號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-16 15:08:48",
     "expected_datetime": "2017-06-14 07:24:00"
 }
