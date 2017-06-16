@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706160125",
     "requested_datetime": "2017-06-16 12:11:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心,臺南市停車管理處",
     "subproject": "違規停車",
     "description": "安南區安富街203號 違規停車",
     "address_string": "安南區安富街203號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-16 16:22:55",
     "expected_datetime": "2017-06-23 12:11:00"
 }
