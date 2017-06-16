@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706160044",
+    "requested_datetime": "2017-06-16 08:50:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "安南區怡安路一段347號前 路面坑洞",
+    "address_string": "安南區怡安路一段347號前",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-23 08:50:00"
+}
