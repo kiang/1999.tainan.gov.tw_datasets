@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706160352",
+    "requested_datetime": "2017-06-16 23:40:00",
+    "status": {},
+    "keyword": {},
+    "area": "佳里區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "佳里區南24鄉道311號 道路維修",
+    "address_string": "722台灣台南市佳里區南24鄉道311號",
+    "lat": "23.18880912314583",
+    "long": "120.2006110176444",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-16 23:40:00"
+}
