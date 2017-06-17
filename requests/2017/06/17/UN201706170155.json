@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706170155",
+    "requested_datetime": "2017-06-17 14:40:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "玉井區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "玉井區中正路140號 違停",
+    "address_string": "玉井區中正路140號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-24 14:40:00"
+}
