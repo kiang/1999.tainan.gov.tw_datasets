@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706170232",
+    "requested_datetime": "2017-06-17 18:44:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "東區凱旋路216號，YAMAHA 機車行 妨害安寧",
+    "address_string": "東區凱旋路216號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-06-17 22:32:03",
+    "expected_datetime": "2017-06-24 18:44:00"
+}

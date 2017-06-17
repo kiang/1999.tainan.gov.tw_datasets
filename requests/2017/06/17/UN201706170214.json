@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706170214",
+    "requested_datetime": "2017-06-17 17:56:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區衛國街114巷9弄口轉角 紅線違停",
+    "address_string": "東區衛國街114巷9弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-06-17 22:44:58",
+    "expected_datetime": "2017-06-24 17:56:00"
+}
