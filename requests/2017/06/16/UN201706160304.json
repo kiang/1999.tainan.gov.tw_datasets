@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706160304",
     "requested_datetime": "2017-06-16 20:03:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "安南區城西街二段263巷，直走到底右手邊的魚塭內 空氣污染",
     "address_string": "安南區城西街二段263巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-18 01:16:09",
     "expected_datetime": "2017-06-23 20:03:00"
 }
