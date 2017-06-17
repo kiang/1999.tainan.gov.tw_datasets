@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區西門路四段290號違規停車",
     "address_string": "北區西門路四段290號",
-    "lat": {},
-    "long": {},
+    "lat": "24.845826",
+    "long": "120.928271",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-06-17 22:09:00"
