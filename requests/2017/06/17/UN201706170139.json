@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706170139",
+    "requested_datetime": "2017-06-17 13:44:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區富農路（應為街）二段109巷 妨礙出入",
+    "address_string": "東區富農街二段109巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-06-17 20:43:45",
+    "expected_datetime": "2017-06-24 13:44:00"
+}
