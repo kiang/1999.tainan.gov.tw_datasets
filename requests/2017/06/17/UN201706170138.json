@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706170138",
+    "requested_datetime": "2017-06-17 13:44:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區怡平路與永華五街交叉口，金城國中外的人行道上 違規停車",
+    "address_string": "怡平路永華五街",
+    "lat": "22.9932946",
+    "long": "120.1795303",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-17 13:44:00"
+}

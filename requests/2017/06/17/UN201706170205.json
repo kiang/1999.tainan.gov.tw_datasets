@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706170205",
+    "requested_datetime": "2017-06-17 17:30:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "臺南市永康區公所,臺南市政府交通局",
+    "subproject": "號誌故障",
+    "description": "永康區永安路仁愛街十字路 道路坑洞&號誌故障",
+    "address_string": "永康區永安路仁愛街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-24 17:30:00"
+}
