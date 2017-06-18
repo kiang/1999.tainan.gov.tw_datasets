@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區和緯路二段330號與336號 違停",
     "address_string": "北區和緯路二段330號",
-    "lat": {},
-    "long": {},
+    "lat": "23.012584",
+    "long": "120.2050288",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-06-25 12:54:00"
