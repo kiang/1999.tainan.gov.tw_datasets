@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706180234",
     "requested_datetime": "2017-06-18 21:26:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "北區實踐街39巷 妨害安寧",
     "address_string": "北區實踐街39巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-19 02:09:47",
     "expected_datetime": "2017-06-25 21:26:00"
 }
