@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706180020",
+    "requested_datetime": "2017-06-18 08:24:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "北區開南街275巷4弄16號 廟會妨害安寧",
+    "address_string": "No. 16, Alley 4, Lane 275, Kainan Street, North District, Tainan City, Taiwan 704",
+    "lat": "23.00419400167098",
+    "long": "120.2296210811928",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-18 08:24:00"
+}
