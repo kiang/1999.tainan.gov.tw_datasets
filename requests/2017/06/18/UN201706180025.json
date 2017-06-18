@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706180025",
     "requested_datetime": "2017-06-18 08:49:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "北區開南街275巷6弄26號 妨害安寧",
     "address_string": "No. 26, Alley 6, Lane 275, Kainan Street, North District, Tainan City, Taiwan 704",
     "lat": "23.004319542109037",
     "long": "120.22944560285679",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-18 18:09:33",
     "expected_datetime": "2017-06-18 08:49:00"
 }

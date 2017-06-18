@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706180055",
+    "requested_datetime": "2017-06-18 10:40:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區慶中街往南近南寧街口 違規停車",
+    "address_string": "慶中街南寧街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-06-18 18:59:05",
+    "expected_datetime": "2017-06-18 10:40:00"
+}

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706180024",
     "requested_datetime": "2017-06-18 08:44:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "安南區環湖街與安昌街口 妨害安寧",
     "address_string": "安南區環湖街與安昌街口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-18 18:14:28",
     "expected_datetime": "2017-06-25 08:44:00"
 }
