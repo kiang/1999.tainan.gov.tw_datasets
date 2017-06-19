@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706190158",
+    "requested_datetime": "2017-06-19 13:41:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中山南路104巷和新興街35巷口(日光行館) 違規停車",
+    "address_string": "710台灣台南市永康區中山南路104巷和新興街35巷口(日光行館)",
+    "lat": "23.0125813",
+    "long": "120.2293766",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-19 13:41:00"
+}

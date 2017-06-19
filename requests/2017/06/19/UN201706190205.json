@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706190205",
+    "requested_datetime": "2017-06-19 15:03:00",
+    "status": {},
+    "keyword": {},
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "新營區新進路二段214-216號 違規停車",
+    "address_string": "730台灣台南市新營區新進路二段214號",
+    "lat": "23.300585654245239",
+    "long": "120.30706306455681",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-19 15:03:00"
+}
