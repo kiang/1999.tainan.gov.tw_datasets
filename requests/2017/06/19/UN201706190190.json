@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706190190",
+    "requested_datetime": "2017-06-19 14:25:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區勝學路和中華二路口(伊蕾名店)， 違規停車",
+    "address_string": "710台灣台南市永康區勝學路中華二路",
+    "lat": "23.0075494",
+    "long": "120.23127",
+    "service_notice": {},
+    "updated_datetime": "2017-06-19 18:51:04",
+    "expected_datetime": "2017-06-19 14:25:00"
+}

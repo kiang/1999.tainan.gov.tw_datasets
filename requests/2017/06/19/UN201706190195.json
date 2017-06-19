@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706190195",
+    "requested_datetime": "2017-06-19 14:40:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區昌榮路三段（應為長榮路）139、141號，7-11超商旁 違規停車",
+    "address_string": "長榮路三段139號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-06-19 18:53:12",
+    "expected_datetime": "2017-06-19 14:40:00"
+}
