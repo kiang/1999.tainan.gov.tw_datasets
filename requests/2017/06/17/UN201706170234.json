@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706170234",
     "requested_datetime": "2017-06-17 18:50:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "10盞以上路燈故障",
     "description": "新營區復興路與新工路口，復興路上，往鹽水方向 路燈不亮",
     "address_string": "新營區復興路新工路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-19 11:28:47",
     "expected_datetime": "2017-06-24 18:50:00"
 }
