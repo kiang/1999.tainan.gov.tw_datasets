@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706190040",
     "requested_datetime": "2017-06-19 08:48:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新化區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
     "description": "新化區全興里大智路276號水溝旁 動物救援",
     "address_string": "新化區全興里大智路276號水溝旁",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-19 12:25:08",
     "expected_datetime": "2017-06-26 08:48:00"
 }
