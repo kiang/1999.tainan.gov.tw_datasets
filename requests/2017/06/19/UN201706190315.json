@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706190315",
+    "requested_datetime": "2017-06-19 19:18:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區文賢路833巷我家牛排前 違規停車",
+    "address_string": "北區文賢路833巷我家牛排前",
+    "lat": "23.0170009",
+    "long": "120.19322",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-19 19:18:00"
+}
