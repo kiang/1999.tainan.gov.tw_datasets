@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706180124",
     "requested_datetime": "2017-06-18 14:41:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "北區公園北路和北門路二段交叉口，南二中前 路面坑洞",
     "address_string": "北區公園北路北門路二段",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-19 17:40:03",
     "expected_datetime": "2017-06-25 14:41:00"
 }

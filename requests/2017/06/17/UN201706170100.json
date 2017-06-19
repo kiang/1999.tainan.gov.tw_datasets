@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706170100",
     "requested_datetime": "2017-06-17 11:51:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "道路維修",
-    "agency": "臺南市政府工務局",
+    "agency": "台南市政府",
     "subproject": "路面掏空、塌陷",
     "description": "東區崇德路971號 路面掏空、塌陷",
     "address_string": "東區崇德路971號",
     "lat": "25.1284754",
     "long": "121.7320683",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-19 17:22:45",
     "expected_datetime": "2017-06-24 11:51:00"
 }

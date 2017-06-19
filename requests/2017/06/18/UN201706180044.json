@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706180044",
     "requested_datetime": "2017-06-18 09:57:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "中西區開山路，南大附小圍牆 坑洞",
     "address_string": "中西區開山路",
     "lat": "22.9884594",
     "long": "120.2080528",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-19 17:27:13",
     "expected_datetime": "2017-06-25 09:57:00"
 }

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706180146",
     "requested_datetime": "2017-06-18 16:33:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "市區道路路面油漬",
     "description": "南區金華路一段274號前 市區道路路面油漬",
     "address_string": "南區金華路一段274號前",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-19 17:28:13",
     "expected_datetime": "2017-06-25 16:33:00"
 }

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706190207",
     "requested_datetime": "2017-06-19 15:01:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區成功路，台南大飯店對面國賓大樓 違停",
     "address_string": "北區成功路",
     "lat": "24.8112883",
     "long": "120.9518578",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-19 17:18:15",
     "expected_datetime": "2017-06-26 15:01:00"
 }
