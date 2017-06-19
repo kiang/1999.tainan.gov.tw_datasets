@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706190033",
+    "requested_datetime": "2017-06-19 08:29:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區安平路500巷與安平路446巷25弄交叉路口 違規停車",
+    "address_string": "安平區安平路500巷與安平路446巷25弄",
+    "lat": "22.9993262",
+    "long": "120.1732616",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-19 08:29:00"
+}
