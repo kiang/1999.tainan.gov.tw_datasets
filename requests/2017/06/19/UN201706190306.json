@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706190306",
     "requested_datetime": "2017-06-19 19:04:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "西港區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "10盞以上路燈故障",
     "description": "西港區竹林里到劉厝里 路燈不亮",
     "address_string": "西港區竹林里劉厝里",
     "lat": "23.1294537",
     "long": "120.1767192",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-20 11:12:34",
     "expected_datetime": "2017-06-26 19:04:00"
 }
