@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區育農路660號 違規停車",
     "address_string": "東區育農路660號",
-    "lat": {},
-    "long": {},
+    "lat": "22.989693",
+    "long": "120.2428369",
     "service_notice": {},
     "updated_datetime": "2017-06-20 15:10:40",
     "expected_datetime": "2017-06-27 14:13:00"
