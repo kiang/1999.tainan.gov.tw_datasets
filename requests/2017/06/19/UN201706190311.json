@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706190311",
     "requested_datetime": "2017-06-19 19:11:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "仁德交流道附近，B＆Q旁統一精工加油站對面 道路散落物",
     "address_string": "仁德區中山路861號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-20 17:13:20",
     "expected_datetime": "2017-06-26 19:11:00"
 }
