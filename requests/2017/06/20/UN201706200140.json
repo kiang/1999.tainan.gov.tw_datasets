@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706200140",
     "requested_datetime": "2017-06-20 13:27:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區長榮路三段133號 違規停車",
     "address_string": "東區長榮路三段133號",
     "lat": "22.9952111",
     "long": "120.2216901",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-20 15:12:31",
     "expected_datetime": "2017-06-20 13:27:00"
 }
