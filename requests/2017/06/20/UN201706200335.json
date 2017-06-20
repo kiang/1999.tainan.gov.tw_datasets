@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706200335",
+    "requested_datetime": "2017-06-20 22:15:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "仁德區長興一街和南興路交叉口，靠近長興一街處 路面坑洞",
+    "address_string": "仁德區長興一街南興路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-27 22:15:00"
+}
