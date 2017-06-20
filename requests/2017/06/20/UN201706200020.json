@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706200020",
     "requested_datetime": "2017-06-20 07:34:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "南區尊南街金華市場 騎樓舉發",
     "address_string": "南區尊南街金華市場",
     "lat": "22.977064",
     "long": "120.188613",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-20 13:52:35",
     "expected_datetime": "2017-06-20 07:34:00"
 }
