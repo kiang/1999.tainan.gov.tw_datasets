@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706160320",
     "requested_datetime": "2017-06-16 21:07:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "10盞以上路燈故障",
     "description": "南區西門路一段和新都路交叉口，往北方向 路燈不亮",
     "address_string": "南區西門路一段新都路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-20 08:39:41",
     "expected_datetime": "2017-06-23 21:07:00"
 }
