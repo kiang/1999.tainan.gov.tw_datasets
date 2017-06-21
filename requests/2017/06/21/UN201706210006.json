@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706210006",
+    "requested_datetime": "2017-06-21 00:32:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區健康路一段410巷巷口 違規停車",
+    "address_string": "700台灣台南市中西區健康路一段410巷巷口",
+    "lat": "22.981590945198370",
+    "long": "120.19830897301631",
+    "service_notice": {},
+    "updated_datetime": "2017-06-21 07:45:00",
+    "expected_datetime": "2017-06-21 00:32:00"
+}
