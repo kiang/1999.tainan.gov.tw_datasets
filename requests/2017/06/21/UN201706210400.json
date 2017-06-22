@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706210400",
+    "requested_datetime": "2017-06-21 22:56:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "永康區永春街25巷 妨害安寧",
+    "address_string": "永康區永春街25巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-06-22 00:58:14",
+    "expected_datetime": "2017-06-28 22:56:00"
+}

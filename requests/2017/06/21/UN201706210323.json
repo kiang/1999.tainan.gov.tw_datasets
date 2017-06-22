@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706210323",
+    "requested_datetime": "2017-06-21 19:22:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "北區實踐街39巷城煌宮 廟會噪音",
+    "address_string": "北區實踐街39巷城煌宮",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-06-22 00:56:40",
+    "expected_datetime": "2017-06-28 19:22:00"
+}

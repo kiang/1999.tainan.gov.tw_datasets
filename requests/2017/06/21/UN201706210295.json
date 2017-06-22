@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706210295",
+    "requested_datetime": "2017-06-21 18:10:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區北門路一段27號以及斜對面 違規停車",
+    "address_string": "中西區北門路一段27號",
+    "lat": "22.989681",
+    "long": "120.2113472",
+    "service_notice": {},
+    "updated_datetime": "2017-06-22 03:47:30",
+    "expected_datetime": "2017-06-21 18:10:00"
+}

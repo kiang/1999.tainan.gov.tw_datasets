@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706210351",
+    "requested_datetime": "2017-06-21 20:12:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中華二路340巷15弄 違規停車",
+    "address_string": "永康區中華二路340巷15弄",
+    "lat": "23.0092896",
+    "long": "120.2310022",
+    "service_notice": {},
+    "updated_datetime": "2017-06-22 00:59:27",
+    "expected_datetime": "2017-06-28 20:12:00"
+}

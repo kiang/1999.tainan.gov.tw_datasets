@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706210290",
+    "requested_datetime": "2017-06-21 17:58:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "安南區北汕尾二路800巷9弄46號 妨害安寧",
+    "address_string": "安南區北汕尾二路800巷9弄46號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-06-21 19:35:36",
+    "expected_datetime": "2017-06-28 17:58:00"
+}
