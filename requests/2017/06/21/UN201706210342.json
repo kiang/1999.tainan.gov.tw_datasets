@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706210342",
     "requested_datetime": "2017-06-21 19:58:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "西港區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "10盞以上路燈故障",
     "description": "西港區竹林里42號附近 路燈不亮",
     "address_string": "西港區竹林里42號",
     "lat": "23.1258135",
     "long": "120.1813945",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-22 15:29:36",
     "expected_datetime": "2017-06-28 19:58:00"
 }
