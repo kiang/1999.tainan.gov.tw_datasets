@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706220300",
+    "requested_datetime": "2017-06-22 19:05:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區正強街151巷口，肉燥飯店前 紅線違停",
+    "address_string": "永康區正強街151巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-29 19:05:00"
+}
