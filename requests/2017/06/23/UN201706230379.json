@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706230379",
     "requested_datetime": "2017-06-23 06:22:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安定區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
     "description": "安定區安定區中沙村沙崙仔27號",
     "address_string": "安定區中沙村砂崙仔27號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-23 15:17:46",
     "expected_datetime": "2017-06-30 06:22:00"
 }
