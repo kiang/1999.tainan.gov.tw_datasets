@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706230640",
+    "requested_datetime": "2017-06-23 18:14:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區平通路與健康二街口 違規停車",
+    "address_string": "安平區平通路",
+    "lat": "22.9930147",
+    "long": "120.1753763",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-30 18:14:00"
+}
