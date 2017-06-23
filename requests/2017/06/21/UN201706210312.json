@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706210312",
     "requested_datetime": "2017-06-21 19:02:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "東區林森路一段153巷27弄34號 道路維修",
     "address_string": "701台灣台南市東區林森路一段153巷27弄34號",
     "lat": "22.9844724",
     "long": "120.2144766",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-23 14:57:12",
     "expected_datetime": "2017-06-21 19:02:00"
 }
