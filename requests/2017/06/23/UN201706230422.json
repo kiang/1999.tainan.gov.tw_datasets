@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "安南區安中路一段152號空氣汙染",
     "address_string": "安南區安中路一段152號",
-    "lat": {},
-    "long": {},
+    "lat": "23.042865",
+    "long": "120.196191",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-06-30 09:09:00"

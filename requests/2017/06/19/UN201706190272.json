@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706190272",
     "requested_datetime": "2017-06-19 17:33:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市仁德區公所",
     "subproject": "路面坑洞",
     "description": "仁德區中正西路16號，出來左手邊和行車方向逆向的汽車道和機車道中間 路面坑洞",
     "address_string": "仁德區中正西路16號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-23 10:50:34",
     "expected_datetime": "2017-06-26 17:33:00"
 }
