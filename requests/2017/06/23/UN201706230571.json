@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706230571",
+    "requested_datetime": "2017-06-23 15:29:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區北門路一段312號 違規停車",
+    "address_string": "700台灣台南市東區北門路一段312號",
+    "lat": "22.9969655",
+    "long": "120.2123124",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-23 15:29:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706230572",
+    "requested_datetime": "2017-06-23 15:29:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區新民街16巷及新民街交界，益詮車刀店前 違規停車",
+    "address_string": "永康區新民街16巷新民街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-06-23 17:50:55",
+    "expected_datetime": "2017-06-23 15:29:00"
+}
