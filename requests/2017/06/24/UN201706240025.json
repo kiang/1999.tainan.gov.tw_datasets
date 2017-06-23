@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706240025",
+    "requested_datetime": "2017-06-24 04:12:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區東門路二段245號",
+    "address_string": "東區東門路二段245號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-06-24 06:24:20",
+    "expected_datetime": "2017-07-01 04:12:00"
+}

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706230662",
     "requested_datetime": "2017-06-23 20:29:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區和緯路二段和育德一街口 紅線違停",
     "address_string": "北區和緯路二段育德一街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-24 06:13:19",
     "expected_datetime": "2017-06-30 20:29:00"
 }
