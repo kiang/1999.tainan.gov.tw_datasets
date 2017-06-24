@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706240074",
     "requested_datetime": "2017-06-24 10:24:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "永康區四維街149巷34之1號 妨礙安寧",
     "address_string": "永康區四維街149巷34之1號",
     "lat": "22.6163014",
     "long": "120.3020045",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-24 12:12:59",
     "expected_datetime": "2017-07-01 10:24:00"
 }
