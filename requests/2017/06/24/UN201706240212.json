@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706240212",
+    "requested_datetime": "2017-06-24 16:30:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "白河區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "白河區三間厝165市道與南92之1路口 交通疏導",
+    "address_string": "白河區三間厝",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-01 16:30:00"
+}
