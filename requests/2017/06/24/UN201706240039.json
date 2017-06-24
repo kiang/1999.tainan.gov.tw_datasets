@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706240039",
+    "requested_datetime": "2017-06-24 08:29:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "道路散落物",
+    "description": "北區公園路與小北路交接口路中間 狗屍",
+    "address_string": "北區公園路小北路",
+    "lat": "23.0120512",
+    "long": "120.2112312",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-01 08:29:00"
+}
