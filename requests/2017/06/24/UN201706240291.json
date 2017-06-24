@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706240291",
+    "requested_datetime": "2017-06-24 21:42:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區成功路與中華二路206巷15弄口 違停",
+    "address_string": "永康區成功路中華二路206巷15弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-01 21:42:00"
+}
