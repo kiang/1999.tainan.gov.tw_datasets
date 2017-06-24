@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706240047",
+    "requested_datetime": "2017-06-24 08:57:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "永康區中興街69巷 33號 慈惠堂 妨害安寧",
+    "address_string": "永康區中興街69巷33號",
+    "lat": "25.1299657",
+    "long": "121.7545392",
+    "service_notice": {},
+    "updated_datetime": "2017-06-24 10:55:06",
+    "expected_datetime": "2017-07-01 08:57:00"
+}
