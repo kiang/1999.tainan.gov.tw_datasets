@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706240239",
+    "requested_datetime": "2017-06-24 17:47:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "新市區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "新市區中山路20號 妨害安寧",
+    "address_string": "台南市新市區中山路20號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-06-24 18:39:51",
+    "expected_datetime": "2017-06-24 17:47:00"
+}
