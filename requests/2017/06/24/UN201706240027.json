@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706240027",
     "requested_datetime": "2017-06-24 04:39:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "其他汙染舉發",
     "description": "新營區文昌街16號 冷氣滴水",
     "address_string": "新營區文昌街16號",
     "lat": "23.3066",
     "long": "120.320036",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-25 00:47:08",
     "expected_datetime": "2017-07-01 04:39:00"
 }
