@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706250011",
+    "requested_datetime": "2017-06-25 03:59:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "南區健康路一段體育路 路面坑洞",
+    "address_string": "南區健康路一段體育路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-02 03:59:00"
+}
