@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "安南區海東五街與海東二街 空氣汙染",
     "address_string": "安南區海東五街與海東二街",
-    "lat": {},
-    "long": {},
+    "lat": "23.0305261",
+    "long": "120.1878567",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-07-01 12:01:00"
