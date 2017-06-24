@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706240097",
+    "requested_datetime": "2017-06-24 11:21:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "麻豆區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "麻豆區忠孝路博愛路口 佔用道路",
+    "address_string": "麻豆區忠孝路博愛路口",
+    "lat": "23.1851934",
+    "long": "120.2508619",
+    "service_notice": {},
+    "updated_datetime": "2017-06-24 13:20:59",
+    "expected_datetime": "2017-07-01 11:21:00"
+}
