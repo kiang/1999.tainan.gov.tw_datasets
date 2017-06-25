@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706250136",
+    "requested_datetime": "2017-06-25 17:38:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "玉井區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "玉井區中正路 妨礙安寧\/違停",
+    "address_string": "玉井區中正路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-06-25 18:53:19",
+    "expected_datetime": "2017-07-02 17:38:00"
+}
