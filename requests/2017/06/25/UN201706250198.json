@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706250198",
+    "requested_datetime": "2017-06-25 22:43:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心,臺南市政府觀光旅遊局",
+    "subproject": "妨害安寧",
+    "description": "中西區臨安路一段72號 妨礙安寧",
+    "address_string": "中西區臨安路一段72號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-06-26 00:52:52",
+    "expected_datetime": "2017-07-02 22:43:00"
+}
