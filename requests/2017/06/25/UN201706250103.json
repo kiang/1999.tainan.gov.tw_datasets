@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706250103",
+    "requested_datetime": "2017-06-25 15:14:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "玉井區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "台84線,從走馬賴到玉井分局這段 交通疏導",
+    "address_string": "台84線,從走馬賴到玉井分局這段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-02 15:14:00"
+}
