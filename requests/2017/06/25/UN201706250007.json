@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706250007",
     "requested_datetime": "2017-06-25 01:59:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "708台灣台南市安平區建平17街3號噪音舉發",
     "address_string": "708台灣台南市安平區建平17街3號",
     "lat": "22.997305",
     "long": "120.1850322",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-25 20:15:39",
     "expected_datetime": "2017-06-25 01:59:00"
 }
