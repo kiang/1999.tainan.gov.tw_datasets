@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706250125",
+    "requested_datetime": "2017-06-25 16:44:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區臨安路二段310號 違規停車",
+    "address_string": "北區臨安路二段310號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-02 16:44:00"
+}
