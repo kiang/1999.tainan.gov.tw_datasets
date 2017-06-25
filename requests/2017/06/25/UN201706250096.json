@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "玉井區玉井農會前 違停",
     "address_string": "玉井區玉井農會前",
-    "lat": {},
-    "long": {},
+    "lat": "23.125038",
+    "long": "120.462337",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-07-02 14:15:00"
