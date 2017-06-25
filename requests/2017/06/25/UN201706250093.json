@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706250093",
+    "requested_datetime": "2017-06-25 13:56:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區育樂街218-250號人行道 違停",
+    "address_string": "東區育樂街218-250號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-02 13:56:00"
+}
