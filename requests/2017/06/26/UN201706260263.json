@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706260263",
+    "requested_datetime": "2017-06-26 16:33:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區東門路三段338巷 違規停車",
+    "address_string": "東區東門路三段338巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-03 16:33:00"
+}
