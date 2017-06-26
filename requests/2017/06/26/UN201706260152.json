@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706260152",
+    "requested_datetime": "2017-06-26 11:59:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "永康區中華路216巷12弄 佔用道路",
+    "address_string": "永康區中華路216巷12弄",
+    "lat": "23.004418378063306",
+    "long": "120.23614790422971",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-06-26 11:59:00"
+}
