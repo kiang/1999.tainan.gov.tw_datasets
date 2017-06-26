@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706260025",
     "requested_datetime": "2017-06-26 08:21:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "區育德二路與立賢路 佔用道路",
     "address_string": "北區育德二路與立賢路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-26 17:18:16",
     "expected_datetime": "2017-07-03 08:21:00"
 }
