@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706270144",
+    "requested_datetime": "2017-06-27 12:16:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區赤崁街35號 違規停車",
+    "address_string": "中西區赤崁街35號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-04 12:16:00"
+}
