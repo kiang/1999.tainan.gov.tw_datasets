@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706280010",
+    "requested_datetime": "2017-06-28 01:09:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "新民街47巷內 違規停車",
+    "address_string": "新民街轉新民街47巷內",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-06-28 06:35:34",
+    "expected_datetime": "2017-06-28 01:09:00"
+}
