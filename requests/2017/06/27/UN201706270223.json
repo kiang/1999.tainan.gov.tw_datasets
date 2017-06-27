@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706270223",
     "requested_datetime": "2017-06-27 15:50:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "永康區大灣路924號佔用道路",
     "address_string": "永康區大灣路924號及922號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-27 18:42:07",
     "expected_datetime": "2017-06-27 15:50:00"
 }
