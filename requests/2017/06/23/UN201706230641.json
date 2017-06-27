@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706230641",
     "requested_datetime": "2017-06-23 19:22:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "官田區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "9盞以下路燈故障",
     "description": "官田區工業路40號，勞動部勞動力發展署雲嘉南分署(官田職訓局)前 號誌故障",
     "address_string": "720台南市官田區工業路40號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-27 14:32:42",
     "expected_datetime": "2017-06-23 19:22:00"
 }
