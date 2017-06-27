@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706270348",
     "requested_datetime": "2017-06-27 21:44:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區州平二街與同平路108巷尾轉角口 違規停車",
     "address_string": "台南市安平區州平二街同平路108巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-28 04:30:06",
     "expected_datetime": "2017-06-27 21:44:00"
 }
