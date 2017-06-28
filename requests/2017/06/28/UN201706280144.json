@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706280144",
     "requested_datetime": "2017-06-28 13:05:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新營區新進路二段201號 違規停車",
     "address_string": "730台灣台南市新營區新進路二段201號",
     "lat": "23.300556054218927",
     "long": "120.30735251534429",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-28 15:39:51",
     "expected_datetime": "2017-06-28 13:05:00"
 }
