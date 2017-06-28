@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706280075",
     "requested_datetime": "2017-06-28 09:49:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "仁德區中山路10巷45號前 佔用道路",
     "address_string": "仁德區中山路10巷45號前",
-    "lat": {},
-    "long": {},
+    "lat": "24.8045972",
+    "long": "120.9654922",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-28 11:34:45",
     "expected_datetime": "2017-06-28 09:49:00"
 }
