@@ -7,11 +7,11 @@
     "service_name": "交通運輸",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
-    "description": "永康區中華路212巷2號 交通運輸",
+    "description": "永康區中華路212巷2號 佔用道路",
     "address_string": "永康區中華路212巷2號",
     "lat": "25.145324",
     "long": "121.73882",
     "service_notice": {},
-    "updated_datetime": "2017-06-28 17:00:05",
+    "updated_datetime": "2017-06-28 17:00:00",
     "expected_datetime": "2017-06-28 11:51:00"
 }

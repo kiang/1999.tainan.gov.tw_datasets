@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706280365",
     "requested_datetime": "2017-06-28 23:25:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區中華北路二段30號 違規停車",
     "address_string": "中華北路二段",
     "lat": "23.0207968",
     "long": "120.2012504",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-29 01:27:53",
     "expected_datetime": "2017-06-28 23:25:00"
 }
