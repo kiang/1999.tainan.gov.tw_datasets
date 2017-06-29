@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706280345",
     "requested_datetime": "2017-06-28 21:17:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
     "description": "仁德區二仁路二段與機場路口 狗受傷",
     "address_string": "仁德區二仁路二段機場路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-29 12:27:07",
     "expected_datetime": "2017-07-05 21:17:00"
 }
