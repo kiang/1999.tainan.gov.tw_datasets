@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706290042",
     "requested_datetime": "2017-06-29 08:20:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "交通疏導",
     "description": "歸仁區台39線北上7公里處 交通疏導",
     "address_string": "歸仁區台39線北上7公里處",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-29 14:20:54",
     "expected_datetime": "2017-07-06 08:20:00"
 }
