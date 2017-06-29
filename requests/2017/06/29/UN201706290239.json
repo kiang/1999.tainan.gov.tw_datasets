@@ -9,8 +9,8 @@
     "subproject": "公車動態LED跑馬燈資訊顯示異常",
     "description": "新營體育場 交通運輸",
     "address_string": "新營體育場",
-    "lat": {},
-    "long": {},
+    "lat": "23.3203639",
+    "long": "120.3099687",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-06-29 16:38:00"
