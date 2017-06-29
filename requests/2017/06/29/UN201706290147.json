@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706290147",
+    "requested_datetime": "2017-06-29 13:34:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區五福街82巷63號旁轉角 違規停車",
+    "address_string": "永康區五福街82巷63號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-06 13:34:00"
+}
