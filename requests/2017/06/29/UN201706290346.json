@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "永康區小東路307巷4號 前面放置",
     "address_string": "永康區小東路307巷4號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0002121",
+    "long": "120.239768",
     "service_notice": {},
     "updated_datetime": "2017-06-29 23:18:13",
     "expected_datetime": "2017-07-06 21:08:00"
