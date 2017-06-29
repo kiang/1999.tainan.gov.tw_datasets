@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706300001",
     "requested_datetime": "2017-06-30 00:26:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "佳里區安西里130-42號到130-66號 違規停車",
     "address_string": "台南市佳里區安西里130之42號",
     "lat": "23.160596",
     "long": "120.170922",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-30 03:45:08",
     "expected_datetime": "2017-06-30 00:26:00"
 }
