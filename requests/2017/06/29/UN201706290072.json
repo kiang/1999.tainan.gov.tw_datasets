@@ -9,8 +9,8 @@
     "subproject": "路面坑洞",
     "description": "北區實踐街41號 路面坑洞",
     "address_string": "北區實踐街41號",
-    "lat": {},
-    "long": {},
+    "lat": "25.084111",
+    "long": "121.68344",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-07-06 09:09:00"
