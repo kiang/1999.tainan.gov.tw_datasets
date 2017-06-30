@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706300024",
     "requested_datetime": "2017-06-30 07:14:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "台南市南區福吉五街5號違規停車",
     "address_string": "台南市南區福吉五街5號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-06-30 18:04:02",
     "expected_datetime": "2017-06-30 07:14:00"
 }

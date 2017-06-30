@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201706300186",
-    "requested_datetime": "2017-06-30 14:54:00",
+    "service_request_id": "UN201706300225",
+    "requested_datetime": "2017-06-30 16:48:00",
     "status": "已完工",
     "keyword": {},
     "area": "永康區",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": "2017-06-30 18:52:29",
-    "expected_datetime": "2017-06-30 14:54:00"
+    "updated_datetime": "2017-06-30 18:54:14",
+    "expected_datetime": "2017-06-30 16:48:00"
 }

@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安平區建平十六街1號  違停",
     "address_string": "安平區建平十六街1號",
-    "lat": {},
-    "long": {},
+    "lat": "22.996521",
+    "long": "120.185107",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-07-07 17:46:00"
