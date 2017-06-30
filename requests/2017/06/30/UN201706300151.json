@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區中華南路一段186巷74號 違規停車",
     "address_string": "台南市南區中華南路一段186巷74號",
-    "lat": {},
-    "long": {},
+    "lat": "22.969704",
+    "long": "120.211617",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-06-30 13:39:00"
