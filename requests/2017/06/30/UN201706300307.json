@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201706300307",
+    "requested_datetime": "2017-06-30 21:53:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區東門路二段158巷底 違停",
+    "address_string": "東區東門路二段158巷",
+    "lat": "24.8041424",
+    "long": "120.9735323",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-07 21:53:00"
+}

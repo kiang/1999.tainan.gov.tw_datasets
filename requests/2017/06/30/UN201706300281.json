@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區金華路二段385巷40號 違停",
     "address_string": "南區金華路二段385巷40號",
-    "lat": {},
-    "long": {},
+    "lat": "24.992498",
+    "long": "121.451599",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-07-07 20:05:00"
