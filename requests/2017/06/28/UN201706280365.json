@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第五分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區中華北路二段30號 違規停車",
     "address_string": "中華北路二段",
     "lat": "23.0207968",
     "long": "120.2012504",
     "service_notice": {},
-    "updated_datetime": "2017-06-29 01:27:53",
+    "updated_datetime": "2017-07-01 12:23:00",
     "expected_datetime": "2017-06-28 23:25:00"
 }

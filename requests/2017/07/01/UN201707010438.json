@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707010438",
+    "requested_datetime": "2017-07-01 12:37:00",
+    "status": {},
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "仁德區中正路二段106巷68號-70號前 交通運輸",
+    "address_string": "仁德區中正路二段106巷68號",
+    "lat": "22.953339",
+    "long": "120.2517334",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-01 12:37:00"
+}
