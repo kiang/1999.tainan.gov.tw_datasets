@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707020094",
+    "requested_datetime": "2017-07-02 12:24:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "南區灣里路64號 號誌故障",
+    "address_string": "南區灣里路64號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-09 12:24:00"
+}
