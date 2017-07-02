@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707020186",
+    "requested_datetime": "2017-07-02 17:58:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區崇德路189號德光游泳池 違規停車",
+    "address_string": "東區崇德路189號",
+    "lat": "22.6834366",
+    "long": "120.4779544",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-02 17:58:00"
+}
