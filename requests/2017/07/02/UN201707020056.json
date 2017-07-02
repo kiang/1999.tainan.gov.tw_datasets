@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707020056",
     "requested_datetime": "2017-07-02 10:00:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "麻豆區民權路17號 違規停車",
     "address_string": "721台灣台南市麻豆區民權路17號",
     "lat": "23.1832054",
     "long": "120.2515",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-02 14:37:05",
     "expected_datetime": "2017-07-02 10:00:00"
 }
