@@ -7,10 +7,10 @@
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "違規停車",
+    "description": "永康區新民街16巷1弄接新民街66巷，永康國際學苑旁 違規停車",
     "address_string": "永康區新民街66巷永康國際學苑",
-    "lat": {},
-    "long": {},
+    "lat": "23.0410259",
+    "long": "120.2426302",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-07-02 22:57:00"
