@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707010531",
     "requested_datetime": "2017-07-01 18:13:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新市區社內里73號違規停車",
     "address_string": "新市區社內里73號",
     "lat": "23.078196",
     "long": "120.27836",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-02 07:17:05",
     "expected_datetime": "2017-07-01 18:13:00"
 }

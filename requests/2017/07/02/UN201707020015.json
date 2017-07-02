@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707020015",
     "requested_datetime": "2017-07-02 06:16:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "北區成功路與國華街口的興南大樓 妨害安寧",
     "address_string": "台南市北區成功路國華街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-02 07:39:18",
     "expected_datetime": "2017-07-02 06:16:00"
 }
