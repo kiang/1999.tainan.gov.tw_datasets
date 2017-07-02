@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707020086",
+    "requested_datetime": "2017-07-02 11:58:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區平生路跟安平路口 違停",
+    "address_string": "安平區平生路跟安平路口",
+    "lat": "23.0002382",
+    "long": "120.1641714",
+    "service_notice": {},
+    "updated_datetime": "2017-07-02 12:29:32",
+    "expected_datetime": "2017-07-09 11:58:00"
+}
