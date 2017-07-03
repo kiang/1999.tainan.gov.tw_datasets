@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201706300250",
     "requested_datetime": "2017-06-30 17:54:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "新營區中正路與三民路口 交通運輸",
     "address_string": "中正路三民路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-03 16:55:15",
     "expected_datetime": "2017-06-30 17:54:00"
 }
