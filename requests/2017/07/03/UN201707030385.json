@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707030385",
     "requested_datetime": "2017-07-03 22:04:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "億哥牛肉湯後甲店 違規停車",
     "address_string": "億哥牛肉湯後甲店（南紡）-701台南市東區裕農路574號",
     "lat": "22.9884453",
     "long": "120.2340608",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-04 03:37:37",
     "expected_datetime": "2017-07-03 22:04:00"
 }
