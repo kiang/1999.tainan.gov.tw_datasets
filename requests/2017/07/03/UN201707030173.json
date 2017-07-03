@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707030173",
+    "requested_datetime": "2017-07-03 12:47:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "700台灣台南市中西區廣慈街停車格",
+    "lat": "22.996776533365132",
+    "long": "120.20700054973759",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-03 12:47:00"
+}
