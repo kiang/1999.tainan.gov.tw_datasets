@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707040003",
     "requested_datetime": "2017-07-04 01:33:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新中街熊媽媽元氣早餐斜對面公車停靠站 違規停車",
     "address_string": "新中街熊媽媽元氣早餐斜對面公車停靠站",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-04 06:19:19",
     "expected_datetime": "2017-07-04 01:33:00"
 }
