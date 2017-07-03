@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707030356",
+    "requested_datetime": "2017-07-03 19:48:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區正義街和正強街口，盈聯發餐廳 違規停車",
+    "address_string": "710台灣台南市永康區正義街正強街",
+    "lat": "23.0265117",
+    "long": "120.25205",
+    "service_notice": {},
+    "updated_datetime": "2017-07-03 20:56:14",
+    "expected_datetime": "2017-07-03 19:48:00"
+}
