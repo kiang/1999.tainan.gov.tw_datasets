@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707030359",
+    "requested_datetime": "2017-07-03 19:47:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區中華路7巷20弄15號 妨礙出入",
+    "address_string": "永康區中華路7巷20弄15號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-10 19:47:00"
+}
