@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "六甲區信義街 紅線違停",
     "address_string": "六甲區信義街",
-    "lat": {},
-    "long": {},
+    "lat": "23.2290564",
+    "long": "120.3486903",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-07-10 22:53:00"
