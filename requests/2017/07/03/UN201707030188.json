@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201707030188",
     "requested_datetime": "2017-07-03 13:45:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "交通運輸",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-03 18:26:01",
     "expected_datetime": "2017-07-03 13:45:00"
 }
