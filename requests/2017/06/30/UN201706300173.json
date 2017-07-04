@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201706300173",
     "requested_datetime": "2017-06-30 14:19:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "民生管線",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-04 10:50:47",
     "expected_datetime": "2017-07-07 14:19:00"
 }
