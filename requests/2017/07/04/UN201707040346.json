@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "南區南門路315號 空污",
     "address_string": "南區南門路315號",
-    "lat": {},
-    "long": {},
+    "lat": "24.8004326",
+    "long": "120.9690644",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-07-11 21:40:00"
