@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707040159",
+    "requested_datetime": "2017-07-04 11:56:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "中西區國華街三段1號 佔用道路",
+    "address_string": "中西區國華街三段1號",
+    "lat": "22.993726",
+    "long": "120.196836",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-11 11:56:00"
+}
