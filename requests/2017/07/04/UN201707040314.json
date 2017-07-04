@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707040314",
+    "requested_datetime": "2017-07-04 19:28:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "國立臺南護理專科學校附近含巷弄 路燈不亮",
+    "address_string": "中西區民族路二段78號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-11 19:28:00"
+}
