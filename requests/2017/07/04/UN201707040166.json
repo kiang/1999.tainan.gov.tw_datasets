@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707040166",
     "requested_datetime": "2017-07-04 12:25:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "北區海安路三段137號騎樓舉發",
     "address_string": "北區海安路三段137號",
     "lat": "23.0114877",
     "long": "120.2004125",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-04 15:04:46",
     "expected_datetime": "2017-07-04 12:25:00"
 }

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707010347",
     "requested_datetime": "2017-07-01 04:14:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "七股區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市七股區公所",
     "subproject": "9盞以下路燈故障",
     "description": "七股區鹽埕里52號 路燈不亮",
     "address_string": "七股區鹽埕里52號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-04 15:42:33",
     "expected_datetime": "2017-07-08 04:14:00"
 }
