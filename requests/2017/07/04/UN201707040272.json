@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707040272",
+    "requested_datetime": "2017-07-04 17:26:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區安平路334號違規停車",
+    "address_string": "安平區安平路334號",
+    "lat": "22.9992906",
+    "long": "120.1735322",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-04 17:26:00"
+}
