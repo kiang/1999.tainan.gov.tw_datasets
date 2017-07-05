@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707050012",
+    "requested_datetime": "2017-07-05 01:54:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中正路970巷27號騰揮會館 違規停車",
+    "address_string": "台南市永康區中正路970巷27號騰揮會館",
+    "lat": "23.0412574",
+    "long": "120.2395062",
+    "service_notice": {},
+    "updated_datetime": "2017-07-05 07:29:57",
+    "expected_datetime": "2017-07-05 01:54:00"
+}
