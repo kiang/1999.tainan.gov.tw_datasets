@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707050157",
+    "requested_datetime": "2017-07-05 12:43:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府衛生局,臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "中西區忠義路二段185號 佔用騎樓",
+    "address_string": "中西區忠義路二段185號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-12 12:43:00"
+}
