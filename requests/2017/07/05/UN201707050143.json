@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707050143",
+    "requested_datetime": "2017-07-05 12:25:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區西門路一段468號-476號  違停",
+    "address_string": "中西區西門路一段468號-476號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-12 12:25:00"
+}
