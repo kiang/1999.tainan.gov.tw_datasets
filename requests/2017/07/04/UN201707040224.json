@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707040224",
     "requested_datetime": "2017-07-04 14:59:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "遊蕩犬隻捕捉管制",
     "description": "永康區文化路325巷 捕捉流浪狗",
     "address_string": "永康區文化路325巷",
     "lat": "25.1540414",
     "long": "121.7337411",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-06 16:22:46",
     "expected_datetime": "2017-07-11 14:59:00"
 }
