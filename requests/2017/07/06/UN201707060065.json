@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707060065",
     "requested_datetime": "2017-07-06 09:45:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "環境髒亂",
     "description": "新營區民治路南新國中 環境髒亂",
     "address_string": "新營區民治路南新國中",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-06 17:14:44",
     "expected_datetime": "2017-07-13 09:45:00"
 }
