@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707050116",
     "requested_datetime": "2017-07-05 11:13:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "台南市南區大同路二段366號道路維修",
     "address_string": "台南市南區大同路二段366號",
     "lat": "22.9752936",
     "long": "120.2141285",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-06 11:54:11",
     "expected_datetime": "2017-07-05 11:13:00"
 }
