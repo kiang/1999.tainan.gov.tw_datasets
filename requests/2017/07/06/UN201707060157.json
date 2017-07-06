@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707060157",
+    "requested_datetime": "2017-07-06 13:11:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南化區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局",
+    "subproject": "9盞以下路燈故障",
+    "description": "南化區北平里 路燈故障不亮",
+    "address_string": "南化區北平里",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-13 13:11:00"
+}
