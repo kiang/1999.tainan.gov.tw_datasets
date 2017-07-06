@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707060041",
+    "requested_datetime": "2017-07-06 08:53:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "寬頻管線、孔蓋損壞",
+    "description": "安南區海佃路四段55巷139號電信孔蓋聲響",
+    "address_string": "安南區海佃路四段55巷139號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-13 08:53:00"
+}

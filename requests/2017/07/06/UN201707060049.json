@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707060049",
+    "requested_datetime": "2017-07-06 09:05:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "北區東豐路85巷10號 施工噪音",
+    "address_string": "北區東豐路85巷10號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-13 09:05:00"
+}
