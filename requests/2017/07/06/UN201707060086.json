@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707060086",
+    "requested_datetime": "2017-07-06 10:41:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安南區安中路四段320巷129弄34之3號違規停車",
+    "address_string": "安南區安中路四段320巷129弄34之3號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-13 10:41:00"
+}

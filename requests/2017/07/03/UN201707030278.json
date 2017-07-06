@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707030278",
     "requested_datetime": "2017-07-03 16:31:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新化區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市新化區公所",
     "subproject": "路面坑洞",
     "description": "新化區大智路47號 道路維修",
     "address_string": "新化區大智路47號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-06 10:30:17",
     "expected_datetime": "2017-07-03 16:31:00"
 }
