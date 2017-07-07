@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707070157",
     "requested_datetime": "2017-07-07 13:11:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "安南區安中路一段293號 騎樓舉發",
     "address_string": "台南市安南區安中路一段293號",
     "lat": "23.0397323",
     "long": "120.2010855",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-07 16:15:40",
     "expected_datetime": "2017-07-07 13:11:00"
 }
