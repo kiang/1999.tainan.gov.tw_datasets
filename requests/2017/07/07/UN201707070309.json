@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707070309",
+    "requested_datetime": "2017-07-07 21:09:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安南區安和路六段20巷120弄 違停",
+    "address_string": "安南區安和路六段20巷120弄",
+    "lat": "23.0708144",
+    "long": "120.2172616",
+    "service_notice": {},
+    "updated_datetime": "2017-07-07 21:52:54",
+    "expected_datetime": "2017-07-14 21:09:00"
+}
