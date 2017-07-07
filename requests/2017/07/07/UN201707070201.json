@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707070201",
+    "requested_datetime": "2017-07-07 15:06:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區中華東路二段203巷17弄 違停",
+    "address_string": "東區中華東路二段203巷17弄",
+    "lat": "22.986113",
+    "long": "120.232454",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-14 15:06:00"
+}

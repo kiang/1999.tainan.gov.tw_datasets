@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707070136",
     "requested_datetime": "2017-07-07 12:12:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "白河區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "白河區中山路與康樂路交叉口 號誌故障",
     "address_string": "白河區中山路康樂路",
     "lat": "23.3485577",
     "long": "120.41475",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-07 15:44:48",
     "expected_datetime": "2017-07-07 12:12:00"
 }

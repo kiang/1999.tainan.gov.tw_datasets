@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707060233",
     "requested_datetime": "2017-07-06 16:53:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "安平區慶平路163號隔壁 民生管線",
     "address_string": "安平區慶平路163號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-07 15:49:57",
     "expected_datetime": "2017-07-13 16:53:00"
 }
