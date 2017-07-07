@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707060303",
     "requested_datetime": "2017-07-06 22:17:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "歸仁區中正十二街2巷20號 妨害安寧",
     "address_string": "歸仁區中正十二街2巷20號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-07 07:15:10",
     "expected_datetime": "2017-07-13 22:17:00"
 }
