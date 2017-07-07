@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707070271",
+    "requested_datetime": "2017-07-07 18:55:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區勝利路192號 違規停車",
+    "address_string": "台南市北區勝利路192號",
+    "lat": "23.0039832",
+    "long": "120.2189129",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-07 18:55:00"
+}
