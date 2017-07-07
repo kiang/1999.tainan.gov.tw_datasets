@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707070242",
+    "requested_datetime": "2017-07-07 17:11:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "南區尊南街(近新興路口) 佔用道路",
+    "address_string": "南區尊南街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-14 17:11:00"
+}
