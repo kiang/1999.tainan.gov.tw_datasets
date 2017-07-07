@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "永康區永康火車站附近 空汙",
     "address_string": "永康區永康火車站附近",
-    "lat": {},
-    "long": {},
+    "lat": "23.0384479",
+    "long": "120.2534362",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-07-14 19:17:00"
