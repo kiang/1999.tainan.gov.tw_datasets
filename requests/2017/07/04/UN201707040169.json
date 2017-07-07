@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第五分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區中華北路二段41巷1號違規停車",
     "address_string": "北區中華北路二段41巷1號",
     "lat": "23.0216461",
     "long": "120.205499",
     "service_notice": {},
-    "updated_datetime": "2017-07-04 15:03:34",
+    "updated_datetime": "2017-07-07 12:01:16",
     "expected_datetime": "2017-07-04 12:31:00"
 }
