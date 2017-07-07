@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "北區文成三路696號 空污",
     "address_string": "北區文成三路696號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0159431",
+    "long": "120.201345",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-07-14 12:55:00"
