@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707080092",
+    "requested_datetime": "2017-07-08 11:48:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區和緯路四段139巷 佔用道路。 違規紅線停車",
+    "address_string": "北區和緯路四段139巷",
+    "lat": "23.0088001",
+    "long": "120.1912079",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-08 11:48:00"
+}
