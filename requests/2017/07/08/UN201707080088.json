@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707080088",
+    "requested_datetime": "2017-07-08 11:46:00",
+    "status": {},
+    "keyword": {},
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "新營區復興路163號 違規停車",
+    "address_string": "新營區復興路163號",
+    "lat": "23.302971625093527",
+    "long": "120.30723721230311",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-08 11:46:00"
+}
