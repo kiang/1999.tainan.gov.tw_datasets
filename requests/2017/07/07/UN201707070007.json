@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707070007",
     "requested_datetime": "2017-07-07 01:26:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "安南區安中路六段 安明路四段 空汙",
     "address_string": "安南區安中路六段 安明路四段",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-09 21:20:09",
     "expected_datetime": "2017-07-14 01:26:00"
 }

@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "北區長榮路四段56號 空污",
     "address_string": "北區長榮路四段56號",
-    "lat": {},
-    "long": {},
+    "lat": "23.004207",
+    "long": "120.222805",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-07-16 20:37:00"
