@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707090231",
+    "requested_datetime": "2017-07-09 23:03:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "東區裕農路446巷9號 妨害安寧",
+    "address_string": "東區裕農路446巷9號",
+    "lat": "22.9856816",
+    "long": "120.2319959",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-09 23:03:00"
+}
