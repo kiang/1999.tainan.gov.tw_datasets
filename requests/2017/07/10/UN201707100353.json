@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "南區灣裡路64號 號誌故障",
     "address_string": "南區灣裡路64號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9334234",
+    "long": "120.1800881",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-07-17 19:40:00"
