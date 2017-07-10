@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201707070235",
     "requested_datetime": "2017-07-07 16:58:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "官田區",
     "service_name": "動物救援",
@@ -12,6 +12,6 @@
     "lat": "23.173231",
     "long": "120.32993",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-10 17:00:12",
     "expected_datetime": "2017-07-14 16:58:00"
 }

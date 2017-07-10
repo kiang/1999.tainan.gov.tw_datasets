@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707080082",
     "requested_datetime": "2017-07-08 11:22:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "佳里區六安街與青年街口 空污",
     "address_string": "佳里區六安街青年街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-10 17:32:57",
     "expected_datetime": "2017-07-15 11:22:00"
 }

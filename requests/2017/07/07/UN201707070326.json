@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707070326",
     "requested_datetime": "2017-07-07 23:04:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府水利局,臺南市政府聯合服務中心",
     "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
     "description": "永康區富強路一段31號 民生管線",
     "address_string": "永康區富強路一段31號",
     "lat": "23.0187386",
     "long": "120.2753033",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-10 17:13:58",
     "expected_datetime": "2017-07-14 23:04:00"
 }
