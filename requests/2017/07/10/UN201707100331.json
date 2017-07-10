@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707100331",
     "requested_datetime": "2017-07-10 18:44:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區崇明路189號巷口 違規停車",
     "address_string": "701台灣台南市東區崇明路189號",
     "lat": "22.9785381",
     "long": "120.2192781",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-11 06:38:09",
     "expected_datetime": "2017-07-10 18:44:00"
 }

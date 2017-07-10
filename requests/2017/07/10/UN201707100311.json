@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707100311",
     "requested_datetime": "2017-07-10 17:58:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "永康區復興路156號騎樓舉發",
     "address_string": "永康區復興路156號",
     "lat": "25.145058",
     "long": "121.726492",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-11 06:30:34",
     "expected_datetime": "2017-07-10 17:58:00"
 }

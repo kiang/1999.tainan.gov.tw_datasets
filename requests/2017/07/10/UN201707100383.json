@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707100383",
     "requested_datetime": "2017-07-10 21:36:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區西門路四段7巷60號 違規停車",
     "address_string": "北區西門路四段7巷60號",
     "lat": "23.0070944",
     "long": "120.2045122",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-11 06:49:59",
     "expected_datetime": "2017-07-10 21:36:00"
 }
