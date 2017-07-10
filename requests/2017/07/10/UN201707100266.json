@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707100266",
+    "requested_datetime": "2017-07-10 14:59:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區古堡街妙壽宮違規停車",
+    "address_string": "安平區古堡街妙壽宮",
+    "lat": "22.9996853",
+    "long": "120.1616462",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-17 14:59:00"
+}
