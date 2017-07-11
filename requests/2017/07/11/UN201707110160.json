@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707110160",
+    "requested_datetime": "2017-07-11 11:45:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "新市區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "新市區和平街15巷內 佔用道路",
+    "address_string": "新市區和平街15巷",
+    "lat": "24.1351729",
+    "long": "120.689403",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-18 11:45:00"
+}
