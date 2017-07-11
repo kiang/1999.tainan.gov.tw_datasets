@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707110412",
+    "requested_datetime": "2017-07-11 22:01:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "北區文賢路1122巷 妨害安寧",
+    "address_string": "北區文賢路1122巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-07-11 22:44:12",
+    "expected_datetime": "2017-07-18 22:01:00"
+}
