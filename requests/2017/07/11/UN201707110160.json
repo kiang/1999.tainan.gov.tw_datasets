@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201707110160",
     "requested_datetime": "2017-07-11 11:45:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "交通運輸",
@@ -12,6 +12,6 @@
     "lat": "24.1351729",
     "long": "120.689403",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-11 17:27:32",
     "expected_datetime": "2017-07-18 11:45:00"
 }

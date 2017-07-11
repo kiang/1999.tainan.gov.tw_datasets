@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707110150",
     "requested_datetime": "2017-07-11 11:39:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區華平路656號 違規停車",
     "address_string": "安平區華平路656號",
     "lat": "22.9962418",
     "long": "120.1758139",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-11 17:25:10",
     "expected_datetime": "2017-07-11 11:39:00"
 }
