@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707100279",
     "requested_datetime": "2017-07-10 16:52:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "官田區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "官田區工業路和工業南路 號誌故障",
     "address_string": "官田區工業路工業南路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-11 11:34:47",
     "expected_datetime": "2017-07-17 16:52:00"
 }
