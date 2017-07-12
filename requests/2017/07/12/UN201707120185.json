@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "北區和緯路五段357號附近 空氣污染",
     "address_string": "北區和緯路五段357號",
-    "lat": {},
-    "long": {},
+    "lat": "23.005246",
+    "long": "120.180722",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-07-19 14:23:00"
