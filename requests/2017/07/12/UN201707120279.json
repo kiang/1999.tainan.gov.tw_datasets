@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201707120281",
-    "requested_datetime": "2017-07-12 18:25:00",
+    "service_request_id": "UN201707120279",
+    "requested_datetime": "2017-07-12 18:19:00",
     "status": "未處理",
     "keyword": {},
     "area": "南區",
@@ -9,9 +9,9 @@
     "subproject": "空氣汙染",
     "description": "南區金華路二段76號 空氣汙染",
     "address_string": "南區金華路二段76號",
-    "lat": "24.994931",
-    "long": "121.452183",
+    "lat": {},
+    "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2017-07-19 18:25:00"
+    "expected_datetime": "2017-07-19 18:19:00"
 }
