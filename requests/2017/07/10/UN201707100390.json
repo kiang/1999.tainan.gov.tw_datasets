@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707100390",
     "requested_datetime": "2017-07-10 22:19:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "北區自強街93號 空氣污染",
     "address_string": "北區自強街93號",
     "lat": "24.1031973",
     "long": "120.6978207",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-12 08:55:07",
     "expected_datetime": "2017-07-17 22:19:00"
 }
