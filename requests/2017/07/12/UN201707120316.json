@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707120316",
     "requested_datetime": "2017-07-12 20:24:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "成功路和公園路交叉口，台北永和豆漿 佔用騎樓",
     "address_string": "中西區公園路123號",
     "lat": "22.997471",
     "long": "120.206348",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-13 00:39:15",
     "expected_datetime": "2017-07-19 20:24:00"
 }
