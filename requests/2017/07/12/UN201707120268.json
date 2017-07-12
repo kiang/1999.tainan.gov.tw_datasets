@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707120268",
+    "requested_datetime": "2017-07-12 17:49:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "仁德區中正路一段95號，往東約50公尺處，逆向汽車道雙黃線上 路面坑洞",
+    "address_string": "仁德區中正路一段95號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-19 17:49:00"
+}
