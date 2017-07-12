@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707110074",
     "requested_datetime": "2017-07-11 10:40:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "安平區城平路世平一街交叉口 空氣汙染",
     "address_string": "安平區城平路與世平一街交叉口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-12 10:38:25",
     "expected_datetime": "2017-07-11 10:40:00"
 }
