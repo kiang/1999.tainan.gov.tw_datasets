@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707120233",
+    "requested_datetime": "2017-07-12 16:32:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "東區東門路三段226巷117弄1號 漏水",
+    "address_string": "東區東門路三段226巷117弄1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-19 16:32:00"
+}
