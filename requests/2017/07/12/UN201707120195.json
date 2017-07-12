@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707120195",
     "requested_datetime": "2017-07-12 15:18:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "東區東安路169號騎樓舉發",
     "address_string": "東區東安路169號",
     "lat": "22.9946022",
     "long": "120.2266281",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-12 18:53:04",
     "expected_datetime": "2017-07-12 15:18:00"
 }
