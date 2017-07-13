@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707100352",
     "requested_datetime": "2017-07-10 19:48:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "東區長榮路三段66巷60號旁 路燈不亮",
     "address_string": "東區長榮路三段66巷60號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-13 09:21:46",
     "expected_datetime": "2017-07-17 19:48:00"
 }
