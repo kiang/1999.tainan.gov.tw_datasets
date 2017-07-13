@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707130173",
     "requested_datetime": "2017-07-13 14:06:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "仁德區站區北路 佔用道路",
     "address_string": "仁德區站區北路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-13 17:05:58",
     "expected_datetime": "2017-07-20 14:06:00"
 }
