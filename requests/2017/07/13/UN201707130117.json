@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區中華路21號 違規停車",
     "address_string": "永康區中華路21號",
-    "lat": {},
-    "long": {},
+    "lat": "25.145736",
+    "long": "121.738425",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-07-13 11:56:00"
