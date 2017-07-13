@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707130128",
+    "requested_datetime": "2017-07-13 12:23:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "中西區金華路三段87號 佔用道路",
+    "address_string": "中西區金華路三段87號",
+    "lat": "22.9927341",
+    "long": "120.192872",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-20 12:23:00"
+}
