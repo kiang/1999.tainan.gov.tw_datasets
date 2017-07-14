@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707140278",
+    "requested_datetime": "2017-07-14 18:22:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "永康區大灣東路22巷13號對面 民生管線",
+    "address_string": "永康區大灣東路22巷13號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-21 18:22:00"
+}
