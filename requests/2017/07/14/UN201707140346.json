@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201707140346",
     "requested_datetime": "2017-07-14 21:45:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "永康區中正路256巷4號 違規停車",
     "address_string": "永康區中正路256巷4號",
-    "lat": {},
-    "long": {},
+    "lat": "25.1322042",
+    "long": "121.7442713",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-14 23:38:17",
     "expected_datetime": "2017-07-14 21:45:00"
 }
