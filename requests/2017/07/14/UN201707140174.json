@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707140174",
+    "requested_datetime": "2017-07-14 13:53:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "歸仁區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "歸仁區文化街三段跟文化八街口 違規停車",
+    "address_string": "歸仁區文化街三段文化八街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-21 13:53:00"
+}
