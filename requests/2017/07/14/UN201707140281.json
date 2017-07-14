@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707140281",
     "requested_datetime": "2017-07-14 18:31:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "衛民街106號以及106之18號 違規停車",
     "address_string": "衛民街106號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-14 21:50:40",
     "expected_datetime": "2017-07-14 18:31:00"
 }
