@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707140025",
+    "requested_datetime": "2017-07-14 07:22:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "永康區復國路與復興路口 號誌故障",
+    "address_string": "永康區復國路復興路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-21 07:22:00"
+}
