@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707140365",
+    "requested_datetime": "2017-07-14 22:26:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "新營區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "新營區隋唐街295巷11弄6號 妨害安寧",
+    "address_string": "新營區隋唐街295巷11弄6號",
+    "lat": "23.306459",
+    "long": "120.302567",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-21 22:26:00"
+}
