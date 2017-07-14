@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707130295",
     "requested_datetime": "2017-07-13 20:04:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "中西區中華西路和和緯路口，星巴克對面 人行道圍起",
     "address_string": "中西區中華西路和緯路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-14 09:28:01",
     "expected_datetime": "2017-07-20 20:04:00"
 }

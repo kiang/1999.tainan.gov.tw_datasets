@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707140021",
     "requested_datetime": "2017-07-14 06:54:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區大學路26號 違停",
     "address_string": "東區大學路26號",
     "lat": "24.789229",
     "long": "121.0018907",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-14 09:34:33",
     "expected_datetime": "2017-07-21 06:54:00"
 }
