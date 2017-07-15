@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707150109",
+    "requested_datetime": "2017-07-15 11:17:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "東區仁和路286巷與成功街86巷路口",
+    "address_string": "東區仁和路286巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-22 11:17:00"
+}
