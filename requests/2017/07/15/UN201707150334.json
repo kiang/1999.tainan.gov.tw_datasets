@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707150334",
+    "requested_datetime": "2017-07-15 23:40:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區同平路156巷  紅線違停",
+    "address_string": "安平區同平路156巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-22 23:40:00"
+}
