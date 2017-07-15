@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707150220",
     "requested_datetime": "2017-07-15 16:06:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區成功路204號 違規停車",
     "address_string": "成功路204號合作金庫周遭",
     "lat": "22.999047",
     "long": "120.2035599",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-15 19:33:13",
     "expected_datetime": "2017-07-15 16:06:00"
 }
