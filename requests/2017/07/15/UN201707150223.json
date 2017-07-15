@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707150223",
+    "requested_datetime": "2017-07-15 16:10:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區東平路42號前 違停",
+    "address_string": "東區東平路42號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-22 16:10:00"
+}

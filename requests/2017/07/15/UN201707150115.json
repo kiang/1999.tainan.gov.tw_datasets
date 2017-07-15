@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707150115",
     "requested_datetime": "2017-07-15 12:04:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "東區衛國街112巷36號七樓 噪音舉發",
     "address_string": "東區衛國街112巷36號",
     "lat": "22.9233268",
     "long": "120.2418994",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-15 16:44:06",
     "expected_datetime": "2017-07-15 12:04:00"
 }
