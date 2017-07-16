@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707160173",
+    "requested_datetime": "2017-07-16 16:22:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區北門路一段250號至282號 違規停車",
+    "address_string": "東區北門路一段250號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-23 16:22:00"
+}
