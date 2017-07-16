@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707160162",
     "requested_datetime": "2017-07-16 15:45:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "永康區大武街40號 騎樓舉發",
     "address_string": "永康區大武街40號",
     "lat": "25.1299411",
     "long": "121.7286649",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-16 17:42:09",
     "expected_datetime": "2017-07-16 15:45:00"
 }
