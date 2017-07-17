@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707140328",
     "requested_datetime": "2017-07-14 20:46:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "髒亂及汙染",
-    "agency": "臺南市政府環境保護局",
+    "agency": "台南市政府",
     "subproject": "道路散落物",
     "description": "歸仁區成功路二段102號 道路散落物(貓屍)",
     "address_string": "歸仁區成功路二段102號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-17 07:17:51",
     "expected_datetime": "2017-07-21 20:46:00"
 }
