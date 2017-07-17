@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707170114",
+    "requested_datetime": "2017-07-17 10:31:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區東寧路429號 違規停車",
+    "address_string": "東區東寧路429號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-24 10:31:00"
+}

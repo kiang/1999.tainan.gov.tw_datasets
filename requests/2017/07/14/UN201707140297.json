@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707140297",
     "requested_datetime": "2017-07-14 18:58:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "西港區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "西港區慶安里中州港寶工廠隔壁空地",
     "address_string": "西港區慶安里中州港寶工廠",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-17 10:23:08",
     "expected_datetime": "2017-07-21 18:58:00"
 }
