@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707170171",
+    "requested_datetime": "2017-07-17 11:58:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局,臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "中西區國華街三段3號與5號 違規擺販",
+    "address_string": "中西區國華街三段3號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-24 11:58:00"
+}
