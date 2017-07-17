@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707140157",
     "requested_datetime": "2017-07-14 13:05:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "南區海巡署旁，鯤鯓段海域 廢棄蚵架",
     "address_string": "南區鯤鯓路601號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-17 08:56:39",
     "expected_datetime": "2017-07-21 13:05:00"
 }
