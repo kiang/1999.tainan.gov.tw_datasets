@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707160066",
     "requested_datetime": "2017-07-16 10:00:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
     "description": "永康區鹽行路146巷20弄4號 動物救援",
     "address_string": "永康區鹽行路146巷20弄4號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-17 14:36:20",
     "expected_datetime": "2017-07-23 10:00:00"
 }

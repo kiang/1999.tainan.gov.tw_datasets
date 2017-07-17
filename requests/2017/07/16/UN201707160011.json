@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707160011",
     "requested_datetime": "2017-07-16 04:40:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
     "description": "東區生產路68號 犬貓急難救援",
     "address_string": "東區生產路68號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-17 14:46:24",
     "expected_datetime": "2017-07-23 04:40:00"
 }

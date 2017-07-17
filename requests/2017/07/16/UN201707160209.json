@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707160209",
     "requested_datetime": "2017-07-16 18:28:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "東區大學路(紅燈)和育樂街66巷 號誌故障",
     "address_string": "東區大學路育樂街66巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-17 14:06:44",
     "expected_datetime": "2017-07-23 18:28:00"
 }
