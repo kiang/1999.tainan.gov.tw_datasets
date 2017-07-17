@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "永康區復興路156號  佔用道路",
     "address_string": "永康區復興路156號",
-    "lat": {},
-    "long": {},
+    "lat": "25.145058",
+    "long": "121.726492",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-07-24 15:41:00"
