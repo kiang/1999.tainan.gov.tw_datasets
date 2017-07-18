@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707180262",
+    "requested_datetime": "2017-07-18 17:37:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局,臺南市政府警察局勤務指揮中心",
+    "subproject": "號誌故障",
+    "description": "北區公園北路和東豐路交叉口 號誌故障",
+    "address_string": "北區公園北路和東豐路交叉口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-25 17:37:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707180270",
+    "requested_datetime": "2017-07-18 17:53:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "北區北門路二段與和緯路一段口  號誌故障",
+    "address_string": "北區北門路二段與和緯路一段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-25 17:53:00"
+}
