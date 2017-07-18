@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707180069",
     "requested_datetime": "2017-07-18 09:29:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局永康分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區忠義街口到小東路685巷 違規停車",
     "address_string": "永康區忠義街口到小東路685巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-18 11:57:42",
     "expected_datetime": "2017-07-25 09:29:00"
 }
