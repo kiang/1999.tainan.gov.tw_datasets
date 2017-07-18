@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707180102",
+    "requested_datetime": "2017-07-18 10:45:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "南區國民路轉大成路一段 交通疏導",
+    "address_string": "南區國民路轉大成路一段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-07-18 14:26:44",
+    "expected_datetime": "2017-07-25 10:45:00"
+}
