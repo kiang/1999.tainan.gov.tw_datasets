@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707180281",
     "requested_datetime": "2017-07-18 18:54:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新化區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新化區忠孝路161巷口 違規停車",
     "address_string": "新化區忠孝路161巷",
     "lat": "23.0376051",
     "long": "120.3029846",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-19 01:36:04",
     "expected_datetime": "2017-07-18 18:54:00"
 }
