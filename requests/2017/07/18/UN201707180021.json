@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707180021",
+    "requested_datetime": "2017-07-18 07:39:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "南區明興路730號 路面坑洞",
+    "address_string": "南區明興路730號",
+    "lat": "22.9611651",
+    "long": "120.1887336",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-25 07:39:00"
+}
