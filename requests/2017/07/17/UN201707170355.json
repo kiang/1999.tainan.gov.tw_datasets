@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707170355",
     "requested_datetime": "2017-07-17 19:44:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "玉井區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "玉井區豐里里內豐里  空氣汙染",
     "address_string": "714台灣台南市玉井區南183鄉道74號",
     "lat": "23.1434871",
     "long": "120.4427366",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-19 09:01:34",
     "expected_datetime": "2017-07-17 19:44:00"
 }
