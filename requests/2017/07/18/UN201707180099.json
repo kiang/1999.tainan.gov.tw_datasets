@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707180099",
     "requested_datetime": "2017-07-18 10:40:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "歸仁區信義北路82巷 噪音舉發",
     "address_string": "台南市歸仁區信義北路82巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-19 17:59:16",
     "expected_datetime": "2017-07-18 10:40:00"
 }
