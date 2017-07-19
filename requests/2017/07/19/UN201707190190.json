@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707190190",
     "requested_datetime": "2017-07-19 13:18:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區西華南街中山路 違規停車",
     "address_string": "中西區西華南街中山路",
     "lat": "22.9952132",
     "long": "120.2098388",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-19 16:36:24",
     "expected_datetime": "2017-07-19 13:18:00"
 }

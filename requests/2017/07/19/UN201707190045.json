@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707190045",
     "requested_datetime": "2017-07-19 08:35:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "安南區安豐三街97號旁的新建案 佔用道路",
     "address_string": "安南區安豐三街97號旁的新建案",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-19 16:26:50",
     "expected_datetime": "2017-07-26 08:35:00"
 }

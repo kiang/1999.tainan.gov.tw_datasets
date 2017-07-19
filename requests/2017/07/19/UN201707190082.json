@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707190082",
     "requested_datetime": "2017-07-19 09:44:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新營區復興路5號 違規停車",
     "address_string": "730台灣台南市新營區復興路5號",
     "lat": "23.302624219518584",
     "long": "120.31328780251624",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-19 16:27:28",
     "expected_datetime": "2017-07-19 09:44:00"
 }
