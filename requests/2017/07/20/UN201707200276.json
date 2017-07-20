@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707200276",
     "requested_datetime": "2017-07-20 17:47:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區安平路616號，王氏魚皮門口 違停",
     "address_string": "安平區安平路616號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-21 00:50:58",
     "expected_datetime": "2017-07-27 17:47:00"
 }
