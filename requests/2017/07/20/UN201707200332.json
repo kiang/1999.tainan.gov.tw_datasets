@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "台南火車站旁靠近客運站的 7-11前 違停",
     "address_string": "東區北門路二段12號",
-    "lat": {},
-    "long": {},
+    "lat": "24.7913279",
+    "long": "121.0044694",
     "service_notice": {},
     "updated_datetime": "2017-07-21 00:53:42",
     "expected_datetime": "2017-07-27 21:42:00"
