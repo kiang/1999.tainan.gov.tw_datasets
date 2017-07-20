@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707200013",
     "requested_datetime": "2017-07-20 02:57:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路樹傾倒",
     "description": "安平區永華路二段、永華四街 路樹倒塌",
     "address_string": "安平區永華路二段 永華四街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-20 10:39:09",
     "expected_datetime": "2017-07-27 02:57:00"
 }

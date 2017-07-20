@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707160150",
     "requested_datetime": "2017-07-16 14:43:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "東區大同路一段11號旁邊巷子內  路燈故障",
     "address_string": "東區大同路一段11號旁邊巷子內",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-20 10:22:54",
     "expected_datetime": "2017-07-23 14:43:00"
 }
