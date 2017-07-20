@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區青年路299號 違規停車",
     "address_string": "東區青年路299號",
-    "lat": {},
-    "long": {},
+    "lat": "23.4711818",
+    "long": "120.4342127",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-07-20 18:30:00"
