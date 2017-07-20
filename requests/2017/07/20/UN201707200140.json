@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707200140",
+    "requested_datetime": "2017-07-20 11:56:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "仁德區中洲火車站前 違停",
+    "address_string": "仁德區中洲火車站前",
+    "lat": "22.9045637",
+    "long": "120.2526862",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-27 11:56:00"
+}
