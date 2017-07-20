@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707200028",
+    "requested_datetime": "2017-07-20 07:54:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "北區公園路614號 倒數秒數",
+    "address_string": "北區公園路614號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-27 07:54:00"
+}
