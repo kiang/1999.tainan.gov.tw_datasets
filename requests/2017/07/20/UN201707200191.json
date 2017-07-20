@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707200191",
     "requested_datetime": "2017-07-20 14:35:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區自由路一段與仁和路77巷  違停",
     "address_string": "東區自由路一段仁和路77巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-20 17:51:18",
     "expected_datetime": "2017-07-27 14:35:00"
 }
