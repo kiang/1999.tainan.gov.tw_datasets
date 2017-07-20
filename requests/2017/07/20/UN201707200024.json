@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707200024",
     "requested_datetime": "2017-07-20 07:38:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區中華西街127巷30弄違規停車",
     "address_string": "台南市永康區中華西街127巷30弄",
     "lat": "23.015433",
     "long": "120.226359",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-20 16:52:18",
     "expected_datetime": "2017-07-20 07:38:00"
 }
