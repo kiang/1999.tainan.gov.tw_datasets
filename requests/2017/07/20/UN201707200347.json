@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707200347",
     "requested_datetime": "2017-07-20 23:49:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "安南區同安路237巷111號 連續噪音",
     "address_string": "安南區同安路237巷111號",
     "lat": "23.0424101",
     "long": "120.191023",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-22 06:20:05",
     "expected_datetime": "2017-07-27 23:49:00"
 }
