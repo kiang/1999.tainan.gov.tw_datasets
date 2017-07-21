@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707210235",
     "requested_datetime": "2017-07-21 15:30:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新營區三民路112-1號  違規停車",
     "address_string": "730台灣台南市新營區三民路112-1號",
     "lat": "23.307066239991695",
     "long": "120.31396857525488",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-21 17:51:37",
     "expected_datetime": "2017-07-21 15:30:00"
 }
