@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707210302",
     "requested_datetime": "2017-07-21 19:20:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區公園路與長榮路口，台灣之星門口的公車停靠站 違規停車",
     "address_string": "公園路長榮路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-22 02:28:46",
     "expected_datetime": "2017-07-21 19:20:00"
 }
