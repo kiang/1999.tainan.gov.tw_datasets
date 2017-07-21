@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707200082",
     "requested_datetime": "2017-07-20 10:21:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "中西區建業街52號 空氣汙染",
     "address_string": "台南市中西區建業街52號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-21 16:35:26",
     "expected_datetime": "2017-07-20 10:21:00"
 }
