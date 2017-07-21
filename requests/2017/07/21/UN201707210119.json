@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707210119",
+    "requested_datetime": "2017-07-21 11:14:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安南區北安路三段394巷22號 違停",
+    "address_string": "安南區北安路三段394巷22號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-28 11:14:00"
+}
