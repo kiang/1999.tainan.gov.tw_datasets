@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707220077",
     "requested_datetime": "2017-07-22 11:20:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "西門路二段419號 違規停車",
     "address_string": "中西區西門路二段419號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-22 13:10:07",
     "expected_datetime": "2017-07-29 11:20:00"
 }
