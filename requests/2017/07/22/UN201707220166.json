@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707220166",
+    "requested_datetime": "2017-07-22 17:38:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區德東街136巷長東街141巷口 違停",
+    "address_string": "東區德東街136巷長東街141巷口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-29 17:38:00"
+}
