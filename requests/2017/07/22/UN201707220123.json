@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區中華東路一段與小東路 違規停車",
     "address_string": "東區中華東路一段與小東路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9986054",
+    "long": "120.2348619",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-07-29 14:57:00"

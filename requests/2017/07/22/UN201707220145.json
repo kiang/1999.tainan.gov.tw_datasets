@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707220145",
+    "requested_datetime": "2017-07-22 16:24:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區永大二路與永信路 違規停車",
+    "address_string": "永康區永大二路",
+    "lat": "23.0184934",
+    "long": "120.2600567",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-29 16:24:00"
+}
