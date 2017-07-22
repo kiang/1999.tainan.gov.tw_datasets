@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707220046",
+    "requested_datetime": "2017-07-22 09:50:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌故障",
+    "description": "北區武聖路160巷口雙向都紅燈 號誌故障",
+    "address_string": "北區武聖路160巷口雙向都紅燈",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-29 09:50:00"
+}
