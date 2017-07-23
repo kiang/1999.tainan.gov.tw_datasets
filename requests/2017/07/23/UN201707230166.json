@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707230166",
     "requested_datetime": "2017-07-23 19:32:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區區健康路三段24號違規停車",
     "address_string": "安平區區健康路三段24號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-23 20:35:23",
     "expected_datetime": "2017-07-30 19:32:00"
 }
