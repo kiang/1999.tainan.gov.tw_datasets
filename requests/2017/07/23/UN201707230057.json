@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707230057",
+    "requested_datetime": "2017-07-23 11:24:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "710台灣台南市永康區復國一路289-293號 佔用道路",
+    "address_string": "710台灣台南市永康區復國一路289-293號",
+    "lat": "23.00961171679837",
+    "long": "120.2463359758258",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-23 11:24:00"
+}
