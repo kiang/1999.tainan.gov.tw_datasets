@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區凱旋路15號 違規停車",
     "address_string": "701台南市東區凱旋路15號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9928332",
+    "long": "120.2310116",
     "service_notice": {},
     "updated_datetime": "2017-07-23 19:00:50",
     "expected_datetime": "2017-07-23 15:42:00"
