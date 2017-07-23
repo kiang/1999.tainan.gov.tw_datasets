@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707230168",
+    "requested_datetime": "2017-07-23 19:41:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "新營路民治路8之86號 違規停車",
+    "address_string": "新營路民治路8之86號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-30 19:41:00"
+}
