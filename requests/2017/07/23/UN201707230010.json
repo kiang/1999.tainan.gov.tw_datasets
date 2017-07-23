@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707230010",
     "requested_datetime": "2017-07-23 03:10:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "永康區富強路二段189巷163號 噪音舉發",
     "address_string": "台南市永康區富強路二段189巷163號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-23 07:45:52",
     "expected_datetime": "2017-07-23 03:10:00"
 }
