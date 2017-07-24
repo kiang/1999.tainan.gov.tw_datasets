@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707230018",
     "requested_datetime": "2017-07-23 07:24:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "市區道路路面油漬",
     "description": "北區東豐路451巷1弄口 路面油漬",
     "address_string": "北區東豐路451巷1弄口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-24 15:25:14",
     "expected_datetime": "2017-07-30 07:24:00"
 }
