@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707240337",
+    "requested_datetime": "2017-07-24 18:20:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "永康區正南六街與洲工街口 坑洞",
+    "address_string": "永康區正南六街洲工街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-31 18:20:00"
+}
