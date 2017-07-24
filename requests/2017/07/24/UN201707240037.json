@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707240037",
     "requested_datetime": "2017-07-24 08:47:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東 區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "東區莊敬路118號前 佔用道路",
     "address_string": "東區莊敬路118號前",
     "lat": "22.995580736935814",
     "long": "120.23298393934964",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-24 14:03:38",
     "expected_datetime": "2017-07-24 08:47:00"
 }
