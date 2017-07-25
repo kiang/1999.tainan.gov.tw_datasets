@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707250311",
+    "requested_datetime": "2017-07-25 21:11:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "永康區小東路，元大證券前 路面掏空",
+    "address_string": "永康區小東路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-01 21:11:00"
+}
