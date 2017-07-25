@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707250155",
     "requested_datetime": "2017-07-25 13:19:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區三村一街138巷92弄42號旁邊轉角 違規停車",
     "address_string": "永康區三村一街138巷92弄42號",
     "lat": "23.0433938",
     "long": "120.2375535",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-25 18:36:19",
     "expected_datetime": "2017-07-25 13:19:00"
 }
