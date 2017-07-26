@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707240272",
     "requested_datetime": "2017-07-24 16:20:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "永康區崑大路大灣路1102巷 號誌故障",
     "address_string": "永康區崑大路大灣路1102巷",
     "lat": "22.998268",
     "long": "120.253104",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-26 11:29:44",
     "expected_datetime": "2017-07-31 16:20:00"
 }
