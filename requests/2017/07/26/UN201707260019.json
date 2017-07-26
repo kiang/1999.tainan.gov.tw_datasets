@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707260019",
+    "requested_datetime": "2017-07-26 07:30:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "新市區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "新市區大順六路12巷路口 違規停車",
+    "address_string": "大順六路12巷路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-07-26 08:01:08",
+    "expected_datetime": "2017-07-26 07:30:00"
+}
