@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新市區大順六路12巷路口 違規停車",
     "address_string": "大順六路12巷路口",
-    "lat": {},
-    "long": {},
+    "lat": "23.9630648",
+    "long": "120.4708982",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-07-26 07:30:00"
