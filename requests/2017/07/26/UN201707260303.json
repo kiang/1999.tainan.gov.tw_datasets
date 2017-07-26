@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201707260293",
-    "requested_datetime": "2017-07-26 18:45:00",
+    "service_request_id": "UN201707260303",
+    "requested_datetime": "2017-07-26 19:20:00",
     "status": "已完工",
     "keyword": {},
     "area": "中西區",
@@ -8,10 +8,10 @@
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區民族路二段76號 違規停車",
-    "address_string": "中西區民族路二段76號",
+    "address_string": "民族路二段76號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": "2017-07-26 21:11:45",
-    "expected_datetime": "2017-07-26 18:45:00"
+    "updated_datetime": "2017-07-26 21:51:40",
+    "expected_datetime": "2017-07-26 19:20:00"
 }

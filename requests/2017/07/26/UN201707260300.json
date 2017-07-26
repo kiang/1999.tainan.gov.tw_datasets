@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707260300",
+    "requested_datetime": "2017-07-26 19:14:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "仁德區二行里行大一街107號 妨害安寧",
+    "address_string": "二行里行大一街107號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-07-26 21:50:47",
+    "expected_datetime": "2017-07-26 19:14:00"
+}
