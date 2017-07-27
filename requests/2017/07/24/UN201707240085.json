@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707240085",
     "requested_datetime": "2017-07-24 09:49:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "七股區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "遊蕩犬隻捕捉管制",
     "description": "七股區七股里7號之1前 捉流浪犬",
     "address_string": "七股區七股里7號之1前",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-27 18:17:31",
     "expected_datetime": "2017-07-31 09:49:00"
 }
