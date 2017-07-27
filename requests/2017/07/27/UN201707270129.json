@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707270129",
+    "requested_datetime": "2017-07-27 12:51:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區東豐路255號 違規停車",
+    "address_string": "704台灣台南市北區東豐路255號",
+    "lat": "23.003095",
+    "long": "120.221908",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-27 12:51:00"
+}
