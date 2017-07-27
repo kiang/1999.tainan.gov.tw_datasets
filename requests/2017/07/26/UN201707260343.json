@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707260343",
     "requested_datetime": "2017-07-26 22:17:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "新市區新市國小中庭 噪音舉發",
     "address_string": "新市國小中庭",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-27 07:21:05",
     "expected_datetime": "2017-07-26 22:17:00"
 }
