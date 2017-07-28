@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707280356",
+    "requested_datetime": "2017-07-28 20:33:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區大東夜市前方及對面車道",
+    "address_string": "東區大東夜市",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-04 20:33:00"
+}
