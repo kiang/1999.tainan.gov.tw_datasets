@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707280326",
     "requested_datetime": "2017-07-28 19:28:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "東區小東路250-3號 佔用道路",
     "address_string": "東區小東路250之3號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-29 06:18:44",
     "expected_datetime": "2017-08-04 19:28:00"
 }
