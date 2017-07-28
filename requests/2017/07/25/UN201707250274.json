@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區金華路四段47巷 違規停車",
     "address_string": "臺南市中西區金華路四段47巷",
     "lat": "22.998376",
     "long": "120.194688",
     "service_notice": {},
-    "updated_datetime": "2017-07-26 00:31:36",
+    "updated_datetime": "2017-07-28 13:01:24",
     "expected_datetime": "2017-07-25 18:49:00"
 }
