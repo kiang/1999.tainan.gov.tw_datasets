@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707280278",
+    "requested_datetime": "2017-07-28 17:26:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "六甲區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "六甲區中山路43巷，近中正路485巷 違停",
+    "address_string": "六甲區中山路43巷中正路485巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-04 17:26:00"
+}

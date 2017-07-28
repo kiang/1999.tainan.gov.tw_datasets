@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707280256",
     "requested_datetime": "2017-07-28 16:44:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區府緯街124號對面\/府緯街14號\/國華街一段28號\/52號  違規停車",
     "address_string": "中西區府緯街124號對面",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-28 18:31:43",
     "expected_datetime": "2017-07-28 16:44:00"
 }
