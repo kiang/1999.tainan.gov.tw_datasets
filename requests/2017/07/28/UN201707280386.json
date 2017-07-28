@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707280386",
+    "requested_datetime": "2017-07-28 23:13:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌秒差調整",
+    "description": "北區開元路與南園街口 號誌不連鎖",
+    "address_string": "北區開元路南園街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-04 23:13:00"
+}
