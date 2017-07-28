@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707280019",
+    "requested_datetime": "2017-07-28 08:01:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區北園街87巷45號隔壁佔用道路",
+    "address_string": "北區北園街87巷45號隔壁",
+    "lat": "22.969135",
+    "long": "120.1810982",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-28 08:01:00"
+}
