@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "佳里區中山路 占用道路",
     "address_string": "佳里區中山路",
-    "lat": {},
-    "long": {},
+    "lat": "23.1599172",
+    "long": "120.1769535",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-08-04 11:56:00"

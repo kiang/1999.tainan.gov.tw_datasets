@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區民族路二段34號 違規停車",
     "address_string": "民族路二段34號",
     "lat": "23.9056961",
     "long": "120.5233525",
     "service_notice": {},
-    "updated_datetime": "2017-07-26 00:38:51",
+    "updated_datetime": "2017-07-28 13:03:48",
     "expected_datetime": "2017-07-25 19:14:00"
 }
