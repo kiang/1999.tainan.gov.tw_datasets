@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區中正七街與三村一街交叉路口 違規停車",
     "address_string": "永康區中正七街三村一街",
-    "lat": {},
-    "long": {},
+    "lat": "23.0433938",
+    "long": "120.2375535",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-07-30 09:58:00"
