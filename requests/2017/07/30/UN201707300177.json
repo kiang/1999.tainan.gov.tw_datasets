@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "東區生產路與長東街(生產路上) 號誌故障",
     "address_string": "東區生產路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9648724",
+    "long": "120.224635",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-08-06 16:37:00"
