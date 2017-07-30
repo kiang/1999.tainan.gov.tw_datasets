@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707300351",
+    "requested_datetime": "2017-07-30 21:01:00",
+    "status": {},
+    "keyword": {},
+    "area": "新化區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "新化區五甲勢56號 民生管線",
+    "address_string": "新化區五甲勢56號",
+    "lat": "23.012743",
+    "long": "120.33369",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-07-30 21:01:00"
+}

@@ -9,8 +9,8 @@
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "新化區五甲勢63號 停電",
     "address_string": "新化區五甲勢63號",
-    "lat": {},
-    "long": {},
+    "lat": "23.012743",
+    "long": "120.33369",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-08-06 19:34:00"
