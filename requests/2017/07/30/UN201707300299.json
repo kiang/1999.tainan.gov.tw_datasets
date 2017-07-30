@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201707300299",
+    "requested_datetime": "2017-07-30 19:34:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "新化區",
+    "service_name": "民生管線",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "新化區五甲勢63號 停電",
+    "address_string": "新化區五甲勢63號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-06 19:34:00"
+}
