@@ -9,8 +9,8 @@
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "新化區新和庄 停電",
     "address_string": "台南市新化區新和庄",
-    "lat": {},
-    "long": {},
+    "lat": "23.015204",
+    "long": "120.341404",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-07-30 20:27:00"
