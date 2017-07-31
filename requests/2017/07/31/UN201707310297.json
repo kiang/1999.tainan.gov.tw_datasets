@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707310297",
     "requested_datetime": "2017-07-31 10:24:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "歸仁區中山路三段230巷口 違停",
     "address_string": "歸仁區中山路三段230巷口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-31 18:15:43",
     "expected_datetime": "2017-08-07 10:24:00"
 }
