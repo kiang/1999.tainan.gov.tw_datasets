@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707310726",
     "requested_datetime": "2017-07-31 20:58:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "六甲區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "六甲區龜港里281巷126弄23號 妨害安寧",
     "address_string": "六甲區龜港里281巷126弄23號",
     "lat": "23.281496",
     "long": "120.264547",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-07-31 23:13:33",
     "expected_datetime": "2017-08-07 20:58:00"
 }
