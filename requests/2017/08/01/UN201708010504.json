@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708010504",
     "requested_datetime": "2017-08-01 23:07:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "南區新興路243號大樓後面 噪音舉發",
     "address_string": "台南市南區新興路243號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-02 01:18:14",
     "expected_datetime": "2017-08-01 23:07:00"
 }
