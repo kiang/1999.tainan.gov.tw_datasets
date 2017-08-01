@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708010046",
     "requested_datetime": "2017-08-01 07:36:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "路燈故障",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "台南市政府",
     "subproject": "9盞以下路燈故障",
     "description": "仁德區文賢路與德成路路口 紅綠燈",
     "address_string": "仁德區文賢路德成路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-02 00:59:47",
     "expected_datetime": "2017-08-08 07:36:00"
 }
