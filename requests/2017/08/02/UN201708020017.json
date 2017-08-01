@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708020017",
+    "requested_datetime": "2017-08-02 06:04:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "北區東豐路跟長榮路",
+    "address_string": "北區東豐路  長榮路",
+    "lat": "23.0030059",
+    "long": "120.2228827",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-09 06:04:00"
+}
