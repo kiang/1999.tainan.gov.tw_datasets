@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708010084",
+    "requested_datetime": "2017-08-01 08:40:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "地下道積水",
+    "description": "東區府連地下道淹水 地下道淹水",
+    "address_string": "東區府連地下道淹水",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-08 08:40:00"
+}
