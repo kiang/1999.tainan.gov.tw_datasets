@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707280379",
     "requested_datetime": "2017-07-28 22:22:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
     "description": "新營區復興路985號 犬貓急難救援",
     "address_string": "新營區復興路985號",
     "lat": "23.3094201",
     "long": "120.2841697",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-01 14:25:32",
     "expected_datetime": "2017-08-04 22:22:00"
 }
