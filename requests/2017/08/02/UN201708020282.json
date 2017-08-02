@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708020282",
+    "requested_datetime": "2017-08-02 18:04:00",
+    "status": {},
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "安南區北安路三段145巷41弄1號 路面坑洞",
+    "address_string": "709台灣台南市安南區北安路三段145巷41弄1號",
+    "lat": "23.0410374",
+    "long": "120.201897",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-02 18:04:00"
+}
