@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708020323",
+    "requested_datetime": "2017-08-02 20:02:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "北區文賢路1122巷1號，悠遊館，旁邊文賢路上路中間 路面坑洞",
+    "address_string": "北區文賢路1122巷1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-09 20:02:00"
+}
