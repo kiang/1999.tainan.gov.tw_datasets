@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707290428",
     "requested_datetime": "2017-07-29 22:02:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "中西區忠義路一段和和意路交叉口，財政稅務局門口 路燈不亮",
     "address_string": "中西區忠義路一段96號",
     "lat": "22.9880468",
     "long": "120.2019038",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-02 09:25:39",
     "expected_datetime": "2017-08-05 22:02:00"
 }
