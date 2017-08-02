@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708020287",
+    "requested_datetime": "2017-08-02 18:16:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "北區海安路上靠中華北路口 路面坑洞",
+    "address_string": "北區海安路上靠中華北路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-09 18:16:00"
+}
