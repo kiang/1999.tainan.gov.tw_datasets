@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708010367",
     "requested_datetime": "2017-08-01 16:22:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "環境髒亂",
     "description": "安平工業區新樂路68號之2門口 髒亂及汙染",
     "address_string": "新樂路68號之2",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-02 11:45:50",
     "expected_datetime": "2017-08-01 16:22:00"
 }
