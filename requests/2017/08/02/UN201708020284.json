@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708020284",
+    "requested_datetime": "2017-08-02 18:08:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區明興路426巷口 違停",
+    "address_string": "南區明興路426巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-09 18:08:00"
+}

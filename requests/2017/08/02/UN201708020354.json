@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708020354",
+    "requested_datetime": "2017-08-02 22:00:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "東區林森路一段58巷 路燈故障不亮",
+    "address_string": "東區林森路一段58巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-09 22:00:00"
+}
