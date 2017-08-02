@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708020134",
     "requested_datetime": "2017-08-02 12:38:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安南區功安一街248號 違規停車",
     "address_string": "安南區功安一街248號",
     "lat": "23.0494137",
     "long": "120.1785945",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-02 14:07:21",
     "expected_datetime": "2017-08-02 12:38:00"
 }
