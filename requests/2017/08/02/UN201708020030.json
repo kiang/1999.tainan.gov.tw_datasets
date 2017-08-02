@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708020030",
+    "requested_datetime": "2017-08-02 08:00:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區開元路394巷11號  違規停車",
+    "address_string": "北區開元路394巷11號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-09 08:00:00"
+}
