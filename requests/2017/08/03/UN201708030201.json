@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708030201",
+    "requested_datetime": "2017-08-03 14:23:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "安南區郡安路五段184巷80弄57號 妨礙安寧",
+    "address_string": "安南區郡安路五段184巷80弄57號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-08-03 16:34:31",
+    "expected_datetime": "2017-08-10 14:23:00"
+}
