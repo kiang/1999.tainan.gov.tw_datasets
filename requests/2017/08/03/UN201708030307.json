@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708030307",
     "requested_datetime": "2017-08-03 18:15:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區西華街113號對面 違規停車",
     "address_string": "台灣台南市北區西華街113號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9988948",
+    "long": "120.2103722",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-03 19:31:06",
     "expected_datetime": "2017-08-03 18:15:00"
 }
