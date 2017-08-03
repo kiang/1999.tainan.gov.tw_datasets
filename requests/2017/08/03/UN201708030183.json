@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708030183",
+    "requested_datetime": "2017-08-03 14:07:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "中西區衛民街86號  騎樓舉發",
+    "address_string": "中西區衛民街86號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-08-03 14:55:39",
+    "expected_datetime": "2017-08-03 14:07:00"
+}
