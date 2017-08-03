@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707310419",
     "requested_datetime": "2017-07-31 12:50:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "東區崇德路與德東街口 號誌故障",
     "address_string": "東區崇德路德東街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-03 09:34:33",
     "expected_datetime": "2017-08-07 12:50:00"
 }

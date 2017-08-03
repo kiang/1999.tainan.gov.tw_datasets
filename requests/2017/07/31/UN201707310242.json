@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201707310242",
     "requested_datetime": "2017-07-31 09:33:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "北區北安路一段與北成路口 號誌故障",
     "address_string": "北區北安路一段北成路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-03 09:56:12",
     "expected_datetime": "2017-08-07 09:33:00"
 }
