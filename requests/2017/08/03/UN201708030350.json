@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708030350",
     "requested_datetime": "2017-08-03 21:17:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "噪音舉發",
     "address_string": "育平五街57-77號社區內",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-04 06:34:08",
     "expected_datetime": "2017-08-03 21:17:00"
 }
