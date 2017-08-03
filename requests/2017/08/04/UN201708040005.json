@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708040005",
+    "requested_datetime": "2017-08-04 01:36:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "龍崎區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "龍崎區182縣道往關廟方向 路面坑洞",
+    "address_string": "龍崎區182縣道",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-11 01:36:00"
+}
