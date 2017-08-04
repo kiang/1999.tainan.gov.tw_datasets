@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708040117",
+    "requested_datetime": "2017-08-04 10:43:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "東區大學路近長榮路 路面坑洞",
+    "address_string": "東區大學路近長榮路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-11 10:43:00"
+}
