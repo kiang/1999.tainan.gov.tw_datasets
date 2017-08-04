@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708030070",
     "requested_datetime": "2017-08-03 09:49:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
     "description": "仁德區中山路301號 孔蓋聲響",
     "address_string": "仁德區中山路301號",
     "lat": "24.800932",
     "long": "120.960007",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-04 15:14:01",
     "expected_datetime": "2017-08-10 09:49:00"
 }

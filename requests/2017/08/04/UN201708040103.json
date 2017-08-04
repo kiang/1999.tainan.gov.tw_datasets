@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708040103",
     "requested_datetime": "2017-08-04 10:31:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "鹽水區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "鹽水區月津路14號 違規停車",
     "address_string": "鹽水區月津路14號",
     "lat": "23.315794056504689",
     "long": "120.26641161105340",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-04 15:43:56",
     "expected_datetime": "2017-08-04 10:31:00"
 }

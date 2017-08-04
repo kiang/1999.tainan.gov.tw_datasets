@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708040081",
     "requested_datetime": "2017-08-04 09:44:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "鹽水區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "737台灣台南市鹽水區三福路80號 違規停車",
     "address_string": "737台灣台南市鹽水區三福路80號",
     "lat": "23.321049009181319",
     "long": "120.26580122764744",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-04 15:30:28",
     "expected_datetime": "2017-08-04 09:44:00"
 }

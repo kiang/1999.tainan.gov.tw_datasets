@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708040015",
     "requested_datetime": "2017-08-04 06:36:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "麻豆區正大路2-63號 噪音舉發",
     "address_string": "721台灣台南市麻豆區正大路2-63號",
     "lat": "23.1895686",
     "long": "120.282236",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-04 15:27:20",
     "expected_datetime": "2017-08-04 06:36:00"
 }

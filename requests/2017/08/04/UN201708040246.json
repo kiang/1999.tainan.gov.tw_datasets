@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708040246",
+    "requested_datetime": "2017-08-04 15:51:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區慶平路545號和547號中間 違停機車格",
+    "address_string": "安平區慶平路545號",
+    "lat": "22.9975521",
+    "long": "120.169669",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-11 15:51:00"
+}

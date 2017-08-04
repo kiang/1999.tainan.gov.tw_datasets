@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708040231",
+    "requested_datetime": "2017-08-04 15:14:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "安南區郡安路三段，過安順橋不久的機車道附近 路面坑洞",
+    "address_string": "安南區郡安路三段",
+    "lat": "23.0419886",
+    "long": "120.2246308",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-11 15:14:00"
+}
