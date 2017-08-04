@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708040175",
+    "requested_datetime": "2017-08-04 12:36:00",
+    "status": {},
+    "keyword": {},
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "新營區民治路142號 違規停車",
+    "address_string": "新營區民治路142",
+    "lat": "23.3097931",
+    "long": "120.3090634",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-04 12:36:00"
+}

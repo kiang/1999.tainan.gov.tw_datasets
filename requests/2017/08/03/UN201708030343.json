@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708030343",
     "requested_datetime": "2017-08-03 19:45:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "環境髒亂",
     "description": "東區成功一街與生產路路口 環境髒亂",
     "address_string": "東區成功一街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-04 12:49:47",
     "expected_datetime": "2017-08-10 19:45:00"
 }
