@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708040346",
+    "requested_datetime": "2017-08-04 19:37:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "北區長榮路五段人行地下道上來靠近210巷 路面坑洞",
+    "address_string": "北區長榮路五段人行地下道上來靠近210巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-11 19:37:00"
+}
