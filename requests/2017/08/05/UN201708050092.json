@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708050092",
     "requested_datetime": "2017-08-05 12:02:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "東區中華東路一段217巷 交通運輸",
     "address_string": "東區中華東路一段217巷",
     "lat": "22.7596953",
     "long": "121.1567776",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-05 17:24:25",
     "expected_datetime": "2017-08-05 12:02:00"
 }
