@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201708050263",
     "requested_datetime": "2017-08-05 20:11:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "東區育樂街 違規停車",
     "address_string": "東區育樂街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9943326",
+    "long": "120.2146941",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-05 22:42:53",
     "expected_datetime": "2017-08-12 20:11:00"
 }
