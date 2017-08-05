@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708050034",
+    "requested_datetime": "2017-08-05 08:56:00",
+    "status": {},
+    "keyword": {},
+    "area": "鹽水區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "737台灣台南市鹽水區康樂路75-93號違規停車",
+    "address_string": "737台灣台南市鹽水區康樂路75-93號",
+    "lat": "23.320063946516260",
+    "long": "120.26840482100988",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-05 08:56:00"
+}

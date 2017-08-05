@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區中華東路三段中華路橋 貨車違停",
     "address_string": "東區中華東路三段中華路橋",
-    "lat": {},
-    "long": {},
+    "lat": "22.9777168",
+    "long": "120.2261683",
     "service_notice": {},
     "updated_datetime": "2017-08-05 06:25:32",
     "expected_datetime": "2017-08-12 01:44:00"
