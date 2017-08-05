@@ -9,8 +9,8 @@
     "subproject": "交通疏導",
     "description": "北區中華北路一段，大港觀海橋 交通阻塞",
     "address_string": "北區中華北路一段",
-    "lat": {},
-    "long": {},
+    "lat": "23.014539",
+    "long": "120.1874313",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-08-12 23:18:00"
