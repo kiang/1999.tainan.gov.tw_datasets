@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708060003",
+    "requested_datetime": "2017-08-06 03:14:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "鹽水區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "鹽水區金和路 路面坑洞",
+    "address_string": "鹽水區金和路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-13 03:14:00"
+}
