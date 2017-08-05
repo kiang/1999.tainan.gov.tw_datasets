@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708050259",
+    "requested_datetime": "2017-08-05 20:59:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區大橋一街與中華路口 違停",
+    "address_string": "永康區大橋一街中華路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-12 20:59:00"
+}
