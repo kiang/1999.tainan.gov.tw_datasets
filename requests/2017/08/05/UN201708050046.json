@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "南區大成路轉永成路 佔用道路",
     "address_string": "南區大成路",
-    "lat": {},
-    "long": {},
+    "lat": "24.9475296",
+    "long": "121.3819424",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-08-12 09:40:00"
