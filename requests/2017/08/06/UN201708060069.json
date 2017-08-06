@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708060069",
+    "requested_datetime": "2017-08-06 12:17:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "南區金華路二段33巷79號 佔用道路",
+    "address_string": "台南市南區金華路二段33巷79號",
+    "lat": "22.977064",
+    "long": "120.188613",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-06 12:17:00"
+}
