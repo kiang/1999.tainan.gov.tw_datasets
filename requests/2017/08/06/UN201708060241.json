@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708060241",
     "requested_datetime": "2017-08-06 21:51:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "東區大同路一段329巷 騎樓舉發",
     "address_string": "東區大同路一段329巷",
     "lat": "24.8215861",
     "long": "120.9888177",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-07 06:54:46",
     "expected_datetime": "2017-08-06 21:51:00"
 }
