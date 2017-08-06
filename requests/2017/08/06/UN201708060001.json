@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708060001",
     "requested_datetime": "2017-08-06 01:43:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "歸仁區大順五街14號 妨害安寧",
     "address_string": "大順五街14號",
-    "lat": {},
-    "long": {},
+    "lat": "22.6447875",
+    "long": "120.3255048",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-06 10:01:54",
     "expected_datetime": "2017-08-06 01:43:00"
 }

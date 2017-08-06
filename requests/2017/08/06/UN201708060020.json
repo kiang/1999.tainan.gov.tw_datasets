@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708060020",
+    "requested_datetime": "2017-08-06 08:49:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區小東路299巷9弄口 違停",
+    "address_string": "北區小東路299巷9弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-13 08:49:00"
+}
