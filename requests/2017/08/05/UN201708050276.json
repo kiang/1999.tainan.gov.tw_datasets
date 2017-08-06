@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "關廟區南雄路一段與五福路口 空污",
     "address_string": "關廟區南雄路一段五福路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9583192",
+    "long": "120.3275955",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-08-12 23:06:00"
