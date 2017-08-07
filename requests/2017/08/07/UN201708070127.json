@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708070127",
     "requested_datetime": "2017-08-07 11:25:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區小東路477巷46弄2號 違規停車",
     "address_string": "710台灣台南市永康區小東路477巷46弄2號",
     "lat": "23.000240488930604",
     "long": "120.23540086124113",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-07 13:58:10",
     "expected_datetime": "2017-08-07 11:25:00"
 }
