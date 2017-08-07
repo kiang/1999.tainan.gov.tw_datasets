@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708060070",
     "requested_datetime": "2017-08-06 11:15:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "永康區永大路一段與與崑大路口 號誌故障",
     "address_string": "永康區永大路一段",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-07 14:41:37",
     "expected_datetime": "2017-08-13 11:15:00"
 }

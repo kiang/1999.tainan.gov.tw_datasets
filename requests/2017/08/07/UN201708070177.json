@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708070177",
+    "requested_datetime": "2017-08-07 13:30:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區長榮路二段163號 違規停車",
+    "address_string": "東區長榮路二段163號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-08-07 14:39:41",
+    "expected_datetime": "2017-08-14 13:30:00"
+}

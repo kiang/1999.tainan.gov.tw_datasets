@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708070122",
     "requested_datetime": "2017-08-07 11:10:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "交通疏導",
     "description": "中西區衛民街封路(西華南街\/中山路 交通疏導",
     "address_string": "中西區衛民街封路(西華南街\/中山路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-07 14:41:59",
     "expected_datetime": "2017-08-14 11:10:00"
 }
