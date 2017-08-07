@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708070068",
+    "requested_datetime": "2017-08-07 09:35:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "東區東光路一段37號  妨害安寧",
+    "address_string": "東區東光路一段37號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-08-07 10:32:29",
+    "expected_datetime": "2017-08-14 09:35:00"
+}
