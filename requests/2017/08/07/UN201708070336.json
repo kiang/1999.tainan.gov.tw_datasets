@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區中華東路二段22巷14弄10號 路燈故障",
     "address_string": "東區中華東路二段22巷14弄10號",
-    "lat": {},
-    "long": {},
+    "lat": "22.986113",
+    "long": "120.232454",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-08-07 20:32:00"
