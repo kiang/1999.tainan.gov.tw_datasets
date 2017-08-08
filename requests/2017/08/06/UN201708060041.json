@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708060041",
     "requested_datetime": "2017-08-06 10:10:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府水利局,臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "新營區開元路103巷48-1號 噪音舉發",
     "address_string": "新營區開元路103巷48-1號",
     "lat": "23.309658",
     "long": "120.324751",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-08 15:16:04",
     "expected_datetime": "2017-08-06 10:10:00"
 }
