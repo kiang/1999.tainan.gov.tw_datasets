@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708060144",
     "requested_datetime": "2017-08-06 16:38:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "東區東寧路428巷口至東寧路426-3號區間 噪音舉發",
     "address_string": "台南市東區東寧路428巷",
     "lat": "22.9892481",
     "long": "120.2288339",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-08 08:23:56",
     "expected_datetime": "2017-08-06 16:38:00"
 }
