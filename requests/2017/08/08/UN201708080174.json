@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708080174",
+    "requested_datetime": "2017-08-08 14:08:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區中華東路跟崇德路轉角 違停",
+    "address_string": "東區中華東路崇德路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-15 14:08:00"
+}
