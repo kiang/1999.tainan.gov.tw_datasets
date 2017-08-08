@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708050090",
     "requested_datetime": "2017-08-05 11:55:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "仁德區義林路與新田二街交叉口 號誌故障",
     "address_string": "仁德區義林路",
     "lat": "22.9681614",
     "long": "120.2634681",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-08 17:39:21",
     "expected_datetime": "2017-08-12 11:55:00"
 }
