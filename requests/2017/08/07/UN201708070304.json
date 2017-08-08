@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708070304",
     "requested_datetime": "2017-08-07 18:58:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "安南區長和路四段184巷31號 路燈不亮",
     "address_string": "安南區長和路四段184巷31號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-08 09:46:24",
     "expected_datetime": "2017-08-14 18:58:00"
 }
