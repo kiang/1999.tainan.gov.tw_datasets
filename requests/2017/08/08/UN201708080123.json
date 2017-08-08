@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708080123",
+    "requested_datetime": "2017-08-08 11:27:00",
+    "status": {},
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "仁德區德崙路442巷35弄5號 違規停車",
+    "address_string": "仁德區德崙路442巷35弄5號",
+    "lat": "22.9412219",
+    "long": "120.2613802",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-08 11:27:00"
+}
