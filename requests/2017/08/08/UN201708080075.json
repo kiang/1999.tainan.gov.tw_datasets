@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708080075",
     "requested_datetime": "2017-08-08 09:55:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "妨害安寧",
     "description": "台南市安平區建平十二街116號噪音舉發",
     "address_string": "台南市安平區建平十二街116號",
     "lat": "22.9955101",
     "long": "120.177917",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-09 09:56:56",
     "expected_datetime": "2017-08-08 09:55:00"
 }

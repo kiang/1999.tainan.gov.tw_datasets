@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第五分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區東豐路255號  違規停車",
     "address_string": "704台灣台南市北區東豐路255號",
     "lat": "23.003095",
     "long": "120.221908",
     "service_notice": {},
-    "updated_datetime": "2017-08-06 16:39:35",
+    "updated_datetime": "2017-08-09 09:55:07",
     "expected_datetime": "2017-08-06 11:29:00"
 }
