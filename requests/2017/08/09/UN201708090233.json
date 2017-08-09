@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708090233",
+    "requested_datetime": "2017-08-09 16:33:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區崇德八街跟崇德路 佔用道路\/違停",
+    "address_string": "東區崇德八街跟崇德路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-16 16:33:00"
+}
