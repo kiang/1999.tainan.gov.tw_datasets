@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708090338",
+    "requested_datetime": "2017-08-09 20:30:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局",
+    "subproject": "9盞以下路燈故障",
+    "description": "東區裕農路668巷75弄30號,路燈故障乙盞,",
+    "address_string": "東區裕農路668巷75弄30號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-16 20:30:00"
+}
