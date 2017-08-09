@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708090135",
+    "requested_datetime": "2017-08-09 12:21:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "永康區自強路366號 違規停車",
+    "address_string": "永康區自強路366號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-16 12:21:00"
+}
