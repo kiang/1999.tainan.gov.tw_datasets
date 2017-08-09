@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708090325",
     "requested_datetime": "2017-08-09 19:49:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區北門路二段260號附近 違規停車",
     "address_string": "北門路二段260號",
-    "lat": {},
-    "long": {},
+    "lat": "23.9664014",
+    "long": "120.9687487",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-09 22:02:54",
     "expected_datetime": "2017-08-09 19:49:00"
 }
