@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708090369",
+    "requested_datetime": "2017-08-09 23:46:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "柳營區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "柳營區士賢街跟仁愛路口 紅線違停",
+    "address_string": "柳營區士賢街 仁愛路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-08-10 06:12:00",
+    "expected_datetime": "2017-08-16 23:46:00"
+}
