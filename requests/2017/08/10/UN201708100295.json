@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708100295",
     "requested_datetime": "2017-08-10 17:39:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區崇德八街和崇德路交叉口 佔用道路＆違停",
     "address_string": "東區崇德八街崇德路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-11 06:52:25",
     "expected_datetime": "2017-08-17 17:39:00"
 }
