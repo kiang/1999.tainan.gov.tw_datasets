@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708100202",
+    "requested_datetime": "2017-08-10 14:33:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "歸仁區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "寬頻管線、孔蓋損壞",
+    "description": "歸仁區中山路一段312號前 孔蓋損壞",
+    "address_string": "歸仁區中山路一段312號前",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-17 14:33:00"
+}
