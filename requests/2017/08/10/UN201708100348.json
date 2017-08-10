@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708100348",
+    "requested_datetime": "2017-08-10 20:18:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區中華東路二段48巷17弄和中華東路二段96巷T字路口 違停",
+    "address_string": "東區中華東路二段48巷17弄中華東路二段96巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-17 20:18:00"
+}
