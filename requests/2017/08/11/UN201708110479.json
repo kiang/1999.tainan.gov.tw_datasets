@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708110479",
     "requested_datetime": "2017-08-11 11:06:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "違規停車",
     "address_string": "勝利路(小東路與東豐路間)成大醫院周遭",
     "lat": "23.0019573",
     "long": "120.219643",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-11 14:35:31",
     "expected_datetime": "2017-08-11 11:06:00"
 }

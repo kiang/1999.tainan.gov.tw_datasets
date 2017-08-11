@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708110563",
+    "requested_datetime": "2017-08-11 14:11:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "南區大成路一段171號  路面坑洞",
+    "address_string": "南區大成路一段171號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-18 14:11:00"
+}
