@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708110523",
+    "requested_datetime": "2017-08-11 12:29:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "歸仁區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "歸仁區台南高鐵站4號門下客處 違規攬客",
+    "address_string": "歸仁區台南高鐵站",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-08-11 19:25:48",
+    "expected_datetime": "2017-08-18 12:29:00"
+}
