@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708090183",
     "requested_datetime": "2017-08-09 14:37:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "環境髒亂",
     "description": "神田日本料理 亂丟垃圾",
     "address_string": "中西區永華一街44巷3號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-11 11:46:08",
     "expected_datetime": "2017-08-16 14:37:00"
 }
