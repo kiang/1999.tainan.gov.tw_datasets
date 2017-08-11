@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201708100135",
     "requested_datetime": "2017-08-10 11:50:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "路燈故障",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-11 13:45:22",
     "expected_datetime": "2017-08-17 11:50:00"
 }
