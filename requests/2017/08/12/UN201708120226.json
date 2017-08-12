@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708120226",
+    "requested_datetime": "2017-08-12 18:10:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安南區安和路一段288巷口轉角處 違規停車",
+    "address_string": "台南市安南區安和路一段288巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-08-12 21:39:37",
+    "expected_datetime": "2017-08-12 18:10:00"
+}

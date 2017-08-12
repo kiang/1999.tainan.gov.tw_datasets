@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708120225",
+    "requested_datetime": "2017-08-12 18:05:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區安平路 違規停車",
+    "address_string": "詳反應內容",
+    "lat": "22.9994007",
+    "long": "120.1733067",
+    "service_notice": {},
+    "updated_datetime": "2017-08-12 21:37:44",
+    "expected_datetime": "2017-08-12 18:05:00"
+}
