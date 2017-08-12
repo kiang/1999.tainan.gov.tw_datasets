@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708120138",
+    "requested_datetime": "2017-08-12 13:26:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "東區長東街20號 坑洞",
+    "address_string": "東區長東街20號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-19 13:26:00"
+}

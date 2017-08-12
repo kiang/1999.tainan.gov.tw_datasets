@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "南區尊南街（新興路以北新孝路以南之路段）上，佔用道路",
     "address_string": "台南市南區金華路二段33巷79號",
-    "lat": {},
-    "long": {},
+    "lat": "22.977064",
+    "long": "120.188613",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-08-12 11:07:00"
