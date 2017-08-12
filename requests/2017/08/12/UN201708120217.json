@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708120217",
+    "requested_datetime": "2017-08-12 17:40:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "郵局儲匯大樓前人行道 違停",
+    "address_string": "北區成功路8號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-08-12 22:41:37",
+    "expected_datetime": "2017-08-19 17:40:00"
+}

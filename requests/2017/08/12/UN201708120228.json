@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708120228",
+    "requested_datetime": "2017-08-12 18:16:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區五妃街和國華街口 違停",
+    "address_string": "南區五妃街國華街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-08-12 22:48:07",
+    "expected_datetime": "2017-08-19 18:16:00"
+}
