@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708120247",
+    "requested_datetime": "2017-08-12 19:33:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "704台南市北區中華北路二段42-43附近",
+    "lat": "23.0197003",
+    "long": "120.1983363",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-12 19:33:00"
+}

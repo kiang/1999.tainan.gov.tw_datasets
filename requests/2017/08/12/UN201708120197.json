@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708120197",
     "requested_datetime": "2017-08-12 16:47:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "新市區中正路111號 騎樓舉發",
     "address_string": "新市區中正路111號",
     "lat": "24.8074441",
     "long": "120.967705",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-12 19:44:28",
     "expected_datetime": "2017-08-12 16:47:00"
 }
