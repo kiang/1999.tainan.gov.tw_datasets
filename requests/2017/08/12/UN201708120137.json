@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708120137",
     "requested_datetime": "2017-08-12 13:28:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "佳里區林園街100-106號 違規停車",
     "address_string": "722台灣台南市佳里區林園街100-106號",
     "lat": "23.165707883641367",
     "long": "120.17809081684720",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-12 18:38:37",
     "expected_datetime": "2017-08-12 13:28:00"
 }

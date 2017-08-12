@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708120224",
+    "requested_datetime": "2017-08-12 18:00:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區健康路金華派出所 違規停車",
+    "address_string": "南區健康路金華派出所",
+    "lat": "22.9814488",
+    "long": "120.1916256",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-12 18:00:00"
+}
