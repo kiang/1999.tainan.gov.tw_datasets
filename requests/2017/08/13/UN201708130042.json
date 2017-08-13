@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708130042",
     "requested_datetime": "2017-08-13 10:11:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區康樂街303號 違規停車",
     "address_string": "中西區康樂街303號",
     "lat": "22.9955911",
     "long": "120.194302",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-13 17:44:23",
     "expected_datetime": "2017-08-13 10:11:00"
 }
