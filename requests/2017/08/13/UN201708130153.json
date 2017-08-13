@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708130153",
+    "requested_datetime": "2017-08-13 16:43:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "中西區府前路二段153號 交通運輸",
+    "address_string": "700台南市中西區府前路二段153號",
+    "lat": "22.991178",
+    "long": "120.193693",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-13 16:43:00"
+}

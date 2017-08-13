@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708130148",
+    "requested_datetime": "2017-08-13 16:23:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區王城路,樹屋停車場入口週圍 違停",
+    "address_string": "安平區王城路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-20 16:23:00"
+}
