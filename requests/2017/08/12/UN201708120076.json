@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708120076",
     "requested_datetime": "2017-08-12 10:43:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "安南區安中路三段與本田路三段口，往科工區方向 路面砂石",
     "address_string": "安南區安中路三段本田路三段",
     "lat": "23.0489061",
     "long": "120.174709",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-14 14:27:41",
     "expected_datetime": "2017-08-19 10:43:00"
 }
