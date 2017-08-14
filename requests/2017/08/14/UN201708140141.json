@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708140141",
+    "requested_datetime": "2017-08-14 11:24:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安南區本原街上近海佃路四段眼鏡行前 紅線違停",
+    "address_string": "安南區本原街上近海佃路四段眼鏡行前",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-21 11:24:00"
+}
