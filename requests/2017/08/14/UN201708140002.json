@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "新營區四維路新中路 空氣汙染",
     "address_string": "新營區四維路新中路",
-    "lat": {},
-    "long": {},
+    "lat": "23.3077365",
+    "long": "120.2767786",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-08-21 00:10:00"
