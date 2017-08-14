@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區小東路275號 違規停車",
     "address_string": "東區小東路275號",
-    "lat": {},
-    "long": {},
+    "lat": "23.4866048",
+    "long": "120.4556896",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-08-21 23:19:00"

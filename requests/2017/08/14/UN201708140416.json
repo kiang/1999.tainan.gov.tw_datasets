@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新營區綠川路60號 紅線違停",
     "address_string": "新營區綠川路60號",
-    "lat": {},
-    "long": {},
+    "lat": "23.3098752",
+    "long": "120.3228661",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-08-21 22:33:00"
