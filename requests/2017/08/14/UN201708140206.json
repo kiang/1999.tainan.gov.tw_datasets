@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708140206",
     "requested_datetime": "2017-08-14 13:43:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安南區北安路三段156號前  違規停車",
     "address_string": "台南市安南區北安路三段156號前",
     "lat": "23.0423257",
     "long": "120.2034032",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-15 22:19:32",
     "expected_datetime": "2017-08-14 13:43:00"
 }
