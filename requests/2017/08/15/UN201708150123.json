@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708150123",
+    "requested_datetime": "2017-08-15 11:23:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "環境髒亂",
+    "description": "北區開元路90巷口 亂丟垃圾",
+    "address_string": "北區開元路90巷",
+    "lat": "23.0056061",
+    "long": "120.2176972",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-22 11:23:00"
+}
