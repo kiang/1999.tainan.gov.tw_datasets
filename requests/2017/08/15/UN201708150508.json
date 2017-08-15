@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201708150508",
     "requested_datetime": "2017-08-15 23:14:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "新民街16巷內 違規停車",
     "address_string": "新民街16巷內",
-    "lat": {},
-    "long": {},
+    "lat": "23.8250665",
+    "long": "120.71016",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-16 01:02:07",
     "expected_datetime": "2017-08-15 23:14:00"
 }
