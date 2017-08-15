@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區勝利路182號門口 違規停車",
     "address_string": "台南市北區勝利路182號",
-    "lat": {},
-    "long": {},
+    "lat": "23.003701",
+    "long": "120.218883",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-08-15 11:15:00"
