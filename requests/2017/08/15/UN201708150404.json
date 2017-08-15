@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708150404",
     "requested_datetime": "2017-08-15 19:01:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區慶東街92-1號 違規停車",
     "address_string": "東區慶東街92-1號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-16 00:57:17",
     "expected_datetime": "2017-08-22 19:01:00"
 }
