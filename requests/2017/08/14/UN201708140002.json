@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708140002",
     "requested_datetime": "2017-08-14 00:10:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "新營區四維路新中路 空氣汙染",
     "address_string": "新營區四維路新中路",
     "lat": "23.3077365",
     "long": "120.2767786",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-16 15:50:35",
     "expected_datetime": "2017-08-21 00:10:00"
 }

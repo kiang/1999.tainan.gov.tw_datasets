@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區康樂街303號 違規停車",
     "address_string": "中西區康樂街303號",
     "lat": "22.9955911",
     "long": "120.194302",
     "service_notice": {},
-    "updated_datetime": "2017-08-13 17:44:23",
+    "updated_datetime": "2017-08-16 15:54:25",
     "expected_datetime": "2017-08-13 10:11:00"
 }

@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區崇善路與崇學路交叉口 違規停車",
     "address_string": "東區崇善路",
-    "lat": {},
-    "long": {},
+    "lat": "22.975884",
+    "long": "120.228572",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-08-23 14:44:00"
