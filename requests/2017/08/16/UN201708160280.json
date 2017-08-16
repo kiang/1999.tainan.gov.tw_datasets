@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "台南市下營區中正南路36號違規停車",
     "address_string": "台南市下營區中正南路36號",
-    "lat": "23.2341736",
-    "long": "120.262976",
+    "lat": {},
+    "long": {},
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-08-16 17:55:00"
