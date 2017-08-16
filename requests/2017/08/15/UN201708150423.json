@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708150423",
     "requested_datetime": "2017-08-15 19:11:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新化區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "新化區大智路和高鐵橋下台南段道路交叉口，大智路往崙頂里方向 號誌故障",
     "address_string": "新化區大智路高鐵橋下台南段道路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-16 16:36:14",
     "expected_datetime": "2017-08-22 19:11:00"
 }
