@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708130171",
     "requested_datetime": "2017-08-13 18:19:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "永康區中山東路和中華二路口，7-11前 電線垂落",
     "address_string": "永康區中山東路中華二路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-16 17:55:21",
     "expected_datetime": "2017-08-20 18:19:00"
 }
