@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708160242",
     "requested_datetime": "2017-08-16 16:26:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區南寧街71巷21號 違規停車",
     "address_string": "南寧街71巷21號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-16 19:10:36",
     "expected_datetime": "2017-08-16 16:26:00"
 }
