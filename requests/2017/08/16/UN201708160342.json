@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708160342",
     "requested_datetime": "2017-08-16 20:32:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "9盞以下路燈故障",
     "description": "新營區新進路二段409之1號 違規停車",
     "address_string": "新營區新進路二段409之1號",
     "lat": "23.3026394",
     "long": "120.3025795",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-17 03:50:46",
     "expected_datetime": "2017-08-23 20:32:00"
 }
