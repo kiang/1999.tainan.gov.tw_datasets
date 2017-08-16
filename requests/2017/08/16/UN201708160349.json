@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708160349",
+    "requested_datetime": "2017-08-16 20:47:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局,臺南市政府教育局",
+    "subproject": "9盞以下路燈故障",
+    "description": "南區西門路一段300巷 路燈故障",
+    "address_string": "南區西門路一段300巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-23 20:47:00"
+}
