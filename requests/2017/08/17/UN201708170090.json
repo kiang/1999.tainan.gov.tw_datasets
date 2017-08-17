@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708170090",
+    "requested_datetime": "2017-08-17 10:37:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "騎樓舉發",
+    "agency": "台南市政府",
+    "subproject": "騎樓舉發",
+    "description": "北區公園路599號之5，599號之8，599號之10 騎樓舉發",
+    "address_string": "北區公園路599號之5，599號之8，599號之10",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-24 10:37:00"
+}
