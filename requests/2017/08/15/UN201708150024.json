@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708150024",
     "requested_datetime": "2017-08-15 07:44:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "安南區郡安路六段與生態街交叉口 民生管線",
     "address_string": "安南區郡安路六段與生態街交叉口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-17 08:02:59",
     "expected_datetime": "2017-08-22 07:44:00"
 }
