@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708170248",
     "requested_datetime": "2017-08-17 16:39:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
-    "description": "噪音舉發",
+    "description": "東區崇善路 噪音舉發",
     "address_string": "台南市東區崇善路 台南市第一分局旁全家超商隔壁的汽車保養廠",
-    "lat": {},
-    "long": {},
+    "lat": "22.9665681",
+    "long": "120.2323566",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-17 18:20:23",
     "expected_datetime": "2017-08-17 16:39:00"
 }
