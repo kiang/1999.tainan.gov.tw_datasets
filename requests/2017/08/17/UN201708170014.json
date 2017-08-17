@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708170014",
     "requested_datetime": "2017-08-17 05:04:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "南區鹽埕路291巷60弄3號 噪音舉發",
     "address_string": "鹽埕路291巷60弄3號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-17 16:46:24",
     "expected_datetime": "2017-08-17 05:04:00"
 }
