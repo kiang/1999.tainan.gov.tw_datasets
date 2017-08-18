@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708160098",
     "requested_datetime": "2017-08-16 10:03:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "南區南樂街與敬南街口 路面滲水",
     "address_string": "南區南樂街與敬南街口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-18 11:05:53",
     "expected_datetime": "2017-08-23 10:03:00"
 }
