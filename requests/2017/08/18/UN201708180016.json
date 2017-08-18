@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區怡東路64號、66號 違停",
     "address_string": "東區怡東路64號、66號",
-    "lat": {},
-    "long": {},
+    "lat": "22.992117",
+    "long": "120.228072",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-08-25 07:01:00"

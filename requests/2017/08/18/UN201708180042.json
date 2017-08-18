@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708180042",
+    "requested_datetime": "2017-08-18 08:41:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面下陷、凹陷",
+    "description": "東區裕農路930號前 路面下陷",
+    "address_string": "東區裕農路930號前",
+    "lat": "22.9899021",
+    "long": "120.2440826",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-25 08:41:00"
+}
