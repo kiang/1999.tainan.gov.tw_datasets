@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708180381",
     "requested_datetime": "2017-08-18 23:58:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "永康區大仁街87號2樓 妨害安寧",
     "address_string": "大仁街89號",
     "lat": "23.4658242",
     "long": "120.416467",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-19 06:06:21",
     "expected_datetime": "2017-08-18 23:58:00"
 }
