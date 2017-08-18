@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區崇明路35號違規停車",
     "address_string": "南市東區崇明路35號",
-    "lat": {},
-    "long": {},
+    "lat": "22.971318",
+    "long": "120.225487",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-08-18 08:55:00"
