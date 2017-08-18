@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708160013",
     "requested_datetime": "2017-08-16 05:56:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "臺南市政府都市發展局,臺南市政府環境保護局,臺南市政府警察局",
+    "agency": "臺南市政府都市發展局,臺南市政府環境保護局,臺南市政府警察局永康分局",
     "subproject": "場所連續噪音",
     "description": "永康區埔聖街128、130號",
     "address_string": "永康區埔聖街128、130號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-18 14:20:05",
     "expected_datetime": "2017-08-23 05:56:00"
 }

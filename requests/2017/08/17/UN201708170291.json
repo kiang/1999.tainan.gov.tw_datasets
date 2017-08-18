@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708170291",
     "requested_datetime": "2017-08-17 16:59:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "永康區大同街與大民街交叉口 場所連續噪音",
     "address_string": "永康區大同街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-18 14:26:18",
     "expected_datetime": "2017-08-24 16:59:00"
 }

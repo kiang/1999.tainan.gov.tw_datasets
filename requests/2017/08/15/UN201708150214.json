@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708150214",
     "requested_datetime": "2017-08-15 15:12:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面下陷、凹陷",
     "description": "北區文賢一路與文賢路二段交叉口 路面下陷",
     "address_string": "台南市北區大興街132巷",
     "lat": "23.0122412",
     "long": "120.1905457",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-18 14:51:10",
     "expected_datetime": "2017-08-15 15:12:00"
 }

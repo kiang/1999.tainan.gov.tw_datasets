@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708160188",
     "requested_datetime": "2017-08-16 14:17:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "西港區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "西港區新復里新港34之1號，大琿實業有限公司附近 空氣污染",
     "address_string": "西港區新復里新港34之1號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-18 14:40:47",
     "expected_datetime": "2017-08-23 14:17:00"
 }

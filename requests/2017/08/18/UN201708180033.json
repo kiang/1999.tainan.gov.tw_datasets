@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708180033",
     "requested_datetime": "2017-08-18 08:18:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "遊蕩犬隻捕捉管制",
     "description": "永康區復國二路63巷18號 動物救援",
     "address_string": "永康區復國二路63巷18號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-18 14:30:20",
     "expected_datetime": "2017-08-25 08:18:00"
 }

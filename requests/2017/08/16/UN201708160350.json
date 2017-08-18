@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708160350",
     "requested_datetime": "2017-08-16 20:55:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "永康區南應大附近，中正三街 空氣污染",
     "address_string": "永康區中正三街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-18 14:31:57",
     "expected_datetime": "2017-08-23 20:55:00"
 }
