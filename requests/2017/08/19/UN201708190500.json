@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201708190500",
     "requested_datetime": "2017-08-19 13:24:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "南區中華西路一段玉市、匯豐汽車、小北百貨 違規停車",
     "address_string": "南區中華西路一段玉市",
-    "lat": {},
-    "long": {},
+    "lat": "22.9834839",
+    "long": "120.1860857",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-19 14:50:05",
     "expected_datetime": "2017-08-26 13:24:00"
 }

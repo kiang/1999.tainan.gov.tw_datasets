@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201708190494",
     "requested_datetime": "2017-08-19 13:05:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "東區崇德路785號 違規停車",
     "address_string": "東區崇德路785號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9665964",
+    "long": "120.2276855",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-19 14:39:12",
     "expected_datetime": "2017-08-26 13:05:00"
 }
