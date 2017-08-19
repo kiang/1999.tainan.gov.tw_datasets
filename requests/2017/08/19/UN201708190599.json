@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708190599",
     "requested_datetime": "2017-08-19 18:43:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區公園路862巷口 違停",
     "address_string": "北區公園路862巷",
     "lat": "24.8034357",
     "long": "120.9799871",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-19 21:26:57",
     "expected_datetime": "2017-08-26 18:43:00"
 }
