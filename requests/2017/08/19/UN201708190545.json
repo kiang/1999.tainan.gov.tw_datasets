@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708190545",
+    "requested_datetime": "2017-08-19 15:38:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "中西區衛民街   交通疏導",
+    "address_string": "中西區衛民街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-08-19 17:58:07",
+    "expected_datetime": "2017-08-26 15:38:00"
+}
