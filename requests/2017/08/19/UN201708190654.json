@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區永康火車站 違停",
     "address_string": "永康區永康火車站",
-    "lat": {},
-    "long": {},
+    "lat": "23.0384479",
+    "long": "120.2534362",
     "service_notice": {},
     "updated_datetime": "2017-08-20 02:32:26",
     "expected_datetime": "2017-08-26 21:58:00"

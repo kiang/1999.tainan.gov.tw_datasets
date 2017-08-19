@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區成功路204-2號 違規停車",
     "address_string": "台南市永康區成功路204之2號",
-    "lat": {},
-    "long": {},
+    "lat": "23.010679",
+    "long": "120.233369",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-08-20 01:13:00"
