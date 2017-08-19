@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708190655",
     "requested_datetime": "2017-08-19 22:15:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區勝利街116巷29號 違規停車",
     "address_string": "台南市永康區勝利街116巷29號",
     "lat": "23.001972",
     "long": "120.232609",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-20 02:31:28",
     "expected_datetime": "2017-08-19 22:15:00"
 }
