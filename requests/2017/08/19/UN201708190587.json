@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708190587",
+    "requested_datetime": "2017-08-19 18:03:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區成功路2號 違停",
+    "address_string": "北區成功路2號",
+    "lat": "24.8159258",
+    "long": "120.9573428",
+    "service_notice": {},
+    "updated_datetime": "2017-08-19 18:46:50",
+    "expected_datetime": "2017-08-26 18:03:00"
+}

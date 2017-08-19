@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708190578",
     "requested_datetime": "2017-08-19 17:21:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新市區中正路152號及162號 違規停車",
     "address_string": "新市區中正路152號及162號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-19 18:44:32",
     "expected_datetime": "2017-08-19 17:21:00"
 }
