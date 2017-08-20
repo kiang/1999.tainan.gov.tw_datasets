@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201708200127",
-    "requested_datetime": "2017-08-20 15:25:00",
-    "status": "已完工",
+    "service_request_id": "UN201708200174",
+    "requested_datetime": "2017-08-20 18:34:00",
+    "status": {},
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "台南市政府",
     "subproject": "違規停車",
     "description": "東區林森路一段167號 違規停車",
     "address_string": "東區林森路一段167號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": "2017-08-20 18:35:38",
-    "expected_datetime": "2017-08-20 15:25:00"
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-20 18:34:00"
 }
