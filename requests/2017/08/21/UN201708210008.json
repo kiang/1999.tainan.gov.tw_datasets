@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708210008",
+    "requested_datetime": "2017-08-21 06:02:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "北區公園路239巷",
+    "address_string": "北區公園路239巷",
+    "lat": "24.8068486",
+    "long": "120.9642361",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-28 06:02:00"
+}
