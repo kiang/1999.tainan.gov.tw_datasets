@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708200041",
+    "requested_datetime": "2017-08-20 10:20:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "人孔蓋或溝蓋聲響、鬆動",
+    "description": "永康區大仁街30號門口 路維修",
+    "address_string": "永康區大仁街30號門口",
+    "lat": "23.0053171",
+    "long": "120.258116",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-20 10:20:00"
+}
