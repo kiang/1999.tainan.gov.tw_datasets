@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區中山路52號到2號 違規停車",
     "address_string": "中山路52號到2號",
-    "lat": {},
-    "long": {},
+    "lat": "23.957777",
+    "long": "120.565461",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-08-21 12:31:00"
