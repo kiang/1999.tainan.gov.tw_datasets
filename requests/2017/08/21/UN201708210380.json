@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708210380",
+    "requested_datetime": "2017-08-21 21:17:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區東寧路484號 違規停車",
+    "address_string": "台南市東區東寧路484號",
+    "lat": "22.9892457",
+    "long": "120.2300252",
+    "service_notice": {},
+    "updated_datetime": "2017-08-21 22:56:08",
+    "expected_datetime": "2017-08-21 21:17:00"
+}
