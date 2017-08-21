@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708180014",
     "requested_datetime": "2017-08-18 06:47:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市永康區公所",
     "subproject": "路面坑洞",
     "description": "永康區忠孝路60^260號 路面坑洞",
     "address_string": "永康區忠孝路60^260號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-21 17:07:22",
     "expected_datetime": "2017-08-25 06:47:00"
 }
