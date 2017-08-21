@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708210348",
+    "requested_datetime": "2017-08-21 19:30:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區新民街與新中街交叉 違規停車",
+    "address_string": "永康區新民街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-28 19:30:00"
+}
