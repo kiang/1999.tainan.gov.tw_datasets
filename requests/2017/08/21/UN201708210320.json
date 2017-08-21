@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708210320",
+    "requested_datetime": "2017-08-21 18:27:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "善化區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "善化區陽光北一路151巷口、153巷口、155巷口 違停",
+    "address_string": "善化區陽光北一路151巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-28 18:27:00"
+}
