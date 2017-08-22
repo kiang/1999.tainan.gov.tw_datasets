@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區大學路24號 違規停車",
     "address_string": "東區大學路24號",
-    "lat": {},
-    "long": {},
+    "lat": "24.7891766",
+    "long": "121.0020369",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-08-29 11:36:00"
