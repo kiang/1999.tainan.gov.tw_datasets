@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708220061",
+    "requested_datetime": "2017-08-22 08:36:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "安平區建平十七街與建平路口 交通運輸",
+    "address_string": "708台灣台南市安平區建平十七街與建平路",
+    "lat": "22.997284",
+    "long": "120.1850322",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-22 08:36:00"
+}

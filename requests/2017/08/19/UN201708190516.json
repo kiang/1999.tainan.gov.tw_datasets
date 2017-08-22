@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708190516",
     "requested_datetime": "2017-08-19 14:10:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "麻豆區 空氣汙染",
     "address_string": "麻豆區",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-22 08:15:57",
     "expected_datetime": "2017-08-26 14:10:00"
 }

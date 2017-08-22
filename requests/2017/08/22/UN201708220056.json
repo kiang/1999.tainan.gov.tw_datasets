@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708220056",
+    "requested_datetime": "2017-08-22 08:15:00",
+    "status": {},
+    "keyword": {},
+    "area": "學甲區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "學甲區濟生路170號前 違停",
+    "address_string": "學甲區濟生路170號",
+    "lat": "23.2336949",
+    "long": "120.1804967",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-29 08:15:00"
+}
