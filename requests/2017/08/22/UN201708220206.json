@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708220206",
     "requested_datetime": "2017-08-22 14:09:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "永康區大武街18巷8號 佔用道路",
     "address_string": "大武街18巷8號",
     "lat": "22.3586906",
     "long": "120.9065453",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-22 17:38:19",
     "expected_datetime": "2017-08-22 14:09:00"
 }
