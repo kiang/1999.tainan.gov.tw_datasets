@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708230001",
     "requested_datetime": "2017-08-23 00:19:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區西華南街28号 違規停車",
     "address_string": "西華南街28号",
     "lat": "23.7090687",
     "long": "120.436037",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-23 06:24:08",
     "expected_datetime": "2017-08-23 00:19:00"
 }
