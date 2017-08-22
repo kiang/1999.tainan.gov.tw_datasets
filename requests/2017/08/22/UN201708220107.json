@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708220107",
+    "requested_datetime": "2017-08-22 09:00:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "學甲區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "學甲區頂洲活動中心 妨害安寧",
+    "address_string": "學甲區頂洲活動中心",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-08-22 10:59:07",
+    "expected_datetime": "2017-08-29 09:00:00"
+}
