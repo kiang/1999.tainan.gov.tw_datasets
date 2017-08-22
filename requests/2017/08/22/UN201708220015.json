@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708220015",
     "requested_datetime": "2017-08-22 01:06:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新民街接新中街，麗瓷咖啡店旁 違規停車",
     "address_string": "新民街接新中街，麗瓷咖啡店旁",
     "lat": "23.040171",
     "long": "120.243781",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-22 07:17:06",
     "expected_datetime": "2017-08-22 01:06:00"
 }

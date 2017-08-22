@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708210391",
     "requested_datetime": "2017-08-21 22:07:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "南區中華西路一段155號4樓，舞動人生卡拉OK 妨害安寧",
     "address_string": "南區中華西路一段155號4樓",
     "lat": "25.0773087",
     "long": "121.5189528",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-22 07:35:54",
     "expected_datetime": "2017-08-28 22:07:00"
 }

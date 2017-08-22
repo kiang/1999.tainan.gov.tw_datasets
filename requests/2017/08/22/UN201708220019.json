@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708220019",
     "requested_datetime": "2017-08-22 02:30:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區平生路59號 違規停車",
     "address_string": "平生路 59號",
     "lat": "24.0850051",
     "long": "121.2163221",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-22 07:15:39",
     "expected_datetime": "2017-08-22 02:30:00"
 }

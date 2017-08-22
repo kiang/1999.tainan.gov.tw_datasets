@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708210397",
     "requested_datetime": "2017-08-21 23:33:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "南區興昌路跟大成路一段168巷",
     "address_string": "南區興昌路 大成路一段168巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-22 07:34:56",
     "expected_datetime": "2017-08-28 23:33:00"
 }
