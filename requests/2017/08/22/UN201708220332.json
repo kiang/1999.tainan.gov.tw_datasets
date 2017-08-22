@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708220332",
     "requested_datetime": "2017-08-22 22:53:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "善化區陽明路238巷內，廟前 妨害安寧",
     "address_string": "善化區陽明路238巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-23 05:08:40",
     "expected_datetime": "2017-08-29 22:53:00"
 }
