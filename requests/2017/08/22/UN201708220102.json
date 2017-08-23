@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708220102",
     "requested_datetime": "2017-08-22 09:44:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "仁德區中山路379巷1號對面 空污",
     "address_string": "仁德區中山路379巷1號",
     "lat": "24.8063792",
     "long": "120.9685416",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-23 08:49:54",
     "expected_datetime": "2017-08-29 09:44:00"
 }
