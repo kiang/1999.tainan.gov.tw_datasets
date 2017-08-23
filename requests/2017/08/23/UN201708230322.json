@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區育安街300號 路燈不亮",
     "address_string": "安南區育安街300號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0507859",
+    "long": "120.21527",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-08-30 19:52:00"

@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "永康區中山路362號 交通運輸",
     "address_string": "永康區中山路362號",
-    "lat": {},
-    "long": {},
+    "lat": "25.1410151",
+    "long": "121.7430745",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-08-23 19:35:00"
