@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708240086",
+    "requested_datetime": "2017-08-24 10:48:00",
+    "status": {},
+    "keyword": {},
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "新營區民生路147號 違規停車",
+    "address_string": "730台灣台南市新營區民生路147號",
+    "lat": "23.308977207099186",
+    "long": "120.30813097990108",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-24 10:48:00"
+}
