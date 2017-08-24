@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708240068",
     "requested_datetime": "2017-08-24 10:11:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區民生路一段30到40號 違規停車",
     "address_string": "民生路一段30到40號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-24 16:17:00",
     "expected_datetime": "2017-08-24 10:11:00"
 }

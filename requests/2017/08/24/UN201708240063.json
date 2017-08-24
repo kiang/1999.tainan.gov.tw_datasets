@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708240063",
     "requested_datetime": "2017-08-24 10:00:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區成功路48號  違規停車",
     "address_string": "台灣台南市成功路48號",
     "lat": "23.016118500714345",
     "long": "120.23682331345525",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-24 16:14:22",
     "expected_datetime": "2017-08-24 10:00:00"
 }
