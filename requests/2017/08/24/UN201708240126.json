@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708240126",
+    "requested_datetime": "2017-08-24 12:00:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "佔用人行道",
+    "address_string": "北區東豐路181號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-31 12:00:00"
+}
