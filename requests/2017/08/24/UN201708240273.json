@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708240273",
+    "requested_datetime": "2017-08-24 19:58:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區成功路忠義路 違規停車",
+    "address_string": "北區成功路忠義路",
+    "lat": "22.999375",
+    "long": "120.202497",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-24 19:58:00"
+}
