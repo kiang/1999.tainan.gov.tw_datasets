@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708240148",
+    "requested_datetime": "2017-08-24 13:23:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區平通路471號  違規停車",
+    "address_string": "台南市安平區平通路471號",
+    "lat": "22.99231",
+    "long": "120.181113",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-24 13:23:00"
+}
