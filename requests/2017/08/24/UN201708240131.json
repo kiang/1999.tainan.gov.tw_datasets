@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708240131",
     "requested_datetime": "2017-08-24 12:38:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "仁德區中正路二段丹丹漢堡",
     "address_string": "仁德區中正路二段丹丹漢堡",
     "lat": "22.9680097",
     "long": "120.2528347",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-24 19:05:33",
     "expected_datetime": "2017-08-31 12:38:00"
 }
