@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708220326",
     "requested_datetime": "2017-08-22 21:25:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "北區海安路三段和文成二路交叉口，遠雄建設工程 連續噪音",
     "address_string": "海安路三段",
     "lat": "23.0114877",
     "long": "120.2004125",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-24 08:22:22",
     "expected_datetime": "2017-08-22 21:25:00"
 }

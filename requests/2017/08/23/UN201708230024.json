@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708230024",
     "requested_datetime": "2017-08-23 07:19:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "官田區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "官田區隆田往善化方向.省道307快告近加油站,貓屍",
     "address_string": "官田區隆田新訓中心",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-24 08:50:37",
     "expected_datetime": "2017-08-30 07:19:00"
 }
