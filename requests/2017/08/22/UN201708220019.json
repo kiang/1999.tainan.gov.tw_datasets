@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第四分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區平生路59號 違規停車",
     "address_string": "平生路 59號",
     "lat": "24.0850051",
     "long": "121.2163221",
     "service_notice": {},
-    "updated_datetime": "2017-08-22 07:15:39",
+    "updated_datetime": "2017-08-24 18:10:00",
     "expected_datetime": "2017-08-22 02:30:00"
 }

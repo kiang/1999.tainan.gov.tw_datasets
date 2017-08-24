@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708230318",
     "requested_datetime": "2017-08-23 19:35:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "永康區中山路362號 交通運輸",
     "address_string": "永康區中山路362號",
     "lat": "25.1410151",
     "long": "121.7430745",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-24 18:07:20",
     "expected_datetime": "2017-08-23 19:35:00"
 }

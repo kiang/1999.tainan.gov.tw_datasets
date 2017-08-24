@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708240252",
+    "requested_datetime": "2017-08-24 18:33:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區青年路278號\/青年路258號\/安平區安平路108號\/安平路298號\/安平路370號 違規停車",
+    "address_string": "東區青年路278號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-31 18:33:00"
+}
