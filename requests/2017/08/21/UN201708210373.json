@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708210373",
     "requested_datetime": "2017-08-21 20:54:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "東區裕農路65X號至803號 路燈不亮",
     "address_string": "東區裕農路65X號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-24 17:23:22",
     "expected_datetime": "2017-08-28 20:54:00"
 }
