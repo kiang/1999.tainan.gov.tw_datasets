@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708230339",
     "requested_datetime": "2017-08-23 21:31:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路樹傾倒",
     "description": "歸仁區中山路三段256號 路樹傾倒",
     "address_string": "歸仁區中山路三段256號",
     "lat": "22.967451",
     "long": "120.286748",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-25 10:35:45",
     "expected_datetime": "2017-08-30 21:31:00"
 }
