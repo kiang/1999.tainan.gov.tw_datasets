@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708250333",
     "requested_datetime": "2017-08-25 19:08:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局勤務指揮中心,臺南市停車管理處",
     "subproject": "違規停車",
     "description": "北區東豐路227巷24弄50-2號  違規停車",
     "address_string": "北區東豐路227弄24弄50之2號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-26 00:55:06",
     "expected_datetime": "2017-09-01 19:08:00"
 }
