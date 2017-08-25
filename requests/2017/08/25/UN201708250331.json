@@ -9,8 +9,8 @@
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "官田區台1線與171縣道，往善化方向 路燈不亮",
     "address_string": "官田區台1線171縣道",
-    "lat": {},
-    "long": {},
+    "lat": "23.1734998",
+    "long": "120.3382169",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-09-01 18:59:00"
