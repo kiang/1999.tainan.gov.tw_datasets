@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708230160",
     "requested_datetime": "2017-08-23 12:11:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "北區文成路536巷 民生管線",
     "address_string": "北區文成路536巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-25 15:33:27",
     "expected_datetime": "2017-08-23 12:11:00"
 }

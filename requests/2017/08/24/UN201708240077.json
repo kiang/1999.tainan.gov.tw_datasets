@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708240077",
     "requested_datetime": "2017-08-24 10:23:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "環境髒亂",
     "description": "佳里區六里活動中心 垃圾問題",
     "address_string": "佳里區佳東路327巷20號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-25 15:26:29",
     "expected_datetime": "2017-08-31 10:23:00"
 }
