@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708250366",
     "requested_datetime": "2017-08-25 21:20:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區臨安路二段309號 違規停車",
     "address_string": "台南市北區臨安路二段309號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-26 01:03:34",
     "expected_datetime": "2017-08-25 21:20:00"
 }

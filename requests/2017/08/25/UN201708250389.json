@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708250389",
+    "requested_datetime": "2017-08-25 23:03:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區建平三街65巷和建平一街交叉口 違停",
+    "address_string": "安平區建平三街65巷建平一街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-08-26 01:12:00",
+    "expected_datetime": "2017-09-01 23:03:00"
+}
