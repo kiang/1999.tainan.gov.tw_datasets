@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708260204",
+    "requested_datetime": "2017-08-26 17:33:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "六甲區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "六甲區中山路43巷口 紅線違停",
+    "address_string": "六甲區中山路43巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-08-26 22:51:12",
+    "expected_datetime": "2017-09-02 17:33:00"
+}
