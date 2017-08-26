@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區六合路42巷1號 違規停車",
     "address_string": "六合路42巷1號 巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.9722944",
+    "long": "120.9758455",
     "service_notice": {},
     "updated_datetime": "2017-08-26 06:19:03",
     "expected_datetime": "2017-08-26 03:26:00"
