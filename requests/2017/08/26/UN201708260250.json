@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708260250",
+    "requested_datetime": "2017-08-26 20:00:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安南區安和路五段276巷接安和路六段20巷120弄 紅線違停",
+    "address_string": "安南區安和路五段276巷安和路六段20巷120弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-02 20:00:00"
+}
