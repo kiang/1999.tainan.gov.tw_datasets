@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708260045",
     "requested_datetime": "2017-08-26 09:40:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "違規停車",
     "address_string": "民權路一段的東門圓環到中山路口雙側紅黃線",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-26 16:20:54",
     "expected_datetime": "2017-08-26 09:40:00"
 }
