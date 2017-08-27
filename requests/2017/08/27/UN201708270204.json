@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708270204",
+    "requested_datetime": "2017-08-27 20:59:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "東區林森路一段160號5樓之6 妨害安寧",
+    "address_string": "東區林森路一段160號5樓之6",
+    "lat": "22.9823254",
+    "long": "120.2151008",
+    "service_notice": {},
+    "updated_datetime": "2017-08-27 22:38:20",
+    "expected_datetime": "2017-09-03 20:59:00"
+}
