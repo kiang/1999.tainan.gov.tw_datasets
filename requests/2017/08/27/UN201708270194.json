@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708270194",
+    "requested_datetime": "2017-08-27 20:14:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區中華東路二段48巷與中華東路二段交叉口 違規停車",
+    "address_string": "東區中華東路二段48巷中華東路二段",
+    "lat": "22.9866451",
+    "long": "120.2326492",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-27 20:14:00"
+}
