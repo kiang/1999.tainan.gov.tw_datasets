@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708270044",
+    "requested_datetime": "2017-08-27 08:53:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "北區北忠街16巷41號 空氣汙染",
+    "address_string": "北區北忠街16巷41號",
+    "lat": "22.999261",
+    "long": "120.211934",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-03 08:53:00"
+}
