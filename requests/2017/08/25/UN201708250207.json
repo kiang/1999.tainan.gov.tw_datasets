@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708250207",
     "requested_datetime": "2017-08-25 13:06:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "安南區安和路二段282號 空氣汙染",
     "address_string": "安南區安和路二段282號",
     "lat": "23.0419265",
     "long": "120.2162246",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-28 08:38:06",
     "expected_datetime": "2017-09-01 13:06:00"
 }
