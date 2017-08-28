@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708280009",
     "requested_datetime": "2017-08-28 09:18:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "安平區安平路370巷3弄23號  交通運輸",
     "address_string": "安平區安平路370巷3弄23號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-28 17:23:45",
     "expected_datetime": "2017-08-28 09:18:00"
 }
