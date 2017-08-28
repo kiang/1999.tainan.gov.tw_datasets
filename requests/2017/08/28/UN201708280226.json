@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708280226",
+    "requested_datetime": "2017-08-28 20:23:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區公園路36號 違規停車",
+    "address_string": "北區公園路36號",
+    "lat": "24.1459883",
+    "long": "120.6804063",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-04 20:23:00"
+}
