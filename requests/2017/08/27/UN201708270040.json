@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708270040",
     "requested_datetime": "2017-08-27 08:17:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "北區實踐街23巷20弄8號 連續噪音",
     "address_string": "北區實踐街23巷20弄8號",
     "lat": "25.0800897",
     "long": "121.6954153",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-28 14:07:51",
     "expected_datetime": "2017-08-27 08:17:00"
 }
