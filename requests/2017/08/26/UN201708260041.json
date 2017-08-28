@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708260041",
     "requested_datetime": "2017-08-26 09:33:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "安平區安北路152巷7號，電鍍工廠 空污",
     "address_string": "安平區安北路152巷7號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-28 09:59:11",
     "expected_datetime": "2017-09-02 09:33:00"
 }
