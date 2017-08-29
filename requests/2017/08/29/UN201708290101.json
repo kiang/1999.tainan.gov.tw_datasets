@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708290101",
+    "requested_datetime": "2017-08-29 10:30:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "寬頻管線、孔蓋損壞",
+    "description": "安平運河路21號前 孔蓋遺失",
+    "address_string": "安平運河路21號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-05 10:30:00"
+}
