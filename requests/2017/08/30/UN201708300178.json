@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201708300155",
-    "requested_datetime": "2017-08-30 13:28:00",
+    "service_request_id": "UN201708300178",
+    "requested_datetime": "2017-08-30 14:37:00",
     "status": "已完工",
     "keyword": {},
     "area": "關廟區",
@@ -8,10 +8,10 @@
     "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "關廟區民族街56號 噪音舉發",
-    "address_string": "台南市關廟區民族街56號",
+    "address_string": "關廟區民族街56號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": "2017-08-30 15:54:39",
-    "expected_datetime": "2017-08-30 13:28:00"
+    "updated_datetime": "2017-08-30 15:35:13",
+    "expected_datetime": "2017-08-30 14:37:00"
 }
