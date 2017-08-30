@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區西門路一段576號 違規停車",
     "address_string": "中西區西門路一段576號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9860191",
+    "long": "120.197916",
     "service_notice": {},
     "updated_datetime": "2017-08-30 12:36:05",
     "expected_datetime": "2017-09-06 11:41:00"

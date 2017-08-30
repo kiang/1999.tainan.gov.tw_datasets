@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708280204",
     "requested_datetime": "2017-08-28 18:57:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "北區北門路二段237巷41弄9號 路燈故障",
     "address_string": "704台灣台南市北區北門路二段237巷41弄9號",
     "lat": "23.007139062527180",
     "long": "120.21349562075136",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-30 13:46:23",
     "expected_datetime": "2017-08-28 18:57:00"
 }
