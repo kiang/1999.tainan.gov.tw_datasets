@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708300021",
+    "requested_datetime": "2017-08-30 04:33:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "場所連續噪音",
+    "description": "噪音舉發",
+    "address_string": "704台灣台南市北區北園街80巷63號",
+    "lat": "23.0125421",
+    "long": "120.2235611",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-30 04:33:00"
+}
