@@ -1,5 +1,5 @@
 {
-    "service_request_id": "UN201708310009",
+    "service_request_id": "UN201708310010",
     "requested_datetime": "2017-08-31 01:37:00",
     "status": {},
     "keyword": {},
@@ -7,10 +7,10 @@
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "永康區新民街接新中街，麗瓷咖啡店旁，太平洋房屋對面 違規停車",
-    "address_string": "新民街新中街",
-    "lat": "23.3783159",
-    "long": "120.1513722",
+    "description": "永康區新民街16巷及新民街交界，俐塔造型沙龍旁 違規停車",
+    "address_string": "新民街16巷新民街",
+    "lat": "24.8444472",
+    "long": "120.9984726",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-08-31 01:37:00"
