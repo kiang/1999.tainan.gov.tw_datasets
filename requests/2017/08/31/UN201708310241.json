@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708310241",
+    "requested_datetime": "2017-08-31 17:56:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "六甲區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "六甲區中山路與信義街口 違停",
+    "address_string": "六甲區中山路信義街",
+    "lat": "23.2311819",
+    "long": "120.3492363",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-07 17:56:00"
+}

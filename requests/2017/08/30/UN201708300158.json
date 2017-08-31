@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "安南區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第三分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安南區農產路 違規停車",
     "address_string": "台南市安南區農產路",
     "lat": "23.045698",
     "long": "120.200249",
     "service_notice": {},
-    "updated_datetime": "2017-08-30 14:40:11",
+    "updated_datetime": "2017-08-31 17:55:19",
     "expected_datetime": "2017-08-30 13:39:00"
 }

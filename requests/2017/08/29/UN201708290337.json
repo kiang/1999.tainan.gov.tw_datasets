@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708290337",
     "requested_datetime": "2017-08-29 22:14:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "彩馨家俱行往西港方向，第一個路口右手邊 空氣污染",
     "address_string": "佳里區鎮山里94之73號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-31 18:02:12",
     "expected_datetime": "2017-09-05 22:14:00"
 }
