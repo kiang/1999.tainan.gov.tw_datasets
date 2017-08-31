@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708310286",
+    "requested_datetime": "2017-08-31 21:30:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區民生路一段165號  違規停車",
+    "address_string": "中西區民生路一段165號",
+    "lat": "22.993888",
+    "long": "120.2003829",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-07 21:30:00"
+}
