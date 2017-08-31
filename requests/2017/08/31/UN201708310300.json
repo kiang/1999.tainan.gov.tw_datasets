@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "安平區安北路152巷7號 空汙",
     "address_string": "安平區安北路152巷7號",
-    "lat": {},
-    "long": {},
+    "lat": "23.002669",
+    "long": "120.161746",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-09-07 22:27:00"

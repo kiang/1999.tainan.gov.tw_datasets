@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "中西區民生路一段165號 佔用道路",
     "address_string": "中西區民生路一段165號",
-    "lat": {},
-    "long": {},
+    "lat": "22.993888",
+    "long": "120.2003829",
     "service_notice": {},
     "updated_datetime": "2017-08-31 22:33:24",
     "expected_datetime": "2017-09-07 21:47:00"
