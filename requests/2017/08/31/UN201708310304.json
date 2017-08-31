@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708310304",
     "requested_datetime": "2017-08-31 23:23:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區民族路二段230號石精臼小吃城外面、周邊及對面紅線 違規停車",
     "address_string": "中西區民族路二段230號石精臼小吃城",
     "lat": "22.9972355",
     "long": "120.2015611",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-01 00:26:44",
     "expected_datetime": "2017-08-31 23:23:00"
 }
