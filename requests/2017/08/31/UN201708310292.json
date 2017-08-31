@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708310292",
+    "requested_datetime": "2017-08-31 21:47:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "中西區民生路一段165號 佔用道路",
+    "address_string": "中西區民生路一段165號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-08-31 22:33:24",
+    "expected_datetime": "2017-09-07 21:47:00"
+}
