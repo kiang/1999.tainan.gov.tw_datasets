@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708310046",
     "requested_datetime": "2017-08-31 09:10:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "南區新興路537巷違規停車",
     "address_string": "台南市南區新興路537巷",
     "lat": "22.9748519",
     "long": "120.1880771",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-31 12:42:23",
     "expected_datetime": "2017-08-31 09:10:00"
 }
