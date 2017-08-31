@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708290267",
     "requested_datetime": "2017-08-29 17:58:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南化區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市南化區公所",
     "subproject": "9盞以下路燈故障",
     "description": "南化區西埔里30之2號，附近斜坡上 路燈不亮",
     "address_string": "南化區西埔里30之2號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-31 16:50:46",
     "expected_datetime": "2017-09-05 17:58:00"
 }

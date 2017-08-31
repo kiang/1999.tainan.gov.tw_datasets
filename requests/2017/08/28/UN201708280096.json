@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708280096",
     "requested_datetime": "2017-08-28 15:01:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "遊蕩犬隻捕捉管制",
     "description": "南區鯤鯓路，龍崗國小後面的海堤 捕犬",
     "address_string": "南區鯤鯓路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-31 16:57:41",
     "expected_datetime": "2017-09-04 15:01:00"
 }

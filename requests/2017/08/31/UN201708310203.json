@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708310203",
+    "requested_datetime": "2017-08-31 16:24:00",
+    "status": {},
+    "keyword": {},
+    "area": "新營區",
+    "service_name": "騎樓舉發",
+    "agency": "台南市政府",
+    "subproject": "騎樓舉發",
+    "description": "新營區裕民路14-4號  騎樓舉發",
+    "address_string": "730台灣台南市新營區裕民路14-4號",
+    "lat": "23.302351700324589",
+    "long": "120.30718629877663",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-08-31 16:24:00"
+}

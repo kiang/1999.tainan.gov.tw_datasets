@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708310178",
     "requested_datetime": "2017-08-31 15:05:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區林森路一段158號  違規停車",
     "address_string": "東區林森路一段158號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9808449",
+    "long": "120.2165829",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-31 16:43:15",
     "expected_datetime": "2017-08-31 15:05:00"
 }
