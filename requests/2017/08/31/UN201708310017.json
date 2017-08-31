@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708310017",
     "requested_datetime": "2017-08-31 02:42:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "正道公司對面溪邊鐵皮屋 空氣污染",
     "address_string": "仁德區中正西路1015號",
     "lat": "22.9223463",
     "long": "120.2002797",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-31 09:12:30",
     "expected_datetime": "2017-09-07 02:42:00"
 }
