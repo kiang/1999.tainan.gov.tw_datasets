@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708310267",
+    "requested_datetime": "2017-08-31 19:52:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區公園路597巷58號至80號 路燈不亮",
+    "address_string": "北區公園路597巷58號至80號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-07 19:52:00"
+}
