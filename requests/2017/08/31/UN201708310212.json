@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708310212",
     "requested_datetime": "2017-08-31 16:40:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區民權路一段232號 違規停車",
     "address_string": "民權路一段232號",
     "lat": "24.7531678",
     "long": "121.7517812",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-08-31 18:35:02",
     "expected_datetime": "2017-08-31 16:40:00"
 }
