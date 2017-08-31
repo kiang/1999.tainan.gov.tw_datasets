@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201708310086",
+    "requested_datetime": "2017-08-31 09:37:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "北區西門路四段小北路 號誌故障",
+    "address_string": "北區西門路四段小北路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-07 09:37:00"
+}
