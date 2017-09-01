@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709010110",
+    "requested_datetime": "2017-09-01 10:57:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "交通運輸",
+    "address_string": "台南市南區新興路500巷",
+    "lat": "22.9748519",
+    "long": "120.1880771",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-01 10:57:00"
+}
