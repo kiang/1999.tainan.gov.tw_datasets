@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709010034",
     "requested_datetime": "2017-09-01 08:25:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "東區自由路二段175巷 佔用道路",
     "address_string": "701台灣台南市東區自由路二段175巷",
     "lat": "22.9732515",
     "long": "120.2375135",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-01 13:48:03",
     "expected_datetime": "2017-09-01 08:25:00"
 }

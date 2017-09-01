@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709010052",
     "requested_datetime": "2017-09-01 09:02:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌秒差調整",
     "description": "北區公園路651巷 號誌秒數調整",
     "address_string": "公園路651巷口",
     "lat": "23.5834759",
     "long": "120.1847999",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-01 13:56:49",
     "expected_datetime": "2017-09-01 09:02:00"
 }
