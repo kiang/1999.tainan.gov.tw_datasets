@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708300244",
     "requested_datetime": "2017-08-30 17:20:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府經濟發展局,臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "永康區文賢街68巷1號大灣高中 空氣污染",
     "address_string": "永康區文賢街68巷1號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-01 16:53:57",
     "expected_datetime": "2017-09-06 17:20:00"
 }
