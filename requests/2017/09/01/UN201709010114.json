@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709010114",
+    "requested_datetime": "2017-09-01 11:02:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "永康區中正二街與中正二街336巷路口 溝蓋破損",
+    "address_string": "永康區中正二街與中正二街336巷路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-08 11:02:00"
+}
