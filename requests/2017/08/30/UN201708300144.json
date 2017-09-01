@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201708300144",
     "requested_datetime": "2017-08-30 12:37:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "安南區長溪路二段133巷5號，三永盛塑膠工廠 空污、噪音",
     "address_string": "安南區長溪路二段133巷5號",
     "lat": "23.052881",
     "long": "120.202269",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-01 20:46:22",
     "expected_datetime": "2017-09-06 12:37:00"
 }
