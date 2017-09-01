@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第一分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區東寧路510巷17號 違規停車",
     "address_string": "東區東寧路510巷17號",
     "lat": "22.988902",
     "long": "120.229935",
     "service_notice": {},
-    "updated_datetime": "2017-08-29 17:30:18",
+    "updated_datetime": "2017-09-02 01:26:47",
     "expected_datetime": "2017-08-29 11:45:00"
 }
