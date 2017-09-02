@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709020243",
+    "requested_datetime": "2017-09-02 20:43:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區海安路三段592號 違規停車",
+    "address_string": "台南市北區海安路三段592號",
+    "lat": "23.0114877",
+    "long": "120.2004125",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-02 20:43:00"
+}
