@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709020168",
+    "requested_datetime": "2017-09-02 16:23:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "安南區海中街138巷口 路燈桿遭撞",
+    "address_string": "安南區海中街138巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-09 16:23:00"
+}
