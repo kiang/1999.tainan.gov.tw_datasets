@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "麻豆區民族路19號-1 空氣污染",
     "address_string": "麻豆區民族路19號之1",
-    "lat": {},
-    "long": {},
+    "lat": "23.2305153",
+    "long": "120.1845762",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-09-09 19:36:00"
