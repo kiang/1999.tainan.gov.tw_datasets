@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709020052",
+    "requested_datetime": "2017-09-02 09:47:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局",
+    "subproject": "9盞以下路燈故障",
+    "description": "南區永成路三段71巷21號 路燈不亮",
+    "address_string": "南區永成路三段71巷21號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-09 09:47:00"
+}
