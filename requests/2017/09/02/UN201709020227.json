@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201709020227",
     "requested_datetime": "2017-09-02 19:12:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "違規停車",
@@ -12,6 +12,6 @@
     "lat": "23.188737658486037",
     "long": "120.25207385344243",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-03 01:08:31",
     "expected_datetime": "2017-09-02 19:12:00"
 }

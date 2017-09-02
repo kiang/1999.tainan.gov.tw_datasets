@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709020240",
     "requested_datetime": "2017-09-02 20:18:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "東區中華東路三段242號 騎樓舉發",
     "address_string": "701台灣台南市東區中華東路三段242號",
     "lat": "22.9759645",
     "long": "120.2249586",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-03 01:13:28",
     "expected_datetime": "2017-09-02 20:18:00"
 }
