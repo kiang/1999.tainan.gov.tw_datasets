@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201709030053",
     "requested_datetime": "2017-09-03 10:04:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "新營區新進路二段94號違規停車",
     "address_string": "新營區新進路二段94號",
-    "lat": {},
-    "long": {},
+    "lat": "23.3006551",
+    "long": "120.310751",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-03 12:54:02",
     "expected_datetime": "2017-09-03 10:04:00"
 }

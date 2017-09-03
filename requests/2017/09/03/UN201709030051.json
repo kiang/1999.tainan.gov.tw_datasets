@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區海安路神農街 違規停車",
     "address_string": "中西區海安路神農街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9972946",
+    "long": "120.1971875",
     "service_notice": {},
     "updated_datetime": "2017-09-03 09:56:28",
     "expected_datetime": "2017-09-10 09:23:00"
