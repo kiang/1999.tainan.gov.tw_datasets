@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201709030106",
     "requested_datetime": "2017-09-03 13:26:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "六甲區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "六甲區中山路43巷口\/中正路485巷內 違規停車",
     "address_string": "六甲區中山路43巷\/中正路485巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.2299638",
+    "long": "120.3502512",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-03 15:03:57",
     "expected_datetime": "2017-09-10 13:26:00"
 }
