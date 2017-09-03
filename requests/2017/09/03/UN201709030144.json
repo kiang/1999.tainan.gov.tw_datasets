@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "北區北忠街16巷41號  空氣污染",
     "address_string": "北區北忠街16巷41號",
-    "lat": {},
-    "long": {},
+    "lat": "22.999261",
+    "long": "120.211934",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-09-10 17:00:00"
