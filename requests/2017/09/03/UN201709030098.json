@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709030098",
+    "requested_datetime": "2017-09-03 13:06:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區立賢二段120號開始往海安路、立賢一路方向 路燈不亮",
+    "address_string": "北區立賢二段120號開始往海安路、立賢一路方向",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-10 13:06:00"
+}
