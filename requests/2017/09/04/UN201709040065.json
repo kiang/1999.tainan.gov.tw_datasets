@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709040065",
+    "requested_datetime": "2017-09-04 09:38:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區建平五街184巷16號附近 違規停車",
+    "address_string": "708台灣台南市安平區建平五街184巷16號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-09-04 10:39:34",
+    "expected_datetime": "2017-09-04 09:38:00"
+}

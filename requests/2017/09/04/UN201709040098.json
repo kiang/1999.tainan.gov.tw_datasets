@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709040098",
+    "requested_datetime": "2017-09-04 10:32:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "安南區海佃路一段270巷9號到11號前 坑洞",
+    "address_string": "安南區海佃路一段270巷9號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-11 10:32:00"
+}
