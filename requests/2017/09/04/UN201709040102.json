@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709040102",
+    "requested_datetime": "2017-09-04 10:37:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "中西區永華路一段與文南路口 號誌故障",
+    "address_string": "中西區永華路一段文南路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-11 10:37:00"
+}
