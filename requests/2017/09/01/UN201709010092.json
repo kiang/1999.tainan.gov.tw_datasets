@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709010092",
     "requested_datetime": "2017-09-01 10:21:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "環境髒亂",
     "description": "東區大同路二段249號 環境髒亂",
     "address_string": "東區大同路二段249號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-04 08:35:16",
     "expected_datetime": "2017-09-08 10:21:00"
 }
