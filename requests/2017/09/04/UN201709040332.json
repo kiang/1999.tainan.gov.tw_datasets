@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709040332",
+    "requested_datetime": "2017-09-04 20:54:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "東區勝利路與育樂街口 佔用道路",
+    "address_string": "東區勝利路",
+    "lat": "24.8006365",
+    "long": "120.9684198",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-11 20:54:00"
+}

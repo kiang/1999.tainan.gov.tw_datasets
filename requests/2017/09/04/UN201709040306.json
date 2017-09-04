@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區北園街124巷10弄 違規停車",
     "address_string": "台南市北區北園街124巷10弄",
-    "lat": {},
-    "long": {},
+    "lat": "23.013775",
+    "long": "120.2232864",
     "service_notice": {},
     "updated_datetime": "2017-09-04 21:02:23",
     "expected_datetime": "2017-09-04 20:19:00"

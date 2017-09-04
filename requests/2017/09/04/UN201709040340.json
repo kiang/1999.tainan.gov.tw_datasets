@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709040340",
+    "requested_datetime": "2017-09-04 22:10:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "後壁區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "後壁區崁頂里66號之一 妨害安寧",
+    "address_string": "後壁區崁頂里66號之一",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-09-04 23:00:03",
+    "expected_datetime": "2017-09-11 22:10:00"
+}
