@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709030141",
     "requested_datetime": "2017-09-03 16:54:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新化區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "新化區全興里171之6號 髒亂及汙染",
     "address_string": "全興里171之6號（凌明美術館）",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-04 14:31:02",
     "expected_datetime": "2017-09-03 16:54:00"
 }
