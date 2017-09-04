@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區海安路三段586號違規停車",
     "address_string": "北區海安路三段586號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0131689",
+    "long": "120.2002841",
     "service_notice": {},
     "updated_datetime": "2017-09-04 06:58:34",
     "expected_datetime": "2017-09-03 20:41:00"
