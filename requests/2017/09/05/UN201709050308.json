@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區成功路437號與435號 違規停車",
     "address_string": "中西區成功路437號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0011079",
+    "long": "120.1962274",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-09-12 20:38:00"
