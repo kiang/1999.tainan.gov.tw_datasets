@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709030208",
     "requested_datetime": "2017-09-03 22:00:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市永康區公所",
     "subproject": "路面坑洞",
     "description": "永康區龍埔街和永大路交叉口，龍埔街代天府旁，快車道上 路面坑洞",
     "address_string": "永康區龍埔街永大路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-05 09:10:35",
     "expected_datetime": "2017-09-10 22:00:00"
 }
