@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709050043",
+    "requested_datetime": "2017-09-05 08:53:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區安平路與安平路446巷交叉路口 違規停車",
+    "address_string": "安平區安平路與安平路446巷交叉路口",
+    "lat": "22.9994474",
+    "long": "120.1732841",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-05 08:53:00"
+}

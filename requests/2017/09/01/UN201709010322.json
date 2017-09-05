@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709010322",
     "requested_datetime": "2017-09-01 20:13:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "六甲區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市六甲區公所",
     "subproject": "路面掏空、塌陷",
     "description": "六甲區民族街11巷與中山路80巷27弄口處 道路維修",
     "address_string": "六甲區民族街11巷與中山路80巷27弄口處",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-05 08:45:01",
     "expected_datetime": "2017-09-01 20:13:00"
 }
