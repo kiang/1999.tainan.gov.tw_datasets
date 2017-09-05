@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "官田區富強路57號 路燈故障",
     "address_string": "官田區富強路57號",
-    "lat": {},
-    "long": {},
+    "lat": "23.2058873",
+    "long": "120.3195807",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-09-12 22:45:00"
