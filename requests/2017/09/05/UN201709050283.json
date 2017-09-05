@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709050283",
+    "requested_datetime": "2017-09-05 19:20:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "南區萬年路與明興路口 空污",
+    "address_string": "南區萬年路明興路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-12 19:20:00"
+}
