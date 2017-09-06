@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201709050340",
     "requested_datetime": "2017-09-05 22:45:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "官田區",
     "service_name": "路燈故障",
@@ -12,6 +12,6 @@
     "lat": "23.2058873",
     "long": "120.3195807",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-06 16:08:42",
     "expected_datetime": "2017-09-12 22:45:00"
 }

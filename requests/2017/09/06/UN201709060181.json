@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709060181",
+    "requested_datetime": "2017-09-06 16:16:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "永康區中華路二段290號往永康區家樂福路",
+    "address_string": "永康區中華路二段290號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-13 16:16:00"
+}
