@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709040280",
     "requested_datetime": "2017-09-04 19:15:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "永康區中正路970巷18弄1號 場所連續噪音",
     "address_string": "710台灣台南市永康區中正路970巷18弄1號",
     "lat": "23.04061958850051",
     "long": "120.23889139277621",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-06 09:01:38",
     "expected_datetime": "2017-09-04 19:15:00"
 }
