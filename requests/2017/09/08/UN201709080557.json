@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709080557",
+    "requested_datetime": "2017-09-08 16:57:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區和緯黃昏市場附近中華北路上 併排違停",
+    "address_string": "北區中華北路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-15 16:57:00"
+}
