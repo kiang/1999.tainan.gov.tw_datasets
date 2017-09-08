@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201709080571",
     "requested_datetime": "2017-09-08 17:37:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "中西區西華南街32號 違規停車",
     "address_string": "中西區西華南街32號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9946816",
+    "long": "120.2096086",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-08 18:13:24",
     "expected_datetime": "2017-09-08 17:37:00"
 }
