@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區西門路三段268號前 黃線違停",
     "address_string": "北區西門路三段268號",
-    "lat": {},
-    "long": {},
+    "lat": "24.833258",
+    "long": "120.9491743",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-09-15 13:59:00"
