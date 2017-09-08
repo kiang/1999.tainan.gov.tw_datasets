@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709080374",
+    "requested_datetime": "2017-09-08 09:25:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "佳里區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "佳里區新生路與育善街口 號誌故障",
+    "address_string": "佳里區新生路育善街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-15 09:25:00"
+}
