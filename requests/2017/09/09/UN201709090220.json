@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709090220",
+    "requested_datetime": "2017-09-09 19:52:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區夏林路與健康路 違規停車",
+    "address_string": "南區夏林路健康路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-16 19:52:00"
+}
