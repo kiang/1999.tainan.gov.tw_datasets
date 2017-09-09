@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709080666",
     "requested_datetime": "2017-09-08 22:46:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "南區體育路市立棒球場 連續噪音",
     "address_string": "南區體育路市立棒球場",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-09 20:47:12",
     "expected_datetime": "2017-09-15 22:46:00"
 }
