@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709090106",
     "requested_datetime": "2017-09-09 13:22:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區六合路42巷1號 違規停車",
     "address_string": "六合路42巷1巷",
     "lat": "23.5750976",
     "long": "119.5807447",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-09 18:17:37",
     "expected_datetime": "2017-09-09 13:22:00"
 }
