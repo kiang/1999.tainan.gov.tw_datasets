@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709090223",
+    "requested_datetime": "2017-09-09 20:09:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區永華路一段290號左右 紅線違停",
+    "address_string": "中西區永華路一段290號",
+    "lat": "22.9889911",
+    "long": "120.1887508",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-16 20:09:00"
+}
