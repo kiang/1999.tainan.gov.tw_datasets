@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709090097",
     "requested_datetime": "2017-09-09 12:42:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區府連路204巷29弄口 違停",
     "address_string": "東區府連路204巷29弄",
-    "lat": {},
-    "long": {},
+    "lat": "22.9847461",
+    "long": "120.215482",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-09 15:56:57",
     "expected_datetime": "2017-09-16 12:42:00"
 }
