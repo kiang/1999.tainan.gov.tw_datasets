@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709100087",
     "requested_datetime": "2017-09-10 12:16:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "麻豆區阿蘭碗粿圓環 違規停車",
     "address_string": "麻豆區中山路179之8號",
     "lat": "23.1846769",
     "long": "120.2416207",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-10 18:50:59",
     "expected_datetime": "2017-09-10 12:16:00"
 }
