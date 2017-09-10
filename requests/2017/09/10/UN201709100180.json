@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709100180",
+    "requested_datetime": "2017-09-10 17:47:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區崑大路3～227號 違停",
+    "address_string": "永康區崑大路3號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-17 17:47:00"
+}
