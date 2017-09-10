@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709100200",
     "requested_datetime": "2017-09-10 18:47:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區民族路二段71號違規停車",
     "address_string": "Reebok:中西區民族路二段71號",
     "lat": "22.9666985",
     "long": "120.2934446",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-10 22:58:06",
     "expected_datetime": "2017-09-10 18:47:00"
 }
