@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709110021",
+    "requested_datetime": "2017-09-11 08:13:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區大同路二段730巷23號 違規停車",
+    "address_string": "702台灣台南市南區大同路二段730巷23號",
+    "lat": "22.9660771",
+    "long": "120.2153783",
+    "service_notice": {},
+    "updated_datetime": "2017-09-11 10:10:24",
+    "expected_datetime": "2017-09-11 08:13:00"
+}

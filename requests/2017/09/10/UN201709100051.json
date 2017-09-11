@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709100051",
     "requested_datetime": "2017-09-10 09:52:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "歸仁區民族北街6號 音舉發",
     "address_string": "台南市歸仁區民族北街6號",
     "lat": "22.9729656",
     "long": "120.2923872",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-11 09:02:35",
     "expected_datetime": "2017-09-10 09:52:00"
 }

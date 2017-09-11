@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709110097",
+    "requested_datetime": "2017-09-11 11:07:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區府前三街138號  違規停車",
+    "address_string": "708台灣台南市安平區府前三街138號",
+    "lat": "22.9945939",
+    "long": "120.1850547",
+    "service_notice": {},
+    "updated_datetime": "2017-09-11 12:29:00",
+    "expected_datetime": "2017-09-11 11:07:00"
+}

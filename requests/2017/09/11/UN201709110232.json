@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709110232",
+    "requested_datetime": "2017-09-11 16:56:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌故障",
+    "description": "北區公園北路156號 號誌故障",
+    "address_string": "北區公園北路156號",
+    "lat": "23.0052995",
+    "long": "120.2078873",
+    "service_notice": {},
+    "updated_datetime": "2017-09-11 17:41:37",
+    "expected_datetime": "2017-09-11 16:56:00"
+}

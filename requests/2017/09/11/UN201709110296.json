@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709110296",
+    "requested_datetime": "2017-09-11 20:23:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區林森路三段280號286號 違規停車",
+    "address_string": "北區林森路三段280號286號",
+    "lat": "23.0066086",
+    "long": "120.2241747",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-11 20:23:00"
+}

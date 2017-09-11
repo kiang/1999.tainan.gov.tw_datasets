@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709100201",
     "requested_datetime": "2017-09-10 18:44:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "10盞以上路燈故障",
     "description": "北區文賢一路25號對面 路燈故障",
     "address_string": "北區文賢一路25號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-11 10:00:33",
     "expected_datetime": "2017-09-17 18:44:00"
 }

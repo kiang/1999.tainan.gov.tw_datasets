@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709110105",
+    "requested_datetime": "2017-09-11 11:23:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區大同路750巷26號  違規停車",
+    "address_string": "702台灣台南市南區大同路750巷26號",
+    "lat": "22.9660257",
+    "long": "120.2154234",
+    "service_notice": {},
+    "updated_datetime": "2017-09-11 12:32:27",
+    "expected_datetime": "2017-09-11 11:23:00"
+}

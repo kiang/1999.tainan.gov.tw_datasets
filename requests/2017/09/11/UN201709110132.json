@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709110132",
+    "requested_datetime": "2017-09-11 12:41:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區仁和路139巷51弄和自由路交叉口 違停",
+    "address_string": "東區仁和路139巷51弄和自由路交叉口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-09-11 18:26:34",
+    "expected_datetime": "2017-09-18 12:41:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709110053",
+    "requested_datetime": "2017-09-11 09:19:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市安平區公所,臺南市政府環境保護局",
+    "subproject": "場所連續噪音",
+    "description": "安平區育平八街*育平七街60巷 施工噪音",
+    "address_string": "安平區育平八街*育平七街60巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-18 09:19:00"
+}
