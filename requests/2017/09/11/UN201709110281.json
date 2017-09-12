@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709110281",
     "requested_datetime": "2017-09-11 19:46:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "善化區自立路與建國路口 違規停車",
     "address_string": "台南市善化區自立路建國路",
     "lat": "23.1324288",
     "long": "120.2967849",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-12 07:26:49",
     "expected_datetime": "2017-09-11 19:46:00"
 }
