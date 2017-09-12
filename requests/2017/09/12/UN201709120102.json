@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709120102",
+    "requested_datetime": "2017-09-12 11:18:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面下陷、凹陷",
+    "description": "安南區海佃路一段160號 路面凹陷",
+    "address_string": "安南區海佃路一段160號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-19 11:18:00"
+}
