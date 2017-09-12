@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709120198",
+    "requested_datetime": "2017-09-12 16:08:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府工務局,臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "中西區西門路一段670號 交通疏導",
+    "address_string": "中西區西門路一段670號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-19 16:08:00"
+}
