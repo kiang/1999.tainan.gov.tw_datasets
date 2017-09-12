@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709120229",
+    "requested_datetime": "2017-09-12 16:59:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "安南區十二佃公學路四段54巷 空氣汙染",
+    "address_string": "安南區十二佃公學路四段54巷",
+    "lat": "23.0700936",
+    "long": "120.1783038",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-19 16:59:00"
+}
