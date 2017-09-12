@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區西門路二段413^419號 紅線違停",
     "address_string": "中西區西門路二段413^419號",
-    "lat": {},
-    "long": {},
+    "lat": "22.998647",
+    "long": "120.200534",
     "service_notice": {},
     "updated_datetime": "2017-09-13 02:35:47",
     "expected_datetime": "2017-09-20 00:44:00"
