@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709080408",
     "requested_datetime": "2017-09-08 10:34:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "遊蕩犬隻捕捉管制",
     "description": "善化區文正里文正路79巷20-8  野貓跑進民宅",
     "address_string": "善化區文正里文正路79巷20-8",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-12 09:08:02",
     "expected_datetime": "2017-09-15 10:34:00"
 }
