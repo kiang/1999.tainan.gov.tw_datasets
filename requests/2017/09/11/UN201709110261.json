@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709110261",
     "requested_datetime": "2017-09-11 18:29:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "歸仁區和順路和台39線交叉口，高鐵橋下，南往北快車道上，號誌故障",
     "address_string": "歸仁區和順路台39線",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-12 14:19:42",
     "expected_datetime": "2017-09-18 18:29:00"
 }
