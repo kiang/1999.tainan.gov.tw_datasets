@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709090126",
     "requested_datetime": "2017-09-09 15:01:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "左鎮區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "左鎮區內庄里58號 挖斷自來水管",
     "address_string": "左鎮區內庄里58號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-12 15:44:59",
     "expected_datetime": "2017-09-16 15:01:00"
 }
