@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201709090214",
     "requested_datetime": "2017-09-09 19:30:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "後壁區",
     "service_name": "路燈故障",
@@ -12,6 +12,6 @@
     "lat": "23.372424",
     "long": "120.38825",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-13 09:05:14",
     "expected_datetime": "2017-09-16 19:30:00"
 }
