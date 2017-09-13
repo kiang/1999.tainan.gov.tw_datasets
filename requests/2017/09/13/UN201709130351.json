@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709130351",
     "requested_datetime": "2017-09-13 22:20:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區公園路433巷 違規停車",
     "address_string": "台南市北區公園路433巷（國姓里活動中心）",
     "lat": "23.0077939",
     "long": "120.2090093",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-14 04:26:52",
     "expected_datetime": "2017-09-13 22:20:00"
 }
