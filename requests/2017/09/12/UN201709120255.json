@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709120255",
     "requested_datetime": "2017-09-12 18:49:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "南區鯤鯓路160號  路面坑洞",
     "address_string": "南區鯤鯓路160號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-13 17:16:29",
     "expected_datetime": "2017-09-19 18:49:00"
 }

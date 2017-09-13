@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709130261",
+    "requested_datetime": "2017-09-13 17:12:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "永康區永大路,維冠大樓對面 路燈",
+    "address_string": "永康區永大路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-20 17:12:00"
+}

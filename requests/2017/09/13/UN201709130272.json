@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709130272",
+    "requested_datetime": "2017-09-13 17:43:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "南區健康路二段373號 佔用道路",
+    "address_string": "南區健康路二段373號",
+    "lat": "25.0556478",
+    "long": "121.5710048",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-20 17:43:00"
+}
