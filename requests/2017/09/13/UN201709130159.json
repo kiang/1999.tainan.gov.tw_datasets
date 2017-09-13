@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區東門路一段142號違規停車",
     "address_string": "東區東門路一段142號",
-    "lat": {},
-    "long": {},
+    "lat": "24.815439",
+    "long": "120.992481",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-09-13 12:57:00"
