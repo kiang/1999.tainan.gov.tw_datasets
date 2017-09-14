@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709140319",
+    "requested_datetime": "2017-09-14 19:33:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區文成路477巷1號前 路燈不亮",
+    "address_string": "北區文成路477巷1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-21 19:33:00"
+}
