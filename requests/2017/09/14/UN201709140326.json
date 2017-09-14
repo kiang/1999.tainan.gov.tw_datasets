@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709140326",
     "requested_datetime": "2017-09-14 19:53:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新市區中正路 違規停車",
     "address_string": "中正路",
     "lat": "23.984755",
     "long": "120.7468745",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-15 06:11:44",
     "expected_datetime": "2017-09-14 19:53:00"
 }
