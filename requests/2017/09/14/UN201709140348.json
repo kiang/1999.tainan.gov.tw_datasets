@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709140348",
+    "requested_datetime": "2017-09-14 21:10:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區長榮路四段95號 違規停車",
+    "address_string": "長榮路四段95號",
+    "lat": "24.791331",
+    "long": "120.938574",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-14 21:10:00"
+}
