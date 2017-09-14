@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709140038",
     "requested_datetime": "2017-09-14 08:47:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區富農街一段218巷12\/33號 違規停車",
     "address_string": "東區富農街一段218巷12\/33號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-14 13:20:57",
     "expected_datetime": "2017-09-14 08:47:00"
 }

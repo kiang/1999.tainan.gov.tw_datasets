@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709130092",
     "requested_datetime": "2017-09-13 10:28:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市新營區公所",
     "subproject": "9盞以下路燈故障",
     "description": "新營區三民路38之10號前 路燈故障",
     "address_string": "新營區三民路38之10號前",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-14 13:26:02",
     "expected_datetime": "2017-09-20 10:28:00"
 }

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709140025",
     "requested_datetime": "2017-09-14 07:58:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區東寧路170巷18號 違規停車",
     "address_string": "臺南市東區東寧路170巷18號",
     "lat": "22.9908379",
     "long": "120.2218836",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-14 13:17:54",
     "expected_datetime": "2017-09-14 07:58:00"
 }

@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區大同路二段706號 紅黃線違停",
     "address_string": "南區大同路二段706號",
-    "lat": {},
-    "long": {},
+    "lat": "25.1345457",
+    "long": "121.4964825",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-09-21 12:33:00"

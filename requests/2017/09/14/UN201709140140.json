@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "中西區保安路、海安路口 交通運輸",
     "address_string": "保安路海安路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9912525",
+    "long": "120.1955972",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-09-14 12:07:00"

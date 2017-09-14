@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新營區隋唐街228號 違停",
     "address_string": "新營區隋唐街228號",
-    "lat": {},
-    "long": {},
+    "lat": "23.3084846",
+    "long": "120.2998812",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-09-21 11:37:00"
