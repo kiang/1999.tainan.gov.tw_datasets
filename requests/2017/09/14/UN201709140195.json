@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709140195",
     "requested_datetime": "2017-09-14 15:03:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "北區公園路659號 路面漏水",
     "address_string": "北區公園路659號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-15 16:33:26",
     "expected_datetime": "2017-09-21 15:03:00"
 }
