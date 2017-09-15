@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局永康分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區六合路42巷1號 違規停車",
     "address_string": "六合路42巷1號",
     "lat": "23.5703566",
     "long": "119.581669",
     "service_notice": {},
-    "updated_datetime": "2017-09-12 17:09:34",
+    "updated_datetime": "2017-09-15 15:37:33",
     "expected_datetime": "2017-09-12 13:23:00"
 }
