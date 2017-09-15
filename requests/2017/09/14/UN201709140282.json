@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709140282",
     "requested_datetime": "2017-09-14 18:35:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "10盞以上路燈故障",
     "description": "永康區永大路二段與文化路口，往仁德方向 10盞以上路燈不亮",
     "address_string": "永康區永大路二段文化路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-15 09:56:52",
     "expected_datetime": "2017-09-21 18:35:00"
 }

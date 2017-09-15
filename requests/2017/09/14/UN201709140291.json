@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709140291",
     "requested_datetime": "2017-09-14 18:48:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "安南區城西街一段194巷10號旁 路燈不亮",
     "address_string": "安南區城西街一段194巷10號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-15 09:56:08",
     "expected_datetime": "2017-09-21 18:48:00"
 }
