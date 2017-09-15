@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709150085",
+    "requested_datetime": "2017-09-15 10:50:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區文賢三街265巷口  路燈故障",
+    "address_string": "704台灣台南市北區文賢三街265巷口",
+    "lat": "23.0145952",
+    "long": "120.1982446",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-15 10:50:00"
+}
