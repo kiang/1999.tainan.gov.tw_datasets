@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709150116",
+    "requested_datetime": "2017-09-15 12:02:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面下陷、凹陷",
+    "description": "安南區海佃路一段189號 路面凹陷",
+    "address_string": "安南區海佃路一段189號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-22 12:02:00"
+}
