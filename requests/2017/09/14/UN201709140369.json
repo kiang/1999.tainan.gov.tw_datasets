@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安南區同安路262巷41號旁 違規停車",
     "address_string": "台南市安南區同安路262巷41號",
-    "lat": {},
-    "long": {},
+    "lat": "23.041903",
+    "long": "120.191571",
     "service_notice": {},
     "updated_datetime": "2017-09-15 06:21:56",
     "expected_datetime": "2017-09-14 23:12:00"

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709150016",
+    "requested_datetime": "2017-09-15 06:59:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區五王里中山東路292巷口  紅線違停",
+    "address_string": "永康區五王里中山東路292巷口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-22 06:59:00"
+}
