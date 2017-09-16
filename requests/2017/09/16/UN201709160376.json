@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "永康區小東路與中華路口，彰化銀行 佔用道路",
     "address_string": "永康區小東路中華路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9986054",
+    "long": "120.2348619",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-09-23 09:29:00"
