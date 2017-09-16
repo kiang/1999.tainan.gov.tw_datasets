@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709160354",
+    "requested_datetime": "2017-09-16 07:59:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區慶東街101號左右、93號 違停",
+    "address_string": "東區慶東街101號左右、93號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-23 07:59:00"
+}
