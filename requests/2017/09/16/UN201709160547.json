@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709160547",
+    "requested_datetime": "2017-09-16 19:41:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區華興街119號 違規停車",
+    "address_string": "710台灣台南市永康區華興街123號",
+    "lat": "23.0007167",
+    "long": "120.2362513",
+    "service_notice": {},
+    "updated_datetime": "2017-09-16 23:33:11",
+    "expected_datetime": "2017-09-16 19:41:00"
+}
