@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709160339",
+    "requested_datetime": "2017-09-16 03:01:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "新行街122巷與新民街66巷交界違規停車",
+    "address_string": "新行街122巷與新民街66巷交界",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-09-16 07:09:52",
+    "expected_datetime": "2017-09-16 03:01:00"
+}
