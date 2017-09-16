@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709160570",
+    "requested_datetime": "2017-09-16 21:29:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "學甲區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "學甲區中學路 違停",
+    "address_string": "學甲區中學路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-23 21:29:00"
+}
