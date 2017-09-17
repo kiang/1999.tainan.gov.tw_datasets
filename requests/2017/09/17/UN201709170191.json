@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709170191",
+    "requested_datetime": "2017-09-17 20:56:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "南區永成路三段328號 佔用道路",
+    "address_string": "南區永成路三段328號",
+    "lat": "25.0587497",
+    "long": "121.4899633",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-24 20:56:00"
+}
