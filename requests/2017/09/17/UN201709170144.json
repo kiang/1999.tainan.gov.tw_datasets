@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709170144",
+    "requested_datetime": "2017-09-17 17:28:00",
+    "status": {},
+    "keyword": {},
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "新營區東興三街22巷 違規停車",
+    "address_string": "新營區東興三街22巷",
+    "lat": "23.3157256",
+    "long": "120.322026",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-17 17:28:00"
+}
