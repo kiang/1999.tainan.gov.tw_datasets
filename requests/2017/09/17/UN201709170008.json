@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709170008",
     "requested_datetime": "2017-09-17 02:03:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "安平區安平路576號  場所連續噪音",
     "address_string": "安平區安平路576號",
     "lat": "24.62677",
     "long": "121.7883666",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-17 20:36:52",
     "expected_datetime": "2017-09-24 02:03:00"
 }

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709160541",
     "requested_datetime": "2017-09-16 19:29:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "安平區府前路二段630號，碳佐麻里-台南府前店 空氣汙染",
     "address_string": "台南市安平區府前路二段630號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-17 20:23:28",
     "expected_datetime": "2017-09-16 19:29:00"
 }
