@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "臺南市東區崇善路245號違規停車",
     "address_string": "臺南市東區崇善路245號",
-    "lat": {},
-    "long": {},
+    "lat": "22.967385",
+    "long": "120.232291",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-09-17 18:45:00"
