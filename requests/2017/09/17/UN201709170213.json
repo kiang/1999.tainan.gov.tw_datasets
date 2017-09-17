@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709170213",
+    "requested_datetime": "2017-09-17 23:30:00",
+    "status": {},
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安南區北安路與聖安街口 違規停車",
+    "address_string": "臺南市安南區北安路",
+    "lat": "23.035777",
+    "long": "120.2031879",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-17 23:30:00"
+}
