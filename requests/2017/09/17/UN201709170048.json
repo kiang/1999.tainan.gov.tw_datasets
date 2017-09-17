@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709170048",
+    "requested_datetime": "2017-09-17 10:52:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區夏林路與樹林街二段 違規停車",
+    "address_string": "南區夏林路樹林街二段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-24 10:52:00"
+}
