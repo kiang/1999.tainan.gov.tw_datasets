@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709170100",
+    "requested_datetime": "2017-09-17 14:12:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "玉井區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "玉井區中正路139號農會前面  違規停車",
+    "address_string": "玉井區中正路139號",
+    "lat": "23.1254472",
+    "long": "120.4621214",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-24 14:12:00"
+}

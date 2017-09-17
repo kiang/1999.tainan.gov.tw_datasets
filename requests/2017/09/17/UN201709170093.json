@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區南台街54巷61號 違停",
     "address_string": "永康區南台街54巷61號",
-    "lat": {},
-    "long": {},
+    "lat": "23.022615",
+    "long": "120.2252855",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-09-24 13:49:00"
