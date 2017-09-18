@@ -9,8 +9,8 @@
     "subproject": "交通疏導",
     "description": "仁德火車站平交道  交通疏導",
     "address_string": "仁德火車站平交道",
-    "lat": {},
-    "long": {},
+    "lat": "22.9234",
+    "long": "120.240447",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-09-25 18:16:00"
