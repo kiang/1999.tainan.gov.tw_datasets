@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "歸仁區長榮路一段713號  空污",
     "address_string": "歸仁區長榮路一段713號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9099145",
+    "long": "120.2753411",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-09-26 22:27:00"
