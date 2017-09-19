@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709190016",
+    "requested_datetime": "2017-09-19 07:24:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區怡平路*永華八街  違停",
+    "address_string": "安平區怡平路*永華八街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-09-19 07:57:47",
+    "expected_datetime": "2017-09-26 07:24:00"
+}
