@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709190022",
+    "requested_datetime": "2017-09-19 08:04:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "南區德興路99樓前 號誌故障",
+    "address_string": "南區德興路99樓前",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-26 08:04:00"
+}
