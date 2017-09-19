@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "柳營區中山西路一段111號至115號後方 空污",
     "address_string": "柳營區中山西路一段111號",
-    "lat": {},
-    "long": {},
+    "lat": "23.2790932",
+    "long": "120.3222512",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-09-26 16:34:00"
