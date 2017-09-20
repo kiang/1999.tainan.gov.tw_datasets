@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709200285",
     "requested_datetime": "2017-09-20 20:39:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區長榮路二段180號 違規停車",
     "address_string": "長榮路二段180號",
     "lat": "24.108557",
     "long": "120.684216",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-20 23:55:01",
     "expected_datetime": "2017-09-20 20:39:00"
 }
