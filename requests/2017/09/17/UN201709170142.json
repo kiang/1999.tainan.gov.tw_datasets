@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新化區中正路290號 違規停車",
     "address_string": "新化區中正路290號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0425292",
+    "long": "120.3053191",
     "service_notice": {},
     "updated_datetime": "2017-09-17 18:46:18",
     "expected_datetime": "2017-09-17 17:28:00"
