@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709200187",
+    "requested_datetime": "2017-09-20 15:03:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "永康區復華三街26號 妨害安寧",
+    "address_string": "永康區復華三街26號",
+    "lat": "23.00953",
+    "long": "120.244689",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-27 15:03:00"
+}
