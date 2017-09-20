@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709190316",
     "requested_datetime": "2017-09-19 21:05:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "玉井區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "玉井區沙田里6～8鄰，歐味思民宿附近 空氣污染",
     "address_string": "玉井區沙田里沙田85號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-20 14:04:52",
     "expected_datetime": "2017-09-26 21:05:00"
 }

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709200149",
+    "requested_datetime": "2017-09-20 13:02:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區府前路一段121號門口 違規停車",
+    "address_string": "台南市中西區府前路一段121號",
+    "lat": "22.9888659",
+    "long": "120.2083864",
+    "service_notice": {},
+    "updated_datetime": "2017-09-20 14:56:31",
+    "expected_datetime": "2017-09-20 13:02:00"
+}
