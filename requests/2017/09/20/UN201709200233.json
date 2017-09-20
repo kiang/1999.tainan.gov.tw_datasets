@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201709200233",
     "requested_datetime": "2017-09-20 17:08:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "北區成功路2號 違規停車",
     "address_string": "北區成功路2號",
-    "lat": {},
-    "long": {},
+    "lat": "24.8159258",
+    "long": "120.9573428",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-20 18:59:01",
     "expected_datetime": "2017-09-20 17:08:00"
 }
