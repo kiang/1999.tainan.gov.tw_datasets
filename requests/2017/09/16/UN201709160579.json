@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709160579",
     "requested_datetime": "2017-09-16 22:23:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市麻豆區公所",
     "subproject": "9盞以下路燈故障",
     "description": "麻豆區安業國小對面  9盞以下路燈故障",
     "address_string": "麻豆區安業國小",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-20 16:45:10",
     "expected_datetime": "2017-09-23 22:23:00"
 }
