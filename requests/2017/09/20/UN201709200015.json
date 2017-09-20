@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "官田區中山路一段132號 違規停車",
     "address_string": "官田區中山路一段132號",
-    "lat": {},
-    "long": {},
+    "lat": "23.1928236",
+    "long": "120.3158629",
     "service_notice": {},
     "updated_datetime": "2017-09-20 08:04:43",
     "expected_datetime": "2017-09-20 07:43:00"

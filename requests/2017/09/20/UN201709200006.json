@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709200006",
     "requested_datetime": "2017-09-20 02:50:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "永康區洲尾街152巷 空汙",
     "address_string": "永康區洲尾街152巷",
     "lat": "23.0416549",
     "long": "120.2306656",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-20 09:20:42",
     "expected_datetime": "2017-09-27 02:50:00"
 }
