@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709200304",
     "requested_datetime": "2017-09-20 22:08:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新化區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "新化區正新路272號 噪音舉發",
     "address_string": "正新路272號",
     "lat": "23.8596541",
     "long": "120.5888899",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-21 01:11:49",
     "expected_datetime": "2017-09-20 22:08:00"
 }
