@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709200210",
     "requested_datetime": "2017-09-20 16:01:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "北區東豐路長榮路四段 號誌故障",
     "address_string": "北區東豐路與長榮路四段口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-21 15:29:15",
     "expected_datetime": "2017-09-20 16:01:00"
 }
