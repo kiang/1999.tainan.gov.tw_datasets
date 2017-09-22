@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709210275",
     "requested_datetime": "2017-09-21 19:22:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "安南區長溪路三段380巷口，長安活動中心前 號誌故障",
     "address_string": "安南區長溪路三段380巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-22 09:48:48",
     "expected_datetime": "2017-09-28 19:22:00"
 }
