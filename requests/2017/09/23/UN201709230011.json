@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709230011",
+    "requested_datetime": "2017-09-23 05:30:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "北區北園街80巷6號 噪音舉發",
+    "address_string": "704台灣台南市北區北園街80巷6號",
+    "lat": "23.0122118",
+    "long": "120.2233357",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-23 05:30:00"
+}
