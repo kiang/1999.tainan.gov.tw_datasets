@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709220252",
+    "requested_datetime": "2017-09-22 18:34:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "大內區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "大內區石湖里新厝49-2號 路燈不亮",
+    "address_string": "大內區石湖里新厝49之2號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-29 18:34:00"
+}
