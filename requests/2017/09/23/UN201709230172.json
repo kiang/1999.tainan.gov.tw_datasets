@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709230172",
+    "requested_datetime": "2017-09-23 15:35:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區勝利街2巷59弄跟勝利街2巷92弄T字路口 違停",
+    "address_string": "永康區勝利街2巷59弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-09-23 16:31:57",
+    "expected_datetime": "2017-09-30 15:35:00"
+}
