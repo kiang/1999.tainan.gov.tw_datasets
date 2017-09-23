@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709230015",
+    "requested_datetime": "2017-09-23 07:17:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區喜樹路134巷巷口 違停",
+    "address_string": "南區喜樹路134巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-09-23 08:59:15",
+    "expected_datetime": "2017-09-30 07:17:00"
+}
