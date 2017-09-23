@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709230010",
+    "requested_datetime": "2017-09-23 02:19:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區大武街158號  紅線違停",
+    "address_string": "北區大武街158號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-09-23 07:26:12",
+    "expected_datetime": "2017-09-30 02:19:00"
+}
