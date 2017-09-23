@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709230180",
     "requested_datetime": "2017-09-23 16:07:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "南區大同路二段482巷10弄22號 違停",
     "address_string": "南區大同路二段482巷10弄22號",
     "lat": "25.072185",
     "long": "121.663758",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-23 18:28:38",
     "expected_datetime": "2017-09-30 16:07:00"
 }
