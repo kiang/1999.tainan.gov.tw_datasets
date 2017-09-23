@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201709230247",
     "requested_datetime": "2017-09-23 19:22:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "鹽水區",
     "service_name": "違規停車",
@@ -12,6 +12,6 @@
     "lat": "23.315590028065486",
     "long": "120.26632767826538",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-24 06:05:58",
     "expected_datetime": "2017-09-23 19:22:00"
 }
