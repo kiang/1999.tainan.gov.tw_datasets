@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709240215",
+    "requested_datetime": "2017-09-24 19:39:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區北門路二段 違停",
+    "address_string": "東區北門路二段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-01 19:39:00"
+}

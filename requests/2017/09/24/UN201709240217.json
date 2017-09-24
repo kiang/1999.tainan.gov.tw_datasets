@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709240217",
+    "requested_datetime": "2017-09-24 19:46:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "新化區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "場所連續噪音",
+    "description": "新化區中正路686巷2號 噪音舉發",
+    "address_string": "新化區中正路686巷2號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-09-24 20:17:30",
+    "expected_datetime": "2017-09-24 19:46:00"
+}
