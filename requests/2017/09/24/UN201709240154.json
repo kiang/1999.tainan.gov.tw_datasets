@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709240154",
+    "requested_datetime": "2017-09-24 16:05:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "善化區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "善化區陽光北一路153巷 違規停車",
+    "address_string": "善化區陽光北一路153巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-09-24 16:58:17",
+    "expected_datetime": "2017-10-01 16:05:00"
+}

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709240132",
     "requested_datetime": "2017-09-24 14:44:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區建平七街51號 違規停車",
     "address_string": "安平區建平七街51號",
     "lat": "22.9889086",
     "long": "120.1788479",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-24 16:10:07",
     "expected_datetime": "2017-10-01 14:44:00"
 }
