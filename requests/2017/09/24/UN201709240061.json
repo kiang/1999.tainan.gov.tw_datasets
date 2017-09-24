@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709240061",
     "requested_datetime": "2017-09-24 10:03:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "中西區康樂街西羅殿宮廟 廟會 連續噪音",
     "address_string": "中西區康樂街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-24 12:51:33",
     "expected_datetime": "2017-09-24 10:03:00"
 }
