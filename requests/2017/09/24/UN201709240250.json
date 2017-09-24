@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709240250",
+    "requested_datetime": "2017-09-24 22:57:00",
+    "status": {},
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安南區公學路五段697巷小公園轉角處 騎樓舉發",
+    "address_string": "709台灣台南市安南區公學路五段697巷",
+    "lat": "23.0712846",
+    "long": "120.159437",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-24 22:57:00"
+}
