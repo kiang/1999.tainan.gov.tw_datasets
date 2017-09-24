@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709240135",
+    "requested_datetime": "2017-09-24 14:48:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "仁德區中山路799號旁  違停",
+    "address_string": "仁德區中山路799號旁",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-01 14:48:00"
+}
