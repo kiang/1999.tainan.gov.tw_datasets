@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709240112",
     "requested_datetime": "2017-09-24 13:09:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區成功路國華街  違規停車",
     "address_string": "中西區成功路國華街",
     "lat": "22.993506",
     "long": "120.197385",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-24 15:59:06",
     "expected_datetime": "2017-10-01 13:09:00"
 }
