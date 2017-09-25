@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709250050",
+    "requested_datetime": "2017-09-25 09:07:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區建平十七街121號 違規停車",
+    "address_string": "安平區建平十七街121號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-02 09:07:00"
+}
