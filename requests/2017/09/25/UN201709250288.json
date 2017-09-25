@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709250288",
+    "requested_datetime": "2017-09-25 17:30:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區文南路沿線兩側(建南路口至永華路1段路口) 紅線違停 違規停車",
+    "address_string": "南區文南路",
+    "lat": "22.9849416",
+    "long": "120.1899994",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-25 17:30:00"
+}
