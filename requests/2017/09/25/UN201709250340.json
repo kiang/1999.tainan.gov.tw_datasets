@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709250340",
     "requested_datetime": "2017-09-25 19:55:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區育德一街和緯路二段口（松野料理前人行道） 違規停車",
     "address_string": "北區育德一街和緯路二段",
-    "lat": {},
-    "long": {},
+    "lat": "23.0123119",
+    "long": "120.206329",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-25 22:49:18",
     "expected_datetime": "2017-09-25 19:55:00"
 }

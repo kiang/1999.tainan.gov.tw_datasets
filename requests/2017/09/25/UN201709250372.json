@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709250372",
+    "requested_datetime": "2017-09-25 22:52:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區臨安路二段98號 違停",
+    "address_string": "北區臨安路二段98號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-02 22:52:00"
+}
