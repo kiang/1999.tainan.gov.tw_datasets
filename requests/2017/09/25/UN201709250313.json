@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709250313",
+    "requested_datetime": "2017-09-25 18:27:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "市北區長榮路四段169號 違規停車",
+    "address_string": "北區長榮路四段169號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-09-25 19:37:14",
+    "expected_datetime": "2017-09-25 18:27:00"
+}
