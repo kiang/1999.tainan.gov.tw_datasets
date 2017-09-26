@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709260216",
     "requested_datetime": "2017-09-26 15:52:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "北區東豐路227巷24弄三清宮 妨害安寧",
     "address_string": "北區東豐路227巷24弄三清宮",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-26 18:50:43",
     "expected_datetime": "2017-10-03 15:52:00"
 }
