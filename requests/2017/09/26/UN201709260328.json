@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709260328",
     "requested_datetime": "2017-09-26 23:11:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "東區自由路二段175巷33號對面工地 妨害安寧",
     "address_string": "東區自由路二段175巷33號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-27 02:38:48",
     "expected_datetime": "2017-10-03 23:11:00"
 }

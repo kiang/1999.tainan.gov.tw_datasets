@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709270343",
     "requested_datetime": "2017-09-27 00:45:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "噪音舉發",
     "address_string": "南市南區中華南路2段233巷14號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-27 02:41:47",
     "expected_datetime": "2017-09-27 00:45:00"
 }
