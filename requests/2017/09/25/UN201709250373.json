@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709250373",
     "requested_datetime": "2017-09-25 23:15:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "中西區金華路三段218號，星鑽金華國際商旅 噪音",
     "address_string": "中西區金華路三段218號",
     "lat": "22.9927341",
     "long": "120.192872",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-26 13:53:56",
     "expected_datetime": "2017-10-02 23:15:00"
 }
