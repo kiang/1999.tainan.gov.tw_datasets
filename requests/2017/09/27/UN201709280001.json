@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709280001",
+    "requested_datetime": "2017-09-27 23:59:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "中西區青年路232巷10號  妨害安寧",
+    "address_string": "中西區青年路232巷10號",
+    "lat": "22.9905213",
+    "long": "120.2121276",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-04 23:59:00"
+}
