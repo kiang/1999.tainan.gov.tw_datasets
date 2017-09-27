@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709270496",
     "requested_datetime": "2017-09-27 13:53:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "東區崇德路530巷42號 占用道路",
     "address_string": "東區崇德路530巷42號",
     "lat": "25.1306835",
     "long": "121.731952",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-27 16:31:27",
     "expected_datetime": "2017-10-04 13:53:00"
 }
