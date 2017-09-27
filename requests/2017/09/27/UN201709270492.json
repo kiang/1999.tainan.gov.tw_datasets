@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709270492",
+    "requested_datetime": "2017-09-27 13:39:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區忠義路近健康路 違規停車",
+    "address_string": "中西區忠義路近健康路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-04 13:39:00"
+}

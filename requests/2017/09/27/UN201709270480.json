@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709270480",
+    "requested_datetime": "2017-09-27 13:00:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局",
+    "subproject": "9盞以下路燈故障",
+    "description": "安平區安平路60號 路燈閃爍",
+    "address_string": "安平區安平路60號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-04 13:00:00"
+}
