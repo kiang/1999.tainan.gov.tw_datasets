@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709260320",
     "requested_datetime": "2017-09-26 22:28:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "白河區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "白河區頂秀佑舉人街73號 空汙",
     "address_string": "白河區頂秀佑舉人街73號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-27 14:55:00",
     "expected_datetime": "2017-10-03 22:28:00"
 }
