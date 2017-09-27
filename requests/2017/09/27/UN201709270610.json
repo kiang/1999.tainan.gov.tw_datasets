@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709270610",
+    "requested_datetime": "2017-09-27 18:34:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "善化區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "新市區往善化區方向 台19甲 路燈不亮",
+    "address_string": "善化區台19甲",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-04 18:34:00"
+}

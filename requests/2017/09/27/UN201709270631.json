@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區安和路三段 路燈故障",
     "address_string": "安南區安和路三段",
-    "lat": {},
-    "long": {},
+    "lat": "23.046978",
+    "long": "120.2180424",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-10-04 19:30:00"
