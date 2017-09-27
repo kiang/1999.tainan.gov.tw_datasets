@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709270537",
     "requested_datetime": "2017-09-27 15:31:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "安南區安中路一段622巷88弄8號 施工噪音",
     "address_string": "台南市安南區安中路一段622巷88弄12號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-27 17:56:35",
     "expected_datetime": "2017-09-27 15:31:00"
 }
