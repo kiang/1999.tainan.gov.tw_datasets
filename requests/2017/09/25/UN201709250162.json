@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709250162",
     "requested_datetime": "2017-09-25 12:38:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面坑洞",
     "description": "中西區中正路134號跟134號之1中間 路面坑洞",
     "address_string": "中西區中正路134號",
     "lat": "22.991616",
     "long": "120.20194",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-27 09:05:16",
     "expected_datetime": "2017-10-02 12:38:00"
 }
