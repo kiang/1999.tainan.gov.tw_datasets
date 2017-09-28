@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201709280140",
-    "requested_datetime": "2017-09-28 12:55:00",
+    "service_request_id": "UN201709280141",
+    "requested_datetime": "2017-09-28 13:06:00",
     "status": {},
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "東區前鋒路大學路違規停車",
-    "address_string": "東區前鋒路大學路",
+    "description": "東區東平路51號違規停車",
+    "address_string": "東區東平路51號",
     "lat": {},
     "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2017-09-28 12:55:00"
+    "expected_datetime": "2017-09-28 13:06:00"
 }
