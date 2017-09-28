@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709280260",
+    "requested_datetime": "2017-09-28 17:53:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "安平區華平路與怡平路交叉路口(咖啡店前)",
+    "lat": "22.9994046",
+    "long": "120.1731376",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-28 17:53:00"
+}
