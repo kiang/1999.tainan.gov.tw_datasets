@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區東平路51號違規停車",
     "address_string": "東區東平路51號",
-    "lat": {},
-    "long": {},
+    "lat": "24.133972",
+    "long": "120.734763",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-09-28 13:06:00"
