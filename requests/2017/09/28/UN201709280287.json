@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709280287",
     "requested_datetime": "2017-09-28 18:57:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "南區鹽埕路269號 噪音舉發",
     "address_string": "南區鹽埕路269號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-28 21:23:44",
     "expected_datetime": "2017-09-28 18:57:00"
 }
