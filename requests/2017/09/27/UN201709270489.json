@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709270489",
     "requested_datetime": "2017-09-27 13:16:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
     "description": "麻豆區新生北路517號旁 動物救援",
     "address_string": "麻豆區新生北路517號旁",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-28 11:40:42",
     "expected_datetime": "2017-10-04 13:16:00"
 }
