@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709280352",
     "requested_datetime": "2017-09-28 23:19:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "其他汙染舉發",
-    "description": "髒亂及汙染",
+    "description": "育成路53號 24hr洗衣店 髒亂及汙染",
     "address_string": "育成路53號 24hr洗衣店",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-29 00:27:43",
     "expected_datetime": "2017-09-28 23:19:00"
 }
