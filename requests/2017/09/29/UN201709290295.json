@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709290295",
+    "requested_datetime": "2017-09-29 19:39:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "中西區海安路二段與忠明街口 佔用道路",
+    "address_string": "中西區海安路二段忠明街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-06 19:39:00"
+}

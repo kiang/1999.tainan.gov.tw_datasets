@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709290275",
+    "requested_datetime": "2017-09-29 18:51:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區大同路一段142號與144號 違規停車",
+    "address_string": "大同路一段142號",
+    "lat": "23.9585431",
+    "long": "120.581405",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-29 18:51:00"
+}
