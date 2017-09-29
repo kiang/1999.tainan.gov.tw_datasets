@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709290017",
+    "requested_datetime": "2017-09-29 07:24:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區健康路二段495號 違規停車",
+    "address_string": "安平區健康路二段495號",
+    "lat": "22.9994453",
+    "long": "120.1731939",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-29 07:24:00"
+}
