@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709290145",
     "requested_datetime": "2017-09-29 13:42:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區康樂街421號 違規停車",
     "address_string": "700台灣台南市中西區康樂街421號",
     "lat": "23.000756419928692",
     "long": "120.19740343093872",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-29 18:09:38",
     "expected_datetime": "2017-09-29 13:42:00"
 }
