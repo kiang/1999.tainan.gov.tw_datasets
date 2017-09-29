@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區南園街101巷34弄與105巷 違規停車",
     "address_string": "北區南園街101巷34弄*105巷",
-    "lat": {},
-    "long": {},
+    "lat": "24.8358346",
+    "long": "120.9422643",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-09-29 07:05:00"
