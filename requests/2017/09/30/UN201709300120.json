@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709300120",
     "requested_datetime": "2017-09-30 11:52:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新營區中正路星巴克違規停車",
     "address_string": "新營區中正路星巴克",
     "lat": "23.3076454",
     "long": "120.3162675",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-30 16:56:57",
     "expected_datetime": "2017-09-30 11:52:00"
 }
