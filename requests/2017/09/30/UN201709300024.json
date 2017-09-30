@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709300024",
+    "requested_datetime": "2017-09-30 08:01:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "702台灣台南市南區水交社路20巷  佔用道路",
+    "address_string": "702台灣台南市南區水交社路20巷",
+    "lat": "22.9740654",
+    "long": "120.2064376",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-09-30 08:01:00"
+}
