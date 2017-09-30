@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201709300140",
+    "requested_datetime": "2017-09-30 13:00:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區長榮路五段401巷75號旁 佔用道路",
+    "address_string": "北區長榮路五段401巷75號",
+    "lat": "23.0128717",
+    "long": "120.2153889",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-07 13:00:00"
+}
