@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709280183",
     "requested_datetime": "2017-09-28 14:58:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "其他汙染舉發",
     "description": "安南區北安路和培安路口 排放廢水",
     "address_string": "安南區北安路培安路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-01 03:05:12",
     "expected_datetime": "2017-10-05 14:58:00"
 }
