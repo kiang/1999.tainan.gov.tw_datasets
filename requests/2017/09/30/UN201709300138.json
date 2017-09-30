@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709300138",
     "requested_datetime": "2017-09-30 12:52:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "其他汙染舉發",
     "description": "安南區，從國道8號往新吉方向，靠近公學路  路面水泥漿",
     "address_string": "安南區，從國道8號往新吉方向，靠近公學路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-30 18:01:28",
     "expected_datetime": "2017-10-07 12:52:00"
 }
