@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709300151",
     "requested_datetime": "2017-09-30 13:29:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "安南區公學路一段 空氣汙染",
     "address_string": "安南區公學路一段",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-09-30 17:55:57",
     "expected_datetime": "2017-10-07 13:29:00"
 }
