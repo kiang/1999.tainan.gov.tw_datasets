@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710010215",
+    "requested_datetime": "2017-10-01 18:58:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區大興街與大興街300巷\/北區中華北路旗哥牛肉湯前, 違規停車",
+    "address_string": "北區大興街大興300巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-08 18:58:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710010169",
+    "requested_datetime": "2017-10-01 16:59:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "北區東豐路502號 妨害安寧",
+    "address_string": "北區東豐路502號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-10-01 19:19:02",
+    "expected_datetime": "2017-10-08 16:59:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710010220",
+    "requested_datetime": "2017-10-01 19:09:00",
+    "status": {},
+    "keyword": {},
+    "area": "東 區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區怡東路11號 違規停車",
+    "address_string": "東區怡東路11號",
+    "lat": "22.990691895286414",
+    "long": "120.22756721824408",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-01 19:09:00"
+}
