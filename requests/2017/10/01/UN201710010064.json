@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區崑大路223號-231號 違停",
     "address_string": "永康區崑大路223號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0052364",
+    "long": "120.2610613",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-10-08 10:10:00"
