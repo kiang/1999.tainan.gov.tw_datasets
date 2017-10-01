@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710010093",
     "requested_datetime": "2017-10-01 12:26:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "善化區中山路470號 違規停車",
     "address_string": "善化區中山路470號",
     "lat": "23.1327336",
     "long": "120.2899649",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-01 17:59:41",
     "expected_datetime": "2017-10-01 12:26:00"
 }
