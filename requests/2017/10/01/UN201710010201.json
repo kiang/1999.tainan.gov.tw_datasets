@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710010201",
+    "requested_datetime": "2017-10-01 18:34:00",
+    "status": {},
+    "keyword": {},
+    "area": "佳里區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "佳里區忠孝東路77號 噪音舉發",
+    "address_string": "722台灣台南市佳里區忠孝東路77號",
+    "lat": "23.16486709583979",
+    "long": "120.17908830195667",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-01 18:34:00"
+}

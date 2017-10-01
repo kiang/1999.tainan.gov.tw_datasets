@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710010176",
+    "requested_datetime": "2017-10-01 17:11:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "新市區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "新市區忠孝街201巷 違規停車",
+    "address_string": "744台南市新市區忠孝街201巷",
+    "lat": "23.0743969",
+    "long": "120.294437",
+    "service_notice": {},
+    "updated_datetime": "2017-10-01 18:45:56",
+    "expected_datetime": "2017-10-01 17:11:00"
+}

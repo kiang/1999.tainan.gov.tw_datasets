@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710010161",
     "requested_datetime": "2017-10-01 16:40:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "新市區中正路286號 違規停車",
     "address_string": "新市區中正路286號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-01 18:38:25",
     "expected_datetime": "2017-10-01 16:40:00"
 }

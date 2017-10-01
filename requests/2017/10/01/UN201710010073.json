@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710010073",
     "requested_datetime": "2017-10-01 10:49:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "東區府連路416號 佔用道路",
     "address_string": "東區府連路416號",
     "lat": "22.9847461",
     "long": "120.215482",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-01 18:03:45",
     "expected_datetime": "2017-10-08 10:49:00"
 }
