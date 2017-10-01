@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710010102",
+    "requested_datetime": "2017-10-01 13:34:00",
+    "status": {},
+    "keyword": {},
+    "area": "善化區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "善化區中山路中和街 違規停車",
+    "address_string": "善化區中山路中和街",
+    "lat": "23.1323855",
+    "long": "120.2926538",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-01 13:34:00"
+}
