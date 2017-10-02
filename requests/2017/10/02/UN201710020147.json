@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區忠義路三段5號  違規停車",
     "address_string": "北區忠義路三段5號",
-    "lat": {},
-    "long": {},
+    "lat": "23.9528323",
+    "long": "120.5432699",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-10-02 13:16:00"
