@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710020276",
     "requested_datetime": "2017-10-02 18:42:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區勝利路103號 違規停車",
     "address_string": "台南市東區勝利路103號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-02 21:32:52",
     "expected_datetime": "2017-10-02 18:42:00"
 }
