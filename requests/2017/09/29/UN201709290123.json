@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201709290123",
     "requested_datetime": "2017-09-29 11:57:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "東區崇善十一街55巷18號 路燈故障",
     "address_string": "東區崇善十一街55巷18號",
     "lat": "22.9704991",
     "long": "120.2321988",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-02 09:21:32",
     "expected_datetime": "2017-10-06 11:57:00"
 }

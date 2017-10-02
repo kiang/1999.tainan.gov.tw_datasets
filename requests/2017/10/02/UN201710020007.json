@@ -7,11 +7,11 @@
     "service_name": "噪音舉發",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
-    "description": "妨害安寧",
-    "address_string": "台灣省台南市東區長榮路二段32巷142號1F-5",
+    "description": "東區長榮路二段32巷142號1F-5 妨害安寧",
+    "address_string": "台灣省台南市東區長榮路二段32巷142號",
     "lat": "22.987722701783635",
     "long": "120.22151850163937",
     "service_notice": {},
-    "updated_datetime": "2017-10-02 07:21:35",
+    "updated_datetime": "2017-10-02 07:21:00",
     "expected_datetime": "2017-10-02 01:58:00"
 }
