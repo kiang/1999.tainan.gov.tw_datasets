@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710030219",
+    "requested_datetime": "2017-10-03 16:27:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區三官路211號 艾的佳幼兒園  違停",
+    "address_string": "南區三官路211號 艾的佳幼兒園",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-10 16:27:00"
+}
