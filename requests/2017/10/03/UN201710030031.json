@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710030031",
     "requested_datetime": "2017-10-03 08:08:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
     "description": "永康區烏竹里龍橋街350巷133弄6號 狗受困",
     "address_string": "永康區烏竹里龍橋街350巷133弄6號",
-    "lat": {},
-    "long": {},
+    "lat": "23.039595",
+    "long": "120.263802",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-03 09:42:12",
     "expected_datetime": "2017-10-10 08:08:00"
 }
