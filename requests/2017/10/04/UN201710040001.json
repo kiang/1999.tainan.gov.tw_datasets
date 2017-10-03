@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710040001",
     "requested_datetime": "2017-10-04 00:00:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "東區裕孝路跟裕孝一街 妨害安寧",
     "address_string": "裕孝路跟裕孝一街交接口住家",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-04 04:13:05",
     "expected_datetime": "2017-10-04 00:00:00"
 }
