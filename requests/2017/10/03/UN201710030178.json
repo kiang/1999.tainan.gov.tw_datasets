@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710030178",
+    "requested_datetime": "2017-10-03 15:18:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區赤崁街大士殿旁 違規停車",
+    "address_string": "台南市中西區赤崁街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-10-03 19:16:10",
+    "expected_datetime": "2017-10-03 15:18:00"
+}
