@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710010238",
     "requested_datetime": "2017-10-01 20:21:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府環境保護局",
     "subproject": "妨害安寧",
     "description": "佳里區六合街9號 噪音舉發",
     "address_string": "722台灣台南市佳里區六合街9號",
     "lat": "23.165145440846633",
     "long": "120.17932098358868",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-03 17:11:57",
     "expected_datetime": "2017-10-01 20:21:00"
 }

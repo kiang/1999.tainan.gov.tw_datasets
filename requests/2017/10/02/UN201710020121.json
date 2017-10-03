@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710020121",
     "requested_datetime": "2017-10-02 11:43:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "人孔蓋或溝蓋聲響鬆動",
     "description": "東區中華東路二段187號前 孔蓋",
     "address_string": "東區中華東路二段187號前",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-03 17:17:02",
     "expected_datetime": "2017-10-09 11:43:00"
 }
