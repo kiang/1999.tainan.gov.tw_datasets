@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710030324",
     "requested_datetime": "2017-10-03 22:17:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "佳里區林園街84號 妨害安寧",
     "address_string": "722台灣台南市佳里區林園街84號",
     "lat": "23.165306652584896",
     "long": "120.17900347709656",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-04 03:56:37",
     "expected_datetime": "2017-10-03 22:17:00"
 }
