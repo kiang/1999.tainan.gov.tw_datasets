@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710030300",
+    "requested_datetime": "2017-10-03 21:12:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "歸仁區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "歸仁區保大路二段122巷20弄8號 噪音舉發",
+    "address_string": "台南市歸仁區保大路二段122巷20弄8號",
+    "lat": "22.9972264",
+    "long": "120.2873231",
+    "service_notice": {},
+    "updated_datetime": "2017-10-03 22:45:42",
+    "expected_datetime": "2017-10-03 21:12:00"
+}

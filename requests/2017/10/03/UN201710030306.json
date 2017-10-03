@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201710030295",
-    "requested_datetime": "2017-10-03 21:03:00",
+    "service_request_id": "UN201710030306",
+    "requested_datetime": "2017-10-03 21:29:00",
     "status": "已完工",
     "keyword": {},
     "area": "北區",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": "2017-10-03 22:44:22",
-    "expected_datetime": "2017-10-03 21:03:00"
+    "updated_datetime": "2017-10-03 22:48:11",
+    "expected_datetime": "2017-10-03 21:29:00"
 }

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710030330",
+    "requested_datetime": "2017-10-03 22:30:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "北區海安路三段338巷39號 妨害安寧",
+    "address_string": "北區海安路三段338巷39號",
+    "lat": "23.0090384",
+    "long": "120.2021229",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-10 22:30:00"
+}
