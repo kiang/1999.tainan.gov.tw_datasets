@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區金華路一段230號 違規停車",
     "address_string": "南區金華路一段230號",
-    "lat": {},
-    "long": {},
+    "lat": "25.0204506",
+    "long": "121.4668259",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-10-10 20:33:00"
