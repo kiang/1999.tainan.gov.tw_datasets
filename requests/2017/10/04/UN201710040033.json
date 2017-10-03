@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710040033",
+    "requested_datetime": "2017-10-04 05:09:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "新營路",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "新營路新太路(太子宮) 妨害安寧",
+    "address_string": "新營路新太路(太子宮)",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-10-04 05:54:37",
+    "expected_datetime": "2017-10-11 05:09:00"
+}
