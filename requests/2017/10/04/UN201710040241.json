@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710040241",
     "requested_datetime": "2017-10-04 21:47:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "台南市安南區總安街一段 噪音舉發",
     "address_string": "台南市安南區總安街一段",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-05 02:57:15",
     "expected_datetime": "2017-10-04 21:47:00"
 }
