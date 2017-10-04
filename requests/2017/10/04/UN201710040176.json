@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710040176",
+    "requested_datetime": "2017-10-04 17:56:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "永康區新行街33巷 占用道路",
+    "address_string": "永康區新行街33巷",
+    "lat": "23.041285",
+    "long": "120.242366",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-11 17:56:00"
+}

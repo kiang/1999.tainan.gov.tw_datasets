@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710040172",
     "requested_datetime": "2017-10-04 17:30:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安南區安和路五段276巷口 違停",
     "address_string": "安南區安和路五段276巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.0666065",
+    "long": "120.2183333",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-04 18:56:39",
     "expected_datetime": "2017-10-11 17:30:00"
 }
