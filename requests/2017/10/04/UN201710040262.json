@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710040262",
+    "requested_datetime": "2017-10-04 22:29:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府經濟發展局,臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "安南區北安路二段526號，水樣KTV 妨害安寧",
+    "address_string": "安南區北安路二段526號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-10-05 03:32:18",
+    "expected_datetime": "2017-10-11 22:29:00"
+}

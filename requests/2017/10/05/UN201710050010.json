@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710050010",
     "requested_datetime": "2017-10-05 00:35:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "南區文華公園 妨害安寧",
     "address_string": "文華公園",
-    "lat": {},
-    "long": {},
+    "lat": "24.8034357",
+    "long": "120.9799871",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-05 03:16:42",
     "expected_datetime": "2017-10-05 00:35:00"
 }
