@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安平區永華路二段826號、828號 違停",
     "address_string": "安平區永華路二段826號、828號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9901805",
+    "long": "120.1800504",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-10-11 12:48:00"
