@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710040224",
+    "requested_datetime": "2017-10-04 20:34:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府消防局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "北區中華北路一段78巷跟大興街325巷 妨害安寧",
+    "address_string": "北區中華北路一段78巷跟大興街325巷",
+    "lat": "23.0096334",
+    "long": "120.1866683",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-11 20:34:00"
+}
