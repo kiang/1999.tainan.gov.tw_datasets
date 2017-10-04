@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710040217",
+    "requested_datetime": "2017-10-04 20:13:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "南區鹽埕路103巷38弄25號   妨害安寧",
+    "address_string": "台南市南區鹽埕路103巷38弄25號",
+    "lat": "22.9707975",
+    "long": "120.1882012",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-04 20:13:00"
+}
