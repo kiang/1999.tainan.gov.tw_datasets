@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710050034",
+    "requested_datetime": "2017-10-05 08:07:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "南區新孝路66-68號 佔用道路",
+    "address_string": "南區新孝路66-68號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-10-05 08:50:02",
+    "expected_datetime": "2017-10-12 08:07:00"
+}
