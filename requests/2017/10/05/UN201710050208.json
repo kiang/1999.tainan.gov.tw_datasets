@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710050208",
     "requested_datetime": "2017-10-05 15:25:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "北區文賢二街101巷51號  騎樓舉發",
     "address_string": "台南市北區文賢二街101巷51號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-05 17:35:19",
     "expected_datetime": "2017-10-05 15:25:00"
 }
