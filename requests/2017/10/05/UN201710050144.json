@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710050144",
     "requested_datetime": "2017-10-05 10:40:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "東區衛國街110巷內 佔用道路",
     "address_string": "東區衛國街110巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-05 16:22:02",
     "expected_datetime": "2017-10-12 10:40:00"
 }
