@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710060053",
     "requested_datetime": "2017-10-06 09:03:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局,臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "永康區文化路126號 騎樓舉發",
     "address_string": "永康區文化路126號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-06 11:08:39",
     "expected_datetime": "2017-10-13 09:03:00"
 }
