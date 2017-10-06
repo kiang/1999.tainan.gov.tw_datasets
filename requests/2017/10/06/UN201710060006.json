@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710060006",
     "requested_datetime": "2017-10-06 01:08:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "其他汙染舉發",
     "description": "東區小東路254巷 其他汙染舉發",
     "address_string": "東區小東路254巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-06 12:05:16",
     "expected_datetime": "2017-10-13 01:08:00"
 }
