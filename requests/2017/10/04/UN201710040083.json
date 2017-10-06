@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710040083",
     "requested_datetime": "2017-10-04 10:43:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
     "description": "麻豆區寮廓里9之38號後方 狗受困",
     "address_string": "麻豆區寮廓里9之38號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-06 14:06:05",
     "expected_datetime": "2017-10-11 10:43:00"
 }
