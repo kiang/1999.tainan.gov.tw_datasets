@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "永康區中華路與中華二路口 佔用道路",
     "address_string": "永康區中華路中華二路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0084944",
+    "long": "120.2307992",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-10-13 18:33:00"
