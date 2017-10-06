@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710060055",
     "requested_datetime": "2017-10-06 09:11:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "東區跟五妃街上接大同路口 號誌故障",
     "address_string": "東區跟五妃街大同路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-06 17:41:35",
     "expected_datetime": "2017-10-13 09:11:00"
 }
