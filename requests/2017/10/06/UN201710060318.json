@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710060318",
     "requested_datetime": "2017-10-06 22:23:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "安平區同平路、城平路、安北路 妨害安寧",
     "address_string": "安平區同平路、城平路、安北路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-07 00:31:34",
     "expected_datetime": "2017-10-06 22:23:00"
 }

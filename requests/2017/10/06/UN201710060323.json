@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710060323",
+    "requested_datetime": "2017-10-06 23:00:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "麻豆區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "麻豆區首府大學四周 鞭炮噪音",
+    "address_string": "麻豆區南勢里168號",
+    "lat": "23.1930713",
+    "long": "120.2684501",
+    "service_notice": {},
+    "updated_datetime": "2017-10-07 00:34:46",
+    "expected_datetime": "2017-10-13 23:00:00"
+}
