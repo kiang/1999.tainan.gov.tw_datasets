@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710060331",
     "requested_datetime": "2017-10-06 23:26:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新民街218巷接新中街 違規停車",
     "address_string": "新民街218巷接新中街",
-    "lat": {},
-    "long": {},
+    "lat": "23.3783159",
+    "long": "120.1513722",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-07 07:14:45",
     "expected_datetime": "2017-10-06 23:26:00"
 }

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710060329",
     "requested_datetime": "2017-10-06 23:25:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新民街47巷接新民街218巷違規停車",
     "address_string": "新民街47巷接新民街218巷",
-    "lat": {},
-    "long": {},
+    "lat": "24.8085104",
+    "long": "120.9634069",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-07 07:14:24",
     "expected_datetime": "2017-10-06 23:25:00"
 }
