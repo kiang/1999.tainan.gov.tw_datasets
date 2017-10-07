@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710070086",
+    "requested_datetime": "2017-10-07 12:17:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "南區永成路三段436號與438號 沒水",
+    "address_string": "南區永成路三段436號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-14 12:17:00"
+}
