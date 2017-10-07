@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710070169",
+    "requested_datetime": "2017-10-07 16:42:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "北區大興街574號 妨礙安寧\/空汙",
+    "address_string": "北區大興街574號",
+    "lat": "23.0105816",
+    "long": "120.1888797",
+    "service_notice": {},
+    "updated_datetime": "2017-10-07 17:57:14",
+    "expected_datetime": "2017-10-14 16:42:00"
+}

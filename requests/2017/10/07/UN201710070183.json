@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710070183",
+    "requested_datetime": "2017-10-07 17:12:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "場所連續噪音",
+    "description": "東區自由路二段175巷 噪音汙染\/妨害安寧",
+    "address_string": "東區自由路二段175巷",
+    "lat": "24.8094742",
+    "long": "120.9835024",
+    "service_notice": {},
+    "updated_datetime": "2017-10-07 17:58:56",
+    "expected_datetime": "2017-10-14 17:12:00"
+}

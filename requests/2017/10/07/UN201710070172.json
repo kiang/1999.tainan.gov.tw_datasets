@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710070172",
+    "requested_datetime": "2017-10-07 16:49:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區崇德路與崇明十四街60巷口 違停",
+    "address_string": "東區崇德路崇明十四街60巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-10-07 17:59:27",
+    "expected_datetime": "2017-10-14 16:49:00"
+}
