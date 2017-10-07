@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710070037",
+    "requested_datetime": "2017-10-07 09:30:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "安南區安和路一段上，府安路到郡安路之間 交通疏導",
+    "address_string": "安南區安和路一段*府安路*郡安路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-14 09:30:00"
+}
