@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710070227",
+    "requested_datetime": "2017-10-07 19:43:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "中西區成功路跟金華路口 廟會交通阻塞",
+    "address_string": "中西區成功路跟金華路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-10-07 20:40:33",
+    "expected_datetime": "2017-10-14 19:43:00"
+}
