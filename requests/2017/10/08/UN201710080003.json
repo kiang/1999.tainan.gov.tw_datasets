@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710080003",
     "requested_datetime": "2017-10-08 00:17:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "白河區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "白河區十全街43號 妨害安寧",
     "address_string": "臺南市白河區十全街43號",
     "lat": "23.3456001",
     "long": "120.4156536",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-08 03:44:19",
     "expected_datetime": "2017-10-08 00:17:00"
 }
