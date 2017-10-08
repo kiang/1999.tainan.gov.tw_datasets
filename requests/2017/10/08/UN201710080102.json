@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710080102",
+    "requested_datetime": "2017-10-08 12:13:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區海安路三段41巷口違規停車",
+    "address_string": "北區海安路三段41巷口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-15 12:13:00"
+}
