@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710080198",
+    "requested_datetime": "2017-10-08 18:07:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "北區海安路三段與和緯路二段 交通疏導",
+    "address_string": "北區海安路三段*和緯路二段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-15 18:07:00"
+}
