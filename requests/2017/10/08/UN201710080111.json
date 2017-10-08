@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710080111",
     "requested_datetime": "2017-10-08 12:49:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "佳里區林園街74-84號  違規停車",
     "address_string": "722台灣台南市佳里區林園街74-84號",
     "lat": "23.165266602770615",
     "long": "120.17931212448502",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-08 15:49:15",
     "expected_datetime": "2017-10-08 12:49:00"
 }
