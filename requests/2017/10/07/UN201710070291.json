@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710070291",
     "requested_datetime": "2017-10-07 23:43:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "歸仁區和順路二段240巷93-2號 噪音舉發",
     "address_string": "和順路二段240巷93-2號",
     "lat": "23.041364",
     "long": "120.216001",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-08 14:49:02",
     "expected_datetime": "2017-10-07 23:43:00"
 }
