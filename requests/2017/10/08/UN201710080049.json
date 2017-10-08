@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710080049",
+    "requested_datetime": "2017-10-08 09:42:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "學甲區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "學甲區中洲里  電桿：育仁高幹61號左6左3   電線斷掉",
+    "address_string": "學甲區中洲里  電桿：育仁高幹61號左6左3",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-15 09:42:00"
+}
