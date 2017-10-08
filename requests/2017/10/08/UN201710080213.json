@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區立德公園（育德路\/立賢路口），違規停車",
     "address_string": "立德公園",
-    "lat": {},
-    "long": {},
+    "lat": "25.0815311",
+    "long": "121.3723161",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-10-08 19:55:00"
