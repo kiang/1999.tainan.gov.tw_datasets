@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710080239",
+    "requested_datetime": "2017-10-08 22:15:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "安南區公學路四段122巷和54巷口，十二佃大榕樹附近 妨害安寧",
+    "address_string": "安南區公學路四段122巷",
+    "lat": "23.0748762",
+    "long": "120.1761928",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-15 22:15:00"
+}

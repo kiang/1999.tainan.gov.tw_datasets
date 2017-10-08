@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710080238",
+    "requested_datetime": "2017-10-08 22:00:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "北區西門路三段45巷立人派出所旁 妨害安寧",
+    "address_string": "北區西門路三段45巷",
+    "lat": "23.0019717",
+    "long": "120.2016766",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-15 22:00:00"
+}
