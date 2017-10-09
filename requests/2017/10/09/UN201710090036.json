@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710090036",
+    "requested_datetime": "2017-10-09 09:01:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區東豐路499號  豐興公園旁  違停",
+    "address_string": "北區東豐路499號  豐興公園旁",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-16 09:01:00"
+}
