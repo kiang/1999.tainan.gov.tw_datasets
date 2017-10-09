@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710090133",
+    "requested_datetime": "2017-10-09 14:39:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "六甲區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "六甲區中山路43巷口  違停",
+    "address_string": "六甲區中山路43巷口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-16 14:39:00"
+}
