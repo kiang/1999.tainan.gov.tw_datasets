@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710100006",
     "requested_datetime": "2017-10-10 01:23:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "東區裕敬五街 妨害安寧",
     "address_string": "台南市東區裕敬5街",
     "lat": "22.976784",
     "long": "120.24753",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-10 02:12:52",
     "expected_datetime": "2017-10-10 01:23:00"
 }
