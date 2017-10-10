@@ -7,11 +7,11 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "違規停車",
-    "address_string": "台南公園臨北門路人行步道",
+    "description": "北區公園臨北門路人行步道 違規停車",
+    "address_string": "北區公園臨北門路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": "2017-10-10 14:40:14",
+    "updated_datetime": "2017-10-10 14:40:00",
     "expected_datetime": "2017-10-10 12:01:00"
 }
