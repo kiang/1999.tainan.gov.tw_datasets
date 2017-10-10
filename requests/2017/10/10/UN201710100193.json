@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710100193",
+    "requested_datetime": "2017-10-10 17:50:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區台南火車站公車北站、舊北門派出所前 違規停車",
+    "address_string": "北區台南火車站公車北站、舊北門派出所前",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-17 17:50:00"
+}
