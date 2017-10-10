@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710100026",
+    "requested_datetime": "2017-10-10 08:11:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區中華東路二段133巷63號 違規停車",
+    "address_string": "東區中華東路二段133巷63號",
+    "lat": "22.987017",
+    "long": "120.233724",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-10 08:11:00"
+}
