@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710110254",
+    "requested_datetime": "2017-10-11 17:12:00",
+    "status": {},
+    "keyword": {},
+    "area": "新化區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府研究發展考核委員會",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "測試",
+    "lat": "23.967376",
+    "long": "120.678611",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-11 17:12:00"
+}
