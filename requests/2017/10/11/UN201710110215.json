@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710110215",
     "requested_datetime": "2017-10-11 15:45:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "善化區六德裡309-8 噪音舉發",
     "address_string": "六德裡309之8",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-11 19:02:18",
     "expected_datetime": "2017-10-11 15:45:00"
 }

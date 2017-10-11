@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710110288",
+    "requested_datetime": "2017-10-11 19:19:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "善化區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "善化區光華路35巷57號 路燈不亮",
+    "address_string": "善化區光華路35巷57號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-18 19:19:00"
+}
