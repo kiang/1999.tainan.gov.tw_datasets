@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710070237",
     "requested_datetime": "2017-10-07 20:20:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "10盞以上路燈故障",
     "description": "善化區台19甲線23K至麻善大橋 路燈故障",
     "address_string": "善化區台19甲線",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-11 10:22:01",
     "expected_datetime": "2017-10-14 20:20:00"
 }
