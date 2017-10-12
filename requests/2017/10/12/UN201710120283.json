@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710120283",
+    "requested_datetime": "2017-10-12 18:19:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "新營區民生路靠近南新國中路段 違停",
+    "address_string": "新營區民生路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-19 18:19:00"
+}
