@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710130001",
+    "requested_datetime": "2017-10-12 23:59:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區金華路一段503巷16號，將軍廟前 紅線違停",
+    "address_string": "南區金華路一段503巷16號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-19 23:59:00"
+}
