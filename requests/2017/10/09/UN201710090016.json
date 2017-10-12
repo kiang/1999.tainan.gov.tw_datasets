@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區成功路1號（台南大飯店） 違規停車",
     "address_string": "中西區成功路1號（台南大飯店）",
     "lat": "22.997204",
     "long": "120.210794",
     "service_notice": {},
-    "updated_datetime": "2017-10-09 13:18:01",
+    "updated_datetime": "2017-10-12 17:08:35",
     "expected_datetime": "2017-10-09 08:00:00"
 }
