@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710110116",
     "requested_datetime": "2017-10-11 11:01:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府環境保護局",
     "subproject": "環境髒亂",
     "description": "南區夏林路與府緯街口 環境髒亂",
     "address_string": "南區夏林路與府緯街口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-12 11:05:52",
     "expected_datetime": "2017-10-18 11:01:00"
 }
