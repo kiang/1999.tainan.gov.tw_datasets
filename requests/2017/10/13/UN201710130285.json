@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710130285",
+    "requested_datetime": "2017-10-13 14:59:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "仁德區保學一街21號 違規停車",
+    "address_string": "仁德區保學一街21號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-20 14:59:00"
+}
