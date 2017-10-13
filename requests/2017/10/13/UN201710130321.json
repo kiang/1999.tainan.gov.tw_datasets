@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201710130319",
-    "requested_datetime": "2017-10-13 20:31:00",
+    "service_request_id": "UN201710130321",
+    "requested_datetime": "2017-10-13 20:46:00",
     "status": {},
     "keyword": {},
     "area": "東區",
@@ -8,10 +8,10 @@
     "agency": "台南市政府",
     "subproject": "違規停車",
     "description": "東區富農街一段72巷22號 違規停車",
-    "address_string": "富農街1段72巷22號",
+    "address_string": "富農街一段72巷22號",
     "lat": "24.6436389",
     "long": "121.7962801",
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2017-10-13 20:31:00"
+    "expected_datetime": "2017-10-13 20:46:00"
 }
