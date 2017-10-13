@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710110095",
     "requested_datetime": "2017-10-11 10:23:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市仁德區公所",
     "subproject": "路面坑洞",
     "description": "仁德中正路一段96號旁 坑洞",
     "address_string": "仁德中正路一段96號旁汽車道",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-13 14:09:27",
     "expected_datetime": "2017-10-18 10:23:00"
 }

@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新營區中營里中山路1號 違停",
     "address_string": "新營區中營里中山路1號",
-    "lat": {},
-    "long": {},
+    "lat": "23.3067319",
+    "long": "120.323055",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-10-20 12:21:00"
