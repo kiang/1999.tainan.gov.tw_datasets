@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區光明街50～80號 佔用道路",
     "address_string": "東區光明街50號",
-    "lat": {},
-    "long": {},
+    "lat": "23.52631",
+    "long": "120.449167",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-10-20 18:20:00"
