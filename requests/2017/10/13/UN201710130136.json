@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710130136",
+    "requested_datetime": "2017-10-13 11:21:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區大興街572號 違停",
+    "address_string": "北區大興街572號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-20 11:21:00"
+}

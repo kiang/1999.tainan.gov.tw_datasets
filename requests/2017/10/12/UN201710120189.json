@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201710120189",
     "requested_datetime": "2017-10-12 14:11:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "七股區",
     "service_name": "交通運輸",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-13 11:57:07",
     "expected_datetime": "2017-10-19 14:11:00"
 }
