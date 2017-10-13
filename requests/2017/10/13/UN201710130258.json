@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710130258",
+    "requested_datetime": "2017-10-13 17:06:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區西門路一段333巷巷口、內 違規停車",
+    "address_string": "南區西門路一段333巷",
+    "lat": "22.9779019",
+    "long": "120.1970728",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-20 17:06:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710130264",
+    "requested_datetime": "2017-10-13 17:16:00",
+    "status": {},
+    "keyword": {},
+    "area": "佳里區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "佳里區延平路26巷口 違規停車",
+    "address_string": "台南市佳里區延平路26巷口",
+    "lat": "23.1611714",
+    "long": "120.1782089",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-13 17:16:00"
+}
