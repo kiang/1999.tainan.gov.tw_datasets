@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201710130346",
     "requested_datetime": "2017-10-13 23:27:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "永康區新民街接新中街，麗瓷咖啡店旁，太平洋房屋對面 違規停車",
     "address_string": "永康區新民街麗瓷咖啡店",
-    "lat": {},
-    "long": {},
+    "lat": "23.040171",
+    "long": "120.243781",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-14 00:27:01",
     "expected_datetime": "2017-10-13 23:27:00"
 }

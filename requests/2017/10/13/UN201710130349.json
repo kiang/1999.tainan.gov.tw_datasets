@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710130349",
     "requested_datetime": "2017-10-13 23:43:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "北區成功路40巷 噪音舉發",
     "address_string": "台南市北區成功路40巷 五番町",
-    "lat": {},
-    "long": {},
+    "lat": "22.998706",
+    "long": "120.207587",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-14 00:22:45",
     "expected_datetime": "2017-10-13 23:43:00"
 }

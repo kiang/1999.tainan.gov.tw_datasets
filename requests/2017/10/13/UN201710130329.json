@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710130329",
     "requested_datetime": "2017-10-13 21:22:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區西門路一段506號 違規停車",
     "address_string": "中西區西門路一段506號",
     "lat": "22.9898400977468",
     "long": "120.19748959701526",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-14 00:36:44",
     "expected_datetime": "2017-10-13 21:22:00"
 }
