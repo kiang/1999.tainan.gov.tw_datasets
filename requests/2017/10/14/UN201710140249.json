@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710140249",
     "requested_datetime": "2017-10-14 22:16:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "永康區西勢路80號  噪音舉發",
     "address_string": "西勢路80號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-15 02:21:02",
     "expected_datetime": "2017-10-14 22:16:00"
 }
