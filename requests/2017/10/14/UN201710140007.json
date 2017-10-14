@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201710140007",
     "requested_datetime": "2017-10-14 05:41:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "噪音舉發",
@@ -9,9 +9,9 @@
     "subproject": "場所連續噪音",
     "description": "私人神壇廟會活動 妨害安寧",
     "address_string": "麻豆區磚井里141號",
-    "lat": {},
-    "long": {},
+    "lat": "23.172491",
+    "long": "120.247003",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-14 07:25:01",
     "expected_datetime": "2017-10-21 05:41:00"
 }
