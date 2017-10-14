@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新營區秦漢街74號 違規停車",
     "address_string": "730台灣台南市新營區秦漢街74號",
-    "lat": {},
-    "long": {},
+    "lat": "23.309905",
+    "long": "120.300425",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-10-14 13:38:00"
