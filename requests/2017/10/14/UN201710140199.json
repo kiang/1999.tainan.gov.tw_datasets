@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710140199",
+    "requested_datetime": "2017-10-14 19:08:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "南區德興路149號 噪音舉發",
+    "address_string": "南區德興路149號",
+    "lat": "22.963179377046931",
+    "long": "120.19257425938576",
+    "service_notice": {},
+    "updated_datetime": "2017-10-14 22:49:09",
+    "expected_datetime": "2017-10-14 19:08:00"
+}
