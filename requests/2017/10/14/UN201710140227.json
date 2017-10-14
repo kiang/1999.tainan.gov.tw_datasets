@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710140227",
+    "requested_datetime": "2017-10-14 20:46:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區成功路508號 違規停車",
+    "address_string": "704台灣台南市北區成功路508號",
+    "lat": "23.0012733",
+    "long": "120.1968468",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-14 20:46:00"
+}
