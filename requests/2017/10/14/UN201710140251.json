@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710140251",
+    "requested_datetime": "2017-10-14 22:21:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區海安路三段135巷26號 門口",
+    "address_string": "北區海安路三段135巷26號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-21 22:21:00"
+}
