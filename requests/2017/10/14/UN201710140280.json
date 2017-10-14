@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710140280",
+    "requested_datetime": "2017-10-14 23:56:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "路燈故障",
+    "agency": "臺南市仁德區公所",
+    "subproject": "9盞以下路燈故障",
+    "description": "仁德區中正路二段1127號 路燈二支不亮",
+    "address_string": "仁德區中正路二段1127號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-21 23:56:00"
+}
