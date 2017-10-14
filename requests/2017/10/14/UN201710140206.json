@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區中華二路320號 違停",
     "address_string": "永康區中華二路320號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0002121",
+    "long": "120.239768",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-10-21 19:42:00"
