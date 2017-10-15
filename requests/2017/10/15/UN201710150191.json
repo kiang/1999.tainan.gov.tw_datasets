@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710150191",
+    "requested_datetime": "2017-10-15 20:46:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區大學路上，後火站前大遠百及香格里拉飯店前 違規停車",
+    "address_string": "東區大學路上，後火站前大遠百及香格里拉飯店前",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-22 20:46:00"
+}
