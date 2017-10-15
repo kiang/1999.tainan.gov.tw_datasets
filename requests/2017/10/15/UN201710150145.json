@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710150145",
+    "requested_datetime": "2017-10-15 17:09:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "永康區西勢里富強路一段西勢國小 妨害安寧",
+    "address_string": "永康區西勢里富強路一段西勢國小",
+    "lat": "23.0188499",
+    "long": "120.2752333",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-22 17:09:00"
+}
