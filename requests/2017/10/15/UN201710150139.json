@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710150139",
     "requested_datetime": "2017-10-15 16:38:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "南區南寧街與西門路一段口，加油站對面 號誌問題",
     "address_string": "南區南寧街西門路一段",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-16 09:47:59",
     "expected_datetime": "2017-10-22 16:38:00"
 }
