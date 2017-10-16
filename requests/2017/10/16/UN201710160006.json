@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710160006",
     "requested_datetime": "2017-10-16 03:44:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安定區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "安定區蘇林里111之23-35號 妨害安寧",
     "address_string": "745台灣台南市安定區興農路78號",
     "lat": "23.129800001472617",
     "long": "120.25531801111447",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-16 18:32:55",
     "expected_datetime": "2017-10-16 03:44:00"
 }

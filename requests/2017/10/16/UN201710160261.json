@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710160261",
+    "requested_datetime": "2017-10-16 17:51:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局",
+    "subproject": "9盞以下路燈故障",
+    "description": "南區明興路1181巷2號\/明興路733號\/明興路631-5號\/ 灣裡路116號斜前方 路燈故障",
+    "address_string": "南區明興路灣裡路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-23 17:51:00"
+}
