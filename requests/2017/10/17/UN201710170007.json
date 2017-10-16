@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710170007",
     "requested_datetime": "2017-10-17 01:32:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "東區崇明路391號，酒河原 妨害安寧",
     "address_string": "台南市東區崇明路391號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-17 03:17:31",
     "expected_datetime": "2017-10-17 01:32:00"
 }
