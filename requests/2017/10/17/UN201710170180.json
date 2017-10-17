@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710170180",
     "requested_datetime": "2017-10-17 13:23:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "其他汙染舉發",
     "description": "仁德區德崙路370巷49弄3號旁的山川建設 髒亂及汙染",
     "address_string": "台南市仁德區德崙路370巷49弄3號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-17 17:38:53",
     "expected_datetime": "2017-10-17 13:23:00"
 }
