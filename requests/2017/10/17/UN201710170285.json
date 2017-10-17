@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區成功路2號 違規停車",
     "address_string": "北區成功路2號",
-    "lat": {},
-    "long": {},
+    "lat": "24.8159258",
+    "long": "120.9573428",
     "service_notice": {},
     "updated_datetime": "2017-10-17 18:13:43",
     "expected_datetime": "2017-10-17 17:07:00"
