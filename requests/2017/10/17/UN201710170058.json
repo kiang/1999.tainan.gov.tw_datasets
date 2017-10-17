@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710170058",
+    "requested_datetime": "2017-10-17 09:25:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "東區崇明十七街上(近崇德路口)",
+    "address_string": "東區崇明十七街上",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-24 09:25:00"
+}

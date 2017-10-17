@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710170016",
     "requested_datetime": "2017-10-17 06:54:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "南區藍曬圖前方 妨害安寧",
     "address_string": "南區藍曬圖",
     "lat": "22.987102",
     "long": "120.1973454",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-17 11:58:35",
     "expected_datetime": "2017-10-17 06:54:00"
 }
