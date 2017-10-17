@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710170346",
+    "requested_datetime": "2017-10-17 20:59:00",
+    "status": {},
+    "keyword": {},
+    "area": "北 區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區成功路646號 違規停車",
+    "address_string": "704台灣台南市北區成功路646號",
+    "lat": "23.003411773817934",
+    "long": "120.19401915371418",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-17 20:59:00"
+}
