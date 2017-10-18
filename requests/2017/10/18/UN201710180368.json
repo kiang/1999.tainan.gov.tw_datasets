@@ -7,10 +7,10 @@
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "中西區友愛街317號 違規停車",
+    "description": "南台戲院 違規停車",
     "address_string": "中西區友愛街317號",
-    "lat": {},
-    "long": {},
+    "lat": "22.992277",
+    "long": "120.195206",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-10-25 19:35:00"
