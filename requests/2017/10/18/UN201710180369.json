@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710180369",
     "requested_datetime": "2017-10-18 21:51:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區西華南街靠近民族路口 違規停車",
     "address_string": "西華南街",
     "lat": "22.9952058",
     "long": "120.2097062",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-19 00:35:06",
     "expected_datetime": "2017-10-18 21:51:00"
 }
