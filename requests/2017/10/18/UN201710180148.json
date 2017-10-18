@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710180148",
+    "requested_datetime": "2017-10-18 11:50:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "學甲區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "學甲區中正路309號 違停",
+    "address_string": "學甲區中正路309號",
+    "lat": "23.2354493",
+    "long": "120.1806963",
+    "service_notice": {},
+    "updated_datetime": "2017-10-18 12:49:09",
+    "expected_datetime": "2017-10-25 11:50:00"
+}
