@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710170022",
     "requested_datetime": "2017-10-17 07:48:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "環境髒亂",
     "description": "北區北園街87巷靠近長榮路五段76巷(往慈愛醫院方向) 環境髒亂",
     "address_string": "北區北園街87巷靠近長榮路五段76巷(往慈愛醫院方向)",
     "lat": "22.9691545",
     "long": "120.181218",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-18 09:24:38",
     "expected_datetime": "2017-10-17 07:48:00"
 }

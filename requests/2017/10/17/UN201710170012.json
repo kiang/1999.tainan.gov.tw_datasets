@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710170012",
     "requested_datetime": "2017-10-17 03:39:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "台南往歸仁方向，仁德區過義林路和中山路交叉口，中山路上家具店前，快車道中央 動物屍體",
     "address_string": "仁德區中山路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-18 09:25:07",
     "expected_datetime": "2017-10-24 03:39:00"
 }
