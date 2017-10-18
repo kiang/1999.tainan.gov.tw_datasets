@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新市區中正路與成功路路口 違規停車",
     "address_string": "中正路",
-    "lat": {},
-    "long": {},
+    "lat": "23.984755",
+    "long": "120.7468745",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-10-18 20:23:00"
