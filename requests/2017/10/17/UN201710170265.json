@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710170265",
     "requested_datetime": "2017-10-17 15:52:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "後壁區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局,臺南市動物防疫保護處",
     "subproject": "空氣汙染",
     "description": "後壁區長安里47號 空氣汙染",
     "address_string": "後壁區長安里47號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-19 08:24:29",
     "expected_datetime": "2017-10-24 15:52:00"
 }
