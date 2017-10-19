@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區長榮路一段與光華街口 違規停車",
     "address_string": "長榮路一段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9842094",
+    "long": "120.2179383",
     "service_notice": {},
     "updated_datetime": "2017-10-19 18:27:35",
     "expected_datetime": "2017-10-19 17:28:00"
