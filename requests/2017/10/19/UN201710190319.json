@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區崇善路231巷26號 違規停車",
     "address_string": "崇善路231巷26號",
-    "lat": {},
-    "long": {},
+    "lat": "22.572133",
+    "long": "120.333431",
     "service_notice": {},
     "updated_datetime": "2017-10-19 22:56:46",
     "expected_datetime": "2017-10-19 20:27:00"
