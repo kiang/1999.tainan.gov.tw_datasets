@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710160193",
     "requested_datetime": "2017-10-16 14:12:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "道路維修",
-    "agency": "臺南市政府水利局",
+    "agency": "臺南市東區區公所",
     "subproject": "人孔蓋或溝蓋聲響鬆動",
     "description": "東區前鋒路110號前  孔蓋鬆動",
     "address_string": "東區前鋒路110號前",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-19 11:33:06",
     "expected_datetime": "2017-10-23 14:12:00"
 }
