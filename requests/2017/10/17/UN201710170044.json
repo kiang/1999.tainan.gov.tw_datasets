@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710170044",
     "requested_datetime": "2017-10-17 08:56:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新化區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府水利局,臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "新化區復興路 空氣汙染",
     "address_string": "復興路美士堡幼稚園前叉路口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-19 09:08:59",
     "expected_datetime": "2017-10-17 08:56:00"
 }

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710180197",
     "requested_datetime": "2017-10-18 14:01:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "中西區和平街90號 路燈故障",
     "address_string": "中西區和平街90號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-19 09:12:33",
     "expected_datetime": "2017-10-25 14:01:00"
 }
