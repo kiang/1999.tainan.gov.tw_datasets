@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710190226",
+    "requested_datetime": "2017-10-19 16:06:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區永華八街108巷與平通路127號 違規停車",
+    "address_string": "安平區永華八街108巷平通路127號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-10-19 18:30:26",
+    "expected_datetime": "2017-10-26 16:06:00"
+}
