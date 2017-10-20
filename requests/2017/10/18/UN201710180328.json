@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710180328",
     "requested_datetime": "2017-10-18 18:46:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
     "description": "永康區西勢路718號對面 中華電信孔蓋鬆動",
     "address_string": "永康區西勢路718號對面",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-20 10:02:08",
     "expected_datetime": "2017-10-25 18:46:00"
 }
