@@ -7,10 +7,10 @@
     "service_name": "髒亂及汙染",
     "agency": "台南市政府",
     "subproject": "空氣汙染",
-    "description": "東區勝利路171巷5號 空氣汙染",
+    "description": "東區勝利路171巷5號至7號前 空氣汙染",
     "address_string": "東區勝利路171巷5號",
-    "lat": {},
-    "long": {},
+    "lat": "24.8011851",
+    "long": "120.968557",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-10-27 14:35:00"
