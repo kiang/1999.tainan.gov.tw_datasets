@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710210002",
     "requested_datetime": "2017-10-21 00:04:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "北區大武街337巷5號  妨害安寧",
     "address_string": "北區大武街337巷5號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0173361",
+    "long": "120.222184",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-21 06:43:25",
     "expected_datetime": "2017-10-28 00:04:00"
 }
