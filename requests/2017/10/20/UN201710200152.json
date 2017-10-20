@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710200152",
+    "requested_datetime": "2017-10-20 12:41:00",
+    "status": {},
+    "keyword": {},
+    "area": "鹽水區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "鹽水區武廟路23號 違規停車",
+    "address_string": "鹽水區武廟路23號",
+    "lat": "23.320893947085288",
+    "long": "120.26563919999990",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-20 12:41:00"
+}
