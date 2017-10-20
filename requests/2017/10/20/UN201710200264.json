@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710200264",
+    "requested_datetime": "2017-10-20 17:03:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "佳里區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "佳里區文化路128巷 違規停車",
+    "address_string": "佳里區文化路128巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-10-20 18:00:06",
+    "expected_datetime": "2017-10-20 17:03:00"
+}
