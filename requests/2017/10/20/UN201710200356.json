@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區東門路二段158巷36號  紅線違停",
     "address_string": "東區東門路二段158巷36號",
-    "lat": {},
-    "long": {},
+    "lat": "24.8074386",
+    "long": "120.9774699",
     "service_notice": {},
     "updated_datetime": "2017-10-20 23:12:51",
     "expected_datetime": "2017-10-27 22:21:00"
