@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710210046",
     "requested_datetime": "2017-10-21 08:21:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "東區中華東路二段167號對面廟宇 廟會妨害安寧",
     "address_string": "台南市東區中華東路二段167號對面廟宇",
     "lat": "22.9851169",
     "long": "120.2326299",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-21 10:19:29",
     "expected_datetime": "2017-10-21 08:21:00"
 }
