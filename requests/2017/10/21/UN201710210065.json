@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710210065",
+    "requested_datetime": "2017-10-21 09:16:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "東區中華東路二段附近的廟宇  廟會妨害安寧",
+    "address_string": "東區中華東路二段附近的廟宇",
+    "lat": "22.9851169",
+    "long": "120.2326299",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-28 09:16:00"
+}
