@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "善化區火車站前臨停區 違規停車",
     "address_string": "善化區火車站",
-    "lat": {},
-    "long": {},
+    "lat": "23.133323",
+    "long": "120.30655",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-10-28 16:02:00"
