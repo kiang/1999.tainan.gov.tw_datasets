@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710210134",
+    "requested_datetime": "2017-10-21 11:48:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "白河區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "白河區圖書館後面,大德街上兩側 違停",
+    "address_string": "白河區大德街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-28 11:48:00"
+}
