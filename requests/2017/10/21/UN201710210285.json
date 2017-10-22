@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710210285",
     "requested_datetime": "2017-10-21 19:45:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "新營區復興路與忠義街 佔用道路",
     "address_string": "新營區復興路忠義街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-22 07:50:46",
     "expected_datetime": "2017-10-28 19:45:00"
 }

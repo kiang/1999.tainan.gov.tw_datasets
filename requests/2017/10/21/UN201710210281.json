@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710210281",
     "requested_datetime": "2017-10-21 19:11:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "白河區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "白河區國泰路&中山路 違規停車",
     "address_string": "國泰路中山路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-22 07:48:23",
     "expected_datetime": "2017-10-21 19:11:00"
 }
