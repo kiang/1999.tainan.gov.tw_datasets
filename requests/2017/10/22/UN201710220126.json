@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710220126",
+    "requested_datetime": "2017-10-22 15:02:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區中華東路一段夢時代 違規停車",
+    "address_string": "東區中華東路一段夢時",
+    "lat": "22.9904919",
+    "long": "120.2329276",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-29 15:02:00"
+}
