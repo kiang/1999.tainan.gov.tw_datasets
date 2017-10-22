@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710220062",
+    "requested_datetime": "2017-10-22 11:25:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區民族路三段148巷跟信義街口 違停",
+    "address_string": "中西區民族路三段148巷信義街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-29 11:25:00"
+}
