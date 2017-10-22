@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區海安路二段346號317-333號  違停",
     "address_string": "中西區海安路二段346號317-333號",
-    "lat": {},
-    "long": {},
+    "lat": "22.999427",
+    "long": "120.1980038",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-10-29 22:18:00"
