@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710210320",
     "requested_datetime": "2017-10-21 22:38:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區大學路育樂街口，香格里拉飯店的對面，公車停靠站上 違規停車",
     "address_string": "大學路育樂街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-22 08:18:06",
     "expected_datetime": "2017-10-21 22:38:00"
 }
