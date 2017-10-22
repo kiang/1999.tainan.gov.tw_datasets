@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710220039",
+    "requested_datetime": "2017-10-22 09:38:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區中華東路二段133巷55號 違規停車",
+    "address_string": "中華東路二段133巷55號",
+    "lat": "22.7455432",
+    "long": "121.1364841",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-22 09:38:00"
+}
