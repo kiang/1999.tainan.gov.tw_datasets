@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710220199",
+    "requested_datetime": "2017-10-22 19:16:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區海安路三段與和緯路三段口 違停",
+    "address_string": "北區海安路三段和緯路三段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-29 19:16:00"
+}
