@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710220067",
     "requested_datetime": "2017-10-22 11:41:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "東區關帝廟 妨害安寧",
     "address_string": "東區關帝廟",
     "lat": "24.802725",
     "long": "120.966556",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-22 12:50:31",
     "expected_datetime": "2017-10-22 11:41:00"
 }
