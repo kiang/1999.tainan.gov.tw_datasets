@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710220135",
+    "requested_datetime": "2017-10-22 15:20:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區中華東路二段133巷39弄 違規停車",
+    "address_string": "東區中華東路二段133巷39弄",
+    "lat": "22.9861022",
+    "long": "120.2324289",
+    "service_notice": {},
+    "updated_datetime": "2017-10-22 16:38:00",
+    "expected_datetime": "2017-10-22 15:20:00"
+}

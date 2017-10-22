@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710220151",
+    "requested_datetime": "2017-10-22 16:00:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區金華路三段115號 違規停車",
+    "address_string": "金華路三段115號台中鵝肉週遭",
+    "lat": "22.9909885",
+    "long": "120.1926593",
+    "service_notice": {},
+    "updated_datetime": "2017-10-22 16:36:42",
+    "expected_datetime": "2017-10-22 16:00:00"
+}

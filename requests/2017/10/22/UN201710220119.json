@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710220119",
     "requested_datetime": "2017-10-22 14:50:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區孔廟臨南門路 違規停車",
     "address_string": "中西區孔廟臨南門路",
     "lat": "22.9904503",
     "long": "120.2043085",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-22 16:27:32",
     "expected_datetime": "2017-10-22 14:50:00"
 }
