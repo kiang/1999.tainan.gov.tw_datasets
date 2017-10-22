@@ -9,9 +9,9 @@
     "subproject": "佔用道路",
     "description": "安南區安中路一段560巷12弄 占用道路",
     "address_string": "安南區安中路一段560巷12弄",
-    "lat": {},
-    "long": {},
+    "lat": "23.034885",
+    "long": "120.20976",
     "service_notice": {},
-    "updated_datetime": "2017-10-22 16:39:56",
+    "updated_datetime": "2017-10-22 16:39:00",
     "expected_datetime": "2017-10-29 16:09:00"
 }
