@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區成功路284號 紅線違停",
     "address_string": "北區成功路284號",
-    "lat": {},
-    "long": {},
+    "lat": "24.811421",
+    "long": "120.951781",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-10-29 19:51:00"
