@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710230180",
+    "requested_datetime": "2017-10-23 13:09:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "永康區南興路107號 佔用道路",
+    "address_string": "永康區南興路107號",
+    "lat": "25.0969713",
+    "long": "121.7134918",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-30 13:09:00"
+}
