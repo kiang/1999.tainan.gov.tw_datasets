@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安南區安中一街33號 違停",
     "address_string": "安南區安中一街33號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0415017",
+    "long": "120.1944485",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-10-30 07:39:00"
