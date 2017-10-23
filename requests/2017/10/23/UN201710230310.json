@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710230310",
+    "requested_datetime": "2017-10-23 18:22:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局",
+    "subproject": "9盞以下路燈故障",
+    "description": "安南區青砂街一段80號 路燈故障",
+    "address_string": "安南區青砂街一段80號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-30 18:22:00"
+}
