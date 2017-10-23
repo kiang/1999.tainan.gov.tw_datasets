@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府交通局,臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局交通警察大隊,臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心,臺南市停車管理處",
     "subproject": "違規停車",
     "description": "中西區北門路啟聰學校外的人行道,殘障坡道上 違停",
     "address_string": "中西區北門路",
     "lat": "22.9922448",
     "long": "120.2113557",
     "service_notice": {},
-    "updated_datetime": "2017-10-22 07:36:11",
+    "updated_datetime": "2017-10-23 16:22:27",
     "expected_datetime": "2017-10-28 16:40:00"
 }

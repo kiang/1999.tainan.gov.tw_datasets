@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710210041",
     "requested_datetime": "2017-10-21 08:08:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "南區新仁路與中華西路 號誌故障",
     "address_string": "南區新仁路與中華西路",
     "lat": "22.975471",
     "long": "120.183926",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-23 16:31:06",
     "expected_datetime": "2017-10-21 08:08:00"
 }
