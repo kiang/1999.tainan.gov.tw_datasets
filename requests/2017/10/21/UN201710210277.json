@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710210277",
     "requested_datetime": "2017-10-21 18:56:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府研究發展考核委員會",
     "subproject": "空氣汙染",
     "description": "東區裕和路354號 錯試",
     "address_string": "東區裕和路354號",
     "lat": "22.9880128",
     "long": "120.2424219",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-24 08:12:30",
     "expected_datetime": "2017-10-21 18:56:00"
 }
