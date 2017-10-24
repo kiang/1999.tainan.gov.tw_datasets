@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710230106",
     "requested_datetime": "2017-10-23 10:31:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "髒亂及汙染",
-    "agency": "臺南市安南區公所,臺南市政府環境保護局",
+    "agency": "臺南市政府環境保護局",
     "subproject": "其他汙染舉發",
     "description": "新市區仁愛街2號後面 其他汙染舉發",
     "address_string": "新市區仁愛街2號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-24 17:06:04",
     "expected_datetime": "2017-10-30 10:31:00"
 }
