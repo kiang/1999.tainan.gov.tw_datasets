@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710240254",
     "requested_datetime": "2017-10-24 17:00:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "臺南市政府環境保護局",
+    "agency": "台南市政府",
     "subproject": "道路散落物",
     "description": "永康區大灣路942巷71弄口 貓屍",
     "address_string": "永康區大灣路942巷71弄口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-24 22:36:00",
     "expected_datetime": "2017-10-31 17:00:00"
 }
