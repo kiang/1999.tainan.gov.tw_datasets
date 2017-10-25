@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710250506",
+    "requested_datetime": "2017-10-25 13:52:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "東區長榮路與小東路路口,有路面冒水",
+    "address_string": "東區長榮路小東路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-01 13:52:00"
+}
