@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710250499",
+    "requested_datetime": "2017-10-25 13:21:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區長榮路一段198號前那排   違規停車",
+    "address_string": "東區長榮路一段198號前那排",
+    "lat": "22.984167",
+    "long": "120.217643",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-10-25 13:21:00"
+}
