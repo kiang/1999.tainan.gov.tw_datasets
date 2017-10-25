@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710250695",
     "requested_datetime": "2017-10-25 23:35:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "東區崇德二十一街50號 妨害安寧",
     "address_string": "東區崇德二十一街50號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-26 04:02:40",
     "expected_datetime": "2017-11-01 23:35:00"
 }
