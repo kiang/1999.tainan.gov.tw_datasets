@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710250630",
     "requested_datetime": "2017-10-25 18:36:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區崇德路與崇德三十三街口 違停",
     "address_string": "東區崇德路崇德三十三街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-26 01:53:35",
     "expected_datetime": "2017-11-01 18:36:00"
 }
