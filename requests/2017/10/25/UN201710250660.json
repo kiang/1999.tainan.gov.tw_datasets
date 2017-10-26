@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710250660",
     "requested_datetime": "2017-10-25 20:20:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "環境髒亂",
     "description": "永康區中正北路523-8號 亂丟垃圾",
     "address_string": "台南市永康區中正北路523之8號",
     "lat": "23.0415841",
     "long": "120.2385592",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-26 09:40:51",
     "expected_datetime": "2017-10-25 20:20:00"
 }
