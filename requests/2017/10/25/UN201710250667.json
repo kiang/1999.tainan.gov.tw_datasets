@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710250667",
     "requested_datetime": "2017-10-25 21:16:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "北區開南街275巷14弄23號 髒亂及汙染",
     "address_string": "北區開南街275巷14弄23號",
     "lat": "23.004288327104096",
     "long": "120.22966990746029",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-26 17:42:35",
     "expected_datetime": "2017-10-25 21:16:00"
 }
