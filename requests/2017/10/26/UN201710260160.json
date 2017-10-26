@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710260160",
     "requested_datetime": "2017-10-26 13:12:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "北區開元路跟長榮路口 佔用道路",
     "address_string": "北區開元路跟長榮路口",
     "lat": "23.0081862",
     "long": "120.2214119",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-26 14:59:55",
     "expected_datetime": "2017-11-02 13:12:00"
 }

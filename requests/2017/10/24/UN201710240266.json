@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710240266",
     "requested_datetime": "2017-10-24 17:29:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市仁德區公所",
     "subproject": "路面坑洞",
     "description": "仁德區中正西路1238號 路面坑洞",
     "address_string": "仁德區中正西路1238號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-26 14:44:35",
     "expected_datetime": "2017-10-31 17:29:00"
 }
