@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710250678",
     "requested_datetime": "2017-10-25 22:15:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "佳里區育善街同心街 髒亂及汙染",
     "address_string": "育善街同心街夾叉路口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-26 16:55:08",
     "expected_datetime": "2017-10-25 22:15:00"
 }

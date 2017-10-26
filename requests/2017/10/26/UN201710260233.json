@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710260233",
+    "requested_datetime": "2017-10-26 16:24:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區崇德路與崇明十四街60巷路口 違規停車",
+    "address_string": "東區崇德路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-02 16:24:00"
+}
