@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710250452",
     "requested_datetime": "2017-10-25 10:54:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "東區東寧路434號 連續噪音",
     "address_string": "東區東寧路434號",
     "lat": "22.6184013",
     "long": "120.5609381",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-26 10:13:25",
     "expected_datetime": "2017-11-01 10:54:00"
 }
