@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區頂美三街與西湖街口 路燈故障",
     "address_string": "中西區頂美三街",
-    "lat": {},
-    "long": {},
+    "lat": "23.002806",
+    "long": "120.1852504",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-03 21:41:00"
