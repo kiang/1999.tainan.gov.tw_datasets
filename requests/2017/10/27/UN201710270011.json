@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710270011",
     "requested_datetime": "2017-10-27 07:23:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "市區道路路面油漬",
     "description": "麻豆區寮廍里5-5號 路面油漬",
     "address_string": "麻豆區寮廍里5-5號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-27 16:52:02",
     "expected_datetime": "2017-11-03 07:23:00"
 }
