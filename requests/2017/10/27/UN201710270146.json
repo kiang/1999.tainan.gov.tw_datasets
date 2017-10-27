@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710270146",
     "requested_datetime": "2017-10-27 12:08:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "東區建東街45號  佔用道路",
     "address_string": "東區建東街45號",
     "lat": "22.9909047",
     "long": "120.2380272",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-27 17:50:01",
     "expected_datetime": "2017-11-03 12:08:00"
 }
