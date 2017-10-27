@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710270179",
+    "requested_datetime": "2017-10-27 14:23:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "民生管線",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "北區東豐路491號周圍 停電",
+    "address_string": "北區東豐路491號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-03 14:23:00"
+}
