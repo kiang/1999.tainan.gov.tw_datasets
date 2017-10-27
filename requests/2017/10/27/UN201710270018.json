@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710270018",
     "requested_datetime": "2017-10-27 07:48:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "北區裕德二路810巷2弄巷口  佔用道路",
     "address_string": "北區裕德二路810巷2弄巷口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-27 12:48:54",
     "expected_datetime": "2017-11-03 07:48:00"
 }
