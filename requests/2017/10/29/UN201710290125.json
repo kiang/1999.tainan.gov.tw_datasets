@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710290125",
     "requested_datetime": "2017-10-29 15:02:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區中華東路三段336巷 違規停車",
     "address_string": "701台灣台南市東區中華東路三段336巷",
     "lat": "22.974610866225614",
     "long": "120.22104836560675",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-29 18:09:06",
     "expected_datetime": "2017-10-29 15:02:00"
 }

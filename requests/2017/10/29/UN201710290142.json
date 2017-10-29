@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201710290142",
     "requested_datetime": "2017-10-29 16:00:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "噪音舉發",
@@ -9,9 +9,9 @@
     "subproject": "妨害安寧",
     "description": "安南區文安街89號 妨害安寧",
     "address_string": "安南區文安街89號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0266553",
+    "long": "120.2123392",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-29 18:22:56",
     "expected_datetime": "2017-11-05 16:00:00"
 }

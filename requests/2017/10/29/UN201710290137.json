@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710290137",
+    "requested_datetime": "2017-10-29 15:46:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區北門路一段312號，7-11前 違停",
+    "address_string": "東區北門路一段312號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-10-29 18:40:03",
+    "expected_datetime": "2017-11-05 15:46:00"
+}

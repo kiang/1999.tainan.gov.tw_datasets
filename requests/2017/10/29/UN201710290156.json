@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710290156",
     "requested_datetime": "2017-10-29 16:54:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "北區成功路67號 騎樓舉發",
     "address_string": "北區成功路67號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-29 18:23:52",
     "expected_datetime": "2017-11-05 16:54:00"
 }
