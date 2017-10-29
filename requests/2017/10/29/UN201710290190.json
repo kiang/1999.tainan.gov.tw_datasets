@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區勝利路成大醫院 違停",
     "address_string": "東區勝利路成大醫院",
-    "lat": {},
-    "long": {},
+    "lat": "23.0019573",
+    "long": "120.219643",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-05 19:17:00"
