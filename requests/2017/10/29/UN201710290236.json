@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區新行街122巷和新民街66巷 違規停車",
     "address_string": "永康區新行街122巷*新民街66巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.0403064",
+    "long": "120.242801",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-10-29 23:30:00"
