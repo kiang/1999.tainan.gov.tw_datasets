@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710280291",
     "requested_datetime": "2017-10-28 23:28:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "永康區復國一路254號 妨害安寧",
     "address_string": "永康區復國一路254號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-29 07:21:01",
     "expected_datetime": "2017-11-04 23:28:00"
 }
