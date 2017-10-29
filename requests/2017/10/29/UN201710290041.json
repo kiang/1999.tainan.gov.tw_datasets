@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區中華東路二段133巷75號 違規停車",
     "address_string": "中華東路二段133巷75號",
-    "lat": {},
-    "long": {},
+    "lat": "22.985164",
+    "long": "120.235195",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-10-29 09:10:00"
