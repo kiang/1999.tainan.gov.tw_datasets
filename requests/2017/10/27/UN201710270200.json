@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710270200",
     "requested_datetime": "2017-10-27 15:09:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新化區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "人孔蓋或溝蓋聲響鬆動",
     "description": "新化區健康路42號 孔蓋鬆動",
     "address_string": "新化區健康路42號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-30 15:17:05",
     "expected_datetime": "2017-11-03 15:09:00"
 }

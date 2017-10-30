@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710270272",
     "requested_datetime": "2017-10-27 18:14:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "北區東豐路與小東路二路口 紅綠亮不亮",
     "address_string": "北區東豐路與小東路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-30 15:30:53",
     "expected_datetime": "2017-11-03 18:14:00"
 }
