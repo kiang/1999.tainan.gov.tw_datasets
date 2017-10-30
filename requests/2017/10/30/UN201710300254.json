@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710300254",
+    "requested_datetime": "2017-10-30 16:07:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "北區成功路120號 連續噪音",
+    "address_string": "北區成功路120號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-06 16:07:00"
+}
