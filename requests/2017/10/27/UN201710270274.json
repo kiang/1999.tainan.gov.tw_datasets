@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710270274",
     "requested_datetime": "2017-10-27 18:18:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "東區勝利路與小東路口 路燈故障",
     "address_string": "東區勝利路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-30 09:00:16",
     "expected_datetime": "2017-11-03 18:18:00"
 }
