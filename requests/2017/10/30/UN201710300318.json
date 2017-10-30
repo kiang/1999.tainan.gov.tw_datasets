@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201710300318",
+    "requested_datetime": "2017-10-30 19:51:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "歸仁區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "歸仁區中山路三段230巷10號旁 紅線違停",
+    "address_string": "歸仁區中山路三段230巷10號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-06 19:51:00"
+}
