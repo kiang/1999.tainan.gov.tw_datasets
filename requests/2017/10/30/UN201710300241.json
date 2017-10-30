@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710300241",
     "requested_datetime": "2017-10-30 15:37:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區中華西路二段與和緯路五段交叉路口的星巴克咖啡前(和緯路五段那一側) 違規停車",
     "address_string": "中西區中華西路二段和緯路五段",
     "lat": "23.0160545",
     "long": "120.1937805",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-30 19:35:45",
     "expected_datetime": "2017-10-30 15:37:00"
 }

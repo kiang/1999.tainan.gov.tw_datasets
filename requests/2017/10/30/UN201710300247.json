@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710300247",
     "requested_datetime": "2017-10-30 15:56:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區安北路179-181號 違規停車",
     "address_string": "台南安平區安北路179號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-30 19:40:14",
     "expected_datetime": "2017-10-30 15:56:00"
 }
