@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710270356",
     "requested_datetime": "2017-10-27 21:41:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "中西區頂美三街與西湖街口 路燈故障",
     "address_string": "中西區頂美三街",
     "lat": "23.002806",
     "long": "120.1852504",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-10-31 09:39:54",
     "expected_datetime": "2017-11-03 21:41:00"
 }
