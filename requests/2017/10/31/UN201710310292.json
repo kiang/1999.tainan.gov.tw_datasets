@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區金華路三段93號 違停",
     "address_string": "中西區金華路三段93號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9904794",
+    "long": "120.1923458",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-07 21:37:00"
