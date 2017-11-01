@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710310248",
     "requested_datetime": "2017-10-31 18:22:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "安平區民權路四段湖美四街號誌故障",
     "address_string": "安平區民權路四段湖美四街",
     "lat": "23.0050445",
     "long": "120.1860333",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-01 10:46:58",
     "expected_datetime": "2017-10-31 18:22:00"
 }
