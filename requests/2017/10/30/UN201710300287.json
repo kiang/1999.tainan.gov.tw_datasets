@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710300287",
     "requested_datetime": "2017-10-30 17:21:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "東區大同路二段611號 噪音",
     "address_string": "東區大同路二段611號",
     "lat": "22.9682867",
     "long": "120.2158964",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-01 09:54:01",
     "expected_datetime": "2017-11-06 17:21:00"
 }

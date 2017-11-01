@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710300231",
     "requested_datetime": "2017-10-30 15:14:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "柳營區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "柳營區工一路，光洋科技 空污",
     "address_string": "柳營區工一路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-01 09:27:02",
     "expected_datetime": "2017-11-06 15:14:00"
 }
