@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區文賢路801號 違規停車",
     "address_string": "台南市北區文賢路801號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0162501",
+    "long": "120.1934774",
     "service_notice": {},
     "updated_datetime": "2017-11-01 07:40:57",
     "expected_datetime": "2017-11-01 01:00:00"

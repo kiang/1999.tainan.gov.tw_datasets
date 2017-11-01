@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "柳營區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局勤務指揮中心,臺南市政府警察局新營分局",
     "subproject": "違規停車",
     "description": "柳營區義士路一段 7-11旁邊 違規停車",
     "address_string": "柳營區義士路一段 7-11",
     "lat": "23.2853749",
     "long": "120.36573",
     "service_notice": {},
-    "updated_datetime": "2017-10-29 17:43:06",
+    "updated_datetime": "2017-11-01 08:40:40",
     "expected_datetime": "2017-10-29 11:07:00"
 }

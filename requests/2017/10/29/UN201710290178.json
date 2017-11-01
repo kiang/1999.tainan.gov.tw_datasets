@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "安南區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第三分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安南區海佃一段120號 違規停車",
     "address_string": "安南區海佃一段120號",
     "lat": "23.0229428",
     "long": "120.1920076",
     "service_notice": {},
-    "updated_datetime": "2017-10-30 05:49:22",
+    "updated_datetime": "2017-11-01 08:48:31",
     "expected_datetime": "2017-10-29 18:23:00"
 }
