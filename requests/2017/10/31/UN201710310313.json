@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710310313",
     "requested_datetime": "2017-10-31 23:52:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "妨害安寧",
     "description": "北區中華北路一段78巷 大興街285巷 場所連續噪音",
     "address_string": "中華北路一段78巷與大興街285巷交叉路口的建商",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-01 14:03:09",
     "expected_datetime": "2017-10-31 23:52:00"
 }

@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "新營區民治路38號  路燈故障",
     "address_string": "民治路38號",
-    "lat": {},
-    "long": {},
+    "lat": "23.311064",
+    "long": "120.315636",
     "service_notice": {},
     "updated_datetime": "2017-10-31 08:22:10",
     "expected_datetime": "2017-10-30 16:07:00"
