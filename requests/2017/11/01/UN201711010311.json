@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711010311",
+    "requested_datetime": "2017-11-01 19:12:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "東區民族路和北門路口，民族地下道附近 交通疏導",
+    "address_string": "東區民族路北門路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-08 19:12:00"
+}
