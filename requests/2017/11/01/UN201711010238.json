@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711010238",
     "requested_datetime": "2017-11-01 15:51:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "北區開元路154號前面紅線區 違規攤販",
     "address_string": "台南市北區開元路154號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-01 18:35:17",
     "expected_datetime": "2017-11-01 15:51:00"
 }
