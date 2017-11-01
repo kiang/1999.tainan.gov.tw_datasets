@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711010304",
+    "requested_datetime": "2017-11-01 19:04:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "新營區民生路近公園路  違規停車",
+    "address_string": "新營區民生路近公園路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-08 19:04:00"
+}
