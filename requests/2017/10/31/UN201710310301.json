@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710310301",
     "requested_datetime": "2017-10-31 22:24:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區建平九街60巷13弄28號旁 違規停車",
     "address_string": "台南市安平區建平九街60巷13弄28號旁",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-01 07:31:55",
     "expected_datetime": "2017-10-31 22:24:00"
 }

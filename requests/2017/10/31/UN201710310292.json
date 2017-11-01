@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710310292",
     "requested_datetime": "2017-10-31 21:37:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區金華路三段93號 違停",
     "address_string": "中西區金華路三段93號",
     "lat": "22.9904794",
     "long": "120.1923458",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-01 07:18:39",
     "expected_datetime": "2017-11-07 21:37:00"
 }
