@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711020318",
+    "requested_datetime": "2017-11-02 20:32:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌秒差調整",
+    "description": "東區崇德十五街和崇德路口 號誌不連鎖",
+    "address_string": "東區崇德十五街崇德路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-09 20:32:00"
+}

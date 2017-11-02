@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711020317",
+    "requested_datetime": "2017-11-02 20:32:00",
+    "status": {},
+    "keyword": {},
+    "area": "鹽水區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "鹽水區三福路57號 違規停車",
+    "address_string": "737台灣台南市鹽水區三福路57號",
+    "lat": "23.320931464067652",
+    "long": "120.26582437011712",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-02 20:32:00"
+}
