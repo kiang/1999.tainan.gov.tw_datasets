@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711020087",
+    "requested_datetime": "2017-11-02 10:20:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "北區前鋒路與東豐路口 交通疏導",
+    "address_string": "北區前鋒路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-09 10:20:00"
+}

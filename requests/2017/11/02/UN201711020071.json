@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711020071",
+    "requested_datetime": "2017-11-02 09:58:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "南區灣裡路722巷15號前 佔用道路",
+    "address_string": "台南市南區灣裡路722巷15號前",
+    "lat": "22.7363436",
+    "long": "120.3296963",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-02 09:58:00"
+}
