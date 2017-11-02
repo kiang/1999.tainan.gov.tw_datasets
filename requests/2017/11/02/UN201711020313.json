@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "東區北安路一段 佔用道路",
     "address_string": "東區北安路一段",
-    "lat": {},
-    "long": {},
+    "lat": "23.0179648",
+    "long": "120.2083602",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-09 20:22:00"
