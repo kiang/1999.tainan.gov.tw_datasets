@@ -9,8 +9,8 @@
     "subproject": "號誌秒差調整",
     "description": "東區崇德十五街和崇德路口 號誌不連鎖",
     "address_string": "東區崇德十五街崇德路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9701253",
+    "long": "120.2274934",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-09 20:32:00"
