@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711020241",
+    "requested_datetime": "2017-11-02 16:42:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "東區崇道路127號 佔用停車格",
+    "address_string": "東區崇道路127號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-09 16:42:00"
+}
