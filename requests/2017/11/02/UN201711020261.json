@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201711020261",
     "requested_datetime": "2017-11-02 17:41:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "騎樓舉發",
@@ -9,9 +9,9 @@
     "subproject": "騎樓舉發",
     "description": "北區開元郵局前面紅黃線區秀琴鹹酥雞 騎樓舉發",
     "address_string": "北區開元郵局",
-    "lat": {},
-    "long": {},
+    "lat": "23.0070734",
+    "long": "120.21976",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-02 18:49:30",
     "expected_datetime": "2017-11-02 17:41:00"
 }

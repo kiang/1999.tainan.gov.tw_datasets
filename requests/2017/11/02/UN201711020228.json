@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711020228",
     "requested_datetime": "2017-11-02 16:12:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "台南市北區開元路152號158號 騎樓舉發",
     "address_string": "台南市北區開元路152號158號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-02 18:46:30",
     "expected_datetime": "2017-11-02 16:12:00"
 }
