@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711020345",
     "requested_datetime": "2017-11-02 23:29:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "安南區同安路167巷50號附近 妨害安寧",
     "address_string": "安南區同安路167巷50號",
     "lat": "23.0422596",
     "long": "120.1899773",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-03 05:43:30",
     "expected_datetime": "2017-11-09 23:29:00"
 }

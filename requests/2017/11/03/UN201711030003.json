@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711030003",
     "requested_datetime": "2017-11-03 00:19:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "東區東寧路134巷18號 噪音舉發",
     "address_string": "台南市東寧路134巷18號",
     "lat": "22.9903739",
     "long": "120.2228891",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-03 05:45:20",
     "expected_datetime": "2017-11-03 00:19:00"
 }
