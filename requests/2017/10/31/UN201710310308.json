@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201710310308",
     "requested_datetime": "2017-10-31 23:19:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "官田區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "官田區渡頭里三塊厝22號 噪音舉發",
     "address_string": "官田區渡頭里三塊厝22號",
     "lat": "23.1535539",
     "long": "120.3460949",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-02 08:30:06",
     "expected_datetime": "2017-10-31 23:19:00"
 }
