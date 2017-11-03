@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區西門路四段430巷10號 路燈故障",
     "address_string": "北區西門路四段430巷10號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0151975",
+    "long": "120.2108645",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-10 11:40:00"

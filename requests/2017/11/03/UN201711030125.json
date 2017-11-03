@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區裕農路624號、626號 違規停車",
     "address_string": "東區裕農路624號",
-    "lat": {},
-    "long": {},
+    "lat": "22.988476",
+    "long": "120.235649",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-10 11:58:00"
