@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201711030323",
     "requested_datetime": "2017-11-03 21:51:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "噪音舉發",
@@ -9,9 +9,9 @@
     "subproject": "妨害安寧",
     "description": "中西區武聖路114巷12號 妨害安寧",
     "address_string": "中西區武聖路114巷12號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0054178",
+    "long": "120.1929347",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-03 22:54:28",
     "expected_datetime": "2017-11-10 21:51:00"
 }
