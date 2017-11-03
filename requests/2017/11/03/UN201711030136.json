@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711030136",
     "requested_datetime": "2017-11-03 12:35:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區前鋒路與大學路西段口，成功大學 違停",
     "address_string": "東區前鋒路大學路西段",
     "lat": "22.9968638",
     "long": "120.2136234",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-03 14:22:21",
     "expected_datetime": "2017-11-10 12:35:00"
 }
