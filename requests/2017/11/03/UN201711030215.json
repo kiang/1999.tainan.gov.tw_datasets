@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711030215",
+    "requested_datetime": "2017-11-03 16:40:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "台南火車站公車南站及北站 違規停車",
+    "address_string": "南區台南火車站公車南站",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-10 16:40:00"
+}
