@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711030075",
     "requested_datetime": "2017-11-03 08:59:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "安南區安和路一段91巷9號 騎樓舉發",
     "address_string": "安南區安和路一段91巷9號",
     "lat": "23.0277651",
     "long": "120.214074",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-03 16:28:24",
     "expected_datetime": "2017-11-10 08:59:00"
 }

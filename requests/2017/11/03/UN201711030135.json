@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711030135",
+    "requested_datetime": "2017-11-03 12:31:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "中西區北門路一段整段路都是坑坑洞洞不平道路維修",
+    "address_string": "中西區北門路一段97號",
+    "lat": "22.991579",
+    "long": "120.211591",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-03 12:31:00"
+}
