@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711010135",
     "requested_datetime": "2017-11-01 11:41:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心,臺南市動物防疫保護處",
     "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
     "description": "中西區西門路二段70號門口 電信孔蓋\/流浪犬",
     "address_string": "中西區西門路二段70號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-03 17:29:42",
     "expected_datetime": "2017-11-08 11:41:00"
 }
