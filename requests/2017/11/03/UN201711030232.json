@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711030232",
+    "requested_datetime": "2017-11-03 17:28:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "場所連續噪音",
+    "description": "南區新城街60號 噪音舉發",
+    "address_string": "南區新城街60號附近",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-11-03 18:52:07",
+    "expected_datetime": "2017-11-03 17:28:00"
+}
