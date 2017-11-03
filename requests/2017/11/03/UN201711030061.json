@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711030061",
+    "requested_datetime": "2017-11-03 09:27:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區前鋒路上小東路大學路中間，靠近火車鐵軌側 違規停車",
+    "address_string": "東區前鋒路*小東路*大學路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-03 09:27:00"
+}
