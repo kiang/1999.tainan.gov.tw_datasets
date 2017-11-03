@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711010147",
     "requested_datetime": "2017-11-01 12:22:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "安平區華平路656號 空氣污染",
     "address_string": "華平路656號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-03 08:57:57",
     "expected_datetime": "2017-11-01 12:22:00"
 }
