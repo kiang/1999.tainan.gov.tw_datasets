@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711030270",
+    "requested_datetime": "2017-11-03 18:44:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區國華街與復華七街路 違規停車",
+    "address_string": "永康區國華街復華七街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-10 18:44:00"
+}

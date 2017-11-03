@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區成功路6號、火車站公車北站 違停",
     "address_string": "北區成功路6號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9975773",
+    "long": "120.2102911",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-10 19:09:00"
