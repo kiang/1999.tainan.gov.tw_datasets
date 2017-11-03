@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711030024",
     "requested_datetime": "2017-11-03 07:54:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "交通疏導",
     "description": "仁德區文賢路一段與保安路一段口 交通阻塞",
     "address_string": "仁德區文賢路一段保安路一段",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-03 11:16:32",
     "expected_datetime": "2017-11-10 07:54:00"
 }
