@@ -7,11 +7,11 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "永康區西勢路76號 規停車",
+    "description": "永康區西勢路76號 違規停車",
     "address_string": "永康區西勢路76號",
     "lat": "23.0208115",
     "long": "120.2792304",
     "service_notice": {},
-    "updated_datetime": "2017-11-04 14:18:01",
+    "updated_datetime": "2017-11-04 14:18:00",
     "expected_datetime": "2017-11-04 08:01:00"
 }
