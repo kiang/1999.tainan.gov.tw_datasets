@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711040140",
+    "requested_datetime": "2017-11-04 13:38:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區北門路二段34號 違規停車",
+    "address_string": "東區北門路二段34號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-11 13:38:00"
+}
