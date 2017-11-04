@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "新化區正新路361號3樓 空污",
     "address_string": "新化區正新路361號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0401127",
+    "long": "120.302636",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-11 19:04:00"

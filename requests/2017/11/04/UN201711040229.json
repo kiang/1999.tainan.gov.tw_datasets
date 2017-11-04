@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711040229",
     "requested_datetime": "2017-11-04 18:59:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "東區崇德路480號，水果師傅水果店 佔用道路",
     "address_string": "台南市東區崇德路480號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9741425",
+    "long": "120.2272049",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-04 20:20:35",
     "expected_datetime": "2017-11-04 18:59:00"
 }

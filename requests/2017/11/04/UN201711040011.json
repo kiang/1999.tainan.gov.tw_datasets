@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711040011",
     "requested_datetime": "2017-11-04 06:28:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "永康區永安路350號  空氣汙染",
     "address_string": "永康區永安路350號",
     "lat": "23.0496897",
     "long": "120.241261",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-04 20:07:02",
     "expected_datetime": "2017-11-11 06:28:00"
 }
