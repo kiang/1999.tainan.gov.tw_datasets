@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201711040204",
     "requested_datetime": "2017-11-04 17:36:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "騎樓舉發",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-04 19:22:10",
     "expected_datetime": "2017-11-04 17:36:00"
 }
