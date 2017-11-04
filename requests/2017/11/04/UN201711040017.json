@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711040017",
+    "requested_datetime": "2017-11-04 07:36:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "鹽水區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "鹽水區新中路82巷91號 違規停車",
+    "address_string": "鹽水區新中路82巷91號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-11 07:36:00"
+}
