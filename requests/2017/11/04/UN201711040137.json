@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711040137",
     "requested_datetime": "2017-11-04 13:34:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "佳里區中山路447號 違規停車",
     "address_string": "722台灣台南市佳里區中山路447號",
     "lat": "23.165746307216256",
     "long": "120.17807434601082",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-04 18:37:14",
     "expected_datetime": "2017-11-04 13:34:00"
 }
