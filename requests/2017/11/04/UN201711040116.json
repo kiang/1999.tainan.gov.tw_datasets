@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201711040116",
     "requested_datetime": "2017-11-04 12:07:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
@@ -12,6 +12,6 @@
     "lat": "23.0045041",
     "long": "120.2191627",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-04 17:10:00",
     "expected_datetime": "2017-11-04 12:07:00"
 }
