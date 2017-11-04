@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711040265",
     "requested_datetime": "2017-11-04 20:37:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "東區崇學路18號 12F之2 噪音舉發",
     "address_string": "東區崇學路18號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-04 22:05:58",
     "expected_datetime": "2017-11-04 20:37:00"
 }
