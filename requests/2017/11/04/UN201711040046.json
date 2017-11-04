@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711040046",
+    "requested_datetime": "2017-11-04 08:54:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "新市區",
+    "service_name": "民生管線",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "新市區南科大業一路8號門口前 消防栓漏水",
+    "address_string": "新市區南科大業一路8號門口前",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-11 08:54:00"
+}
