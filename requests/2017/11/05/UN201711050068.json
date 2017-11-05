@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711050068",
+    "requested_datetime": "2017-11-05 12:12:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區成功路22巷和北忠街路口  違規停車",
+    "address_string": "台南市北區成功路22巷和北忠街路口",
+    "lat": "22.9994063",
+    "long": "120.2095111",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-05 12:12:00"
+}
