@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711050143",
     "requested_datetime": "2017-11-05 17:01:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區中華東路三段文化中心路邊停車格  違規停車",
     "address_string": "701台灣台南市東區中華東路三段",
     "lat": "22.974072663904330",
     "long": "120.22283039472040",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-06 00:26:05",
     "expected_datetime": "2017-11-05 17:01:00"
 }
