@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711050160",
+    "requested_datetime": "2017-11-05 17:51:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區新興街2號至12號 違停",
+    "address_string": "永康區新興街2號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-12 17:51:00"
+}
