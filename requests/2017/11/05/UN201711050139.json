@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711050139",
     "requested_datetime": "2017-11-05 16:55:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "台南市永康區立興街57巷20號 妨害安寧",
     "address_string": "台南市永康區立興街57巷20號",
     "lat": "23.0030237",
     "long": "120.2648071",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-05 19:24:47",
     "expected_datetime": "2017-11-05 16:55:00"
 }

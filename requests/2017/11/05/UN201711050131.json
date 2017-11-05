@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711050131",
     "requested_datetime": "2017-11-05 16:34:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區東門路二段96號巷 違規停車",
     "address_string": "東區東門路二段96號巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-05 19:20:51",
     "expected_datetime": "2017-11-05 16:34:00"
 }
