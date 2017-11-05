@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區海安路三段135巷91號至145號 路燈不亮",
     "address_string": "北區海安路三段135巷91號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0045092",
+    "long": "120.1973632",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-12 22:17:00"
