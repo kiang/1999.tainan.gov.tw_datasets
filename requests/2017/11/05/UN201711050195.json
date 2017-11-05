@@ -7,11 +7,11 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "新市區中正路 騎樓舉發",
+    "description": "新市區中正路  違規停車",
     "address_string": "新市區中正路",
     "lat": "23.0744714",
     "long": "120.2913989",
     "service_notice": {},
-    "updated_datetime": "2017-11-06 00:33:16",
+    "updated_datetime": "2017-11-06 00:33:00",
     "expected_datetime": "2017-11-05 20:15:00"
 }
