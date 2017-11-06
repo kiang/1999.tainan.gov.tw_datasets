@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "交通運輸",
     "address_string": "永康區大灣路崑大路口",
-    "lat": {},
-    "long": {},
+    "lat": "22.9986083",
+    "long": "120.2519282",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-06 07:55:00"
