@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711060257",
     "requested_datetime": "2017-11-06 16:25:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "新市區銘傳街51號  佔用道路",
     "address_string": "新市區銘傳街51號",
     "lat": "23.0740999",
     "long": "120.2916362",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-07 02:00:14",
     "expected_datetime": "2017-11-06 16:25:00"
 }
