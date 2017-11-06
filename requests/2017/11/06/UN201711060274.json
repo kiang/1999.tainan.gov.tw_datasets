@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711060274",
+    "requested_datetime": "2017-11-06 17:09:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "新化區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府研究發展考核委員會",
+    "subproject": "號誌故障",
+    "description": "交通運輸",
+    "address_string": "新化區民權路75-1號",
+    "lat": "23.0375843",
+    "long": "120.3045844",
+    "service_notice": {},
+    "updated_datetime": "2017-11-06 17:23:42",
+    "expected_datetime": "2017-11-06 17:09:00"
+}
