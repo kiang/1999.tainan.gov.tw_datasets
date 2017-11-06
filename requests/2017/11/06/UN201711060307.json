@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711060307",
+    "requested_datetime": "2017-11-06 18:13:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌秒差調整",
+    "description": "東區中華東路*東門路 號誌不連貫",
+    "address_string": "東區中華東路*東門路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-13 18:13:00"
+}
