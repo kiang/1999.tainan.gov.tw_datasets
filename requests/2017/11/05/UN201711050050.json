@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711050050",
     "requested_datetime": "2017-11-05 10:56:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "歸仁區文化二十街與112巷口 噪音舉發",
     "address_string": "歸仁區文化二十街",
     "lat": "22.9713819",
     "long": "120.273188",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-06 10:02:57",
     "expected_datetime": "2017-11-05 10:56:00"
 }
