@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711060294",
     "requested_datetime": "2017-11-06 17:49:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "北區開元郵局紅線區人行道，秀琴鹹酥雞 佔用道路",
     "address_string": "台南市北區開元郵局",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-07 02:27:02",
     "expected_datetime": "2017-11-06 17:49:00"
 }
