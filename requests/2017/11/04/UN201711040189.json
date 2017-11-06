@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711040189",
     "requested_datetime": "2017-11-04 16:25:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府研究發展考核委員會",
     "subproject": "騎樓舉發",
     "description": "騎樓舉發",
     "address_string": "北區西門路四段280巷12號",
     "lat": "23.0123164",
     "long": "120.2099569",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-06 16:34:56",
     "expected_datetime": "2017-11-04 16:25:00"
 }

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711040051",
     "requested_datetime": "2017-11-04 09:13:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府研究發展考核委員會",
     "subproject": "寬頻管線、孔蓋損壞",
     "description": "安南區漁光路89巷 道路維修",
     "address_string": "安南區漁光路89巷",
     "lat": "22.9765117",
     "long": "120.1601624",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-06 16:34:14",
     "expected_datetime": "2017-11-04 09:13:00"
 }

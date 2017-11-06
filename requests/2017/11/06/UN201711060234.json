@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711060234",
+    "requested_datetime": "2017-11-06 15:57:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "寬頻管線、孔蓋損壞",
+    "description": "東區東門路一段157號 人孔蓋鬆動",
+    "address_string": "東區東門路一段157號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-13 15:57:00"
+}
