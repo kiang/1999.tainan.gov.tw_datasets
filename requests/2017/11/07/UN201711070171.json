@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711070171",
     "requested_datetime": "2017-11-07 15:44:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北 區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "704台灣台南市北區海安路三段113號違規停車",
     "address_string": "704台灣台南市北區海安路三段113號",
     "lat": "23.00405554421692",
     "long": "120.19998338073492",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-07 16:39:35",
     "expected_datetime": "2017-11-07 15:44:00"
 }
