@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711070205",
+    "requested_datetime": "2017-11-07 16:37:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "中西區大同路一段148號 道路維修",
+    "address_string": "700台灣台南市中西區大同路一段148號",
+    "lat": "22.984093",
+    "long": "120.2111289",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-07 16:37:00"
+}
