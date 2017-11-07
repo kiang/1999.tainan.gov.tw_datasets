@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711070298",
+    "requested_datetime": "2017-11-07 20:08:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區車輛於中華東路三段399巷和中華東路三段399巷16弄交叉口 違規停車",
+    "address_string": "中華東路三段399巷和中華東路三段399巷16弄交叉口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-07 20:08:00"
+}
