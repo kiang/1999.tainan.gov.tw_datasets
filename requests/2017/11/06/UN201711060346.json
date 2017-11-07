@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711060346",
     "requested_datetime": "2017-11-06 20:24:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "小廣告、旗幟",
     "description": "安平區華平路口 小廣告、旗幟",
     "address_string": "華平路口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-07 14:09:46",
     "expected_datetime": "2017-11-06 20:24:00"
 }
