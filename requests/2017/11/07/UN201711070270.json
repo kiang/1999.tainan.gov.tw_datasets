@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711070270",
     "requested_datetime": "2017-11-07 18:42:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "東區崇善路740號第一分局旁全家超商隔壁的汽車保養廠門口 妨害安寧",
     "address_string": "台南市東區崇善路 台南市第一分局旁全家超商隔壁的汽車保養廠門口施工單位",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-07 21:34:29",
     "expected_datetime": "2017-11-07 18:42:00"
 }
