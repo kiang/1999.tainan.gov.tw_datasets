@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711060184",
     "requested_datetime": "2017-11-06 13:49:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "中西區西門路二段74巷76號 機器連續噪音,疑似在頂樓",
     "address_string": "中西區西門路二段74巷76號",
     "lat": "22.9921516",
     "long": "120.1986024",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-07 09:39:42",
     "expected_datetime": "2017-11-13 13:49:00"
 }
