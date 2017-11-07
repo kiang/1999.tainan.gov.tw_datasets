@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711070296",
     "requested_datetime": "2017-11-07 20:04:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區勝利路175號  違規停車",
     "address_string": "東區勝利路175號",
     "lat": "24.801195",
     "long": "120.964606",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-08 00:17:13",
     "expected_datetime": "2017-11-14 20:04:00"
 }
