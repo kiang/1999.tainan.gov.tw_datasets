@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711070032",
+    "requested_datetime": "2017-11-07 08:41:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "仁德區義林路149號 號誌故障",
+    "address_string": "仁德區義林路149號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-14 08:41:00"
+}
