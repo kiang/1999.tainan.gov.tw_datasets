@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711080237",
+    "requested_datetime": "2017-11-08 18:44:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心,臺南市停車管理處",
+    "subproject": "違規停車",
+    "description": "文平路318號\/文平路400號 繪劃紅線及違規停車",
+    "address_string": "安平區文平路318號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-11-08 19:30:00",
+    "expected_datetime": "2017-11-15 18:44:00"
+}
