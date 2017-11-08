@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711070245",
     "requested_datetime": "2017-11-07 17:53:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "南區濱南路與灣裡路88巷口 號誌故障",
     "address_string": "南區濱南路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-08 10:44:25",
     "expected_datetime": "2017-11-14 17:53:00"
 }
