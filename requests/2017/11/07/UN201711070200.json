@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201711070200",
     "requested_datetime": "2017-11-07 16:34:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "道路維修",
@@ -12,6 +12,6 @@
     "lat": "22.9820255",
     "long": "120.2116361",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-08 14:36:34",
     "expected_datetime": "2017-11-07 16:34:00"
 }
