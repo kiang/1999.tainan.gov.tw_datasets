@@ -1,5 +1,5 @@
 {
-    "service_request_id": "UN201711080185",
+    "service_request_id": "UN201711080186",
     "requested_datetime": "2017-11-08 15:40:00",
     "status": "已完工",
     "keyword": {},
@@ -7,11 +7,11 @@
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
-    "description": "中西區民權路一段的東門圓環到中山路口 違規停車",
-    "address_string": "中西區民權路一段",
+    "description": "中西區青年路226巷22弄里民活動中心旁 違規停車",
+    "address_string": "台南市中西區青年路226巷22弄",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": "2017-11-08 16:48:31",
+    "updated_datetime": "2017-11-08 16:49:21",
     "expected_datetime": "2017-11-08 15:40:00"
 }
