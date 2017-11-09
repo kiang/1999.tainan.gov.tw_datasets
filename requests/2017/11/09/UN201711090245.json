@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711090245",
     "requested_datetime": "2017-11-09 17:27:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "北區成功路2號前公車北站 違停",
     "address_string": "北區成功路2號前",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-09 19:32:33",
     "expected_datetime": "2017-11-09 17:27:00"
 }
