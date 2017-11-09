@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711090328",
+    "requested_datetime": "2017-11-09 23:08:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "北區開元郵局人行道 騎樓舉發",
+    "address_string": "北區開元郵局人行道",
+    "lat": "23.0070734",
+    "long": "120.21976",
+    "service_notice": {},
+    "updated_datetime": "2017-11-09 23:58:55",
+    "expected_datetime": "2017-11-09 23:08:00"
+}
