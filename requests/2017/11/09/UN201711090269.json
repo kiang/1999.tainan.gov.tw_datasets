@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711090269",
+    "requested_datetime": "2017-11-09 18:29:00",
+    "status": {},
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區榮譽街127巷 違規停車",
+    "address_string": "701台灣台南市東區崇明路266巷28號旁",
+    "lat": "22.977664377561748",
+    "long": "120.21878021780421",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-09 18:29:00"
+}
