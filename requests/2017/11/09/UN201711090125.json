@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711090125",
+    "requested_datetime": "2017-11-09 11:05:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區振興路111號  違停 \/ 無牌廢棄機車",
+    "address_string": "永康區振興路111號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-16 11:05:00"
+}
