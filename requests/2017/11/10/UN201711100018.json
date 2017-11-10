@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711100018",
+    "requested_datetime": "2017-11-10 07:37:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌秒差調整",
+    "description": "永康區中華路上，大橋一街到大橋三街 號誌不連鎖",
+    "address_string": "永康區中華路*大橋一街*大橋三街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-17 07:37:00"
+}
