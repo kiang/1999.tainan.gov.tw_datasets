@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711100043",
+    "requested_datetime": "2017-11-10 08:31:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "北區北安路一段60號前 坑洞",
+    "address_string": "北區北安路一段60號前",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-17 08:31:00"
+}
