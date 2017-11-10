@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711100355",
+    "requested_datetime": "2017-11-10 23:13:00",
+    "status": {},
+    "keyword": {},
+    "area": "鹽水區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "鹽水區金和路216號 違規停車",
+    "address_string": "737台灣台南市鹽水區金和路216號",
+    "lat": "23.326231464486813",
+    "long": "120.25734880555729",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-10 23:13:00"
+}
