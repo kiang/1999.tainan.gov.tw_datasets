@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711100167",
+    "requested_datetime": "2017-11-10 13:25:00",
+    "status": {},
+    "keyword": {},
+    "area": "鹽水區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "鹽水區朝琴路133號 違規停車",
+    "address_string": "737台灣台南市鹽水區朝琴路133號",
+    "lat": "23.322735282499831",
+    "long": "120.27122907755438",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-10 13:25:00"
+}

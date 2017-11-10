@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711100158",
+    "requested_datetime": "2017-11-10 13:01:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區自由路*仁和路139巷60弄  違停",
+    "address_string": "東區自由路*仁和路139巷60弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-17 13:01:00"
+}
