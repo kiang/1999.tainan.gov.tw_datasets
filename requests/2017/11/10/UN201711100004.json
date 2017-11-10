@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711100004",
     "requested_datetime": "2017-11-10 00:40:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
     "description": "永康區忠孝路 復華三街 犬貓急難救援",
     "address_string": "永康區忠孝路 復華三街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-10 16:25:20",
     "expected_datetime": "2017-11-17 00:40:00"
 }
