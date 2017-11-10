@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711100184",
+    "requested_datetime": "2017-11-10 14:10:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "民生管線",
+    "agency": "臺南市政府研究發展考核委員會",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "仁德區機場路588號 民生管線",
+    "address_string": "機場路588號",
+    "lat": "22.9436272",
+    "long": "120.2169541",
+    "service_notice": {},
+    "updated_datetime": "2017-11-10 14:52:06",
+    "expected_datetime": "2017-11-10 14:10:00"
+}
