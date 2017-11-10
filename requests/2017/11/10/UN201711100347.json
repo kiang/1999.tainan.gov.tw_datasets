@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新營區民治路和三興街口，斑馬線上 違停",
     "address_string": "新營區民治路三興街",
-    "lat": {},
-    "long": {},
+    "lat": "23.310038",
+    "long": "120.3099749",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-17 21:27:00"
