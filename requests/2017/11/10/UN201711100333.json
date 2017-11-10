@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711100333",
     "requested_datetime": "2017-11-10 20:26:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區榮譽街127巷 違規停車",
     "address_string": "東區榮譽街127巷",
     "lat": "22.977717812194467",
     "long": "120.2187651303785",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-11 04:45:10",
     "expected_datetime": "2017-11-10 20:26:00"
 }

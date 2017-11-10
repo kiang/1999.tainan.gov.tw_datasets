@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711100313",
     "requested_datetime": "2017-11-10 19:02:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "北區成功路與金華路五段口，菱洲宮 妨害安寧",
     "address_string": "北區成功路金華路五段",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-11 04:36:02",
     "expected_datetime": "2017-11-17 19:02:00"
 }

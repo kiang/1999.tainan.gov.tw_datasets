@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711100340",
     "requested_datetime": "2017-11-10 20:57:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區郡平路，近永華八街 違停",
     "address_string": "安平區郡平路永華八街",
     "lat": "22.9886241",
     "long": "120.1718383",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-11 04:48:17",
     "expected_datetime": "2017-11-17 20:57:00"
 }

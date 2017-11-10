@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711100352",
     "requested_datetime": "2017-11-10 22:47:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區民族路二段，公園路到忠義路口 違規停車",
     "address_string": "民族路二段",
     "lat": "22.99568",
     "long": "120.2057441",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-11 04:56:37",
     "expected_datetime": "2017-11-10 22:47:00"
 }
