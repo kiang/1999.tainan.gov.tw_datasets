@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711110150",
+    "requested_datetime": "2017-11-11 14:08:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": {},
+    "description": "北區成功路與金華路路 違規停車",
+    "address_string": "北區成功路金華路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-18 14:08:00"
+}
