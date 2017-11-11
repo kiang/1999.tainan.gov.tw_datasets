@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711100326",
     "requested_datetime": "2017-11-10 20:18:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "東區東門路二段近裕農路口起 髒亂及汙染",
     "address_string": "東區東門路二段裕農路",
     "lat": "22.9848319",
     "long": "120.2243167",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-11 22:06:27",
     "expected_datetime": "2017-11-10 20:18:00"
 }
