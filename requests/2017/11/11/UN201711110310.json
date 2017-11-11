@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "後壁區台一線286k 號誌故障",
     "address_string": "後壁區台一線286k",
-    "lat": {},
-    "long": {},
+    "lat": "23.4326499",
+    "long": "120.3975861",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-18 21:10:00"
