@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711110016",
     "requested_datetime": "2017-11-11 05:33:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "安南區安和路一段220巷54弄31號 妨害安寧",
     "address_string": "安南區安和路一段220巷54弄31號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-11 10:03:47",
     "expected_datetime": "2017-11-18 05:33:00"
 }

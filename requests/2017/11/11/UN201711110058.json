@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711110058",
+    "requested_datetime": "2017-11-11 09:47:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "鹽水區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "鹽水區朝琴路北門路 違規停車",
+    "address_string": "鹽水區朝琴路北門路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-11-11 10:25:02",
+    "expected_datetime": "2017-11-18 09:47:00"
+}
