@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711120234",
     "requested_datetime": "2017-11-12 21:57:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "安平區府平路與健康三街口 妨害安寧",
     "address_string": "安平區府平路健康三街",
     "lat": "22.987021",
     "long": "120.1682993",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-13 03:50:25",
     "expected_datetime": "2017-11-19 21:57:00"
 }
