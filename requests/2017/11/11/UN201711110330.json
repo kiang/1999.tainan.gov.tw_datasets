@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711110330",
     "requested_datetime": "2017-11-11 23:53:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "中西區民族路二段75號 騎樓舉發",
     "address_string": "民族路二段75號",
     "lat": "22.9944161",
     "long": "120.2092524",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-12 07:11:12",
     "expected_datetime": "2017-11-11 23:53:00"
 }
