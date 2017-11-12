@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711120067",
+    "requested_datetime": "2017-11-12 11:45:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌秒差調整",
+    "description": "東區中華東路一段217巷口 號誌不連鎖",
+    "address_string": "東區中華東路一段217巷口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-19 11:45:00"
+}
