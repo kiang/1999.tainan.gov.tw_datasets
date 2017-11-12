@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711120209",
+    "requested_datetime": "2017-11-12 20:42:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "東區德東街235巷118弄76號前 路燈不亮",
+    "address_string": "東區德東街235巷118弄76號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-19 20:42:00"
+}
