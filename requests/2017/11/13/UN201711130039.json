@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711130039",
     "requested_datetime": "2017-11-13 08:50:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "違規停車",
-    "agency": "臺南市政府交通局,臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局勤務指揮中心,臺南市停車管理處",
     "subproject": "違規停車",
     "description": "安南區總安街一段146巷90號轉92弄,弄口",
     "address_string": "安南區總安街一段146巷92弄",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-13 17:07:58",
     "expected_datetime": "2017-11-20 08:50:00"
 }

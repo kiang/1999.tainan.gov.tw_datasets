@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711130269",
+    "requested_datetime": "2017-11-13 17:16:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中正南路52巷13弄巷口 違規停車",
+    "address_string": "永康區中正南路52巷13弄巷口",
+    "lat": "23.0194462",
+    "long": "120.2222427",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-13 17:16:00"
+}
