@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201711130263",
     "requested_datetime": "2017-11-13 17:02:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "安平區安平路380號 違規停車",
     "address_string": "安平區安平路380號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9982366",
+    "long": "120.1754777",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-13 18:44:37",
     "expected_datetime": "2017-11-13 17:02:00"
 }
