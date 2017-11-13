@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711130327",
     "requested_datetime": "2017-11-13 20:21:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區府前路二段跟府前四街口 違規停車",
     "address_string": "府前路二段府前四街",
     "lat": "22.9930831",
     "long": "120.1847678",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-14 02:21:54",
     "expected_datetime": "2017-11-13 20:21:00"
 }

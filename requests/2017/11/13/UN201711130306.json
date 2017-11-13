@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711130306",
     "requested_datetime": "2017-11-13 19:12:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府水利局,臺南市政府警察局勤務指揮中心",
     "subproject": "交通疏導",
     "description": "中西區台南大學後門，府連路和五妃街口 交通疏導＆未放告示",
     "address_string": "中西區府連路五妃街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-14 02:25:07",
     "expected_datetime": "2017-11-20 19:12:00"
 }
