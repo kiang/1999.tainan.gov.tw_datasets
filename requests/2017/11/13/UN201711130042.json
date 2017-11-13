@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711130042",
+    "requested_datetime": "2017-11-13 08:54:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "佳里區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "佳里區興中街近中山路 疏導交通",
+    "address_string": "佳里區興中街近中山路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-20 08:54:00"
+}

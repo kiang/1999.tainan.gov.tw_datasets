@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711130046",
+    "requested_datetime": "2017-11-13 08:57:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "新化區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "新化區中山路91號  新化分局對面   違停",
+    "address_string": "新化區中山路91號  新化分局對面",
+    "lat": "23.0442465",
+    "long": "120.3153822",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-20 08:57:00"
+}

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711110310",
     "requested_datetime": "2017-11-11 21:10:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "後壁區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "後壁區台一線286k 號誌故障",
     "address_string": "後壁區台一線286k",
     "lat": "23.4326499",
     "long": "120.3975861",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-13 09:26:38",
     "expected_datetime": "2017-11-18 21:10:00"
 }
