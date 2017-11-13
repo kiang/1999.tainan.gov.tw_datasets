@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711100312",
     "requested_datetime": "2017-11-10 19:02:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "鹽水區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "10盞以上路燈故障",
     "description": "鹽水區歡雅里全里，及由鹽水到學甲區之間的台1線上 路燈不亮",
     "address_string": "鹽水區歡雅里",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-13 09:00:14",
     "expected_datetime": "2017-11-17 19:02:00"
 }
