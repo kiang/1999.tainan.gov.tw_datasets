@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711130370",
+    "requested_datetime": "2017-11-13 23:19:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "南區新建路38巷12號對面 漏水",
+    "address_string": "南區新建路38巷12號",
+    "lat": "22.9666443",
+    "long": "120.184647",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-20 23:19:00"
+}
