@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711140293",
     "requested_datetime": "2017-11-14 18:52:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "佳里區仁愛路與成功路口 噪音舉發",
     "address_string": "佳里區仁愛路成功路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-15 06:49:15",
     "expected_datetime": "2017-11-14 18:52:00"
 }
