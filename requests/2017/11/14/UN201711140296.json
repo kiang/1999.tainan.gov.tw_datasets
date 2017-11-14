@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711140296",
+    "requested_datetime": "2017-11-14 19:04:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "南區明興路69號 路燈不亮",
+    "address_string": "南區明興路69號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-21 19:04:00"
+}
