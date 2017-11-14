@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711140171",
+    "requested_datetime": "2017-11-14 13:30:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "新市區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "寬頻管線、孔蓋損壞",
+    "description": "新市區延平街12號 新市火車站附近 寬頻孔蓋鬆動",
+    "address_string": "新市區延平街12號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-21 13:30:00"
+}
