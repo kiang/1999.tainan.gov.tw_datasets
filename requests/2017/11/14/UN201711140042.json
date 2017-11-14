@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711140042",
+    "requested_datetime": "2017-11-14 07:50:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": ":安平區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": ":安平區永華路二段與永華八街口 號誌故障",
+    "address_string": ":安平區永華路二段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-21 07:50:00"
+}
