@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201711130125",
     "requested_datetime": "2017-11-13 11:28:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "龍崎區",
     "service_name": "民生管線",
@@ -12,6 +12,6 @@
     "lat": "23.0020251",
     "long": "120.2348541",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-14 09:03:22",
     "expected_datetime": "2017-11-13 11:28:00"
 }
