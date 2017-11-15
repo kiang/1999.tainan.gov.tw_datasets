@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711140119",
     "requested_datetime": "2017-11-14 10:54:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新化區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "環境髒亂",
     "description": "新化區民治路43巷1號 環境髒亂",
     "address_string": "新化區民治路43巷1號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-15 08:49:45",
     "expected_datetime": "2017-11-21 10:54:00"
 }
