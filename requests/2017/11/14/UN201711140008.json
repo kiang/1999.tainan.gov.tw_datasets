@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711140008",
     "requested_datetime": "2017-11-14 00:40:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "北區北門路 北忠街 號誌故障",
     "address_string": "北區北門路北忠街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-15 15:55:24",
     "expected_datetime": "2017-11-21 00:40:00"
 }
