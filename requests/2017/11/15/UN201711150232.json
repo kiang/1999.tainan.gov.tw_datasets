@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區中華西路二段865號 違規停車",
     "address_string": "中西區中華西路二段865號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0064653",
+    "long": "120.1860442",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-22 17:12:00"
