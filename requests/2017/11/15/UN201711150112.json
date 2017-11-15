@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區林森路一段東門路違規停車",
     "address_string": "東區林森路一段東門路口",
-    "lat": {},
-    "long": {},
+    "lat": "22.9856484",
+    "long": "120.2219106",
     "service_notice": {},
     "updated_datetime": "2017-11-15 13:57:55",
     "expected_datetime": "2017-11-15 11:19:00"
