@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711150201",
+    "requested_datetime": "2017-11-15 15:57:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區長榮路三段66巷2號門口前 違停",
+    "address_string": "東區長榮路三段66巷2號",
+    "lat": "22.9937248",
+    "long": "120.2227954",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-22 15:57:00"
+}
