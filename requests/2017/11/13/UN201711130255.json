@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711130255",
     "requested_datetime": "2017-11-13 16:40:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "新營區太北里23號 空氣汙染",
     "address_string": "台南市新營區太北里23號",
     "lat": "23.2968024",
     "long": "120.2729063",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-15 10:03:50",
     "expected_datetime": "2017-11-13 16:40:00"
 }
