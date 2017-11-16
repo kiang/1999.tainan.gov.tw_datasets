@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711160250",
+    "requested_datetime": "2017-11-16 18:02:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心,臺南市停車管理處",
+    "subproject": "違規停車",
+    "description": "安平區健康一街與建平五街口 違規停車",
+    "address_string": "安平區健康一街",
+    "lat": "22.9851187",
+    "long": "120.1801704",
+    "service_notice": {},
+    "updated_datetime": "2017-11-16 19:36:32",
+    "expected_datetime": "2017-11-23 18:02:00"
+}
