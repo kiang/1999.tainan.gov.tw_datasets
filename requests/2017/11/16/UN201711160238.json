@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711160238",
+    "requested_datetime": "2017-11-16 18:21:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區崇善三街與崇善路口 違規停車",
+    "address_string": "東區崇善三街",
+    "lat": "22.976461",
+    "long": "120.2294402",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-23 18:21:00"
+}
