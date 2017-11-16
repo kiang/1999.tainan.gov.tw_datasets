@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711160302",
     "requested_datetime": "2017-11-16 22:58:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "中西區忠義路二段147巷 妨害安寧",
     "address_string": "台南市忠義路二段147巷",
     "lat": "22.995992",
     "long": "120.2030863",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-17 04:26:41",
     "expected_datetime": "2017-11-16 22:58:00"
 }
