@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711160053",
     "requested_datetime": "2017-11-16 09:26:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "中西區海安路和和平街 號誌故障",
     "address_string": "中西區海安路和和平街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-17 14:13:29",
     "expected_datetime": "2017-11-23 09:26:00"
 }

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711170166",
+    "requested_datetime": "2017-11-17 14:12:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "東區裕農路668巷51弄8號 佔用道路",
+    "address_string": "東區裕農路668巷51弄8號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-24 14:12:00"
+}
