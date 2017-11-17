@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區榮譽街90號 違規停車",
     "address_string": "榮譽街90號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9747369",
+    "long": "120.2175486",
     "service_notice": {},
     "updated_datetime": "2017-11-17 22:52:34",
     "expected_datetime": "2017-11-17 21:40:00"
