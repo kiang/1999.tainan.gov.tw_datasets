@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711170333",
+    "requested_datetime": "2017-11-17 21:29:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府工務局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "安平區國平路與府平路 妨害安寧",
+    "address_string": "安平區國平路府平路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-11-17 22:56:23",
+    "expected_datetime": "2017-11-24 21:29:00"
+}
