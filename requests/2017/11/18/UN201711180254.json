@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711180254",
+    "requested_datetime": "2017-11-18 22:04:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區府前路和西門路口，視覺眼鏡行對面 紅線違停",
+    "address_string": "中西區府前路西門路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-11-18 23:55:23",
+    "expected_datetime": "2017-11-25 22:04:00"
+}
