@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711180184",
     "requested_datetime": "2017-11-18 16:25:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區永安路105巷 違規停車",
     "address_string": "永康區永安路105巷",
     "lat": "23.0434329",
     "long": "120.2453897",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-18 18:02:54",
     "expected_datetime": "2017-11-18 16:25:00"
 }
