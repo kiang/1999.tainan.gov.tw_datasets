@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711180170",
     "requested_datetime": "2017-11-18 16:00:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "南區三和街43號 違規停車",
     "address_string": "南區三和街43號",
     "lat": "22.981016",
     "long": "120.1924081",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-18 22:43:45",
     "expected_datetime": "2017-11-25 16:00:00"
 }
