@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711180172",
+    "requested_datetime": "2017-11-18 15:58:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "台南火車站公車北站、成功路6號、台南公園周邊人行道 違停",
+    "address_string": "台南火車站公車北站",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-25 15:58:00"
+}
