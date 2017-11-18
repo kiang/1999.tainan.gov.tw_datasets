@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區三和街43號 違規停車",
     "address_string": "南區三和街43號",
-    "lat": {},
-    "long": {},
+    "lat": "22.981016",
+    "long": "120.1924081",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-25 16:00:00"

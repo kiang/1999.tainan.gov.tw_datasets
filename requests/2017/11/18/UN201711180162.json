@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "安南區台江大道三段600號附近   空污",
     "address_string": "安南區台江大道三段600號附近",
-    "lat": {},
-    "long": {},
+    "lat": "23.0639886",
+    "long": "120.1630074",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-25 15:31:00"
