@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新市區中正路227、258號，門口人行道 違規停車",
     "address_string": "中正路",
-    "lat": {},
-    "long": {},
+    "lat": "23.984755",
+    "long": "120.7468745",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-19 19:28:00"
