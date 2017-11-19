@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區臨安路一段60-62號 違規停車",
     "address_string": "臨安路一段60號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9989438",
+    "long": "120.1905732",
     "service_notice": {},
     "updated_datetime": "2017-11-19 22:25:37",
     "expected_datetime": "2017-11-19 21:30:00"
