@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711190074",
     "requested_datetime": "2017-11-19 10:52:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區裕忠路191號違規停車",
     "address_string": "東區裕忠路191號",
     "lat": "22.9836606",
     "long": "120.242251",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-19 14:38:06",
     "expected_datetime": "2017-11-19 10:52:00"
 }
