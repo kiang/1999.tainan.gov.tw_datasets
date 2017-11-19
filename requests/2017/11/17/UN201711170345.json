@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711170345",
     "requested_datetime": "2017-11-17 21:08:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "仁德區仁義三街34巷8號 空氣汙染",
     "address_string": "仁德區仁義三街34巷8號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-19 15:13:03",
     "expected_datetime": "2017-11-24 21:08:00"
 }
