@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711190176",
     "requested_datetime": "2017-11-19 18:31:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區永華路，介於公園路與文化路間，往南方向 違停",
     "address_string": "永康區永華路",
     "lat": "23.0149546",
     "long": "120.2583791",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-19 22:18:07",
     "expected_datetime": "2017-11-26 18:31:00"
 }

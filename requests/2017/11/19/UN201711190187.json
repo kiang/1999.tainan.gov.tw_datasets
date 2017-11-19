@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711190187",
     "requested_datetime": "2017-11-19 19:28:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新市區中正路227、258號，門口人行道 違規停車",
     "address_string": "中正路",
     "lat": "23.984755",
     "long": "120.7468745",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-19 22:19:36",
     "expected_datetime": "2017-11-19 19:28:00"
 }
