@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711190166",
     "requested_datetime": "2017-11-19 17:38:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "學甲區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "學甲區三民路9號之1 髒亂及汙染",
     "address_string": "學甲區三民路9號之1",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-19 18:38:00",
     "expected_datetime": "2017-11-19 17:38:00"
 }
