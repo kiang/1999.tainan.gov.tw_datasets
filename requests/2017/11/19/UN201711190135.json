@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201711190135",
     "requested_datetime": "2017-11-19 14:49:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "中西區民權路一段62巷巷口違規停車",
     "address_string": "台南市中西區民權路一段62巷巷口",
-    "lat": {},
-    "long": {},
+    "lat": "23.0017612",
+    "long": "120.1961535",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-19 17:41:33",
     "expected_datetime": "2017-11-19 14:49:00"
 }

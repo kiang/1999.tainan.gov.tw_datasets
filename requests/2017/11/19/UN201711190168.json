@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711190168",
+    "requested_datetime": "2017-11-19 17:53:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "麻豆區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "麻豆新生北路上喬美餐廳 違停",
+    "address_string": "麻豆區新生北路591號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-26 17:53:00"
+}
