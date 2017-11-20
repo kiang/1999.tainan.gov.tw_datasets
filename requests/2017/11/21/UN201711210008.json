@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711210008",
+    "requested_datetime": "2017-11-21 04:12:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "北區公園北路98-1號 噪音舉發",
+    "address_string": "704台灣台南市北區公園北路98-1號",
+    "lat": "23.0047399",
+    "long": "120.2100373",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-21 04:12:00"
+}
