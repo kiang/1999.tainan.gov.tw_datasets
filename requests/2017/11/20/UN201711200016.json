@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711200016",
+    "requested_datetime": "2017-11-20 07:33:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局",
+    "subproject": "違規停車",
+    "description": "南區健康路二段263巷口 違停",
+    "address_string": "南區健康路二段263巷口",
+    "lat": "25.0561253",
+    "long": "121.5715666",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-27 07:33:00"
+}
