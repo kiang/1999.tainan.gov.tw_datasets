@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711200015",
     "requested_datetime": "2017-11-20 07:17:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": {},
     "service_name": {},
-    "agency": "臺南市停車管理處",
+    "agency": "台南市政府",
     "subproject": {},
     "description": "東區德東街136巷6號 繪劃紅線",
     "address_string": {},
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-20 09:48:53",
     "expected_datetime": "2017-11-27 07:17:00"
 }
