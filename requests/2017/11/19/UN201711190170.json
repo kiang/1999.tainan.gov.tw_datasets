@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711190170",
     "requested_datetime": "2017-11-19 17:58:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新化區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
     "description": "新化區陳春陽美術館 動物救援",
     "address_string": "新化區陳春陽美術館",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-20 16:23:06",
     "expected_datetime": "2017-11-26 17:58:00"
 }
