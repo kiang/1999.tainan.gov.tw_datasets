@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711170281",
     "requested_datetime": "2017-11-17 19:02:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "東區崇善路與崇德八街口 號誌故障",
     "address_string": "東區崇善路",
     "lat": "22.9726145",
     "long": "120.2297322",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-20 13:37:56",
     "expected_datetime": "2017-11-24 19:02:00"
 }
