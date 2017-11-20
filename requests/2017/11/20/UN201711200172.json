@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711200172",
+    "requested_datetime": "2017-11-20 13:40:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "楠西區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "楠西區四維路和博愛路口附近，博愛路上 路面凹陷",
+    "address_string": "楠西區博愛路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-27 13:40:00"
+}
