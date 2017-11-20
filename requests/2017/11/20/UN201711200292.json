@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711200292",
+    "requested_datetime": "2017-11-20 18:14:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "東區中華東路二段295巷27弄 十盞以上路燈不亮",
+    "address_string": "東區中華東路二段295巷27弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-27 18:14:00"
+}

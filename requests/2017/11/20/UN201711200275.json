@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711200275",
+    "requested_datetime": "2017-11-20 17:40:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "東區中華東路二段243巷24弄整條、295巷27弄整條 路燈故障",
+    "address_string": "東區中華東路二段243巷24弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-27 17:40:00"
+}
