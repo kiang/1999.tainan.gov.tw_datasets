@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711200283",
     "requested_datetime": "2017-11-20 17:56:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區府前路二段258巷33號一樓前紅線處 違規停車",
     "address_string": "中西區府前路二段258巷33號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-20 21:39:03",
     "expected_datetime": "2017-11-20 17:56:00"
 }
