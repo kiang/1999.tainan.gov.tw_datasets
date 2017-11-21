@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711180114",
     "requested_datetime": "2017-11-18 13:01:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "下營區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "下營區中正北路45號旁邊 孔蓋漏水",
     "address_string": "下營區中正北路45號旁邊",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-21 16:22:48",
     "expected_datetime": "2017-11-25 13:01:00"
 }
