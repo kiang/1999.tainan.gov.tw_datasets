@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711200233",
     "requested_datetime": "2017-11-20 15:52:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "道路維修",
-    "agency": "臺南市政府工務局",
+    "agency": "台南市政府",
     "subproject": "路面下陷、凹陷",
     "description": "東區裕文路2號靠近6號 路面下陷",
     "address_string": "東區裕文路2號靠近6號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-21 11:34:19",
     "expected_datetime": "2017-11-27 15:52:00"
 }
