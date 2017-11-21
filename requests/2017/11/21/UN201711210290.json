@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711210290",
     "requested_datetime": "2017-11-21 20:20:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "南區中華西路一段308號 違規停車",
     "address_string": "702台灣台南市南區中華西路一段308號",
     "lat": "22.983050498781335",
     "long": "120.18637534180300",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-21 23:05:47",
     "expected_datetime": "2017-11-21 20:20:00"
 }
