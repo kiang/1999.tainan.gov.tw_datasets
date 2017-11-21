@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711200307",
     "requested_datetime": "2017-11-20 18:56:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "南科外圍高鐵橋下，環東路一段往南科三路方向，3M對面，路中央 貓屍",
     "address_string": "新市區環東路一段312號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-21 17:08:43",
     "expected_datetime": "2017-11-27 18:56:00"
 }
