@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711210332",
     "requested_datetime": "2017-11-21 23:38:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "南區西門路一段683號  機車違停",
     "address_string": "南區西門路一段683號",
     "lat": "22.9869077",
     "long": "120.1974021",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-22 03:26:08",
     "expected_datetime": "2017-11-28 23:38:00"
 }
