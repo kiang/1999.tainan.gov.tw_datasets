@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711220201",
     "requested_datetime": "2017-11-22 15:49:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區中山路26號 違規停車",
     "address_string": "中西區中山路26號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9931126",
+    "long": "120.2062609",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-22 17:26:14",
     "expected_datetime": "2017-11-22 15:49:00"
 }

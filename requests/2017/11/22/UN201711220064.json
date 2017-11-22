@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711220064",
     "requested_datetime": "2017-11-22 09:33:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府水利局",
     "subproject": "人孔蓋或溝蓋聲響鬆動",
     "description": "永康區龍橋街186巷28號前 汙水孔蓋聲響",
     "address_string": "永康區龍橋街186巷28號前",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-22 17:32:42",
     "expected_datetime": "2017-11-29 09:33:00"
 }
