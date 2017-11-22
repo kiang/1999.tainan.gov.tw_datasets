@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711210331",
     "requested_datetime": "2017-11-21 23:27:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "704台灣台南市北區公園北路96巷2號 連續噪音",
     "address_string": "704台灣台南市北區公園北路96巷2號",
     "lat": "23.0048049",
     "long": "120.2101821",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-22 16:08:35",
     "expected_datetime": "2017-11-21 23:27:00"
 }
