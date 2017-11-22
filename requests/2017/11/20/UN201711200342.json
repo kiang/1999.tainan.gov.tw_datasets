@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711200342",
     "requested_datetime": "2017-11-20 22:11:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "白河區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "白河區中山路1-25號 場所連續噪音",
     "address_string": "白河區中山路1-25號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-22 10:35:02",
     "expected_datetime": "2017-11-27 22:11:00"
 }
