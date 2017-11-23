@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711230130",
+    "requested_datetime": "2017-11-23 12:54:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區裕農路630號^640號 違規停車",
+    "address_string": "東區裕農路630號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-30 12:54:00"
+}
