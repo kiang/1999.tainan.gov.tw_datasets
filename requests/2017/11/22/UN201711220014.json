@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711220014",
     "requested_datetime": "2017-11-22 07:00:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "南區大成路一段\/西門路一段  消防栓漏水",
     "address_string": "南區大成路一段 西門路一段",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-23 10:48:49",
     "expected_datetime": "2017-11-29 07:00:00"
 }
