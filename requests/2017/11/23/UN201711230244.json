@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711230244",
+    "requested_datetime": "2017-11-23 19:05:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區怡平路495號前 違規停車",
+    "address_string": "怡平路495號",
+    "lat": "22.9934484",
+    "long": "120.1762336",
+    "service_notice": {},
+    "updated_datetime": "2017-11-23 20:01:00",
+    "expected_datetime": "2017-11-23 19:05:00"
+}
