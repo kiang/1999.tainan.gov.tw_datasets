@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711230218",
     "requested_datetime": "2017-11-23 17:30:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區大武街597巷及附近巷口 違規停車",
     "address_string": "北區大武街597巷及附近巷口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-23 18:31:08",
     "expected_datetime": "2017-11-30 17:30:00"
 }
