@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711230182",
+    "requested_datetime": "2017-11-23 15:34:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "中西區開山路109巷以及開山路109巷和89巷交叉口  佔用道路",
+    "address_string": "中西區開山路109巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-30 15:34:00"
+}
