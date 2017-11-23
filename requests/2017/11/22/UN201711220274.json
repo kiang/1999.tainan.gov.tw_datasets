@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區府緯街72巷違規停車",
     "address_string": "中西區府緯街72巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.9841385",
+    "long": "120.1981723",
     "service_notice": {},
     "updated_datetime": "2017-11-23 06:33:15",
     "expected_datetime": "2017-11-22 18:45:00"
