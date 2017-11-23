@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711220147",
     "requested_datetime": "2017-11-22 13:33:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安定區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市安定區公所",
     "subproject": "路面坑洞",
     "description": "安定區直加弄大道 道路坑洞",
     "address_string": "直加弄大道往樹谷大道機車道",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-23 16:11:10",
     "expected_datetime": "2017-11-22 13:33:00"
 }
