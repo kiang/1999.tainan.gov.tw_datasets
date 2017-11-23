@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區新行街70號 違規停車",
     "address_string": "台南市永康區新行街70號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0397767",
+    "long": "120.24197",
     "service_notice": {},
     "updated_datetime": "2017-11-23 20:05:41",
     "expected_datetime": "2017-11-23 16:05:00"

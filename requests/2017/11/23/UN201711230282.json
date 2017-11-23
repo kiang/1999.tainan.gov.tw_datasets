@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711230282",
+    "requested_datetime": "2017-11-23 21:28:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區衛民街106號之2 違規停車",
+    "address_string": "中西區衛民街106號之2",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-30 21:28:00"
+}
