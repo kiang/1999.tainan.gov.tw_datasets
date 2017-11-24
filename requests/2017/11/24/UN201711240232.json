@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區大同路一段160號 違規停車",
     "address_string": "中西區大同路一段160號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9837278",
+    "long": "120.2109837",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-24 17:32:00"

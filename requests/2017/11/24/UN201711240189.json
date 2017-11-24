@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711240189",
+    "requested_datetime": "2017-11-24 15:38:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心,臺南市動物防疫保護處",
+    "subproject": "佔用道路",
+    "description": "安南區安和路二段54巷 佔用道路＆流浪狗",
+    "address_string": "安南區安和路二段54巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-11-24 18:21:49",
+    "expected_datetime": "2017-12-01 15:38:00"
+}
