@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711240261",
     "requested_datetime": "2017-11-24 18:55:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區林森路二段35號前和衛國街13巷交叉路口轉彎處 違規停車",
     "address_string": "林森路二段35號衛國街13巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-25 01:28:44",
     "expected_datetime": "2017-11-24 18:55:00"
 }
