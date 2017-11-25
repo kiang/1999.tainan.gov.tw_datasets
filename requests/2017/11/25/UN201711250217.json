@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711250217",
+    "requested_datetime": "2017-11-25 17:12:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "永康區復興路，大灣交流道 交通阻塞",
+    "address_string": "永康區復興路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-02 17:12:00"
+}

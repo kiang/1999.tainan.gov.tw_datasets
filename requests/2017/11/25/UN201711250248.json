@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201711250243",
-    "requested_datetime": "2017-11-25 18:14:00",
+    "service_request_id": "UN201711250248",
+    "requested_datetime": "2017-11-25 18:30:00",
     "status": {},
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "中西區和真街55號 違規停車",
-    "address_string": "台南市中西區和真街55號",
+    "description": "中西區和真街55號前 違規停車",
+    "address_string": "和真街55號",
     "lat": "23.0003593",
     "long": "120.189422",
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2017-11-25 18:14:00"
+    "expected_datetime": "2017-11-25 18:30:00"
 }
