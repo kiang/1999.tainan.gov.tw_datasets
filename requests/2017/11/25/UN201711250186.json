@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區樹林街二段（南門路到永福路口）雙側 違規停車",
     "address_string": "樹林街二段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9861179",
+    "long": "120.2026704",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-25 15:13:00"
