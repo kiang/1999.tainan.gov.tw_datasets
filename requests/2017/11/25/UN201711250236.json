@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711250236",
     "requested_datetime": "2017-11-25 17:58:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "北區公園南路365號，慶山日本料理停車場附近 妨害安寧",
     "address_string": "北區公園南路365號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-26 02:31:47",
     "expected_datetime": "2017-12-02 17:58:00"
 }
