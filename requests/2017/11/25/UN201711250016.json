@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711250016",
+    "requested_datetime": "2017-11-25 03:02:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "新營區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "新營區復興路跟興農街 妨害安寧",
+    "address_string": "新營區復興路 興農街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-11-25 06:56:00",
+    "expected_datetime": "2017-12-02 03:02:00"
+}
