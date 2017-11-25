@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711250211",
     "requested_datetime": "2017-11-25 17:03:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "善化區中山路一等涼冬瓜茶，全國電子  違規停車",
     "address_string": "善化區中山路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-25 18:31:04",
     "expected_datetime": "2017-11-25 17:03:00"
 }
