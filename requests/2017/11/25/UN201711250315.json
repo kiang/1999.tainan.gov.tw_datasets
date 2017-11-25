@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711250315",
     "requested_datetime": "2017-11-25 22:08:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "東區大同路一段241巷51號 妨害安寧",
     "address_string": "東區大同路一段241巷51號",
     "lat": "22.9835192",
     "long": "120.2123408",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-26 01:13:35",
     "expected_datetime": "2017-12-02 22:08:00"
 }
