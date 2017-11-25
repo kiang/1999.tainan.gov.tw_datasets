@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711250075",
+    "requested_datetime": "2017-11-25 09:48:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "中西區民權路三段180號 佔用道路",
+    "address_string": "中西區民權路三段180號",
+    "lat": "22.9976461",
+    "long": "120.195548",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-02 09:48:00"
+}
