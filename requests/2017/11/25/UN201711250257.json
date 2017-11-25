@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711250257",
+    "requested_datetime": "2017-11-25 18:47:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區崇德路763號、765號 紅線違停",
+    "address_string": "東區崇德路763號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-02 18:47:00"
+}
