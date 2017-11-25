@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711250133",
+    "requested_datetime": "2017-11-25 12:12:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區東橋十街32號^82號 違規停車",
+    "address_string": "永康區東橋十街32號",
+    "lat": "23.021896575968945",
+    "long": "120.23230634629725",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-25 12:12:00"
+}
