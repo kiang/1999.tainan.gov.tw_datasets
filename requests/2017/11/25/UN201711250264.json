@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711250264",
     "requested_datetime": "2017-11-25 19:00:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "永康區復國一路325號 佔用道路",
     "address_string": "台南市永康區復國一路325號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-25 22:35:34",
     "expected_datetime": "2017-11-25 19:00:00"
 }

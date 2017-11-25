@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711250312",
+    "requested_datetime": "2017-11-25 22:03:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "北區臨安路和海安路口 妨害安寧",
+    "address_string": "北區臨安路海安路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-11-25 22:47:14",
+    "expected_datetime": "2017-12-02 22:03:00"
+}
