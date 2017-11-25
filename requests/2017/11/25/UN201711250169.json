@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區民生路二段59號 違停",
     "address_string": "中西區民生路二段59號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9948325",
+    "long": "120.1975335",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-12-02 14:15:00"
