@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711260041",
+    "requested_datetime": "2017-11-26 09:20:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "仁德區中正西路與二仁路一段口 妨害安寧",
+    "address_string": "仁德區中正西路二仁路一段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-11-26 09:52:29",
+    "expected_datetime": "2017-12-03 09:20:00"
+}

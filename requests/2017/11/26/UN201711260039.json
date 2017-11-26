@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711260039",
+    "requested_datetime": "2017-11-26 09:11:00",
+    "status": {},
+    "keyword": {},
+    "area": "鹽水區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "鹽水區中正路23之35號 違規停車",
+    "address_string": "鹽水區中正路23之35號",
+    "lat": "23.319912990653251",
+    "long": "120.26774146190178",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-26 09:11:00"
+}
