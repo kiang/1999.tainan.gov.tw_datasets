@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201711260124",
-    "requested_datetime": "2017-11-26 15:33:00",
+    "service_request_id": "UN201711260128",
+    "requested_datetime": "2017-11-26 15:44:00",
     "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
     "agency": "臺南市政府警察局勤務指揮中心",
-    "subproject": "妨害安寧",
+    "subproject": "場所連續噪音",
     "description": "北區東豐路203號 妨害安寧",
-    "address_string": "北區東豐路203號",
+    "address_string": "東豐路203號",
     "lat": "23.0034322",
     "long": "120.2200679",
     "service_notice": {},
-    "updated_datetime": "2017-11-26 16:25:01",
-    "expected_datetime": "2017-11-26 15:33:00"
+    "updated_datetime": "2017-11-26 16:19:00",
+    "expected_datetime": "2017-11-26 15:44:00"
 }
