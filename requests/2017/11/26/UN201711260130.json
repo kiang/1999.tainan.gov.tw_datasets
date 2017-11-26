@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711260130",
+    "requested_datetime": "2017-11-26 15:48:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市南區區公所,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區大同路二段750巷176號轉角處 違規停車\/違建",
+    "address_string": "南區大同路二段750巷176號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-03 15:48:00"
+}
