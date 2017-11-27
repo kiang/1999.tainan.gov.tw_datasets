@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711250173",
     "requested_datetime": "2017-11-25 14:38:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "北區北成路212號前施工 揚塵",
     "address_string": "北區北成路212號",
     "lat": "23.0204757",
     "long": "120.2066229",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-27 08:51:35",
     "expected_datetime": "2017-12-02 14:38:00"
 }
