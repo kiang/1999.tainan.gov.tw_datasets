@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711270362",
     "requested_datetime": "2017-11-27 18:42:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "北區公園路1092巷39號、永康區甲頂路58號前 佔用道路",
     "address_string": "北區公園路1092巷39號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-27 21:28:48",
     "expected_datetime": "2017-12-04 18:42:00"
 }
