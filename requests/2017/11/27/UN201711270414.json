@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711270414",
+    "requested_datetime": "2017-11-27 21:45:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府交通局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區永大路二段436號 違規停車",
+    "address_string": "永康區永大路二段436號",
+    "lat": "23.006931",
+    "long": "120.262267",
+    "service_notice": {},
+    "updated_datetime": "2017-11-27 22:53:19",
+    "expected_datetime": "2017-12-04 21:45:00"
+}
