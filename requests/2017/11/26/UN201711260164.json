@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711260164",
     "requested_datetime": "2017-11-26 18:31:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "10盞以上路燈故障",
     "description": "東區裕敬五街、裕孝三街、裕華三街、裕信六街 路燈不亮",
     "address_string": "東區裕敬五街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-27 11:32:52",
     "expected_datetime": "2017-12-03 18:31:00"
 }
