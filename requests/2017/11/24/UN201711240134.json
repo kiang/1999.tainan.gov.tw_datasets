@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711240134",
     "requested_datetime": "2017-11-24 13:19:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
     "description": "麻豆區安業派出所臺南市麻豆區安業里112號 旁邊路進去 電信桿傾斜",
     "address_string": "麻豆區安業派出所",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-27 15:18:51",
     "expected_datetime": "2017-12-01 13:19:00"
 }

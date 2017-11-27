@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711240100",
     "requested_datetime": "2017-11-24 11:20:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "中西區海安路二段21巷16號 停水",
     "address_string": "中西區海安路二段21巷16號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-27 15:07:42",
     "expected_datetime": "2017-12-01 11:20:00"
 }

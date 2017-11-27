@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711240196",
     "requested_datetime": "2017-11-24 16:04:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "南區南門路與國民與新都路口 民生管線",
     "address_string": "南區南門路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-27 15:18:05",
     "expected_datetime": "2017-12-01 16:04:00"
 }

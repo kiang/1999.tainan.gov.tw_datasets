@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711260169",
     "requested_datetime": "2017-11-26 18:54:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "永康區中正南路472號附近，機車道和慢車道之間 貓屍",
     "address_string": "永康區中正南路472號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-27 15:09:47",
     "expected_datetime": "2017-12-03 18:54:00"
 }
