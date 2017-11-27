@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711270418",
+    "requested_datetime": "2017-11-27 22:25:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區世平ㄧ街8巷 違規停車",
+    "address_string": "世平ㄧ街8巷",
+    "lat": "22.99566",
+    "long": "120.1512386",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-27 22:25:00"
+}
