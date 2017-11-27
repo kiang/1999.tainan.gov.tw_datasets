@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711250255",
     "requested_datetime": "2017-11-25 18:41:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "市區道路路面油漬",
     "description": "中西區金華路四段212號前 路面油漬",
     "address_string": "中西區金華路四段212號",
     "lat": "23.0011711",
     "long": "120.1961453",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-27 14:25:45",
     "expected_datetime": "2017-12-02 18:41:00"
 }
