@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711280190",
+    "requested_datetime": "2017-11-28 13:43:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "中西區民生路二段與海安路二段口，民生路二段上 號誌故障",
+    "address_string": "中西區民生路二段海安路二段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-05 13:43:00"
+}
