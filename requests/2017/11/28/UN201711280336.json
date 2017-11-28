@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區崇德路453號 違停",
     "address_string": "東區崇德路453號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9751401",
+    "long": "120.2260169",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-12-05 18:44:00"
