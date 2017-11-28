@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "髒亂及汙染 test",
     "address_string": "中正路1號",
-    "lat": {},
-    "long": {},
+    "lat": "25.0415073",
+    "long": "121.4652713",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-28 15:40:00"

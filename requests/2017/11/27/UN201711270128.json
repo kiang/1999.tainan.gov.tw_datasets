@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711270128",
     "requested_datetime": "2017-11-27 10:42:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
     "description": "中西區府連路125號旁 民生管線",
     "address_string": "台南市中西區府連路125號旁",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-28 16:42:43",
     "expected_datetime": "2017-11-27 10:42:00"
 }

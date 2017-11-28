@@ -7,10 +7,10 @@
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "安平區府前三街25巷25號 違規停車",
+    "description": "安平區府前三街25巷25號 違規停車 test",
     "address_string": "安平區府前三街25巷25號",
-    "lat": {},
-    "long": {},
+    "lat": "22.993509",
+    "long": "120.1854228",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-28 15:38:00"

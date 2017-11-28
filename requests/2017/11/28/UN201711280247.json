@@ -9,8 +9,8 @@
     "subproject": "路面下陷、凹陷",
     "description": "道路維修 test",
     "address_string": "test",
-    "lat": {},
-    "long": {},
+    "lat": "25.0793033",
+    "long": "121.5815858",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-28 15:26:00"

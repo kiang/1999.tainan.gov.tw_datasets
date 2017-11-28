@@ -9,8 +9,8 @@
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "民生管線 Test",
     "address_string": "建平路335號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9922938",
+    "long": "120.1829373",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-28 15:23:00"

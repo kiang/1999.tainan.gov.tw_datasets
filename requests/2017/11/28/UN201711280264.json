@@ -7,10 +7,10 @@
     "service_name": "交通運輸",
     "agency": "臺南市政府研究發展考核委員會",
     "subproject": "號誌故障",
-    "description": "新化區中正路36號 交通運輸",
+    "description": "新化區中正路36號 交通運輸 test",
     "address_string": "中正路36號",
-    "lat": {},
-    "long": {},
+    "lat": "23.9497266",
+    "long": "120.5759336",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-28 15:40:00"

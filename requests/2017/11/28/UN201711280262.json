@@ -7,10 +7,10 @@
     "service_name": "違規停車",
     "agency": "臺南市政府研究發展考核委員會",
     "subproject": "違規停車",
-    "description": "安平區府前路二段552號 違規停車",
+    "description": "安平區府前路二段552號 違規停車 test",
     "address_string": "府前路二段552號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9931096",
+    "long": "120.1851646",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-28 15:39:00"

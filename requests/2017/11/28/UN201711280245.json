@@ -9,8 +9,8 @@
     "subproject": "妨害安寧",
     "description": "噪音舉發 test",
     "address_string": "test",
-    "lat": {},
-    "long": {},
+    "lat": "25.0793033",
+    "long": "121.5815858",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-28 15:25:00"

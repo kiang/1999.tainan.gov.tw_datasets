@@ -7,10 +7,10 @@
     "service_name": "交通運輸",
     "agency": "臺南市政府研究發展考核委員會",
     "subproject": "號誌故障",
-    "description": "交通運輸",
+    "description": "交通運輸 test",
     "address_string": "test",
-    "lat": {},
-    "long": {},
+    "lat": "25.0793033",
+    "long": "121.5815858",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-28 15:29:00"
