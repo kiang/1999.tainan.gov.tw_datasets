@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711280057",
+    "requested_datetime": "2017-11-28 09:08:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區小東路685巷跟忠勇街口 違停",
+    "address_string": "永康區小東路685巷忠勇街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-05 09:08:00"
+}
