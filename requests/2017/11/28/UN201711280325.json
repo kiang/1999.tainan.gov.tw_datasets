@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711280325",
+    "requested_datetime": "2017-11-28 18:17:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "東區大同路跟府連路健康路口 交通疏導",
+    "address_string": "東區大同路跟府連路健康路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-05 18:17:00"
+}
