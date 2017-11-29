@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711290028",
     "requested_datetime": "2017-11-29 07:57:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區東豐路、勝利路路口人行道 違規停車",
     "address_string": "北區東豐路勝利路",
     "lat": "23.0035221",
     "long": "120.218757",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-29 17:54:17",
     "expected_datetime": "2017-11-29 07:57:00"
 }
