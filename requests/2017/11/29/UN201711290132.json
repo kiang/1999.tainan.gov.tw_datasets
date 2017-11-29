@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711290132",
+    "requested_datetime": "2017-11-29 10:38:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "中西區府連路^五妃街往大同路方向  交通疏導",
+    "address_string": "中西區府連路^五妃街往大同路方向",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-06 10:38:00"
+}

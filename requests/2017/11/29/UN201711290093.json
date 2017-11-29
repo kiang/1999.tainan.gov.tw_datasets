@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711290093",
+    "requested_datetime": "2017-11-29 09:45:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "中西區大同路一段210號 交通阻塞",
+    "address_string": "中西區大同路一段210號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-06 09:45:00"
+}
