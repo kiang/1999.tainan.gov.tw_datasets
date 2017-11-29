@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711290305",
+    "requested_datetime": "2017-11-29 16:45:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "仁德區太乙七街整條 佔用道路",
+    "address_string": "仁德區太乙七街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-06 16:45:00"
+}
