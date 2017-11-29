@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711290387",
     "requested_datetime": "2017-11-29 20:13:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安南區公學路五段697巷163號 違規停車",
     "address_string": "709台灣台南市安南區公學路五段697巷163號",
     "lat": "23.0712674",
     "long": "120.159375",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-30 00:50:56",
     "expected_datetime": "2017-11-29 20:13:00"
 }
