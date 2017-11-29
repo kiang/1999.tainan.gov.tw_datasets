@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711280252",
     "requested_datetime": "2017-11-28 15:30:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "玉井區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府研究發展考核委員會",
     "subproject": "9盞以下路燈故障",
     "description": "路燈故障 test",
     "address_string": "test",
     "lat": "25.0793033",
     "long": "121.5815858",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-29 14:13:13",
     "expected_datetime": "2017-11-28 15:30:00"
 }
