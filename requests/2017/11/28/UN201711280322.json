@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711280322",
     "requested_datetime": "2017-11-28 18:11:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "北區海安路三段與文成三路 路燈故障",
     "address_string": "北區海安路三段*文成三路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-29 08:41:29",
     "expected_datetime": "2017-12-05 18:11:00"
 }
