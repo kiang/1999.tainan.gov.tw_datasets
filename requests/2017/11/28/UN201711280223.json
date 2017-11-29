@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711280223",
     "requested_datetime": "2017-11-28 15:05:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府研究發展考核委員會",
     "subproject": "騎樓舉發",
     "description": "安平區健康路三段392號 騎樓舉發 test",
     "address_string": "安平區健康路三段392號",
     "lat": "22.9849338",
     "long": "120.1679744",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-29 16:33:25",
     "expected_datetime": "2017-11-28 15:05:00"
 }
