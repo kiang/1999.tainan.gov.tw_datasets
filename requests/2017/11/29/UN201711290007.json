@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安平區永華八街與怡平路 違規停車",
     "address_string": "永華八街與怡平路口",
-    "lat": {},
-    "long": {},
+    "lat": "22.993051",
+    "long": "120.178596",
     "service_notice": {},
     "updated_datetime": "2017-11-29 03:59:43",
     "expected_datetime": "2017-11-29 01:31:00"
