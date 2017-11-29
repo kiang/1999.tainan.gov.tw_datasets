@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201711280264",
     "requested_datetime": "2017-11-28 15:40:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新化區",
     "service_name": "交通運輸",
@@ -12,6 +12,6 @@
     "lat": "23.9497266",
     "long": "120.5759336",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-29 09:27:30",
     "expected_datetime": "2017-11-28 15:40:00"
 }
