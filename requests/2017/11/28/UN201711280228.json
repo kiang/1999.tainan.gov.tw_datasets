@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711280228",
     "requested_datetime": "2017-11-28 15:18:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府研究發展考核委員會",
     "subproject": "違規停車",
     "description": "新營區 違規停車 test",
     "address_string": "test",
     "lat": "24.695906",
     "long": "120.883257",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-29 15:52:10",
     "expected_datetime": "2017-11-28 15:18:00"
 }

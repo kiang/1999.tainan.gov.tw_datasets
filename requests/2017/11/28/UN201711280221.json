@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711280221",
     "requested_datetime": "2017-11-28 15:04:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府研究發展考核委員會",
     "subproject": "妨害安寧",
     "description": "中西區河中街33-1號 妨害安寧 test",
     "address_string": "河中街33-1號",
     "lat": "22.995218",
     "long": "120.1930389",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-29 15:53:00",
     "expected_datetime": "2017-11-28 15:04:00"
 }

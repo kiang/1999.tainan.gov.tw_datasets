@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201711280232",
     "requested_datetime": "2017-11-28 15:19:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東山區",
     "service_name": "騎樓舉發",
@@ -12,6 +12,6 @@
     "lat": "24.695906",
     "long": "120.883257",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-29 15:02:23",
     "expected_datetime": "2017-11-28 15:19:00"
 }
