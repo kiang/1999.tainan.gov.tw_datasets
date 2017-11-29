@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區前鋒路，大學路跟小東路中間，靠近小東路 違規停車",
     "address_string": "前鋒路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9968638",
+    "long": "120.2136234",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-11-29 17:39:00"

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711290206",
     "requested_datetime": "2017-11-29 13:46:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區萬昌街與興華街 違規停車",
     "address_string": "中西區萬昌街*興華街",
     "lat": "22.9920332",
     "long": "120.2105536",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-29 18:39:51",
     "expected_datetime": "2017-11-29 13:46:00"
 }
