@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711300348",
+    "requested_datetime": "2017-11-30 19:07:00",
+    "status": {},
+    "keyword": {},
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區鹽埕路269號 違規停車",
+    "address_string": "南區鹽埕路269號",
+    "lat": "22.9707628",
+    "long": "120.1898572",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-11-30 19:07:00"
+}
