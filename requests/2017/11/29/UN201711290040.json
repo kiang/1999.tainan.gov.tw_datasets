@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711290040",
     "requested_datetime": "2017-11-29 08:16:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "中西區西門路二段76號,\"立多旅舍\"",
     "address_string": "中西區西門路二段76號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-30 20:24:22",
     "expected_datetime": "2017-12-06 08:16:00"
 }

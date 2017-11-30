@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711300352",
+    "requested_datetime": "2017-11-30 19:15:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區復國二路215巷和國華街102巷交叉口 紅線違停",
+    "address_string": "永康區復國二路215巷國華街102巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-07 19:15:00"
+}
