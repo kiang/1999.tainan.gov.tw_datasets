@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711300279",
+    "requested_datetime": "2017-11-30 16:08:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "東區崇明路266巷28號 佔用道路",
+    "address_string": "東區崇明路266巷28號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-07 16:08:00"
+}

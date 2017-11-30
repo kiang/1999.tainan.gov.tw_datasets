@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711300249",
     "requested_datetime": "2017-11-30 15:06:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區中山東路123號 違規停車",
     "address_string": "永康區中山東路123號",
     "lat": "23.0124391",
     "long": "120.236816",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-30 16:52:48",
     "expected_datetime": "2017-12-07 15:06:00"
 }
