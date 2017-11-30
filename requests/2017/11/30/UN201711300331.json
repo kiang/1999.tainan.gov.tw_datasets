@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711300331",
     "requested_datetime": "2017-11-30 18:30:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "中西區金華新路康樂街騎樓舉發",
     "address_string": "中西區金華新路康樂街",
     "lat": "22.9930402",
     "long": "120.1945415",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-11-30 23:05:11",
     "expected_datetime": "2017-11-30 18:30:00"
 }

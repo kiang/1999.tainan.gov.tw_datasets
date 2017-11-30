@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201711300408",
+    "requested_datetime": "2017-11-30 22:20:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "中西區保安路保安宮 妨害安寧",
+    "address_string": "中西區保安路保安宮",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-11-30 23:27:16",
+    "expected_datetime": "2017-12-07 22:20:00"
+}
