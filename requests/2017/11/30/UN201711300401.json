@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711300401",
     "requested_datetime": "2017-11-30 22:01:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東 區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "東區怡東路179號 噪音舉發",
     "address_string": "701台灣台南市東區怡東路179號",
     "lat": "22.994743103275038",
     "long": "120.22850967943668",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-01 00:02:54",
     "expected_datetime": "2017-11-30 22:01:00"
 }
