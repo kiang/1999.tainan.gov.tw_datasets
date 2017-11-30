@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712010007",
     "requested_datetime": "2017-12-01 02:32:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "中西區金華新路43號3樓噪音舉發",
     "address_string": "台南市金華新路43號3樓",
     "lat": "22.9933157",
     "long": "120.1932024",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-01 05:21:11",
     "expected_datetime": "2017-12-01 02:32:00"
 }

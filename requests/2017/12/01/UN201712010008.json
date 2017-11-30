@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712010008",
+    "requested_datetime": "2017-12-01 02:48:00",
+    "status": {},
+    "keyword": {},
+    "area": "東 區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "東區長榮路二段32巷142號5F 噪音舉發",
+    "address_string": "台灣省台南市東區長榮路二段32巷142號5F",
+    "lat": "22.987736591094396",
+    "long": "120.22169016301632",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-01 02:48:00"
+}
