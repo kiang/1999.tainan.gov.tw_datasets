@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712010284",
+    "requested_datetime": "2017-12-01 18:24:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "交通疏導",
+    "description": "安南區北安路黃昏市場一直到北安路尾 交通疏導",
+    "address_string": "安南區北安路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-12-01 20:58:44",
+    "expected_datetime": "2017-12-08 18:24:00"
+}
