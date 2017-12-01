@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712010114",
+    "requested_datetime": "2017-12-01 10:52:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區大仁街207-3號 違停",
+    "address_string": "永康區大仁街207-3號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-08 10:52:00"
+}
