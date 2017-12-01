@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712010165",
+    "requested_datetime": "2017-12-01 13:08:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區西門路四段458號燒烤店家",
+    "address_string": "北區西門路四段458號",
+    "lat": "23.0160884",
+    "long": "120.2107926",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-08 13:08:00"
+}
