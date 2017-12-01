@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201712010347",
-    "requested_datetime": "2017-12-01 22:19:00",
+    "service_request_id": "UN201712010318",
+    "requested_datetime": "2017-12-01 19:50:00",
     "status": "未處理",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "東區東門路二段158巷  紅線違規停車",
+    "description": "東區東門路二段158巷，近光華街 違停",
     "address_string": "東區東門路二段158巷",
-    "lat": "22.9848616",
-    "long": "120.2207529",
+    "lat": {},
+    "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2017-12-08 22:19:00"
+    "expected_datetime": "2017-12-08 19:50:00"
 }
