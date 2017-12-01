@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712010310",
+    "requested_datetime": "2017-12-01 19:30:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局",
+    "subproject": "9盞以下路燈故障",
+    "description": "安平區健康一街57巷口 路燈乙盞不亮",
+    "address_string": "安平區健康一街57巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-08 19:30:00"
+}
