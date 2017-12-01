@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711300029",
     "requested_datetime": "2017-11-30 08:16:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "安平區國平路591巷56號58號 噪音",
     "address_string": "安平區國平路591巷56號58號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-01 09:34:06",
     "expected_datetime": "2017-12-07 08:16:00"
 }
