@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712010060",
     "requested_datetime": "2017-12-01 09:39:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新化區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "新營區八德路2號，瀝青廠 空污",
     "address_string": "新營區八德路2號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-01 17:38:50",
     "expected_datetime": "2017-12-08 09:39:00"
 }
