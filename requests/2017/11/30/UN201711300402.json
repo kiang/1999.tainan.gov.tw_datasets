@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711300402",
     "requested_datetime": "2017-11-30 22:00:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府環境保護局,臺南市政府警察局第五分局",
     "subproject": "場所連續噪音",
     "description": "北區海安路連雅堂紀念公園外 廟會連續噪音",
     "address_string": "北區海安路連雅堂紀念公園外",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-01 11:16:01",
     "expected_datetime": "2017-12-07 22:00:00"
 }
