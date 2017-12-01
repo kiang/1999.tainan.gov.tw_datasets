@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711300409",
     "requested_datetime": "2017-11-30 22:25:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "佳里區三協里菜寮 空汙",
     "address_string": "佳里區三協里菜寮",
     "lat": "23.175383",
     "long": "120.198609",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-01 14:39:23",
     "expected_datetime": "2017-12-07 22:25:00"
 }
