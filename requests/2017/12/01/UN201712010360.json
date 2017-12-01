@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "南區南華街跟永華路一段  號誌故障",
     "address_string": "南區南華街 永華路一段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9883315",
+    "long": "120.191018",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-12-08 23:37:00"

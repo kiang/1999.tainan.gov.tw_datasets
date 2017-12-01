@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "安平區永華路二段與文平路 交通運輸",
     "address_string": "永華路二段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9908679",
+    "long": "120.1721649",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-12-02 00:25:00"
