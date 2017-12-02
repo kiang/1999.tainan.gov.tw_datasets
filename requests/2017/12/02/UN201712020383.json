@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區東豐路227巷24弄50-7號 紅線違停",
     "address_string": "北區東豐路227巷24弄50之7號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0043419",
+    "long": "120.2209582",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-12-09 20:37:00"

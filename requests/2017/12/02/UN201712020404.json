@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712020404",
     "requested_datetime": "2017-12-02 22:11:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "柳營區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "柳營區康樂街 廟會活動",
     "address_string": "柳營區康樂街",
     "lat": "23.2782879",
     "long": "120.317077",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-02 23:04:00",
     "expected_datetime": "2017-12-09 22:11:00"
 }
