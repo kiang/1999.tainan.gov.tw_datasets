@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712020295",
+    "requested_datetime": "2017-12-02 16:17:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區裕學路12號烘焙坊  違停",
+    "address_string": "東區裕學路12號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-09 16:17:00"
+}
