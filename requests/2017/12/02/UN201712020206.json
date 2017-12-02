@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712020206",
+    "requested_datetime": "2017-12-02 12:04:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區安北路*州平三街 違停",
+    "address_string": "安平區安北路*州平三街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-09 12:04:00"
+}
