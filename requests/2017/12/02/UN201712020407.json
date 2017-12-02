@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712020407",
     "requested_datetime": "2017-12-02 22:33:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "善化區永福路與永安路公園 妨害安寧",
     "address_string": "臺南市善化區永福路永安路",
     "lat": "23.1288123",
     "long": "120.2881159",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-03 05:22:40",
     "expected_datetime": "2017-12-02 22:33:00"
 }
