@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712020306",
     "requested_datetime": "2017-12-02 16:39:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "台南市永康區大灣二街22號 妨害安寧",
     "address_string": "台南市永康區大灣二街22號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-02 19:14:23",
     "expected_datetime": "2017-12-02 16:39:00"
 }
