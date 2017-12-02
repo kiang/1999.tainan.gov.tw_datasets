@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712020383",
+    "requested_datetime": "2017-12-02 20:37:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區東豐路227巷24弄50-7號 紅線違停",
+    "address_string": "北區東豐路227巷24弄50之7號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-09 20:37:00"
+}
