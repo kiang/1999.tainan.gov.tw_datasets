@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "台南市中西區永福路一段68巷11號前違規停車",
     "address_string": "台南市中西區永福路一段68巷11號前",
-    "lat": {},
-    "long": {},
+    "lat": "22.987044",
+    "long": "120.200647",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-12-02 16:24:00"
