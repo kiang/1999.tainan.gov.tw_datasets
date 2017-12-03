@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201712030193",
     "requested_datetime": "2017-12-03 17:57:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
@@ -12,6 +12,6 @@
     "lat": "22.9958874",
     "long": "120.1757494",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-03 22:53:23",
     "expected_datetime": "2017-12-03 17:57:00"
 }
