@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712030179",
     "requested_datetime": "2017-12-03 17:23:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市立圖書館,臺南市政府消防局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "台南市北區公園北路3號 佔用道路",
     "address_string": "台南市北區公園北路3號",
     "lat": "23.0036811",
     "long": "120.2121579",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-03 19:23:44",
     "expected_datetime": "2017-12-03 17:23:00"
 }

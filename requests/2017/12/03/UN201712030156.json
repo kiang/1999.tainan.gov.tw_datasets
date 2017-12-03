@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712030156",
     "requested_datetime": "2017-12-03 15:41:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區民生路一段215號 違規停車",
     "address_string": "中西區民生路一段215號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-03 19:16:53",
     "expected_datetime": "2017-12-03 15:41:00"
 }
