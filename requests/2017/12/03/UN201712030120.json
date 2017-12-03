@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712030120",
+    "requested_datetime": "2017-12-03 13:35:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "新營區三民路128-5號附近 違停",
+    "address_string": "新營區三民路128-5號附近",
+    "lat": "23.3070852",
+    "long": "120.3129612",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-10 13:35:00"
+}
