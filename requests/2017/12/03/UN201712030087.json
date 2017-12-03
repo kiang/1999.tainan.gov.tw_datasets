@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712030087",
+    "requested_datetime": "2017-12-03 11:24:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "龍崎區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "龍崎區龍崎國中大門雙側汽車  佔用道路",
+    "address_string": "龍崎區龍崎國中",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-10 11:24:00"
+}
