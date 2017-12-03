@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201711290363",
     "requested_datetime": "2017-11-29 18:57:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "永康區永明街國民路 號誌故障",
     "address_string": "永康區永明街國民路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-03 10:06:28",
     "expected_datetime": "2017-12-06 18:57:00"
 }
