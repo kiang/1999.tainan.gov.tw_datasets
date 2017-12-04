@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區中山南路1042號  違停",
     "address_string": "永康區中山南路1042號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0253751",
+    "long": "120.2555897",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-12-11 08:00:00"
