@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712040004",
     "requested_datetime": "2017-12-04 00:21:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安定區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "市區道路路面油漬",
     "description": "安定區港子尾37之28號 市區道路路面油漬",
     "address_string": "安定區港子尾37之28號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-04 13:21:14",
     "expected_datetime": "2017-12-11 00:21:00"
 }

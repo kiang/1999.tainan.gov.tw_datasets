@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712030113",
     "requested_datetime": "2017-12-03 12:51:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "六甲區",
     "service_name": {},
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "路面油漬",
     "description": "六甲區中山路和中山路700巷 路面油漬",
     "address_string": "六甲區中山路和中山路700巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-04 13:05:27",
     "expected_datetime": "2017-12-10 12:51:00"
 }

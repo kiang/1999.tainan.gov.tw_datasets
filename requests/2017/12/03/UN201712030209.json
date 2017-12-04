@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712030209",
     "requested_datetime": "2017-12-03 18:28:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "安南區安和路一段溪頂寮橋往安南區 散落物",
     "address_string": "安南區安和路一段溪頂寮橋往安南區",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-04 13:06:48",
     "expected_datetime": "2017-12-10 18:28:00"
 }
