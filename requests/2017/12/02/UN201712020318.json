@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712020318",
     "requested_datetime": "2017-12-02 17:13:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "善化區小新里目加溜灣大道 空氣汙染",
     "address_string": "善化區小新里目加溜灣大道",
     "lat": "23.1191562",
     "long": "120.3113751",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-04 08:59:33",
     "expected_datetime": "2017-12-09 17:13:00"
 }
