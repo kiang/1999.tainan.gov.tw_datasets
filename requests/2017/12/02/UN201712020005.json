@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "安南區大安街755號 空氣汙染(提供案件編號)",
     "address_string": "安南區大安街755號",
-    "lat": {},
-    "long": {},
+    "lat": "23.041007",
+    "long": "120.1894073",
     "service_notice": {},
     "updated_datetime": "2017-12-02 20:14:16",
     "expected_datetime": "2017-12-09 00:45:00"

@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區新民街接新中街 違規停車",
     "address_string": "新民街",
-    "lat": {},
-    "long": {},
+    "lat": "25.1788798",
+    "long": "121.4367281",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-12-04 23:46:00"
