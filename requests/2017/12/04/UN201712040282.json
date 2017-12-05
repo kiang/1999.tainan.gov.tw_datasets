@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712040282",
     "requested_datetime": "2017-12-04 18:10:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "安南區安和路四段與台江大道一段口，台江大道一段上 號誌故障",
     "address_string": "安南區安和路四段台江大道一段",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-05 09:55:45",
     "expected_datetime": "2017-12-11 18:10:00"
 }
