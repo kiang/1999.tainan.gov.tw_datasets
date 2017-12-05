@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712050135",
+    "requested_datetime": "2017-12-05 13:33:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區民族路二段六三號；9號；8-16號 違規停車",
+    "address_string": "中西區民族路二段63號",
+    "lat": "22.9943593",
+    "long": "120.209799",
+    "service_notice": {},
+    "updated_datetime": "2017-12-05 14:43:50",
+    "expected_datetime": "2017-12-05 13:33:00"
+}
