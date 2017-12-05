@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712050152",
     "requested_datetime": "2017-12-05 13:44:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "中西區湖美街163號 妨害安寧",
     "address_string": "中西區湖美街163號",
     "lat": "23.002692",
     "long": "120.179537",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-05 17:36:00",
     "expected_datetime": "2017-12-12 13:44:00"
 }
