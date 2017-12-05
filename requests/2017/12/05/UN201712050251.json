@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712050251",
+    "requested_datetime": "2017-12-05 18:57:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "寬頻管線、孔蓋損壞",
+    "description": "南區中華西路一段和新仁路T字路口，由西往東方向，往北走接近轉彎處 水溝蓋下陷",
+    "address_string": "南區中華西路一段新仁路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-12 18:57:00"
+}
