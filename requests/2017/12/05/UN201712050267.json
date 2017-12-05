@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712050267",
     "requested_datetime": "2017-12-05 19:28:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區勝利路258號 黃線違停",
     "address_string": "北區勝利路258號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-05 22:12:38",
     "expected_datetime": "2017-12-12 19:28:00"
 }
