@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712050128",
+    "requested_datetime": "2017-12-05 13:10:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "寬頻管線、孔蓋損壞",
+    "description": "北區北安路和育德街附近，金菊富日本料理旁停車場前人行道 水溝蓋破損",
+    "address_string": "北區北安路育德街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-12 13:10:00"
+}
