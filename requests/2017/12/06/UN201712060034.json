@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712060034",
+    "requested_datetime": "2017-12-06 08:27:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局",
+    "subproject": "9盞以下路燈故障",
+    "description": "安平區安億橋^光州路(林默娘公園前方該段)    路燈",
+    "address_string": "安平區安億橋^光州路(林默娘公園前方該段)",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-13 08:27:00"
+}

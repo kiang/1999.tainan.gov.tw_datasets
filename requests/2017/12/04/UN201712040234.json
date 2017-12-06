@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712040234",
     "requested_datetime": "2017-12-04 16:35:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "北區育德路512號胖老爹 空氣汙染",
     "address_string": "北區育德路512號胖老爹",
     "lat": "23.011616",
     "long": "120.206294",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-06 08:56:49",
     "expected_datetime": "2017-12-11 16:35:00"
 }
