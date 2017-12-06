@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712050125",
     "requested_datetime": "2017-12-05 13:02:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "南區大成路二段164巷口旁 消防栓漏水",
     "address_string": "南區大成路二段164巷",
     "lat": "22.9751792",
     "long": "120.1934152",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-06 14:26:13",
     "expected_datetime": "2017-12-12 13:02:00"
 }
