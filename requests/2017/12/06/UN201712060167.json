@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712060167",
+    "requested_datetime": "2017-12-06 15:27:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區忠義街45號  紅線違停",
+    "address_string": "永康區忠義街45號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-12-06 16:00:54",
+    "expected_datetime": "2017-12-13 15:27:00"
+}
