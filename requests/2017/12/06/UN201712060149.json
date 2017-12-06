@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區西門路一段468號  違規停車",
     "address_string": "中西區西門路一段468號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9832127",
+    "long": "120.1976981",
     "service_notice": {},
     "updated_datetime": "2017-12-06 15:57:40",
     "expected_datetime": "2017-12-13 13:59:00"

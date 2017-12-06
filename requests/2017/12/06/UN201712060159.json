@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區夏林路310號 違停",
     "address_string": "南區夏林路310號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9759935",
+    "long": "120.1953123",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-12-13 15:07:00"

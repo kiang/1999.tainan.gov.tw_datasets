@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區忠義街45號  紅線違停",
     "address_string": "永康區忠義街45號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0002092",
+    "long": "120.2362565",
     "service_notice": {},
     "updated_datetime": "2017-12-06 16:00:54",
     "expected_datetime": "2017-12-13 15:27:00"
