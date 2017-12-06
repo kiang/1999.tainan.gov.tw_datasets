@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712040238",
     "requested_datetime": "2017-12-04 16:30:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "安南區安昌街103巷 空氣汙染",
     "address_string": "安南區安昌街103巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-07 01:48:14",
     "expected_datetime": "2017-12-11 16:30:00"
 }
