@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712060275",
+    "requested_datetime": "2017-12-06 22:19:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區崑大路256號 紅線違停",
+    "address_string": "永康區崑大路256號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-13 22:19:00"
+}
