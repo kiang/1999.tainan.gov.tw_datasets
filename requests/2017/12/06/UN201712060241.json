@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712060241",
     "requested_datetime": "2017-12-06 18:58:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區府前路二段146號 違規停車",
     "address_string": "府前路二段146號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-06 21:11:42",
     "expected_datetime": "2017-12-06 18:58:00"
 }
