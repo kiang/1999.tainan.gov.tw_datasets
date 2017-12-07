@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區安和路五段362號 路燈不亮",
     "address_string": "安南區安和路五段362號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0701239",
+    "long": "120.2157631",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-12-14 14:48:00"
