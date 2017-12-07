@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712070284",
     "requested_datetime": "2017-12-07 20:01:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新營區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "新營區民治路彎進去育德街的第一個或第二個街口 佔用道路",
     "address_string": "新營區育德街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-08 03:59:42",
     "expected_datetime": "2017-12-14 20:01:00"
 }
