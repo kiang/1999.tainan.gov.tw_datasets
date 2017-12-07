@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712070123",
     "requested_datetime": "2017-12-07 12:05:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區長榮路上近東寧路口永豐銀行外面  違規停車",
     "address_string": "東區長榮路上近東寧路口永豐銀行外面",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-07 15:45:36",
     "expected_datetime": "2017-12-07 12:05:00"
 }
