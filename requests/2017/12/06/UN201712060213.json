@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712060213",
     "requested_datetime": "2017-12-06 17:32:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "安平區郡平路335號 道路散落物",
     "address_string": "安平區郡平路335號",
     "lat": "22.989468",
     "long": "120.162831",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-07 08:21:08",
     "expected_datetime": "2017-12-13 17:32:00"
 }
