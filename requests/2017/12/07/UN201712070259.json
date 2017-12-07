@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712070259",
+    "requested_datetime": "2017-12-07 18:50:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區崇學路18號、25號、61號 違停",
+    "address_string": "東區崇學路18號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-14 18:50:00"
+}
