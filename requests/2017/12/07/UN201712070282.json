@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712070282",
     "requested_datetime": "2017-12-07 19:56:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區仁和路與崇善十一街口 違規停車",
     "address_string": "東區仁和路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-07 22:30:08",
     "expected_datetime": "2017-12-14 19:56:00"
 }
