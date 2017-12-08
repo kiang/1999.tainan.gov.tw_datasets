@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712080027",
     "requested_datetime": "2017-12-08 08:27:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市北區區公所,臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "北區北門路二段與精忠街路口  佔用道路",
     "address_string": "北區北門路二段與精忠街路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-08 17:42:33",
     "expected_datetime": "2017-12-15 08:27:00"
 }
