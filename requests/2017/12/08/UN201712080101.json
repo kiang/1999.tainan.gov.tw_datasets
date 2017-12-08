@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712080101",
     "requested_datetime": "2017-12-08 11:35:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": {},
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "路面油漬",
     "description": "東區中華東路二段96巷24號前 路面油漬",
     "address_string": "東區中華東路二段96巷24號前",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-08 15:53:50",
     "expected_datetime": "2017-12-15 11:35:00"
 }
