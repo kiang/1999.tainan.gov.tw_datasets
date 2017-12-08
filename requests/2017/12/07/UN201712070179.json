@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712070179",
     "requested_datetime": "2017-12-07 14:47:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "其他汙染舉發",
     "description": "中西區海安路二段115巷口旁  髒亂及汙染",
     "address_string": "700台灣台南市中西區海安路二段115巷口旁",
     "lat": "22.9953374",
     "long": "120.1965577",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-08 08:37:38",
     "expected_datetime": "2017-12-07 14:47:00"
 }
