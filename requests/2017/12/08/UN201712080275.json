@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區公園路512號 違規停車",
     "address_string": "公園路512號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0064066",
+    "long": "120.2103275",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-12-08 20:23:00"
