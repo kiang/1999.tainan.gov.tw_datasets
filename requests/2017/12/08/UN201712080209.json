@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區中華東路二段355號前 違停",
     "address_string": "東區中華東路二段355號前",
-    "lat": {},
-    "long": {},
+    "lat": "24.8096383",
+    "long": "120.9836046",
     "service_notice": {},
     "updated_datetime": "2017-12-08 17:59:12",
     "expected_datetime": "2017-12-15 17:11:00"
