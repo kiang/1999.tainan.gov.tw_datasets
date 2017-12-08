@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712070128",
     "requested_datetime": "2017-12-07 12:13:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "犬貓急難救援",
     "description": "永康區延平街158巷31號 犬隻受困救援",
     "address_string": "永康區延平街158巷31號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-08 09:16:23",
     "expected_datetime": "2017-12-14 12:13:00"
 }
