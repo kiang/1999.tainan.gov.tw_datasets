@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區成功路376號  違規停車",
     "address_string": "台南市北區成功路376號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0001689",
+    "long": "120.2002915",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-12-09 08:46:00"
