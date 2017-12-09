@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712090164",
+    "requested_datetime": "2017-12-09 16:21:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區長北街6號 交通運輸",
+    "address_string": "704台灣台南市北區長北街6號",
+    "lat": "22.999176297989965",
+    "long": "120.20354742394261",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-09 16:21:00"
+}
