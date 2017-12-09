@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712080222",
     "requested_datetime": "2017-12-08 17:40:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "六甲區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市六甲區公所,臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "六甲區中正路15巷 佔用道路＆雜草",
     "address_string": "六甲區中正路15巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-09 07:03:02",
     "expected_datetime": "2017-12-15 17:40:00"
 }

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712080225",
     "requested_datetime": "2017-12-08 17:50:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區西華南街120巷口，來點子站前旅店前 違停",
     "address_string": "中西區西華南街120巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-09 07:25:38",
     "expected_datetime": "2017-12-15 17:50:00"
 }
