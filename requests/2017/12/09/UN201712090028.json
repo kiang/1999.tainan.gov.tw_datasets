@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712090028",
     "requested_datetime": "2017-12-09 08:40:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區開元路300號 違規停車",
     "address_string": "北區開元路300號",
     "lat": "23.0089493",
     "long": "120.2230263",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-09 15:20:35",
     "expected_datetime": "2017-12-16 08:40:00"
 }
