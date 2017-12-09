@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "北區富北街與公園南路交叉路口 號誌故障",
     "address_string": "北區富北街公園南路",
-    "lat": {},
-    "long": {},
+    "lat": "23.000193",
+    "long": "120.2117464",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-12-16 10:18:00"

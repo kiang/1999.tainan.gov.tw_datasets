@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712090068",
+    "requested_datetime": "2017-12-09 09:02:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "人孔蓋或溝蓋聲響鬆動",
+    "description": "北區大武街542巷15弄口 汙水孔蓋",
+    "address_string": "北區大武街542巷15弄口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-16 09:02:00"
+}
