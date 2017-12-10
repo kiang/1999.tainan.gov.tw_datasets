@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712100188",
     "requested_datetime": "2017-12-10 19:04:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區友愛街中正路5巷口 違規停車",
     "address_string": "台南市中西區友愛街中正路5巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-10 20:31:55",
     "expected_datetime": "2017-12-10 19:04:00"
 }
