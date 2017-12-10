@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712100039",
     "requested_datetime": "2017-12-10 09:18:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "仁德區仁中六街 妨害安寧",
     "address_string": "仁中六街",
     "lat": "22.9633747",
     "long": "120.2529741",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-10 17:24:43",
     "expected_datetime": "2017-12-10 09:18:00"
 }
