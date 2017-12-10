@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712100228",
     "requested_datetime": "2017-12-10 22:16:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "仁德區保安里文賢一街10巷 妨害安寧",
     "address_string": "台南市仁德區保安里文賢一街10巷",
     "lat": "22.9299914",
     "long": "120.2305177",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-11 03:38:21",
     "expected_datetime": "2017-12-10 22:16:00"
 }
