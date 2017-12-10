@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區北門路二段12號 違停",
     "address_string": "東區北門路二段12號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9977452",
+    "long": "120.2123819",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-12-17 07:55:00"

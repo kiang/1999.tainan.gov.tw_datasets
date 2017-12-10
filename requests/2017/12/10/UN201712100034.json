@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712100034",
+    "requested_datetime": "2017-12-10 08:57:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "東區林森路一段160號4樓-1、4樓-2、4樓-3 妨害安寧",
+    "address_string": "東區林森路一段160號4樓-1、4樓-2、4樓-3",
+    "lat": "23.4902669",
+    "long": "120.4523628",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-17 08:57:00"
+}
