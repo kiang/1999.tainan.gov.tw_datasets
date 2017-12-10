@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712100001",
     "requested_datetime": "2017-12-10 00:10:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "安平區延平街136號 妨害安寧",
     "address_string": "延平街136號",
     "lat": "23.0007972",
     "long": "120.1619066",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-10 07:13:58",
     "expected_datetime": "2017-12-10 00:10:00"
 }
