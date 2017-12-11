@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712110006",
     "requested_datetime": "2017-12-11 01:16:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "市區道路路面油漬",
     "description": "歸仁區中正南路一段跟復興路 路面油漬",
     "address_string": "歸仁區中正南路一段 復興路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-11 10:32:17",
     "expected_datetime": "2017-12-18 01:16:00"
 }

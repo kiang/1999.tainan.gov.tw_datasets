@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區開元路與開南街交叉口 違規停車",
     "address_string": "北區開元路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0076856",
+    "long": "120.2208649",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-12-18 09:25:00"
