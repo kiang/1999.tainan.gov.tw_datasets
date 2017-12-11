@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區城隍街的開山路口到青年路口雙側紅線 違規停車",
     "address_string": "中西區城隍街*開山路*青年路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9920917",
+    "long": "120.2091079",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-12-11 20:22:00"
