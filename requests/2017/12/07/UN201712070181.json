@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712070181",
     "requested_datetime": "2017-12-07 14:48:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "安南區安和路五段362號 路燈不亮",
     "address_string": "安南區安和路五段362號",
     "lat": "23.0701239",
     "long": "120.2157631",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-11 09:41:13",
     "expected_datetime": "2017-12-14 14:48:00"
 }
