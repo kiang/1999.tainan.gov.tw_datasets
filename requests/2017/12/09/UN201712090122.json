@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712090122",
     "requested_datetime": "2017-12-09 13:10:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "白河區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "河區大林里32之2號 髒亂及汙染",
     "address_string": "台南市白河區大林里32之2號",
     "lat": "23.33627",
     "long": "120.457935",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-11 16:21:45",
     "expected_datetime": "2017-12-09 13:10:00"
 }

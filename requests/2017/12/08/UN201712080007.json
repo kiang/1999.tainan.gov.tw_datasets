@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712080007",
     "requested_datetime": "2017-12-08 04:29:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "民生管線",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "保安路一段與文賢路一段便利商店旁消防栓 民生管線",
     "address_string": "保安路一段與文賢路一段便利商店旁消防栓",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-11 16:05:49",
     "expected_datetime": "2017-12-08 04:29:00"
 }
