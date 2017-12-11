@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712110308",
     "requested_datetime": "2017-12-11 18:17:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區城隍街的民權路口到開山路 違規停車",
     "address_string": "中西區城隍街民權路開山路",
     "lat": "22.989033",
     "long": "120.2076064",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-11 23:25:36",
     "expected_datetime": "2017-12-11 18:17:00"
 }

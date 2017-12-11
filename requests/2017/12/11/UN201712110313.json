@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712110313",
     "requested_datetime": "2017-12-11 18:35:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區東興路10號 違規停車",
     "address_string": "東區東興路10號",
     "lat": "22.9903506",
     "long": "120.2286052",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-11 23:27:07",
     "expected_datetime": "2017-12-11 18:35:00"
 }

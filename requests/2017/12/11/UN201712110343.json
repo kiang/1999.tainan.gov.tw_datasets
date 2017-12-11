@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712110343",
     "requested_datetime": "2017-12-11 20:16:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區大灣路273號 違規停車",
     "address_string": "台南市永康區大灣路273號",
     "lat": "23.0063194",
     "long": "120.2674096",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-11 23:50:54",
     "expected_datetime": "2017-12-11 20:16:00"
 }
