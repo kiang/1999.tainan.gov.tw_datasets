@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712110299",
+    "requested_datetime": "2017-12-11 17:44:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "中西區南門路46之6號 佔用道路",
+    "address_string": "中西區南門路46之6號",
+    "lat": "22.9887686",
+    "long": "120.2043686",
+    "service_notice": {},
+    "updated_datetime": "2017-12-11 18:55:01",
+    "expected_datetime": "2017-12-18 17:44:00"
+}
