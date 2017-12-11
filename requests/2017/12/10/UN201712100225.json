@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區城西街二段 路燈不亮",
     "address_string": "安南區城西街二段",
-    "lat": {},
-    "long": {},
+    "lat": "23.0584554",
+    "long": "120.1140372",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-12-17 22:00:00"
