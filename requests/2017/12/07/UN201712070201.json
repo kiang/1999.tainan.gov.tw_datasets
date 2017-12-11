@@ -1,8 +1,8 @@
 {
     "service_request_id": "UN201712070201",
     "requested_datetime": "2017-12-07 15:44:00",
-    "status": {},
-    "keyword": "0",
+    "status": "已完工",
+    "keyword": {},
     "area": "南區",
     "service_name": "違規停車",
     "agency": "臺南市政府警察局勤務指揮中心",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-07 21:24:47",
     "expected_datetime": "2017-12-14 15:44:00"
 }

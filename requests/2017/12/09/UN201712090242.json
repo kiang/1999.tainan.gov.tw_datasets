@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201712090242",
     "requested_datetime": "2017-12-09 22:09:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "交通運輸",
@@ -12,6 +12,6 @@
     "lat": "22.9909825",
     "long": "120.1869319",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-11 14:21:56",
     "expected_datetime": "2017-12-09 22:09:00"
 }

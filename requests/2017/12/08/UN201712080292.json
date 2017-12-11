@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712080292",
     "requested_datetime": "2017-12-08 21:31:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "中西區成功路忠義路口，往西方向 號誌故障",
     "address_string": "成功路忠義路",
     "lat": "22.9984263",
     "long": "120.2048497",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-11 13:53:45",
     "expected_datetime": "2017-12-08 21:31:00"
 }

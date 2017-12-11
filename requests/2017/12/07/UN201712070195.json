@@ -1,8 +1,8 @@
 {
     "service_request_id": "UN201712070195",
     "requested_datetime": "2017-12-07 15:26:00",
-    "status": {},
-    "keyword": "0",
+    "status": "未處理",
+    "keyword": {},
     "area": "東區",
     "service_name": "道路維修",
     "agency": "臺南市政府工務局",
