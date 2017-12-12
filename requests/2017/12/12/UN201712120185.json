@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712120185",
     "requested_datetime": "2017-12-12 15:36:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區中華東路二段185巷4號 違規停車",
     "address_string": "台南市東區中華東路二段185巷4號",
     "lat": "22.9852636",
     "long": "120.2332769",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-12 19:08:37",
     "expected_datetime": "2017-12-12 15:36:00"
 }
