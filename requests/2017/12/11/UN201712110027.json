@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712110027",
     "requested_datetime": "2017-12-11 08:05:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "南區永成路二段716號，南一昌瓦斯行 空污",
     "address_string": "南區永成路二段716號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-12 14:45:45",
     "expected_datetime": "2017-12-18 08:05:00"
 }
