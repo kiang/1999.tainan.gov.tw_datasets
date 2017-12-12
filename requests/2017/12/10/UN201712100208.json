@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712100208",
     "requested_datetime": "2017-12-10 20:18:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "安南區安和路一段496巷1弄69號周邊 空氣污染",
     "address_string": "安南區安和路一段496巷1弄69號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-13 01:10:57",
     "expected_datetime": "2017-12-17 20:18:00"
 }
