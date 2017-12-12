@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712120046",
     "requested_datetime": "2017-12-12 09:23:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "中西區民生路二段307號後方 違規停車",
     "address_string": "台南市中西區民生路二段307號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-12 18:32:49",
     "expected_datetime": "2017-12-12 09:23:00"
 }
