@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712110149",
     "requested_datetime": "2017-12-11 12:04:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "永康區大灣路942巷17弄附近 空氣汙染",
     "address_string": "永康區大灣路942巷17弄",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-13 14:15:36",
     "expected_datetime": "2017-12-18 12:04:00"
 }
