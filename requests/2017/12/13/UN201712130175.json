@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712130175",
     "requested_datetime": "2017-12-13 14:24:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區西門路三段民德路口人行道(靠近合作金庫) 違規停車",
     "address_string": "北區西門路三段民德路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-13 15:28:14",
     "expected_datetime": "2017-12-13 14:24:00"
 }
