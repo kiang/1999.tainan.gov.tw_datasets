@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712140260",
     "requested_datetime": "2017-12-14 21:36:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "仁德區太子路459巷11號  妨害安寧",
     "address_string": "仁德區太子路459巷11號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9918062",
+    "long": "120.2724152",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-14 23:21:55",
     "expected_datetime": "2017-12-21 21:36:00"
 }
