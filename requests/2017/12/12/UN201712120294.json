@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712120294",
     "requested_datetime": "2017-12-12 22:05:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "永康區西勢路174巷 空氣汙染",
     "address_string": "西勢路174巷",
     "lat": "23.0228303",
     "long": "120.2776202",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-14 16:57:39",
     "expected_datetime": "2017-12-12 22:05:00"
 }
