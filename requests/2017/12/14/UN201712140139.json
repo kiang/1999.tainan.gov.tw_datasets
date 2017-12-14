@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712140139",
+    "requested_datetime": "2017-12-14 14:30:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區裕農路389巷3弄 違規停車",
+    "address_string": "東區裕農路389巷3弄",
+    "lat": "22.9884841",
+    "long": "120.2303485",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-21 14:30:00"
+}
