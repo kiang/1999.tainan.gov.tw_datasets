@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712130335",
     "requested_datetime": "2017-12-13 22:57:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "中西區開山路和大埔街交叉口，四季小館側邊 妨害安寧",
     "address_string": "中西區大埔街37號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-14 07:11:48",
     "expected_datetime": "2017-12-20 22:57:00"
 }
