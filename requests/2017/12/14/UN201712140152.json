@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712140152",
+    "requested_datetime": "2017-12-14 15:13:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "南區大同路二段640巷35弄3號，福康老人照顧中心 害安寧",
+    "address_string": "南區大同路二段640巷35弄3號",
+    "lat": "22.9687638",
+    "long": "120.2120861",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-21 15:13:00"
+}
