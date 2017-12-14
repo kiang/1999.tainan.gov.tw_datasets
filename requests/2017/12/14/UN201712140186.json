@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712140186",
     "requested_datetime": "2017-12-14 16:35:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "柳營區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "柳營區中山東路二段1116號 違規停車",
     "address_string": "736台灣台南市柳營區中山東路二段1116號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-14 18:45:00",
     "expected_datetime": "2017-12-14 16:35:00"
 }
