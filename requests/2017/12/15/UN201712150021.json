@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712150021",
     "requested_datetime": "2017-12-15 08:11:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "騎樓舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局,臺南市政府警察局勤務指揮中心",
     "subproject": "騎樓舉發",
     "description": "安平區安平路174號及其左邊的騎樓與人行道上 騎樓舉發",
     "address_string": "708台灣台南市安平區安平路174號",
     "lat": "22.9981226",
     "long": "120.1739551",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-15 18:08:20",
     "expected_datetime": "2017-12-15 08:11:00"
 }
