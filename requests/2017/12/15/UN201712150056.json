@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712150056",
+    "requested_datetime": "2017-12-15 10:10:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "西港區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "西港區双張廍1-6號 路面冒水",
+    "address_string": "西港區双張廍1之6號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-22 10:10:00"
+}
