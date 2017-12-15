@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712150292",
+    "requested_datetime": "2017-12-15 20:15:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "寬頻管線、孔蓋損壞",
+    "description": "永康區八德街376號 孔蓋噪音",
+    "address_string": "永康區八德街376號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-22 20:15:00"
+}
