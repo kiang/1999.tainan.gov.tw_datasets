@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712150301",
     "requested_datetime": "2017-12-15 21:19:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "麻豆區博愛路全國電子對面 違規停車",
     "address_string": "博愛路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-16 03:10:41",
     "expected_datetime": "2017-12-15 21:19:00"
 }
