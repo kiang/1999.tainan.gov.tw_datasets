@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712140129",
     "requested_datetime": "2017-12-14 14:00:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "仁德區太子四街9號 空氣汙染",
     "address_string": "仁德區太子四街9號",
     "lat": "22.989564",
     "long": "120.2502363",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-15 14:56:18",
     "expected_datetime": "2017-12-21 14:00:00"
 }
