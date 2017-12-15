@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區中華北路一段131號 違規停車",
     "address_string": "北區中華北路一段131號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0095808",
+    "long": "120.1853505",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-12-22 18:14:00"
