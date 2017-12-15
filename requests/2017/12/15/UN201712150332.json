@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712150332",
     "requested_datetime": "2017-12-15 23:40:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "場所連續噪音",
     "description": "東區自由路一段6-10號，銘記關東煮(第一分局右前方），妨害安寧",
     "address_string": "台南市東區自由路一段6之10號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-16 02:59:46",
     "expected_datetime": "2017-12-15 23:40:00"
 }

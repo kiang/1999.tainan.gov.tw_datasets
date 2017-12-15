@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712150325",
     "requested_datetime": "2017-12-15 23:27:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "安南區長溪路二段 妨害安寧",
     "address_string": "安南區長溪路二段",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-16 02:55:03",
     "expected_datetime": "2017-12-15 23:27:00"
 }
