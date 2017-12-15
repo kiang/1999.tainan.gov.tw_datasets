@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區民德路 大潤發旁 違規停車",
     "address_string": "北區民德路大潤發",
-    "lat": {},
-    "long": {},
+    "lat": "23.004177",
+    "long": "120.203557",
     "service_notice": {},
     "updated_datetime": "2017-12-15 18:40:30",
     "expected_datetime": "2017-12-15 15:01:00"
