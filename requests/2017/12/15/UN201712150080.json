@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712150080",
+    "requested_datetime": "2017-12-15 11:08:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "騎樓舉發",
+    "agency": "台南市政府",
+    "subproject": "騎樓舉發",
+    "description": "安平區慶平路440號 違規停車",
+    "address_string": "安平區慶平路440號",
+    "lat": "22.9970998",
+    "long": "120.1749672",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-15 11:08:00"
+}

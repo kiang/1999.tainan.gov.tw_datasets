@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712130151",
     "requested_datetime": "2017-12-13 13:16:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府教育局",
     "subproject": "妨害安寧",
     "description": "噪音舉發",
     "address_string": "新市區",
     "lat": "23.0807324",
     "long": "120.2858846",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-15 11:05:32",
     "expected_datetime": "2017-12-13 13:16:00"
 }
