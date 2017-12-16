@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712160346",
+    "requested_datetime": "2017-12-16 21:25:00",
+    "status": {},
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區正強街296號 違規停車",
+    "address_string": "永康區正強街296號",
+    "lat": "23.0309437",
+    "long": "120.2516287",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-16 21:25:00"
+}
