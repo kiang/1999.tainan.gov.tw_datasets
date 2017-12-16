@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712150318",
     "requested_datetime": "2017-12-15 22:02:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "關廟",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "關廟國小 妨害安寧",
     "address_string": "關廟國小",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-16 07:23:06",
     "expected_datetime": "2017-12-22 22:02:00"
 }
