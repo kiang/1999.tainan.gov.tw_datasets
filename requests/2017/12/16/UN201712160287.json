@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712160287",
+    "requested_datetime": "2017-12-16 17:13:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "中西區中正路與民生路之間的國華街上 佔用道路",
+    "address_string": "國華街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-23 17:13:00"
+}
