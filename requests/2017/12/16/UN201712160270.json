@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201712160254",
-    "requested_datetime": "2017-12-16 15:38:00",
+    "service_request_id": "UN201712160270",
+    "requested_datetime": "2017-12-16 16:27:00",
     "status": {},
     "keyword": {},
     "area": "北區",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "北區臨安路二段69號 違規停車",
     "address_string": "北區臨安路二段69號",
-    "lat": "23.0028735",
-    "long": "120.1966762",
+    "lat": {},
+    "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2017-12-16 15:38:00"
+    "expected_datetime": "2017-12-16 16:27:00"
 }
