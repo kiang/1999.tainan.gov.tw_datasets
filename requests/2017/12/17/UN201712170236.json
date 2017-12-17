@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "麻豆區博愛路與興中路交叉口 違規停車",
     "address_string": "博愛路興中路",
-    "lat": {},
-    "long": {},
+    "lat": "23.1836819",
+    "long": "120.2508163",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-12-17 21:20:00"
