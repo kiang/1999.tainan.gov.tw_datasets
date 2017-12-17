@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712170182",
+    "requested_datetime": "2017-12-17 17:15:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "安南區海中街30號 佔用道路",
+    "address_string": "安南區海中街30號",
+    "lat": "23.039269",
+    "long": "120.185386",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-24 17:15:00"
+}
