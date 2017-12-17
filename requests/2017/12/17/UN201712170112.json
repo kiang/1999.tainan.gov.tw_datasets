@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712170112",
+    "requested_datetime": "2017-12-17 13:31:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "中西區武聖路41號 占用道路",
+    "address_string": "中西區武聖路41號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-24 13:31:00"
+}
