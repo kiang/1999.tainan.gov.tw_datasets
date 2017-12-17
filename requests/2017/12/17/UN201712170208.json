@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712170208",
     "requested_datetime": "2017-12-17 19:00:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "北區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "北區南園街96巷 違規停車",
     "address_string": "南園街96巷",
     "lat": "23.0079247",
     "long": "120.2247704",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-17 21:16:04",
     "expected_datetime": "2017-12-17 19:00:00"
 }
