@@ -9,8 +9,8 @@
     "subproject": "交通疏導",
     "description": "北區和緯路和海安路口，花園夜市旁 交通疏導",
     "address_string": "北區和緯路海安路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0117317",
+    "long": "120.2006152",
     "service_notice": {},
     "updated_datetime": "2017-12-17 21:23:30",
     "expected_datetime": "2017-12-24 18:48:00"
