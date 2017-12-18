@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712180265",
+    "requested_datetime": "2017-12-18 14:44:00",
+    "status": {},
+    "keyword": {},
+    "area": "歸仁區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "歸仁區復興路與和平北街交叉路口  交通運輸",
+    "address_string": "台南市歸仁區復興路與和平北街交叉路口",
+    "lat": "22.965322184328112",
+    "long": "120.29595069496759",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-18 14:44:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712180279",
+    "requested_datetime": "2017-12-18 15:21:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌故障",
+    "description": "永康區西勢路174巷  永康區西勢路82巷*廣聖街  號誌燈",
+    "address_string": "永康區西勢路174巷  永康區西勢路82巷*廣聖街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-25 15:21:00"
+}
