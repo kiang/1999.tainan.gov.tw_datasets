@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712180122",
     "requested_datetime": "2017-12-18 10:56:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "佳里區佳東路保安宮附近 空氣汙染",
     "address_string": "佳里區佳東路保安宮附近",
     "lat": "23.1673843",
     "long": "120.1821268",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-18 19:45:09",
     "expected_datetime": "2017-12-25 10:56:00"
 }
