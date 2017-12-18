@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安平區中華西路二段55號違規停車",
     "address_string": "台南市安平區中華西路二段55號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9877357",
+    "long": "120.1865604",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-12-18 22:10:00"
