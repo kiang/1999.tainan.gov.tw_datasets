@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712160070",
     "requested_datetime": "2017-12-16 09:56:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "南區金華路一段476號牙醫診所 噪音",
     "address_string": "南區金華路一段476號牙醫診所",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-18 09:22:42",
     "expected_datetime": "2017-12-23 09:56:00"
 }
