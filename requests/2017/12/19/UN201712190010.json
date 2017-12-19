@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712190010",
     "requested_datetime": "2017-12-19 06:58:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "安平區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "安平區育平九街192巷 違規停車",
     "address_string": "育平9街192巷",
     "lat": "22.9955703",
     "long": "120.1710282",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-19 15:48:46",
     "expected_datetime": "2017-12-19 06:58:00"
 }

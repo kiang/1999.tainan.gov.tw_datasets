@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "南區大同路二段 佔用道路",
     "address_string": "南區大同路二段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9732673",
+    "long": "120.2146113",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-12-26 13:32:00"

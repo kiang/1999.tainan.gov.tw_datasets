@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712180361",
     "requested_datetime": "2017-12-18 19:39:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府聯合服務中心",
     "subproject": "人孔蓋或溝蓋聲響、鬆動",
     "description": "道路維修",
     "address_string": "中西區西門路一段715巷",
     "lat": "22.9889686",
     "long": "120.1966672",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-19 15:17:42",
     "expected_datetime": "2017-12-18 19:39:00"
 }
