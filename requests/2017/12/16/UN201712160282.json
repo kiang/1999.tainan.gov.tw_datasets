@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712160282",
     "requested_datetime": "2017-12-16 17:05:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "佳里區",
     "service_name": "動物救援",
-    "agency": "台南市政府",
+    "agency": "臺南市動物防疫保護處",
     "subproject": "遊蕩犬隻捕捉管制",
     "description": "佳里區溪洲里72號  遊蕩犬隻捕捉管制",
     "address_string": "佳里區溪洲里72號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-19 14:48:11",
     "expected_datetime": "2017-12-23 17:05:00"
 }
