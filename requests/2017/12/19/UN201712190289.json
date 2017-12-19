@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712190289",
+    "requested_datetime": "2017-12-19 18:07:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安南區安和路一段459巷36弄26號 佔用道路",
+    "address_string": "安南區安和路一段459巷36弄26號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-26 18:07:00"
+}
