@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712180388",
     "requested_datetime": "2017-12-18 23:24:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "永康區崑山街103巷，崑晟糧行後方 機具噪音",
     "address_string": "永康區崑山街103巷",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-19 16:46:56",
     "expected_datetime": "2017-12-25 23:24:00"
 }
