@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712170219",
     "requested_datetime": "2017-12-17 19:30:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "東區東安路194號 空氣污染",
     "address_string": "東安路194號",
     "lat": "22.9954026",
     "long": "120.2271546",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-19 08:51:42",
     "expected_datetime": "2017-12-17 19:30:00"
 }
