@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712190264",
+    "requested_datetime": "2017-12-19 17:04:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區成功路*西華街  違停",
+    "address_string": "北區成功路*西華街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-26 17:04:00"
+}
