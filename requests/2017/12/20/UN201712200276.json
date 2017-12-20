@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712200276",
     "requested_datetime": "2017-12-20 21:25:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新化區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新化區中興路755-1號前 違規停車",
     "address_string": "712台南市新化區中興路755-1號",
     "lat": "23.0339699",
     "long": "120.3106245",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-21 02:22:37",
     "expected_datetime": "2017-12-20 21:25:00"
 }
