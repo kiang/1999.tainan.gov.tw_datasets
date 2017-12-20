@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712170156",
     "requested_datetime": "2017-12-17 16:07:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "麻豆區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "麻豆區寮廍里寮仔廍166-21號 空氣汙染",
     "address_string": "麻豆區寮廍里寮仔廍166-21號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-20 08:24:35",
     "expected_datetime": "2017-12-24 16:07:00"
 }
