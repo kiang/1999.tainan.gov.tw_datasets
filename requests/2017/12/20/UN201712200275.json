@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712200275",
+    "requested_datetime": "2017-12-20 21:19:00",
+    "status": {},
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區怡平路及華平路口 違規停車",
+    "address_string": "台南市安平區怡平路華平路",
+    "lat": "22.9935825",
+    "long": "120.1754529",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-20 21:19:00"
+}

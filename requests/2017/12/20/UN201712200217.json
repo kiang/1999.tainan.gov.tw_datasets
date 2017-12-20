@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712200217",
+    "requested_datetime": "2017-12-20 17:34:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區中山南路195巷整條 紅線違停",
+    "address_string": "永康區中山南路195巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-27 17:34:00"
+}
