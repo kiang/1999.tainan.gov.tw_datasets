@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201712200069",
     "requested_datetime": "2017-12-20 09:44:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": {},
     "service_name": "交通運輸",
@@ -12,6 +12,6 @@
     "lat": "23.3133535",
     "long": "120.303139",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-20 16:52:41",
     "expected_datetime": "2017-12-27 09:44:00"
 }

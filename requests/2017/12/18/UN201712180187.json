@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712180187",
     "requested_datetime": "2017-12-18 13:11:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "路面下陷、凹陷",
     "description": "東區崇明三街67巷2號前方 路面下陷",
     "address_string": "東區崇明三街67巷2號前方",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-20 17:01:21",
     "expected_datetime": "2017-12-25 13:11:00"
 }
