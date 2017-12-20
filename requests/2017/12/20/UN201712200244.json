@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712200244",
+    "requested_datetime": "2017-12-20 18:59:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "仁德區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "仁德區三甲里三甲子59之1號，奇美實業，往文賢消防隊方向的路中間 路燈不亮",
+    "address_string": "仁德區三甲里三甲子59之1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-27 18:59:00"
+}
