@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712210405",
     "requested_datetime": "2017-12-21 17:28:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "交通疏導",
     "description": "永康區中山南路與正強街口 塞車",
     "address_string": "永康區中山南路正強街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-21 18:44:59",
     "expected_datetime": "2017-12-28 17:28:00"
 }

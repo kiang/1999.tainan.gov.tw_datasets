@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712210416",
+    "requested_datetime": "2017-12-21 18:06:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區健康路一段310巷 違規停車",
+    "address_string": "台南市中西區健康路一段310巷",
+    "lat": "22.9820155",
+    "long": "120.2028085",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-21 18:06:00"
+}
