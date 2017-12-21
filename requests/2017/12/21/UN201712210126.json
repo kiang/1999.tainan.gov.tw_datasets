@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712210126",
     "requested_datetime": "2017-12-21 10:19:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "永康區中華路12號 違規停車",
     "address_string": "永康區中華路12號",
     "lat": "23.0001457",
     "long": "120.235167",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-21 15:06:38",
     "expected_datetime": "2017-12-28 10:19:00"
 }
