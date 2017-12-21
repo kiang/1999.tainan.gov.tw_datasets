@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712210115",
+    "requested_datetime": "2017-12-21 10:37:00",
+    "status": {},
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區協和街186號  違規停車",
+    "address_string": "台南市中西區協和街186號",
+    "lat": "23.0017525",
+    "long": "120.1932694",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-21 10:37:00"
+}
