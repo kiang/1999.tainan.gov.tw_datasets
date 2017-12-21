@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712210459",
+    "requested_datetime": "2017-12-21 20:06:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區北門路二段 公園南路 與小東路之間  違規停車",
+    "address_string": "北區北門路二段 公園南路 與小東路之間",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-28 20:06:00"
+}
