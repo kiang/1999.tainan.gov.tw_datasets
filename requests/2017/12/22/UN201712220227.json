@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區公園南路161號 違規停車",
     "address_string": "台南市北區公園南路161號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0014951",
+    "long": "120.2064566",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-12-22 12:55:00"
