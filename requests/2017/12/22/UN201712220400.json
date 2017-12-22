@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712220400",
+    "requested_datetime": "2017-12-22 22:16:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府水利局",
+    "subproject": "人孔蓋或溝蓋聲響鬆動",
+    "description": "永康區中正五街147號 污水下水道工程溝渠蓋沒蓋好",
+    "address_string": "永康區中正五街147",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-29 22:16:00"
+}
