@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712220110",
     "requested_datetime": "2017-12-22 09:19:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "永康區中正南路陸嘉社區內部 空氣汙染",
     "address_string": "永康區中正南路陸嘉社區內部",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-22 14:49:28",
     "expected_datetime": "2017-12-22 09:19:00"
 }
