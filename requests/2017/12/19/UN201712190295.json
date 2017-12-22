@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712190295",
     "requested_datetime": "2017-12-19 18:23:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "永康區",
     "service_name": "道路維修",
-    "agency": "台南市政府",
+    "agency": "臺南市永康區公所",
     "subproject": "人孔蓋或溝蓋聲響鬆動",
     "description": "永康區華興街139號與147號間 溝蓋鬆動",
     "address_string": "永康區華興街139號",
     "lat": "23.0006311",
     "long": "120.2356491",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-22 08:30:09",
     "expected_datetime": "2017-12-26 18:23:00"
 }
