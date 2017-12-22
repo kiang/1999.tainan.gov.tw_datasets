@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712220003",
     "requested_datetime": "2017-12-22 01:13:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "東區裕孝路123號 噪音舉發",
     "address_string": "裕孝路123號",
     "lat": "22.9874491",
     "long": "120.2435911",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-22 07:12:17",
     "expected_datetime": "2017-12-22 01:13:00"
 }
