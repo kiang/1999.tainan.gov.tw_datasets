@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712230191",
+    "requested_datetime": "2017-12-23 15:21:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "北區公園路593巷接近西門路口 喧嘩聚賭",
+    "address_string": "北區公園路593巷西門路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-12-23 19:31:02",
+    "expected_datetime": "2017-12-30 15:21:00"
+}
