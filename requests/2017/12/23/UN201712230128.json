@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712230128",
     "requested_datetime": "2017-12-23 11:45:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "新市區復興路59號 佔用道路",
     "address_string": "新市區復興路59號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-23 17:10:08",
     "expected_datetime": "2017-12-30 11:45:00"
 }
