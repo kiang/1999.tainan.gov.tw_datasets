@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712220282",
     "requested_datetime": "2017-12-22 15:20:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "善化區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局,臺南市政府環境保護局",
     "subproject": "場所連續噪音",
     "description": "善化區民權路245巷1號 場所連續噪音",
     "address_string": "善化區民權路245巷1號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-24 01:32:57",
     "expected_datetime": "2017-12-29 15:20:00"
 }

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712240001",
+    "requested_datetime": "2017-12-24 00:28:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "北區大興街(北海釣蝦場) 妨害安寧",
+    "address_string": "北區大興街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-12-24 01:38:00",
+    "expected_datetime": "2017-12-31 00:28:00"
+}

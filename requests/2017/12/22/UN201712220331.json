@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201712220331",
     "requested_datetime": "2017-12-22 17:38:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "新化區",
     "service_name": "髒亂及汙染",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-24 01:29:32",
     "expected_datetime": "2017-12-29 17:38:00"
 }
