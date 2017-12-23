@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712230252",
+    "requested_datetime": "2017-12-23 18:17:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區成功路284號 違停",
+    "address_string": "北區成功路284號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-30 18:17:00"
+}
