@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712230100",
     "requested_datetime": "2017-12-23 10:20:00",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "南區府緯街與西門路一段口 妨害安寧\/空污",
     "address_string": "南區府緯街西門路一段",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-23 16:52:51",
     "expected_datetime": "2017-12-30 10:20:00"
 }
