@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712240266",
+    "requested_datetime": "2017-12-24 20:58:00",
+    "status": {},
+    "keyword": {},
+    "area": "北區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "北區開南街275巷4弄19號2樓 空氣汙染",
+    "address_string": "No. 19, Alley 4, Lane 275, Kainan Street, North District, Tainan City, Taiwan 704",
+    "lat": "23.00407640795639",
+    "long": "120.2297525101263",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2017-12-24 20:58:00"
+}
