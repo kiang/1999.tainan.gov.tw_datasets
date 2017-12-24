@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新營區中山路1號 違規停車",
     "address_string": "台南市新營區中山路1號",
-    "lat": {},
-    "long": {},
+    "lat": "23.3067319",
+    "long": "120.323055",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-12-24 15:59:00"
