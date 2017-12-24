@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201712240207",
-    "requested_datetime": "2017-12-24 17:15:00",
+    "service_request_id": "UN201712240236",
+    "requested_datetime": "2017-12-24 18:27:00",
     "status": {},
     "keyword": {},
     "area": "歸仁區",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "歸仁區中山路三段2號 違規停車",
     "address_string": "歸仁區中山路三段2號",
-    "lat": "22.9674208",
-    "long": "120.2877568",
+    "lat": {},
+    "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2017-12-24 17:15:00"
+    "expected_datetime": "2017-12-24 18:27:00"
 }
