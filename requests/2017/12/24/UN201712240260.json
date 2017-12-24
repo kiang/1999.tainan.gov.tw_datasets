@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712240260",
     "requested_datetime": "2017-12-24 20:31:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "南區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "南區夏林路與建南路口 妨害安寧\/空氣汙染",
     "address_string": "台南市夏林路與建南路口",
     "lat": "22.9852322",
     "long": "120.1947216",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-25 07:00:01",
     "expected_datetime": "2017-12-24 20:31:00"
 }
