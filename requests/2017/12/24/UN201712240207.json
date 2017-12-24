@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201712240207",
     "requested_datetime": "2017-12-24 17:15:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "歸仁區",
     "service_name": "違規停車",
@@ -12,6 +12,6 @@
     "lat": "22.9674208",
     "long": "120.2877568",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-24 19:25:45",
     "expected_datetime": "2017-12-24 17:15:00"
 }

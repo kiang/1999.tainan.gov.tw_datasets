@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712240082",
     "requested_datetime": "2017-12-24 11:53:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "佔用道路",
     "description": "中西區中正路108巷底與永福路二段81巷交叉口 佔用道路",
     "address_string": "台南市中西區中正路108巷",
     "lat": "22.9927217",
     "long": "120.2002447",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-24 19:15:48",
     "expected_datetime": "2017-12-24 11:53:00"
 }
