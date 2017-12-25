@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712240253",
     "requested_datetime": "2017-12-24 19:54:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "新市區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "道路散落物",
     "description": "新市區社內里社內143-88號 動物救援",
     "address_string": "台南市新市區社內里社內143-88號",
     "lat": "23.0707809",
     "long": "120.2837187",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-25 15:04:03",
     "expected_datetime": "2017-12-24 19:54:00"
 }
