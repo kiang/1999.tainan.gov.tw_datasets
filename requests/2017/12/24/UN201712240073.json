@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712240073",
     "requested_datetime": "2017-12-24 11:15:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "仁德區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "仁德區太子路69號與太子路77號 空氣汙染",
     "address_string": "太子路69號",
     "lat": "23.303404",
     "long": "120.298758",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-25 09:49:14",
     "expected_datetime": "2017-12-24 11:15:00"
 }
