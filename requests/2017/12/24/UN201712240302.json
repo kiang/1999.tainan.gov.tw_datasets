@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712240302",
     "requested_datetime": "2017-12-24 23:29:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "中西區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "中西區永華路一段78號 噪音舉發",
     "address_string": "台南市中西區永華路一段78號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-25 07:25:16",
     "expected_datetime": "2017-12-24 23:29:00"
 }

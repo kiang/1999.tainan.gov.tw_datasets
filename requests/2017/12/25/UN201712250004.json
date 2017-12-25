@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712250004",
     "requested_datetime": "2017-12-25 00:41:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "東區大學里大學路22巷25-1號純粹飛鏢本舖 妨害安寧",
     "address_string": "台南市東區大學路22巷25之1號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-25 07:28:22",
     "expected_datetime": "2017-12-25 00:41:00"
 }
