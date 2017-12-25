@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "歸仁區中山路三段2號 違規停車",
     "address_string": "711台灣台南市歸仁區中山路三段2號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9674208",
+    "long": "120.2877568",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2017-12-25 18:32:00"

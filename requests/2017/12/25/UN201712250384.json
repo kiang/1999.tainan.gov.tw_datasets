@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712250384",
+    "requested_datetime": "2017-12-25 19:53:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "北區大武街597巷10弄16號 空氣汙染",
+    "address_string": "北區大武街597巷10弄16號",
+    "lat": "23.0176718",
+    "long": "120.2223073",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-01-01 19:53:00"
+}
