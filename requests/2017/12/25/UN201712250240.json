@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712250240",
+    "requested_datetime": "2017-12-25 13:58:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "中西區",
+    "service_name": "騎樓舉發",
+    "agency": "臺南市政府工務局,臺南市政府警察局勤務指揮中心",
+    "subproject": "騎樓舉發",
+    "description": "中西區永福路二段11號 騎樓舉發",
+    "address_string": "中西區永福路二段11號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-12-25 16:28:48",
+    "expected_datetime": "2018-01-01 13:58:00"
+}
