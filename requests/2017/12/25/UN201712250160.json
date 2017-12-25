@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712250160",
     "requested_datetime": "2017-12-25 12:42:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "官田區",
     "service_name": "噪音舉發",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "妨害安寧",
     "description": "官田區官田里315號  噪音舉發",
     "address_string": "臺南市官田區官田里315號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-25 14:06:37",
     "expected_datetime": "2017-12-25 12:42:00"
 }
