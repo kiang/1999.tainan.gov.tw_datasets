@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712250355",
     "requested_datetime": "2017-12-25 18:19:00",
-    "status": {},
+    "status": "已完工",
     "keyword": {},
     "area": "東區",
     "service_name": "違規停車",
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "東區東榮街115巷 違規停車",
     "address_string": "台南市東區東榮街115巷",
     "lat": "22.9887287",
     "long": "120.2155518",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-25 21:12:05",
     "expected_datetime": "2017-12-25 18:19:00"
 }
