@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712240216",
     "requested_datetime": "2017-12-24 17:23:00",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "安南區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "空氣汙染",
     "description": "安南區公學路五段與安興街口 空污",
     "address_string": "安南區公學路五段安興街",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-27 03:20:28",
     "expected_datetime": "2017-12-31 17:23:00"
 }
