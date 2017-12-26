@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201712260062",
-    "requested_datetime": "2017-12-26 08:46:00",
-    "status": "未處理",
+    "service_request_id": "UN201712260071",
+    "requested_datetime": "2017-12-26 09:09:00",
+    "status": {},
     "keyword": {},
     "area": "安南區",
     "service_name": "髒亂及汙染",
     "agency": "台南市政府",
     "subproject": "空氣汙染",
-    "description": "安南區安和路一段52巷21弄27號 空氣汙染",
+    "description": "安南區安和路一段52巷21弄27號  髒亂及汙染",
     "address_string": "安南區安和路一段52巷21弄27號",
     "lat": {},
     "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2018-01-02 08:46:00"
+    "expected_datetime": "2017-12-26 09:09:00"
 }
