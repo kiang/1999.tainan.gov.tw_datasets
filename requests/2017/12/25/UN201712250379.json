@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712250379",
+    "requested_datetime": "2017-12-25 18:07:00",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區金華路二段362號 違規停車",
+    "address_string": "南區金華路二段362號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-12-25 21:17:00",
+    "expected_datetime": "2018-01-01 18:07:00"
+}

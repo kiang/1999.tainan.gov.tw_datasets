@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712250036",
+    "requested_datetime": "2017-12-25 08:17:00",
+    "status": {},
+    "keyword": "0",
+    "area": "新市區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "違規停車",
+    "description": "新市區創業路21號 違規停車",
+    "address_string": "744台灣台南市新市區創業路21號",
+    "lat": "23.0980906",
+    "long": "120.2825671",
+    "service_notice": {},
+    "updated_datetime": "2017-12-25 14:59:03",
+    "expected_datetime": "2017-12-25 08:17:00"
+}

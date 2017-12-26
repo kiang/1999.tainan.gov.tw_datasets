@@ -1,8 +1,8 @@
 {
     "service_request_id": "UN201712250139",
     "requested_datetime": "2017-12-25 11:37:00",
-    "status": "已完工",
-    "keyword": {},
+    "status": {},
+    "keyword": "0",
     "area": "安平區",
     "service_name": "交通運輸",
     "agency": "臺南市政府交通局",

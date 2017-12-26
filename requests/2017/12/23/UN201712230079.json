@@ -1,8 +1,8 @@
 {
     "service_request_id": "UN201712230079",
     "requested_datetime": "2017-12-23 09:23:00",
-    "status": "已完工",
-    "keyword": {},
+    "status": {},
+    "keyword": "0",
     "area": "南區",
     "service_name": "噪音舉發",
     "agency": "臺南市政府環境保護局",

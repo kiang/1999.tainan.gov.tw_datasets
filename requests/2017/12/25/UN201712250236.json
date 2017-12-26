@@ -1,8 +1,8 @@
 {
     "service_request_id": "UN201712250236",
     "requested_datetime": "2017-12-25 14:35:00",
-    "status": "未處理",
-    "keyword": {},
+    "status": {},
+    "keyword": "0",
     "area": "安南區",
     "service_name": "噪音舉發",
     "agency": "臺南市政府環境保護局",

@@ -1,8 +1,8 @@
 {
     "service_request_id": "UN201712230298",
     "requested_datetime": "2017-12-23 22:05:00",
-    "status": "未處理",
-    "keyword": {},
+    "status": {},
+    "keyword": "0",
     "area": "歸仁區",
     "service_name": "路燈故障",
     "agency": "臺南市政府聯合服務中心,臺南市歸仁區公所",

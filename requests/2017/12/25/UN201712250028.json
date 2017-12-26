@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712250028",
+    "requested_datetime": "2017-12-25 07:20:00",
+    "status": {},
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車 併案A-TB-2017-79268",
+    "address_string": "新營區太子路137號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-12-25 07:25:00",
+    "expected_datetime": "2017-12-25 07:20:00"
+}
