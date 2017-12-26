@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新化區和平街131號之4 違停",
     "address_string": "新化區和平街131號之4",
-    "lat": {},
-    "long": {},
+    "lat": "23.0334476",
+    "long": "120.3062508",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-01-02 21:47:00"
