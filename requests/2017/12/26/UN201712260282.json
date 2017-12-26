@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712260282",
+    "requested_datetime": "2017-12-26 16:29:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區建平十二街24巷61號斜對面轉角 違規停車",
+    "address_string": "安平區建平十二街24巷61號斜對面轉角",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-01-02 16:29:00"
+}

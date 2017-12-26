@@ -5,13 +5,13 @@
     "keyword": {},
     "area": "中西區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第二分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "中西區永福路一段108巷轉往行政執行署台南分署（永福路一段125巷）的巷口 違規停車",
     "address_string": "永福路一段108巷永福路一段125巷",
     "lat": "22.9888532",
     "long": "120.2003151",
     "service_notice": {},
-    "updated_datetime": "2017-12-25 07:18:25",
+    "updated_datetime": "2017-12-26 16:17:40",
     "expected_datetime": "2017-12-24 22:05:00"
 }
