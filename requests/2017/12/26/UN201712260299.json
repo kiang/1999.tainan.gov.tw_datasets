@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712260299",
+    "requested_datetime": "2017-12-26 17:07:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區小東路423巷1號 違規停車",
+    "address_string": "北區小東路423巷1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-12-26 17:52:06",
+    "expected_datetime": "2018-01-02 17:07:00"
+}

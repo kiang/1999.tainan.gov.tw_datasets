@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712260298",
+    "requested_datetime": "2017-12-26 17:02:00",
+    "status": "已完工",
+    "keyword": {},
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區小東路上勝利路至長榮路三段 違規停車",
+    "address_string": "北區小東路上勝利路至長榮路三段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-12-26 17:51:11",
+    "expected_datetime": "2018-01-02 17:02:00"
+}
