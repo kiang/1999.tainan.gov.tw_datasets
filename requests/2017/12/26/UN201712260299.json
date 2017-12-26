@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區小東路423巷1號 違規停車",
     "address_string": "北區小東路423巷1號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9989798",
+    "long": "120.2326696",
     "service_notice": {},
     "updated_datetime": "2017-12-26 17:52:06",
     "expected_datetime": "2018-01-02 17:07:00"

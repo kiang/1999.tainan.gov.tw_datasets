@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "大同路一段142\/144號到230號 違規停車",
     "address_string": "大同路一段142\/144號到230號",
-    "lat": {},
-    "long": {},
+    "lat": "25.0535936",
+    "long": "121.5116833",
     "service_notice": {},
     "updated_datetime": "2017-12-26 20:23:33",
     "expected_datetime": "2017-12-26 17:53:00"

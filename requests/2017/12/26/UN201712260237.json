@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區大武街奇美醫療大樓 違規停車",
     "address_string": "北區大武街",
-    "lat": {},
-    "long": {},
+    "lat": "23.0162171",
+    "long": "120.2178739",
     "service_notice": {},
     "updated_datetime": "2017-12-26 17:48:06",
     "expected_datetime": "2018-01-02 14:17:00"

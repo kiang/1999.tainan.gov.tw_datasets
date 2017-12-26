@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "善化區環東路二段33號 違停車",
     "address_string": "善化區環東路二段33號",
-    "lat": {},
-    "long": {},
+    "lat": "23.117566",
+    "long": "120.277935",
     "service_notice": {},
     "updated_datetime": "2017-12-26 20:27:54",
     "expected_datetime": "2018-01-02 19:38:00"
