@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712260144",
+    "requested_datetime": "2017-12-26 11:23:00",
+    "status": "未處理",
+    "keyword": {},
+    "area": "永康",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區復華三街90巷19號前 違規停車",
+    "address_string": "永康區復華三街90巷19號前",
+    "lat": "23.0138154",
+    "long": "120.2479574",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-01-02 11:23:00"
+}
