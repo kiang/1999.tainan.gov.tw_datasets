@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712230274",
     "requested_datetime": "2017-12-23 19:59:00",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "安平區",
     "service_name": "路燈故障",
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": "9盞以下路燈故障",
     "description": "安平區國平路5號 路燈故障",
     "address_string": "安平區國平路5號",
     "lat": "22.9848396",
     "long": "120.170113",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-27 09:18:17",
     "expected_datetime": "2017-12-30 19:59:00"
 }

@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712260131",
     "requested_datetime": "2017-12-26 10:53:00",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": "交通運輸",
-    "agency": "台南市政府",
+    "agency": "臺南市政府交通局",
     "subproject": "號誌故障",
     "description": "永康區大灣路119巷 號誌故障",
     "address_string": "永康區大灣路119巷",
     "lat": "23.0095658",
     "long": "120.2706173",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-27 09:35:03",
     "expected_datetime": "2018-01-02 10:53:00"
 }
