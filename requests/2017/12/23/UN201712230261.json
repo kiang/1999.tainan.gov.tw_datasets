@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712230261",
     "requested_datetime": "2017-12-23 19:18:00",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": {},
     "service_name": {},
-    "agency": "台南市政府",
+    "agency": "臺南市政府警察局",
     "subproject": {},
     "description": "色情按摩",
     "address_string": {},
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-27 15:37:36",
     "expected_datetime": "2017-12-30 19:18:00"
 }

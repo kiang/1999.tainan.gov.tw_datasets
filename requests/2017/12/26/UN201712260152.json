@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712260152",
     "requested_datetime": "2017-12-26 11:45:00",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": {},
     "service_name": {},
-    "agency": "台南市政府",
+    "agency": "臺南市政府民政局,臺南市政府警察局",
     "subproject": {},
     "description": "廟會牌樓",
     "address_string": {},
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-27 15:35:55",
     "expected_datetime": "2018-01-02 11:45:00"
 }
