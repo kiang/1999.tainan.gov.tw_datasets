@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712230244",
     "requested_datetime": "2017-12-23 17:54:00",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": {},
     "service_name": {},
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": {},
     "description": "破腳踏車",
     "address_string": {},
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-27 13:57:55",
     "expected_datetime": "2017-12-30 17:54:00"
 }
