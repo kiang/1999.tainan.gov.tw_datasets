@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712230267",
     "requested_datetime": "2017-12-23 19:32:00",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": {},
     "service_name": {},
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": {},
     "description": "垃圾車",
     "address_string": {},
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-27 14:16:53",
     "expected_datetime": "2017-12-30 19:32:00"
 }
