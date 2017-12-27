@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712250086",
     "requested_datetime": "2017-12-25 09:16:00",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": {},
     "service_name": {},
-    "agency": "台南市政府",
+    "agency": "臺南市六甲區公所",
     "subproject": {},
     "description": "違建",
     "address_string": {},
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-27 08:43:45",
     "expected_datetime": "2018-01-01 09:16:00"
 }

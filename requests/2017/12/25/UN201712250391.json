@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712250391",
     "requested_datetime": "2017-12-25 20:31:00",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "中西區",
     "service_name": "髒亂及汙染",
-    "agency": "台南市政府",
+    "agency": "臺南市政府環境保護局",
     "subproject": "環境髒亂",
     "description": "髒亂及汙染",
     "address_string": "700台灣台南市中西區永福路一段77號",
     "lat": "22.9815562",
     "long": "120.2001425",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-27 09:02:55",
     "expected_datetime": "2017-12-25 20:30:00"
 }
