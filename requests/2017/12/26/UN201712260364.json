@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712260364",
     "requested_datetime": "2017-12-26 22:30:00",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "南區",
     "service_name": "騎樓舉發",
-    "agency": "臺南市南區區公所",
+    "agency": "台南市政府",
     "subproject": "騎樓舉發",
     "description": "騎樓舉發",
     "address_string": "702台灣台南市南區國民路193號",
     "lat": "22.982063",
     "long": "120.1824021",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-27 16:21:49",
     "expected_datetime": "2017-12-28 22:30:00"
 }
