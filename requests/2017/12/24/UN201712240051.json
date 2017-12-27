@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712240051",
     "requested_datetime": "2017-12-24 10:02:00",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": {},
     "service_name": {},
-    "agency": "台南市政府",
+    "agency": "臺南市政府工務局",
     "subproject": {},
     "description": "垃圾車又駛入三角公園",
     "address_string": {},
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2017-12-27 17:10:46",
     "expected_datetime": "2017-12-31 10:02:00"
 }
