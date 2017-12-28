@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712240096",
     "requested_datetime": "2017-12-24 12:33:00",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第六分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "南區金華路二段221號  違規停車",
     "address_string": "台南市南區金華路二段221號",
     "lat": "22.9827215",
     "long": "120.1913856",
     "service_notice": {},
-    "updated_datetime": "2017-12-24 18:04:01",
+    "updated_datetime": "2017-12-28 08:49:51",
     "expected_datetime": "2017-12-24 12:33:00"
 }

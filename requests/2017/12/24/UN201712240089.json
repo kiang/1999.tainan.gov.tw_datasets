@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201712240089",
     "requested_datetime": "2017-12-24 12:10:00",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "南區",
     "service_name": "違規停車",
-    "agency": "臺南市政府警察局勤務指揮中心",
+    "agency": "臺南市政府警察局第六分局,臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "南區文南路334號 違規停車",
     "address_string": "台南市南區文南路334號",
     "lat": "22.987655",
     "long": "120.190381",
     "service_notice": {},
-    "updated_datetime": "2017-12-24 19:06:47",
+    "updated_datetime": "2017-12-28 08:54:35",
     "expected_datetime": "2017-12-24 12:09:00"
 }
