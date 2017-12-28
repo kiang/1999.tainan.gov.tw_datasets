@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712280232",
+    "requested_datetime": "2017-12-28 17:14:59",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區大學路1號，勝利路靠大學路上,機車擋住出入口 違規停車",
+    "address_string": "東區大學路1號勝利路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2017-12-29 05:26:07",
+    "expected_datetime": "2018-01-27 17:14:59"
+}

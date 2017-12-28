@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712270387",
+    "requested_datetime": "2017-12-27 21:45:08",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "台南市中西區中華西路二段418巷路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-01-26 21:45:08"
+}
