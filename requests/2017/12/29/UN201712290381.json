@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201712290381",
+    "requested_datetime": "2017-12-29 21:25:44",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區青年路與前鋒路交叉路口台灣啤酒公司騎樓內 違規停車",
+    "address_string": "東區青年路與前鋒路交叉路口台灣啤酒公司騎樓內",
+    "lat": "22.9938226",
+    "long": "120.2117796",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-01-28 21:25:44"
+}
