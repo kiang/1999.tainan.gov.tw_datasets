@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201712310015",
-    "requested_datetime": "2017-12-31 01:33:41",
+    "service_request_id": "UN201712310007",
+    "requested_datetime": "2017-12-31 00:56:03",
     "status": {},
     "keyword": "0",
     "area": "永康區",
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "違規停車",
+    "description": "新行街122巷和新民街66巷  違規停車",
     "address_string": "新行街122巷和新民街66巷交界永康學院前",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": "2017-12-31 01:59:00",
-    "expected_datetime": "2018-01-30 01:33:41"
+    "updated_datetime": {},
+    "expected_datetime": "2018-01-30 00:56:03"
 }
