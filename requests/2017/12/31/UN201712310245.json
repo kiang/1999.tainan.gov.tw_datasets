@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201712310244",
-    "requested_datetime": "2017-12-31 19:31:49",
+    "service_request_id": "UN201712310245",
+    "requested_datetime": "2017-12-31 19:32:01",
     "status": {},
     "keyword": "0",
     "area": "南區",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": "2017-12-31 20:29:00",
-    "expected_datetime": "2018-01-30 19:31:49"
+    "updated_datetime": {},
+    "expected_datetime": "2018-01-30 19:32:01"
 }
