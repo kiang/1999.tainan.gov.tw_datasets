@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201801030226",
+    "requested_datetime": "2018-01-03 16:10:47",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區衛民街的143號到149號\/152號到158號\/民權路一段的東門圓環到中山路口  違規停車",
+    "address_string": "衛民 街的143號到149號\/152號到158號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-02-02 16:10:47"
+}
