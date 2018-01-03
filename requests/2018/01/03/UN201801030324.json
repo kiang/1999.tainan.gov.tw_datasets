@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201801030324",
+    "requested_datetime": "2018-01-03 21:05:01",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車 併案A-TB-2018-547",
+    "address_string": "南園街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-01-03 21:27:00",
+    "expected_datetime": "2018-02-02 21:05:01"
+}
