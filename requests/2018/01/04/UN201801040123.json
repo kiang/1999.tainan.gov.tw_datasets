@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201801040123",
+    "requested_datetime": "2018-01-04 11:57:58",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "台南市中西區民權路與府中街交叉口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-02-03 11:57:58"
+}
