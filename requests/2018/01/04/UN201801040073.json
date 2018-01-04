@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201801040073",
     "requested_datetime": "2018-01-04 09:54:12",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
-    "service_name": "騎樓舉發",
+    "service_name": "違規停車",
     "agency": "台南市政府",
-    "subproject": "騎樓舉發",
-    "description": "永康區中正北路中正七街路口  騎樓舉發",
+    "subproject": "違規停車",
+    "description": "永康區中正北路中正七街路口 違規停車",
     "address_string": "永康區中正北路中正七街路口",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-01-04 16:17:22",
     "expected_datetime": "2018-02-03 09:54:12"
 }
