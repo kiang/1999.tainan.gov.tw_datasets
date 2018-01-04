@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201801040284",
+    "requested_datetime": "2018-01-04 18:25:38",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "北門路一段134號A W A 8617紅線違規停車",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-01-04 20:29:00",
+    "expected_datetime": "2018-02-03 18:25:38"
+}
