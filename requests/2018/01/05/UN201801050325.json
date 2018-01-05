@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201801050303",
-    "requested_datetime": "2018-01-05 17:56:05",
-    "status": "已完工",
+    "service_request_id": "UN201801050325",
+    "requested_datetime": "2018-01-05 18:47:32",
+    "status": {},
     "keyword": "0",
     "area": "中西區",
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
     "description": "中西區衛民 街的中山路口到北門路口雙側 違規停車",
-    "address_string": "衛民街的中山路口到北門路",
+    "address_string": "中西區衛民街中山路北門路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": "2018-01-05 19:18:29",
-    "expected_datetime": "2018-02-04 17:56:05"
+    "updated_datetime": {},
+    "expected_datetime": "2018-02-04 18:47:32"
 }
