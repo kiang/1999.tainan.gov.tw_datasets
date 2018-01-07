@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201801070404",
+    "requested_datetime": "2018-01-07 19:37:45",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "台南市 北區  長榮路五段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-02-06 19:37:45"
+}
