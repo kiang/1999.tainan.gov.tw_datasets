@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201801070430",
     "requested_datetime": "2018-01-07 21:42:01",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "北區",
     "service_name": "噪音舉發",
     "agency": "台南市政府",
     "subproject": "妨害安寧",
-    "description": "噪音舉發",
+    "description": "北區大興街574號 噪音舉發",
     "address_string": "臺南市北區大興街574號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-01-07 22:54:45",
     "expected_datetime": "2018-02-06 21:42:01"
 }
