@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201801080301",
+    "requested_datetime": "2018-01-08 17:52:37",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區公園路126之3號 違規停車",
+    "address_string": "北區公園路126之3號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-02-07 17:52:37"
+}
