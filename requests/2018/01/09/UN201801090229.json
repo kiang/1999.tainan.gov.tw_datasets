@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201801090229",
+    "requested_datetime": "2018-01-09 16:52:45",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區民族路二段55號到73號 違規停車",
+    "address_string": "民族路二段55號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-02-08 16:52:45"
+}
