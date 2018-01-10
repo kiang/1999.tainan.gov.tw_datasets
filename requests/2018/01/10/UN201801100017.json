@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201801100017",
+    "requested_datetime": "2018-01-10 07:38:47",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區健康路一段320號 違規停車",
+    "address_string": "南區健康路一段320號",
+    "lat": "22.9815709",
+    "long": "120.1949582",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-02-09 07:38:47"
+}
