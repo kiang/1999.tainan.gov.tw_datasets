@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201801100202",
+    "requested_datetime": "2018-01-10 17:27:50",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區民族路二段的康樂街到海安路口雙側 違規停車",
+    "address_string": "中西區民族路二段的康樂街到海安路口雙側",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-01-10 18:42:33",
+    "expected_datetime": "2018-02-09 17:27:50"
+}
