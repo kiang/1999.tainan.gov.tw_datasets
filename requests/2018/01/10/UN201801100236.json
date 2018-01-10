@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201801100236",
+    "requested_datetime": "2018-01-10 18:50:01",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區民族路二段76號，公車停靠區 違規停車",
+    "address_string": "民族路二段76號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-01-10 21:09:30",
+    "expected_datetime": "2018-02-09 18:50:01"
+}
