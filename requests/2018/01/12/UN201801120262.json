@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201801120262",
+    "requested_datetime": "2018-01-12 20:15:01",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "併案A-TB-2018-2489 違規停車",
+    "address_string": "三村一街11巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-01-12 20:44:00",
+    "expected_datetime": "2018-02-11 20:15:01"
+}
