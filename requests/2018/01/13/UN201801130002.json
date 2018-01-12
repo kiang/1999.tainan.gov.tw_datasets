@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201801120293",
-    "requested_datetime": "2018-01-12 23:32:53",
+    "service_request_id": "UN201801130002",
+    "requested_datetime": "2018-01-13 00:55:28",
     "status": "已完工",
     "keyword": "0",
     "area": "中西區",
@@ -8,10 +8,10 @@
     "agency": "台南市政府",
     "subproject": "場所連續噪音",
     "description": "中西區金華新路43號3樓 噪音舉發",
-    "address_string": "台南市中西區金華新路43號3樓",
+    "address_string": "金華新路43號3樓",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": "2018-01-13 01:41:00",
-    "expected_datetime": "2018-02-11 23:32:53"
+    "updated_datetime": "2018-01-13 01:45:56",
+    "expected_datetime": "2018-02-12 00:55:28"
 }
