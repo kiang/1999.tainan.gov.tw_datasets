@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201801120140",
+    "requested_datetime": "2018-01-12 13:53:20",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "騎樓舉發",
+    "agency": "台南市政府",
+    "subproject": "騎樓舉發",
+    "description": "騎樓舉發",
+    "address_string": "700台灣台南市中西區臨安路一段213號",
+    "lat": "23.0015344",
+    "long": "120.1936988",
+    "service_notice": {},
+    "updated_datetime": "2018-01-12 14:03:00",
+    "expected_datetime": "2018-02-11 13:53:20"
+}
