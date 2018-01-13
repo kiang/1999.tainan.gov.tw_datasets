@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201801130129",
+    "requested_datetime": "2018-01-13 14:01:21",
+    "status": {},
+    "keyword": "0",
+    "area": "六甲區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "六甲區 坐標：23.2202103, 120.3124293     道路維修",
+    "address_string": "23.2202103, 120.3124293",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-02-12 14:01:21"
+}
