@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201801140166",
+    "requested_datetime": "2018-01-14 17:06:29",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "台南市 南區健康路一段390巷8號違規停車",
+    "address_string": "台南市 南區健康路一段390巷8號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-01-14 18:52:11",
+    "expected_datetime": "2018-02-13 17:06:29"
+}
