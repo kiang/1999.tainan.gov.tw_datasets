@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201801150022",
     "requested_datetime": "2018-01-15 07:46:25",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "麻豆區",
     "service_name": "騎樓舉發",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-01-15 17:58:15",
     "expected_datetime": "2018-02-14 07:46:25"
 }
