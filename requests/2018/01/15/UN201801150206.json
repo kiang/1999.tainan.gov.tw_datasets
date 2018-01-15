@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201801150206",
+    "requested_datetime": "2018-01-15 12:34:50",
+    "status": {},
+    "keyword": "0",
+    "area": "新化區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "新化區信義路174號 佔用道路",
+    "address_string": "信義路174號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-02-14 12:34:50"
+}
