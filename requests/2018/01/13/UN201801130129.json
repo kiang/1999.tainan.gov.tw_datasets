@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201801130129",
     "requested_datetime": "2018-01-13 14:01:21",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "六甲區",
     "service_name": "道路維修",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-01-15 15:50:30",
     "expected_datetime": "2018-02-12 14:01:21"
 }
