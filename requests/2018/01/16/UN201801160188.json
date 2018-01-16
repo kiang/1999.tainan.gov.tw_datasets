@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201801160188",
+    "requested_datetime": "2018-01-16 12:44:36",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "709台灣台南市安南區同安路1號",
+    "lat": "23.0389145",
+    "long": "120.1881839",
+    "service_notice": {},
+    "updated_datetime": "2018-01-16 13:38:00",
+    "expected_datetime": "2018-02-15 12:44:36"
+}
