@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201801190277",
+    "requested_datetime": "2018-01-19 16:52:50",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "騎樓舉發",
+    "agency": "台南市政府",
+    "subproject": "騎樓舉發",
+    "description": "測試-黑快馬-關閉 騎樓舉發",
+    "address_string": "北門路二段237巷41弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-01-19 16:56:00",
+    "expected_datetime": "2018-02-18 16:52:50"
+}
