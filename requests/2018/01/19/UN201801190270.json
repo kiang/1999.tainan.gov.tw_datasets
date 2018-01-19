@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201801190270",
+    "requested_datetime": "2018-01-19 16:38:18",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "騎樓舉發",
+    "agency": "台南市政府",
+    "subproject": "騎樓舉發",
+    "description": "測試-黑快馬-關閉，謝謝。",
+    "address_string": "中華南路二段400巷2弄29號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-01-19 16:54:00",
+    "expected_datetime": "2018-02-18 16:38:18"
+}
