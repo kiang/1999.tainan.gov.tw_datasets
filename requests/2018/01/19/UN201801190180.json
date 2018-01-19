@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201801190180",
+    "requested_datetime": "2018-01-19 12:36:09",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "路燈故障",
+    "address_string": "北門路二段237巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-01-19 12:40:00",
+    "expected_datetime": "2018-02-18 12:36:09"
+}
