@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201801210264",
+    "requested_datetime": "2018-01-21 19:58:02",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區永華路一段與永華一街交叉路口 運河旁人行道及槽化線上 違規停車",
+    "address_string": "中西區永華路一段永華一街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-02-20 19:58:02"
+}
