@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201801210152",
+    "requested_datetime": "2018-01-21 13:34:20",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "永福路一段108巷1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-01-21 13:48:00",
+    "expected_datetime": "2018-02-20 13:34:20"
+}
