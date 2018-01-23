@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201801230366",
+    "requested_datetime": "2018-01-23 17:19:02",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區民權路四段38號 違規停車",
+    "address_string": "700台灣台南市中西區民權路四段38號",
+    "lat": "22.999176327086708",
+    "long": "120.18604410660714",
+    "service_notice": {},
+    "updated_datetime": "2018-01-23 18:53:50",
+    "expected_datetime": "2018-02-22 17:19:02"
+}
