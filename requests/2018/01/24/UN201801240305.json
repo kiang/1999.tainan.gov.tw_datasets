@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201801240165",
-    "requested_datetime": "2018-01-24 11:43:42",
-    "status": "已完工",
+    "service_request_id": "UN201801240305",
+    "requested_datetime": "2018-01-24 17:50:18",
+    "status": {},
     "keyword": "0",
     "area": "安平區",
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
     "description": "安平區華平路652號 違規停車",
-    "address_string": "華平路652號",
+    "address_string": "安平區華平路652號",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": "2018-01-24 18:14:34",
-    "expected_datetime": "2018-02-23 11:43:42"
+    "updated_datetime": {},
+    "expected_datetime": "2018-02-23 17:50:18"
 }
