@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201801300003",
+    "requested_datetime": "2018-01-30 00:25:45",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "環境髒亂",
+    "description": "安南區安和路一段150巷41號髒亂及汙染",
+    "address_string": "台南市安南區安和路一段150巷41門口前的電線桿",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-01-30 00:35:00",
+    "expected_datetime": "2018-03-01 00:25:45"
+}
