@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201801290033",
-    "requested_datetime": "2018-01-29 08:28:40",
+    "service_request_id": "UN201801290055",
+    "requested_datetime": "2018-01-29 09:04:28",
     "status": {},
     "keyword": "0",
     "area": "關廟區",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": "2018-01-29 09:25:00",
-    "expected_datetime": "2018-02-28 08:28:40"
+    "updated_datetime": "2018-01-29 09:17:00",
+    "expected_datetime": "2018-02-28 09:04:28"
 }
