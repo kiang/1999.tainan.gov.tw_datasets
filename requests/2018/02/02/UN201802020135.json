@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201802020135",
+    "requested_datetime": "2018-02-02 12:56:53",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區民權四段路與西賢六街交叉路口(成都建設那一角)  違規停車",
+    "address_string": "民權四段路與西賢六街交叉路口(成都建設那一角)",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-03-04 12:56:53"
+}
