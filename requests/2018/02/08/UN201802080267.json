@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201802080267",
+    "requested_datetime": "2018-02-08 18:44:42",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "西華南街32號\/萬昌街的衛民街口到興華街口直接",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-02-08 18:50:00",
+    "expected_datetime": "2018-03-10 18:44:42"
+}
