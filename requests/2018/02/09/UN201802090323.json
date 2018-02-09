@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201802090323",
+    "requested_datetime": "2018-02-09 23:41:02",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安南區大安街59巷 違規停車",
+    "address_string": "大安街59巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-02-10 00:45:37",
+    "expected_datetime": "2018-03-11 23:41:02"
+}
