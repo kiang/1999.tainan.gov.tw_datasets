@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201802100108",
+    "requested_datetime": "2018-02-10 12:56:06",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區安平路51巷20弄   違規停車",
+    "address_string": "安平路51巷20弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-02-10 13:02:00",
+    "expected_datetime": "2018-03-12 12:56:06"
+}
