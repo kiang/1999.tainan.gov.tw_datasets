@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201802150420",
+    "requested_datetime": "2018-02-15 23:12:28",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "安南區北安路三段181巷 37弄 9號 噪音舉發",
+    "address_string": "安南區北安路三段181巷37弄9號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-02-16 01:06:09",
+    "expected_datetime": "2018-03-17 23:12:28"
+}
