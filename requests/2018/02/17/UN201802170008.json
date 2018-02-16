@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201802170008",
+    "requested_datetime": "2018-02-17 01:37:40",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區新行街122巷和新民街66巷交界永康學院前 違規停車",
+    "address_string": "新行街122巷新民街66巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-02-17 02:54:41",
+    "expected_datetime": "2018-03-19 01:37:40"
+}
