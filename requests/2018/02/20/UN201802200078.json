@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201802200078",
+    "requested_datetime": "2018-02-20 12:04:59",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區健康路二段415號 違規停車",
+    "address_string": "南區健康路二段415號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-02-20 18:25:17",
+    "expected_datetime": "2018-03-22 12:04:59"
+}
