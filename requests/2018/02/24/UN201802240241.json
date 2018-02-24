@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201802240241",
+    "requested_datetime": "2018-02-24 19:02:30",
+    "status": {},
+    "keyword": "0",
+    "area": "新市區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "新市區中正路280號 佔用道路",
+    "address_string": "中正路280號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-03-26 19:02:30"
+}

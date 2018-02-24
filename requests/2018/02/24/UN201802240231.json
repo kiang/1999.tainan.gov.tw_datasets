@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201802240231",
+    "requested_datetime": "2018-02-24 18:30:14",
+    "status": {},
+    "keyword": "0",
+    "area": "新市區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "中正路 中正路268巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-02-24 19:26:00",
+    "expected_datetime": "2018-03-26 18:30:14"
+}
