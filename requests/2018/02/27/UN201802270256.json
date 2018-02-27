@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201802270256",
+    "requested_datetime": "2018-02-27 17:19:07",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區中華路619巷10號違規停車",
+    "address_string": "永康區中華路619巷10號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-02-27 18:42:53",
+    "expected_datetime": "2018-03-29 17:19:07"
+}
