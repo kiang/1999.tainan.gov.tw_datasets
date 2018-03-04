@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201803020326",
+    "requested_datetime": "2018-03-02 20:10:48",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "北區中華北路一段203巷59號 漏水",
+    "address_string": "中華北路一段203巷59號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-04-01 20:10:48"
+}

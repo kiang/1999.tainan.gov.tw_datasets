@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201803030295",
+    "requested_datetime": "2018-03-03 19:07:35",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "安平區怡平路140巷27弄7號 妨害安寧",
+    "address_string": "怡平路140巷27弄7號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-03-03 22:28:08",
+    "expected_datetime": "2018-04-02 19:07:35"
+}

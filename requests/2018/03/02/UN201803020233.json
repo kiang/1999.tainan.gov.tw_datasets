@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201803020233",
+    "requested_datetime": "2018-03-02 15:48:26",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "台南市東豐路451巷29-1號對面紅線違停違規停車",
+    "address_string": "台南市東豐路451巷29-1號對面紅線違停",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-03-02 18:10:37",
+    "expected_datetime": "2018-04-01 15:48:26"
+}

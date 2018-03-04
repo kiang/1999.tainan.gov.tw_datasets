@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201803040064",
+    "requested_datetime": "2018-03-04 10:13:38",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區萬昌街與興華街、青年路旁  違規停車",
+    "address_string": "萬昌街與興華街、青年路旁",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-03-04 17:03:25",
+    "expected_datetime": "2018-04-03 10:13:38"
+}

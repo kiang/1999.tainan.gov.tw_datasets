@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201803020169",
+    "requested_datetime": "2018-03-02 13:33:19",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "佳里區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "佳里區忠孝東路57號 違規停車",
+    "address_string": "佳里區忠孝東路57號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-03-02 18:00:36",
+    "expected_datetime": "2018-04-01 13:33:19"
+}
