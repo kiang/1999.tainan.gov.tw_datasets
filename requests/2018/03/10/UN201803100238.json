@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201803100238",
+    "requested_datetime": "2018-03-10 19:12:58",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區裕農路621巷35號 違規停車",
+    "address_string": "裕農路621巷35號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-03-11 05:41:08",
+    "expected_datetime": "2018-04-09 19:12:58"
+}

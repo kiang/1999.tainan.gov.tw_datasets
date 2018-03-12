@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201803110086",
+    "requested_datetime": "2018-03-11 11:50:09",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區西華南街58號 違規停車",
+    "address_string": "西華南街58號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-03-11 17:35:10",
+    "expected_datetime": "2018-04-10 11:50:09"
+}

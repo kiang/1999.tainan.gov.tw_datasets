@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201803110089",
+    "requested_datetime": "2018-03-11 12:04:01",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區富農街一段131巷25弄陶裡原   違規停車",
+    "address_string": "富農街一段131巷25弄陶裡原",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-03-11 15:10:17",
+    "expected_datetime": "2018-04-10 12:04:01"
+}

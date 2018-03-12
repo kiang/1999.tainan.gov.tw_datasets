@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201803100231",
+    "requested_datetime": "2018-03-10 18:41:34",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "南區鹽埕路159巷18號噪音舉發",
+    "address_string": "南區鹽埕路159巷18號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-03-11 05:29:22",
+    "expected_datetime": "2018-04-09 18:41:34"
+}
