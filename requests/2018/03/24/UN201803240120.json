@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201803240120",
+    "requested_datetime": "2018-03-24 10:43:48",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "中華東路三段336巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-03-24 12:28:00",
+    "expected_datetime": "2018-04-23 10:43:48"
+}
