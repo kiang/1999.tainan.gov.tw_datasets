@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201803240384",
     "requested_datetime": "2018-03-24 21:58:26",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "學甲區",
     "service_name": "道路維修",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-03-27 15:18:39",
     "expected_datetime": "2018-04-23 21:58:26"
 }
