@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201803280046",
-    "requested_datetime": "2018-03-28 08:41:16",
+    "service_request_id": "UN201803280068",
+    "requested_datetime": "2018-03-28 09:15:37",
     "status": {},
     "keyword": "0",
     "area": "關廟區",
@@ -8,10 +8,10 @@
     "agency": "台南市政府",
     "subproject": "場所連續噪音",
     "description": "噪音舉發",
-    "address_string": "台南市關廟區民族街76巷15號旁",
+    "address_string": "民族街76巷15號旁",
     "lat": {},
     "long": {},
     "service_notice": {},
     "updated_datetime": "2018-03-28 09:21:00",
-    "expected_datetime": "2018-04-27 08:41:16"
+    "expected_datetime": "2018-04-27 09:15:37"
 }
