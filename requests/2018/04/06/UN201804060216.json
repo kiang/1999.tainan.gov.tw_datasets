@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "號誌",
     "address_string": "裕永一街68-72號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9903055",
+    "long": "120.2429209",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-06 17:51:05"

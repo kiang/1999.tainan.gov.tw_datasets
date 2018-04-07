@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "廢棄車輛長期佔用停車格",
     "address_string": "永康區大灣東路1號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9982634",
+    "long": "120.2589584",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-04 14:36:57"

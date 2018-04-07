@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區開元路65-1號 違規停車",
     "address_string": "開元路65-1號",
-    "lat": {},
-    "long": {},
+    "lat": "23.006213",
+    "long": "120.2167588",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-06 17:12:39"
