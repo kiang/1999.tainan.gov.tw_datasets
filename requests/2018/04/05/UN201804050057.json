@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "交通運輸",
     "address_string": "怡安路與同安路口",
-    "lat": {},
-    "long": {},
+    "lat": "23.0808384",
+    "long": "120.2934821",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-05 10:03:49"
