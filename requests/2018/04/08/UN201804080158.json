@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "交通運輸",
     "address_string": "台17線616號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0048584",
+    "long": "120.1868804",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-08 16:40:01"

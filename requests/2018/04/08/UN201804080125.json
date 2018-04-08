@@ -9,8 +9,8 @@
     "subproject": "場所連續噪音",
     "description": "噪音舉發",
     "address_string": "東成街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9801876",
+    "long": "120.2352494",
     "service_notice": {},
     "updated_datetime": "2018-04-08 15:10:00",
     "expected_datetime": "2018-05-08 14:42:07"

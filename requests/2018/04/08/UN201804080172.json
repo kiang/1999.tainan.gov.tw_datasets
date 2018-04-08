@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "交通運輸",
     "address_string": "永康區永忠路141號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0196844",
+    "long": "120.2601147",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-08 17:30:48"
