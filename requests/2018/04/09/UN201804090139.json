@@ -9,8 +9,8 @@
     "subproject": "場所連續噪音",
     "description": "噪音舉發",
     "address_string": "民族街76巷15號旁",
-    "lat": {},
-    "long": {},
+    "lat": "23.0129176",
+    "long": "120.245773",
     "service_notice": {},
     "updated_datetime": "2018-04-09 11:12:00",
     "expected_datetime": "2018-05-09 11:06:37"
