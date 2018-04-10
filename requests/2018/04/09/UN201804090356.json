@@ -9,8 +9,8 @@
     "subproject": "公車動態LED跑馬燈資訊顯示異常",
     "description": "過站不停",
     "address_string": "安平區國平路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9910056",
+    "long": "120.171124",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-09 21:24:42"
