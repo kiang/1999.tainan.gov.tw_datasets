@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804080206",
+    "requested_datetime": "2018-04-08 19:45:49",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "中西區武聖路，武聖夜市 妨害安寧",
+    "address_string": "中西區武聖路",
+    "lat": "23.0061728",
+    "long": "120.1907883",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-08 19:45:00"
+}

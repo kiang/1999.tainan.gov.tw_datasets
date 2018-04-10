@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804090223",
+    "requested_datetime": "2018-04-09 15:05:09",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "安平區運河路7號旁，阿美海產 佔用道路＆直接開罰、劃設紅線",
+    "address_string": "安平區運河路7號",
+    "lat": "22.9989",
+    "long": "120.1632158",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-09 14:59:00"
+}

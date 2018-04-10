@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804070259",
+    "requested_datetime": "2018-04-07 20:28:48",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "東區林森路一段153巷27弄面對大同路右方小路 佔用道路",
+    "address_string": "東區林森路一段153巷27弄",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-07 20:24:00"
+}

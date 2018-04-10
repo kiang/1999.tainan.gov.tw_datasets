@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804090084",
+    "requested_datetime": "2018-04-09 09:52:51",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "南區南明街26號,施工噪音",
+    "address_string": "南區南明街26號",
+    "lat": "22.9845817",
+    "long": "120.1884941",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-09 09:50:00"
+}

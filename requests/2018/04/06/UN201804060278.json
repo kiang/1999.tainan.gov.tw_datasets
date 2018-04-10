@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804060278",
+    "requested_datetime": "2018-04-06 20:16:40",
+    "status": {},
+    "keyword": "0",
+    "area": "鹽水區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "鹽水區後厝70號全聯 違規停車",
+    "address_string": "鹽水區後厝70號",
+    "lat": "22.9826132",
+    "long": "120.2193412",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-06 20:14:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804080097",
+    "requested_datetime": "2018-04-08 13:40:28",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "北區安明路和中華北路口 號誌故障",
+    "address_string": "北區安明路中華北路",
+    "lat": "23.0115087",
+    "long": "120.1848703",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-08 13:40:00"
+}

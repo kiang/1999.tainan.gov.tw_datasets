@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804080154",
+    "requested_datetime": "2018-04-08 16:32:13",
+    "status": {},
+    "keyword": "0",
+    "area": "鹽水區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "鹽水區汫水里溪州寮3之5號 空氣汙染",
+    "address_string": "鹽水區汫水里溪州寮3之5號",
+    "lat": "23.3376761",
+    "long": "120.2912043",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-08 16:31:00"
+}

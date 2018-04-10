@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804080079",
+    "requested_datetime": "2018-04-08 12:17:39",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "東區崇明路上崇學路 佔用道路",
+    "address_string": "東區崇明路崇學路",
+    "lat": "22.9776303",
+    "long": "120.2199924",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-08 12:16:00"
+}

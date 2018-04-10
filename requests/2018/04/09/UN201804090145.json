@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804090145",
+    "requested_datetime": "2018-04-09 11:20:32",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區 中正路*西門路 違規停車",
+    "address_string": "中西區 中正路*西門路",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-09 11:19:00"
+}

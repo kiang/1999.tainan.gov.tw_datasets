@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804090085",
+    "requested_datetime": "2018-04-09 09:53:52",
+    "status": {},
+    "keyword": "0",
+    "area": "安定區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "安定區南安里4-8號附近",
+    "address_string": "安定區南安里4之8號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-09 09:51:00"
+}

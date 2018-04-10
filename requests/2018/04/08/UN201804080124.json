@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804080124",
+    "requested_datetime": "2018-04-08 14:37:14",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區公園北路和公園路295巷 違規停車",
+    "address_string": "北區公園北路公園路295巷",
+    "lat": "23.0041721",
+    "long": "120.2095202",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-08 14:36:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804070074",
+    "requested_datetime": "2018-04-07 11:03:52",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區古堡街上  西門國小  違停",
+    "address_string": "安平區古堡街西門國小",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-07 11:01:00"
+}

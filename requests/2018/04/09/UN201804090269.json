@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804090269",
+    "requested_datetime": "2018-04-09 17:02:08",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "中西區西賢一街216號 中西區西賢五街21號 西賢五街23巷19號   路燈",
+    "address_string": "中西區西賢一街216號",
+    "lat": "23.0033253",
+    "long": "120.1777091",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-09 16:59:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804090333",
+    "requested_datetime": "2018-04-09 19:50:27",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區建南路與福吉一街路口 違規停車",
+    "address_string": "南區建南路福吉一街",
+    "lat": "22.9848427",
+    "long": "120.1932913",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-09 19:49:00"
+}

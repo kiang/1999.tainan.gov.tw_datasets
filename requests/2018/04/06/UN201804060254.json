@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804060254",
+    "requested_datetime": "2018-04-06 19:13:22",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "永康區中華路，介於中華二路與中山南路間 佔用道路",
+    "address_string": "永康區中華路",
+    "lat": "23.0146285",
+    "long": "120.2299508",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-06 19:13:00"
+}

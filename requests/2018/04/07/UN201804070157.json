@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804070157",
+    "requested_datetime": "2018-04-07 15:06:39",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "安平區古堡街1號  佔用道路 \/ 空汙",
+    "address_string": "安平區古堡街1號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-07 15:05:00"
+}

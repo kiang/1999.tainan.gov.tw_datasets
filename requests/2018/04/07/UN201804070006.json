@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804070006",
+    "requested_datetime": "2018-04-07 02:11:20",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "場所連續噪音",
+    "description": "中西區開山路7號  場所連續噪音",
+    "address_string": "中西區開山路7號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-07 02:11:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804080157",
+    "requested_datetime": "2018-04-08 16:38:51",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "安南區安寧街91巷 佔用道路",
+    "address_string": "安南區安寧街91巷",
+    "lat": "23.0233394",
+    "long": "120.1931713",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-08 16:35:00"
+}

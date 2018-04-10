@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804080047",
+    "requested_datetime": "2018-04-08 10:14:47",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "安南區長和路四段231巷60弄50號  施工噪音",
+    "address_string": "安南區長和路四段231巷60弄50號",
+    "lat": "23.0669358",
+    "long": "120.2095868",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-08 10:13:00"
+}

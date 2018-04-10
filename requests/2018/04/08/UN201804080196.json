@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804080196",
+    "requested_datetime": "2018-04-08 19:03:37",
+    "status": {},
+    "keyword": "0",
+    "area": "官田區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "官田區信義街65巷路牌下方 漏水",
+    "address_string": "官田區信義街65巷",
+    "lat": "23.0518163",
+    "long": "120.1658391",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-08 19:03:00"
+}

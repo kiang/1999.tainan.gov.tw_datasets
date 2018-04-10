@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804090277",
+    "requested_datetime": "2018-04-09 17:20:17",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "安南區安富街和安寧街 號誌故障",
+    "address_string": "安南區安富街安寧街",
+    "lat": "23.0260911",
+    "long": "120.1933107",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-09 17:19:00"
+}
