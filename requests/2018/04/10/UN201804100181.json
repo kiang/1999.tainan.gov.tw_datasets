@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區樂安二街216號 路燈故障",
     "address_string": "樂安二街216號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0475817",
+    "long": "120.1769584",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-10 13:36:39"

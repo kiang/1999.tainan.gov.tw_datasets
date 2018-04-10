@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區大同路一段的開山路口到健康路口雙側紅線黃線 違規停車",
     "address_string": "中西區大同路一段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9848653",
+    "long": "120.2111666",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-10 17:32:09"

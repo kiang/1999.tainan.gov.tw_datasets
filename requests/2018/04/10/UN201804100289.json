@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "中西區南華街4號與6號,盆裁佔用道路",
     "address_string": "中西區南華街4號",
-    "lat": {},
-    "long": {},
+    "lat": "22.988644",
+    "long": "120.191161",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-10 18:16:00"

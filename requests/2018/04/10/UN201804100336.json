@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區開安二街12號 路燈故障",
     "address_string": "安南區開安二街12號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0477413",
+    "long": "120.2240098",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-10 20:30:00"

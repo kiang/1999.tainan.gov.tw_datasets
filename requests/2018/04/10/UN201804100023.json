@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "永康區中華路跟小東路口  佔用道路",
     "address_string": "永康區中華路小東路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0266178",
+    "long": "120.2121985",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-10 07:35:00"

@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區中華東路二段195號 違規停車",
     "address_string": "東區中華東路二段195號",
-    "lat": {},
-    "long": {},
+    "lat": "22.984385",
+    "long": "120.232649",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-10 18:48:30"

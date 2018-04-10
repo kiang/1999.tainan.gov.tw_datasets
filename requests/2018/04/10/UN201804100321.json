@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區開南街141號前 路燈故障",
     "address_string": "北區開南街141號前",
-    "lat": {},
-    "long": {},
+    "lat": "23.0056756",
+    "long": "120.2256931",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-10 19:40:00"

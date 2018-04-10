@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "南區新樂路南向 新忠路口 號誌故障",
     "address_string": "南區新樂路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9739352",
+    "long": "120.177246",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-10 16:11:38"

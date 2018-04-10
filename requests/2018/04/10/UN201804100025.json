@@ -9,8 +9,8 @@
     "subproject": "交通疏導",
     "description": "東區小東路快到林森路口  交通疏導",
     "address_string": "東區小東路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0000545",
+    "long": "120.227089",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-10 07:47:00"
