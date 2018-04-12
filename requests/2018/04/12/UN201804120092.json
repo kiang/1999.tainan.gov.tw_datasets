@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "南區新忠路  交通運輸",
     "address_string": "南區新忠路",
-    "lat": {},
-    "long": {},
+    "lat": "22.979506",
+    "long": "120.1807081",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-12 10:46:01"

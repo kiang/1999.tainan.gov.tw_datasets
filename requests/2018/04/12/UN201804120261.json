@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區長德街，靠近公園北路路段 違停",
     "address_string": "北區長德街",
-    "lat": {},
-    "long": {},
+    "lat": "23.0038426",
+    "long": "120.2059761",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-12 18:30:00"

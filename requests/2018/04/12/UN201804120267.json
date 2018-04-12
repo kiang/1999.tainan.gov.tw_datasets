@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "南區永南四街與美南街 路燈故障",
     "address_string": "南區永南四街美南街",
-    "lat": {},
-    "long": {},
+    "lat": "22.984074",
+    "long": "120.1875587",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-12 18:51:00"

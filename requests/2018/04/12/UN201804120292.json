@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區長東街77號前 路燈閃爍",
     "address_string": "東區長東街77號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9632334",
+    "long": "120.2298062",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-12 20:09:00"

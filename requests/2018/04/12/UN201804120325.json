@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804120325",
+    "requested_datetime": "2018-04-12 23:07:17",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面掏空、塌陷",
+    "description": "安平區建平八街551號，停車場前 路面掏空",
+    "address_string": "安平區建平八街551號",
+    "lat": "22.9920202",
+    "long": "120.1685802",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-12 23:06:00"
+}

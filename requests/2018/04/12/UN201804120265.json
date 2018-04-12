@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區成功路434號農會對面 路燈故障",
     "address_string": "北區成功路434號農會",
-    "lat": {},
-    "long": {},
+    "lat": "23.0008919",
+    "long": "120.198066",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-12 18:43:00"

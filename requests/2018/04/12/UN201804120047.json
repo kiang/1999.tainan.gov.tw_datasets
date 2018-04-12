@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "柳營區工一路與環圓西路 空氣污染",
     "address_string": "柳營區工一路環圓西路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0038426",
+    "long": "120.2059761",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-12 09:20:00"

@@ -9,8 +9,8 @@
     "subproject": "公車動態LED跑馬燈資訊顯示異常",
     "description": "新營文化中心對面星巴克前 公車動態LED跑馬燈資訊顯示異常",
     "address_string": "新營區中正路6之5號",
-    "lat": {},
-    "long": {},
+    "lat": "23.307615",
+    "long": "120.3162235",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-12 09:51:00"
