@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區崇明七街129號到136號 9盞以下路燈故障",
     "address_string": "東區崇明七街129號 136號",
-    "lat": {},
-    "long": {},
+    "lat": "22.979329",
+    "long": "120.2181557",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-13 04:55:00"

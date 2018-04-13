@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區忠義路與公園南路 路燈故障",
     "address_string": "北區忠義路公園南路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9946307",
+    "long": "120.210031",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-13 20:16:00"

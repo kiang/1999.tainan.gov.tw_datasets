@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "台南市安南區培安二街16號 紅線違停",
     "address_string": "台南市安南區培安二街16號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0464519",
+    "long": "120.2133473",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-13 09:21:03"
