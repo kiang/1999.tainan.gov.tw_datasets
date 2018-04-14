@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區民族路二段，從西門圓環到赤崁樓路段 違停",
     "address_string": "中西區民族路二段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9804041",
+    "long": "120.2061876",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-14 19:10:00"

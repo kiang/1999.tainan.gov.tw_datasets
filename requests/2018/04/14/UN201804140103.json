@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區府前路一段*永福路到南門路 違規停車",
     "address_string": "中西區府前路一段*永福路*南門路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9815896",
+    "long": "120.2117084",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-14 12:23:00"

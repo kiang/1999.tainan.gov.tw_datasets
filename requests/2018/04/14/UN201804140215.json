@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新市區中正路222號 違規停車",
     "address_string": "中正路222號",
-    "lat": {},
-    "long": {},
+    "lat": "23.1745773",
+    "long": "120.4863522",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-14 18:28:59"

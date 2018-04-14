@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "新市區善新大道1號 路燈故障",
     "address_string": "新市區善新大道1號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9944969",
+    "long": "120.2090221",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-14 18:56:00"
