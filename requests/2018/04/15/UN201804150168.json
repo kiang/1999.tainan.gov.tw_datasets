@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "新營區 空氣汙染",
     "address_string": "新營區",
-    "lat": {},
-    "long": {},
+    "lat": "22.9688601",
+    "long": "120.2510736",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-15 17:12:00"

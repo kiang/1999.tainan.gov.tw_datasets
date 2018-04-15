@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區民權路二段202號 違停",
     "address_string": "中西區民權路二段202號",
-    "lat": {},
-    "long": {},
+    "lat": "22.995497",
+    "long": "120.2016666",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-15 14:33:00"
