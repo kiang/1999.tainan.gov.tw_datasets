@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區光賢街67號對面 路燈故障",
     "address_string": "中西區光賢街67號對面",
-    "lat": {},
-    "long": {},
+    "lat": "23.004225",
+    "long": "120.1879879",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-16 11:13:00"

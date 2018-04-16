@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "將軍區台17濱海公路 路燈故障",
     "address_string": "將軍區台17濱海公路",
-    "lat": {},
-    "long": {},
+    "lat": "23.2270558",
+    "long": "120.1358281",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-16 08:56:00"
