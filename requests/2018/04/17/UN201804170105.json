@@ -9,8 +9,8 @@
     "subproject": "道路散落物",
     "description": "南區中華南路地下道雙向 道路散落物",
     "address_string": "南區中華南路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9674001",
+    "long": "120.2051615",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-17 10:46:25"

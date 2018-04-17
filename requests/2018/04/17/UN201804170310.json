@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804170310",
+    "requested_datetime": "2018-04-17 21:45:24",
+    "status": {},
+    "keyword": "0",
+    "area": "善化區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "善化區小新營255之18號旁 違停",
+    "address_string": "善化區小新營255之18號",
+    "lat": "23.1249035",
+    "long": "120.3150668",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-17 21:44:00"
+}

@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "東區莊敬路144號 空氣污染",
     "address_string": "東區莊敬路144號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9961178",
+    "long": "120.2331235",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-17 10:18:00"
