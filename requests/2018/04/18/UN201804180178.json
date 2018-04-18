@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "南區中華南路一段30號 路燈故障",
     "address_string": "南區中華南路一段30號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9930919",
+    "long": "120.2094951",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-18 12:45:00"

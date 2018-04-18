@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "新市區銘傳街與信義街口 空污",
     "address_string": "新市區銘傳街信義街",
-    "lat": {},
-    "long": {},
+    "lat": "23.074185",
+    "long": "120.2897078",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-18 23:35:00"
