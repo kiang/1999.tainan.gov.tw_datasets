@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區裕農路與裕孝路口，裕孝路上 路燈不亮",
     "address_string": "東區裕農路裕孝路",
-    "lat": {},
-    "long": {},
+    "lat": "22.989759",
+    "long": "120.2431262",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-19 19:23:00"

@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "新市區新市火車站附近 空污",
     "address_string": "新市區新市火車站",
-    "lat": {},
-    "long": {},
+    "lat": "23.234184",
+    "long": "120.212456",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-19 21:15:00"

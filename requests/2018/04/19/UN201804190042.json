@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "台南東區、仁德區及永康區 空氣汙染",
     "address_string": "台南東區仁德區永康區",
-    "lat": {},
-    "long": {},
+    "lat": "22.98133",
+    "long": "120.2224227",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-19 08:31:00"

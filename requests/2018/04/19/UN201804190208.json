@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區和緯路及武聖路口,斑馬線及紅線 違停",
     "address_string": "北區和緯路武聖路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0075557",
+    "long": "120.1878479",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-19 15:29:00"

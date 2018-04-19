@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區長榮路五段313號 違停",
     "address_string": "北區長榮路五段313號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0127568",
+    "long": "120.2164307",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-19 10:44:00"

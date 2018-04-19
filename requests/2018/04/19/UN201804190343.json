@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "新市區中正路102號附近 空氣汙染",
     "address_string": "新市區中正路102號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0121155",
+    "long": "120.2274805",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-19 21:22:00"
