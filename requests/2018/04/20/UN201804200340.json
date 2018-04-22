@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804200340",
+    "requested_datetime": "2018-04-20 20:46:54",
+    "status": {},
+    "keyword": "0",
+    "area": "麻豆區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "麻豆區興南路103號 違規停車",
+    "address_string": "麻豆區興南路103號",
+    "lat": "23.1831809",
+    "long": "120.2507168",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-20 20:46:54"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804200310",
+    "requested_datetime": "2018-04-20 19:13:15",
+    "status": {},
+    "keyword": "0",
+    "area": "善化區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "善化區胡厝寮213之30號 妨害安寧",
+    "address_string": "善化區胡厝寮213之30號",
+    "lat": "23.14427",
+    "long": "120.271908",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-20 19:10:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804200349",
+    "requested_datetime": "2018-04-20 21:34:03",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "私自塗銷",
+    "address_string": "台南市東區崇德路78號",
+    "lat": "23.1831809",
+    "long": "120.2507168",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-20 21:34:03"
+}

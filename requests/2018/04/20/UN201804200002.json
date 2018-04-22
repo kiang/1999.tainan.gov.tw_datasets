@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "永康區永安路56號空氣汙染",
     "address_string": "永安路56號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0490979",
+    "long": "120.2105569",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-20 00:52:28"

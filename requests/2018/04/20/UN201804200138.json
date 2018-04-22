@@ -7,10 +7,10 @@
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "中西區民生路二段海安路二段  違規停車",
+    "description": "中西區民生路二段與海安路二段交叉口  違規停車",
     "address_string": "中西區民生路二段海安路二段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9953827",
+    "long": "120.196512",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-20 12:04:00"

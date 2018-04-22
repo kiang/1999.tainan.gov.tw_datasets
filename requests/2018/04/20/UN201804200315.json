@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201804200315",
+    "requested_datetime": "2018-04-20 19:24:22",
+    "status": {},
+    "keyword": "0",
+    "area": "東山區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "東山區鳳安一街2號 停水",
+    "address_string": "東山區鳳安一街2號",
+    "lat": "23.0431447",
+    "long": "120.1842764",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-05-20 19:22:00"
+}
