@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新市區中正路 中正路66巷 路口 違規停車",
     "address_string": "新市區中正路 中正路66巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.071618",
+    "long": "120.2919118",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-22 17:36:03"

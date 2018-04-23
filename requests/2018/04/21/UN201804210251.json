@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新市區忠孝街 和 忠孝街179巷 路口 違規停車",
     "address_string": "新市區忠孝街179巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.0751067",
+    "long": "120.2944611",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-21 18:25:53"

@@ -9,8 +9,8 @@
     "subproject": "場所連續噪音",
     "description": "東區裕忠路跟裕文路 場所連續噪音",
     "address_string": "東區裕忠路 裕文路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9826417",
+    "long": "120.2417325",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-21 04:50:00"
