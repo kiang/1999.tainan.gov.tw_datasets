@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區府前路一段289號 紅線違停",
     "address_string": "中西區府前路一段289號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9895081",
+    "long": "120.2017123",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-21 22:35:00"

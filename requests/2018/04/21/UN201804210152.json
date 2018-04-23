@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "官田區176縣與南118縣, 號誌故障",
     "address_string": "官田區176縣",
-    "lat": {},
-    "long": {},
+    "lat": "23.1957226",
+    "long": "120.3032015",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-21 13:30:00"
