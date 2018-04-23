@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安平區永華路*國平路  違停",
     "address_string": "安平區永華路國平路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9910056",
+    "long": "120.171124",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-22 12:35:00"

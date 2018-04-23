@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新市區中正路48號 門口 違規停車",
     "address_string": "新市區中正路48號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0712245",
+    "long": "120.2921423",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-22 11:20:27"

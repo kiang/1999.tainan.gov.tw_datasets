@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "鹽水區月津路14號紅線違停",
     "address_string": "鹽水區月津路14號",
-    "lat": {},
-    "long": {},
+    "lat": "23.3156572",
+    "long": "120.2662251",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-22 10:27:57"
