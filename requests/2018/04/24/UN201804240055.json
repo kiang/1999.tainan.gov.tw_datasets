@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "新化區中山路586號  佔用道路",
     "address_string": "新化區中山路586號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0363605",
+    "long": "120.30097",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-24 09:35:00"
