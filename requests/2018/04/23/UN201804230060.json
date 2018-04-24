@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "安平區安北路與州平三街交叉口  佔用道路",
     "address_string": "安平區安北路州平三街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9981772",
+    "long": "120.1492307",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-23 08:58:00"

@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區南門路111號 違規停車",
     "address_string": "中西區南門路111號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9876489",
+    "long": "120.2045357",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-23 17:56:37"

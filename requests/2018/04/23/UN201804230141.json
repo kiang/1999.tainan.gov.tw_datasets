@@ -9,8 +9,8 @@
     "subproject": "交通疏導",
     "description": "南區大同路跟國民路口 交通疏導",
     "address_string": "南區大同路國民路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9673478",
+    "long": "120.2158426",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-23 11:24:00"

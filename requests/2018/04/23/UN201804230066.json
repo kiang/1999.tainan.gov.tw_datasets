@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區東豐路  違停",
     "address_string": "北區東豐路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0027613",
+    "long": "120.2211065",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-23 09:12:00"

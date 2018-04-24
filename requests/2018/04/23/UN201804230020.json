@@ -9,8 +9,8 @@
     "subproject": "地下道積水",
     "description": "北區長榮地下道內積水",
     "address_string": "北區長榮地下道",
-    "lat": {},
-    "long": {},
+    "lat": "23.0127151",
+    "long": "120.2194267",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-23 07:10:00"

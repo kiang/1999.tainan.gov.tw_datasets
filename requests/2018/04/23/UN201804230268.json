@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "北區臨安路二段183號 佔用道路",
     "address_string": "臨安路二段183號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0036781",
+    "long": "120.1988584",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-23 16:06:09"
