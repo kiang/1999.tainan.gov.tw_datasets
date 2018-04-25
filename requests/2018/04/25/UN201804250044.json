@@ -9,8 +9,8 @@
     "subproject": "交通疏導",
     "description": "仁德區太子路與裕農路 交通疏導",
     "address_string": "仁德區太子路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0142731",
+    "long": "120.1981584",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-25 09:31:00"

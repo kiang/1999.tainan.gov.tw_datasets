@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區府連東路35號或37號 違停",
     "address_string": "東區府連東路35號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9843821",
+    "long": "120.2178059",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-25 07:13:00"

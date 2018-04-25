@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安平區慶平路192號  紅線違停",
     "address_string": "安平區慶平路192號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9971106",
+    "long": "120.1790256",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-25 17:09:00"

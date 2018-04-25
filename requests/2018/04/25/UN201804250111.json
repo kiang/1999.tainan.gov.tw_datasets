@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區文賢三街3號對面路燈故障",
     "address_string": "北區文賢三街3號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0142731",
+    "long": "120.1981584",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-25 11:45:00"

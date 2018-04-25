@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "北區中華北路二段北安橋下 號誌故障",
     "address_string": "北區中華北路二段",
-    "lat": {},
-    "long": {},
+    "lat": "23.0209479",
+    "long": "120.2014341",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-25 21:30:00"
