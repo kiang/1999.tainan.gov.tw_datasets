@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區崇善路與永東街口，往仁德區方向 路燈不亮",
     "address_string": "東區崇善路永東街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9612576",
+    "long": "120.23687",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-26 20:14:00"
