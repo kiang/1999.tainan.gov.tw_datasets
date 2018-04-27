@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區崇德路、崇明路、崇善路 紅線違規",
     "address_string": "東區崇德路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9711055",
+    "long": "120.2274907",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-27 11:14:00"
