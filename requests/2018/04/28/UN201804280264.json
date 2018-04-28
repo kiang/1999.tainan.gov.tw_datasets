@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "鹽水區四維路110號旁 路燈故障",
     "address_string": "鹽水區四維路110號",
-    "lat": {},
-    "long": {},
+    "lat": "23.308204",
+    "long": "120.274864",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-28 20:02:00"

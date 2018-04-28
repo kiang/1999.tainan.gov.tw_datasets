@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "玉井區中正路146號附近 違規停車",
     "address_string": "玉井區中正路146號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0251043",
+    "long": "120.1911996",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-28 15:30:00"

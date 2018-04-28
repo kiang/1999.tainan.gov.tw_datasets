@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新市區復興路 和平街 違規停車",
     "address_string": "復興路和平街",
-    "lat": {},
-    "long": {},
+    "lat": "23.0270454",
+    "long": "120.2092391",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-28 08:43:02"

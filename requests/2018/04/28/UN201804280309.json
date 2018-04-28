@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安平區華平路158號到168號 路燈故障",
     "address_string": "安平區華平路158號到168號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9931888",
+    "long": "120.2090884",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-28 23:27:00"

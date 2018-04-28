@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新化區中興路與中正交叉路口 紅線違停",
     "address_string": "新化區中興路中正路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0342577",
+    "long": "120.3083589",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-28 11:09:42"
