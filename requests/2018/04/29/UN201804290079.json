@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "新市區中正路374號 佔用道路",
     "address_string": "中正路374號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0197994",
+    "long": "120.2267602",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-29 11:48:04"

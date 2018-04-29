@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北台南公車站 違規停車",
     "address_string": "北區",
-    "lat": {},
-    "long": {},
+    "lat": "23.008515",
+    "long": "120.2079953",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-29 16:25:13"

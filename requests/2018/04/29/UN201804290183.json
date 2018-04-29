@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "違規停車",
     "address_string": "新市區中正路237之3號",
-    "lat": {},
-    "long": {},
+    "lat": "22.997632",
+    "long": "120.211296",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-29 17:07:13"

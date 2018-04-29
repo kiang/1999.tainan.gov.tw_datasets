@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區湖美二街50號前面一盞路燈",
     "address_string": "中西區湖美二街50號",
-    "lat": {},
-    "long": {},
+    "lat": "23.001377",
+    "long": "120.2029229",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-29 21:03:00"

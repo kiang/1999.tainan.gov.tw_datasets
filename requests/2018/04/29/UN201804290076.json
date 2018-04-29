@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "台南火車站對面 違規停車",
     "address_string": "北門路一段310號",
-    "lat": {},
-    "long": {},
+    "lat": "22.996334",
+    "long": "120.2120668",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-29 11:28:00"
