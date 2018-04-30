@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區林森路一段及大同路  違規停車",
     "address_string": "東區林森路一段大同路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9812717",
+    "long": "120.2120405",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-30 09:36:36"

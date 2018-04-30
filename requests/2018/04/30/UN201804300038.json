@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "北區中華北路跟北安路一段口  號誌故障",
     "address_string": "北區中華北路北安路一段",
-    "lat": {},
-    "long": {},
+    "lat": "23.0217141",
+    "long": "120.2041128",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-30 08:32:00"
