@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "新營區長榮路和開元路交叉T字路口 號誌",
     "address_string": "新營區長榮路和開元路",
-    "lat": {},
-    "long": {},
+    "lat": "23.317535",
+    "long": "120.3329904",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-31 08:03:00"

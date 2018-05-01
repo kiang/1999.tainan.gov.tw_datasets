@@ -9,8 +9,8 @@
     "subproject": "場所連續噪音",
     "description": "北區成功路86號連續噪音",
     "address_string": "北區成功路86號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9983895",
+    "long": "120.2062615",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-31 14:24:00"

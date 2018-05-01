@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區府前路一段與忠義路一段口 違停",
     "address_string": "中西區府前路一段忠義路一段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9895236",
+    "long": "120.2021763",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-05-31 15:03:00"
