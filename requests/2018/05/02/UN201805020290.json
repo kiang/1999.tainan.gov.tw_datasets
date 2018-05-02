@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "鹽水區後厝70號 違停",
     "address_string": "鹽水區後厝70號",
-    "lat": {},
-    "long": {},
+    "lat": "23.319952",
+    "long": "120.2717494",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-01 19:16:00"

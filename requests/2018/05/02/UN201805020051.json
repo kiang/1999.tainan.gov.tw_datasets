@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "東區北門路  占用道路",
     "address_string": "東區北門路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9932613",
+    "long": "120.2117242",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-01 09:21:00"

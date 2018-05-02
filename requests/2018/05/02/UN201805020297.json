@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "新化區中山路，沿途一直到歸仁區高鐵高架橋下中山路 空氣污染",
     "address_string": "新化區中山路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0432734",
+    "long": "120.3143793",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-01 19:44:00"

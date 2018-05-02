@@ -9,8 +9,8 @@
     "subproject": "公車動態LED跑馬燈資訊顯示異常",
     "description": "北區成大醫院勝利路 公車亭跑馬燈故障",
     "address_string": "北區勝利路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0019089",
+    "long": "120.2186254",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-01 20:54:53"
