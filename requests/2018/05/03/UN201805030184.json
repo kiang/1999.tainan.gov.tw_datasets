@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805030184",
+    "requested_datetime": "2018-05-03 15:03:23",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "大型廢棄物清運",
+    "description": "南區南功街85巷57號旁(大樓大門口旁)  髒亂及汙染",
+    "address_string": "南區南功街85巷57號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-02 15:03:23"
+}

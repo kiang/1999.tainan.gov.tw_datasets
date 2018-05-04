@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805030144",
+    "requested_datetime": "2018-05-03 12:41:05",
+    "status": {},
+    "keyword": "0",
+    "area": "佳里區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "佳里區營頂里103號前整排雞舍 空氣污染",
+    "address_string": "佳里區營頂里103號",
+    "lat": "23.1996721",
+    "long": "120.1863512",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-02 12:40:00"
+}
