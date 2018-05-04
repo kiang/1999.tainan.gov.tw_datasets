@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區大同路一段218號到248號 違規停車",
     "address_string": "大同路一段218號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9952723",
+    "long": "120.2054089",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-03 08:21:10"
