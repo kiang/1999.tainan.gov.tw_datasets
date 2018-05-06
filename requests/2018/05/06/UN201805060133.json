@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "台南仁德交流道北上到永康交流道 空氣汙染",
     "address_string": "台南仁德交流道",
-    "lat": {},
-    "long": {},
+    "lat": "23.0423392",
+    "long": "120.211791",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-05 14:37:00"

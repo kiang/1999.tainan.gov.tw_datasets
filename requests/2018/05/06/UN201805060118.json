@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "玉井區中正路139號 違規停車",
     "address_string": "玉井區中正路139號",
-    "lat": {},
-    "long": {},
+    "lat": "23.1309353",
+    "long": "120.4702117",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-05 15:21:00"
