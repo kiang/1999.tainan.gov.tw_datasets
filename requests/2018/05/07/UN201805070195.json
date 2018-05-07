@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "佳里區延平路80號  紅線違停",
     "address_string": "佳里區延平路80號",
-    "lat": {},
-    "long": {},
+    "lat": "23.1555158",
+    "long": "120.1794078",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-06 14:34:00"

@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "永康區中華路空氣汙染",
     "address_string": "永康區中華路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0146285",
+    "long": "120.2299508",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-06 13:52:00"
