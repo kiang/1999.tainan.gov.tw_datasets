@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805080316",
+    "requested_datetime": "2018-05-08 23:06:28",
+    "status": {},
+    "keyword": "0",
+    "area": "七股區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "七股區國姓橋下方通82快速道路 路燈不亮",
+    "address_string": "七股區國姓橋",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-07 23:04:00"
+}
