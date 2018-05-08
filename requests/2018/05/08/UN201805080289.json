@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區裕敬路350號到裕義路  路燈故障不亮",
     "address_string": "東區裕敬路350號到",
-    "lat": {},
-    "long": {},
+    "lat": "22.9797708",
+    "long": "120.2455656",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-07 20:29:00"

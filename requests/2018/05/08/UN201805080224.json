@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "東區中華東路跟東門路交叉口  佔用道路",
     "address_string": "東區中華東路跟東門路交叉口",
-    "lat": {},
-    "long": {},
+    "lat": "22.9932436",
+    "long": "120.2340407",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-07 17:38:00"

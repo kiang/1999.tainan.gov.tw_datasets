@@ -9,8 +9,8 @@
     "subproject": "積水淹水問題",
     "description": "東區林森路一段地下道  積水",
     "address_string": "林森路一段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9932436",
+    "long": "120.2340407",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-07 07:37:00"

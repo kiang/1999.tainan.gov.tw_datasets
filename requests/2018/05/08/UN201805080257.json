@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區裕文路22巷 路燈故障",
     "address_string": "東區裕文路22巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.9826659",
+    "long": "120.2378198",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-07 19:17:00"

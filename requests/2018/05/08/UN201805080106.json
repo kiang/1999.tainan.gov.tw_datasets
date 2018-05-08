@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "東區小東路和光明街 號誌故障",
     "address_string": "東區小東路光明街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9996912",
+    "long": "120.2282068",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-07 11:28:00"

@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "南區永成路 號誌故障",
     "address_string": "南區永成路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9687154",
+    "long": "120.195399",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-07 13:03:00"

@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新市區中正路 復興路 路口 違規停車",
     "address_string": "新市區中正路*復興路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9974788",
+    "long": "120.2110542",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-07 18:24:17"

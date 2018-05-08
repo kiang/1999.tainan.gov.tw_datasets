@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區工學路二段277-155號  路燈故障",
     "address_string": "安南區工學路二段277-155號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0371355",
+    "long": "120.1883064",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-07 17:00:00"
