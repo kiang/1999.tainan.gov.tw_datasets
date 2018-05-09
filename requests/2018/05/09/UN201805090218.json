@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區北園街8巷,巷內多部汽車違停",
     "address_string": "北區北園街8巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.0108089",
+    "long": "120.2238075",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-08 16:32:00"

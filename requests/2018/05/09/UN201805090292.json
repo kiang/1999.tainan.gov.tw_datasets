@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "歸仁十三路台南交大附近，由高發三路和歸仁十三路口，沿著建築物往歸仁十三路走 路燈不亮",
     "address_string": "歸仁區歸仁十三路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9241624",
+    "long": "120.290468",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-08 19:23:00"

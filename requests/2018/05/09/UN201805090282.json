@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區公學路三段350-1與352號 路燈故障",
     "address_string": "安南區公學路三段350號之1",
-    "lat": {},
-    "long": {},
+    "lat": "22.9906348",
+    "long": "120.1688476",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-08 18:46:00"
