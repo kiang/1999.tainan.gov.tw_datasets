@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區和平街143號前 路燈不亮",
     "address_string": "中西區和平街143號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9965401",
+    "long": "120.195104",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-09 20:10:00"
