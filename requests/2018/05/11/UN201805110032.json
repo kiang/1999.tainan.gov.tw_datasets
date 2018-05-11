@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區小東路成大醫院  違停",
     "address_string": "北區小東路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9908149",
+    "long": "120.1827431",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-10 08:14:00"

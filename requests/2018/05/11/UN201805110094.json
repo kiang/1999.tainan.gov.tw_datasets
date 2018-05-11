@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "善化區陽光大道 違停",
     "address_string": "善化區陽光大道",
-    "lat": {},
-    "long": {},
+    "lat": "23.020386",
+    "long": "120.218175",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-10 10:16:00"
