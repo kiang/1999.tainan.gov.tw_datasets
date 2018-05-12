@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新市區中正路 銘傳街 路口 違規停車",
     "address_string": "新市區中正路銘傳街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9580327",
+    "long": "120.3325761",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-11 19:40:06"

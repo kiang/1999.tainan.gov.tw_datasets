@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新營區中山路與新進路口 違規停車",
     "address_string": "新營區中山路",
-    "lat": {},
-    "long": {},
+    "lat": "22.968087",
+    "long": "120.182764",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-11 16:28:00"

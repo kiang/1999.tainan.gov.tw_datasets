@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安南區海東三街93號 違停",
     "address_string": "安南區海東三街93號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0311047",
+    "long": "120.1887553",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-11 21:47:00"

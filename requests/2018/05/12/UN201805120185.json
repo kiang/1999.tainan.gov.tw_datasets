@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "中西區中山路139號對面 號誌故障",
     "address_string": "中西區中山路139號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9959136",
+    "long": "120.209987",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-11 17:01:00"

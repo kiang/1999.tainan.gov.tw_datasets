@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區西門路四段和北成路交叉口  違停",
     "address_string": "北區西門路四段北成路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9880207",
+    "long": "120.2097841",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-11 14:21:00"

@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區開元路286號  違停",
     "address_string": "北區開元路286號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0129561",
+    "long": "120.2320414",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-11 10:06:00"

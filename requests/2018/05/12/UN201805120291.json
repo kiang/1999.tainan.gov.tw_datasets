@@ -9,8 +9,8 @@
     "subproject": "10盞以上路燈故障",
     "description": "安平區永華六街上、永華六街22巷、35巷、25巷 10盞以上路燈不亮",
     "address_string": "安平區永華六街",
-    "lat": {},
-    "long": {},
+    "lat": "23.0109252",
+    "long": "120.1830697",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-11 23:25:00"
