@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區海安路三段與文成路十字路口   違規停車",
     "address_string": "北區海安路三段文成路",
-    "lat": {},
-    "long": {},
+    "lat": "23.012636",
+    "long": "120.2005272",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-12 12:06:54"

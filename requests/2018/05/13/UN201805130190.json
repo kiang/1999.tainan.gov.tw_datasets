@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區崇信街120號附近 紅線違停",
     "address_string": "東區崇信街120號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9799573",
+    "long": "120.2270682",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-12 18:43:00"

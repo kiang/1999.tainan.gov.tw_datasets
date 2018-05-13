@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區大興街與大興街300巷交叉口 違規停車",
     "address_string": "北區大興街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9997281",
+    "long": "120.2270277",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-12 18:30:00"

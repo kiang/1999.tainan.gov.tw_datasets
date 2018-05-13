@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區中華一路181巷26號 違停",
     "address_string": "永康區中華一路181巷26號",
-    "lat": {},
-    "long": {},
+    "lat": "23.003479",
+    "long": "120.2341523",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-12 20:51:00"
