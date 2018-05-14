@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805140064",
+    "requested_datetime": "2018-05-14 09:34:38",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "永康區鹽洲里國勝街167巷18號旁   路燈不亮",
+    "address_string": "永康區鹽洲里國勝街167巷18號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-13 09:32:00"
+}
