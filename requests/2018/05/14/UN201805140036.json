@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "仁德區中山路800號   違停",
     "address_string": "仁德區中山路800號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9736834",
+    "long": "120.2449524",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-13 08:40:00"

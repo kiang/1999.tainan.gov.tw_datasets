@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "官田區隆田火車站 違停",
     "address_string": "官田區隆田火車站",
-    "lat": {},
-    "long": {},
+    "lat": "22.9997281",
+    "long": "120.2270277",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-13 09:26:00"
