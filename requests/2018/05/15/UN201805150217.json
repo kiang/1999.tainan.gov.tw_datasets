@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "東區勝利路跟小東路口 佔用道路",
     "address_string": "東區勝利路小東路",
-    "lat": {},
-    "long": {},
+    "lat": "23.000891",
+    "long": "120.2185495",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-14 17:27:00"

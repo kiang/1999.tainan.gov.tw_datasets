@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "仁德區中山路和中清路 占用道路",
     "address_string": "仁德區中山路中清路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9711826",
+    "long": "120.256017",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-14 17:09:00"

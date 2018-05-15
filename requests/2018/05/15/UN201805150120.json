@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "永康區文化路 交通號誌沒亮",
     "address_string": "永康區文化路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0158439",
+    "long": "120.2575916",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-14 12:34:00"

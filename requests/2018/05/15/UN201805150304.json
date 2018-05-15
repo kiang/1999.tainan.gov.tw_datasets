@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805150304",
+    "requested_datetime": "2018-05-15 20:53:02",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區安平路304號右側、安平區安平路312號左側 違停",
+    "address_string": "安平區安平路304號",
+    "lat": "23.0222861",
+    "long": "120.223595",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-14 20:52:00"
+}
