@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區府連東路20號到40號 違停",
     "address_string": "東區府連東路20號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9844921",
+    "long": "120.2171374",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-15 08:57:00"

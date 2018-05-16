@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "仁德區中正路二段454號 路燈故障",
     "address_string": "仁德區中正路二段454號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9537801",
+    "long": "120.25226",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-15 14:46:00"
