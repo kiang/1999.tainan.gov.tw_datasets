@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "東區自由路三段210號旁公車站牌 佔用道路",
     "address_string": "東區自由路三段210號",
-    "lat": {},
-    "long": {},
+    "lat": "22.983082",
+    "long": "120.2371888",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-16 15:46:00"

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805170318",
+    "requested_datetime": "2018-05-17 19:30:42",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "騎樓舉發",
+    "agency": "台南市政府",
+    "subproject": "騎樓舉發",
+    "description": "中西區衛民街146號 騎樓舉發",
+    "address_string": "中西區衛民街146號",
+    "lat": "22.9935345",
+    "long": "120.2075385",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-16 19:30:42"
+}

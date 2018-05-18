@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805170340",
+    "requested_datetime": "2018-05-17 20:16:59",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "北區北安路一段177號榮星川菜 空氣汙染",
+    "address_string": "北區北安路一段177號",
+    "lat": "23.0176641",
+    "long": "120.2084931",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-16 20:13:00"
+}

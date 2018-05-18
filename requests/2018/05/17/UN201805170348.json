@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805170348",
+    "requested_datetime": "2018-05-17 21:03:20",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區海安路一段到尊王路口\/中西區海安路二段到正興街,違停及店家生財器具佔用",
+    "address_string": "中西區海安路一段海安路二段",
+    "lat": "22.9932164",
+    "long": "120.1959807",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-16 20:56:00"
+}

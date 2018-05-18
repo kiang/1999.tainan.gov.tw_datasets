@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區自由路一段159號對面  路燈不亮",
     "address_string": "東區自由路一段159號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9685291",
+    "long": "120.23659",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-16 08:54:00"

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805170225",
+    "requested_datetime": "2018-05-17 15:30:13",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "安平區州平路與安北路口\/安平區州平路與州平二街口\/安平區安北路370巷與州平路口\/安平區安北路370巷 路燈不亮",
+    "address_string": "安平區州平路安北路",
+    "lat": "22.9960355",
+    "long": "120.1445544",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-16 15:21:00"
+}

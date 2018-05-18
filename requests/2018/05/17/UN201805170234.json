@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805170234",
+    "requested_datetime": "2018-05-17 15:50:55",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "北區大興街233巷46弄12號旁 機械噪音",
+    "address_string": "北區大興街233巷46弄12號",
+    "lat": "23.3252397",
+    "long": "120.2743834",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-16 15:48:00"
+}

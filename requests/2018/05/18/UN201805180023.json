@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805180023",
+    "requested_datetime": "2018-05-18 07:56:49",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區長北街33號 紅線違停",
+    "address_string": "北區長北街33號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-17 07:54:00"
+}

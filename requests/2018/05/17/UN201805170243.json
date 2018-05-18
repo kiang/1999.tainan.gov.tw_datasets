@@ -8,9 +8,9 @@
     "agency": "臺南市政府警察局勤務指揮中心",
     "subproject": "違規停車",
     "description": "新營區健康路153巷口 汽車違停",
-    "address_string": "新營區健康路153巷口",
-    "lat": {},
-    "long": {},
+    "address_string": "新營區健康路153巷",
+    "lat": "22.983082",
+    "long": "120.2371888",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-16 16:10:00"
