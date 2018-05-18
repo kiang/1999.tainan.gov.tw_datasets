@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805180115",
+    "requested_datetime": "2018-05-18 11:00:12",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區東豐路305巷25弄15號   違停",
+    "address_string": "北區東豐路305巷25弄15號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-17 10:58:00"
+}
