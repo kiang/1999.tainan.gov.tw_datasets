@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805190255",
+    "requested_datetime": "2018-05-19 20:35:22",
+    "status": {},
+    "keyword": "0",
+    "area": "新化區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "新化區和平街132號 違規停車",
+    "address_string": "新化區和平街132號",
+    "lat": "23.0254092",
+    "long": "120.2266579",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-18 20:34:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805190263",
+    "requested_datetime": "2018-05-19 21:11:52",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區中華西路二段250號附近 違規停車",
+    "address_string": "中西區中華西路二段250號附近",
+    "lat": "23.0066668",
+    "long": "120.1862034",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-18 21:10:00"
+}

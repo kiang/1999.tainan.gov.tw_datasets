@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805190136",
+    "requested_datetime": "2018-05-19 13:22:06",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區大橋二街218號全聯  違停",
+    "address_string": "永康區大橋二街218號",
+    "lat": "23.0210393",
+    "long": "120.2308944",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-18 13:20:00"
+}

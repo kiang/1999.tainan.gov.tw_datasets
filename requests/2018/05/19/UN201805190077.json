@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805190077",
+    "requested_datetime": "2018-05-19 10:06:53",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "北區中華北路一段沿觀海橋往安南區方向  路面散落砂石",
+    "address_string": "北區中華北路一段*觀海橋",
+    "lat": "23.0115087",
+    "long": "120.1848703",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-18 10:05:00"
+}

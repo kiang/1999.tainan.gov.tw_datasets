@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805190094",
+    "requested_datetime": "2018-05-19 10:47:54",
+    "status": {},
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "新營區工業街71之11號隔壁 噪音",
+    "address_string": "新營區工業街71之11號",
+    "lat": "23.3016349",
+    "long": "120.3228906",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-18 10:43:00"
+}

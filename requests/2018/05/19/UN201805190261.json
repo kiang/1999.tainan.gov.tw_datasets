@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805190261",
+    "requested_datetime": "2018-05-19 21:10:14",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中山南路148號 違規停車",
+    "address_string": "永康區中山南路148號",
+    "lat": "23.0133217",
+    "long": "120.2306762",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-18 21:06:00"
+}

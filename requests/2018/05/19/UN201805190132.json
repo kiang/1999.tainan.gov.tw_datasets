@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805190132",
+    "requested_datetime": "2018-05-19 12:53:44",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區裕信路跟裕平路口  違停",
+    "address_string": "東區裕信路裕平路",
+    "lat": "23.0411258",
+    "long": "120.2425476",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-18 12:52:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805190045",
+    "requested_datetime": "2018-05-19 08:32:53",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區北安路一段跟西門路四段口 佔用人行道",
+    "address_string": "北區北安路一段西門路四段",
+    "lat": "23.0162867",
+    "long": "120.210809",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-18 08:30:00"
+}

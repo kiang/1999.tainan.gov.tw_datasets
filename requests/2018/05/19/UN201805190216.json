@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805190216",
+    "requested_datetime": "2018-05-19 17:57:15",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "場所連續噪音",
+    "description": "安平區永華路二段市議會前 噪音",
+    "address_string": "安平區永華路二段市議會",
+    "lat": "22.9899719",
+    "long": "120.1858481",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-18 17:54:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805190279",
+    "requested_datetime": "2018-05-19 23:17:52",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "永康區公園路93巷 路燈故障",
+    "address_string": "永康區公園路93巷",
+    "lat": "22.9334419",
+    "long": "120.1825349",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-18 23:16:00"
+}

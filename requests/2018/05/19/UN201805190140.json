@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805190140",
+    "requested_datetime": "2018-05-19 13:44:23",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "騎樓舉發",
+    "agency": "台南市政府",
+    "subproject": "騎樓舉發",
+    "description": "中西區民族路二段123\/125號\/中山路65到93號 騎樓舉發",
+    "address_string": "民族路二段123號125號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-18 13:44:23"
+}

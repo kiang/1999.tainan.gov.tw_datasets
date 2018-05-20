@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805190276",
+    "requested_datetime": "2018-05-19 22:46:15",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "民生管線",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "中西區武聖路69巷95號 水管破裂",
+    "address_string": "中西區武聖路69巷95號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-18 22:43:00"
+}

@@ -7,10 +7,10 @@
     "service_name": "道路維修",
     "agency": "台南市政府",
     "subproject": "路樹傾倒",
-    "description": "道路維修",
+    "description": "永康區龍中街240號 道路維修",
     "address_string": "永康區龍中街240號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9997281",
+    "long": "120.2270277",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-17 08:41:52"

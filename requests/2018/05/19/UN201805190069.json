@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805190069",
+    "requested_datetime": "2018-05-19 09:47:13",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "南區金華路一段216巷21號  施工噪音",
+    "address_string": "南區金華路一段216巷21號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-18 09:46:00"
+}
