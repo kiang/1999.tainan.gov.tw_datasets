@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "南區永華路與夏林路 佔用道路",
     "address_string": "南區永華路夏林路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9875354",
+    "long": "120.1949843",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-20 07:00:00"

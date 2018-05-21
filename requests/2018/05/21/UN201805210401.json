@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805210401",
+    "requested_datetime": "2018-05-21 22:06:36",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "南區中華南路和永成路口，中華南路往北方向，約2、300公尺兩個號誌燈的距離 路燈不亮",
+    "address_string": "南區中華南路永成路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-20 22:05:00"
+}
