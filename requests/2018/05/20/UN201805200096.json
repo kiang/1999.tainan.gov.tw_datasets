@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "安南區安中路六段 交通運輸",
     "address_string": "安南區安中路六段",
-    "lat": {},
-    "long": {},
+    "lat": "23.0609857",
+    "long": "120.1351795",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-19 13:11:10"

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805200201",
+    "requested_datetime": "2018-05-20 20:36:20",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "東區樹林街一段*光華街275巷口 妨害安寧",
+    "address_string": "東區樹林街一段*光華街275巷口",
+    "lat": "22.9855748",
+    "long": "120.2168954",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-19 20:33:00"
+}

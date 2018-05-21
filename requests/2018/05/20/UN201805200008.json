@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "將軍區青鯤鯓鹽豐橋 路燈故障",
     "address_string": "將軍區青鯤鯓",
-    "lat": {},
-    "long": {},
+    "lat": "23.190879",
+    "long": "120.086855",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-19 03:51:00"

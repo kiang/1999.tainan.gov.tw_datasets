@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805200185",
+    "requested_datetime": "2018-05-20 19:51:09",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區永大路二段和國光二街口，永大自助餐前 違停",
+    "address_string": "永康區永大路二段國光二街",
+    "lat": "23.0015147",
+    "long": "120.2598377",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-19 19:49:00"
+}

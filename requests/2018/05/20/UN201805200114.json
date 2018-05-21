@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區大德街*大勇街  違停",
     "address_string": "中西區大德街*大勇街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9893695",
+    "long": "120.195728",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-19 15:00:00"

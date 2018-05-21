@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "鹽水區月津路16號，月津國小附近 空污",
     "address_string": "鹽水區月津路16號",
-    "lat": {},
-    "long": {},
+    "lat": "23.3158674",
+    "long": "120.2663632",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-19 14:58:00"

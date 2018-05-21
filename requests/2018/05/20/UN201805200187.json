@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805200187",
+    "requested_datetime": "2018-05-20 19:52:26",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "永康區大武街62號 佔用道路",
+    "address_string": "710永康區大武街62號",
+    "lat": "23.0207691",
+    "long": "120.223233",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-19 19:52:26"
+}

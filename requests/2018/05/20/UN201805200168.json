@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新營區健康路166號附近 違停",
     "address_string": "新營區健康路166號",
-    "lat": {},
-    "long": {},
+    "lat": "23.314825",
+    "long": "120.31243",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-19 19:08:00"
