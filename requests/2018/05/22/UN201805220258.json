@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新營區三民路106-5號 違規停車",
     "address_string": "新營區三民路106之5號",
-    "lat": {},
-    "long": {},
+    "lat": "23.307469",
+    "long": "120.31424",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-21 17:10:46"

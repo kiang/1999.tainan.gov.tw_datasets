@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "南區中華南路一段，介於永成路二段與國民路間 路燈不亮",
     "address_string": "南區中華南路一段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9985471",
+    "long": "120.200283",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-21 21:58:00"

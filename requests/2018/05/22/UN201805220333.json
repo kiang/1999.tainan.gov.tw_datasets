@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區崇明十街65號 路燈故障",
     "address_string": "東區崇明十街65號",
-    "lat": {},
-    "long": {},
+    "lat": "22.981085",
+    "long": "120.198475",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-21 20:50:00"

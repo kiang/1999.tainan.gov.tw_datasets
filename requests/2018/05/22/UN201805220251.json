@@ -9,8 +9,8 @@
     "subproject": "交通疏導",
     "description": "安南區北安路與安中路路口  交通疏導",
     "address_string": "安南區北安路安中路",
-    "lat": {},
-    "long": {},
+    "lat": "23.1559159",
+    "long": "120.275621",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-21 16:52:00"
