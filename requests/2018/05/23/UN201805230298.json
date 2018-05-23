@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新市區中正路222號，京城銀行門口、人行道 違規停車",
     "address_string": "新市區中正路222號",
-    "lat": {},
-    "long": {},
+    "lat": "23.075715",
+    "long": "120.291693",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-22 20:42:28"
