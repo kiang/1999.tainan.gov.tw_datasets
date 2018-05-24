@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805240316",
+    "requested_datetime": "2018-05-24 23:00:26",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "永康區中山南路316巷，從忠孝路轉進中山南路316巷前端 電線垂落",
+    "address_string": "永康區中山南路316巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-23 22:59:00"
+}
