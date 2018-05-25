@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區民權路二段的中山路口到永福路口雙側紅線黃線違規停車 違規停車",
     "address_string": "中西區民權路二段*中山路*永福路",
-    "lat": {},
-    "long": {},
+    "lat": "23.2149899",
+    "long": "120.2753019",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-24 18:33:17"

@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安平區健康三街到育平九街整排三盞路燈不亮",
     "address_string": "安平區健康三街育平九街",
-    "lat": {},
-    "long": {},
+    "lat": "23.2149899",
+    "long": "120.2753019",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-24 19:40:00"
