@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "玉井區中正路14x號，冰店附近 違停",
     "address_string": "玉井區中正路14x號",
-    "lat": {},
-    "long": {},
+    "lat": "23.1227013",
+    "long": "120.4595585",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-25 16:22:00"

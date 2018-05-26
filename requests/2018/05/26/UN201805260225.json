@@ -9,8 +9,8 @@
     "subproject": "10盞以上路燈故障",
     "description": "北區立賢路二段與文賢一路口 10盞以上路燈不亮",
     "address_string": "北區立賢路二段文賢一路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9997281",
+    "long": "120.2270277",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-25 20:12:00"
