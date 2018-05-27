@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區新興路與金華路交叉口  違規停車",
     "address_string": "南區新興路金華路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9753401",
+    "long": "120.1910193",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-26 07:58:00"
