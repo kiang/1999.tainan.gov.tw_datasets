@@ -9,8 +9,8 @@
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "北區小北路27巷20號  停電",
     "address_string": "北區小北路27巷20號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0076761",
+    "long": "120.208464",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-26 00:00:00"
