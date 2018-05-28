@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區中山路65與81號 違規停車",
     "address_string": "中山路65號",
-    "lat": {},
-    "long": {},
+    "lat": "23.1556723",
+    "long": "120.177634",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-27 17:04:30"

@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "東區東寧路*東光路 號誌故障",
     "address_string": "東區東寧路*東光路",
-    "lat": {},
-    "long": {},
+    "lat": "22.989149",
+    "long": "120.2307345",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-27 16:48:00"

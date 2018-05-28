@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區中山南路148號，中華路和中山南路口 紅線違停",
     "address_string": "永康區中山南路148號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0133217",
+    "long": "120.2306762",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-25 22:17:00"
