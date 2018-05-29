@@ -9,8 +9,8 @@
     "subproject": "公車動態LED跑馬燈資訊顯示異常",
     "description": "安平區安億路472號 公車站跑馬燈故障",
     "address_string": "安平區安億路472號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9952056",
+    "long": "120.1639737",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-28 14:27:00"

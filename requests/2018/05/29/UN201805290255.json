@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "仁德區文華路三路轉進文宏路 紅線違停",
     "address_string": "仁德區文華路三路文宏路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9744598",
+    "long": "120.2441368",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-28 19:37:00"

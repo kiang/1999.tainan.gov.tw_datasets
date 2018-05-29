@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區安富街251巷19號 路燈不亮",
     "address_string": "安南區安富街251巷19號",
-    "lat": {},
-    "long": {},
+    "lat": "23.3135289",
+    "long": "120.3245045",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-28 08:05:00"
