@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區中華路7巷  紅線違停",
     "address_string": "永康區中華路7巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.999462",
+    "long": "120.2342505",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-29 09:41:00"
