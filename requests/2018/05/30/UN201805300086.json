@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201805300086",
+    "requested_datetime": "2018-05-30 10:09:09",
+    "status": {},
+    "keyword": "0",
+    "area": "新市區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "新市火車站 佔用道路",
+    "address_string": "新市區中華路5號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-06-29 10:07:00"
+}
