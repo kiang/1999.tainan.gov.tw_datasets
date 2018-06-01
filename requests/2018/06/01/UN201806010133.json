@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "西港區西港24-1號 違停",
     "address_string": "西港區西港24-1",
-    "lat": {},
-    "long": {},
+    "lat": "23.122933",
+    "long": "120.203427",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-01 12:54:00"

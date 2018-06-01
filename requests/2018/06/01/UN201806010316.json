@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "南區清水路，分隔島上 路燈故障",
     "address_string": "南區清水路",
-    "lat": {},
-    "long": {},
+    "lat": "23.1590243",
+    "long": "120.174715",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-01 19:56:00"
