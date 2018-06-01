@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "東區光明街與東平路交叉口  交通號誌故障",
     "address_string": "東區光明街東平路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9954693",
+    "long": "120.228728",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-30 09:47:00"

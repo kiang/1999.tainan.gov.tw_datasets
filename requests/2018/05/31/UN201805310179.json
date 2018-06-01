@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安平區健康路三段331號 違停",
     "address_string": "安平區健康路三段331號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9845382",
+    "long": "120.169487",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-30 15:17:00"

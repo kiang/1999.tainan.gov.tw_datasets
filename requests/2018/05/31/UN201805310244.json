@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "柳營區建國路與康樂街交叉口 路燈故障",
     "address_string": "柳營區建國路",
-    "lat": {},
-    "long": {},
+    "lat": "23.2779032",
+    "long": "120.3207349",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-30 19:07:00"

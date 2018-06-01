@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "六甲區龜港里303巷（應為六甲區龜子港303巷）接下營區路段 路燈不亮",
     "address_string": "六甲區龜子港303巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.252873",
+    "long": "120.309742",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-06-30 20:41:00"
