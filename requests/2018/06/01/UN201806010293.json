@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806010293",
+    "requested_datetime": "2018-06-01 18:53:46",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "東區中華東路與崇德路 交通運輸",
+    "address_string": "東區中華東路*崇德路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-01 18:53:46"
+}
