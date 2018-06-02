@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區大德街2號 路燈故障",
     "address_string": "中西區大德街2號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9901323",
+    "long": "120.1959186",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-02 20:46:00"

@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區育成路186號 路燈故障",
     "address_string": "育成路186號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0181046",
+    "long": "120.2070919",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-02 19:12:47"

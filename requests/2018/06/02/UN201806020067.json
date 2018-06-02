@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "新營區大公街  空氣汙染",
     "address_string": "新營區大公街",
-    "lat": {},
-    "long": {},
+    "lat": "23.3179547",
+    "long": "120.3178687",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-02 10:12:33"

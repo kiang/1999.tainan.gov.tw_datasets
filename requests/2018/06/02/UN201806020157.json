@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區大林路89號前 違停",
     "address_string": "南區大林路89號",
-    "lat": {},
-    "long": {},
+    "lat": "22.97546",
+    "long": "120.21189",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-02 16:11:00"
