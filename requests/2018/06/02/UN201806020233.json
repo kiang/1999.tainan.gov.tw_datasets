@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806020233",
+    "requested_datetime": "2018-06-02 20:47:56",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "中西區大德街2號 路燈故障",
+    "address_string": "中西區大德街2號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-02 20:46:00"
+}
