@@ -9,8 +9,8 @@
     "subproject": "10盞以上路燈故障",
     "description": "關廟區龜洞里南橋街全線及周邊 10盞以上路燈故障不亮",
     "address_string": "關廟區龜洞里南橋街",
-    "lat": {},
-    "long": {},
+    "lat": "22.8934115",
+    "long": "120.3386455",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-03 19:50:00"

@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "中西區民權路一段，東門圓環 號誌不亮",
     "address_string": "中西區民權路一段",
-    "lat": {},
-    "long": {},
+    "lat": "23.0741602",
+    "long": "120.2913538",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-03 18:22:00"

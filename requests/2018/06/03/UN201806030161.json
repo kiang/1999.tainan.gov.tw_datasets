@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區民族路一段71號 紅線違停",
     "address_string": "東區民族路一段71號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9942901",
+    "long": "120.2134076",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-03 19:40:00"
