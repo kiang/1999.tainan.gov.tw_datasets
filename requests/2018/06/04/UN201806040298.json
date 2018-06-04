@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806040298",
+    "requested_datetime": "2018-06-04 19:21:41",
+    "status": {},
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "新營區南新里新南路80號旁，空地菜園前 佔用道路",
+    "address_string": "新營區南新里新南路80號",
+    "lat": "23.1195166",
+    "long": "120.1011836",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-04 19:21:00"
+}

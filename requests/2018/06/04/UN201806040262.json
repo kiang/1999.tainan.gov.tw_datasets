@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "南區濱南路與興南街 號誌故障",
     "address_string": "濱南路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9997281",
+    "long": "120.2270277",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-04 17:43:28"

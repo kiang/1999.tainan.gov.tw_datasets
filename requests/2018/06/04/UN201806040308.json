@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新市區中正路402-406號 違規停車",
     "address_string": "新市區中正路402到406號",
-    "lat": {},
-    "long": {},
+    "lat": "23.1195166",
+    "long": "120.1011836",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-04 20:15:48"

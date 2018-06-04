@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "南區惠南街與惠南街84巷路口 佔用道路",
     "address_string": "南區惠南街84巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.979939",
+    "long": "120.1881193",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-04 15:21:00"
