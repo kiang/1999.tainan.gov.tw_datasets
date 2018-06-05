@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區仁安路與智安三街口 路燈不亮",
     "address_string": "安南區仁安路智安三街",
-    "lat": {},
-    "long": {},
+    "lat": "23.0055777",
+    "long": "120.2169289",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-05 20:13:00"
