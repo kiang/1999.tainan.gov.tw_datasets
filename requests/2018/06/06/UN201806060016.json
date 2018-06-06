@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806060016",
+    "requested_datetime": "2018-06-06 07:19:16",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區大同路二段406巷12弄\/南區大同路二段482巷72弄  紅線違停",
+    "address_string": "南區大同路二段406巷12弄\/南區大同路二段482巷72弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-06 07:14:00"
+}
