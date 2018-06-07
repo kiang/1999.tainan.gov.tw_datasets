@@ -9,8 +9,8 @@
     "subproject": "交通疏導",
     "description": "北區北門路二段223號 交通阻塞",
     "address_string": "北區北門路二段223號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0070438",
+    "long": "120.214748",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-06 15:19:00"

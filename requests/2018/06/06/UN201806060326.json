@@ -9,8 +9,8 @@
     "subproject": "10盞以上路燈故障",
     "description": "永康區太子路、大灣路 路燈大範圍",
     "address_string": "永康區太子路大灣路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0008734",
+    "long": "120.2624354",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-06 19:43:00"
