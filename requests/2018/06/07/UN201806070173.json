@@ -9,8 +9,8 @@
     "subproject": "號誌秒差調整",
     "description": "中西區永福路二段與民權路口 號誌不連鎖",
     "address_string": "中西區永福路二段民權路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9997281",
+    "long": "120.2270277",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-07 15:16:00"

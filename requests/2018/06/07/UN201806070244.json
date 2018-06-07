@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806070244",
+    "requested_datetime": "2018-06-07 18:54:41",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "大府城KTV（應為金府城）後方，安平區安平路40巷內 路燈不亮",
+    "address_string": "安平區安平路40巷",
+    "lat": "22.9987259",
+    "long": "120.1859922",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-07 18:52:00"
+}

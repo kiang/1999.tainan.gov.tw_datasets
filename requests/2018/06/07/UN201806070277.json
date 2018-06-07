@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區城東街12巷口 路燈故障",
     "address_string": "東區城東街12巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.9651236",
+    "long": "120.2352549",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-07 20:41:00"

@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區勝學路276號 汽車違停",
     "address_string": "永康區勝學路276號",
-    "lat": {},
-    "long": {},
+    "lat": "23.007521",
+    "long": "120.2313017",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-07 10:30:00"
