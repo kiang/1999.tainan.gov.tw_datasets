@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新市區環西路二段五號違規停車",
     "address_string": "新市區環西路二段五號",
-    "lat": {},
-    "long": {},
+    "lat": "23.020213",
+    "long": "120.224545",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-08 16:24:50"

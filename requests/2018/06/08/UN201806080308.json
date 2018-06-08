@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新營區中山路93號之1 違停",
     "address_string": "新營區中山路93號之1",
-    "lat": {},
-    "long": {},
+    "lat": "23.3056789",
+    "long": "120.32021",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-08 18:58:00"
