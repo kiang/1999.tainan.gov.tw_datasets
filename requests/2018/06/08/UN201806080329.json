@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806080329",
+    "requested_datetime": "2018-06-08 19:51:18",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "永康區國華街100巷27號後方車道 路燈不亮",
+    "address_string": "永康區國華街100巷27號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-08 19:50:00"
+}
