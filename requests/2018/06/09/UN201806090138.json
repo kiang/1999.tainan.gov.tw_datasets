@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "仁德區大同路三段410號 違停",
     "address_string": "仁德區大同路三段410號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9537051",
+    "long": "120.2174842",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-09 13:10:00"

@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "新市區富林路352號 路燈故障",
     "address_string": "新市區富林路352號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0812917",
+    "long": "120.2920986",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-09 19:33:00"

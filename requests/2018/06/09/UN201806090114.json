@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "中西區文賢路225號跟文和街口 佔用道路",
     "address_string": "中西區文賢路225號文和街",
-    "lat": {},
-    "long": {},
+    "lat": "23.0005224",
+    "long": "120.1885995",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-09 11:55:00"

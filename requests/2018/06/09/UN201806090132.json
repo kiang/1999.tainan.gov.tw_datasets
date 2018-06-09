@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區 北門路一段 違規停車",
     "address_string": "北門路一段 青年路口到東門圓環雙側紅線黃線",
-    "lat": {},
-    "long": {},
+    "lat": "23.20026",
+    "long": "120.227612",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-09 13:11:07"

@@ -9,8 +9,8 @@
     "subproject": "道路散落物",
     "description": "安南區安和路和長和路 路面散落物",
     "address_string": "安南區安和路長和路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0633793",
+    "long": "120.2187038",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-09 21:29:00"

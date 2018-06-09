@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "永康區中山北路永科王田大道號誌故障",
     "address_string": "永康區中山北路永科王田大道",
-    "lat": {},
-    "long": {},
+    "lat": "23.0319156",
+    "long": "120.2810075",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-09 21:40:00"

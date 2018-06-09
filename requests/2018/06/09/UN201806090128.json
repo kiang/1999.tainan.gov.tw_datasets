@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區西門路四段153號旁公車停靠站 違規停車",
     "address_string": "北區西門路四段153號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0097561",
+    "long": "120.2077534",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-09 13:04:37"
