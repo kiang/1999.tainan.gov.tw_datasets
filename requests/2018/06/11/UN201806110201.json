@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "台灣銀行(中西區中正路240號 ) 違規停車",
     "address_string": "台灣銀行(中西區中正路240號 )",
-    "lat": {},
-    "long": {},
+    "lat": "22.993278",
+    "long": "120.19691",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-11 14:13:13"

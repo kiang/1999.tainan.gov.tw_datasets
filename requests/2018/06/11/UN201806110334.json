@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "鹽水區南80線與南74線交叉口,往後鎮方向, 紅綠燈故障變閃燈",
     "address_string": "鹽水區南80線南74線",
-    "lat": {},
-    "long": {},
+    "lat": "22.9997281",
+    "long": "120.2270277",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-11 19:53:00"

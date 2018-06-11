@@ -9,8 +9,8 @@
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "民生管線",
     "address_string": "文瑞橋",
-    "lat": {},
-    "long": {},
+    "lat": "23.2081641",
+    "long": "120.2070512",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-11 00:51:05"

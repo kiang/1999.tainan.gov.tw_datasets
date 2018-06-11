@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "安南區安和路三段  號誌故障",
     "address_string": "安南區安和路三段",
-    "lat": {},
-    "long": {},
+    "lat": "23.046978",
+    "long": "120.2180424",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-11 13:59:00"

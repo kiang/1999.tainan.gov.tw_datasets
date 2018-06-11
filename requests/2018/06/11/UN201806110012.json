@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806110012",
+    "requested_datetime": "2018-06-11 04:55:47",
+    "status": {},
+    "keyword": "0",
+    "area": "六甲區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "六甲區中正路146巷26之1號 停電",
+    "address_string": "六甲區中正路146巷26之1號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-11 04:54:00"
+}
