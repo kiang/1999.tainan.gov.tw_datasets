@@ -9,8 +9,8 @@
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "玉井區中正里147之1號附近 停電",
     "address_string": "玉井區中正里147之1號",
-    "lat": {},
-    "long": {},
+    "lat": "23.1309389",
+    "long": "120.4702153",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-10 05:00:00"

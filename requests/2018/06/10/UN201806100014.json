@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區裕興街和裕和二街 違規停車",
     "address_string": "東區裕興街*裕和二街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9834175",
+    "long": "120.241161",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-10 06:11:47"

@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201806100192",
-    "requested_datetime": "2018-06-10 19:12:23",
+    "service_request_id": "UN201806110090",
+    "requested_datetime": "2018-06-11 09:43:47",
     "status": {},
     "keyword": "0",
     "area": "永康區",
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "永康區南台街與南台街13巷交岔路口 違規停車",
+    "description": "永康區南台街與南台街13巷交岔路口  違規停車",
     "address_string": "永康區南台街南台街13巷",
-    "lat": "23.0220854",
-    "long": "120.2235634",
+    "lat": {},
+    "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2018-07-10 19:12:23"
+    "expected_datetime": "2018-07-11 09:43:47"
 }

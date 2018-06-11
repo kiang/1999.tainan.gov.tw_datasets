@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "麻豆區大同街1-9號 佔用道路",
     "address_string": "大同街1-9號",
-    "lat": {},
-    "long": {},
+    "lat": "23.1851211",
+    "long": "120.2466783",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-10 16:09:41"

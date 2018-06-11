@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新市區信義街65號 違規停車",
     "address_string": "信義街65號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0758349",
+    "long": "120.2895973",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-10 18:23:20"

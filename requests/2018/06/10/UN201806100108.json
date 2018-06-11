@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區永福路一段233巷  紅線違停",
     "address_string": "中西區永福路一段233巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.999163",
+    "long": "120.235008",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-10 13:14:00"
