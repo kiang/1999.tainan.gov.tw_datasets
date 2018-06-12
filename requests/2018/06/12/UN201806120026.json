@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "白河區中山路與文明街口 佔用道路",
     "address_string": "白河區中山路文明街",
-    "lat": {},
-    "long": {},
+    "lat": "23.0348781",
+    "long": "120.2594092",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-12 08:00:00"

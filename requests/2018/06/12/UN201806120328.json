@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區北門路一段101號 違停",
     "address_string": "中西區北門路一段101號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9922435",
+    "long": "120.2114505",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-12 21:16:00"

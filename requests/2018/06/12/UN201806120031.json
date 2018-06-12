@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區南門路243之3號  路燈不亮",
     "address_string": "中西區南門路243之3號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0039345",
+    "long": "120.2150772",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-12 08:21:00"

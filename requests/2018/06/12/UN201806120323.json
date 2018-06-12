@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區文南路242號與240號停車格 違規停車",
     "address_string": "南區文南路240號到242號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9854731",
+    "long": "120.190256",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-12 20:47:00"

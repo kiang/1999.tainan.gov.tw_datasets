@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區開元路147號附近 違停",
     "address_string": "北區開元路147號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0068857",
+    "long": "120.2186281",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-12 12:39:00"
