@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806120286",
+    "requested_datetime": "2018-06-12 19:07:37",
+    "status": {},
+    "keyword": "0",
+    "area": "後壁區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局",
+    "subproject": "9盞以下路燈故障",
+    "description": "後壁區仕安里66-3號 路燈故障",
+    "address_string": "後壁區仕安里66之3號",
+    "lat": "23.3554486",
+    "long": "120.3225195",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-12 19:07:00"
+}
