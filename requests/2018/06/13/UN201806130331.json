@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806130331",
+    "requested_datetime": "2018-06-13 22:20:30",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "中西區大林街139巷\/保安路185巷\/大勇街135號 路燈不亮",
+    "address_string": "中西區大林街139巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-13 22:18:00"
+}
