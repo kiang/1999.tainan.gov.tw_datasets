@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806130096",
+    "requested_datetime": "2018-06-13 11:00:06",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區正新街與大武街交岔路口 違規停車",
+    "address_string": "永康區正新街*大武街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-13 11:00:06"
+}
