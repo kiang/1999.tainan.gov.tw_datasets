@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806150090",
+    "requested_datetime": "2018-06-15 10:21:04",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區林森路三段181號 違停",
+    "address_string": "北區林森路三段181號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-15 10:18:00"
+}
