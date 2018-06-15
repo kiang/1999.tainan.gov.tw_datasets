@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "中西區和緯路5段253號 占用道路",
     "address_string": "中西區和緯路5段253號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0050007",
+    "long": "120.1805426",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-15 20:03:07"

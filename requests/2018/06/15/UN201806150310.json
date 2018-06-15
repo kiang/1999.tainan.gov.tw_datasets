@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "南區仁南三街3號 路燈不亮",
     "address_string": "南區仁南三街3號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9838295",
+    "long": "120.1847842",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-15 19:41:00"

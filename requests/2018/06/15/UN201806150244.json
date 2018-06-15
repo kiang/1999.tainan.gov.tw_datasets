@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "麻豆區中山路與中華街 佔用道路",
     "address_string": "麻豆區中山路中華街",
-    "lat": {},
-    "long": {},
+    "lat": "23.1836831",
+    "long": "120.2471763",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-15 16:58:00"

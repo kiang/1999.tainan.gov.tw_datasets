@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區民族路二段2-8號、42號、48號、9號、63號、77號 違規停車",
     "address_string": "中西區民族路二段2號",
-    "lat": {},
-    "long": {},
+    "lat": "22.988665",
+    "long": "120.2161812",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-15 17:03:35"

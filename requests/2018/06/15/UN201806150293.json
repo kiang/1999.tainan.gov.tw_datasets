@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區安義路沿線 路燈不亮",
     "address_string": "安南區安義路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0422103",
+    "long": "120.2732698",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-15 19:11:00"

@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區永福路二段54巷 路燈不亮",
     "address_string": "中西區永福路二段54巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.976451",
+    "long": "120.1924707",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-15 19:36:00"
