@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新市區永就里64號 違停",
     "address_string": "新市區永就里64號",
-    "lat": {},
-    "long": {},
+    "lat": "23.1381223",
+    "long": "120.3246318",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-16 08:28:00"

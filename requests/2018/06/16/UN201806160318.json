@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區安中路四段288-5號 路燈故障",
     "address_string": "安南區安中路四段288-5號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9937988",
+    "long": "120.2094961",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-16 23:48:00"

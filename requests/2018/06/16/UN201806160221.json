@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "北區文成五街跟育德二路口 號誌故障",
     "address_string": "北區文成五街育德二路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9900815",
+    "long": "120.215341",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-16 17:23:00"

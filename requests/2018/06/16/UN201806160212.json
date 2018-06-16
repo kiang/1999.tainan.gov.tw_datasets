@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區北門路三段42號 違規停車",
     "address_string": "北區北門路三段42號",
-    "lat": {},
-    "long": {},
+    "lat": "23.013774",
+    "long": "120.2172826",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-16 16:44:00"
