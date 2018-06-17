@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806170231",
+    "requested_datetime": "2018-06-17 19:57:31",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "南區中華南路二段315巷12弄 10盞以上路燈故障不亮",
+    "address_string": "南區中華南路二段315巷12弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-17 19:54:00"
+}
