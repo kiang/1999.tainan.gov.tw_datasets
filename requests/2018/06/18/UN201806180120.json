@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "玉井區省道3號跟20號  交通號誌故障",
     "address_string": "玉井區省道3號省道20號",
-    "lat": {},
-    "long": {},
+    "lat": "23.1119128",
+    "long": "120.4757091",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-18 12:48:00"
