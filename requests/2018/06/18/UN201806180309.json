@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806180309",
+    "requested_datetime": "2018-06-18 21:05:11",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "中西區武聖路151巷10弄內 路燈不亮",
+    "address_string": "中西區武聖路151巷10弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-18 21:02:00"
+}

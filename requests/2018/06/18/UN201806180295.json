@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806180295",
+    "requested_datetime": "2018-06-18 20:31:16",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "永康區龍中街、龍橋街 路燈不亮",
+    "address_string": "永康區龍中街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-18 20:29:00"
+}
