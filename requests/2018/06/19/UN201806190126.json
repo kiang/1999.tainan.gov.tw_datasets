@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "安南區安明路四段*安清路一段   號誌故障",
     "address_string": "安南區安明路四段安清路一段",
-    "lat": {},
-    "long": {},
+    "lat": "23.0586312",
+    "long": "120.1341886",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-19 11:14:00"

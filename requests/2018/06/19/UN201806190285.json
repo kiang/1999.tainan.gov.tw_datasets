@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "中西區西門路一段跟五妃街交叉路口  佔用道路",
     "address_string": "中西區西門路一段五妃街",
-    "lat": {},
-    "long": {},
+    "lat": "23.311885",
+    "long": "120.316014",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-19 17:39:00"

@@ -9,8 +9,8 @@
     "subproject": "交通疏導",
     "description": "永康區中正南路與中華路口 交通疏導",
     "address_string": "永康區中正南路中華路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0236302",
+    "long": "120.2181546",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-19 18:58:00"

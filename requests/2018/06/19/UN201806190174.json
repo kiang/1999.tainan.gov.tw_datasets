@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "中西區西和路*和真街    號誌故障",
     "address_string": "中西區西和路和真街",
-    "lat": {},
-    "long": {},
+    "lat": "23.0007072",
+    "long": "120.1892512",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-19 13:31:00"

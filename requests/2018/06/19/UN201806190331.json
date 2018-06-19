@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "南區中華西路一段18巷  路燈故障",
     "address_string": "南區中華西路一段18巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.9651118",
+    "long": "120.1842249",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-19 19:54:00"

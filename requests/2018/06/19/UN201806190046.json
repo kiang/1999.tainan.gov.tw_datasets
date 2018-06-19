@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安平區文平路400號 紅線違停",
     "address_string": "安平區文平路400號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9922187",
+    "long": "120.1787212",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-19 08:16:00"

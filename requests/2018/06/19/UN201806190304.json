@@ -9,8 +9,8 @@
     "subproject": "號誌秒差調整",
     "description": "永康區中華路620號至中正南路口，往奇美醫院方向 號誌不連鎖",
     "address_string": "永康區中華路620號",
-    "lat": {},
-    "long": {},
+    "lat": "23.014236",
+    "long": "120.2305306",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-19 18:40:00"
