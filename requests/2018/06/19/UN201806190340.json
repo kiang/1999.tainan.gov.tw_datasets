@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806190340",
+    "requested_datetime": "2018-06-19 20:10:26",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "中西區海安路二段*民權路到民族路 西側 路燈故障不亮",
+    "address_string": "中西區海安路二段*民權路*民族路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-19 20:07:00"
+}
