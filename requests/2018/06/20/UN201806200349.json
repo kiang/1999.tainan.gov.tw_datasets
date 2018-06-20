@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806200349",
+    "requested_datetime": "2018-06-20 19:17:12",
+    "status": {},
+    "keyword": "0",
+    "area": "佳里區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "佳里區佳化里214號佳興國小 10盞以上路燈故障不亮",
+    "address_string": "佳里區佳化里214號佳興國小",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-20 19:12:00"
+}
