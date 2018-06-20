@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806200360",
+    "requested_datetime": "2018-06-20 19:55:47",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區南園街127巷151弄1號到13號  路燈故障",
+    "address_string": "北區南園街127巷151弄1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-20 19:53:00"
+}
