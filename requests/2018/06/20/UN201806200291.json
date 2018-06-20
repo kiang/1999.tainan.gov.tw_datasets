@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區東光路和東平路交叉口 違規停車",
     "address_string": "東區東光路和東平路",
-    "lat": {},
-    "long": {},
+    "lat": "22.995081",
+    "long": "120.2314079",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-20 17:19:00"
