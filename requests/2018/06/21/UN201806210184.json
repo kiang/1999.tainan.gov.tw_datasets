@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806210184",
+    "requested_datetime": "2018-06-21 13:44:28",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "北區文成三路129號 路燈故障",
+    "address_string": "北區文成三路129號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-21 13:44:28"
+}
