@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區文南里建南路145號 違規停車",
     "address_string": "台南市南區文南里建南路145號",
-    "lat": {},
-    "long": {},
+    "lat": "22.984749",
+    "long": "120.1901961",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-21 00:44:40"

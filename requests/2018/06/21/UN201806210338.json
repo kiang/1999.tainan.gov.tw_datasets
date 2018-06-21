@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區前鋒路上，青年路至東寧地下道之間 路燈故障",
     "address_string": "東區前鋒路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9951987",
+    "long": "120.213339",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-21 19:50:00"

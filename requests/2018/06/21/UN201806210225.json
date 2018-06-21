@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區臨安路二段231號跟233號 違停",
     "address_string": "北區臨安路二段231號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0042962",
+    "long": "120.2005657",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-21 15:39:00"

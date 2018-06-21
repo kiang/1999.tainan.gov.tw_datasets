@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "善化區大信路與永福路交叉口 路燈故障",
     "address_string": "善化區大信路",
-    "lat": {},
-    "long": {},
+    "lat": "23.1304901",
+    "long": "120.2923651",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-21 20:25:00"

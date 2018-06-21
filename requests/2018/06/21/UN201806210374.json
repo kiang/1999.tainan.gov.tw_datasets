@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區大和路330巷 路燈故障",
     "address_string": "大和路336號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0143833",
+    "long": "120.1896259",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-21 21:08:18"

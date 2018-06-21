@@ -9,8 +9,8 @@
     "subproject": "交通疏導",
     "description": "永康區大灣交流道，北上右轉閘道口附近平面道路 交通疏導",
     "address_string": "永康區大灣交流道",
-    "lat": {},
-    "long": {},
+    "lat": "23.0025234",
+    "long": "120.2478459",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-21 07:00:00"
