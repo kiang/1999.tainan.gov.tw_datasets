@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "永福路二段126號 號誌故障",
     "address_string": "永福路二段126號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9935543",
+    "long": "120.2012996",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-22 17:26:59"

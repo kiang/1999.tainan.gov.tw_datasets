@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區海佃路一段158巷218號 路燈不亮",
     "address_string": "安南區海佃路一段158巷218號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0252873",
+    "long": "120.1982699",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-22 10:11:00"

@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "安南區安明路 安中路 空氣汙染",
     "address_string": "安南區安明路 安中路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0610705",
+    "long": "120.1340032",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-22 01:05:00"

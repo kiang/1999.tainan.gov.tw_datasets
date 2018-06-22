@@ -9,8 +9,8 @@
     "subproject": "10盞以上路燈故障",
     "description": "善化區烏橋中路與興農路口，烏橋中路上 路燈不亮",
     "address_string": "善化區烏橋中路興農路",
-    "lat": {},
-    "long": {},
+    "lat": "23.129925",
+    "long": "120.2677107",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-22 19:27:00"
