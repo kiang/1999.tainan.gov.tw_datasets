@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "新市區中正路209號  佔用道路",
     "address_string": "新市區中正路209號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0772698",
+    "long": "120.2917224",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-24 22:28:00"

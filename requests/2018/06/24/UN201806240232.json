@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區前鋒路56號~110號 路燈故障",
     "address_string": "東區前鋒路56號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9911588",
+    "long": "120.2128546",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-24 19:35:00"
