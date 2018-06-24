@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230014",
+    "requested_datetime": "2018-06-23 07:26:13",
+    "status": {},
+    "keyword": "0",
+    "area": "白河區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "白河區康樂路2-1號  違規停車",
+    "address_string": "白河區康樂路2-1號",
+    "lat": "22.9942482",
+    "long": "120.2146218",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 07:26:13"
+}

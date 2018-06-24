@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230250",
+    "requested_datetime": "2018-06-23 18:53:35",
+    "status": {},
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面掏空、塌陷",
+    "description": "仁德區裕忠路與裕忠三街口 路面掏空",
+    "address_string": "仁德區裕忠路裕忠三街",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 18:51:00"
+}

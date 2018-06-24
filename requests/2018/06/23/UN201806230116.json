@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230116",
+    "requested_datetime": "2018-06-23 12:35:26",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區海安路三段600號 違規停車",
+    "address_string": "北區海安路三段600號",
+    "lat": "23.0125771",
+    "long": "120.200778",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 12:35:26"
+}

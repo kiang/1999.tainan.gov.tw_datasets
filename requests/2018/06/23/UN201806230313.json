@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230313",
+    "requested_datetime": "2018-06-23 21:06:53",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "安南區府安路五段21巷18號 占用道路",
+    "address_string": "安南區府安路五段21巷18號",
+    "lat": "23.0249607",
+    "long": "120.2041462",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 21:04:00"
+}

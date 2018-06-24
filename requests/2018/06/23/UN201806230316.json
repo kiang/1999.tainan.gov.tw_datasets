@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230316",
+    "requested_datetime": "2018-06-23 21:12:03",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "騎樓舉發",
+    "agency": "台南市政府",
+    "subproject": "騎樓舉發",
+    "description": "北區育德一街、和緯路二段路口 騎樓舉發",
+    "address_string": "北區育德一街和緯路二段",
+    "lat": "23.0123903",
+    "long": "120.2051039",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 21:12:03"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230180",
+    "requested_datetime": "2018-06-23 16:18:45",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區府前路上從南門路至西門路 違規停車",
+    "address_string": "中西區府前路南門路",
+    "lat": "22.9944472",
+    "long": "120.2093463",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 16:16:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230229",
+    "requested_datetime": "2018-06-23 18:19:28",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面掏空、塌陷",
+    "description": "安南區安中路四段到底,康寧大學旁邊道路",
+    "address_string": "安南區安中路四段",
+    "lat": "23.0514535",
+    "long": "120.1655028",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 18:18:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230112",
+    "requested_datetime": "2018-06-23 12:23:36",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區林森路二段192巷24弄與裕豐街185巷口 違規停車",
+    "address_string": "東區林森路二段192巷24弄",
+    "lat": "22.9885726",
+    "long": "120.2254119",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 12:22:00"
+}

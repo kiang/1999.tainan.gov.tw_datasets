@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230279",
+    "requested_datetime": "2018-06-23 19:43:37",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區民族路二段上，忠義路至北門路段雙向 違規停車",
+    "address_string": "中西區民族路二段",
+    "lat": "22.99568",
+    "long": "120.2057441",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 19:43:37"
+}

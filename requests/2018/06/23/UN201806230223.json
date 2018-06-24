@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230223",
+    "requested_datetime": "2018-06-23 17:58:31",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區文賢三街263號 違規停車",
+    "address_string": "北區文賢三街263號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 17:58:31"
+}

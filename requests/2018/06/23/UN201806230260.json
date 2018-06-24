@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230260",
+    "requested_datetime": "2018-06-23 19:08:43",
+    "status": {},
+    "keyword": "0",
+    "area": "龍崎區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "龍崎區南坑里樹子林17之1號 路燈故障",
+    "address_string": "龍崎區南坑里樹子林17之1號",
+    "lat": "22.932235",
+    "long": "120.364309",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 19:05:00"
+}

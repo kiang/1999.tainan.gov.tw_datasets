@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230192",
+    "requested_datetime": "2018-06-23 16:49:37",
+    "status": {},
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "新營區三民路102號 違規停車",
+    "address_string": "新營區三民路102號",
+    "lat": "23.3074204",
+    "long": "120.3196748",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 16:49:37"
+}

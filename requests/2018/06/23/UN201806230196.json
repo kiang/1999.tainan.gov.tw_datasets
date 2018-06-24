@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230196",
+    "requested_datetime": "2018-06-23 17:05:25",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安南區府安路五段162巷49弄2號 違規停車",
+    "address_string": "安南區府安路五段162巷49弄2號",
+    "lat": "23.0237253",
+    "long": "120.197369",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 17:05:25"
+}

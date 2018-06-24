@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230045",
+    "requested_datetime": "2018-06-23 09:21:17",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "南區鹽埕路291巷31弄口  髒亂及汙染",
+    "address_string": "南區鹽埕路291巷31弄",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 09:21:17"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230186",
+    "requested_datetime": "2018-06-23 16:38:27",
+    "status": {},
+    "keyword": "0",
+    "area": "佳里區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "佳里區光復路239號 違停",
+    "address_string": "佳里區光復路239號",
+    "lat": "23.1611213",
+    "long": "120.1746079",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 16:36:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230115",
+    "requested_datetime": "2018-06-23 12:32:17",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "東區北門路一段172號旁邊巷內空屋有冒水",
+    "address_string": "東區北門路一段172號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 12:29:00"
+}

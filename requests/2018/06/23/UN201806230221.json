@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230221",
+    "requested_datetime": "2018-06-23 17:55:14",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面下陷、凹陷",
+    "description": "永康區中山路103號 道路下陷",
+    "address_string": "永康區中山路103號",
+    "lat": "23.0301946",
+    "long": "120.2559634",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 17:53:00"
+}

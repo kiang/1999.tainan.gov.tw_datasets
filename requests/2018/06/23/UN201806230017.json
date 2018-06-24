@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230017",
+    "requested_datetime": "2018-06-23 08:00:47",
+    "status": {},
+    "keyword": "0",
+    "area": "後壁區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "後壁區上茄苳嘉民里138-2號   占用道路",
+    "address_string": "後壁區上茄苳嘉民里138-2號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 07:57:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230191",
+    "requested_datetime": "2018-06-23 16:49:17",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "永康區中華路與中正南路,交通疏導",
+    "address_string": "永康區中華路中正南路",
+    "lat": "23.0236302",
+    "long": "120.2181546",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 16:46:00"
+}

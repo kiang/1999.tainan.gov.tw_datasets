@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230193",
+    "requested_datetime": "2018-06-23 16:53:37",
+    "status": {},
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "仁德區德南路251巷口  違規停車",
+    "address_string": "仁德區德南路251巷",
+    "lat": "22.9458419",
+    "long": "120.2577082",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 16:50:00"
+}

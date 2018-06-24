@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230305",
+    "requested_datetime": "2018-06-23 20:53:43",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安南區長和路三段與安和路四段口，長和路三段上 違停",
+    "address_string": "安南區長和路三段安和路四段",
+    "lat": "23.0633793",
+    "long": "120.2187038",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 20:50:00"
+}

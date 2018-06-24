@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806240101",
+    "requested_datetime": "2018-06-24 12:31:10",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區裕孝路131-133號中間   違規停車",
+    "address_string": "東區裕孝路131號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-24 12:31:10"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230233",
+    "requested_datetime": "2018-06-23 18:31:02",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "中西區西門路一段564號 道路凹陷",
+    "address_string": "中西區西門路一段564號",
+    "lat": "22.98584",
+    "long": "120.197872",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 18:28:00"
+}

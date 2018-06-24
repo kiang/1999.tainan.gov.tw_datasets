@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230119",
+    "requested_datetime": "2018-06-23 13:07:34",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面下陷、凹陷",
+    "description": "永康區自強路570號及578號 馬路中間,路面坑洞",
+    "address_string": "永康區自強路570號",
+    "lat": "23.0332205",
+    "long": "120.2585967",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 13:05:00"
+}

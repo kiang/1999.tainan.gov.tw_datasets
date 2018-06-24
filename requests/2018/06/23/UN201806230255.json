@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230255",
+    "requested_datetime": "2018-06-23 18:59:52",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區東寧路上，勝利路至東光路段雙向違規停車",
+    "address_string": "東區東寧路勝利路",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 18:59:52"
+}

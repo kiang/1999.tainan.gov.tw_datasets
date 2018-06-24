@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230151",
+    "requested_datetime": "2018-06-23 14:45:15",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "民生管線",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "安南區海環街596巷3號 停電",
+    "address_string": "安南區海環街596巷3號",
+    "lat": "23.04288",
+    "long": "120.1846736",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 14:44:00"
+}

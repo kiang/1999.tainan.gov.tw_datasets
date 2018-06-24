@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230307",
+    "requested_datetime": "2018-06-23 20:58:35",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區北園街99巷23號旁 違停",
+    "address_string": "北區北園街99巷23號",
+    "lat": "23.0123788",
+    "long": "120.221899",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 20:54:00"
+}

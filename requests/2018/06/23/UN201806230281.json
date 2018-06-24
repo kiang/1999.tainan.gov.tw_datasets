@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806230281",
+    "requested_datetime": "2018-06-23 19:44:12",
+    "status": {},
+    "keyword": "0",
+    "area": "新市區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "新市區富中街269號 路燈故障",
+    "address_string": "新市區富中街269號",
+    "lat": "23.0813665",
+    "long": "120.2905954",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-23 19:43:00"
+}
