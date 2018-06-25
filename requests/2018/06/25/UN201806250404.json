@@ -9,8 +9,8 @@
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "安平區安港路 民生管線",
     "address_string": "安平區安港路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9903461",
+    "long": "120.1485",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-25 20:03:00"

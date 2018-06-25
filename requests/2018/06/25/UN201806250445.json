@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區開安路199號\/安南區開安一街8巷15弄38號\/安南區安通路二段60號 路燈不亮",
     "address_string": "安南區開安路199號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0508433",
+    "long": "120.2249655",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-25 22:43:00"

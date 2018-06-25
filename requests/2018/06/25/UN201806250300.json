@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "中西區武聖路與和緯路四段口，和緯路四段上 佔用道路",
     "address_string": "中西區武聖路和緯路四段",
-    "lat": {},
-    "long": {},
+    "lat": "23.007443",
+    "long": "120.1878897",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-25 16:31:00"

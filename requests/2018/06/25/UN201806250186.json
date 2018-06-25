@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區怡東路22號 路燈故障",
     "address_string": "東區怡東路22號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9907829",
+    "long": "120.2276621",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-25 11:58:00"

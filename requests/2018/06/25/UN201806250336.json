@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806250336",
+    "requested_datetime": "2018-06-25 17:47:27",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "北區中華北路二段一號  孔蓋凹陷",
+    "address_string": "北區中華北路二段一號",
+    "lat": "23.0216063",
+    "long": "120.2055026",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-25 17:46:00"
+}

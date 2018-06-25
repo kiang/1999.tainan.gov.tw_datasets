@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "永康區忠孝路 路燈故障",
     "address_string": "忠孝路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9942482",
+    "long": "120.2146218",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-25 02:09:50"
