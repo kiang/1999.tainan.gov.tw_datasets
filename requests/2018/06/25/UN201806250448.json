@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806250448",
+    "requested_datetime": "2018-06-25 22:55:31",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "東區長榮路三段66巷60號附近 路燈不亮",
+    "address_string": "東區長榮路三段66巷60號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-25 22:52:00"
+}
