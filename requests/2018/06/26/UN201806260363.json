@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "北區和緯路與海安路口 號誌故障",
     "address_string": "北區和緯路",
-    "lat": {},
-    "long": {},
+    "lat": "23.009843",
+    "long": "120.2136111",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-26 23:13:00"

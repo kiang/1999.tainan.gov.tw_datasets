@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "南區長南街55號與63號 路燈故障",
     "address_string": "南區長南街55號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9828796",
+    "long": "120.1895808",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-26 22:35:00"
