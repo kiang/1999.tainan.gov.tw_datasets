@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區公園路458號 違停",
     "address_string": "北區公園路458號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0057741",
+    "long": "120.210518",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-27 09:59:00"

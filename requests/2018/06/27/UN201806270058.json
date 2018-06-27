@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區安和路一段128號對面 路燈不亮",
     "address_string": "安南區安和路一段128號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0285275",
+    "long": "120.2144328",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-27 09:17:00"

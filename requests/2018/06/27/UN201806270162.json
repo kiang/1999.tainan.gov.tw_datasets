@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區文和街74號-5   路燈故障",
     "address_string": "中西區文祥路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0026746",
+    "long": "120.1907038",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-27 14:46:00"

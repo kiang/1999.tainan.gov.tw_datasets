@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區中華西路與永南二街口 違規停車",
     "address_string": "南區中華西路永南二街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9875445",
+    "long": "120.1868316",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-27 08:43:09"
