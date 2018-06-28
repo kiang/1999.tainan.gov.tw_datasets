@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "歸仁區大仁三街 空氣汙染",
     "address_string": "歸仁區大仁三街",
-    "lat": {},
-    "long": {},
+    "lat": "23.125082",
+    "long": "120.185707",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-28 18:41:00"

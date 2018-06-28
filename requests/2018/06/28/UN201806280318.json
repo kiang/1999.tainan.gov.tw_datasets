@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區東成街200巷巷口 路燈故障",
     "address_string": "東成街200巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.9792098",
+    "long": "120.2381059",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-28 20:22:39"

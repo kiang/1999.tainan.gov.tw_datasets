@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區中華路7巷跟中華路23巷內   違停",
     "address_string": "永康區中華路7巷中華路23巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.999677",
+    "long": "120.235064",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-28 07:15:00"

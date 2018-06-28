@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "佳里區中央公路  違規停車",
     "address_string": "佳里區中央公路",
-    "lat": {},
-    "long": {},
+    "lat": "23.1707331",
+    "long": "120.1791798",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-28 09:00:24"
