@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806280306",
+    "requested_datetime": "2018-06-28 19:55:51",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "東區崇善路1089巷跟1091巷口  路燈故障",
+    "address_string": "東區崇善路1089巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-28 19:55:00"
+}
