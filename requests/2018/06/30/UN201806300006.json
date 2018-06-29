@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806300006",
+    "requested_datetime": "2018-06-30 00:34:21",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "IVR 東區莊敬路219巷莊敬里活動中心 違停\/劃紅線",
+    "address_string": "東區莊敬路219巷莊敬里活動中心",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-30 00:30:00"
+}
