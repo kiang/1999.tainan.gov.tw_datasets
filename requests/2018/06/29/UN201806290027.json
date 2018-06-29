@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區東成街200巷和201巷的交叉口 路燈不亮",
     "address_string": "東區東成街200巷和201巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.0751809",
+    "long": "120.2764506",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-29 08:02:00"

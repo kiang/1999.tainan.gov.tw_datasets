@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "仁德區中正西路與二仁路一段 佔用道路",
     "address_string": "中正西路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0398861",
+    "long": "120.2151997",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-29 18:27:23"

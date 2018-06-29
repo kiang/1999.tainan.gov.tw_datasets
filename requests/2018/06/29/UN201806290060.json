@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "仁德區太子路60號 占用道路",
     "address_string": "仁德區太子路60號",
-    "lat": {},
-    "long": {},
+    "lat": "23.2136955",
+    "long": "120.2764324",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-29 09:20:00"

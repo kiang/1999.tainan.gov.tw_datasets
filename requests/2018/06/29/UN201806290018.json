@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "北區大光國小  號誌故障",
     "address_string": "北區大光國小",
-    "lat": {},
-    "long": {},
+    "lat": "23.0126359",
+    "long": "120.2177671",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-07-29 07:24:00"
