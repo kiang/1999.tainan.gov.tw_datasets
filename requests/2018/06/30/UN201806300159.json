@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806300159",
+    "requested_datetime": "2018-06-30 14:24:17",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區鹽行路2號 違規停車",
+    "address_string": "永康區鹽行路2號",
+    "lat": "23.0416746",
+    "long": "120.2370856",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-30 14:24:17"
+}

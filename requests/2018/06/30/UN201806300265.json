@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806300265",
+    "requested_datetime": "2018-06-30 20:01:04",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區文南路*文南路342巷 違規停車",
+    "address_string": "南區文南路342巷",
+    "lat": "22.9877328",
+    "long": "120.1908134",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-30 19:58:00"
+}

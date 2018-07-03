@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806300308",
+    "requested_datetime": "2018-06-30 23:18:42",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "安南區北安路二段526號  (一品來) 妨害安寧",
+    "address_string": "安南區北安路二段526號",
+    "lat": "23.0370185",
+    "long": "120.2030762",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-30 23:17:00"
+}

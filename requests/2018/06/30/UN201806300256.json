@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806300256",
+    "requested_datetime": "2018-06-30 19:34:28",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "中西區西門路二段387號(郡緯街交叉口) 交通運輸",
+    "address_string": "中西區西門路二段387號(郡緯街交叉口)",
+    "lat": "23.0102471",
+    "long": "120.2247606",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-30 19:34:28"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807010176",
+    "requested_datetime": "2018-07-01 18:58:14",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區文賢街與大灣七街口 違停",
+    "address_string": "永康區文賢街大灣七街",
+    "lat": "23.0122699",
+    "long": "120.2689708",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-31 18:56:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807010016",
+    "requested_datetime": "2018-07-01 06:47:37",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路樹傾倒",
+    "description": "安平區永華路二段495號 路樹傾倒",
+    "address_string": "安平區永華路二段495號",
+    "lat": "22.9902319",
+    "long": "120.175731",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-31 06:46:00"
+}

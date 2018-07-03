@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807020216",
+    "requested_datetime": "2018-07-02 15:23:54",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區開元路64-4號 佔用道路",
+    "address_string": "北區開元路64-4號",
+    "lat": "23.00592",
+    "long": "120.216866",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-01 15:21:00"
+}

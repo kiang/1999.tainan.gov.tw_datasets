@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807020055",
+    "requested_datetime": "2018-07-02 09:17:01",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "民生管線",
+    "agency": "臺南市政府聯合服務中心",
+    "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
+    "description": "北區武聖路36巷34號  電線脫落",
+    "address_string": "北區武聖路36巷34號",
+    "lat": "23.0061391",
+    "long": "120.1921675",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-01 09:13:00"
+}

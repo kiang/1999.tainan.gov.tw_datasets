@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807030139",
+    "requested_datetime": "2018-07-03 12:42:39",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "安南區海佃一段安通路五段 路面坑洞",
+    "address_string": "安南區海佃一段安通路五段",
+    "lat": "23.3100756",
+    "long": "120.307582",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-02 12:42:00"
+}

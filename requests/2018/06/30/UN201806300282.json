@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806300282",
+    "requested_datetime": "2018-06-30 20:58:17",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區大興街與大興街300巷  違規停車",
+    "address_string": "北區大興街300巷",
+    "lat": "23.0109202",
+    "long": "120.1855036",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-30 20:57:00"
+}

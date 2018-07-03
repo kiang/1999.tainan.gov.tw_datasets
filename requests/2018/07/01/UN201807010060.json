@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807010060",
+    "requested_datetime": "2018-07-01 10:21:54",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區大同路一段187號\/中西區大同路一段220號 違規停車",
+    "address_string": "東區大同路一段187號",
+    "lat": "22.9842602",
+    "long": "120.2113013",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-31 10:21:54"
+}

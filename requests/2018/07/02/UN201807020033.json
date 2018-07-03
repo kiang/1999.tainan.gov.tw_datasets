@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807020033",
+    "requested_datetime": "2018-07-02 08:37:39",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "永康區洲工街145巷19號 路面砂石",
+    "address_string": "永康區洲工街145巷19號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-01 08:35:00"
+}

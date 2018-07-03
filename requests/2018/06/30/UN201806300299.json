@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806300299",
+    "requested_datetime": "2018-06-30 22:28:37",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "安平區建平十二街105號對面 路燈故障不亮",
+    "address_string": "安平區建平十二街105號",
+    "lat": "22.9861382",
+    "long": "120.2271768",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-30 22:27:00"
+}

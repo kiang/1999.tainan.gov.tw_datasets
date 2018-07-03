@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807010059",
+    "requested_datetime": "2018-07-01 10:16:41",
+    "status": {},
+    "keyword": "0",
+    "area": "後壁區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "後壁區後壁里170之45號對面 佔用道路",
+    "address_string": "後壁區後壁里170之45號",
+    "lat": "23.0460229",
+    "long": "120.2177686",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-31 10:10:00"
+}

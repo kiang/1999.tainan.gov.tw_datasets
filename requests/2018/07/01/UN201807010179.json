@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807010179",
+    "requested_datetime": "2018-07-01 19:02:56",
+    "status": {},
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "仁德區中山路，仁德家樂福前 交通阻塞",
+    "address_string": "仁德區中山路",
+    "lat": "22.9714242",
+    "long": "120.2539763",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-31 19:01:00"
+}

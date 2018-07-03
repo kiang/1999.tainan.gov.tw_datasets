@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806300100",
+    "requested_datetime": "2018-06-30 11:51:41",
+    "status": {},
+    "keyword": "0",
+    "area": "佳里區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "佳里區光復路123號nupasta 違規停車",
+    "address_string": "佳里區光復路123號",
+    "lat": "23.1582026",
+    "long": "120.1749186",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-30 11:51:41"
+}

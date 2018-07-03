@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807030074",
+    "requested_datetime": "2018-07-03 10:20:02",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "永康區大同街956號 空氣汙染",
+    "address_string": "永康區大同街956號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-02 10:20:02"
+}

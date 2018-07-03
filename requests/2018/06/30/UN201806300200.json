@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806300200",
+    "requested_datetime": "2018-06-30 16:27:18",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區開南街275巷2弄36號 違停",
+    "address_string": "北區開南街275巷2弄36號",
+    "lat": "23.0037896",
+    "long": "120.2288039",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-30 16:26:00"
+}

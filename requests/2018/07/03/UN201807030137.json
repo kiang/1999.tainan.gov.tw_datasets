@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807030137",
+    "requested_datetime": "2018-07-03 12:36:28",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "南區健康路夏林路 交通疏導",
+    "address_string": "南區健康路夏林路",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-02 12:35:00"
+}

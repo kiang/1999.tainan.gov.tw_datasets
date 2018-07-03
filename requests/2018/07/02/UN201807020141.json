@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807020141",
+    "requested_datetime": "2018-07-02 11:58:07",
+    "status": {},
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "新營區復興路305巷4號  占用道路",
+    "address_string": "新營區復興路305巷4號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-01 11:55:00"
+}

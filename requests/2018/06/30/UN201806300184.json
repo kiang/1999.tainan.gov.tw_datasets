@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806300184",
+    "requested_datetime": "2018-06-30 15:37:14",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區東豐路451巷29之1號 違規停車",
+    "address_string": "北區東豐路451巷29之1號",
+    "lat": "23.0036119",
+    "long": "120.2285232",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-30 15:37:14"
+}

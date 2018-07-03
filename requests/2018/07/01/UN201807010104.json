@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807010104",
+    "requested_datetime": "2018-07-01 13:32:59",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "中西區府前路一段124號巷口  坑洞",
+    "address_string": "中西區府前路一段124號巷口",
+    "lat": "22.9981217",
+    "long": "120.1985149",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-31 13:31:00"
+}

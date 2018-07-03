@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807030115",
+    "requested_datetime": "2018-07-03 11:46:45",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨礙安寧",
+    "description": "永康區中山南路653巷17號1之2樓  妨礙安寧",
+    "address_string": "永康區中山南路653巷17號1之2樓",
+    "lat": "23.0260153",
+    "long": "120.2567917",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-02 11:45:00"
+}

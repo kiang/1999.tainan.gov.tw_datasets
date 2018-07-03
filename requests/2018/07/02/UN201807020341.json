@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807020341",
+    "requested_datetime": "2018-07-02 21:56:44",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區建平五街80巷21號 違規停車",
+    "address_string": "安平區建平五街80巷21號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-01 21:56:44"
+}

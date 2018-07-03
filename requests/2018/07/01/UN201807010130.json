@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807010130",
+    "requested_datetime": "2018-07-01 15:03:33",
+    "status": {},
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "仁德區文善街*文心路   噪音",
+    "address_string": "仁德區文善街文心路",
+    "lat": "22.9738865",
+    "long": "120.2413548",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-31 15:00:00"
+}

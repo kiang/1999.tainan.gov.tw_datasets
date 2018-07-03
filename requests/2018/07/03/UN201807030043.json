@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807030043",
+    "requested_datetime": "2018-07-03 09:13:27",
+    "status": {},
+    "keyword": "0",
+    "area": "新市區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "市區道路路面油漬",
+    "description": "新市火車站北邊中正路的平交道 油漬",
+    "address_string": "新市火車站中正路",
+    "lat": "23.0682329",
+    "long": "120.2900512",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-02 09:12:00"
+}

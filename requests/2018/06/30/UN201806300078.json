@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806300078",
+    "requested_datetime": "2018-06-30 11:02:43",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "台南火車站周邊，東區北門路上 違停",
+    "address_string": "台南東區北門路",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-30 11:01:00"
+}

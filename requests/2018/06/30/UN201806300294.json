@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806300294",
+    "requested_datetime": "2018-06-30 21:40:18",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區國平路587號 違規停車",
+    "address_string": "安平區國平路587號",
+    "lat": "22.9961408",
+    "long": "120.1714995",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-30 21:40:18"
+}

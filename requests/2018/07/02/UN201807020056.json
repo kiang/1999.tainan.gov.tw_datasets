@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807020056",
+    "requested_datetime": "2018-07-02 09:17:58",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "安南區長和路一段1號對面  佔用道路",
+    "address_string": "安南區長和路一段1號",
+    "lat": "23.0531319",
+    "long": "120.239005",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-01 09:17:00"
+}

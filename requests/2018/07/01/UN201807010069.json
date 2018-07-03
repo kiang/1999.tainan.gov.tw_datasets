@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807010069",
+    "requested_datetime": "2018-07-01 10:45:50",
+    "status": {},
+    "keyword": "0",
+    "area": "新市區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "新市區仁愛街與中興街口  號誌故障",
+    "address_string": "新市區仁愛街中興街",
+    "lat": "23.0781585",
+    "long": "120.2940374",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-31 10:42:00"
+}

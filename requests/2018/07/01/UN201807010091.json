@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807010091",
+    "requested_datetime": "2018-07-01 12:41:10",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "台南市中西區西門路二段379號 占用道路",
+    "address_string": "台南市中西區西門路二段379號",
+    "lat": "22.998425",
+    "long": "120.200205",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-31 12:41:10"
+}

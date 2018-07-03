@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807010170",
+    "requested_datetime": "2018-07-01 18:27:46",
+    "status": {},
+    "keyword": "0",
+    "area": "善化區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "善化區金華路*青年路 違規停車",
+    "address_string": "善化區金華路*青年路",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-31 18:26:00"
+}

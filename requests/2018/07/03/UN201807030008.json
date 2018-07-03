@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807030008",
+    "requested_datetime": "2018-07-03 06:15:40",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "道路散落物",
+    "description": "永康區中正南路正南二街 道路散落物",
+    "address_string": "永康區中正南路正南二街",
+    "lat": "23.033469",
+    "long": "120.2286022",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-02 06:15:00"
+}

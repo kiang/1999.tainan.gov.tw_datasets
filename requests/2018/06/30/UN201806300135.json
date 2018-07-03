@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806300135",
+    "requested_datetime": "2018-06-30 13:29:04",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "永康區廣興街69巷11號  交通疏導",
+    "address_string": "永康區廣興街69巷11號",
+    "lat": "23.0194597",
+    "long": "120.2771179",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-30 13:27:00"
+}

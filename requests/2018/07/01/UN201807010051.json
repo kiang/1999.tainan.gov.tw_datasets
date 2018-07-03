@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807010051",
+    "requested_datetime": "2018-07-01 09:54:59",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "南區尊南街224號   占用道路",
+    "address_string": "南區尊南街224號",
+    "lat": "22.979475",
+    "long": "120.189222",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-31 09:52:00"
+}

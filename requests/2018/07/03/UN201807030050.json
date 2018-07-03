@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807030050",
+    "requested_datetime": "2018-07-03 09:38:17",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區莊敬路219巷 違規停車",
+    "address_string": "東區莊敬路219巷",
+    "lat": "22.9973235",
+    "long": "120.2331523",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-02 09:38:17"
+}

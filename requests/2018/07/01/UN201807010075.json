@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807010075",
+    "requested_datetime": "2018-07-01 11:16:34",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": {},
+    "description": "東區中華東路三段336巷45號  違停",
+    "address_string": "東區中華東路三段336巷45號旁",
+    "lat": "23.0036845",
+    "long": "120.2355079",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-31 11:14:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807030001",
+    "requested_datetime": "2018-07-03 00:34:29",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區復國一路339-5號 違規停車",
+    "address_string": "復國一路339-5號大樓後方道路",
+    "lat": "23.0128771",
+    "long": "120.2464906",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-02 00:34:29"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807010042",
+    "requested_datetime": "2018-07-01 09:22:16",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "東區東安路134巷8號占用道路",
+    "address_string": "東區東安路134巷8號",
+    "lat": "23.0119053",
+    "long": "120.2229033",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-31 09:22:16"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806300215",
+    "requested_datetime": "2018-06-30 17:14:00",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
+    "description": "北區成功路220巷11號 電線垂落",
+    "address_string": "北區成功路220巷11號",
+    "lat": "22.9994668",
+    "long": "120.2032032",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-30 17:05:00"
+}

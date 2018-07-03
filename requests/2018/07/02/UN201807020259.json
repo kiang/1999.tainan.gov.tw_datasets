@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807020259",
+    "requested_datetime": "2018-07-02 16:41:08",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區公園南路*福德街路口對面  占用道路",
+    "address_string": "北區公園南路*福德街路口對面",
+    "lat": "23.0014353",
+    "long": "120.2072846",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-01 16:38:00"
+}

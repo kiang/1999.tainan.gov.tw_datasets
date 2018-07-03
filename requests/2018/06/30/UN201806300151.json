@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806300151",
+    "requested_datetime": "2018-06-30 14:14:31",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區金華路三段248號、250號 違停",
+    "address_string": "中西區金華路三段248號",
+    "lat": "22.9952517",
+    "long": "120.1938535",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-30 14:13:00"
+}

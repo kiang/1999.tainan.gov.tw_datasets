@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807030278",
+    "requested_datetime": "2018-07-03 18:49:20",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "南區金華路一段383號 路面坑洞",
+    "address_string": "南區金華路一段383號",
+    "lat": "22.969863",
+    "long": "120.190181",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-02 18:48:00"
+}

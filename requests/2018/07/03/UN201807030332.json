@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807030332",
+    "requested_datetime": "2018-07-03 22:28:22",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區文賢三街337巷23弄 違規停車",
+    "address_string": "文賢三街337巷23弄",
+    "lat": "23.0162741",
+    "long": "120.1971882",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-02 22:28:22"
+}

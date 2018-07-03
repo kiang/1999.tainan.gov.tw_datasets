@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807020065",
+    "requested_datetime": "2018-07-02 09:36:35",
+    "status": {},
+    "keyword": "0",
+    "area": "麻豆區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "麻豆區興國路41號  佔用道路",
+    "address_string": "麻豆區興國路41號",
+    "lat": "23.1792199",
+    "long": "120.2481043",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-01 09:30:00"
+}

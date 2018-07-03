@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807020053",
+    "requested_datetime": "2018-07-02 09:15:44",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "南區大成路跟國民路 佔用道路",
+    "address_string": "南區大成路跟國民路",
+    "lat": "22.975408",
+    "long": "120.203285",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-01 09:14:00"
+}

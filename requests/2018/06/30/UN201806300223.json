@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806300223",
+    "requested_datetime": "2018-06-30 17:38:07",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區林森路三段跟開南街口  佔用道路",
+    "address_string": "北區林森路三段跟開南街口",
+    "lat": "23.0060661",
+    "long": "120.2251268",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-30 17:37:00"
+}

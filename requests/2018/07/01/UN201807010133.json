@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807010133",
+    "requested_datetime": "2018-07-01 15:10:57",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區勝華街37巷56號對面勝利里活動中心大門口    違停",
+    "address_string": "永康區勝華街37巷56號",
+    "lat": "23.0054445",
+    "long": "120.2336243",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-31 15:08:00"
+}

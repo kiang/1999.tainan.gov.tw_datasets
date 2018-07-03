@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806300174",
+    "requested_datetime": "2018-06-30 15:07:50",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區慶東街與青年路路口   違停",
+    "address_string": "東區慶東街青年路",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-30 15:07:00"
+}

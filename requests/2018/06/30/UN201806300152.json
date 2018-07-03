@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806300152",
+    "requested_datetime": "2018-06-30 14:14:42",
+    "status": {},
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "仁德區德洋一街28號前 違規停車",
+    "address_string": "仁德區德洋一街28號",
+    "lat": "22.9519651",
+    "long": "120.2503378",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-30 14:14:42"
+}

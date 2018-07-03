@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806300054",
+    "requested_datetime": "2018-06-30 10:07:57",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "中西區國華街三段與民族路三段口附近 妨害安寧",
+    "address_string": "中西區國華街三段民族路三段",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-30 10:07:00"
+}

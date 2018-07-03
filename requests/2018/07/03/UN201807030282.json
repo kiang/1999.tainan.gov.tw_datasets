@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807030282",
+    "requested_datetime": "2018-07-03 18:59:19",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區國平路與國平路552巷口轉彎處 違規停車",
+    "address_string": "國平路552巷",
+    "lat": "22.9964752",
+    "long": "120.173249",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-02 18:59:19"
+}

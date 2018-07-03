@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806300144",
+    "requested_datetime": "2018-06-30 13:53:57",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區崇明路499號  違規停車",
+    "address_string": "東區崇明路499號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-30 13:53:57"
+}

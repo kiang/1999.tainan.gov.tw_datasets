@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807030246",
+    "requested_datetime": "2018-07-03 17:00:35",
+    "status": {},
+    "keyword": "0",
+    "area": "佳里區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "佳里區台19 號誌故障",
+    "address_string": "佳里區台19",
+    "lat": "23.1707331",
+    "long": "120.1791798",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-02 16:58:00"
+}

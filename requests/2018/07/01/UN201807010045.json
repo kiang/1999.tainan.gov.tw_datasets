@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807010045",
+    "requested_datetime": "2018-07-01 09:37:06",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安南區西濱公路380號 違規停車",
+    "address_string": "安南區西濱公路380號",
+    "lat": "23.0102566",
+    "long": "120.2232568",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-31 09:37:06"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807010112",
+    "requested_datetime": "2018-07-01 13:58:42",
+    "status": {},
+    "keyword": "0",
+    "area": "西港區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "西港區新興街8-185號 違規停車",
+    "address_string": "西港區新興街8-185號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-31 13:58:42"
+}

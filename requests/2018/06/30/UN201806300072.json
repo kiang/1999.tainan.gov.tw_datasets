@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806300072",
+    "requested_datetime": "2018-06-30 10:44:56",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區萬年三街250號 違停",
+    "address_string": "南區萬年三街250號",
+    "lat": "22.932293",
+    "long": "120.1866948",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-30 10:43:00"
+}

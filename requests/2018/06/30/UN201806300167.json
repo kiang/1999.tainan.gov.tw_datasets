@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806300167",
+    "requested_datetime": "2018-06-30 14:43:05",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "中西區開山路109巷口前半段跟開山路109巷通往89巷 佔用道路",
+    "address_string": "中西區開山路109巷",
+    "lat": "23.0759281",
+    "long": "120.2934134",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-30 14:38:00"
+}

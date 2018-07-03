@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807020287",
+    "requested_datetime": "2018-07-02 18:06:19",
+    "status": {},
+    "keyword": "0",
+    "area": "柳營區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "柳營區柳營外環道，要左轉中山西路路口，往市區方向快車道上，號誌前約4、5公尺處 路面坑洞",
+    "address_string": "柳營區柳營外環道",
+    "lat": "23.28759",
+    "long": "120.2939608",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-01 18:06:00"
+}

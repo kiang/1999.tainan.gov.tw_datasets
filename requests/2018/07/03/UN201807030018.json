@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807030018",
+    "requested_datetime": "2018-07-03 07:36:04",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "安平區臨安橋  路面坑洞",
+    "address_string": "安平區臨安橋",
+    "lat": "22.9973972",
+    "long": "120.186617",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-02 07:33:00"
+}

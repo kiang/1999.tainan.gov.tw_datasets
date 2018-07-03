@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807020096",
+    "requested_datetime": "2018-07-02 10:24:35",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": {},
+    "description": "東區巴克禮路 台電孔蓋噴水",
+    "address_string": "東區巴克禮路",
+    "lat": "22.9703946",
+    "long": "120.2218384",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-01 10:24:35"
+}

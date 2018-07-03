@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806300033",
+    "requested_datetime": "2018-06-30 08:56:28",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區中正南路52巷62弄口轉角處 違停",
+    "address_string": "永康區中正南路52巷62弄",
+    "lat": "23.020667",
+    "long": "120.2186555",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-30 08:56:00"
+}

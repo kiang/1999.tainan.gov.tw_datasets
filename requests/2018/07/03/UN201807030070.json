@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807030070",
+    "requested_datetime": "2018-07-03 10:15:28",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心,臺南市停車管理處",
+    "subproject": "違規停車",
+    "description": "永康區復國一路473號 違規停車",
+    "address_string": "永康區復國一路473號",
+    "lat": "23.0148575",
+    "long": "120.2449216",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-02 10:14:00"
+}

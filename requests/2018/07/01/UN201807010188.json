@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807010188",
+    "requested_datetime": "2018-07-01 19:50:06",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "市區道路路面油漬",
+    "description": "安南區安和路三段與永安路口油漬",
+    "address_string": "安南區安和路三段永安路",
+    "lat": "23.0460229",
+    "long": "120.2177686",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-31 19:49:00"
+}

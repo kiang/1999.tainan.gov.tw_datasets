@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807030129",
+    "requested_datetime": "2018-07-03 12:17:38",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨礙安寧",
+    "description": "東區光明街66巷39號6樓之7  妨礙安寧",
+    "address_string": "東區光明街66巷39號6樓之7",
+    "lat": "23.3100756",
+    "long": "120.307582",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-02 12:16:00"
+}

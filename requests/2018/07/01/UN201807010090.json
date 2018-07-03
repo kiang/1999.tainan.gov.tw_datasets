@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807010090",
+    "requested_datetime": "2018-07-01 12:39:23",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區民族路三段與普濟街口\/中西區民族路二段，赤崁樓前 違停",
+    "address_string": "中西區民族路三段普濟街",
+    "lat": "22.9981217",
+    "long": "120.1985149",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-31 12:37:00"
+}

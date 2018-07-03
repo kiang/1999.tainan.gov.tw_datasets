@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807020035",
+    "requested_datetime": "2018-07-02 08:42:19",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區南園街127巷17弄35號  佔用道路",
+    "address_string": "北區南園街127巷17弄35號",
+    "lat": "22.9599325",
+    "long": "120.3274124",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-01 08:35:00"
+}

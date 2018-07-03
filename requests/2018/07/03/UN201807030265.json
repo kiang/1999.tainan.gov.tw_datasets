@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807030265",
+    "requested_datetime": "2018-07-03 17:58:24",
+    "status": {},
+    "keyword": "0",
+    "area": "佳里區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "佳里區忠孝路170號 占用道路",
+    "address_string": "佳里區忠孝路170號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-02 17:57:00"
+}

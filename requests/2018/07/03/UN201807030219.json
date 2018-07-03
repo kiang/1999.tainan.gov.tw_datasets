@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807030219",
+    "requested_datetime": "2018-07-03 16:06:14",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "東區東門路與慶東街 路面坑洞",
+    "address_string": "東區東門路慶東街",
+    "lat": "22.9879051",
+    "long": "120.2162365",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-02 16:04:00"
+}

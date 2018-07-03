@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806300042",
+    "requested_datetime": "2018-06-30 09:41:05",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "安南區義安街242巷8號  路燈故障",
+    "address_string": "安南區義安街242巷8號",
+    "lat": "23.0349641",
+    "long": "120.196941",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-30 09:39:00"
+}

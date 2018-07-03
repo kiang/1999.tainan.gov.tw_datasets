@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806300267",
+    "requested_datetime": "2018-06-30 20:09:27",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區海安路三段210巷26弄52號  路燈故障",
+    "address_string": "北區海安路三段210巷26弄52號",
+    "lat": "23.0061079",
+    "long": "120.2001506",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-30 20:08:00"
+}

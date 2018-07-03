@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807030052",
+    "requested_datetime": "2018-07-03 09:45:07",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區建平十七街121號 違規停車",
+    "address_string": "安平區建平十七街121號",
+    "lat": "22.9974694",
+    "long": "120.1798755",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-02 09:44:00"
+}

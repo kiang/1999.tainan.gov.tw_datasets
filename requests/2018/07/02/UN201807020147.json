@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807020147",
+    "requested_datetime": "2018-07-02 12:25:11",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區崇學路127號~133號  違停",
+    "address_string": "東區崇學路133號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-01 12:24:00"
+}

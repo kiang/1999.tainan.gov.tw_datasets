@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807020309",
+    "requested_datetime": "2018-07-02 19:28:19",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區復國一路90巷1號 違規停車",
+    "address_string": "永康區復國一路90巷1號",
+    "lat": "22.986844",
+    "long": "120.220443",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-01 19:27:00"
+}

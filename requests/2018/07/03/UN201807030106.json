@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807030106",
+    "requested_datetime": "2018-07-03 11:31:49",
+    "status": {},
+    "keyword": "0",
+    "area": "關廟區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "關廟區民族街52號 違規停車",
+    "address_string": "台南市關廟區民族街52號",
+    "lat": "22.9911069",
+    "long": "120.206135",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-02 11:31:49"
+}

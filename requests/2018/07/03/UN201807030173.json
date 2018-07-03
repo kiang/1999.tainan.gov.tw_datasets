@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807030173",
+    "requested_datetime": "2018-07-03 14:30:45",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區永華路二段240號附近 違規停車",
+    "address_string": "中西區永華路二段240號",
+    "lat": "22.9900744",
+    "long": "120.1802786",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-02 14:29:00"
+}

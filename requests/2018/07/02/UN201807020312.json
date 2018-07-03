@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807020312",
+    "requested_datetime": "2018-07-02 19:45:24",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "永康工業區，環工路53號，志鋼金屬前 路燈不亮",
+    "address_string": "永康區環工路53號",
+    "lat": "23.0422301",
+    "long": "120.269362",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-01 19:43:00"
+}

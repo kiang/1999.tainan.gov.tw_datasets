@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807020289",
+    "requested_datetime": "2018-07-02 18:09:30",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "人孔蓋或溝蓋聲響鬆動",
+    "description": "安南區海佃路一段188巷53號 孔蓋鬆動",
+    "address_string": "安南區海佃路一段188巷53號",
+    "lat": "23.0251327",
+    "long": "120.1931856",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-01 18:08:00"
+}

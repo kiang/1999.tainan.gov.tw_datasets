@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807020103",
+    "requested_datetime": "2018-07-02 10:52:11",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區和緯路三段370號",
+    "address_string": "北區和緯路三段370號",
+    "lat": "22.9953806",
+    "long": "120.1786769",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-01 10:50:00"
+}

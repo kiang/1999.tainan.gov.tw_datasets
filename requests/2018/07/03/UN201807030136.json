@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807030136",
+    "requested_datetime": "2018-07-03 12:35:27",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區東橋十街50號到86號  違規停車",
+    "address_string": "永康區東橋十街50號",
+    "lat": "23.0217731",
+    "long": "120.2322094",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-02 12:35:27"
+}

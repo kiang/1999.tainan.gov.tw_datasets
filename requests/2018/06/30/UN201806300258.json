@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201806300258",
+    "requested_datetime": "2018-06-30 19:37:10",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安南區長和路二段12巷 違規停車",
+    "address_string": "安南區長和路二段12巷",
+    "lat": "23.0677991",
+    "long": "120.2231771",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-07-30 19:34:00"
+}
