@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區東寧路與東光路口 違規停車",
     "address_string": "東區東寧路東光路",
-    "lat": {},
-    "long": {},
+    "lat": "22.989149",
+    "long": "120.2307345",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-03 07:27:26"

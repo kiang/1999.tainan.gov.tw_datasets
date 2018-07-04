@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新市區復興路67號 違規停車",
     "address_string": "復興路67號",
-    "lat": {},
-    "long": {},
+    "lat": "23.303158",
+    "long": "120.311744",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-03 00:10:21"

@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區文東街1～43號、93號 路燈不亮",
     "address_string": "東區文東街93號",
-    "lat": {},
-    "long": {},
+    "lat": "22.961556",
+    "long": "120.233676",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-03 19:57:00"

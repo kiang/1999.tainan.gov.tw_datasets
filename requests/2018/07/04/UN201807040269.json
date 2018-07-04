@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "永康區中山北路264巷11弄整條 路燈不亮",
     "address_string": "永康區中山北路264巷11弄",
-    "lat": {},
-    "long": {},
+    "lat": "23.0282633",
+    "long": "120.2654911",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-03 16:12:00"

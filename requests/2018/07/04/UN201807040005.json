@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "北區北園街\/南園路跟開元路跟林森路三段 號誌故障",
     "address_string": "北區北園街 南園路跟開元路 林森路三段",
-    "lat": {},
-    "long": {},
+    "lat": "23.0089493",
+    "long": "120.2230263",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-03 00:18:00"

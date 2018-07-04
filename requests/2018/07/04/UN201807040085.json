@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "北門農工往佳里工業區方向的台19線接南28路口 號誌故障",
     "address_string": "北門",
-    "lat": {},
-    "long": {},
+    "lat": "23.2866026",
+    "long": "120.1242853",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-03 09:55:00"

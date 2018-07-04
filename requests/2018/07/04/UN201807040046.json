@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "新市區道爺路 號誌故障",
     "address_string": "新市區道爺路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0921772",
+    "long": "120.268004",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-03 08:40:12"

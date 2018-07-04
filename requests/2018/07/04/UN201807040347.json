@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區和緯路三段350號 路燈故障",
     "address_string": "北區和緯路三段350號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0099261",
+    "long": "120.195025",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-03 19:26:00"

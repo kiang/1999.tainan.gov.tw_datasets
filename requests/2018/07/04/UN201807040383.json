@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區自由路三段252號對面 路燈不亮",
     "address_string": "東區自由路三段252號",
-    "lat": {},
-    "long": {},
+    "lat": "23.1595208",
+    "long": "120.1343098",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-03 22:42:00"
