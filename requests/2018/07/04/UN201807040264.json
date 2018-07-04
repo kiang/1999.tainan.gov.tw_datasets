@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807040264",
+    "requested_datetime": "2018-07-04 15:59:39",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "中西區中成路50號和56號前各一盞路燈 路燈亮滅",
+    "address_string": "中西區中成路50號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-03 15:58:00"
+}
