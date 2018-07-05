@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807050202",
+    "requested_datetime": "2018-07-05 16:02:06",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "北區文賢路與中華北路一段口，中華北路一段上，傅耳鼻喉科前 路面坑洞",
+    "address_string": "北區文賢路中華北路一段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-04 16:00:00"
+}
