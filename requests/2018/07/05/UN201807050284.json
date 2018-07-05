@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "六甲區曾文街127號 路燈不亮",
     "address_string": "六甲區曾文街127號",
-    "lat": {},
-    "long": {},
+    "lat": "23.2349509",
+    "long": "120.3602091",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-04 19:57:00"

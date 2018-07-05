@@ -9,8 +9,8 @@
     "subproject": "道路散落物",
     "description": "六甲區174縣道34.5K 路面有泥巴",
     "address_string": "六甲區174縣道",
-    "lat": {},
-    "long": {},
+    "lat": "23.233691",
+    "long": "120.3803845",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-04 13:45:00"

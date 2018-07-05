@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安南區仁安八街和智安四街口 違停",
     "address_string": "安南區仁安八街智安四街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9741941",
+    "long": "120.2555691",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-04 18:33:00"
