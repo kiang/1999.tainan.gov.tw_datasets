@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "中西區和緯路四段263號 空氣汙染",
     "address_string": "中西區和緯路四段263號",
-    "lat": {},
-    "long": {},
+    "lat": "23.093731",
+    "long": "120.2311",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-05 18:00:00"

@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區長北街跟成功路口 違規停車",
     "address_string": "北區長北街成功路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0217064",
+    "long": "120.2320943",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-05 16:24:00"

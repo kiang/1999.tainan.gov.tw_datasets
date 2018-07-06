@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "南區明興路1221號 路燈\/號誌故障",
     "address_string": "南區明興路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0232718",
+    "long": "120.2612062",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-05 19:10:00"

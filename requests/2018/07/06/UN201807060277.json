@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區東平路168號 違規停車",
     "address_string": "東區東平路168號",
-    "lat": {},
-    "long": {},
+    "lat": "23.093731",
+    "long": "120.2311",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-05 17:27:00"
