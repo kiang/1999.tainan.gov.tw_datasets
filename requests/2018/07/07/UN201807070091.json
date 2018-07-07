@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新營區中正路44-1號 違規停車",
     "address_string": "新營區中正路44之1號",
-    "lat": {},
-    "long": {},
+    "lat": "23.3112639",
+    "long": "120.316738",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-06 11:25:10"

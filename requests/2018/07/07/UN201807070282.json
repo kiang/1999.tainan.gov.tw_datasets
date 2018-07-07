@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新營區中正路，介於民治路與義和街間 違停",
     "address_string": "新營區中正路",
-    "lat": {},
-    "long": {},
+    "lat": "23.3177086",
+    "long": "120.3163678",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-06 19:59:00"
