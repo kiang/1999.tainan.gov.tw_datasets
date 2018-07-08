@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "歸仁區中山路一段和信義南和北路 違規停車",
     "address_string": "歸仁區中山路一段信義南北路",
-    "lat": {},
-    "long": {},
+    "lat": "25.0287024",
+    "long": "121.5769572",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-07 08:59:00"

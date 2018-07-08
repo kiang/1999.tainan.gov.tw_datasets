@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新營火車站  違規停車",
     "address_string": "新營火車站",
-    "lat": {},
-    "long": {},
+    "lat": "23.3066428",
+    "long": "120.3229495",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-07 14:06:47"
