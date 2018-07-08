@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807080047",
+    "requested_datetime": "2018-07-08 09:36:15",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區北園街6號  黃線違停",
+    "address_string": "北區北園街6號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-07 09:35:00"
+}
