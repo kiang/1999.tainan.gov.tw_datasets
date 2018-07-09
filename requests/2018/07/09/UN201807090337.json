@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區凱旋路與東光路交叉路口 違規停車",
     "address_string": "東區凱旋路東光路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9929755",
+    "long": "120.2311891",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-08 18:42:16"

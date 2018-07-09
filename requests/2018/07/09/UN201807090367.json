@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安平區永華六街，從怡平路到永華路二段之間路段 路燈不亮",
     "address_string": "安平區永華六街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9938787",
+    "long": "120.1770558",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-08 19:46:00"

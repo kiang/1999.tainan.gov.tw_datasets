@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區公園路上，和緯路至公園北路段雙向 違規停車",
     "address_string": "北區公園路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0083738",
+    "long": "120.2100558",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-08 20:22:52"

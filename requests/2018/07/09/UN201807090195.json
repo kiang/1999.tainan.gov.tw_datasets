@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "仁德區保安路    違停",
     "address_string": "仁德區保安路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9906793",
+    "long": "120.1944743",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-08 13:35:00"

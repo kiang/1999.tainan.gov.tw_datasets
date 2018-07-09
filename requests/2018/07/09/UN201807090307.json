@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "楠西區龜丹7、9號 路燈不亮",
     "address_string": "楠西區龜丹9號",
-    "lat": {},
-    "long": {},
+    "lat": "23.133161",
+    "long": "120.50696",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-08 17:47:00"

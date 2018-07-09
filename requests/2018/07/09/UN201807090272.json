@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "中西區和緯路與武聖路,公園附近有違規設攤",
     "address_string": "中西區和緯路武聖路",
-    "lat": {},
-    "long": {},
+    "lat": "23.007443",
+    "long": "120.1878897",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-08 16:26:00"

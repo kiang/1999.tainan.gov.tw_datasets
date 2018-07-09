@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "永康區三民街96號到150號 路燈故障",
     "address_string": "永康區三民街96號到150號",
-    "lat": {},
-    "long": {},
+    "lat": "23.052746",
+    "long": "120.247681",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-08 21:00:00"

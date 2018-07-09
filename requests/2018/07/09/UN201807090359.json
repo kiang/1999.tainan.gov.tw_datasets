@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807090359",
+    "requested_datetime": "2018-07-09 19:35:14",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "永康區中正南路靠近TOYOTA附近 路燈閃爍",
+    "address_string": "永康區中正南路214號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-08 19:34:00"
+}
