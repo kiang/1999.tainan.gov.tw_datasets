@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "仁德區中正路二段862巷37號 路燈故障",
     "address_string": "仁德區中正路二段862巷37號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9642343",
+    "long": "120.2543657",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-09 10:32:00"
