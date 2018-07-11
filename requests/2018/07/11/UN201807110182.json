@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新市區銘傳街46號 違規停車",
     "address_string": "新市區銘傳街46號",
-    "lat": {},
-    "long": {},
+    "lat": "23.074182",
+    "long": "120.291868",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-10 14:21:45"

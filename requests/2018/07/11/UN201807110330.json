@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區安中路四段與育英街口 路燈故障",
     "address_string": "安南區安中路四段",
-    "lat": {},
-    "long": {},
+    "lat": "23.0514535",
+    "long": "120.1655028",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-10 20:24:00"

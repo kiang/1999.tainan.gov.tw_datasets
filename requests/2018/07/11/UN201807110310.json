@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807110310",
+    "requested_datetime": "2018-07-11 19:23:27",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安南區仁安八街和智安四街口 紅線違停",
+    "address_string": "安南區仁安八街智安四街",
+    "lat": "23.0497044",
+    "long": "120.1840444",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-10 19:22:00"
+}

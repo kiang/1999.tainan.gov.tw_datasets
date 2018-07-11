@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "中西區開山路133號",
     "address_string": "中西區開山路133號 佔用道路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9873636",
+    "long": "120.2081762",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-10 11:00:00"

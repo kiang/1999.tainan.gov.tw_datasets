@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北門路靠近民族路口 路燈故障",
     "address_string": "北門路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0053912",
+    "long": "120.2149101",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-10 22:55:00"
