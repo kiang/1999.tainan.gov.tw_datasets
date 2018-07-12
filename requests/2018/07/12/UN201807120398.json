@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807120398",
+    "requested_datetime": "2018-07-12 22:32:07",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "中西區海安路二段和民族路三段交叉口 路燈閃爍",
+    "address_string": "中西區海安路二段民族路三段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-11 22:31:00"
+}

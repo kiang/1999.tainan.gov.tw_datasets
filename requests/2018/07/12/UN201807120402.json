@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807120402",
+    "requested_datetime": "2018-07-12 23:06:09",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "南寧高中大門口附近，約1、200公尺範圍 路燈不亮",
+    "address_string": "南區萬年路167號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-11 23:05:00"
+}
