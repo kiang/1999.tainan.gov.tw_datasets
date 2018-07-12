@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "麻豆區三民路18號 違規停車",
     "address_string": "麻豆區三民路18號",
-    "lat": {},
-    "long": {},
+    "lat": "23.182573",
+    "long": "120.245593",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-11 17:38:47"
