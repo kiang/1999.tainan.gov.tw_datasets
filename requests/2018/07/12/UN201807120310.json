@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807120310",
+    "requested_datetime": "2018-07-12 18:44:38",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "永康區國光六街69號附近 路燈不亮",
+    "address_string": "永康區國光六街69號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-11 18:42:00"
+}
