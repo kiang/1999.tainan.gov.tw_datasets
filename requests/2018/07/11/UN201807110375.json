@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201807110375",
     "requested_datetime": "2018-07-11 22:50:17",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "六甲區",
     "service_name": "路燈故障",
@@ -12,6 +12,6 @@
     "lat": "23.2318416",
     "long": "120.3453222",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-07-13 18:18:05",
     "expected_datetime": "2018-08-10 22:49:00"
 }
