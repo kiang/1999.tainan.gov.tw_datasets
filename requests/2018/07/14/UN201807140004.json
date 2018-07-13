@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807140004",
+    "requested_datetime": "2018-07-14 00:39:08",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "其他汙染舉發",
+    "description": "東區林森路二段90號五樓之三 冷氣滴水",
+    "address_string": "東區林森路二段90號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-14 00:48:01",
+    "expected_datetime": "2018-08-13 00:38:00"
+}
