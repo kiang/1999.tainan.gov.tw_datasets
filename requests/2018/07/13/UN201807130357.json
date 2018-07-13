@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807130357",
+    "requested_datetime": "2018-07-13 20:52:45",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區裕農路和裕農一街口 違停＆加強取締",
+    "address_string": "東區裕農路裕農一街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-13 22:43:04",
+    "expected_datetime": "2018-08-12 20:50:00"
+}
