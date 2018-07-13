@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201807090317",
     "requested_datetime": "2018-07-09 18:08:57",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "歸仁區",
     "service_name": "民生管線",
@@ -12,6 +12,6 @@
     "lat": "22.9973432",
     "long": "120.2768149",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-07-13 14:58:33",
     "expected_datetime": "2018-08-08 18:07:00"
 }
