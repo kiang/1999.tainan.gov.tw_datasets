@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807130310",
+    "requested_datetime": "2018-07-13 18:48:06",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "歸仁區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "歸仁區中山路一段和中山路一段515巷口轉彎處 違停",
+    "address_string": "歸仁區中山路一段中山路一段515巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-13 19:53:04",
+    "expected_datetime": "2018-08-12 18:46:00"
+}
