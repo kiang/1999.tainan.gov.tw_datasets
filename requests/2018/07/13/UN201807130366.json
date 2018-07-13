@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807130366",
+    "requested_datetime": "2018-07-13 21:19:49",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安南區鳳凰公園，靠安中路一段700巷上的殘障坡道前 違停",
+    "address_string": "安南區鳳凰公園",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-13 23:18:04",
+    "expected_datetime": "2018-08-12 21:17:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807130364",
+    "requested_datetime": "2018-07-13 21:08:43",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "鹽水區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "鹽水區義中里（應為義稠里）9鄰44號附近 路燈不亮",
+    "address_string": "鹽水區義稠里9鄰44號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-13 23:08:03",
+    "expected_datetime": "2018-08-12 21:07:00"
+}
