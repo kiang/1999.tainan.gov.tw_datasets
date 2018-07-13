@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807130347",
+    "requested_datetime": "2018-07-13 20:18:20",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區北忠街58巷口 違停紅線",
+    "address_string": "北區北忠街58巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-13 20:33:06",
+    "expected_datetime": "2018-08-12 20:17:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807130336",
+    "requested_datetime": "2018-07-13 19:56:44",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新市區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "新市區台19甲線166號，全聯路口人行道轉角 違規停車",
+    "address_string": "新市區台19甲線166號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-13 20:33:05",
+    "expected_datetime": "2018-08-12 19:56:44"
+}
