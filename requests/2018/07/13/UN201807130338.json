@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807130338",
+    "requested_datetime": "2018-07-13 19:57:01",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "南區鯤鯓路77號前 路燈不亮",
+    "address_string": "南區鯤鯓路77號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-13 21:03:01",
+    "expected_datetime": "2018-08-12 19:56:00"
+}
