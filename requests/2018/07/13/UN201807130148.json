@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807130148",
+    "requested_datetime": "2018-07-13 12:58:25",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區大成路二段*西門路一段 違規停車",
+    "address_string": "南區大成路二段*西門路一段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-12 12:54:00"
+}
