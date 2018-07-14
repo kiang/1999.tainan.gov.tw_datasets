@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807140254",
+    "requested_datetime": "2018-07-14 18:01:46",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "東區北門路一段火車站前   交通疏導",
+    "address_string": "東區北門路一段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-14 18:23:01",
+    "expected_datetime": "2018-08-13 18:00:00"
+}

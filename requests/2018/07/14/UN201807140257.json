@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807140257",
+    "requested_datetime": "2018-07-14 18:06:56",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區平豐路453號  違停",
+    "address_string": "安平區平豐路453號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-14 18:27:59",
+    "expected_datetime": "2018-08-13 18:06:00"
+}
