@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807150008",
+    "requested_datetime": "2018-07-15 05:51:04",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "仁德區民安路一段310巷 約20盞路燈放亮",
+    "address_string": {},
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-15 06:02:59",
+    "expected_datetime": "2018-08-14 05:51:00"
+}
