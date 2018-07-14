@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807140183",
+    "requested_datetime": "2018-07-14 14:25:50",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區國平路562號 違規停車",
+    "address_string": "安平區國平路562號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-14 14:53:11",
+    "expected_datetime": "2018-08-13 14:25:50"
+}
