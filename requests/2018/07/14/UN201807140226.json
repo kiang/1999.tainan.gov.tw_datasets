@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807140226",
+    "requested_datetime": "2018-07-14 16:23:34",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "南區中華西路一段39號 空氣汙染",
+    "address_string": "南區中華西路一段39號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-14 16:28:35",
+    "expected_datetime": "2018-08-13 16:21:00"
+}
