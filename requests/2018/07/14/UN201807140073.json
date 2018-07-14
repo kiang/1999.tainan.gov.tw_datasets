@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807140073",
+    "requested_datetime": "2018-07-14 10:00:48",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區北門路二段12 違停",
+    "address_string": "東區北門路二段12號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-14 10:28:00",
+    "expected_datetime": "2018-08-13 09:59:00"
+}

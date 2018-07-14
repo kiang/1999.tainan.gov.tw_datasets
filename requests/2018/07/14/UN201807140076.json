@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807140076",
+    "requested_datetime": "2018-07-14 10:04:40",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "仁德區國道331公里 空氣汙染",
+    "address_string": "仁德區國道331公里",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-14 10:28:06",
+    "expected_datetime": "2018-08-13 10:04:40"
+}
