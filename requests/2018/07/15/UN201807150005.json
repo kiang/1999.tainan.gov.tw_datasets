@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807150005",
+    "requested_datetime": "2018-07-15 01:47:02",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "南區與萣茄二仁溪橋上,整排路燈",
+    "address_string": "南區台17縣二仁溪橋",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-15 04:53:00",
+    "expected_datetime": "2018-08-14 01:45:00"
+}
