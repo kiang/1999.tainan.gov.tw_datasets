@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807140286",
+    "requested_datetime": "2018-07-14 19:53:00",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區公園路和西門路口，劉家肉粽門口（劉家肉粽位置應是成功路） 違停",
+    "address_string": "中西區成功路西門路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-15 01:37:59",
+    "expected_datetime": "2018-08-13 19:51:00"
+}

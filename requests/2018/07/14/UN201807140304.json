@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807140304",
+    "requested_datetime": "2018-07-14 21:05:30",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "東區裕信路和裕平路口 空氣污染",
+    "address_string": "東區裕信路裕平路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-15 01:53:00",
+    "expected_datetime": "2018-08-13 21:04:00"
+}
