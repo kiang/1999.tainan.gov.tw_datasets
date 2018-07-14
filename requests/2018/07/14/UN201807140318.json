@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807140318",
+    "requested_datetime": "2018-07-14 21:55:32",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "動物救援",
+    "agency": "臺南市動物防疫保護處",
+    "subproject": "犬貓急難救援",
+    "description": "安南區安和路六段61-22號  貓救援",
+    "address_string": "安南區安和路六段61-22號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-14 22:03:03",
+    "expected_datetime": "2018-08-13 21:52:00"
+}
