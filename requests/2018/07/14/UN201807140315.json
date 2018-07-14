@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807140315",
+    "requested_datetime": "2018-07-14 21:48:42",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東山區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "東山區莒光街22巷附近 路燈不亮",
+    "address_string": "東山區莒光街22巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-15 02:58:00",
+    "expected_datetime": "2018-08-13 21:48:00"
+}
