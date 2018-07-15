@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807150025",
+    "requested_datetime": "2018-07-15 09:05:02",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面下陷、凹陷",
+    "description": "南區興南街112號 路面下陷",
+    "address_string": "南區興南街112號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-15 09:17:59",
+    "expected_datetime": "2018-08-14 09:05:00"
+}
