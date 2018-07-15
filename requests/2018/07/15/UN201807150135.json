@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807150135",
+    "requested_datetime": "2018-07-15 14:18:32",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "南區南樂街77號  佔用道路",
+    "address_string": "南區南樂街77號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-15 14:28:01",
+    "expected_datetime": "2018-08-14 14:17:00"
+}
