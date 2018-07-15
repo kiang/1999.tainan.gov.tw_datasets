@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807150240",
+    "requested_datetime": "2018-07-15 19:33:41",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "北區東豐路241號騎樓旁、東豐路227巷20之5號前水溝旁 路面坑洞",
+    "address_string": {},
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-16 00:29:12",
+    "expected_datetime": "2018-08-14 19:31:00"
+}
