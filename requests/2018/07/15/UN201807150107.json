@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807150107",
+    "requested_datetime": "2018-07-15 13:05:22",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區西華南街32-42號   違規停車",
+    "address_string": "中西區西華南街32-42號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-15 13:28:07",
+    "expected_datetime": "2018-08-14 13:05:22"
+}
