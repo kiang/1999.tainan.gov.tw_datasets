@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807150145",
+    "requested_datetime": "2018-07-15 14:57:34",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "麻豆區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "麻豆區關帝廟80號  交通號誌故障",
+    "address_string": "麻豆區關帝廟80號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-15 15:12:59",
+    "expected_datetime": "2018-08-14 14:55:00"
+}
