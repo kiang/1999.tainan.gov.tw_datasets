@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807150246",
+    "requested_datetime": "2018-07-15 19:55:58",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
+    "description": "南區體育路41巷和體育路口、體育路41巷2號和4號中間 台電和中華電信孔蓋聲響",
+    "address_string": {},
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-15 20:42:59",
+    "expected_datetime": "2018-08-14 19:56:00"
+}

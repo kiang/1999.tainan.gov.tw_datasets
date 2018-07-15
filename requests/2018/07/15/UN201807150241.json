@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807150241",
+    "requested_datetime": "2018-07-15 19:35:04",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區長榮路四段27到29號 違規停車",
+    "address_string": "北區長榮路四段27號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-15 20:28:02",
+    "expected_datetime": "2018-08-14 19:35:04"
+}
