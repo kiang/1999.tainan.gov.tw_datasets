@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807150277",
+    "requested_datetime": "2018-07-15 22:58:57",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新市區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": {},
+    "description": "新市區忠孝街81號 孔蓋聲響",
+    "address_string": "新市區忠孝街81號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-15 23:38:02",
+    "expected_datetime": "2018-08-14 22:58:57"
+}
