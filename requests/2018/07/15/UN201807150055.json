@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807150055",
+    "requested_datetime": "2018-07-15 10:50:31",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "永康區民族路160巷35號旁 噪音",
+    "address_string": "永康區民族路160巷35號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-15 11:28:03",
+    "expected_datetime": "2018-08-14 10:49:00"
+}
