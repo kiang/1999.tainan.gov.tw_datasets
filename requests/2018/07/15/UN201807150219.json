@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807150219",
+    "requested_datetime": "2018-07-15 18:33:30",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區健康三街、育平五街交叉口 違規停車",
+    "address_string": "安平區健康三街育平五街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-15 19:37:59",
+    "expected_datetime": "2018-08-14 18:33:30"
+}

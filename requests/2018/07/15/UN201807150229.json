@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807150229",
+    "requested_datetime": "2018-07-15 19:03:36",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區衛民街137、145號 違規停車",
+    "address_string": "中西區衛民街137號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-15 19:53:00",
+    "expected_datetime": "2018-08-14 19:03:36"
+}
