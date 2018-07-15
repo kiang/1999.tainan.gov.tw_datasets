@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807160013",
+    "requested_datetime": "2018-07-16 06:25:46",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "市區道路路面油漬",
+    "description": "安南區郡安路五段 路面油漬",
+    "address_string": "安南區郡安路五段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-16 06:32:59",
+    "expected_datetime": "2018-08-15 06:25:00"
+}
