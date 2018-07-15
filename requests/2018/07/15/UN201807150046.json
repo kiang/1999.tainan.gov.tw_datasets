@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807150046",
+    "requested_datetime": "2018-07-15 10:32:04",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區永華十街跟育平六街交叉口 違停",
+    "address_string": "安平區永華十街育平六街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-15 10:43:04",
+    "expected_datetime": "2018-08-14 10:31:00"
+}
