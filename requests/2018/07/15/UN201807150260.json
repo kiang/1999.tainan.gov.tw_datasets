@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807150260",
+    "requested_datetime": "2018-07-15 20:56:12",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "道路散落物",
+    "description": "南區永成路二段460號 貓屍",
+    "address_string": "南區永成路二段460號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-15 21:02:59",
+    "expected_datetime": "2018-08-14 20:54:00"
+}
