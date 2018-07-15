@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807150267",
+    "requested_datetime": "2018-07-15 21:47:31",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "新營區綠都心附近 連續噪音",
+    "address_string": "新營區綠都心",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-15 22:03:00",
+    "expected_datetime": "2018-08-14 21:47:31"
+}
