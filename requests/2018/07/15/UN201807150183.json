@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807150183",
+    "requested_datetime": "2018-07-15 17:00:57",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區康樂街 (保安路至大仁街路段) 違規停車",
+    "address_string": "康樂街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-15 17:53:19",
+    "expected_datetime": "2018-08-14 17:00:57"
+}
