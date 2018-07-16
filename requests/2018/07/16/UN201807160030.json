@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807160030",
+    "requested_datetime": "2018-07-16 08:22:34",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨礙安寧",
+    "description": "北區中華北路一段78巷 妨礙安寧",
+    "address_string": "北區中華北路一段78巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-16 08:38:08",
+    "expected_datetime": "2018-08-15 08:22:00"
+}
