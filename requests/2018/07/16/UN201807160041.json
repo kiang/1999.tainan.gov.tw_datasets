@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807160041",
+    "requested_datetime": "2018-07-16 08:42:07",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區興中街63巷 違停",
+    "address_string": "南區興中街63巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-16 09:03:20",
+    "expected_datetime": "2018-08-15 08:37:00"
+}
