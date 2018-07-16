@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807160237",
+    "requested_datetime": "2018-07-16 15:33:27",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "南區新興路416巷跟中華西路一段109巷  號誌故障",
+    "address_string": "南區新興路416巷中華西路一段109巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-16 15:53:33",
+    "expected_datetime": "2018-08-15 15:31:00"
+}
