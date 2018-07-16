@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807160145",
+    "requested_datetime": "2018-07-16 11:59:27",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "騎樓舉發",
+    "agency": "台南市政府",
+    "subproject": "騎樓舉發",
+    "description": "永康區中正六街183號181號 佔用騎樓",
+    "address_string": "永康區中正六街183號181號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-16 13:03:04",
+    "expected_datetime": "2018-08-15 11:57:00"
+}
