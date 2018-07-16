@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807160132",
+    "requested_datetime": "2018-07-16 11:34:24",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區中正路529號  違規停車",
+    "address_string": "永康區中正路529號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-16 11:48:31",
+    "expected_datetime": "2018-08-15 11:34:24"
+}
