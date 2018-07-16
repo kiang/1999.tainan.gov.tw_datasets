@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807160375",
+    "requested_datetime": "2018-07-16 21:19:45",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面下陷、凹陷",
+    "description": "北區開元路117巷12號前 行道磚凹陷",
+    "address_string": "北區開元路117巷12號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-16 21:48:10",
+    "expected_datetime": "2018-08-15 21:17:00"
+}
