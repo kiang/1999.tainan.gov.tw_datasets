@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807170142",
+    "requested_datetime": "2018-07-17 12:41:34",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "仁德區中山路與義林一街路口  違規停車",
+    "address_string": "仁德區中山路義林一街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-17 12:48:00",
+    "expected_datetime": "2018-08-16 12:40:00"
+}
