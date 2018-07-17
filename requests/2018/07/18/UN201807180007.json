@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807180007",
+    "requested_datetime": "2018-07-18 01:45:07",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "永康區南台街13巷40號對面 妨害安寧",
+    "address_string": "永康區南台街13巷40號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-18 01:47:59",
+    "expected_datetime": "2018-08-17 01:43:00"
+}
