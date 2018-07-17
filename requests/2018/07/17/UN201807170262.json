@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807170262",
+    "requested_datetime": "2018-07-17 18:41:59",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "其他汙染舉發",
+    "description": "新營區長榮路二段與隋唐街口 路面泥沙",
+    "address_string": "新營區長榮路二段隋唐街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-17 19:08:02",
+    "expected_datetime": "2018-08-16 18:41:00"
+}
