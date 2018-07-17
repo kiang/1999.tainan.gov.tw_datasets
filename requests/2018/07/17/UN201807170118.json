@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807170118",
+    "requested_datetime": "2018-07-17 11:36:08",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "東區林森路二段90號華南銀行東台南分行前面",
+    "address_string": "東區林森路二段90號華南銀行",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-17 11:48:26",
+    "expected_datetime": "2018-08-16 11:34:00"
+}
