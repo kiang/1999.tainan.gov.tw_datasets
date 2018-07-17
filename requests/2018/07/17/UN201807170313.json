@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807170313",
+    "requested_datetime": "2018-07-17 21:45:37",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "歸仁區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "歸仁區文化街三段376巷1號 噪音舉發",
+    "address_string": "台南市歸仁區文化街三段376巷1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-17 22:23:02",
+    "expected_datetime": "2018-08-16 21:45:37"
+}
