@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807170300",
+    "requested_datetime": "2018-07-17 20:41:10",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "仁德區保安路一段與二仁路一段口 空污",
+    "address_string": "仁德區保安路一段二仁路一段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-17 21:28:03",
+    "expected_datetime": "2018-08-16 20:38:00"
+}
