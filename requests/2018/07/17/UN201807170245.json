@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807170245",
+    "requested_datetime": "2018-07-17 17:42:44",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區正強街和正義街口  違規停車",
+    "address_string": "永康區正強街正義街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-17 17:48:10",
+    "expected_datetime": "2018-08-16 17:42:44"
+}
