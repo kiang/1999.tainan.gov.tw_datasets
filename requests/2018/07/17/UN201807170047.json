@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807170047",
+    "requested_datetime": "2018-07-17 08:58:02",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "安南區長和路一段1巷河堤上 慢的標誌",
+    "address_string": "安南區長和路一段1巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-17 10:23:18",
+    "expected_datetime": "2018-08-16 08:55:00"
+}

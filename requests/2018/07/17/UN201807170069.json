@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807170069",
+    "requested_datetime": "2018-07-17 09:57:50",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "安南區公學路四段126巷122弄8號 妨害安寧",
+    "address_string": "安南區公學路四段126巷122弄8號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-17 10:53:43",
+    "expected_datetime": "2018-08-16 09:56:00"
+}
