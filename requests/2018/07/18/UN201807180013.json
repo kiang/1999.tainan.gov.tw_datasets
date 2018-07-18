@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807180013",
+    "requested_datetime": "2018-07-18 07:25:30",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "環境髒亂",
+    "description": "南區國民路27號,回收物佔用騎樓",
+    "address_string": "南區國民路27號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-18 07:43:00",
+    "expected_datetime": "2018-08-17 07:24:00"
+}
