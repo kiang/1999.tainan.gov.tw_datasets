@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807180399",
+    "requested_datetime": "2018-07-18 22:53:14",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "安平區平通路430號 噪音舉發",
+    "address_string": "安平區平通路430號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-18 23:48:07",
+    "expected_datetime": "2018-08-17 22:53:14"
+}

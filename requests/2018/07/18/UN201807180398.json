@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807180398",
+    "requested_datetime": "2018-07-18 22:48:26",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "南區明興路1181巷172號旁 漏水",
+    "address_string": "南區明興路1181巷172號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-18 23:48:06",
+    "expected_datetime": "2018-08-17 22:46:00"
+}

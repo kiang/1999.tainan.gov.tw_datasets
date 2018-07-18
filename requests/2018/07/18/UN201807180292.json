@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807180292",
+    "requested_datetime": "2018-07-18 17:20:36",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "仁德區義林南路和崑崙路（應為街）口，機車道上 道路散落物",
+    "address_string": "仁德區義林南路崑崙街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-18 23:13:32",
+    "expected_datetime": "2018-08-17 17:18:00"
+}
