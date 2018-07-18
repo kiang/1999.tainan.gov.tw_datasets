@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807180130",
+    "requested_datetime": "2018-07-18 11:30:53",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "人孔蓋或溝蓋聲響鬆動",
+    "description": "北區西門路三段58號  汙水孔蓋遺失",
+    "address_string": "北區西門路三段58號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-18 13:02:59",
+    "expected_datetime": "2018-08-17 11:30:00"
+}
