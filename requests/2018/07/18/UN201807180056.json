@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807180056",
+    "requested_datetime": "2018-07-18 09:20:28",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "環境髒亂",
+    "description": "永康區蔦松一街180巷50號後面,環境髒亂",
+    "address_string": "永康區蔦松一街180巷50號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-18 12:53:03",
+    "expected_datetime": "2018-08-17 09:18:00"
+}
