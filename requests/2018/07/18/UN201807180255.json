@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807180255",
+    "requested_datetime": "2018-07-18 16:06:22",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "環境髒亂",
+    "description": "北區大武街133巷近路口 垃圾清理",
+    "address_string": "北區大武街133巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-18 16:13:19",
+    "expected_datetime": "2018-08-17 16:02:00"
+}
