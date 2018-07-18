@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807180330",
+    "requested_datetime": "2018-07-18 19:14:11",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "歸仁區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "歸仁區八甲里大仁五街 路燈故障閃爍",
+    "address_string": "歸仁區八甲里大仁五街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-18 19:53:05",
+    "expected_datetime": "2018-08-17 19:11:00"
+}
