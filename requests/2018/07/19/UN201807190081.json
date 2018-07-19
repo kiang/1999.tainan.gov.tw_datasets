@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807190081",
+    "requested_datetime": "2018-07-19 10:12:03",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "下營區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面掏空、塌陷",
+    "description": "下營區南63線過麻豆大排  道路塌陷",
+    "address_string": "下營區南63線",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-19 12:51:10",
+    "expected_datetime": "2018-08-18 10:09:00"
+}

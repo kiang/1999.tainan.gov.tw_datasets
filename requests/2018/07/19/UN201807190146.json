@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807190146",
+    "requested_datetime": "2018-07-19 11:56:51",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區東門路跟崇學路  紅線違停",
+    "address_string": "東區東門路崇學路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-19 12:01:11",
+    "expected_datetime": "2018-08-18 11:54:00"
+}
