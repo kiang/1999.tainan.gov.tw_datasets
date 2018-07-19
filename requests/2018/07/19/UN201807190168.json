@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807190168",
+    "requested_datetime": "2018-07-19 12:33:26",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "仁德區上崙街352號附近 噪音",
+    "address_string": "仁德區上崙街352號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-19 15:11:16",
+    "expected_datetime": "2018-08-18 12:28:00"
+}
