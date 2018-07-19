@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807190312",
+    "requested_datetime": "2018-07-19 18:04:05",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "中西區府前路跟康樂街口 坑洞",
+    "address_string": "中西區府前路康樂街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-19 18:41:35",
+    "expected_datetime": "2018-08-18 18:03:00"
+}

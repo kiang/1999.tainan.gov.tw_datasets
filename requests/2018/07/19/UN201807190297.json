@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201807190296",
-    "requested_datetime": "2018-07-19 17:30:26",
+    "service_request_id": "UN201807190297",
+    "requested_datetime": "2018-07-19 17:31:42",
     "status": "已完工",
     "keyword": "0",
     "area": "中西區",
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "中西區友愛東街30到36號違規停車",
-    "address_string": "中西區友愛東街30號",
+    "description": "中西區衛民街56號 違規停車",
+    "address_string": "中西區衛民街56號",
     "lat": {},
     "long": {},
     "service_notice": {},
     "updated_datetime": "2018-07-19 17:56:22",
-    "expected_datetime": "2018-08-18 17:30:26"
+    "expected_datetime": "2018-08-18 17:31:42"
 }
