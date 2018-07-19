@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807190396",
+    "requested_datetime": "2018-07-19 21:00:08",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "永康區中正路279巷口 妨害安寧",
+    "address_string": "永康區中正路279巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-19 21:26:19",
+    "expected_datetime": "2018-08-18 20:58:00"
+}

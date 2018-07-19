@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807190360",
+    "requested_datetime": "2018-07-19 19:25:20",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "仁德區中洲里 停電",
+    "address_string": "仁德區中洲里",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-19 21:31:18",
+    "expected_datetime": "2018-08-18 19:25:20"
+}
