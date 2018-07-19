@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807190278",
+    "requested_datetime": "2018-07-19 16:55:05",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "永康區正南三路33號 佔用道路",
+    "address_string": "永康區正南三路33號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-19 16:56:18",
+    "expected_datetime": "2018-08-18 16:53:00"
+}
