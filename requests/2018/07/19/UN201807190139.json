@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807190139",
+    "requested_datetime": "2018-07-19 11:29:01",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "寬頻管線、孔蓋損壞",
+    "description": "中西區西門路二段304號 寬頻噪音",
+    "address_string": "中西區西門路二段304號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-19 11:51:27",
+    "expected_datetime": "2018-08-18 11:28:00"
+}
