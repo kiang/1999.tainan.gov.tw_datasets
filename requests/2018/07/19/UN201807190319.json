@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807190319",
+    "requested_datetime": "2018-07-19 18:23:12",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區永福路的和意路口以及樹林街口之間 違規停車",
+    "address_string": "永福路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-19 19:11:46",
+    "expected_datetime": "2018-08-18 18:23:12"
+}
