@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807190270",
+    "requested_datetime": "2018-07-19 16:33:05",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區林森路二段192巷50弄和24弄 違規停車",
+    "address_string": "東區林森路二段192巷50弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-19 16:36:13",
+    "expected_datetime": "2018-08-18 16:31:00"
+}

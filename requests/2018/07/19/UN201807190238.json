@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807190238",
+    "requested_datetime": "2018-07-19 15:32:43",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區公園路375之6號，文林補習班前 違停",
+    "address_string": "北區公園路375之6號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-19 15:56:18",
+    "expected_datetime": "2018-08-18 15:32:00"
+}
