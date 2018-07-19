@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807190415",
+    "requested_datetime": "2018-07-19 22:40:53",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "仁德區十鼓往省道，文賢路一段附近，虎山橋旁小路 路面坑洞",
+    "address_string": "仁德區虎山橋",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-20 02:26:13",
+    "expected_datetime": "2018-08-18 22:38:00"
+}
