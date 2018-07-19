@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807190273",
+    "requested_datetime": "2018-07-19 16:42:03",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "安平區怡平路140巷17弄和文平路口，三角窗地帶 佔用道路",
+    "address_string": "安平區怡平路140巷17弄文平路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-19 21:56:15",
+    "expected_datetime": "2018-08-18 16:39:00"
+}

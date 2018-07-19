@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807190405",
+    "requested_datetime": "2018-07-19 21:49:17",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "東區崇明一街 路燈故障",
+    "address_string": "東區崇明一街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-19 22:21:26",
+    "expected_datetime": "2018-08-18 21:48:00"
+}
