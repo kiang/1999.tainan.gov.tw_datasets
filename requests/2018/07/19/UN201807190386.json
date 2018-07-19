@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807190386",
+    "requested_datetime": "2018-07-19 20:28:38",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "東區立德四路49號前 路燈不亮",
+    "address_string": "東區立德四路49號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-20 01:51:13",
+    "expected_datetime": "2018-08-18 20:28:00"
+}
