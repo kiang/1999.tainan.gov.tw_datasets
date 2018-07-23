@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807220127",
+    "requested_datetime": "2018-07-22 14:15:37",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "玉井區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "玉井區中正路142號前  違規停車",
+    "address_string": "玉井區中正路142號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-22 19:21:21",
+    "expected_datetime": "2018-08-21 14:14:00"
+}

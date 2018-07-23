@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807210049",
+    "requested_datetime": "2018-07-21 09:27:30",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "安南區安和路四段檳榔攤的廣告招牌 占用道路",
+    "address_string": "安南區安和路四段330號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-21 12:16:16",
+    "expected_datetime": "2018-08-20 09:27:30"
+}

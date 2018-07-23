@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807200317",
+    "requested_datetime": "2018-07-20 19:21:16",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "下營區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "下營區仁中街43巷13弄5號  路燈不亮",
+    "address_string": "下營區仁中街43巷13弄5號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-07-23 15:41:21",
+    "expected_datetime": "2018-08-19 19:20:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807210207",
+    "requested_datetime": "2018-07-21 15:53:59",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "永康區中正北路946號凱泰文創工廠  空氣汙染",
+    "address_string": "永康區中正北路946號凱泰文創工廠",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-07-23 16:01:24",
+    "expected_datetime": "2018-08-20 15:50:00"
+}

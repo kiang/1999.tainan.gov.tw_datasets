@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807220129",
+    "requested_datetime": "2018-07-22 14:19:39",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "中西區民權路往永福路交接口  交通疏導",
+    "address_string": "中西區民權路永福路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-22 18:11:27",
+    "expected_datetime": "2018-08-21 14:19:00"
+}

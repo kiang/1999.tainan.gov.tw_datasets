@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807220267",
+    "requested_datetime": "2018-07-22 22:43:47",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "北區公園南路與興華街的十字路口的人行號誌 交通運輸",
+    "address_string": "北區公園南路*興華街",
+    "lat": "22.9846534",
+    "long": "120.2166589",
+    "service_notice": {},
+    "updated_datetime": "2018-07-23 13:46:21",
+    "expected_datetime": "2018-08-21 22:43:47"
+}

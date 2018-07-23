@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807210091",
+    "requested_datetime": "2018-07-21 11:20:10",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區南園街101巷巷口 違規停車",
+    "address_string": "北區南園街101巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-21 13:01:00",
+    "expected_datetime": "2018-08-20 11:18:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807210318",
+    "requested_datetime": "2018-07-21 19:46:29",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新市區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "新市區港墘里長安街跟華美街  道路散落物",
+    "address_string": "新市區長安街華美街",
+    "lat": "23.0737986",
+    "long": "120.2984617",
+    "service_notice": {},
+    "updated_datetime": "2018-07-23 15:46:28",
+    "expected_datetime": "2018-08-20 19:46:00"
+}

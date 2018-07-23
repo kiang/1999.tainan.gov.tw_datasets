@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807230172",
+    "requested_datetime": "2018-07-23 11:54:28",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "歸仁區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "歸仁區民族北街17巷與民族北街口  佔用道路",
+    "address_string": "歸仁區民族北街17巷民族北街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-23 18:41:33",
+    "expected_datetime": "2018-08-22 11:49:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807200165",
+    "requested_datetime": "2018-07-20 13:28:51",
+    "status": {},
+    "keyword": "0",
+    "area": "新化區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "新化區崙子頂432號  號誌故障",
+    "address_string": "新化區崙子頂432號",
+    "lat": "23.022223",
+    "long": "120.283662",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-19 13:26:00"
+}

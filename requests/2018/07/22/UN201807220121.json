@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807220121",
+    "requested_datetime": "2018-07-22 13:43:58",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "寬頻管線、孔蓋損壞",
+    "description": "永康區復興路419號對面 寬頻孔蓋鬆動",
+    "address_string": "永康區復興路419號對面",
+    "lat": "22.9981158",
+    "long": "120.2400902",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-21 13:42:00"
+}

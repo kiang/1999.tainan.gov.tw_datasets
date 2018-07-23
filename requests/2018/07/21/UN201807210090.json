@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807210090",
+    "requested_datetime": "2018-07-21 11:15:13",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "環境髒亂",
+    "description": "中西區友愛街25號 環境髒亂",
+    "address_string": "友愛街25號",
+    "lat": "22.9947618",
+    "long": "120.2095867",
+    "service_notice": {},
+    "updated_datetime": "2018-07-23 15:01:21",
+    "expected_datetime": "2018-08-20 11:15:13"
+}

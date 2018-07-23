@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807200314",
+    "requested_datetime": "2018-07-20 19:18:07",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "北區長榮路五段383巷 號誌故障",
+    "address_string": "北區長榮路五段383巷",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-07-23 11:56:13",
+    "expected_datetime": "2018-08-19 19:16:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807220154",
+    "requested_datetime": "2018-07-22 15:51:34",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面下陷、凹陷",
+    "description": "中西區府前路一段369號前 路面凹陷",
+    "address_string": "中西區府前路一段369號前",
+    "lat": "22.9900061",
+    "long": "120.19897",
+    "service_notice": {},
+    "updated_datetime": "2018-07-23 15:01:22",
+    "expected_datetime": "2018-08-21 15:50:00"
+}

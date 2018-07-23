@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807220243",
+    "requested_datetime": "2018-07-22 20:33:19",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區府前路二段151號 違規停車",
+    "address_string": "府前路二段151號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-22 22:16:18",
+    "expected_datetime": "2018-08-21 20:33:19"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807200091",
+    "requested_datetime": "2018-07-20 10:41:04",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "騎樓舉發",
+    "agency": "台南市政府",
+    "subproject": "騎樓舉發",
+    "description": "東區小東路勝利路口 騎樓舉發",
+    "address_string": "東區小東路勝利路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-20 10:51:30",
+    "expected_datetime": "2018-08-19 10:41:04"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807210087",
+    "requested_datetime": "2018-07-21 11:10:44",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安定區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "安定交流道北上匝道入口處 號誌故障",
+    "address_string": "安定交流道北上匝道",
+    "lat": "23.095298",
+    "long": "120.2166519",
+    "service_notice": {},
+    "updated_datetime": "2018-07-23 08:26:42",
+    "expected_datetime": "2018-08-20 11:10:44"
+}

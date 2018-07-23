@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807210055",
+    "requested_datetime": "2018-07-21 09:43:55",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "北區武聖路138號   空污",
+    "address_string": "北區武聖路138號",
+    "lat": "23.0065371",
+    "long": "120.1902623",
+    "service_notice": {},
+    "updated_datetime": "2018-07-23 15:46:26",
+    "expected_datetime": "2018-08-20 09:43:00"
+}

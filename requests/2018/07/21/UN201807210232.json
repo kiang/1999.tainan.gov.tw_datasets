@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807210232",
+    "requested_datetime": "2018-07-21 17:00:36",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區民生路一段8-10號間 違規停車",
+    "address_string": "民生路一段8號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-21 22:01:37",
+    "expected_datetime": "2018-08-20 17:00:36"
+}

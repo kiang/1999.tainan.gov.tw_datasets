@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807220139",
+    "requested_datetime": "2018-07-22 15:04:28",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "永康區永興路永二街 號誌故障",
+    "address_string": "永康區永興路永二街",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-07-23 18:16:37",
+    "expected_datetime": "2018-08-21 15:04:00"
+}

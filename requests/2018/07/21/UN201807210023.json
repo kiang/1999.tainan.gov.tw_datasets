@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807210023",
+    "requested_datetime": "2018-07-21 08:19:32",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "楠西區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面掏空、塌陷",
+    "description": "楠西區龜丹里補頭宅草籽坪半山腰  農路塌陷",
+    "address_string": "楠西區龜丹里補頭宅草籽坪",
+    "lat": "23.1325697",
+    "long": "120.5221524",
+    "service_notice": {},
+    "updated_datetime": "2018-07-23 11:41:27",
+    "expected_datetime": "2018-08-20 08:18:00"
+}

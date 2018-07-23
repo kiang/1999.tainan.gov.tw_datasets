@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807220163",
+    "requested_datetime": "2018-07-22 16:32:29",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區文化中心 妨害安寧",
+    "address_string": "東區文化中心",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-22 18:31:29",
+    "expected_datetime": "2018-08-21 16:31:00"
+}

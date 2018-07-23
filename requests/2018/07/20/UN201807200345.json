@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807200345",
+    "requested_datetime": "2018-07-20 21:04:48",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "永康區永康火車站附近飼料工廠 空氣汙染",
+    "address_string": "永康區永康火車站",
+    "lat": "23.038376",
+    "long": "120.2535255",
+    "service_notice": {},
+    "updated_datetime": "2018-07-23 15:56:27",
+    "expected_datetime": "2018-08-19 21:02:00"
+}

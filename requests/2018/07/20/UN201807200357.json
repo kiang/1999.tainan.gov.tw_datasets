@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807200357",
+    "requested_datetime": "2018-07-20 22:16:46",
+    "status": {},
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "仁德區大同路三段490巷內 路面坑洞",
+    "address_string": "仁德區大同路三段490巷",
+    "lat": "22.9569316",
+    "long": "120.2174804",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-19 22:16:00"
+}

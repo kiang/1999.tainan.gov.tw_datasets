@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807200201",
+    "requested_datetime": "2018-07-20 14:58:06",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "安南區安吉路跟新吉工業區路口(公學路一段124巷 ) 佔用道路",
+    "address_string": "安南區安吉路公學路一段124巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-20 16:51:18",
+    "expected_datetime": "2018-08-19 14:57:00"
+}

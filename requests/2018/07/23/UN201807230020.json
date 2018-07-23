@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807230020",
+    "requested_datetime": "2018-07-23 08:06:21",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "北區公園南路跟西華街路口  號誌故障",
+    "address_string": "北區公園南路西華街路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-23 13:46:22",
+    "expected_datetime": "2018-08-22 08:03:00"
+}

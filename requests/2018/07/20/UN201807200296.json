@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807200296",
+    "requested_datetime": "2018-07-20 18:24:34",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區富農街二段43巷與富農街二段交叉路口 違規停車",
+    "address_string": "東區富農街二段43巷富農街二段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-21 06:31:35",
+    "expected_datetime": "2018-08-19 18:24:34"
+}

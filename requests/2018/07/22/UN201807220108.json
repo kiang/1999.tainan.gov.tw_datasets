@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807220108",
+    "requested_datetime": "2018-07-22 13:11:03",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "市區道路路面油漬",
+    "description": "安南區海佃路一段345巷46號 活動中心 路面油漬",
+    "address_string": "安南區海佃路一段345巷46號",
+    "lat": "23.0269439",
+    "long": "120.1895244",
+    "service_notice": {},
+    "updated_datetime": "2018-07-23 13:36:22",
+    "expected_datetime": "2018-08-21 13:10:00"
+}

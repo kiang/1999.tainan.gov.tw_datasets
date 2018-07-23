@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807220071",
+    "requested_datetime": "2018-07-22 11:31:13",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "麻豆區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "麻豆區磚井里141號   道路散落物",
+    "address_string": "麻豆區磚井里141號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-07-23 13:36:22",
+    "expected_datetime": "2018-08-21 11:30:00"
+}

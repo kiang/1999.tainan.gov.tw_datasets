@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807210060",
+    "requested_datetime": "2018-07-21 09:49:46",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "北區南園街101巷21弄7號 噪音",
+    "address_string": "北區南園街101巷21弄7號",
+    "lat": "23.0082095",
+    "long": "120.2260542",
+    "service_notice": {},
+    "updated_datetime": "2018-07-23 15:46:27",
+    "expected_datetime": "2018-08-20 09:48:00"
+}

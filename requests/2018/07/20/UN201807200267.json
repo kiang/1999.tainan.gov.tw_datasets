@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807200267",
+    "requested_datetime": "2018-07-20 17:21:03",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "善化區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "善化區中山路與光復路交叉路口   道路散落物",
+    "address_string": "善化區中山路光復路",
+    "lat": "23.133102",
+    "long": "120.2847194",
+    "service_notice": {},
+    "updated_datetime": "2018-07-23 14:41:39",
+    "expected_datetime": "2018-08-19 17:19:00"
+}

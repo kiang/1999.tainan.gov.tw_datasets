@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807200358",
+    "requested_datetime": "2018-07-20 22:18:02",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區公園北路98-5號 佔用道路",
+    "address_string": "北區公園北路98-5號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-21 06:46:15",
+    "expected_datetime": "2018-08-19 22:18:02"
+}

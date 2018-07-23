@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807200172",
+    "requested_datetime": "2018-07-20 13:42:17",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "中西區公園南路*海安路*臨安路  散落物",
+    "address_string": "中西區公園南路*海安路*臨安路",
+    "lat": "22.9968325",
+    "long": "120.1972877",
+    "service_notice": {},
+    "updated_datetime": "2018-07-23 13:41:16",
+    "expected_datetime": "2018-08-19 13:40:00"
+}

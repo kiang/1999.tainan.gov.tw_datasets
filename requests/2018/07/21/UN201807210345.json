@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807210345",
+    "requested_datetime": "2018-07-21 21:29:28",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區東豐路305巷25弄29號前 違規停車",
+    "address_string": "北區東豐路305巷25弄29號",
+    "lat": "23.0034661",
+    "long": "120.223041",
+    "service_notice": {},
+    "updated_datetime": "2018-07-22 07:31:38",
+    "expected_datetime": "2018-08-20 21:28:00"
+}

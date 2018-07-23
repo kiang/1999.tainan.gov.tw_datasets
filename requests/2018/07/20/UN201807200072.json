@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807200072",
+    "requested_datetime": "2018-07-20 09:53:17",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "善化區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "善化區陽光大道龍目井路口 佔用道路",
+    "address_string": "善化區陽光大道龍目井路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-20 12:02:09",
+    "expected_datetime": "2018-08-19 09:49:00"
+}

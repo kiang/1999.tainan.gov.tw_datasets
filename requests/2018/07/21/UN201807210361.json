@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807210361",
+    "requested_datetime": "2018-07-21 22:37:16",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "永康區永安路105巷40弄2號前巷口 道路維修",
+    "address_string": "永康區永安路105巷40弄2號",
+    "lat": "23.0435771",
+    "long": "120.2450791",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-20 22:37:16"
+}

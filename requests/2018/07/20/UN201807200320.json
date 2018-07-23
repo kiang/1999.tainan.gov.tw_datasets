@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807200320",
+    "requested_datetime": "2018-07-20 19:23:51",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "南區灣裡路62巷*省躬一街 路燈故障",
+    "address_string": "南區灣裡路62巷*省躬一街",
+    "lat": "23.1342683",
+    "long": "120.2822141",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-19 19:23:00"
+}

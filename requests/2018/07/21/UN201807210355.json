@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807210355",
+    "requested_datetime": "2018-07-21 22:06:30",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "北區大港街124巷36-40號間 妨害安寧",
+    "address_string": "北區大港街124巷36-40號間",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-21 22:41:27",
+    "expected_datetime": "2018-08-20 22:06:30"
+}

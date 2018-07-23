@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807200211",
+    "requested_datetime": "2018-07-20 15:23:13",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "北區中華北路一段76號 妨害安寧",
+    "address_string": "北區中華北路一段76號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-20 16:51:18",
+    "expected_datetime": "2018-08-19 15:20:00"
+}

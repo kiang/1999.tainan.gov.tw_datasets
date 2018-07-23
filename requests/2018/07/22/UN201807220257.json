@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807220257",
+    "requested_datetime": "2018-07-22 21:33:31",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區公園南路靠近西華街 違規停車",
+    "address_string": "北區公園南路靠近西華街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-22 22:11:18",
+    "expected_datetime": "2018-08-21 21:33:31"
+}

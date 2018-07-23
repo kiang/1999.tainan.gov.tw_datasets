@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807220179",
+    "requested_datetime": "2018-07-22 17:00:02",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "歸仁區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "歸仁區中正南路上和歸仁八路 號誌故障",
+    "address_string": "歸仁區中正南路歸仁八路",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-07-23 17:46:16",
+    "expected_datetime": "2018-08-21 16:59:00"
+}

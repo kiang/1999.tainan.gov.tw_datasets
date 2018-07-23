@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807200323",
+    "requested_datetime": "2018-07-20 19:30:12",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "仁德區大同路三段768號，新竹貨運前 號誌故障",
+    "address_string": "仁德區大同路三段768號",
+    "lat": "22.9488848",
+    "long": "120.2185993",
+    "service_notice": {},
+    "updated_datetime": "2018-07-23 17:06:21",
+    "expected_datetime": "2018-08-19 19:25:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807210022",
+    "requested_datetime": "2018-07-21 08:17:19",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "安南區政安路250巷202號前 號誌故障",
+    "address_string": "安南區政安路250巷202號",
+    "lat": "23.0361314",
+    "long": "120.2197706",
+    "service_notice": {},
+    "updated_datetime": "2018-07-23 12:01:19",
+    "expected_datetime": "2018-08-20 08:16:00"
+}

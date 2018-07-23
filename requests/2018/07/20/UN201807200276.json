@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807200276",
+    "requested_datetime": "2018-07-20 17:39:51",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區西門路一段與大成路口 違規停車",
+    "address_string": "南區西門路一段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-21 06:26:24",
+    "expected_datetime": "2018-08-19 17:38:00"
+}

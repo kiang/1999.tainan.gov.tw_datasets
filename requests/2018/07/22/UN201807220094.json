@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807220094",
+    "requested_datetime": "2018-07-22 12:35:02",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區永福路一段108巷口 違停",
+    "address_string": "中西區永福路一段108巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-22 15:21:13",
+    "expected_datetime": "2018-08-21 12:34:00"
+}

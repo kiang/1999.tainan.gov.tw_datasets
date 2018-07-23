@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807210331",
+    "requested_datetime": "2018-07-21 20:41:17",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": {},
+    "description": "安南區長和路一段永安路口永安橋 路燈故障",
+    "address_string": "安南區長和路一段永安路",
+    "lat": "22.9805565",
+    "long": "120.2080649",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-20 20:40:00"
+}

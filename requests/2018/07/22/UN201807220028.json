@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807220028",
+    "requested_datetime": "2018-07-22 09:07:47",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "寬頻管線、孔蓋損壞",
+    "description": "南區大成路一段2號 寬頻管線、孔蓋損壞",
+    "address_string": "南區大成路一段2號",
+    "lat": "22.975216",
+    "long": "120.2031958",
+    "service_notice": {},
+    "updated_datetime": "2018-07-23 17:01:26",
+    "expected_datetime": "2018-08-21 09:07:00"
+}

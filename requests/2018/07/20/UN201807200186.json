@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807200186",
+    "requested_datetime": "2018-07-20 14:24:19",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區崇學路123號~133號 違規停車",
+    "address_string": "東區崇學路123號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-20 16:46:34",
+    "expected_datetime": "2018-08-19 14:23:00"
+}

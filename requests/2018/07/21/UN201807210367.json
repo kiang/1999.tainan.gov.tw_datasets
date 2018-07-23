@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807210367",
+    "requested_datetime": "2018-07-21 23:33:29",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區中華南路二段53巷跟永成路二段881巷口 違規停車",
+    "address_string": "南區永成路二段881巷62號",
+    "lat": "22.9614822",
+    "long": "120.1936105",
+    "service_notice": {},
+    "updated_datetime": "2018-07-22 07:26:21",
+    "expected_datetime": "2018-08-20 23:33:29"
+}

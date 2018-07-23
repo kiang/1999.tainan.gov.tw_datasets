@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807210131",
+    "requested_datetime": "2018-07-21 13:01:09",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "中西區民權路三段109號 佔用道路",
+    "address_string": "台南市中西區民權路3段109號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-21 18:41:24",
+    "expected_datetime": "2018-08-20 13:01:09"
+}

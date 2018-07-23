@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807210339",
+    "requested_datetime": "2018-07-21 20:57:33",
+    "status": {},
+    "keyword": "0",
+    "area": "七股區",
+    "service_name": "路燈故障",
+    "agency": "臺南市七股區公所",
+    "subproject": "9盞以下路燈故障",
+    "description": "七股區義合里台17現*南38線，台糖加油站往竹橋國中方向 路燈故障",
+    "address_string": "七股區義合里台17現*南38線",
+    "lat": "23.1035405",
+    "long": "120.1316599",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-20 20:52:00"
+}

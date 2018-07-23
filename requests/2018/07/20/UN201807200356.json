@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807200356",
+    "requested_datetime": "2018-07-20 22:13:04",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "南區大同路三段 路燈故障",
+    "address_string": "南區大同路三段",
+    "lat": "22.9522217",
+    "long": "120.2181112",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-19 22:10:00"
+}

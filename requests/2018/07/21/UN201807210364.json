@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807210364",
+    "requested_datetime": "2018-07-21 23:05:18",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "下營區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "下營區紅甲里內 妨害安寧",
+    "address_string": "下營區紅甲里內",
+    "lat": "22.995302",
+    "long": "120.221185",
+    "service_notice": {},
+    "updated_datetime": "2018-07-22 07:31:40",
+    "expected_datetime": "2018-08-20 23:01:00"
+}
