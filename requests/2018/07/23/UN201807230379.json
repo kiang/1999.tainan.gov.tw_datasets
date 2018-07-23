@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201807230379",
     "requested_datetime": "2018-07-23 21:30:35",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "中西區",
     "service_name": "噪音舉發",
@@ -9,9 +9,9 @@
     "subproject": "妨害安寧",
     "description": "中西區府前路一段61巷23號前，開山公園內 妨害安寧",
     "address_string": "台南市中西區府前路一段61巷23號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9880207",
+    "long": "120.2097841",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-07-24 01:31:18",
     "expected_datetime": "2018-08-22 21:30:35"
 }

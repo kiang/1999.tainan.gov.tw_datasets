@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201807230396",
     "requested_datetime": "2018-07-23 22:37:24",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "佳里區",
     "service_name": "噪音舉發",
@@ -9,9 +9,9 @@
     "subproject": "妨害安寧",
     "description": "佳里區佳東路888之1號保安宮 妨害安寧",
     "address_string": "佳里區佳東路888之1號",
-    "lat": {},
-    "long": {},
+    "lat": "23.1668287",
+    "long": "120.1822151",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-07-24 01:26:13",
     "expected_datetime": "2018-08-22 22:37:24"
 }

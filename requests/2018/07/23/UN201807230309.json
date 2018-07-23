@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807230309",
+    "requested_datetime": "2018-07-23 18:00:40",
+    "status": {},
+    "keyword": "0",
+    "area": "七股區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "七股區曾文溪防汛道路 路燈故障",
+    "address_string": "七股區曾文溪防汛道路",
+    "lat": "23.0519287",
+    "long": "120.068364",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-22 18:00:40"
+}
