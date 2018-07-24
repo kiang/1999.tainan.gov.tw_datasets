@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807240317",
+    "requested_datetime": "2018-07-24 23:00:07",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區民族路二段2號 違規停車",
+    "address_string": "民族路二段2號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-08-23 23:00:07"
+}
