@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "新市區中正路374號 違規停車 佔用道路",
     "address_string": "中正路374號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0354801",
+    "long": "120.3082884",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-23 19:37:22"

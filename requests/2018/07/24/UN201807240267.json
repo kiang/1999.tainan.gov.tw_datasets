@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新市區中正路324號 違規停車",
     "address_string": "中正路324號",
-    "lat": {},
-    "long": {},
+    "lat": "22.993652",
+    "long": "120.19511",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-23 19:01:49"
