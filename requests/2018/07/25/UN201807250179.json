@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807250179",
+    "requested_datetime": "2018-07-25 13:05:22",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "東區東門路三段37巷12弄35號 佔用道路",
+    "address_string": "東區東門路三段37巷12弄35號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-07-25 16:51:18",
+    "expected_datetime": "2018-08-24 13:02:00"
+}
