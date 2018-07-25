@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201807250360",
     "requested_datetime": "2018-07-25 21:49:15",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "東區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "東區林森路二段103號後方 違規停車",
     "address_string": "東區林森路二段103號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9899093",
+    "long": "120.2237298",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-07-26 01:11:18",
     "expected_datetime": "2018-08-24 21:46:00"
 }

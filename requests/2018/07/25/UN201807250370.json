@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201807250370",
     "requested_datetime": "2018-07-25 22:49:05",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "南區",
     "service_name": "噪音舉發",
@@ -9,9 +9,9 @@
     "subproject": "妨害安寧",
     "description": "南區金華路一段妨害安寧",
     "address_string": "南區金華路一段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9683628",
+    "long": "120.1902821",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-07-26 01:11:19",
     "expected_datetime": "2018-08-24 22:48:00"
 }

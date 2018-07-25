@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "佳里區六安里22之26號 路燈故障",
     "address_string": "佳里區六安里22之26號",
-    "lat": {},
-    "long": {},
+    "lat": "23.173179",
+    "long": "120.1792288",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-24 10:31:00"
