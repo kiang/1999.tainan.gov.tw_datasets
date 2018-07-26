@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "東區生產路  空氣汙染",
     "address_string": "東區生產路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9649523",
+    "long": "120.2247004",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-25 16:47:00"

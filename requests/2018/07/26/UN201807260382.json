@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "東區自由路三段與裕文路口，裕文路上 號誌故障",
     "address_string": "東區自由路三段裕文路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9997281",
+    "long": "120.2270277",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-25 21:40:00"
