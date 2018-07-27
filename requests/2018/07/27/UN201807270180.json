@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區北安路二段32巷口 路燈故障",
     "address_string": "安南區北安路二段32巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.0254682",
+    "long": "120.2064066",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-26 11:57:00"

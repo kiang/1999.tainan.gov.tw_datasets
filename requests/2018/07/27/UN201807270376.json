@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201807270376",
+    "requested_datetime": "2018-07-27 20:00:22",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "東區崇善五街8～20號 佔用道路",
+    "address_string": "東區崇善五街8號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-07-28 01:36:18",
+    "expected_datetime": "2018-08-26 19:59:00"
+}

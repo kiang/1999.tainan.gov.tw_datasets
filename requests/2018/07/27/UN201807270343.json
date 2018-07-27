@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201807270343",
     "requested_datetime": "2018-07-27 18:20:43",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "東區",
     "service_name": "交通運輸",
@@ -9,9 +9,9 @@
     "subproject": "佔用道路",
     "description": "東區衛國區114巷2-6號 佔用道路",
     "address_string": "東區衛國區114巷2-6號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9584337",
+    "long": "120.2838076",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-07-28 01:16:41",
     "expected_datetime": "2018-08-26 18:19:00"
 }

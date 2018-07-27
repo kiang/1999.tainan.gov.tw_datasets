@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "歸仁區中正十六街2巷22號 路燈故障",
     "address_string": "歸仁區中正十六街2巷22號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9584337",
+    "long": "120.2838076",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-26 17:55:00"

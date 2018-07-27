@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201807270335",
     "requested_datetime": "2018-07-27 18:02:31",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "永康區中華路58巷76號 違規停車",
     "address_string": "中華路58巷76號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0004239",
+    "long": "120.1924714",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-07-28 01:11:19",
     "expected_datetime": "2018-08-26 18:02:31"
 }

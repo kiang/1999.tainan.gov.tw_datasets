@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201807270352",
     "requested_datetime": "2018-07-27 18:39:41",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "南區",
     "service_name": "交通運輸",
@@ -9,9 +9,9 @@
     "subproject": "佔用道路",
     "description": "南區新建路18巷1號 佔用道路",
     "address_string": "南區新建路18巷1號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9997281",
+    "long": "120.2270277",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-07-28 01:16:41",
     "expected_datetime": "2018-08-26 18:37:00"
 }
