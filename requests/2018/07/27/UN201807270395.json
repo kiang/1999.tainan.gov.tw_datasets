@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區中華路麥當勞 違停",
     "address_string": "永康區中華路162號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0036845",
+    "long": "120.2355079",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-26 20:49:00"
