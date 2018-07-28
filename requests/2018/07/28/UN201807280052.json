@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "南區中華西路一段跟新孝路 號誌燈故障",
     "address_string": "南區中華西路一段新孝路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9997281",
+    "long": "120.2270277",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-08-27 09:26:00"
