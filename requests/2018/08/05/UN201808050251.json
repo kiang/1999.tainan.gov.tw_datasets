@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808050251",
+    "requested_datetime": "2018-08-05 21:06:43",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "永康區中華路212巷2號前面 佔用道路",
+    "address_string": "永康區中華路212巷2號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 04:56:21",
+    "expected_datetime": "2018-09-04 21:06:43"
+}

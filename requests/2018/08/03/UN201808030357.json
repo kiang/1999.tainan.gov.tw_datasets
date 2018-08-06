@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808030357",
+    "requested_datetime": "2018-08-03 22:42:12",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "安平區永華路二段靠近健康三街，永華路二段819號正對面，鴻典汽車美容 妨害安寧",
+    "address_string": "安平區永華路二段819號",
+    "lat": "22.9911355",
+    "long": "120.1686912",
+    "service_notice": {},
+    "updated_datetime": "2018-08-04 04:06:35",
+    "expected_datetime": "2018-09-02 22:40:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808060386",
+    "requested_datetime": "2018-08-06 20:34:26",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區中華東路二段295巷39號 違停",
+    "address_string": "東區中華東路二段295巷39號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-05 20:32:00"
+}

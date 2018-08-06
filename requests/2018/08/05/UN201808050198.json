@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808050198",
+    "requested_datetime": "2018-08-05 17:51:39",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "新營火車站人行道違規停車",
+    "address_string": "新營火車站人行道",
+    "lat": "23.3068099",
+    "long": "120.3231812",
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 04:06:13",
+    "expected_datetime": "2018-09-04 17:51:39"
+}

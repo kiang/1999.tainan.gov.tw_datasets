@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808050085",
+    "requested_datetime": "2018-08-05 11:41:50",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌故障",
+    "description": "新營區太子路*公園路 號誌故障",
+    "address_string": "新營區太子路*公園路",
+    "lat": "23.3017611",
+    "long": "120.2955862",
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 08:21:34",
+    "expected_datetime": "2018-09-04 11:39:00"
+}

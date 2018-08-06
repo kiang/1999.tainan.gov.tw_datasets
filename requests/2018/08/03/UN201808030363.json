@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808030363",
+    "requested_datetime": "2018-08-03 23:21:15",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "中西區臨安路一段62號民宿 妨害安寧",
+    "address_string": "中西區臨安路一段62號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-08-04 17:46:32",
+    "expected_datetime": "2018-09-02 23:21:15"
+}

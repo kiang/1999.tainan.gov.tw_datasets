@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808050047",
+    "requested_datetime": "2018-08-05 09:45:50",
+    "status": {},
+    "keyword": "0",
+    "area": "安定區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "安定區蘇林里1-22號 路面砂石揚塵",
+    "address_string": "安定區蘇林里1-22號",
+    "lat": "23.1227334",
+    "long": "120.2584844",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-04 09:42:00"
+}

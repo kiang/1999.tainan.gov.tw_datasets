@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808030004",
+    "requested_datetime": "2018-08-03 00:50:29",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "南區仁安路20號 妨害安寧",
+    "address_string": "安南區仁安路20號",
+    "lat": "23.0495474",
+    "long": "120.1752726",
+    "service_notice": {},
+    "updated_datetime": "2018-08-04 03:36:16",
+    "expected_datetime": "2018-09-02 00:50:00"
+}

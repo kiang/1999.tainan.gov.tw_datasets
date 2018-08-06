@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808030308",
+    "requested_datetime": "2018-08-03 19:17:37",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安定區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安定區23.075467, 120.213049,省道19往南方向（地圖定位為 亞弘電科技股份有限公司 安定區中沙里沙崙35號 附近） 違規停車",
+    "address_string": "安定區中沙里沙崙35號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-03 21:21:28",
+    "expected_datetime": "2018-09-02 19:17:37"
+}

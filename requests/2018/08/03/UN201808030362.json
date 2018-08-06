@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808030362",
+    "requested_datetime": "2018-08-03 23:15:06",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "新營區長榮路二段963號對面鐵皮屋 妨害安寧",
+    "address_string": "新營區長榮路二段963號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-08-04 04:06:37",
+    "expected_datetime": "2018-09-02 23:13:00"
+}

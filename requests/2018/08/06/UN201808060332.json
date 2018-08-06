@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808060332",
+    "requested_datetime": "2018-08-06 17:27:05",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "安南區安和路跟台江大道路口 號誌故障",
+    "address_string": "安南區安和路台江大道",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 18:51:21",
+    "expected_datetime": "2018-09-05 17:24:00"
+}

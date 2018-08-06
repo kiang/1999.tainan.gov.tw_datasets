@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808040185",
+    "requested_datetime": "2018-08-04 16:04:27",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區南寧街8號前 違規停車",
+    "address_string": "中西區南寧街8號前",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-04 18:36:36",
+    "expected_datetime": "2018-09-03 16:04:27"
+}

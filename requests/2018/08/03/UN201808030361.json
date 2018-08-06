@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808030361",
+    "requested_datetime": "2018-08-03 22:58:31",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "南區明興路619巷363弄，許先生家 妨害安寧",
+    "address_string": "南區明興路619巷363弄",
+    "lat": "22.9407523",
+    "long": "120.1889709",
+    "service_notice": {},
+    "updated_datetime": "2018-08-04 04:06:37",
+    "expected_datetime": "2018-09-02 22:57:00"
+}

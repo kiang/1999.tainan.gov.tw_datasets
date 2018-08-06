@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808040014",
+    "requested_datetime": "2018-08-04 07:38:34",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "安南區安和路與安和路五段84巷,巷口 號誌故障",
+    "address_string": "安南區安和路安和路五段84巷",
+    "lat": "23.0662256",
+    "long": "120.2196802",
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 13:57:02",
+    "expected_datetime": "2018-09-03 07:34:00"
+}

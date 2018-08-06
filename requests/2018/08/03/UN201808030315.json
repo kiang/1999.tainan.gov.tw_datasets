@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808030315",
+    "requested_datetime": "2018-08-03 19:40:24",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區大橋三街39巷入口處 紅線違停",
+    "address_string": "永康區大橋三街39巷",
+    "lat": "23.0177143",
+    "long": "120.2246333",
+    "service_notice": {},
+    "updated_datetime": "2018-08-04 04:01:18",
+    "expected_datetime": "2018-09-02 19:38:00"
+}

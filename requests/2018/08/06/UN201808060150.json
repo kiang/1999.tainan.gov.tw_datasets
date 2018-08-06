@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808060150",
+    "requested_datetime": "2018-08-06 11:26:41",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區北園街128巷22弄10號 違規停車",
+    "address_string": "北區北園街128巷22弄10號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 16:31:52",
+    "expected_datetime": "2018-09-05 11:26:41"
+}

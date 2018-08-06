@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808050204",
+    "requested_datetime": "2018-08-05 18:07:03",
+    "status": {},
+    "keyword": "0",
+    "area": "後壁區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "後壁區菁豐里106之15號 空氣污染",
+    "address_string": "後壁區菁豐里106之15號",
+    "lat": "23.0640089",
+    "long": "120.2241403",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-04 18:06:00"
+}

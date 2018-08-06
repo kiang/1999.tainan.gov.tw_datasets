@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808030022",
+    "requested_datetime": "2018-08-03 08:03:39",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區文賢三街237號斜對面\/402巷文賢教會側門對面 路燈故障",
+    "address_string": "北區文賢三街237號",
+    "lat": "23.0138786",
+    "long": "120.1981315",
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 08:51:18",
+    "expected_datetime": "2018-09-02 08:01:00"
+}

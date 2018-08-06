@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808040044",
+    "requested_datetime": "2018-08-04 09:07:21",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "中西區忠義路三段22號左邊麗都飯店 空污",
+    "address_string": "中西區忠義路三段22號",
+    "lat": "22.9993063",
+    "long": "120.2053477",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-03 09:04:00"
+}

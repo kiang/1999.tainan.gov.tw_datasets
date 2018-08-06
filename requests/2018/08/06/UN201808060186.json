@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808060186",
+    "requested_datetime": "2018-08-06 12:33:47",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區成功路177號 違停",
+    "address_string": "中西區成功路177號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 16:37:04",
+    "expected_datetime": "2018-09-05 12:33:00"
+}

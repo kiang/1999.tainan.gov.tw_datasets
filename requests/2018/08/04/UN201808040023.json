@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808040023",
+    "requested_datetime": "2018-08-04 08:06:20",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "永康區忠孝路410巷內 噪音",
+    "address_string": "永康區忠孝路410巷",
+    "lat": "23.0185365",
+    "long": "120.2447903",
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 16:26:21",
+    "expected_datetime": "2018-09-03 08:05:00"
+}

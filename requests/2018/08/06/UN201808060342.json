@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808060342",
+    "requested_datetime": "2018-08-06 18:07:32",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區臨安路二段229號 騎樓舉發\/違停",
+    "address_string": "北區臨安路二段229號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 19:26:48",
+    "expected_datetime": "2018-09-05 18:06:00"
+}

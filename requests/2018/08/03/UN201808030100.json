@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808030100",
+    "requested_datetime": "2018-08-03 10:41:20",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "南區國民路217巷1號 佔用道路",
+    "address_string": "南區國民路217巷1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-03 13:46:21",
+    "expected_datetime": "2018-09-02 10:37:00"
+}

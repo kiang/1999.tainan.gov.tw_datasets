@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808040046",
+    "requested_datetime": "2018-08-04 09:08:41",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "中西區健康路一段390巷34號隔壁潢電鑽聲",
+    "address_string": "中西區健康路一段390巷34號",
+    "lat": "22.982274",
+    "long": "120.198819",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-03 09:07:00"
+}

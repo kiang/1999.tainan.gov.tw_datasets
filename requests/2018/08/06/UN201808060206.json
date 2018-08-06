@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808060206",
+    "requested_datetime": "2018-08-06 13:37:33",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "歸仁區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "歸仁區文化街三段與民權六街128巷交叉口旁 違規停車",
+    "address_string": "歸仁區文化街三段民權六街128巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 16:37:05",
+    "expected_datetime": "2018-09-05 13:37:33"
+}

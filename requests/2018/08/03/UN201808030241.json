@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808030241",
+    "requested_datetime": "2018-08-03 16:07:55",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "安平區國平路與怡平路口 空氣污染＆噪音",
+    "address_string": "安平區國平路怡平路",
+    "lat": "22.9940991",
+    "long": "120.1714641",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-02 16:07:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808050179",
+    "requested_datetime": "2018-08-05 17:02:46",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路樹傾倒",
+    "description": "安南區安吉路三段116號 路樹倒塌",
+    "address_string": "安南區安吉路三段116號",
+    "lat": "23.0866345",
+    "long": "120.2237702",
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 11:01:16",
+    "expected_datetime": "2018-09-04 17:02:00"
+}

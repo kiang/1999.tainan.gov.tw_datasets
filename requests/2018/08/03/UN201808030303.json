@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808030303",
+    "requested_datetime": "2018-08-03 19:00:35",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "南區興南街151巷67號附近 路燈不亮",
+    "address_string": "南區興南街151巷67號附近",
+    "lat": "22.9202495",
+    "long": "120.1822638",
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 08:57:16",
+    "expected_datetime": "2018-09-02 18:59:00"
+}

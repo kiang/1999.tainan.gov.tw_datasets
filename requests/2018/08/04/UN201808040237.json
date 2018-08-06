@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808040237",
+    "requested_datetime": "2018-08-04 19:30:43",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "場所連續噪音",
+    "description": "東區北門路二段16號 連續噪音",
+    "address_string": "東區北門路二段16號",
+    "lat": "22.9990247",
+    "long": "120.2128868",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-03 19:29:00"
+}

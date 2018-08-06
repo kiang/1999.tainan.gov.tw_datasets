@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808030317",
+    "requested_datetime": "2018-08-03 19:49:47",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "東區德東街237號開始到德東街和崇善路口之間路段 路燈不亮",
+    "address_string": "東區德東街237號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 09:31:26",
+    "expected_datetime": "2018-09-02 19:49:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808030334",
+    "requested_datetime": "2018-08-03 21:01:47",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新市區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "新市區延平街6號 違停",
+    "address_string": "新市區延平街6號",
+    "lat": "23.0687209",
+    "long": "120.2914462",
+    "service_notice": {},
+    "updated_datetime": "2018-08-04 03:41:24",
+    "expected_datetime": "2018-09-02 21:00:00"
+}

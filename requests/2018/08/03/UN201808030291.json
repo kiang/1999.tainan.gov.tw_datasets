@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808030291",
+    "requested_datetime": "2018-08-03 18:22:42",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "南區永成路二段730巷內 路面坑洞",
+    "address_string": "南區永成路二段730巷",
+    "lat": "22.95059",
+    "long": "120.2016179",
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 17:36:17",
+    "expected_datetime": "2018-09-02 18:22:00"
+}

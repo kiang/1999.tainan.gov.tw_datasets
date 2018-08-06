@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808050267",
+    "requested_datetime": "2018-08-05 23:19:43",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區東豐路491號開始，安全島上 路燈不亮",
+    "address_string": "北區東豐路491號",
+    "lat": "23.0015227",
+    "long": "120.2276714",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-04 23:19:00"
+}

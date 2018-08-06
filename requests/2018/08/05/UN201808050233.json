@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808050233",
+    "requested_datetime": "2018-08-05 19:31:09",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區衛國街114巷23號 違規停車",
+    "address_string": "東區衛國街114巷23號",
+    "lat": "22.9880388",
+    "long": "120.224933",
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 04:41:24",
+    "expected_datetime": "2018-09-04 19:31:09"
+}

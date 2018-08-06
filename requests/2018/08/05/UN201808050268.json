@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808050268",
+    "requested_datetime": "2018-08-05 23:26:05",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "南區健康路一段391巷18弄1號角落 路燈故障",
+    "address_string": "南區健康路一段391巷18弄1號",
+    "lat": "22.9805564",
+    "long": "120.1993862",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-04 23:24:00"
+}

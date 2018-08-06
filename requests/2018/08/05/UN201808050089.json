@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808050089",
+    "requested_datetime": "2018-08-05 11:51:05",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "善化區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "善化區中山路462號 違規停車",
+    "address_string": "善化區中山路462號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-05 14:46:48",
+    "expected_datetime": "2018-09-04 11:51:05"
+}

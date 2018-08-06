@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808030091",
+    "requested_datetime": "2018-08-03 10:25:15",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "後壁區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "髒亂及汙染",
+    "address_string": "後壁區平安里4鄰藥店口55之80號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 08:36:25",
+    "expected_datetime": "2018-09-02 10:25:15"
+}

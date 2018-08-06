@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808050102",
+    "requested_datetime": "2018-08-05 12:28:58",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區大橋三街39巷 違規停車",
+    "address_string": "永康區大橋三街39巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-05 14:51:26",
+    "expected_datetime": "2018-09-04 12:27:00"
+}

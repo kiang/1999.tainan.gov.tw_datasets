@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808040246",
+    "requested_datetime": "2018-08-04 20:07:44",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區文賢路365巷18弄29號 違規停車",
+    "address_string": "704台南市北區文賢路365巷18弄29號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-04 22:16:18",
+    "expected_datetime": "2018-09-03 20:07:44"
+}

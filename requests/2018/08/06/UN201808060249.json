@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808060249",
+    "requested_datetime": "2018-08-06 14:56:15",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨礙安寧",
+    "description": "永康區南工街267巷58號大樓隔壁 妨害安寧",
+    "address_string": "永康區南工街267巷58號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 17:41:19",
+    "expected_datetime": "2018-09-05 14:53:00"
+}

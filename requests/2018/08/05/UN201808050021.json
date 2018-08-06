@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808050021",
+    "requested_datetime": "2018-08-05 08:20:57",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "南區金華路二段33巷76號尊南街  佔用道路",
+    "address_string": "南區金華路二段33巷76號尊南街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-05 14:36:41",
+    "expected_datetime": "2018-09-04 08:20:57"
+}

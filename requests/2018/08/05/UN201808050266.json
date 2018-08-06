@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808050266",
+    "requested_datetime": "2018-08-05 23:16:28",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "麻豆區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "麻豆區大埕里9鄰83-15號四樓 連續噪音",
+    "address_string": "麻豆區大埕里9鄰83-15號四樓",
+    "lat": "23.1862879",
+    "long": "120.2498305",
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 15:46:52",
+    "expected_datetime": "2018-09-04 23:16:28"
+}

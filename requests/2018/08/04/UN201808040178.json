@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808040178",
+    "requested_datetime": "2018-08-04 15:51:58",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "其他汙染舉發",
+    "description": "仁德大灣交流道下來往永康方向,高速公路便道",
+    "address_string": "仁德大灣交流道",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 16:31:51",
+    "expected_datetime": "2018-09-03 15:49:00"
+}

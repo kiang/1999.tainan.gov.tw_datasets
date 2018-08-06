@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808050227",
+    "requested_datetime": "2018-08-05 19:07:05",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "安平區安平古堡入口旁 路燈不亮",
+    "address_string": "安平區安平古堡",
+    "lat": "23.3166981",
+    "long": "120.265792",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-04 19:06:00"
+}

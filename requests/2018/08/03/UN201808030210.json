@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808030210",
+    "requested_datetime": "2018-08-03 14:45:40",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區海安路三段580到588號 違規停車",
+    "address_string": "台南市北區海安路三段580到588號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-03 16:41:18",
+    "expected_datetime": "2018-09-02 14:45:40"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808030127",
+    "requested_datetime": "2018-08-03 11:14:20",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "東區崇善路與崇善六街口，中油加油站對面 交通疏導",
+    "address_string": "東區崇善路崇善六街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-03 16:16:24",
+    "expected_datetime": "2018-09-02 11:13:00"
+}

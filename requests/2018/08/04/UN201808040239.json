@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808040239",
+    "requested_datetime": "2018-08-04 19:39:34",
+    "status": {},
+    "keyword": "0",
+    "area": "學甲區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "學甲區華宗路260號\/華宗路305號 路燈故障",
+    "address_string": "學甲區華宗路260號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-03 19:39:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808040157",
+    "requested_datetime": "2018-08-04 14:26:40",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "東區大同路與國民路往仁德方向紅",
+    "address_string": "東區大同路國民路",
+    "lat": "22.9674257",
+    "long": "120.2159547",
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 14:06:30",
+    "expected_datetime": "2018-09-03 14:24:00"
+}

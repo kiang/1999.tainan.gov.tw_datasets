@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808030023",
+    "requested_datetime": "2018-08-03 08:10:18",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區中華東路二段167號   違規停車",
+    "address_string": "東區中華東路二段167號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-03 13:26:32",
+    "expected_datetime": "2018-09-02 08:10:18"
+}

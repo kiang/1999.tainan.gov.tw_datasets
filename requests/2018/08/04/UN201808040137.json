@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808040137",
+    "requested_datetime": "2018-08-04 13:10:46",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區中山東路135號到133號違規停車",
+    "address_string": "永康區中山東路135號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-04 18:26:21",
+    "expected_datetime": "2018-09-03 13:10:46"
+}

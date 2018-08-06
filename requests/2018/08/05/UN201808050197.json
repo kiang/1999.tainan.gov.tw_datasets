@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808050197",
+    "requested_datetime": "2018-08-05 17:48:53",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區大橋三街199巷 違規停車",
+    "address_string": "永康區大橋三街199巷",
+    "lat": "23.2806957",
+    "long": "120.3550808",
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 04:11:21",
+    "expected_datetime": "2018-09-04 17:48:53"
+}

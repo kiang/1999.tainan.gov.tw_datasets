@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808060038",
+    "requested_datetime": "2018-08-06 08:46:29",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區中華東路三段22號36號  違規停車",
+    "address_string": "東區中華東路三段22號36號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 12:01:31",
+    "expected_datetime": "2018-09-05 08:46:29"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808040268",
+    "requested_datetime": "2018-08-04 22:53:18",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "南區明興路1055巷17弄18弄  空氣汙染",
+    "address_string": "南區明興路1055巷17弄18弄",
+    "lat": "22.9311317",
+    "long": "120.1842569",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-03 22:51:00"
+}

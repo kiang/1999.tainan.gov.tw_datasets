@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808050018",
+    "requested_datetime": "2018-08-05 08:09:00",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "安南區安和路四段247巷54弄與大聖路 連續噪音",
+    "address_string": "安南區安和路四段247巷54弄大聖路",
+    "lat": "23.057548",
+    "long": "120.2204908",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-04 08:03:00"
+}

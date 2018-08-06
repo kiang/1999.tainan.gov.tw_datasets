@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808050111",
+    "requested_datetime": "2018-08-05 13:41:34",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "歸仁區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "歸仁區高鐵橋下台南段道路22號 號誌故障",
+    "address_string": "歸仁區高鐵橋下台南段道路22號",
+    "lat": "22.9935473",
+    "long": "120.2797461",
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 18:36:21",
+    "expected_datetime": "2018-09-04 13:41:34"
+}

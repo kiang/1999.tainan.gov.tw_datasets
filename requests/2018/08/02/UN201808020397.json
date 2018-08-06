@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808020397",
+    "requested_datetime": "2018-08-02 23:01:00",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "仁德區二行一路118號 道路散落物",
+    "address_string": "仁德區二行一路118號",
+    "lat": "22.9192653",
+    "long": "120.2251361",
+    "service_notice": {},
+    "updated_datetime": "2018-08-03 15:46:21",
+    "expected_datetime": "2018-09-01 22:59:00"
+}

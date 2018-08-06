@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808030032",
+    "requested_datetime": "2018-08-03 08:32:39",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "動物救援",
+    "agency": "臺南市動物防疫保護處",
+    "subproject": "犬貓急難救援",
+    "description": "安南區台江大道二段481號  動物救援",
+    "address_string": "安南區台江大道二段481號",
+    "lat": "23.0329878",
+    "long": "120.1931747",
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 09:26:32",
+    "expected_datetime": "2018-09-02 08:26:00"
+}

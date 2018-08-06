@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808040007",
+    "requested_datetime": "2018-08-04 02:35:31",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "東區崇道路155號 妨害安寧",
+    "address_string": "崇道路155號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-04 04:11:27",
+    "expected_datetime": "2018-09-03 02:35:31"
+}

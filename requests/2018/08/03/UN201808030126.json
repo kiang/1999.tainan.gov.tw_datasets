@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808030126",
+    "requested_datetime": "2018-08-03 11:13:56",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "歸仁區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "歸仁區文化街三段20隔壁郭英數理補習班隔壁 連續噪音",
+    "address_string": "歸仁區文化街三段20隔壁郭英數理補習班",
+    "lat": "22.9709551",
+    "long": "120.2875783",
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 09:26:33",
+    "expected_datetime": "2018-09-02 11:09:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808050252",
+    "requested_datetime": "2018-08-05 21:14:03",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區開南街與東豐路451巷交界轉角紅線、及開南街275巷與開南街轉角紅線及人行道 違規停車",
+    "address_string": "北區開南街東豐路451巷",
+    "lat": "23.0038534",
+    "long": "120.2285371",
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 04:51:21",
+    "expected_datetime": "2018-09-04 21:14:03"
+}

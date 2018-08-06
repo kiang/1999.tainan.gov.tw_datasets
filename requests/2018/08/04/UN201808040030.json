@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808040030",
+    "requested_datetime": "2018-08-04 08:33:11",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "市區道路路面油漬",
+    "description": "中西區武聖路173號 油漬",
+    "address_string": "中西區武聖路173號",
+    "lat": "23.0063322",
+    "long": "120.1901266",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-03 08:32:00"
+}

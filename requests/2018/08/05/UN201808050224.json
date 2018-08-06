@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808050224",
+    "requested_datetime": "2018-08-05 18:58:49",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區民權路二段100號 違規停車",
+    "address_string": "中西區民權路二段100號",
+    "lat": "22.9947974",
+    "long": "120.2040704",
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 04:26:21",
+    "expected_datetime": "2018-09-04 18:58:49"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808050145",
+    "requested_datetime": "2018-08-05 15:26:50",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面掏空、塌陷",
+    "description": "安南區公學路四段257巷  路面掏空",
+    "address_string": "安南區公學路四段257巷",
+    "lat": "23.0659239",
+    "long": "120.1753255",
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 10:11:22",
+    "expected_datetime": "2018-09-04 15:25:00"
+}

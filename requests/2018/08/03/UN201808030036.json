@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808030036",
+    "requested_datetime": "2018-08-03 08:46:21",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "安南區安興街135巷8號 路燈",
+    "address_string": "安南區安興街135巷8號",
+    "lat": "23.0682978",
+    "long": "120.1624273",
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 09:01:28",
+    "expected_datetime": "2018-09-02 08:45:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808040087",
+    "requested_datetime": "2018-08-04 10:46:21",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "台南市中西區民生路一段157巷25號 噪音舉發",
+    "address_string": "台南市中西區民生路一段157巷25號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-04 18:01:25",
+    "expected_datetime": "2018-09-03 10:46:21"
+}

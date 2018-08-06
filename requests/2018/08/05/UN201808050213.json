@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808050213",
+    "requested_datetime": "2018-08-05 18:29:47",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "七股區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "七股區竹橋里南方 空氣汙染",
+    "address_string": "七股區竹橋里",
+    "lat": "23.0987536",
+    "long": "120.161817",
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 10:41:22",
+    "expected_datetime": "2018-09-04 18:24:00"
+}

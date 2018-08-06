@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808050226",
+    "requested_datetime": "2018-08-05 19:02:05",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面下陷、凹陷",
+    "description": "永康區中山南路314號對面路中間 路面凹陷",
+    "address_string": "永康區中山南路314號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 14:21:30",
+    "expected_datetime": "2018-09-04 19:00:00"
+}

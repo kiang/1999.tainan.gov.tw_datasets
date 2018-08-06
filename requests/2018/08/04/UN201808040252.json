@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808040252",
+    "requested_datetime": "2018-08-04 20:29:15",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "六甲區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "六甲區信義街318巷口 違停",
+    "address_string": "六甲區信義街318巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-05 00:36:16",
+    "expected_datetime": "2018-09-03 20:28:00"
+}

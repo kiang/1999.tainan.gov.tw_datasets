@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808030345",
+    "requested_datetime": "2018-08-03 21:40:26",
+    "status": {},
+    "keyword": "0",
+    "area": "西港區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "西港區竹林里141之1號 路燈不亮",
+    "address_string": "西港區竹林里141之1號",
+    "lat": "22.9984394",
+    "long": "120.1388823",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-02 21:39:00"
+}

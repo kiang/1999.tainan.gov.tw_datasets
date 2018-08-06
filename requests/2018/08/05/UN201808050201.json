@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808050201",
+    "requested_datetime": "2018-08-05 17:56:57",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "南區中華西路一段2巷17號，永華國小，對面往東約100公尺處無名橋，於此右轉機車道上 路面坑洞",
+    "address_string": "南區中華西路一段2巷17號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 10:11:23",
+    "expected_datetime": "2018-09-04 17:55:00"
+}

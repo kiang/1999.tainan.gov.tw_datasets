@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808030177",
+    "requested_datetime": "2018-08-03 13:16:38",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "東區東光路一段123號 交通運輸",
+    "address_string": "東區東光路一段123號",
+    "lat": "22.994671",
+    "long": "120.2312552",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-02 13:16:38"
+}

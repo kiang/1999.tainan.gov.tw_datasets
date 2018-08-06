@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808050208",
+    "requested_datetime": "2018-08-05 18:16:06",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區省躬三街165巷內 違停",
+    "address_string": "南區省躬三街165巷",
+    "lat": "22.9294913",
+    "long": "120.1785245",
+    "service_notice": {},
+    "updated_datetime": "2018-08-06 04:56:21",
+    "expected_datetime": "2018-09-04 18:15:00"
+}

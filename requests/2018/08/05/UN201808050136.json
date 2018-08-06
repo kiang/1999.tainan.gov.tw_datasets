@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808050136",
+    "requested_datetime": "2018-08-05 15:10:30",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區金華路二段389巷與長南街36巷路口處（違規車輛停在金華路二段289巷26號對面），違規停車",
+    "address_string": "南區金華路二段389巷長南街36巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-05 19:21:54",
+    "expected_datetime": "2018-09-04 15:10:30"
+}

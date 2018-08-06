@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808050114",
+    "requested_datetime": "2018-08-05 13:54:33",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨礙安寧",
+    "description": "仁德區文賢路一段526號之4噪音舉發",
+    "address_string": "仁德區文賢路一段526號之4",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-05 19:21:52",
+    "expected_datetime": "2018-09-04 13:54:33"
+}
