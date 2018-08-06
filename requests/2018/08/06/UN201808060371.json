@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區華平828號 路燈故障",
     "address_string": "中西區華平828號",
-    "lat": {},
-    "long": {},
+    "lat": "23.003054",
+    "long": "120.236327",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-05 19:20:00"

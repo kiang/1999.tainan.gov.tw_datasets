@@ -9,8 +9,8 @@
     "subproject": "道路散落物",
     "description": "北區西門路四段與文成三路交叉路口  道路散落物",
     "address_string": "北區西門路四段文成三路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0153485",
+    "long": "120.2102127",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-05 07:55:00"

@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "IVR-中西區忠義路二段忠義國小對面 空氣污染",
     "address_string": "中西區忠義路二段忠義國小",
-    "lat": {},
-    "long": {},
+    "lat": "22.9894763",
+    "long": "120.2031084",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-05 14:01:00"

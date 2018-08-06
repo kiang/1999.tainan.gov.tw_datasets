@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區中華北路二段80巷內 路燈不亮",
     "address_string": "北區中華北路二段80巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.003054",
+    "long": "120.236327",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-05 19:40:00"

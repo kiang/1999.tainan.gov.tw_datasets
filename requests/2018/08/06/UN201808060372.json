@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安平區中興街61號附近 路燈不亮",
     "address_string": "安平區中興街61號",
-    "lat": {},
-    "long": {},
+    "lat": "23.002126",
+    "long": "120.161566",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-05 19:35:00"
