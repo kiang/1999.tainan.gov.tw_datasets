@@ -9,8 +9,8 @@
     "subproject": "道路散落物",
     "description": "南區新興路與金華路一段交叉口  路面散落物",
     "address_string": "南區新興路金華路一段交叉口",
-    "lat": {},
-    "long": {},
+    "lat": "22.999798",
+    "long": "120.234403",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-06 11:07:00"

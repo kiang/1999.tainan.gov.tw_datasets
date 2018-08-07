@@ -9,8 +9,8 @@
     "subproject": "10盞以上路燈故障",
     "description": "麻豆區往下營方向 路燈大範圍不亮",
     "address_string": "麻豆區下營區台19甲",
-    "lat": {},
-    "long": {},
+    "lat": "23.1906484",
+    "long": "120.1886146",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-06 08:20:00"
