@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808070217",
+    "requested_datetime": "2018-08-07 14:22:08",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區健康路二段141號前  紅線違停",
+    "address_string": "南區健康路二段141號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-06 14:17:00"
+}

@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808050012",
     "requested_datetime": "2018-08-05 07:31:11",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "白河區",
     "service_name": "髒亂及汙染",
@@ -12,6 +12,6 @@
     "lat": "23.3529442",
     "long": "120.4176984",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-07 14:06:25",
     "expected_datetime": "2018-09-04 07:30:00"
 }
