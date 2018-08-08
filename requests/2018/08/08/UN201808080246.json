@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808080246",
+    "requested_datetime": "2018-08-08 16:27:16",
+    "status": {},
+    "keyword": "0",
+    "area": "新化區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路樹傾倒",
+    "description": "新化區口埤55之1號  路樹倒塌",
+    "address_string": "新化區口埤55之1號",
+    "lat": "23.1288864",
+    "long": "120.2387336",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-07 16:24:00"
+}

@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "後壁區後壁火車站機車停車區 違規停車",
     "address_string": "後壁區後壁火車站",
-    "lat": {},
-    "long": {},
+    "lat": "23.3662336",
+    "long": "120.3605376",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-07 23:05:33"
