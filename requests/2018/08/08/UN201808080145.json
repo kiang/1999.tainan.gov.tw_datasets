@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808080145",
+    "requested_datetime": "2018-08-08 11:29:44",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "違規停車",
+    "address_string": "自由路二段69巷與仁和路139巷51弄路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-07 11:29:44"
+}

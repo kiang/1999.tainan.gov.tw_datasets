@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808070030",
     "requested_datetime": "2018-08-07 07:45:19",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": "民生管線",
@@ -12,6 +12,6 @@
     "lat": "23.017733",
     "long": "120.2344799",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-08 11:27:25",
     "expected_datetime": "2018-09-06 07:42:00"
 }
