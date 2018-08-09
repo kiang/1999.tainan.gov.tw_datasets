@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安平區建平十街和建平路口 違停",
     "address_string": "安平區建平十街建平路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9938918",
+    "long": "120.1836015",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-08 17:20:00"

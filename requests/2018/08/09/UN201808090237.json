@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "北區公園路19號前 號誌故障",
     "address_string": "北區公園路19號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0084401",
+    "long": "120.209391",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-08 16:29:00"

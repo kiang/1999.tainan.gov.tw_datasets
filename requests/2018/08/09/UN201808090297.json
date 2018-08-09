@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區中華南路二段195號 違停",
     "address_string": "南區中華南路二段195號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9611471",
+    "long": "120.190506",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-08 18:28:00"
