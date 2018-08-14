@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808130164",
+    "requested_datetime": "2018-08-13 13:31:34",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "左鎮區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "左鎮區台20線消防隊 路面坑洞",
+    "address_string": "左鎮區台20線",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 15:21:24",
+    "expected_datetime": "2018-09-12 13:31:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808110260",
+    "requested_datetime": "2018-08-11 19:29:15",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "仁德區德南路1號  違規停車",
+    "address_string": "仁德區德南路1號",
+    "lat": "22.948779",
+    "long": "120.251263",
+    "service_notice": {},
+    "updated_datetime": "2018-08-12 04:01:24",
+    "expected_datetime": "2018-09-10 19:28:00"
+}

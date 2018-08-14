@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808100382",
+    "requested_datetime": "2018-08-10 22:19:18",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區公園路634巷29號 違規停車",
+    "address_string": "公園路634巷29號",
+    "lat": "23.0077534",
+    "long": "120.2110074",
+    "service_notice": {},
+    "updated_datetime": "2018-08-11 01:31:51",
+    "expected_datetime": "2018-09-09 22:19:18"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808120203",
+    "requested_datetime": "2018-08-12 17:45:58",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安南區安寧街跟海佃路一段284巷交叉口",
+    "address_string": "安南區安寧街海佃路一段284巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-12 19:11:16",
+    "expected_datetime": "2018-09-11 17:45:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808120069",
+    "requested_datetime": "2018-08-12 10:55:21",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "小廣告、旗幟",
+    "description": "北區育德一街文成路口  髒亂及汙染",
+    "address_string": "北區育德一街文成路口",
+    "lat": "23.0151338",
+    "long": "120.2060473",
+    "service_notice": {},
+    "updated_datetime": "2018-08-13 16:31:33",
+    "expected_datetime": "2018-09-11 10:55:21"
+}

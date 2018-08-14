@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808110285",
+    "requested_datetime": "2018-08-11 21:08:01",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "北區海安路與海成路路口,海安路北向南綠燈不亮",
+    "address_string": "北區海安路海成路",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-08-13 15:46:24",
+    "expected_datetime": "2018-09-10 21:07:00"
+}

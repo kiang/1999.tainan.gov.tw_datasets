@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808110045",
+    "requested_datetime": "2018-08-11 09:17:39",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "中西區西湖街59巷6號旁 噪音",
+    "address_string": "中西區西湖街59巷6號",
+    "lat": "23.0034695",
+    "long": "120.1848919",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 17:56:30",
+    "expected_datetime": "2018-09-10 09:13:00"
+}

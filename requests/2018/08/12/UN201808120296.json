@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808120296",
+    "requested_datetime": "2018-08-12 23:31:30",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面下陷、凹陷",
+    "description": "永康區中正南路72號 路面下陷、凹陷",
+    "address_string": "永康區中正南路72號",
+    "lat": "23.0206801",
+    "long": "120.216395",
+    "service_notice": {},
+    "updated_datetime": "2018-08-13 09:51:21",
+    "expected_datetime": "2018-09-11 23:30:00"
+}

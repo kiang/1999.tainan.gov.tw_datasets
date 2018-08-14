@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808130361",
+    "requested_datetime": "2018-08-13 23:20:47",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "永康區中正南路與洲尾街交叉路口 路燈故障",
+    "address_string": "永康區中正南路與洲尾街交叉路口",
+    "lat": "23.0364637",
+    "long": "120.231512",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 15:51:19",
+    "expected_datetime": "2018-09-12 23:20:47"
+}

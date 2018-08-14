@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808120113",
+    "requested_datetime": "2018-08-12 13:10:14",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區榮譽停車場(榮譽街131巷2號) 違規停車",
+    "address_string": "東區榮譽街131巷2號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-12 16:56:30",
+    "expected_datetime": "2018-09-11 13:10:14"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808140027",
+    "requested_datetime": "2018-08-14 08:05:10",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區安平路182號\/安平路470號左邊 人行道違規停車",
+    "address_string": "安平區安平路182號470號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 13:16:21",
+    "expected_datetime": "2018-09-13 08:05:10"
+}

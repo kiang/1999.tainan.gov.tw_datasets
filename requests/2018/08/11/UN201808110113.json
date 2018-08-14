@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808110113",
+    "requested_datetime": "2018-08-11 11:46:52",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "新營區南紙街119之6號 空污",
+    "address_string": "新營區南紙街119之6號",
+    "lat": "23.2980863",
+    "long": "120.2942955",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 08:36:36",
+    "expected_datetime": "2018-09-10 11:45:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808110060",
+    "requested_datetime": "2018-08-11 09:54:31",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "其他汙染舉發",
+    "description": "永康區正強街與中山南路597巷9弄口 路面污染",
+    "address_string": "永康區正強街中山南路597巷9弄",
+    "lat": "23.0246007",
+    "long": "120.2522945",
+    "service_notice": {},
+    "updated_datetime": "2018-08-13 15:41:26",
+    "expected_datetime": "2018-09-10 09:53:00"
+}

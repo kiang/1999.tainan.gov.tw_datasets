@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808110003",
+    "requested_datetime": "2018-08-11 00:37:04",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "南區中華二段233巷14號3樓 妨害安寧",
+    "address_string": "南市南區中華二段233巷14號3樓",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-11 07:11:16",
+    "expected_datetime": "2018-09-10 00:37:04"
+}

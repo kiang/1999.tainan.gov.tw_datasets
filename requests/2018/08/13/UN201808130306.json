@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808130306",
+    "requested_datetime": "2018-08-13 19:17:54",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "麻豆區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "麻豆區小埤里48之16號附近 路燈不亮",
+    "address_string": "麻豆區小埤里48之16號",
+    "lat": "23.187256",
+    "long": "120.232521",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 10:36:23",
+    "expected_datetime": "2018-09-12 19:15:00"
+}

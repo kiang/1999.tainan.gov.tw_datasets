@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808130211",
+    "requested_datetime": "2018-08-13 14:41:53",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區鹽行里三村一街138巷92弄42號 違規停車",
+    "address_string": "三村一街138巷92弄42號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 06:11:18",
+    "expected_datetime": "2018-09-12 14:41:53"
+}

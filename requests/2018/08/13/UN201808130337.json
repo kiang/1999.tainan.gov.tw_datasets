@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808130337",
+    "requested_datetime": "2018-08-13 20:56:40",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區西寧街37號及25號.18號及28號 違規停車",
+    "address_string": "中西區西寧街37號",
+    "lat": "22.997136",
+    "long": "120.1915742",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 06:26:28",
+    "expected_datetime": "2018-09-12 20:55:00"
+}

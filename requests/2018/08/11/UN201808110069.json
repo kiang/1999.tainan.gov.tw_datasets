@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808110069",
+    "requested_datetime": "2018-08-11 10:14:04",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "南區新建路27巷底  髒亂及汙染",
+    "address_string": "南區新建路27巷",
+    "lat": "22.9708122",
+    "long": "120.1859075",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 17:56:31",
+    "expected_datetime": "2018-09-10 10:14:04"
+}

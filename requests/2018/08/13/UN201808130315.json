@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808130315",
+    "requested_datetime": "2018-08-13 19:37:13",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "新營區佑生婦產科對面 違停",
+    "address_string": "新營區大同路6號",
+    "lat": "23.3083795",
+    "long": "120.322734",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 06:36:15",
+    "expected_datetime": "2018-09-12 19:36:00"
+}

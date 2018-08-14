@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808120153",
+    "requested_datetime": "2018-08-12 15:13:06",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面下陷、凹陷",
+    "description": "中西區衛民街120號左邊,路面有凹陷",
+    "address_string": "中西區衛民街120號",
+    "lat": "22.9933892",
+    "long": "120.208347",
+    "service_notice": {},
+    "updated_datetime": "2018-08-13 17:27:49",
+    "expected_datetime": "2018-09-11 15:11:00"
+}

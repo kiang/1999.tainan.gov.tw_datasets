@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808130024",
+    "requested_datetime": "2018-08-13 08:09:23",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "新營區延平路南光中學公車站   違停",
+    "address_string": "新營區延平路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-13 15:37:31",
+    "expected_datetime": "2018-09-12 08:07:00"
+}

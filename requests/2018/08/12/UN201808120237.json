@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808120237",
+    "requested_datetime": "2018-08-12 19:30:15",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "永康區大灣里大灣路218巷巷內  路燈故障",
+    "address_string": "永康區大灣里大灣路218巷",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 15:47:14",
+    "expected_datetime": "2018-09-11 19:28:00"
+}

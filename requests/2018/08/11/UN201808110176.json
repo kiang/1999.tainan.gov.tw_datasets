@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808110176",
+    "requested_datetime": "2018-08-11 15:09:24",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "東區自由路三段與裕文路口  號誌故障",
+    "address_string": "東區自由路三段裕文路",
+    "lat": "22.987588",
+    "long": "120.223239",
+    "service_notice": {},
+    "updated_datetime": "2018-08-13 15:21:16",
+    "expected_datetime": "2018-09-10 15:04:00"
+}

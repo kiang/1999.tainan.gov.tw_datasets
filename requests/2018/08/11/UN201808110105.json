@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808110105",
+    "requested_datetime": "2018-08-11 11:22:27",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "人孔蓋或溝蓋聲響鬆動",
+    "description": "南區新建路38巷  人孔蓋鬆動",
+    "address_string": "南區新建路38巷",
+    "lat": "22.9906521",
+    "long": "120.1999632",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 16:46:21",
+    "expected_datetime": "2018-09-10 11:20:00"
+}

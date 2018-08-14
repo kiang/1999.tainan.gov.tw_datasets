@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808110298",
+    "requested_datetime": "2018-08-11 21:58:48",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "東區東和路57巷附近 路燈故障",
+    "address_string": "東區東和路57巷",
+    "lat": "22.9978934",
+    "long": "120.2289226",
+    "service_notice": {},
+    "updated_datetime": "2018-08-13 10:46:22",
+    "expected_datetime": "2018-09-10 21:57:00"
+}

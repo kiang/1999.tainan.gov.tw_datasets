@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808120141",
+    "requested_datetime": "2018-08-12 14:39:17",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區開南街275巷  違規停車",
+    "address_string": "北區開南街275巷開南街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-12 18:21:31",
+    "expected_datetime": "2018-09-11 14:39:17"
+}

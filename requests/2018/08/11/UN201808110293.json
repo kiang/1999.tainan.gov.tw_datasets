@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808110293",
+    "requested_datetime": "2018-08-11 21:38:52",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "佳里區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "佳里區忠孝東路13之2號 噪音舉發",
+    "address_string": "佳里區忠孝東路13之2號",
+    "lat": "23.1642539",
+    "long": "120.1805127",
+    "service_notice": {},
+    "updated_datetime": "2018-08-12 04:11:30",
+    "expected_datetime": "2018-09-10 21:38:52"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808110205",
+    "requested_datetime": "2018-08-11 16:24:57",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區公園路451巷2號 違規停車",
+    "address_string": "北區公園路451巷2號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-11 18:07:08",
+    "expected_datetime": "2018-09-10 16:24:57"
+}

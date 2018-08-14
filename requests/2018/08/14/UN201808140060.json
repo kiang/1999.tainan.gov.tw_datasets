@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808140060",
+    "requested_datetime": "2018-08-14 09:11:37",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "東區中華東路二段181號 妨害安寧",
+    "address_string": "東區中華東路二段181號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 11:01:36",
+    "expected_datetime": "2018-09-13 09:09:00"
+}

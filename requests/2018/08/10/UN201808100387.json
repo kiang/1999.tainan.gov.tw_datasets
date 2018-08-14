@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808100387",
+    "requested_datetime": "2018-08-10 23:15:10",
+    "status": {},
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路樹傾倒",
+    "description": "仁德區文華路二段九王爺廟前  路樹傾倒",
+    "address_string": "仁德區文華路二段",
+    "lat": "22.9463672",
+    "long": "120.2315981",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-09 23:13:00"
+}

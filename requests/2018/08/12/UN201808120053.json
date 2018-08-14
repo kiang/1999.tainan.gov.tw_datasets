@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808120053",
+    "requested_datetime": "2018-08-12 10:01:46",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "動物救援",
+    "agency": "臺南市動物防疫保護處",
+    "subproject": "犬貓急難救援",
+    "description": "東區崇道路跟崇德路口 狗受傷",
+    "address_string": "東區崇道路崇德路",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-08-13 17:41:27",
+    "expected_datetime": "2018-09-11 09:58:00"
+}

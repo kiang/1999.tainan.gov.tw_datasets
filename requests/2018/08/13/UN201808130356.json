@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808130356",
+    "requested_datetime": "2018-08-13 22:43:58",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區東門路二段158巷巷底,車牌ANE-7799",
+    "address_string": "東區東門路二段158巷",
+    "lat": "22.9848616",
+    "long": "120.2207529",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 06:31:25",
+    "expected_datetime": "2018-09-12 22:43:00"
+}

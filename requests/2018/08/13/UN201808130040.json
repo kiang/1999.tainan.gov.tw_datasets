@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808130040",
+    "requested_datetime": "2018-08-13 08:59:14",
+    "status": {},
+    "keyword": "0",
+    "area": "鹽水區",
+    "service_name": "動物救援",
+    "agency": "台南市政府",
+    "subproject": "遊蕩犬隻捕捉管制",
+    "description": "鹽水區番仔寮6號 流浪犬",
+    "address_string": "鹽水區番仔寮6號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-12 08:56:00"
+}

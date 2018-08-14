@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808130141",
+    "requested_datetime": "2018-08-13 11:59:20",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "南區國安街236巷1號55號10盞路燈",
+    "address_string": "南區國安街236巷1號55號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 10:41:28",
+    "expected_datetime": "2018-09-12 11:57:00"
+}

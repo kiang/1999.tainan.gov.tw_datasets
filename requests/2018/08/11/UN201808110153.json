@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808110153",
+    "requested_datetime": "2018-08-11 14:03:14",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨礙安寧",
+    "description": "安南區安和路五段81巷69號  妨礙安寧",
+    "address_string": "安南區安和路五段81巷69號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-11 17:21:22",
+    "expected_datetime": "2018-09-10 14:01:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808140033",
+    "requested_datetime": "2018-08-14 08:20:06",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區健康路一段345號右邊 違規停車",
+    "address_string": "南區健康路一段345號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 10:31:18",
+    "expected_datetime": "2018-09-13 08:20:06"
+}

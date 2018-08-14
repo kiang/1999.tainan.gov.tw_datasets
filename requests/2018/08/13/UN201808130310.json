@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808130310",
+    "requested_datetime": "2018-08-13 19:32:15",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區府連路182巷 違規停車",
+    "address_string": "東區府連路182巷",
+    "lat": "22.9845016",
+    "long": "120.2124755",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 06:16:29",
+    "expected_datetime": "2018-09-12 19:32:15"
+}

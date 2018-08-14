@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808120063",
+    "requested_datetime": "2018-08-12 10:39:58",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "安南區安明路四段260號 民生管線",
+    "address_string": "安南區安明路四段260號",
+    "lat": "23.058685",
+    "long": "120.1344921",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 10:36:21",
+    "expected_datetime": "2018-09-11 10:37:00"
+}

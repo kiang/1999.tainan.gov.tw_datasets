@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808120029",
+    "requested_datetime": "2018-08-12 09:09:53",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "中西區府前路二段300號附近 動物屍體",
+    "address_string": "中西區府前路二段300號",
+    "lat": "22.992436",
+    "long": "120.189426",
+    "service_notice": {},
+    "updated_datetime": "2018-08-13 16:26:18",
+    "expected_datetime": "2018-09-11 09:05:00"
+}

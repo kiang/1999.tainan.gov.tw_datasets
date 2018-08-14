@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808130281",
+    "requested_datetime": "2018-08-13 17:55:42",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "西港區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "西港區太西-北極殿附近新社區 違規停車",
+    "address_string": "西港區太西檨林里13鄰4之2號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-13 19:06:18",
+    "expected_datetime": "2018-09-12 17:55:42"
+}

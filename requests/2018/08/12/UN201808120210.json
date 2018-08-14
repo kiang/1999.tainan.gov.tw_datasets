@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808120210",
+    "requested_datetime": "2018-08-12 18:00:51",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區公園路整條路,遊覽車及拖板車佔用道路",
+    "address_string": "永康區公園路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-12 20:51:21",
+    "expected_datetime": "2018-09-11 17:57:00"
+}

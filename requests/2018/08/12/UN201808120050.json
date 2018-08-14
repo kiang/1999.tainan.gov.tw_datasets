@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808120050",
+    "requested_datetime": "2018-08-12 09:55:19",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "北區公園北路78巷32號\/北區公園北路88巷49號 坑洞",
+    "address_string": "北區公園北路78巷32號",
+    "lat": "23.00556",
+    "long": "120.211317",
+    "service_notice": {},
+    "updated_datetime": "2018-08-13 16:41:29",
+    "expected_datetime": "2018-09-11 09:54:00"
+}

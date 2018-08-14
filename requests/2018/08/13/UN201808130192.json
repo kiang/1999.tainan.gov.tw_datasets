@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808130192",
+    "requested_datetime": "2018-08-13 14:25:54",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "安南區府安路五段213之6號  空氣汙染",
+    "address_string": "安南區府安路五段213之6號",
+    "lat": "22.9899943",
+    "long": "120.1612967",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 08:27:14",
+    "expected_datetime": "2018-09-12 14:24:00"
+}

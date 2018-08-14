@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808120243",
+    "requested_datetime": "2018-08-12 19:38:52",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "東區東門路三段179巷161號旁 路燈不亮",
+    "address_string": "東區東門路三段179巷161號",
+    "lat": "22.978054",
+    "long": "120.2379464",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 10:16:35",
+    "expected_datetime": "2018-09-11 19:38:00"
+}

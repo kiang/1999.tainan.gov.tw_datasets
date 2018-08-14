@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808110263",
+    "requested_datetime": "2018-08-11 19:38:39",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "南區國民路165巷22弄  路燈不亮",
+    "address_string": "南區國民路165巷22弄",
+    "lat": "22.9669001",
+    "long": "120.2112334",
+    "service_notice": {},
+    "updated_datetime": "2018-08-13 10:06:35",
+    "expected_datetime": "2018-09-10 19:37:00"
+}

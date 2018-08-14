@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808110288",
+    "requested_datetime": "2018-08-11 21:21:06",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南市南園街101巷底 違規停車",
+    "address_string": "北區南園街",
+    "lat": "23.0081189",
+    "long": "120.2252344",
+    "service_notice": {},
+    "updated_datetime": "2018-08-12 04:11:29",
+    "expected_datetime": "2018-09-10 21:21:06"
+}

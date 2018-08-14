@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808110302",
+    "requested_datetime": "2018-08-11 22:50:07",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "安南區公學路四段122巷107號 捕蚊燈聲響妨害安寧",
+    "address_string": "安南區公學路四段122巷107號",
+    "lat": "23.0702209",
+    "long": "120.1759955",
+    "service_notice": {},
+    "updated_datetime": "2018-08-12 04:16:15",
+    "expected_datetime": "2018-09-10 22:49:00"
+}

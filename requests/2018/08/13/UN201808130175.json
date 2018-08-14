@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808130175",
+    "requested_datetime": "2018-08-13 13:51:26",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北門區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "北門區二重港96號 路面坑洞",
+    "address_string": "北門區二重港96號",
+    "lat": "23.243637",
+    "long": "120.1395269",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 08:31:19",
+    "expected_datetime": "2018-09-12 13:51:00"
+}

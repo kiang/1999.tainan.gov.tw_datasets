@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808120238",
+    "requested_datetime": "2018-08-12 19:31:19",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "安南區開安一街與開安路口\/安南區永安路80號對面 路燈不亮",
+    "address_string": "安南區開安一街開安路",
+    "lat": "23.0472819",
+    "long": "120.2231461",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 08:42:18",
+    "expected_datetime": "2018-09-11 19:31:00"
+}

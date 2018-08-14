@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808130328",
+    "requested_datetime": "2018-08-13 20:19:12",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "西港區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "西港區中山路瑞穗檳榔 妨害安寧",
+    "address_string": "西港區中山路瑞穗檳榔",
+    "lat": "23.1196189",
+    "long": "120.2036671",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 06:26:27",
+    "expected_datetime": "2018-09-12 20:18:00"
+}

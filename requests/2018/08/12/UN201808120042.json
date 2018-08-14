@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808120042",
+    "requested_datetime": "2018-08-12 09:28:59",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "南區台17線中華西路一段 貓屍",
+    "address_string": "南區中華西路一段",
+    "lat": "22.9747815",
+    "long": "120.1841116",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 10:41:27",
+    "expected_datetime": "2018-09-11 09:27:00"
+}

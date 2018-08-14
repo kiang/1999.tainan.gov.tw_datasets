@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808120087",
+    "requested_datetime": "2018-08-12 11:52:38",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "市區道路路面油漬",
+    "description": "南區中華南路二段與永成路二段口 油漬",
+    "address_string": "南區中華南路二段永成路二段",
+    "lat": "22.9612985",
+    "long": "120.1899338",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 10:21:16",
+    "expected_datetime": "2018-09-11 11:50:00"
+}

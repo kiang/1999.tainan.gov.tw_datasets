@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808110238",
+    "requested_datetime": "2018-08-11 17:58:57",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "北區公園路918巷28號  電線桿傾斜",
+    "address_string": "北區公園路918巷28號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-08-13 10:46:21",
+    "expected_datetime": "2018-09-10 17:57:00"
+}

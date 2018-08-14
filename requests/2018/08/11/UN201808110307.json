@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808110307",
+    "requested_datetime": "2018-08-11 23:24:39",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "安南區公學路四段122巷107號 噪音舉發",
+    "address_string": "安南區公學路4段122巷107號",
+    "lat": "22.9964123",
+    "long": "120.1985055",
+    "service_notice": {},
+    "updated_datetime": "2018-08-12 04:31:21",
+    "expected_datetime": "2018-09-10 23:24:39"
+}

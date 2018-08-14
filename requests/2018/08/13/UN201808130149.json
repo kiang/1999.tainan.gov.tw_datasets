@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808130149",
+    "requested_datetime": "2018-08-13 12:36:41",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "安平區慶平路，介於維悅飯店與安平國中間 佔用道路",
+    "address_string": "安平區慶平路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-13 16:11:34",
+    "expected_datetime": "2018-09-12 12:36:00"
+}

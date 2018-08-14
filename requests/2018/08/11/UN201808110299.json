@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808110299",
+    "requested_datetime": "2018-08-11 22:00:52",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "北區公園路128號 妨害安寧",
+    "address_string": "北區公園路128號",
+    "lat": "22.9944261",
+    "long": "120.2107642",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-10 21:59:00"
+}

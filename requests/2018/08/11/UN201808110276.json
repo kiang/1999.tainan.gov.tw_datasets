@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808110276",
+    "requested_datetime": "2018-08-11 20:20:52",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區中華路154巷22號、23號 違停",
+    "address_string": "永康區中華路154巷22號",
+    "lat": "23.0035621",
+    "long": "120.2360965",
+    "service_notice": {},
+    "updated_datetime": "2018-08-12 04:01:25",
+    "expected_datetime": "2018-09-10 20:18:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808130127",
+    "requested_datetime": "2018-08-13 11:28:36",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "永康區大灣東路一帶 空氣汙染",
+    "address_string": "永康區大灣東路",
+    "lat": "23.0019317",
+    "long": "120.2703782",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 10:46:19",
+    "expected_datetime": "2018-09-12 11:27:00"
+}

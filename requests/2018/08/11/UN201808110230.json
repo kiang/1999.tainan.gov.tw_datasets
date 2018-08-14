@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808110230",
+    "requested_datetime": "2018-08-11 17:36:53",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "新營區太南里314之1號 路燈不亮",
+    "address_string": "新營區太南里314之1號",
+    "lat": "23.286348",
+    "long": "120.2779317",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 09:06:47",
+    "expected_datetime": "2018-09-10 17:35:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808110204",
+    "requested_datetime": "2018-08-11 16:22:22",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "中西區和真街跟西和路口",
+    "address_string": "中西區和真街西和路",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-08-13 15:33:33",
+    "expected_datetime": "2018-09-10 16:21:00"
+}

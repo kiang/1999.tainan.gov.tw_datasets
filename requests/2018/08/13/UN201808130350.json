@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808130350",
+    "requested_datetime": "2018-08-13 21:53:59",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區健康路一段113巷，竹溪里活動中心旁 違停",
+    "address_string": "南區健康路一段113巷",
+    "lat": "22.9800611",
+    "long": "120.2094719",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 06:26:29",
+    "expected_datetime": "2018-09-12 21:52:00"
+}

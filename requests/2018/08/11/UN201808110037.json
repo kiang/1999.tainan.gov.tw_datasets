@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808110037",
+    "requested_datetime": "2018-08-11 09:06:46",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "安平區育平路&平通路口 交通運輸",
+    "address_string": "安平區育平路平通路",
+    "lat": "22.9940856",
+    "long": "120.1675402",
+    "service_notice": {},
+    "updated_datetime": "2018-08-13 15:11:22",
+    "expected_datetime": "2018-09-10 09:06:46"
+}

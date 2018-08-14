@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808110239",
+    "requested_datetime": "2018-08-11 18:03:11",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區安平路422號伊蕾特對面 違規停車",
+    "address_string": "安平區安平路422號伊蕾特",
+    "lat": "22.9980673",
+    "long": "120.1741828",
+    "service_notice": {},
+    "updated_datetime": "2018-08-12 03:56:13",
+    "expected_datetime": "2018-09-10 18:00:00"
+}

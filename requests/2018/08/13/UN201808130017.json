@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808130017",
+    "requested_datetime": "2018-08-13 07:43:03",
+    "status": {},
+    "keyword": "0",
+    "area": "歸仁區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "歸仁區信義南路7號 路面坑洞",
+    "address_string": "歸仁區信義南路7號",
+    "lat": "22.9660482",
+    "long": "120.2979806",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-12 07:41:00"
+}

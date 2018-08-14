@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808110284",
+    "requested_datetime": "2018-08-11 21:03:17",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "東區裕學路185巷45號 路燈不亮",
+    "address_string": "東區裕學路185巷45號",
+    "lat": "22.9842273",
+    "long": "120.236361",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 10:11:41",
+    "expected_datetime": "2018-09-10 21:00:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808130163",
+    "requested_datetime": "2018-08-13 13:31:02",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "寬頻管線、孔蓋損壞",
+    "description": "永康區中正路229號之三 寬頻管線、孔蓋損壞",
+    "address_string": "永康區中正路229號之三",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-12 13:29:00"
+}

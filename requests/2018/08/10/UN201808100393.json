@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808100393",
+    "requested_datetime": "2018-08-10 23:41:51",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "仁德區中山路539巷5號 場所連續噪音",
+    "address_string": "中山路539巷5號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 08:56:24",
+    "expected_datetime": "2018-09-09 23:41:51"
+}

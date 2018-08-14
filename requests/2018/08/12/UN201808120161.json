@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808120161",
+    "requested_datetime": "2018-08-12 15:38:49",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "其他汙染舉發",
+    "description": "安南區海環街281巷6號 其他汙染舉發",
+    "address_string": "安南區海環街281巷6號",
+    "lat": "23.038413",
+    "long": "120.179661",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 08:27:13",
+    "expected_datetime": "2018-09-11 15:38:00"
+}

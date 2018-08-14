@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808130292",
+    "requested_datetime": "2018-08-13 18:24:32",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區裕農路上慈幼高工到後甲圓環, 違規停車",
+    "address_string": "東區裕農路",
+    "lat": "22.9886166",
+    "long": "120.2360325",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 06:21:35",
+    "expected_datetime": "2018-09-12 18:21:00"
+}

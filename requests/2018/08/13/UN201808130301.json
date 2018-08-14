@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808130301",
+    "requested_datetime": "2018-08-13 19:02:54",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "後壁區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "後壁區後壁火車站機車停車區 違規停車",
+    "address_string": "後壁區後壁火車站機車停車區",
+    "lat": "22.9886166",
+    "long": "120.2360325",
+    "service_notice": {},
+    "updated_datetime": "2018-08-14 06:16:28",
+    "expected_datetime": "2018-09-12 19:02:54"
+}
