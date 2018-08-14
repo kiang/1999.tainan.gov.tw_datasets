@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808140282",
+    "requested_datetime": "2018-08-14 17:12:33",
+    "status": {},
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "仁德區中正路一段與保安路附近 空氣汙染",
+    "address_string": "仁德區中正路一段",
+    "lat": "22.9264628",
+    "long": "120.2420578",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-13 17:09:00"
+}
