@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808150262",
+    "requested_datetime": "2018-08-15 18:56:42",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌故障",
+    "description": "南區中華南路與金華路口 號誌故障",
+    "address_string": "南區中華南路",
+    "lat": "22.9612985",
+    "long": "120.1899338",
+    "service_notice": {},
+    "updated_datetime": "2018-08-16 15:01:18",
+    "expected_datetime": "2018-09-14 18:55:00"
+}

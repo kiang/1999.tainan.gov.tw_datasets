@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808150038",
+    "requested_datetime": "2018-08-15 09:03:25",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面下陷、凹陷",
+    "description": "北區公園路910之1號 路面下陷",
+    "address_string": "北區公園路910之1號",
+    "lat": "23.0149297",
+    "long": "120.2134447",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-14 09:02:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808150291",
+    "requested_datetime": "2018-08-15 20:52:00",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "柳營區雙營橋，近太子路 路燈故障",
+    "address_string": "柳營區雙營橋",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-08-16 08:51:57",
+    "expected_datetime": "2018-09-14 20:50:00"
+}

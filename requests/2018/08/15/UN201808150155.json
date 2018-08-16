@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808150155",
+    "requested_datetime": "2018-08-15 14:33:48",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "安平區湖美街安平路 路面坑洞",
+    "address_string": "安平區湖美街安平路",
+    "lat": "22.9984311",
+    "long": "120.1801518",
+    "service_notice": {},
+    "updated_datetime": "2018-08-16 11:36:28",
+    "expected_datetime": "2018-09-14 14:32:00"
+}

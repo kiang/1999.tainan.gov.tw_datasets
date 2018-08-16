@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808150292",
+    "requested_datetime": "2018-08-15 21:10:03",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局",
+    "subproject": "9盞以下路燈故障",
+    "description": "東區大同路一段193號 路燈不亮",
+    "address_string": "東區大同路一段193號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-14 21:08:00"
+}

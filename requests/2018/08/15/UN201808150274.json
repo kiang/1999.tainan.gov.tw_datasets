@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808150274",
+    "requested_datetime": "2018-08-15 19:28:19",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面下陷、凹陷",
+    "description": "中西區府前路一段323號與321號中間 路面下陷、凹陷",
+    "address_string": "中西區府前路一段323號",
+    "lat": "22.9897381",
+    "long": "120.1998688",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-14 19:26:00"
+}

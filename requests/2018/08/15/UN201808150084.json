@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808150084",
+    "requested_datetime": "2018-08-15 11:06:39",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "東區崇明路303號 路面坑洞",
+    "address_string": "東區崇明路303號",
+    "lat": "22.995366",
+    "long": "120.209659",
+    "service_notice": {},
+    "updated_datetime": "2018-08-16 18:01:44",
+    "expected_datetime": "2018-09-14 11:05:00"
+}

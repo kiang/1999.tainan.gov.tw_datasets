@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808150229",
+    "requested_datetime": "2018-08-15 17:53:20",
+    "status": {},
+    "keyword": "0",
+    "area": "麻豆區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "麻豆區麻豆堤防路 坑洞",
+    "address_string": "麻豆區麻豆堤防路",
+    "lat": "23.1692688",
+    "long": "120.2547908",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-14 17:50:00"
+}

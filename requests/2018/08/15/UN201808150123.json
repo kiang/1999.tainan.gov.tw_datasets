@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808150123",
+    "requested_datetime": "2018-08-15 12:57:56",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "安南區郡安路五段191號到210號對面 路面坑洞",
+    "address_string": "安南區郡安路五段191號",
+    "lat": "23.0291186",
+    "long": "120.194389",
+    "service_notice": {},
+    "updated_datetime": "2018-08-16 16:51:21",
+    "expected_datetime": "2018-09-14 12:56:00"
+}

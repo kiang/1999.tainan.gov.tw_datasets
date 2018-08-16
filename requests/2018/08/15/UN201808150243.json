@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808150243",
+    "requested_datetime": "2018-08-15 18:17:06",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區崇善路913巷6弄58號 違規停車",
+    "address_string": "東區崇善路913巷6弄58號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-15 22:11:27",
+    "expected_datetime": "2018-09-14 18:17:06"
+}

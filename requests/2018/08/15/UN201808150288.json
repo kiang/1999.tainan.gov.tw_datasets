@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808150288",
+    "requested_datetime": "2018-08-15 20:34:05",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區立德十一路55巷3號 違規停車",
+    "address_string": "東區立德十一路55巷3號",
+    "lat": "22.978668",
+    "long": "120.2146133",
+    "service_notice": {},
+    "updated_datetime": "2018-08-16 03:31:24",
+    "expected_datetime": "2018-09-14 20:34:05"
+}

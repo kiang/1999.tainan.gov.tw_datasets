@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808150132",
+    "requested_datetime": "2018-08-15 13:40:26",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面下陷、凹陷",
+    "description": "中西區永華路一段174號 路面下陷、凹陷",
+    "address_string": "中西區永華路一段174號",
+    "lat": "22.9882573",
+    "long": "120.1923147",
+    "service_notice": {},
+    "updated_datetime": "2018-08-16 14:56:10",
+    "expected_datetime": "2018-09-14 13:38:00"
+}

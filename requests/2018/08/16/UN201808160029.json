@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808160029",
+    "requested_datetime": "2018-08-16 07:55:49",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新市區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "新市區西拉雅大道與善新大道  道路散落物",
+    "address_string": "新市區西拉雅大道善新大道",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-16 13:16:13",
+    "expected_datetime": "2018-09-15 07:51:00"
+}

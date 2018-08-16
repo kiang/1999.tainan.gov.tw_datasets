@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808150248",
+    "requested_datetime": "2018-08-15 18:35:08",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路樹傾倒",
+    "description": "南區永成路二段與明興路619巷口附近 樹倒",
+    "address_string": "南區永成路二段明興路619巷口",
+    "lat": "22.951162",
+    "long": "120.1955659",
+    "service_notice": {},
+    "updated_datetime": "2018-08-16 09:21:16",
+    "expected_datetime": "2018-09-14 18:29:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808150102",
+    "requested_datetime": "2018-08-15 11:43:17",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區府緯街84號 違規停車",
+    "address_string": "南區府緯街84號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-15 18:06:44",
+    "expected_datetime": "2018-09-14 11:43:17"
+}

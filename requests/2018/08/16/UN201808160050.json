@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808160050",
+    "requested_datetime": "2018-08-16 09:22:19",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "安南區長和路一段跟環館北路 坑洞",
+    "address_string": "安南區長和路一段環館北路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-16 16:51:22",
+    "expected_datetime": "2018-09-15 09:19:00"
+}

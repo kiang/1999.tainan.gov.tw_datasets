@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808150224",
+    "requested_datetime": "2018-08-15 17:36:52",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區大同路一段240號到270號 違規停車",
+    "address_string": "大同路一段240號",
+    "lat": "22.9818857",
+    "long": "120.2115956",
+    "service_notice": {},
+    "updated_datetime": "2018-08-16 07:21:35",
+    "expected_datetime": "2018-09-14 17:36:52"
+}

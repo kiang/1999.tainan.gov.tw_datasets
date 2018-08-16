@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808150167",
+    "requested_datetime": "2018-08-15 15:16:24",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區中山東路159號，麵包店 違停",
+    "address_string": "永康區中山東路159號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-15 18:17:01",
+    "expected_datetime": "2018-09-14 15:14:00"
+}

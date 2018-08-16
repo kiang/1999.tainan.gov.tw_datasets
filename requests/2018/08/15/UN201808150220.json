@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808150220",
+    "requested_datetime": "2018-08-15 17:34:04",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "佳里區",
+    "service_name": "動物救援",
+    "agency": "台南市政府",
+    "subproject": "遊蕩犬隻捕捉管制",
+    "description": "佳里區佳東路550巷42號 捕狗",
+    "address_string": "佳里區佳東路550巷42號",
+    "lat": "23.1616653",
+    "long": "120.1833671",
+    "service_notice": {},
+    "updated_datetime": "2018-08-16 15:31:15",
+    "expected_datetime": "2018-09-14 17:32:00"
+}

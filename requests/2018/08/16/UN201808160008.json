@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808160008",
+    "requested_datetime": "2018-08-16 04:03:54",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "仁德區中山路48巷13號 空氣汙染",
+    "address_string": "中山路48巷13號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-16 16:26:15",
+    "expected_datetime": "2018-09-15 04:03:54"
+}
