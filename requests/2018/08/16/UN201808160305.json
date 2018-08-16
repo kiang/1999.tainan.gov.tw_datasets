@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808160305",
     "requested_datetime": "2018-08-16 18:53:12",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "南區",
     "service_name": "交通運輸",
@@ -9,9 +9,9 @@
     "subproject": "佔用道路",
     "description": "南區明興路6號 佔用道路",
     "address_string": "南區明興路6號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9609051",
+    "long": "120.1888603",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-17 01:46:24",
     "expected_datetime": "2018-09-15 18:50:00"
 }

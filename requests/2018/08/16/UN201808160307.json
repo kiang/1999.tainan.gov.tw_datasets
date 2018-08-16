@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808160307",
     "requested_datetime": "2018-08-16 18:59:08",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "南區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "南區興南街90號對面 違規停車",
     "address_string": "南區興南街90號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9997281",
+    "long": "120.2270277",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-17 01:36:40",
     "expected_datetime": "2018-09-15 18:56:00"
 }

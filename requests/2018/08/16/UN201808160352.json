@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808160352",
     "requested_datetime": "2018-08-16 22:21:47",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "安平區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "安平區建平十七街33號 違規停車",
     "address_string": "建平十七街33號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9973212",
+    "long": "120.1831576",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-17 01:51:30",
     "expected_datetime": "2018-09-15 22:21:47"
 }

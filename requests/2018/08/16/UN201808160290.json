@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808160290",
     "requested_datetime": "2018-08-16 18:09:16",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "東區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "東區長東街46巷內 違停",
     "address_string": "東區長東街46巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.9634399",
+    "long": "120.2293062",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-17 01:31:13",
     "expected_datetime": "2018-09-15 18:08:00"
 }

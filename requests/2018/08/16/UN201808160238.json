@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區府連東路22巷42號 路燈故障",
     "address_string": "東區府連東路22巷42號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9841277",
+    "long": "120.2167332",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-15 16:18:00"

@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808160359",
     "requested_datetime": "2018-08-16 23:52:26",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "新營區",
     "service_name": "髒亂及汙染",
@@ -9,9 +9,9 @@
     "subproject": "空氣汙染",
     "description": "新營區府西路261巷  空氣汙染",
     "address_string": "新營區府西路261巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.3189919",
+    "long": "120.3132825",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-17 01:51:31",
     "expected_datetime": "2018-09-15 23:50:00"
 }
