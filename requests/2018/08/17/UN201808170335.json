@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區成功路278號 路燈不亮",
     "address_string": "北區成功路278號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9995095",
+    "long": "120.2020601",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-16 18:47:00"

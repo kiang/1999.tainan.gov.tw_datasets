@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區台江大道三段600號附近 路燈不亮",
     "address_string": "安南區台江大道三段600號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0639886",
+    "long": "120.1630074",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-16 22:15:00"

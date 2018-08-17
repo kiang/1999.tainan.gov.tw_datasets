@@ -9,8 +9,8 @@
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "歸仁區高鐵二路與歸仁十一路   漏水",
     "address_string": "歸仁區高鐵二路與歸仁十一路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9265085",
+    "long": "120.2922965",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-16 10:57:00"
