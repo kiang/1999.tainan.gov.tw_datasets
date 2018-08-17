@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808170103",
+    "requested_datetime": "2018-08-17 11:05:44",
+    "status": {},
+    "keyword": "0",
+    "area": "七股區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "七股區納骨塔(龍山里2鄰12-72號)往西300公尺右轉魚塭路  路燈故障",
+    "address_string": "七股區",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-16 11:02:00"
+}
