@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808180094",
+    "requested_datetime": "2018-08-18 11:02:28",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "永康區自強路188巷  施工噪音",
+    "address_string": "永康區自強路188巷",
+    "lat": "23.0259723",
+    "long": "120.2509105",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-17 10:59:00"
+}

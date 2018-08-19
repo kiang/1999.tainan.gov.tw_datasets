@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808180219",
+    "requested_datetime": "2018-08-18 16:27:17",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "北區林森路三段138號  交通疏導",
+    "address_string": "北區林森路三段138號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-18 17:06:13",
+    "expected_datetime": "2018-09-17 16:27:00"
+}

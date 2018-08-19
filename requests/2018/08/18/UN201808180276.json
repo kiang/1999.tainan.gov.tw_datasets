@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808180276",
+    "requested_datetime": "2018-08-18 19:01:45",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "安平區國平西路與國平北路 路燈故障",
+    "address_string": "安平區國平西路",
+    "lat": "22.9828908",
+    "long": "120.1698816",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-17 19:00:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808180172",
+    "requested_datetime": "2018-08-18 14:08:19",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "安南區安吉路二段跟台江大道二段十字路   路面散落物",
+    "address_string": "安南區安吉路二段台江大道二段",
+    "lat": "23.0603114",
+    "long": "120.191151",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-17 14:07:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808180302",
+    "requested_datetime": "2018-08-18 20:34:07",
+    "status": {},
+    "keyword": "0",
+    "area": "下營區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "下營區賀建里麻豆寮慈惠堂前十字路口 路燈閃爍",
+    "address_string": "下營區賀建里5鄰麻豆寮54號",
+    "lat": "23.2540965",
+    "long": "120.2954501",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-17 20:31:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808180155",
+    "requested_datetime": "2018-08-18 13:30:19",
+    "status": {},
+    "keyword": "0",
+    "area": "新市區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "新市區富強路跟新港社大道十字路口   路面坑洞",
+    "address_string": "新市區富強路新港社大道",
+    "lat": "23.0644502",
+    "long": "120.2812064",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-17 13:28:00"
+}

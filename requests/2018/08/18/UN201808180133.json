@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808180133",
+    "requested_datetime": "2018-08-18 12:23:04",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "中西區民族路三段72號  空氣汙染",
+    "address_string": "中西區民族路三段72號",
+    "lat": "22.998296",
+    "long": "120.197999",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-17 12:20:00"
+}

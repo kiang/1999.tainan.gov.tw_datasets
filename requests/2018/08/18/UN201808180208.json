@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808180208",
+    "requested_datetime": "2018-08-18 15:57:20",
+    "status": {},
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "新營區新東重劃區，東昌路（應是街）底，靠近鐵路附近 空氣污染",
+    "address_string": "新營區東昌街",
+    "lat": "22.9815638",
+    "long": "120.190537",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-17 15:53:00"
+}

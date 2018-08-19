@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808180321",
+    "requested_datetime": "2018-08-18 22:59:06",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "安南區北安路二段526號，一品來小吃部 妨害安寧",
+    "address_string": "安南區北安路二段526號",
+    "lat": "23.0370185",
+    "long": "120.2030762",
+    "service_notice": {},
+    "updated_datetime": "2018-08-19 06:51:38",
+    "expected_datetime": "2018-09-17 22:58:00"
+}

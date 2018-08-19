@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808180188",
+    "requested_datetime": "2018-08-18 14:45:52",
+    "status": {},
+    "keyword": "0",
+    "area": "大內區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "大內區頭社里103之2號 停水",
+    "address_string": "大內區頭社里103之2號",
+    "lat": "23.1505259",
+    "long": "120.380825",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-17 14:45:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808180192",
+    "requested_datetime": "2018-08-18 14:57:47",
+    "status": {},
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面掏空、塌陷",
+    "description": "仁德區仁德ㄧ街57號  道路維修",
+    "address_string": "仁德區仁德ㄧ街57號",
+    "lat": "23.0816192",
+    "long": "120.2953317",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-17 14:57:47"
+}

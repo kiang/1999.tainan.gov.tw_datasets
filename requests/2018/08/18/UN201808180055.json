@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808180055",
+    "requested_datetime": "2018-08-18 09:37:30",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "永康區龍中街651巷19號旁 空氣汙染",
+    "address_string": "永康區龍中街651巷19號",
+    "lat": "23.0402668",
+    "long": "120.2610925",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-17 09:36:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808180291",
+    "requested_datetime": "2018-08-18 20:00:30",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區小東路345號 違規停車",
+    "address_string": "小東路345號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-18 22:21:38",
+    "expected_datetime": "2018-09-17 20:00:30"
+}

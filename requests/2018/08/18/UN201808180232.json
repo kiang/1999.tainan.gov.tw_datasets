@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808180232",
+    "requested_datetime": "2018-08-18 17:19:35",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區正義街126巷  違規停車",
+    "address_string": {},
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-18 22:06:57",
+    "expected_datetime": "2018-09-17 17:19:00"
+}

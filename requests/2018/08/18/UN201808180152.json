@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808180152",
+    "requested_datetime": "2018-08-18 13:24:14",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區崇學路171、167、165號周遭 違規停車",
+    "address_string": "東區崇學路171號167號165號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-18 16:01:24",
+    "expected_datetime": "2018-09-17 13:24:14"
+}

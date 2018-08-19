@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808180187",
+    "requested_datetime": "2018-08-18 14:45:44",
+    "status": {},
+    "keyword": "0",
+    "area": "安定區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "安定區許中營24之17號  路面漏水",
+    "address_string": "安定區許中營24之17號",
+    "lat": "23.096486",
+    "long": "120.240622",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-17 14:44:00"
+}

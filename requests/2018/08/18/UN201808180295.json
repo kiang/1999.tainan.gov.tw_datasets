@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808180295",
+    "requested_datetime": "2018-08-18 20:08:26",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "永康區新中街 路面坑洞",
+    "address_string": "永康區新中街",
+    "lat": "23.0376224",
+    "long": "120.2423499",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-17 20:08:00"
+}

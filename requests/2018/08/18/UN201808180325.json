@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808180325",
+    "requested_datetime": "2018-08-18 23:15:23",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "北區南園街127巷19號 停電",
+    "address_string": "北區南園街127巷19號",
+    "lat": "23.0072054",
+    "long": "120.2262889",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-17 23:15:23"
+}

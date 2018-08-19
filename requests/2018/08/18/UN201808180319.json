@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808180319",
+    "requested_datetime": "2018-08-18 22:55:48",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區中華路134巷5弄 違規停車",
+    "address_string": "永康區中華路134巷5弄",
+    "lat": "23.0025241",
+    "long": "120.2365136",
+    "service_notice": {},
+    "updated_datetime": "2018-08-19 06:51:38",
+    "expected_datetime": "2018-09-17 22:55:48"
+}

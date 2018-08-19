@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808180101",
+    "requested_datetime": "2018-08-18 11:23:22",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區建平五街22巷15弄一號旁 違規停車",
+    "address_string": "建平五街22巷15弄一號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-18 15:31:21",
+    "expected_datetime": "2018-09-17 11:23:22"
+}

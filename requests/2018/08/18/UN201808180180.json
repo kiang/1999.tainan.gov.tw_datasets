@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808180180",
+    "requested_datetime": "2018-08-18 14:24:30",
+    "status": {},
+    "keyword": "0",
+    "area": "白河區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "白河區大竹里75號 路燈故障089",
+    "address_string": "白河區大竹里75號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-17 14:23:00"
+}

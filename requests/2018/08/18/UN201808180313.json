@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808180313",
+    "requested_datetime": "2018-08-18 21:39:30",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "東區府東街265號，停車場前，三輪車攤販 老山羊鍋燒意麵 佔用道路＆違規停車",
+    "address_string": "東區府東街265號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-19 00:36:18",
+    "expected_datetime": "2018-09-17 21:38:00"
+}

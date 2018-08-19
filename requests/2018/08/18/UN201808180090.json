@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808180090",
+    "requested_datetime": "2018-08-18 10:47:08",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
+    "description": "南區健康路二段241號243號中間  孔蓋鬆動",
+    "address_string": "南區健康路二段241號243號",
+    "lat": "22.9815638",
+    "long": "120.190537",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-17 10:45:00"
+}

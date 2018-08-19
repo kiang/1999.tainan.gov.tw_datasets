@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808180141",
+    "requested_datetime": "2018-08-18 12:48:27",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "仁德區中正路一段525號 違規停車",
+    "address_string": "仁德區中正路一段525號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-18 15:46:25",
+    "expected_datetime": "2018-09-17 12:47:00"
+}
