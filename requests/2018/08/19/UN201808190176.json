@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "北區北安路一段與西門路四段口，往永康方向 號誌故障",
     "address_string": "北區北安路一段西門路四段",
-    "lat": {},
-    "long": {},
+    "lat": "23.0162867",
+    "long": "120.210809",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-18 16:43:00"

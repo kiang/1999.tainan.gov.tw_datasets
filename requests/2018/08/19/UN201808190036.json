@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "北區北門路二段208號前 號誌故障",
     "address_string": "北區北門路二段208號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0059207",
+    "long": "120.214366",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-18 08:37:00"

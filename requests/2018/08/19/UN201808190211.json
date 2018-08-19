@@ -9,8 +9,8 @@
     "subproject": "10盞以上路燈故障",
     "description": "仁德區德善路與德崙路口 路燈不亮",
     "address_string": "仁德區德善路德崙路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9426008",
+    "long": "120.2591912",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-18 18:55:00"
