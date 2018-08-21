@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808210362",
+    "requested_datetime": "2018-08-21 23:25:39",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌故障",
+    "description": "北區臨安路二段與金華路五段口 號誌故障",
+    "address_string": "北區臨安路二段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-20 23:24:00"
+}
