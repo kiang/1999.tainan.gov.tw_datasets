@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808210281",
+    "requested_datetime": "2018-08-21 17:31:55",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區健康路一段370號 違規停車",
+    "address_string": "中西區健康路一段370號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-21 18:21:23",
+    "expected_datetime": "2018-09-20 17:31:55"
+}
