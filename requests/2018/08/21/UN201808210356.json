@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808210356",
     "requested_datetime": "2018-08-21 22:22:45",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "安平區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "安平區建平十七街31號 違規停車",
     "address_string": "安平區建平十七街31號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9971963",
+    "long": "120.1833767",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-22 01:21:44",
     "expected_datetime": "2018-09-20 22:22:45"
 }

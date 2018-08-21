@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "善化區興華路274號 路燈不亮",
     "address_string": "善化區興華路274號",
-    "lat": {},
-    "long": {},
+    "lat": "23.1271535",
+    "long": "120.2955694",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-20 19:33:00"

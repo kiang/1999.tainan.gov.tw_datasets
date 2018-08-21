@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808210364",
     "requested_datetime": "2018-08-21 23:35:59",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "東區",
     "service_name": "噪音舉發",
@@ -9,9 +9,9 @@
     "subproject": "妨害安寧",
     "description": "東區崇善十三街17號 噪音舉發",
     "address_string": "東區崇善十三街17號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9700561",
+    "long": "120.234247",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-22 01:26:22",
     "expected_datetime": "2018-09-20 23:35:59"
 }

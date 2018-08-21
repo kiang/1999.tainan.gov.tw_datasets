@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808180197",
     "requested_datetime": "2018-08-18 15:15:46",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": {},
     "service_name": {},
@@ -12,6 +12,6 @@
     "lat": "23.114283",
     "long": "120.298477",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-22 01:21:46",
     "expected_datetime": "2018-09-17 15:15:00"
 }

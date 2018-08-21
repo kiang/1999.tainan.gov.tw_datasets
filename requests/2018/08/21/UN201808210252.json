@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808210252",
     "requested_datetime": "2018-08-21 16:39:48",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "安南區",
     "service_name": "交通運輸",
@@ -9,9 +9,9 @@
     "subproject": "交通疏導",
     "description": "安南區安中路一段和北安路口 交通疏導",
     "address_string": "安南區安中路一段北安路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9997281",
+    "long": "120.2270277",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-22 01:16:22",
     "expected_datetime": "2018-09-20 16:38:00"
 }

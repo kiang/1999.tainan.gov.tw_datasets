@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808210351",
     "requested_datetime": "2018-08-21 21:40:48",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "北區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "北區和緯路二段161號 違規停車",
     "address_string": "和緯路二段161號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9997281",
+    "long": "120.2270277",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-22 01:16:23",
     "expected_datetime": "2018-09-20 21:40:48"
 }

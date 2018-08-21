@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808210160",
     "requested_datetime": "2018-08-21 12:54:29",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "東區",
     "service_name": "交通運輸",
@@ -9,9 +9,9 @@
     "subproject": "佔用道路",
     "description": "東區莊敬路155號，成大學府特區 佔用道路",
     "address_string": "東區莊敬路155號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9958696",
+    "long": "120.2327635",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-22 01:16:22",
     "expected_datetime": "2018-09-20 12:47:00"
 }

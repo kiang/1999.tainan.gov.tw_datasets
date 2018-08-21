@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "仁德區義林南路，由德糖路到德崙路之間路段 路燈不亮",
     "address_string": "仁德區義林南路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9997281",
+    "long": "120.2270277",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-20 20:13:00"
