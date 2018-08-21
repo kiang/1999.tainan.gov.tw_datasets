@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808200364",
+    "requested_datetime": "2018-08-20 20:43:48",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "中西區海安路二段，近中正路，寶雅前\/中西區中山路209號，定食8前 路燈不亮",
+    "address_string": "中西區海安路二段中正路",
+    "lat": "22.9932953",
+    "long": "120.1960021",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-19 20:42:00"
+}

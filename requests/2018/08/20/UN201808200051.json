@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808200051",
+    "requested_datetime": "2018-08-20 09:15:46",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "環境髒亂",
+    "description": "中西區樹林街二段328巷口 環境髒亂",
+    "address_string": "中西區樹林街二段328巷",
+    "lat": "22.9866077",
+    "long": "120.2008093",
+    "service_notice": {},
+    "updated_datetime": "2018-08-21 09:01:39",
+    "expected_datetime": "2018-09-19 09:14:00"
+}

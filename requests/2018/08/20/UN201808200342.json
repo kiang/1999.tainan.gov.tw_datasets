@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808200342",
+    "requested_datetime": "2018-08-20 19:24:56",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "安南區大眾六街148巷39弄 路燈不亮",
+    "address_string": "安南區大眾六街148巷39弄",
+    "lat": "23.0195893",
+    "long": "120.1273701",
+    "service_notice": {},
+    "updated_datetime": "2018-08-21 09:21:41",
+    "expected_datetime": "2018-09-19 19:22:00"
+}

@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808170379",
     "requested_datetime": "2018-08-17 21:34:50",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "東區",
     "service_name": "髒亂及汙染",
@@ -12,6 +12,6 @@
     "lat": "22.9833276",
     "long": "120.2384188",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-21 13:56:38",
     "expected_datetime": "2018-09-16 21:32:00"
 }

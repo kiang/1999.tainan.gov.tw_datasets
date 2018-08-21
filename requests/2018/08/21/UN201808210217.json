@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808210217",
+    "requested_datetime": "2018-08-21 15:18:58",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "北區海安路三段772號  空氣汙染",
+    "address_string": "北區海安路三段772號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-21 17:51:16",
+    "expected_datetime": "2018-09-20 15:16:00"
+}

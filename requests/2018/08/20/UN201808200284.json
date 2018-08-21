@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808200284",
+    "requested_datetime": "2018-08-20 16:51:08",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "永康區中華路330號 路面散落物",
+    "address_string": "永康區中華路330號",
+    "lat": "23.008311",
+    "long": "120.234364",
+    "service_notice": {},
+    "updated_datetime": "2018-08-21 17:06:19",
+    "expected_datetime": "2018-09-19 16:49:00"
+}

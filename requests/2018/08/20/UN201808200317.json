@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808200317",
+    "requested_datetime": "2018-08-20 18:16:07",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌故障",
+    "description": "北區公園南路北門路 號誌故障",
+    "address_string": "北區公園南路北門路",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-08-21 16:16:24",
+    "expected_datetime": "2018-09-19 18:14:00"
+}

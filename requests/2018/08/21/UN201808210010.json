@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808210010",
+    "requested_datetime": "2018-08-21 06:17:21",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "永康區忠孝路中興街 空氣汙染",
+    "address_string": "永康區忠孝路中興街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-21 13:56:37",
+    "expected_datetime": "2018-09-20 06:17:00"
+}

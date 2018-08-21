@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808200369",
+    "requested_datetime": "2018-08-20 20:57:02",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "南區新建路35巷 空污",
+    "address_string": "南區新建路35巷",
+    "lat": "22.9669869",
+    "long": "120.1852862",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-19 20:55:00"
+}

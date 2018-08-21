@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808200345",
+    "requested_datetime": "2018-08-20 19:29:54",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "安平區安億路與慶平路口 號誌故障",
+    "address_string": "安億路",
+    "lat": "22.9940061",
+    "long": "120.1598021",
+    "service_notice": {},
+    "updated_datetime": "2018-08-21 09:21:41",
+    "expected_datetime": "2018-09-19 19:29:54"
+}

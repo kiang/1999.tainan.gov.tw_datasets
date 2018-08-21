@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808180188",
     "requested_datetime": "2018-08-18 14:45:52",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "大內區",
     "service_name": "民生管線",
@@ -12,6 +12,6 @@
     "lat": "23.1505259",
     "long": "120.380825",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-20 15:31:43",
     "expected_datetime": "2018-09-17 14:45:00"
 }

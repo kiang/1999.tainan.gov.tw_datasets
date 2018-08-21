@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808170407",
     "requested_datetime": "2018-08-17 23:55:43",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "仁德區",
     "service_name": "噪音舉發",
@@ -12,6 +12,6 @@
     "lat": "22.9713862",
     "long": "120.2534891",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-21 08:41:28",
     "expected_datetime": "2018-09-16 23:55:43"
 }

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808200047",
+    "requested_datetime": "2018-08-20 09:07:04",
+    "status": {},
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "仁德區中山路379巷1號對面 空氣汙染",
+    "address_string": "仁德區中山路379巷1號",
+    "lat": "22.9708894",
+    "long": "120.2575627",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-19 09:06:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808200042",
+    "requested_datetime": "2018-08-20 08:59:10",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "永康區大灣路942巷641弄5號 噪音舉發",
+    "address_string": "永康區大灣路942巷641弄5號",
+    "lat": "23.012709",
+    "long": "120.257008",
+    "service_notice": {},
+    "updated_datetime": "2018-08-21 11:16:19",
+    "expected_datetime": "2018-09-19 08:59:10"
+}

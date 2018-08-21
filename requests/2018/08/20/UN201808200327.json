@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808200327",
+    "requested_datetime": "2018-08-20 18:34:53",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面下陷、凹陷",
+    "description": "永康區中山路與埔園街交叉口 路面下陷、凹陷",
+    "address_string": "永康區中山路",
+    "lat": "23.0886362",
+    "long": "120.2393723",
+    "service_notice": {},
+    "updated_datetime": "2018-08-21 15:26:18",
+    "expected_datetime": "2018-09-19 18:34:00"
+}
