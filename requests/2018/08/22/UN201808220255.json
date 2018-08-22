@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808220255",
+    "requested_datetime": "2018-08-22 18:51:09",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區長榮路五段，從開元路往地下道方向 路燈不亮",
+    "address_string": "北區長榮路五段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-21 18:51:00"
+}
