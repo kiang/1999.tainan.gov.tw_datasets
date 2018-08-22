@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808210143",
     "requested_datetime": "2018-08-21 11:57:54",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "鹽水區",
     "service_name": "動物救援",
@@ -12,6 +12,6 @@
     "lat": "23.3252845",
     "long": "120.2705903",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-22 15:06:13",
     "expected_datetime": "2018-09-20 11:56:00"
 }
