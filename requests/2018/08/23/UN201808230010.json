@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "北區長榮路四段63號 號誌故障",
     "address_string": "北區長榮路四段63號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0041689",
+    "long": "120.2224372",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-22 07:18:00"

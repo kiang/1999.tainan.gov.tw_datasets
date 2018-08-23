@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808230723",
+    "requested_datetime": "2018-08-23 19:32:34",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "南區中華南路二段315巷26弄與32弄 路燈大範圍不亮",
+    "address_string": "南區中華南路二段315巷26弄",
+    "lat": "22.9594673",
+    "long": "120.1853536",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-22 19:31:00"
+}

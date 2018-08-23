@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808230747",
+    "requested_datetime": "2018-08-23 19:51:05",
+    "status": {},
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "(災變中心)仁德區中正路二段840對面,路面坑洞,",
+    "address_string": "仁德區中正路二段840號",
+    "lat": "22.9636174",
+    "long": "120.253589",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-22 19:49:00"
+}

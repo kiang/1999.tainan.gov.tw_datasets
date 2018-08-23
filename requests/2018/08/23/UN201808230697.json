@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201808230969",
-    "requested_datetime": "2018-08-23 22:44:04",
+    "service_request_id": "UN201808230697",
+    "requested_datetime": "2018-08-23 17:35:17",
     "status": {},
     "keyword": "0",
     "area": "安平區",
     "service_name": "天然災害",
     "agency": "台南市政府",
     "subproject": "路樹問題",
-    "description": "(災變中心)安平區永華六街35巷,路樹橫倒馬路",
-    "address_string": "安平區永華六街35巷",
+    "description": "安平區華平路近和緯路五段,華平路路樹橫倒",
+    "address_string": "安平區華平路",
     "lat": "22.9997281",
     "long": "120.2270277",
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2018-09-22 22:43:00"
+    "expected_datetime": "2018-09-22 17:32:00"
 }
