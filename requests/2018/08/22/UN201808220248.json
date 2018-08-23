@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "新市區示範公墓附近 空氣汙染",
     "address_string": "新市區示範公墓附近",
-    "lat": {},
-    "long": {},
+    "lat": "23.084786",
+    "long": "120.33472",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-21 18:19:00"

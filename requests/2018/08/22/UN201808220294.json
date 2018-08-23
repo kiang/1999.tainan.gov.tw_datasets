@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區明東街22號 路燈不亮",
     "address_string": "東區明東街22號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9613869",
+    "long": "120.2356559",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-21 21:03:00"

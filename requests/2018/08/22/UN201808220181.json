@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "新市區三舍里239號 空氣污染",
     "address_string": "新市區三舍里239號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0976924",
+    "long": "120.2945362",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-21 15:25:00"

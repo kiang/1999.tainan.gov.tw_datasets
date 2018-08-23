@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808220037",
     "requested_datetime": "2018-08-22 08:52:25",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "歸仁區",
     "service_name": "髒亂及汙染",
@@ -9,9 +9,9 @@
     "subproject": "其他汙染舉發",
     "description": "歸仁區忠孝北路35號與37號對面 垃圾",
     "address_string": "歸仁區忠孝北路35號37號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9664129",
+    "long": "120.3021954",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-23 08:46:19",
     "expected_datetime": "2018-09-21 08:49:00"
 }
