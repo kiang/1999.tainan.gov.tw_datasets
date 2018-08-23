@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808230529",
+    "requested_datetime": "2018-08-23 15:58:02",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路樹傾倒",
+    "description": "仁德區文宏路256號  路樹倒塌",
+    "address_string": "仁德區文宏路256號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-23 17:01:19",
+    "expected_datetime": "2018-09-22 15:55:00"
+}
