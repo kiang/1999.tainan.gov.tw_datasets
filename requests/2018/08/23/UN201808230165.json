@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808230165",
+    "requested_datetime": "2018-08-23 11:28:09",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "安南區工明南一路、工明南三路  佔用道路",
+    "address_string": "安南區工明南一路工明南三路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-23 12:51:18",
+    "expected_datetime": "2018-09-22 11:28:09"
+}
