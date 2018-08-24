@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808240890",
+    "requested_datetime": "2018-08-24 20:52:29",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "歸仁區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "歸仁區大成路47號 妨害安寧",
+    "address_string": "大成路47號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-24 23:51:24",
+    "expected_datetime": "2018-09-23 20:52:29"
+}
