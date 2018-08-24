@@ -9,8 +9,8 @@
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "東區德高街76號   停電",
     "address_string": "東區德高街76號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9667821",
+    "long": "120.2343746",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-23 09:55:00"

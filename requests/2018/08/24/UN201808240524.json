@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "南區智南街整條街 路燈不亮",
     "address_string": "南區智南街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9837227",
+    "long": "120.1869885",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-23 13:42:00"
