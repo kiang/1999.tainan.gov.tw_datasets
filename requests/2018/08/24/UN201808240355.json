@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808240355",
+    "requested_datetime": "2018-08-24 10:59:10",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區府東街40號 違停",
+    "address_string": "東區府東街40號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-24 18:41:24",
+    "expected_datetime": "2018-09-23 10:57:00"
+}
