@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808250062",
+    "requested_datetime": "2018-08-25 08:06:01",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "仁德區德南路187巷39號1樓 違停",
+    "address_string": "仁德區德南路187巷39號1樓",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-25 15:31:28",
+    "expected_datetime": "2018-09-24 08:05:00"
+}
