@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區湖美街32巷 路燈故障",
     "address_string": "中西區湖美街32巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.0004395",
+    "long": "120.1804526",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-24 19:46:00"

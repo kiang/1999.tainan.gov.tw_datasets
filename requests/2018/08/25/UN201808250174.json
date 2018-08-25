@@ -9,8 +9,8 @@
     "subproject": "路面坑洞",
     "description": "安定區安定郵局旁道路通往堤防道路，堤防道路上往西港大橋方向 路面坑洞",
     "address_string": "安定區堤防道路",
-    "lat": {},
-    "long": {},
+    "lat": "23.121593",
+    "long": "120.237118",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-24 10:54:00"

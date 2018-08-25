@@ -9,8 +9,8 @@
     "subproject": "路燈故障毀損",
     "description": "北門區中樞里8號 路燈故障",
     "address_string": "北門區中樞里8號",
-    "lat": {},
-    "long": {},
+    "lat": "23.248044",
+    "long": "120.142009",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-24 17:56:00"

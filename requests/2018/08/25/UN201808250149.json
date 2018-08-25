@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區中華北路一段53巷61號前  路燈故障",
     "address_string": "北區中華北路一段53巷61號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0071867",
+    "long": "120.1842903",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-24 10:22:00"

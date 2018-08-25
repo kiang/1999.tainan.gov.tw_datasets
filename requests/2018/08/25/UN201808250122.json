@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "七股區南32跟29路口 號誌故障",
     "address_string": "七股區南32",
-    "lat": {},
-    "long": {},
+    "lat": "22.9929382",
+    "long": "120.2109472",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-24 09:38:00"

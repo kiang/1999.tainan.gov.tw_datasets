@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "安南區北安路二段59號 號誌故障",
     "address_string": "安南區北安路二段59號",
-    "lat": {},
-    "long": {},
+    "lat": "23.025893",
+    "long": "120.204802",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-24 16:48:00"

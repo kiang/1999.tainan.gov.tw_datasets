@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "永康區大同街639巷8號、16號 路燈故障",
     "address_string": "永康區大同街639巷8號、16號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0180916",
+    "long": "120.263518",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-24 14:07:00"

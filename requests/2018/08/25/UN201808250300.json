@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "IVR  安平區世平三街12巷24號   路燈故障",
     "address_string": "安平區世平三街12巷24號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9959061",
+    "long": "120.1492802",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-24 14:21:00"

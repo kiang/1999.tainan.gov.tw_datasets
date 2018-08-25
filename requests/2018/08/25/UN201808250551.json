@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808250551",
+    "requested_datetime": "2018-08-25 23:32:08",
+    "status": {},
+    "keyword": "0",
+    "area": "歸仁區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "歸仁區忠孝南路25巷31號 佔用道路",
+    "address_string": "歸仁區忠孝南路25巷31號",
+    "lat": "22.9646469",
+    "long": "120.3035419",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-24 23:32:08"
+}

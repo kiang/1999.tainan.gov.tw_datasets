@@ -9,8 +9,8 @@
     "subproject": "10盞以上路燈故障",
     "description": "中西區文賢路115號附近\/中西區信義街120號附近 路燈不亮",
     "address_string": "中西區文賢路115號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0016754",
+    "long": "120.1944199",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-24 10:34:00"
