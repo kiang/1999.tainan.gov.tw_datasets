@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "IVR  永康區中正二街162巷17號  路燈故障",
     "address_string": "永康區中正二街162巷17號",
-    "lat": {},
-    "long": {},
+    "lat": "23.011944",
+    "long": "120.236741",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-25 14:31:00"

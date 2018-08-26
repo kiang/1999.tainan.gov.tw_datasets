@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區和緯路二段159號 路燈故障",
     "address_string": "北區和緯路二段159號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0120111",
+    "long": "120.2069064",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-25 00:22:09"

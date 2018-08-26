@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區南門路227巷，近慶中街口 路燈不亮",
     "address_string": "中西區南門路227巷慶中街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9837835",
+    "long": "120.205609",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-25 22:04:00"

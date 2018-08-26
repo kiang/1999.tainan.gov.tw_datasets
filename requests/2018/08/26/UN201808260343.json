@@ -9,8 +9,8 @@
     "subproject": "10盞以上路燈故障",
     "description": "柳營區神農里378號 10盞以上路燈不亮",
     "address_string": "柳營區神農里378號",
-    "lat": {},
-    "long": {},
+    "lat": "23.2613107",
+    "long": "120.3579632",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-25 19:30:00"

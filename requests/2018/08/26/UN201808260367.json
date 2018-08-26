@@ -9,8 +9,8 @@
     "subproject": "10盞以上路燈故障",
     "description": "歸仁區武當路，近歸仁十二路 路燈不亮",
     "address_string": "歸仁區武當路歸仁十二路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9221123",
+    "long": "120.2855302",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-25 20:45:00"

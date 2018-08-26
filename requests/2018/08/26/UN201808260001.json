@@ -9,8 +9,8 @@
     "subproject": "路面坑洞",
     "description": "台86線往安平方向，湖內閘道到永成路上 路面坑洞",
     "address_string": "台86線",
-    "lat": {},
-    "long": {},
+    "lat": "22.9437345",
+    "long": "120.2430162",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-24 23:55:00"

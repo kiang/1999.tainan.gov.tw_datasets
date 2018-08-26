@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "安南區國安街148號 號誌故障",
     "address_string": "安南區國安街148號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0221715",
+    "long": "120.187921",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-25 08:45:00"

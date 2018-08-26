@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808260388",
+    "requested_datetime": "2018-08-26 21:44:26",
+    "status": {},
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "動物救援",
+    "agency": "台南市政府",
+    "subproject": "遊蕩犬隻捕捉管制",
+    "description": "仁德區德崙路196巷內 遊蕩犬隻捕捉管制",
+    "address_string": "仁德區德崙路196巷",
+    "lat": "23.1199572",
+    "long": "120.2035313",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-25 21:43:00"
+}
