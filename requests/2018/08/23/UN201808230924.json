@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808230924",
     "requested_datetime": "2018-08-23 21:56:40",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "新營區",
     "service_name": "交通運輸",
@@ -12,6 +12,6 @@
     "lat": "23.3176207",
     "long": "120.332873",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-27 09:31:19",
     "expected_datetime": "2018-09-22 21:54:00"
 }
