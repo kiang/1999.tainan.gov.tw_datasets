@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808230982",
     "requested_datetime": "2018-08-23 22:55:08",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "佳里區",
     "service_name": "天然災害",
@@ -12,6 +12,6 @@
     "lat": "23.1673843",
     "long": "120.1821268",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-27 17:17:10",
     "expected_datetime": "2018-09-22 22:55:00"
 }
