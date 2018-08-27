@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808250459",
     "requested_datetime": "2018-08-25 19:20:33",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "學甲區",
     "service_name": "路燈故障",
@@ -12,6 +12,6 @@
     "lat": "23.235405",
     "long": "120.176885",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-27 15:36:39",
     "expected_datetime": "2018-09-24 19:18:00"
 }
