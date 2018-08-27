@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區安通路五段501號至516號，社區 路燈不亮",
     "address_string": "安南區安通路五段501號",
-    "lat": {},
-    "long": {},
+    "lat": "23.030257",
+    "long": "120.191089",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-26 19:32:00"

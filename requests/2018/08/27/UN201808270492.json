@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "南區大德街154巷 路燈不亮",
     "address_string": "南區大德街154巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.986955",
+    "long": "120.195375",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-26 18:46:00"

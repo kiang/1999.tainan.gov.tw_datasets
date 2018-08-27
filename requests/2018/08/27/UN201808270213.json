@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區育德二路52號到58號 路燈故障",
     "address_string": "北區育德二路52號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0080745",
+    "long": "120.2027162",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-26 10:32:00"

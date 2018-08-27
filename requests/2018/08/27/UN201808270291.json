@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "永康區永大路與永大五路 號誌故障",
     "address_string": "永康區永大路永大五路",
-    "lat": {},
-    "long": {},
+    "lat": "22.987215",
+    "long": "120.1652545",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-26 12:36:00"

@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "歸仁區保大路三段366巷60號 空污",
     "address_string": "歸仁區保大路三段366巷60號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0038512",
+    "long": "120.2742911",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-26 13:20:00"
