@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808260132",
     "requested_datetime": "2018-08-26 11:34:17",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "龍崎區",
     "service_name": "道路維修",
@@ -12,6 +12,6 @@
     "lat": "22.9264143",
     "long": "120.4093504",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-28 17:01:52",
     "expected_datetime": "2018-09-25 11:30:00"
 }
