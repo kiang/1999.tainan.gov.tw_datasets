@@ -9,8 +9,8 @@
     "subproject": "10盞以上路燈故障",
     "description": "北區中華北路一段460號和大和路交叉口 路燈不亮",
     "address_string": "北區中華北路一段460號大和路",
-    "lat": {},
-    "long": {},
+    "lat": "23.015531",
+    "long": "120.188871",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-27 18:29:00"

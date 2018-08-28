@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808280450",
+    "requested_datetime": "2018-08-28 18:15:41",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "中華西路二段宜得利家居前，機車道和汽車道中間 路面坑洞",
+    "address_string": "中西區中華西路二段685號",
+    "lat": "23.002427",
+    "long": "120.1866771",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-27 18:15:00"
+}
