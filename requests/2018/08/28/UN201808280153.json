@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808280153",
+    "requested_datetime": "2018-08-28 09:03:20",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "永康區中正北路344號 道路維修",
+    "address_string": "永康區中正北路344號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-28 09:51:43",
+    "expected_datetime": "2018-09-27 09:03:20"
+}
