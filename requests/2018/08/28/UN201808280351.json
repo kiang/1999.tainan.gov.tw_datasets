@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808280351",
+    "requested_datetime": "2018-08-28 15:08:30",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "北區西門路和成功路口，交叉口正中央、中西區中華西路和民生路口，中華西路二段內車道上 路面坑洞",
+    "address_string": "北區西門路成功路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-27 15:08:00"
+}
