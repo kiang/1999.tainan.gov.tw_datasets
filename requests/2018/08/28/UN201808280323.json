@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808280323",
     "requested_datetime": "2018-08-28 14:15:41",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "安平區",
     "service_name": "天然災害",
@@ -12,6 +12,6 @@
     "lat": "22.92482",
     "long": "120.294939",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-29 15:01:16",
     "expected_datetime": "2018-09-27 14:15:00"
 }
