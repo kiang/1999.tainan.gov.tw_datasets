@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808290042",
+    "requested_datetime": "2018-08-29 08:27:42",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "北區西門路四段330巷12號到14號   路面坑洞",
+    "address_string": "北區西門路四段330巷12號14號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-29 09:31:22",
+    "expected_datetime": "2018-09-28 08:26:00"
+}

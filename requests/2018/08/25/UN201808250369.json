@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808250369",
     "requested_datetime": "2018-08-25 16:47:17",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "仁德區",
     "service_name": "民生管線",
@@ -12,6 +12,6 @@
     "lat": "22.9687675",
     "long": "120.2587395",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-29 09:51:28",
     "expected_datetime": "2018-09-24 16:46:00"
 }

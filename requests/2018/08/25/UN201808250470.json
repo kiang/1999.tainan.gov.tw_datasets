@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808250470",
     "requested_datetime": "2018-08-25 19:46:48",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "北區",
     "service_name": "天然災害",
@@ -12,6 +12,6 @@
     "lat": "23.013521",
     "long": "120.2124437",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-29 09:51:25",
     "expected_datetime": "2018-09-24 19:45:00"
 }
