@@ -9,8 +9,8 @@
     "subproject": "10盞以上路燈故障",
     "description": "仁德區大同路三段  路燈放亮",
     "address_string": "仁德區大同路三段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9520184",
+    "long": "120.2181588",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-28 09:15:00"

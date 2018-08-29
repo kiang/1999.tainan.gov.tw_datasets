@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新市區中正路323巷54號 違規停車",
     "address_string": "中正路323巷54號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0087025",
+    "long": "120.3349024",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-28 22:11:10"

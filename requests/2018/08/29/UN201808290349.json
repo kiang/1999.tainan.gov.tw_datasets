@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808290349",
+    "requested_datetime": "2018-08-29 20:04:32",
+    "status": {},
+    "keyword": "0",
+    "area": "麻豆區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "麻豆區新樓醫院對面，往佳里方向，紅綠燈下、海埔辭王府靠近港尾國小牌樓外 路面坑洞",
+    "address_string": "麻豆區新樓醫院",
+    "lat": "23.180079",
+    "long": "120.232913",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-28 20:01:00"
+}

@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "南區金華路二段76號  空汙",
     "address_string": "南區金華路二段76號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9775735",
+    "long": "120.1913152",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-28 17:42:00"

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808290373",
+    "requested_datetime": "2018-08-29 22:12:03",
+    "status": {},
+    "keyword": "0",
+    "area": "官田區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "出官田工業區過台1線，接176線往麻豆方向，中間部份內車道上 路面坑洞",
+    "address_string": "台1線",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-28 22:00:00"
+}

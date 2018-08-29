@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "南區鯤鯓路102巷口 號誌故障",
     "address_string": "南區鯤鯓路102巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.9606654",
+    "long": "120.1717389",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-28 18:59:00"
