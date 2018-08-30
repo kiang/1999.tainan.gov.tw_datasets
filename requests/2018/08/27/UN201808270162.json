@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808270162",
     "requested_datetime": "2018-08-27 09:11:14",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "七股區",
     "service_name": "道路維修",
@@ -12,6 +12,6 @@
     "lat": "23.117845",
     "long": "120.1313828",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-30 16:56:19",
     "expected_datetime": "2018-09-26 08:58:00"
 }
