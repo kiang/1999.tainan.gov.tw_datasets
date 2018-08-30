@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808300404",
+    "requested_datetime": "2018-08-30 21:57:47",
+    "status": {},
+    "keyword": "0",
+    "area": "新市區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "新市區信義街17巷9號後方路段 路燈故障",
+    "address_string": "新市區信義街17巷9號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-29 21:56:00"
+}
