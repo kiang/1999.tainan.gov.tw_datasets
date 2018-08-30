@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808290301",
     "requested_datetime": "2018-08-29 18:25:14",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": "道路維修",
@@ -12,6 +12,6 @@
     "lat": "23.0378123",
     "long": "120.22533",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-30 15:21:44",
     "expected_datetime": "2018-09-28 18:18:00"
 }
