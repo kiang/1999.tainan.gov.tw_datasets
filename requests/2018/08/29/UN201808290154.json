@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808290154",
     "requested_datetime": "2018-08-29 12:52:35",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "歸仁區",
     "service_name": "道路維修",
@@ -12,6 +12,6 @@
     "lat": "22.9366793",
     "long": "120.2921473",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-30 10:11:16",
     "expected_datetime": "2018-09-28 12:45:00"
 }
