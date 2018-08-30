@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808290237",
     "requested_datetime": "2018-08-29 16:08:27",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": "交通運輸",
@@ -12,6 +12,6 @@
     "lat": "23.0075783",
     "long": "120.2726073",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-30 12:06:24",
     "expected_datetime": "2018-09-28 16:05:00"
 }
