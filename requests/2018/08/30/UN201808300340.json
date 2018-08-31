@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808300340",
+    "requested_datetime": "2018-08-30 19:32:34",
+    "status": {},
+    "keyword": "0",
+    "area": "善化區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "善化區西拉雅大道往南科方向，西拉雅大橋下橋後約100公尺 漏水",
+    "address_string": "善化區西拉雅大道",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-29 19:32:00"
+}

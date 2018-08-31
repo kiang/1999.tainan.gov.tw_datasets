@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "大內橋進入大內區的100公尺 路燈故障",
     "address_string": "大內區",
-    "lat": {},
-    "long": {},
+    "lat": "23.1421962",
+    "long": "120.4011911",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-29 19:52:00"

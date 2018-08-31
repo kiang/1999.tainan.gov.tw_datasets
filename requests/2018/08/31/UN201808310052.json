@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808310052",
+    "requested_datetime": "2018-08-31 08:40:39",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區中華路58巷52號違規停車",
+    "address_string": "永康區中華路58巷52號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-30 08:40:39"
+}
