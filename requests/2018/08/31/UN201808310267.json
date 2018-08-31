@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808310267",
+    "requested_datetime": "2018-08-31 15:11:11",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面下陷、凹陷",
+    "description": "北區自強街公園南路  路面下陷\/環境髒亂",
+    "address_string": "北區自強街公園南路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-08-31 16:51:19",
+    "expected_datetime": "2018-09-30 15:06:00"
+}
