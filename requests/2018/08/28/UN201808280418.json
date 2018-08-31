@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808280418",
     "requested_datetime": "2018-08-28 17:11:31",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "仁德區",
     "service_name": "道路維修",
@@ -12,6 +12,6 @@
     "lat": "22.9606344",
     "long": "120.2406116",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-31 15:36:23",
     "expected_datetime": "2018-09-27 17:11:00"
 }
