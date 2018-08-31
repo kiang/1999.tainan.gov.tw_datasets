@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808310409",
+    "requested_datetime": "2018-08-31 21:00:38",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "永康區四維街19巷內 路燈不亮",
+    "address_string": "永康區四維街19巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-30 21:00:00"
+}

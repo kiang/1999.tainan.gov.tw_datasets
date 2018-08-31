@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區文成路779-1號至文成路779-5號 路燈故障",
     "address_string": "北區文成路779-1號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0121803",
+    "long": "120.1947088",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-30 21:23:00"

@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "新營區中正路28號 佔用道路",
     "address_string": "新營區中正路28號",
-    "lat": {},
-    "long": {},
+    "lat": "23.309401",
+    "long": "120.3164",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-30 20:03:49"

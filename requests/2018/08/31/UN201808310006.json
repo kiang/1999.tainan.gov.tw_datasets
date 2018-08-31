@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "永康區龍埔街、龍安街、龍國街 空氣汙染",
     "address_string": "永康區龍埔街 龍安街 龍國街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9923332",
+    "long": "120.1768834",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-30 00:17:00"

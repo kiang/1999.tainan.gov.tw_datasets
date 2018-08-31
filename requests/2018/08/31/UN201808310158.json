@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區開山路，從樹林街到大埔街之間路段 路燈不亮",
     "address_string": "中西區開山路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9884594",
+    "long": "120.2080528",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-30 11:19:00"

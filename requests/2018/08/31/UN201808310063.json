@@ -9,8 +9,8 @@
     "subproject": "路面坑洞",
     "description": "麻豆區麻佳路一段42-1號道路維修",
     "address_string": "麻豆區麻佳路一段42-1號",
-    "lat": {},
-    "long": {},
+    "lat": "23.340369",
+    "long": "120.32928",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-30 08:58:57"

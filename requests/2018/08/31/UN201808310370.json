@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201808310370",
+    "requested_datetime": "2018-08-31 19:33:39",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區建平十街整條 違停",
+    "address_string": "安平區建平十街",
+    "lat": "23.0121803",
+    "long": "120.1947088",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-09-30 19:33:00"
+}

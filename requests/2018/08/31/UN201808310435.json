@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新市區中山路213號 違規停車",
     "address_string": "中山路213號",
-    "lat": {},
-    "long": {},
+    "lat": "23.1324369",
+    "long": "120.299463",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-09-30 21:55:53"
