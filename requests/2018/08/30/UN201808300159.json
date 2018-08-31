@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808300159",
     "requested_datetime": "2018-08-30 11:58:28",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "北區",
     "service_name": "動物救援",
@@ -12,6 +12,6 @@
     "lat": "23.0008771",
     "long": "120.2237252",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-08-31 14:01:32",
     "expected_datetime": "2018-09-29 11:54:00"
 }
