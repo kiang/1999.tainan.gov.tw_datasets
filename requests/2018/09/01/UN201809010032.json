@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809010032",
+    "requested_datetime": "2018-09-01 08:13:39",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "北區中華北路上(從和緯路到觀海橋中間) 坑洞",
+    "address_string": "北區中華北路和緯路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-01 08:11:00"
+}
