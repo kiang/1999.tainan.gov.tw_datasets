@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809010170",
+    "requested_datetime": "2018-09-01 13:14:25",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區康樂街24之1號對面 違停",
+    "address_string": "中西區康樂街24之1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-01 13:12:00"
+}
