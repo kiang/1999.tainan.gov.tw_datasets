@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809010383",
+    "requested_datetime": "2018-09-01 23:24:51",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "南區西濱公路402號，往南的濱海公路，還沒過「船型屋」，在快或慢車道 路面坑洞",
+    "address_string": "南區西濱公路402號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-01 23:24:51"
+}
