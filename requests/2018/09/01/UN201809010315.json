@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區功安三街與智安四街105巷口 路燈不亮",
     "address_string": "安南區功安三街智安四街105巷口",
-    "lat": {},
-    "long": {},
+    "lat": "23.052643",
+    "long": "120.1800476",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-10-01 19:05:00"

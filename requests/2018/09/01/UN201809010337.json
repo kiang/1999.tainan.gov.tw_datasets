@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區崇德32街43號  路燈故障",
     "address_string": "東區崇德32街43號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9188401",
+    "long": "120.224445",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-10-01 20:09:00"

@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區海安路二段上，中正路往南，近沙卡里巴這一側 路燈不亮",
     "address_string": "中西區海安路二段",
-    "lat": {},
-    "long": {},
+    "lat": "23.0866345",
+    "long": "120.2237702",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-10-01 10:10:00"

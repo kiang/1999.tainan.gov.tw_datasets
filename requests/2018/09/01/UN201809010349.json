@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區崇明路722號 路燈故障",
     "address_string": "東區崇明路722號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9680917",
+    "long": "120.2255652",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-10-01 20:38:00"

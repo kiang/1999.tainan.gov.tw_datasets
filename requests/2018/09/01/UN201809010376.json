@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "白河區中正路跟中山路口  佔用道路",
     "address_string": "白河區中正路中山路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9962462",
+    "long": "120.2117563",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-10-01 21:59:00"

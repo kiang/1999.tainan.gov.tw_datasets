@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "仁德區中山路跟義林路口 號誌故障",
     "address_string": "仁德區中山路義林路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0405118",
+    "long": "120.2419914",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-10-01 11:11:00"

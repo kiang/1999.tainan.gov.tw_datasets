@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "南化區南化里261之1號前方 路燈不亮",
     "address_string": "南化區南化里261之1號",
-    "lat": {},
-    "long": {},
+    "lat": "23.1288864",
+    "long": "120.2387336",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-10-01 17:11:00"

@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "南區萬年路 萬年二街 空氣汙染",
     "address_string": "南區萬年路、萬年二街",
-    "lat": {},
-    "long": {},
+    "lat": "22.935473",
+    "long": "120.186614",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-10-01 00:06:00"
