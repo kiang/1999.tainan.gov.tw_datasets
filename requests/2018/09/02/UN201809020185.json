@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809020185",
+    "requested_datetime": "2018-09-02 17:00:25",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "東區大同路二段61巷115號 台電孔蓋冒水",
+    "address_string": "東區大同路二段61巷115號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-02 16:59:00"
+}

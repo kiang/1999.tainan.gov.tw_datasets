@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809020222",
+    "requested_datetime": "2018-09-02 18:21:59",
+    "status": {},
+    "keyword": "0",
+    "area": "歸仁區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "歸仁區中正南路二段高鐵大道口監獄對面 漏水",
+    "address_string": "歸仁區中正南路二段高鐵大道",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-02 18:20:00"
+}
