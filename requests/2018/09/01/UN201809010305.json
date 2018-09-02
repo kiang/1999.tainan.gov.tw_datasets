@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201809010305",
     "requested_datetime": "2018-09-01 18:46:46",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "歸仁區",
     "service_name": "噪音舉發",
@@ -12,6 +12,6 @@
     "lat": "22.967059",
     "long": "120.2922688",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-09-02 09:51:21",
     "expected_datetime": "2018-10-01 18:44:00"
 }
