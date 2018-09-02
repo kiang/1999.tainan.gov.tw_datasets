@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "新營區新營火車站 路燈故障",
     "address_string": "新營區新營火車站",
-    "lat": {},
-    "long": {},
+    "lat": "23.0371475",
+    "long": "120.1850831",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-10-02 18:33:13"

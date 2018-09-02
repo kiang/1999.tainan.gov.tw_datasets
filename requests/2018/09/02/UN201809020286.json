@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "永康區中正南路與洲尾街交叉路口 路燈故障",
     "address_string": "永康區中正南路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0480009",
+    "long": "120.2643381",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-10-02 21:30:07"

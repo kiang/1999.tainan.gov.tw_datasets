@@ -9,8 +9,8 @@
     "subproject": "路面下陷、凹陷",
     "description": "新化區台南都會區北外環道路，往南科方向 路面下陷",
     "address_string": "新化區台南都會區北外環道路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0573566",
+    "long": "120.2824262",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-10-02 22:29:00"

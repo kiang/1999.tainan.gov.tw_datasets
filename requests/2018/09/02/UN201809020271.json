@@ -9,8 +9,8 @@
     "subproject": "10盞以上路燈故障",
     "description": "東區中華東路，從小東路一直到兵仔市 路燈不亮",
     "address_string": "東區中華東路",
-    "lat": {},
-    "long": {},
+    "lat": "23.3068099",
+    "long": "120.3231812",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-10-02 20:19:00"

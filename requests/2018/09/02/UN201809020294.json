@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "永康區中正南路與鹽和街交叉路口 路燈故障",
     "address_string": "永康區中正南路鹽和街",
-    "lat": {},
-    "long": {},
+    "lat": "23.0373725",
+    "long": "120.2325419",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-10-02 21:39:57"
