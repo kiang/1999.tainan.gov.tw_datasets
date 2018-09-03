@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201808300105",
     "requested_datetime": "2018-08-30 10:15:43",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "安南區",
     "service_name": "路燈故障",
@@ -12,6 +12,6 @@
     "lat": "23.0514512",
     "long": "120.1775209",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-09-03 09:26:36",
     "expected_datetime": "2018-09-29 10:14:00"
 }
