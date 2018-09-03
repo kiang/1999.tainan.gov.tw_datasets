@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201809020046",
     "requested_datetime": "2018-09-02 09:50:55",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "仁德區",
     "service_name": "動物救援",
@@ -12,6 +12,6 @@
     "lat": "22.929013",
     "long": "120.2448531",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-09-03 16:11:27",
     "expected_datetime": "2018-10-02 09:49:00"
 }
