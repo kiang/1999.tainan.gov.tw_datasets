@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809030444",
+    "requested_datetime": "2018-09-03 20:12:55",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "北區育德三街與和緯路二段路口 號誌故障",
+    "address_string": "北區育德三街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-03 20:12:00"
+}
