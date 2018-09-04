@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809040193",
+    "requested_datetime": "2018-09-04 12:40:05",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "南區中華南路一段97巷1號 路面坑洞",
+    "address_string": "南區中華南路一段97巷1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-04 14:41:16",
+    "expected_datetime": "2018-10-04 12:40:05"
+}
