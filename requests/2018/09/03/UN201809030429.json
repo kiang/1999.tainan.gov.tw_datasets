@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201809030429",
     "requested_datetime": "2018-09-03 19:38:33",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": "髒亂及汙染",
@@ -9,9 +9,9 @@
     "subproject": "空氣汙染",
     "description": "永康區復興路26巷11號，製麵廠 空污",
     "address_string": "永康區復興路26巷11號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0004521",
+    "long": "120.2499455",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-09-04 10:36:38",
     "expected_datetime": "2018-10-03 19:36:00"
 }

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809040061",
+    "requested_datetime": "2018-09-04 09:16:16",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "東區域農路高速公路便道 坑洞",
+    "address_string": "東區域農路高速公路便道",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-04 10:36:39",
+    "expected_datetime": "2018-10-04 09:13:00"
+}

@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "新營區太南里255-1號 路燈故障",
     "address_string": "新營區太南里255之1號",
-    "lat": {},
-    "long": {},
+    "lat": "23.286348",
+    "long": "120.2779317",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-10-03 09:16:00"

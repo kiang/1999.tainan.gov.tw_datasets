@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區崇德二十三街59號 路燈故障",
     "address_string": "東區崇德二十三街59號",
-    "lat": {},
-    "long": {},
+    "lat": "22.966499",
+    "long": "120.2291171",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-10-03 21:32:00"

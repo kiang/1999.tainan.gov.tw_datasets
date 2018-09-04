@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區裕敬五街與裕華一街口 路燈故障",
     "address_string": "東區裕敬五街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9782292",
+    "long": "120.2474168",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-10-03 21:00:00"

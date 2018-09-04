@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201809030063",
     "requested_datetime": "2018-09-03 08:49:28",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": "道路維修",
@@ -9,9 +9,9 @@
     "subproject": "路面坑洞",
     "description": "永康區大灣東路236號大灣東路346號 路面坑洞",
     "address_string": "永康區大灣東路236號大灣東路346號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0020088",
+    "long": "120.2702961",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-09-04 10:31:38",
     "expected_datetime": "2018-10-03 08:49:00"
 }

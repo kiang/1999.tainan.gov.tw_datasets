@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "佳里區子龍里171之16號 路燈不亮",
     "address_string": "佳里區子龍里171之16號",
-    "lat": {},
-    "long": {},
+    "lat": "23.175419",
+    "long": "120.208912",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-10-03 18:31:00"

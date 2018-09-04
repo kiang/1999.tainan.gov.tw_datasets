@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201809030219",
     "requested_datetime": "2018-09-03 13:26:24",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": "道路維修",
@@ -9,9 +9,9 @@
     "subproject": "路面坑洞",
     "description": "永康區裕義路(小東路往裕義路方向)，高公局旁 路面坑洞",
     "address_string": "永康區裕義路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9830905",
+    "long": "120.2478696",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-09-04 10:41:24",
     "expected_datetime": "2018-10-03 13:26:00"
 }

@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "北區育德三街與和緯路二段路口 號誌故障",
     "address_string": "北區育德三街",
-    "lat": {},
-    "long": {},
+    "lat": "23.0155069",
+    "long": "120.2015638",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-10-03 20:12:00"

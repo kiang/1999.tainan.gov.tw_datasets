@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "六甲區台一線300.5K 路燈故障",
     "address_string": "六甲區台一線300.5K",
-    "lat": {},
-    "long": {},
+    "lat": "23.2413812",
+    "long": "120.3155655",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-10-03 19:38:00"
