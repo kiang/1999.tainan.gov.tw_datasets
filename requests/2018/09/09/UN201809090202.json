@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809090202",
+    "requested_datetime": "2018-09-09 17:09:33",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "永康區中華一路356號前 路燈故障",
+    "address_string": "永康區中華一路356號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-09 17:09:00"
+}
