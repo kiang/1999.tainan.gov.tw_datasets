@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809090243",
+    "requested_datetime": "2018-09-09 18:56:27",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區海安路和中正路口，地下停車場外 違停",
+    "address_string": "中西區海安路中正路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-09 18:56:00"
+}
