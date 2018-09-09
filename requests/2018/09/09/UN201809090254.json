@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809090254",
+    "requested_datetime": "2018-09-09 19:27:11",
+    "status": {},
+    "keyword": "0",
+    "area": "下營區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "下營區自由路70幾號到100多號之間路段 路燈不亮",
+    "address_string": "下營區自由路70號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-09 19:27:00"
+}
