@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070329",
+    "requested_datetime": "2018-09-07 17:50:24",
+    "status": {},
+    "keyword": "0",
+    "area": "七股區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "七股區國姓橋下的大馬路 路燈故障",
+    "address_string": "七股區",
+    "lat": "23.1195166",
+    "long": "120.1011836",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-07 17:49:00"
+}

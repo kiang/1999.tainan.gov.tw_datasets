@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809050443",
+    "requested_datetime": "2018-09-05 23:11:47",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府水利局,臺南市政府環境保護局",
+    "subproject": "場所連續噪音",
+    "description": "永康區永大路三段618巷，龍中公園前方 噪音",
+    "address_string": "永康區永大路三段618巷",
+    "lat": "23.0384158",
+    "long": "120.2604849",
+    "service_notice": {},
+    "updated_datetime": "2018-09-07 08:51:19",
+    "expected_datetime": "2018-10-05 23:06:00"
+}

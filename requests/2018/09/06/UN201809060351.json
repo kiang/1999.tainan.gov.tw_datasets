@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060351",
+    "requested_datetime": "2018-09-06 19:18:51",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "安平區世平三街12巷12號周邊，世平路、安北路、同平路及附近巷弄 路燈不亮",
+    "address_string": "安平區世平三街12巷12號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-09-07 14:46:34",
+    "expected_datetime": "2018-10-06 19:18:00"
+}

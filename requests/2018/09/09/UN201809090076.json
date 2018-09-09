@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809090076",
+    "requested_datetime": "2018-09-09 10:08:44",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區志開國小 違規停車",
+    "address_string": "南區",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-09 18:51:28",
+    "expected_datetime": "2018-10-09 10:06:00"
+}

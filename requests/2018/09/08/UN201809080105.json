@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809080105",
+    "requested_datetime": "2018-09-08 11:21:48",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區公園路128-7號  違規停車",
+    "address_string": "北區公園路128-7號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-08 14:11:25",
+    "expected_datetime": "2018-10-08 11:21:48"
+}

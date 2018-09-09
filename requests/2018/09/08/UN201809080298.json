@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809080298",
+    "requested_datetime": "2018-09-08 19:55:15",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "中西區青年路跟湯德章紀念公園圓環口，靠中西區公所 號誌故障",
+    "address_string": "中西區青年路",
+    "lat": "22.9919116",
+    "long": "120.2090264",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-08 19:55:15"
+}

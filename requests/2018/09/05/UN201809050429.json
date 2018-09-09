@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809050429",
+    "requested_datetime": "2018-09-05 21:37:54",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "安南區安和路五段171巷，右宇電腦資訊 連續噪音",
+    "address_string": "安南區安和路五段171巷116弄3號1樓",
+    "lat": "23.0656959",
+    "long": "120.21545",
+    "service_notice": {},
+    "updated_datetime": "2018-09-06 09:36:26",
+    "expected_datetime": "2018-10-05 21:37:00"
+}

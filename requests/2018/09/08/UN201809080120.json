@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809080120",
+    "requested_datetime": "2018-09-08 11:52:46",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "安南區安中路四段197巷19弄 連續噪音",
+    "address_string": "安南區安中路四段197巷19弄",
+    "lat": "23.3067226",
+    "long": "120.3231129",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-08 11:51:00"
+}

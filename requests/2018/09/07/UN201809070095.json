@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070095",
+    "requested_datetime": "2018-09-07 09:53:40",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "安平區國勝路105號 漏水",
+    "address_string": "安平區國勝路105號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-07 09:52:00"
+}

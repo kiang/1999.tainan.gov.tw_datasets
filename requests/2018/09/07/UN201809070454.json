@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070454",
+    "requested_datetime": "2018-09-07 22:50:52",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "南區永成路三段372巷53號 噪音舉發",
+    "address_string": "南區永成路三段372巷53號",
+    "lat": "22.9683927",
+    "long": "120.1968538",
+    "service_notice": {},
+    "updated_datetime": "2018-09-08 01:11:44",
+    "expected_datetime": "2018-10-07 22:50:52"
+}

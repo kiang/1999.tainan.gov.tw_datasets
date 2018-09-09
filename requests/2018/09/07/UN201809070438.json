@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070438",
+    "requested_datetime": "2018-09-07 22:09:08",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "南區永成路三段398巷 妨害安寧",
+    "address_string": "南區永成路三段398巷",
+    "lat": "22.9749324",
+    "long": "120.1953783",
+    "service_notice": {},
+    "updated_datetime": "2018-09-08 01:16:47",
+    "expected_datetime": "2018-10-07 22:06:00"
+}

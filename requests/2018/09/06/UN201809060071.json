@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060071",
+    "requested_datetime": "2018-09-06 09:37:02",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "環境髒亂",
+    "description": "永康區永華路201巷21號旁 環境髒亂",
+    "address_string": "永康區永華路201巷21號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-09-07 10:26:24",
+    "expected_datetime": "2018-10-06 09:36:00"
+}

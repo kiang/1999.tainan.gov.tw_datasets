@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809090040",
+    "requested_datetime": "2018-09-09 08:24:49",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區萬昌街與興華街口 違規停車",
+    "address_string": "萬昌街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-09 18:46:33",
+    "expected_datetime": "2018-10-09 08:24:49"
+}

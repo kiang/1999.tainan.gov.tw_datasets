@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809050434",
+    "requested_datetime": "2018-09-05 22:05:33",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新化區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "新化區中山路624號 7-11 違規停車",
+    "address_string": "新化區中山路624號 7-11",
+    "lat": "23.0367929",
+    "long": "120.2995195",
+    "service_notice": {},
+    "updated_datetime": "2018-09-06 01:36:56",
+    "expected_datetime": "2018-10-05 22:03:00"
+}

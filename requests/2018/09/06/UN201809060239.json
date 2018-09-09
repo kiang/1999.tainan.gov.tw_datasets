@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060239",
+    "requested_datetime": "2018-09-06 15:22:39",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "小廣告、旗幟",
+    "description": "永康區中華路727號 小廣告、旗幟",
+    "address_string": "永康區中華路727號",
+    "lat": "23.017525",
+    "long": "120.2275823",
+    "service_notice": {},
+    "updated_datetime": "2018-09-07 10:01:19",
+    "expected_datetime": "2018-10-06 15:21:00"
+}

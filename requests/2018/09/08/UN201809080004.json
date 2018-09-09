@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809080004",
+    "requested_datetime": "2018-09-08 00:51:14",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "臺南市永康區公所,臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "<請早班協助通報>永康區太子路與高速公路便道\/忠孝路 路面坑洞",
+    "address_string": "永康區太子路高速公路",
+    "lat": "22.9203168",
+    "long": "120.2245487",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-08 00:47:00"
+}

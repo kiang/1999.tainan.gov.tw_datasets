@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070071",
+    "requested_datetime": "2018-09-07 09:21:59",
+    "status": {},
+    "keyword": "0",
+    "area": "鹽水區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "鹽水區溪州寮4之3號，新晟水泥 坑洞",
+    "address_string": "鹽水區溪州寮4之3號",
+    "lat": "23.0021801",
+    "long": "120.235372",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-07 09:19:00"
+}

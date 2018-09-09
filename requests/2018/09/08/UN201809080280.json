@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809080280",
+    "requested_datetime": "2018-09-08 18:47:39",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "佳里區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "佳里區和平街&延平路口轉角違規停車",
+    "address_string": "佳里區和平街延平路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-08 19:21:25",
+    "expected_datetime": "2018-10-08 18:47:39"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809090164",
+    "requested_datetime": "2018-09-09 14:45:35",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "安南區安中路四段320巷129弄28號 妨害安寧",
+    "address_string": "安南區安中路四段320巷129弄28號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-09 19:16:30",
+    "expected_datetime": "2018-10-09 14:45:00"
+}

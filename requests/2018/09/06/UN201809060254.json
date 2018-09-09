@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060254",
+    "requested_datetime": "2018-09-06 15:59:25",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "南區金華路一段484巷71弄口旁   台電人孔蓋冒水",
+    "address_string": "南區金華路一段484巷71弄口旁",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-09-07 14:51:36",
+    "expected_datetime": "2018-10-06 15:57:00"
+}

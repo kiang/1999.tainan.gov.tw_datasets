@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070228",
+    "requested_datetime": "2018-09-07 13:54:59",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "北區北園街109巷60號 民生管線",
+    "address_string": "北區北園街109巷60號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-07 13:54:00"
+}

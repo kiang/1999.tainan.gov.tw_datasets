@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060209",
+    "requested_datetime": "2018-09-06 14:36:19",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "東區裕忠路與裕誠路口 號誌故障",
+    "address_string": "裕忠路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-06 17:41:19",
+    "expected_datetime": "2018-10-06 14:36:19"
+}

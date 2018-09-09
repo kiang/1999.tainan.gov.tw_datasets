@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070035",
+    "requested_datetime": "2018-09-07 08:17:42",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "永康區公園路63巷22號  路燈故障",
+    "address_string": "永康區公園路63巷22號",
+    "lat": "23.0051418",
+    "long": "120.2698756",
+    "service_notice": {},
+    "updated_datetime": "2018-09-09 14:26:14",
+    "expected_datetime": "2018-10-07 08:17:00"
+}

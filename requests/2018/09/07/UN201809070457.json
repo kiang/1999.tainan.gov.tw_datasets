@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070457",
+    "requested_datetime": "2018-09-07 23:11:21",
+    "status": {},
+    "keyword": "0",
+    "area": "歸仁區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "歸仁區高鐵橋下台南段道路 道路維修",
+    "address_string": "歸仁區高鐵橋下台南段道路",
+    "lat": "22.9528669",
+    "long": "120.2738173",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-07 23:11:21"
+}

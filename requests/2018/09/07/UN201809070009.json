@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070009",
+    "requested_datetime": "2018-09-07 04:37:07",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "下營區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "下營區仁美里下營國小 9盞以下路燈故障",
+    "address_string": "下營區仁美里下營國小",
+    "lat": "23.2314709",
+    "long": "120.2616162",
+    "service_notice": {},
+    "updated_datetime": "2018-09-09 14:31:16",
+    "expected_datetime": "2018-10-07 04:36:00"
+}

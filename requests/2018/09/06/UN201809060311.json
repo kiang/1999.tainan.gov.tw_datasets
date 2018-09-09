@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060311",
+    "requested_datetime": "2018-09-06 18:01:56",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "永康區永大夜市招牌下 佔用道路",
+    "address_string": "永康區永大夜市",
+    "lat": "23.0189545",
+    "long": "120.2628467",
+    "service_notice": {},
+    "updated_datetime": "2018-09-07 07:16:27",
+    "expected_datetime": "2018-10-06 18:01:00"
+}

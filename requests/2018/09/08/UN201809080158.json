@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809080158",
+    "requested_datetime": "2018-09-08 13:24:20",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "南區中華南路一段182號  道路維修",
+    "address_string": "南區中華南路一段182號",
+    "lat": "23.0198324",
+    "long": "120.1982544",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-08 13:24:20"
+}

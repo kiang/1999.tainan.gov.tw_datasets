@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060180",
+    "requested_datetime": "2018-09-06 13:38:56",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "安南區安通路五段與海佃路交叉口 道路散落物",
+    "address_string": "安南區安通路五段",
+    "lat": "23.0299209",
+    "long": "120.1982256",
+    "service_notice": {},
+    "updated_datetime": "2018-09-07 09:06:30",
+    "expected_datetime": "2018-10-06 13:37:00"
+}

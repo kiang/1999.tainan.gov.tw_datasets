@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060390",
+    "requested_datetime": "2018-09-06 21:54:36",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區西華南街10號 違規停車",
+    "address_string": "中西區西華南街10號",
+    "lat": "22.9933676",
+    "long": "120.2094721",
+    "service_notice": {},
+    "updated_datetime": "2018-09-07 07:11:38",
+    "expected_datetime": "2018-10-06 21:54:36"
+}

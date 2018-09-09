@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809080064",
+    "requested_datetime": "2018-09-08 09:56:05",
+    "status": {},
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "仁德區文華路二段1280號 民生管線",
+    "address_string": "仁德區文華路二段1280號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-08 09:56:05"
+}

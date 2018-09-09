@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070449",
+    "requested_datetime": "2018-09-07 22:37:47",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
+    "description": "中西區永華路一段315號 孔蓋破損",
+    "address_string": "中西區永華路一段315號",
+    "lat": "22.9887647",
+    "long": "120.1875084",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-07 22:37:00"
+}

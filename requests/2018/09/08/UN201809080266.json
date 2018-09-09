@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809080266",
+    "requested_datetime": "2018-09-08 17:53:00",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面下陷、凹陷",
+    "description": "安平區建平七街和建平七街453巷口 路面下陷",
+    "address_string": "安平區建平七街建平七街453巷",
+    "lat": "23.0082575",
+    "long": "120.2155577",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-08 17:51:00"
+}

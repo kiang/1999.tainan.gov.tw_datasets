@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070452",
+    "requested_datetime": "2018-09-07 22:43:23",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區衛民街119號 違規停車",
+    "address_string": "中西區衛民街119號",
+    "lat": "22.9932283",
+    "long": "120.2081619",
+    "service_notice": {},
+    "updated_datetime": "2018-09-08 01:11:45",
+    "expected_datetime": "2018-10-07 22:43:23"
+}

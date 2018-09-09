@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809050439",
+    "requested_datetime": "2018-09-05 22:30:15",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面掏空、塌陷",
+    "description": "安平區怡平路442巷*育平九街 路面坑洞",
+    "address_string": "安平區怡平路442巷*育平九街",
+    "lat": "22.9949167",
+    "long": "120.1738624",
+    "service_notice": {},
+    "updated_datetime": "2018-09-06 17:01:24",
+    "expected_datetime": "2018-10-05 22:27:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070074",
+    "requested_datetime": "2018-09-07 09:24:48",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區成德里立賢路一段585號 路燈",
+    "address_string": "北區成德里立賢路一段585號",
+    "lat": "22.9947727",
+    "long": "120.2084491",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-07 09:23:00"
+}

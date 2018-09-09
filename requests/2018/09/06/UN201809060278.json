@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060278",
+    "requested_datetime": "2018-09-06 16:43:35",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "動物救援",
+    "agency": "台南市政府",
+    "subproject": "犬貓急難救援",
+    "description": "永康區大灣路942巷  流浪犬救援",
+    "address_string": "永康區大灣路942巷",
+    "lat": "23.0064221",
+    "long": "120.2570378",
+    "service_notice": {},
+    "updated_datetime": "2018-09-07 16:31:13",
+    "expected_datetime": "2018-10-06 16:40:00"
+}

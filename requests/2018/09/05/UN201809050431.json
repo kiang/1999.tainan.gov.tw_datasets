@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809050431",
+    "requested_datetime": "2018-09-05 21:44:13",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "永康區大橋三街98號對面 路燈不亮",
+    "address_string": "永康區大橋三街98號",
+    "lat": "23.0196189",
+    "long": "120.2265893",
+    "service_notice": {},
+    "updated_datetime": "2018-09-09 14:26:13",
+    "expected_datetime": "2018-10-05 21:44:00"
+}

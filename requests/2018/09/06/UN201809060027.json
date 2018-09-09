@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060027",
+    "requested_datetime": "2018-09-06 08:09:47",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "中西區民族路左轉西門路二段號誌故障",
+    "address_string": "中西區民族路西門路二段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-06 16:51:19",
+    "expected_datetime": "2018-10-06 08:05:00"
+}

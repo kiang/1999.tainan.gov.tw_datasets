@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070217",
+    "requested_datetime": "2018-09-07 13:35:25",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "南區新都路上 坑洞",
+    "address_string": "南區新都路",
+    "lat": "22.9671449",
+    "long": "120.1947208",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-07 13:32:00"
+}

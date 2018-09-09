@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809050436",
+    "requested_datetime": "2018-09-05 22:23:45",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "南區永成路三段*德興路123巷 空氣汙染",
+    "address_string": "南區永成路三段*德興路123巷",
+    "lat": "23.0452938",
+    "long": "120.1861782",
+    "service_notice": {},
+    "updated_datetime": "2018-09-07 13:41:16",
+    "expected_datetime": "2018-10-05 22:20:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809050445",
+    "requested_datetime": "2018-09-05 23:23:54",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "南區體育路，極限運動場至竹溪四之間 路燈故障\/ 野狗追人",
+    "address_string": "南區體育路",
+    "lat": "22.9778308",
+    "long": "120.2072655",
+    "service_notice": {},
+    "updated_datetime": "2018-09-07 09:06:28",
+    "expected_datetime": "2018-10-05 23:20:00"
+}

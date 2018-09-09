@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060317",
+    "requested_datetime": "2018-09-06 18:13:51",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "永康區龍埔街142號  空氣汙染",
+    "address_string": "永康區龍埔街142號",
+    "lat": "23.0343478",
+    "long": "120.2629108",
+    "service_notice": {},
+    "updated_datetime": "2018-09-07 10:56:15",
+    "expected_datetime": "2018-10-06 18:11:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809050432",
+    "requested_datetime": "2018-09-05 21:49:16",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "仁德區正義二街一帶 髒亂及汙染",
+    "address_string": "仁德區正義二街",
+    "lat": "22.9736993",
+    "long": "120.2546614",
+    "service_notice": {},
+    "updated_datetime": "2018-09-06 17:51:16",
+    "expected_datetime": "2018-10-05 21:49:16"
+}

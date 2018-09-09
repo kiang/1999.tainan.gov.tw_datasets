@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809090142",
+    "requested_datetime": "2018-09-09 13:21:57",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區大同路二段與大同路二段61巷口交叉口 違規停車",
+    "address_string": "南區大同路二段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-09 19:11:32",
+    "expected_datetime": "2018-10-09 13:21:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070331",
+    "requested_datetime": "2018-09-07 17:54:11",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "永康區中山北路與永大路口 號誌故障",
+    "address_string": "永康區中山北路",
+    "lat": "23.0298261",
+    "long": "120.2731309",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-07 17:54:00"
+}

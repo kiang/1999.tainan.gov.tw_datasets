@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070381",
+    "requested_datetime": "2018-09-07 19:08:23",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區慶東街70號 違規停車",
+    "address_string": "東區慶東街70號",
+    "lat": "22.9869682",
+    "long": "120.2160427",
+    "service_notice": {},
+    "updated_datetime": "2018-09-08 01:21:21",
+    "expected_datetime": "2018-10-07 19:06:00"
+}

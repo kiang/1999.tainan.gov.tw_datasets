@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060315",
+    "requested_datetime": "2018-09-06 18:11:07",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "小廣告、旗幟",
+    "description": "安南區同安路和同安路225巷口，電線桿上 廣告旗幟",
+    "address_string": "安南區同安路同安路225巷",
+    "lat": "23.0421861",
+    "long": "120.192025",
+    "service_notice": {},
+    "updated_datetime": "2018-09-07 14:31:22",
+    "expected_datetime": "2018-10-06 18:09:00"
+}

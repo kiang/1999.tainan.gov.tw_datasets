@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060053",
+    "requested_datetime": "2018-09-06 09:05:08",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區西門路四段，介於西門路四段533巷與北成路間  路燈不亮",
+    "address_string": "北區西門路四段",
+    "lat": "22.967764",
+    "long": "120.2352263",
+    "service_notice": {},
+    "updated_datetime": "2018-09-07 09:06:29",
+    "expected_datetime": "2018-10-06 09:03:00"
+}

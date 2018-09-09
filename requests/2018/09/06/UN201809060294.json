@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060294",
+    "requested_datetime": "2018-09-06 17:24:08",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "騎樓舉發",
+    "agency": "台南市政府",
+    "subproject": "騎樓舉發",
+    "description": "中西區衛民街135到123號  騎樓舉發",
+    "address_string": "中西區衛民街135號123號",
+    "lat": "22.9933444",
+    "long": "120.2075794",
+    "service_notice": {},
+    "updated_datetime": "2018-09-07 06:46:33",
+    "expected_datetime": "2018-10-06 17:24:08"
+}

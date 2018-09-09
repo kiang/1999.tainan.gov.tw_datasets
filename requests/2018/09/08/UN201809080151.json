@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809080151",
+    "requested_datetime": "2018-09-08 12:53:17",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "東區崇善路741號附近 坑洞",
+    "address_string": "東區崇善路741號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-08 12:51:00"
+}

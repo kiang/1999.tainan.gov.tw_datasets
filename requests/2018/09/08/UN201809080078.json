@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809080078",
+    "requested_datetime": "2018-09-08 10:21:56",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "北區西門路四段和北區西門路四段200巷 號誌故障",
+    "address_string": "北區西門路四段200巷",
+    "lat": "23.0097465",
+    "long": "120.209257",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-08 10:22:00"
+}

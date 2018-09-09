@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809080130",
+    "requested_datetime": "2018-09-08 12:02:56",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "仁德區仁義一街55號 違規停車",
+    "address_string": "仁德區仁義一街55號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-08 19:21:24",
+    "expected_datetime": "2018-10-08 12:02:56"
+}

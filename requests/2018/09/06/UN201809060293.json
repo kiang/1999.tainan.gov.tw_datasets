@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060293",
+    "requested_datetime": "2018-09-06 17:21:53",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "新營區周武街跟金華路交叉口   號誌故障",
+    "address_string": "新營區周武街金華路",
+    "lat": "23.0013085",
+    "long": "120.2298714",
+    "service_notice": {},
+    "updated_datetime": "2018-09-07 08:26:30",
+    "expected_datetime": "2018-10-06 17:20:00"
+}

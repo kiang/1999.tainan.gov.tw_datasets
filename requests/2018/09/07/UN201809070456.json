@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070456",
+    "requested_datetime": "2018-09-07 22:53:55",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "歸仁區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "歸仁區保大路二段122巷20弄8號 噪音舉發",
+    "address_string": "歸仁區保大路二段122巷20弄8號",
+    "lat": "23.0018866",
+    "long": "120.2363198",
+    "service_notice": {},
+    "updated_datetime": "2018-09-08 01:21:21",
+    "expected_datetime": "2018-10-07 22:53:55"
+}

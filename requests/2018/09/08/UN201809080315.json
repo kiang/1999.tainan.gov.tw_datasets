@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809080315",
+    "requested_datetime": "2018-09-08 20:53:57",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區臨安路二段海安路三段 路燈故障",
+    "address_string": "北區臨安路二段海安路三段",
+    "lat": "22.9203168",
+    "long": "120.2245487",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-08 20:52:00"
+}

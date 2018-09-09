@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809080296",
+    "requested_datetime": "2018-09-08 19:50:08",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "北區成功路和西華街 路面坑洞",
+    "address_string": "北區成功路西華街",
+    "lat": "22.9937797",
+    "long": "120.2093821",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-08 19:48:00"
+}

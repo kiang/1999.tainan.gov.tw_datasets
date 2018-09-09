@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809050447",
+    "requested_datetime": "2018-09-05 23:48:51",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區府前路一段283號到289號  違規停車",
+    "address_string": "中西區府前路一段283號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-09-06 01:36:59",
+    "expected_datetime": "2018-10-05 23:46:00"
+}

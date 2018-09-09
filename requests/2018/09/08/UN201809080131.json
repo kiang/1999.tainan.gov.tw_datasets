@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809080131",
+    "requested_datetime": "2018-09-08 12:05:38",
+    "status": {},
+    "keyword": "0",
+    "area": "新化區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "新化區中山路842之1號前 路燈不亮",
+    "address_string": "新化區中山路842之1號",
+    "lat": "23.0355376",
+    "long": "120.2936186",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-08 12:05:00"
+}

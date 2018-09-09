@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070082",
+    "requested_datetime": "2018-09-07 09:33:30",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "東區中華東路二段41巷和富農街交叉口 空汙",
+    "address_string": "東區中華東路二段41巷",
+    "lat": "22.9874218",
+    "long": "120.2344698",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-07 09:30:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070417",
+    "requested_datetime": "2018-09-07 20:38:54",
+    "status": {},
+    "keyword": "0",
+    "area": "柳營區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "柳營區士林里育英街 路燈故障",
+    "address_string": "柳營區士林里育英街",
+    "lat": "23.2749481",
+    "long": "120.3097993",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-07 20:37:00"
+}

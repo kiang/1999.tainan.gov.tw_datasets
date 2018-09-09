@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809080088",
+    "requested_datetime": "2018-09-08 10:40:18",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "東區大同路二段61巷1弄 佔用道路",
+    "address_string": "東區大同路二段61巷1弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-08 13:11:16",
+    "expected_datetime": "2018-10-08 10:39:00"
+}

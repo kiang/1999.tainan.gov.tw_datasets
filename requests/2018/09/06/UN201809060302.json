@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060302",
+    "requested_datetime": "2018-09-06 17:40:08",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "動物救援",
+    "agency": "台南市政府",
+    "subproject": "犬貓急難救援",
+    "description": "安南區海佃路四段77號 大排水溝,狗受困",
+    "address_string": "安南區海佃路四段77號",
+    "lat": "23.0553092",
+    "long": "120.1772383",
+    "service_notice": {},
+    "updated_datetime": "2018-09-07 15:46:16",
+    "expected_datetime": "2018-10-06 17:39:00"
+}

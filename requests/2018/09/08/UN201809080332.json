@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809080332",
+    "requested_datetime": "2018-09-08 22:07:59",
+    "status": {},
+    "keyword": "0",
+    "area": "柳營區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "柳營區龜子港排水出口(地址不詳) 道路維修",
+    "address_string": "柳營區龜子港排水出口(地址不詳)",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-08 22:07:59"
+}

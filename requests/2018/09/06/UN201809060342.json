@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060342",
+    "requested_datetime": "2018-09-06 18:57:11",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "安平區永華二街59巷41號  路燈故障",
+    "address_string": "安平區永華二街59巷41號",
+    "lat": "22.9862884",
+    "long": "120.183037",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-06 18:55:00"
+}

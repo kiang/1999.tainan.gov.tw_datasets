@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070192",
+    "requested_datetime": "2018-09-07 12:40:48",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "永康區中華一路223巷23號後方 空氣汙染",
+    "address_string": "永康區中華一路223巷23號後方",
+    "lat": "23.0044448",
+    "long": "120.2324056",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-07 12:38:00"
+}

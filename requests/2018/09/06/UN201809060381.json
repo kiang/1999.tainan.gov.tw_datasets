@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060381",
+    "requested_datetime": "2018-09-06 21:03:51",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "永康區復華六街59號 佔用道路",
+    "address_string": "永康區復華六街59號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-09-07 07:11:40",
+    "expected_datetime": "2018-10-06 21:02:00"
+}

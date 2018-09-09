@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070014",
+    "requested_datetime": "2018-09-07 06:19:00",
+    "status": {},
+    "keyword": "0",
+    "area": "下營區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "下營區大吉里大屯寮4-8號  9盞以下路燈故障",
+    "address_string": "下營區大吉里大屯寮4-8號",
+    "lat": "23.0051418",
+    "long": "120.2698756",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-07 06:17:00"
+}

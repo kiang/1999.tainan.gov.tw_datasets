@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809080003",
+    "requested_datetime": "2018-09-08 00:21:35",
+    "status": {},
+    "keyword": "0",
+    "area": "善化區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面下陷、凹陷",
+    "description": "<請早班協助通報> 善化區西拉雅大橋往南科方向，下橋後機車道 道路維修",
+    "address_string": "善化區西拉雅大橋往南科方向，下橋後機車道",
+    "lat": "23.1084657",
+    "long": "120.3033776",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-08 00:21:35"
+}

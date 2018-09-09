@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060399",
+    "requested_datetime": "2018-09-06 22:40:31",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新市區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "新市區復興路67號，包手幸福豆漿和7-11門口轉角 違規停車",
+    "address_string": "新市區復興路67號",
+    "lat": "23.0018866",
+    "long": "120.2363198",
+    "service_notice": {},
+    "updated_datetime": "2018-09-07 07:11:39",
+    "expected_datetime": "2018-10-06 22:40:31"
+}

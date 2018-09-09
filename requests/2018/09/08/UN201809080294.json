@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809080294",
+    "requested_datetime": "2018-09-08 19:42:42",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區西門路二段352號 違規停車",
+    "address_string": "台南市中西區西門路二段352號",
+    "lat": "22.9980228",
+    "long": "120.2004166",
+    "service_notice": {},
+    "updated_datetime": "2018-09-09 02:36:22",
+    "expected_datetime": "2018-10-08 19:42:42"
+}

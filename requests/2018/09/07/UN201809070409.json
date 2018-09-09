@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070409",
+    "requested_datetime": "2018-09-07 20:22:25",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區大興街233巷6弄2號轉角  違規停車",
+    "address_string": "北區大興街233巷6弄2號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-07 21:46:31",
+    "expected_datetime": "2018-10-07 20:21:00"
+}

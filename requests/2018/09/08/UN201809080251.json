@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809080251",
+    "requested_datetime": "2018-09-08 17:17:13",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌故障",
+    "description": "安南區海尾路與海環街口 號誌故障",
+    "address_string": "安南區海尾路海環街",
+    "lat": "23.0065371",
+    "long": "120.1902623",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-08 17:16:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060363",
+    "requested_datetime": "2018-09-06 20:15:05",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "騎樓舉發",
+    "agency": "台南市政府",
+    "subproject": "騎樓舉發",
+    "description": "中西區衛民街62號到64號及88號的騎樓 騎樓舉發",
+    "address_string": "中西區衛民街62號到64號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-09-07 07:06:49",
+    "expected_datetime": "2018-10-06 20:15:05"
+}

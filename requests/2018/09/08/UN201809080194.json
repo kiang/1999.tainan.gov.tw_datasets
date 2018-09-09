@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809080194",
+    "requested_datetime": "2018-09-08 14:48:50",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "安南區安中路四段197巷19弄3號對面，鐵皮工廠 噪音",
+    "address_string": "安南區安中路四段197巷19弄3號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-08 14:47:00"
+}

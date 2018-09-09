@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060327",
+    "requested_datetime": "2018-09-06 18:37:27",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "寬頻管線、孔蓋損壞",
+    "description": "南區健康路一段135號前 寬頻孔蓋聲響",
+    "address_string": "南區健康路一段135號",
+    "lat": "22.9810739",
+    "long": "120.2088206",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-06 18:37:00"
+}

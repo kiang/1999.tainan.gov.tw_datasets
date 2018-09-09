@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070276",
+    "requested_datetime": "2018-09-07 15:35:40",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "永康區仁愛街108巷23號與25號附近 空氣汙染",
+    "address_string": "仁愛街108巷25號附近",
+    "lat": "23.044399",
+    "long": "120.2412987",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-07 15:35:40"
+}

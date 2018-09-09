@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809080228",
+    "requested_datetime": "2018-09-08 16:06:36",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "東區仁和路41巷6號 髒亂及汙染",
+    "address_string": "東區仁和路41巷6號",
+    "lat": "22.9701303",
+    "long": "120.2351745",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-08 16:06:36"
+}

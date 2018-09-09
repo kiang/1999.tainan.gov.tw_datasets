@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060241",
+    "requested_datetime": "2018-09-06 15:29:47",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "新營區開元路與東山三路口 佔用道路",
+    "address_string": "新營區開元路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-06 17:25:05",
+    "expected_datetime": "2018-10-06 15:27:00"
+}

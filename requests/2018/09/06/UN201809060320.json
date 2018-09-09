@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060320",
+    "requested_datetime": "2018-09-06 18:23:42",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "南區國民路244號 道路維修",
+    "address_string": "南區國民路244號",
+    "lat": "22.9687293",
+    "long": "120.2104039",
+    "service_notice": {},
+    "updated_datetime": "2018-09-07 10:21:27",
+    "expected_datetime": "2018-10-06 18:23:42"
+}

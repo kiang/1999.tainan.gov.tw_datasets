@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060318",
+    "requested_datetime": "2018-09-06 18:14:47",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面下陷、凹陷",
+    "description": "北區東豐路與前鋒路 路面下陷",
+    "address_string": "北區東豐路前鋒路",
+    "lat": "23.0039345",
+    "long": "120.2150772",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-06 18:10:00"
+}

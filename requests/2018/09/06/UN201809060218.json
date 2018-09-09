@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060218",
+    "requested_datetime": "2018-09-06 14:50:30",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "東區裕農路400號 交通疏導",
+    "address_string": "東區裕農路400號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-06 18:16:19",
+    "expected_datetime": "2018-10-06 14:48:00"
+}

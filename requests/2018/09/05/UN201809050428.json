@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809050428",
+    "requested_datetime": "2018-09-05 21:28:09",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安定區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌故障",
+    "description": "安定區六嘉里33號勞爾富前路口 號誌故障",
+    "address_string": "安定區六嘉里33號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-09-06 08:31:16",
+    "expected_datetime": "2018-10-05 21:26:00"
+}

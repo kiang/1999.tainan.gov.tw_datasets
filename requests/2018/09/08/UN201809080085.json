@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809080085",
+    "requested_datetime": "2018-09-08 10:35:20",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "環境髒亂",
+    "description": "永康區中華路23巷1-1號 髒亂及汙染",
+    "address_string": "永康區中華路23巷1-1號",
+    "lat": "22.99965",
+    "long": "120.234184",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-08 10:35:20"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060369",
+    "requested_datetime": "2018-09-06 20:22:51",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
+    "description": "中西區民權路二段254號與256號  電信孔蓋",
+    "address_string": "中西區民權路二段254號",
+    "lat": "22.996178",
+    "long": "120.20048",
+    "service_notice": {},
+    "updated_datetime": "2018-09-07 17:06:21",
+    "expected_datetime": "2018-10-06 20:19:00"
+}

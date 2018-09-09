@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070054",
+    "requested_datetime": "2018-09-07 08:55:38",
+    "status": {},
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "仁德區保學路45號對面 坑洞",
+    "address_string": "仁德區保學路45號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-07 08:54:00"
+}

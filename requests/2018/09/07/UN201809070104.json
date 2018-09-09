@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070104",
+    "requested_datetime": "2018-09-07 10:09:53",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "臺南市永康區公所",
+    "subproject": "路面下陷、凹陷",
+    "description": "永康區鹽和街239號 路面下陷",
+    "address_string": "永康區鹽和街239號",
+    "lat": "23.0348183",
+    "long": "120.2349389",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-07 10:09:00"
+}

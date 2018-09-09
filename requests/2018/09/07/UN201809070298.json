@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070298",
+    "requested_datetime": "2018-09-07 16:23:41",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "東區崇德三十四街32號與35號與50號前 路面坑洞",
+    "address_string": "東區崇德三十四街32號",
+    "lat": "22.9597371",
+    "long": "120.2289143",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-07 16:22:00"
+}

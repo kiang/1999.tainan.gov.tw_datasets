@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060001",
+    "requested_datetime": "2018-09-06 00:06:50",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "南區西門路一段232巷10號 場所連續噪音",
+    "address_string": "西門路一段232巷10號",
+    "lat": "23.0358511",
+    "long": "120.2475182",
+    "service_notice": {},
+    "updated_datetime": "2018-09-07 14:01:24",
+    "expected_datetime": "2018-10-06 00:06:50"
+}

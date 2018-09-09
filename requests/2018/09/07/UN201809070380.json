@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070380",
+    "requested_datetime": "2018-09-07 19:06:55",
+    "status": {},
+    "keyword": "0",
+    "area": "將軍區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "將軍區苓和里 路燈大範圍",
+    "address_string": "將軍區苓和里",
+    "lat": "23.2254101",
+    "long": "120.1661469",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-07 19:06:00"
+}

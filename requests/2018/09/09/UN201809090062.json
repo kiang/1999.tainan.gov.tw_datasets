@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809090062",
+    "requested_datetime": "2018-09-09 09:44:16",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "新營區大同路6號 違規停車",
+    "address_string": "新營區大同路6號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-09 18:51:28",
+    "expected_datetime": "2018-10-09 09:43:00"
+}

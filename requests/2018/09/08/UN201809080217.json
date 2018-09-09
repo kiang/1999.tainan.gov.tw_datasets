@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809080217",
+    "requested_datetime": "2018-09-08 15:39:49",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "永康區永安路與永安一街口，永安路上 號誌故障",
+    "address_string": "永康區永安路永安一街",
+    "lat": "23.0444547",
+    "long": "120.2454703",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-08 15:36:00"
+}

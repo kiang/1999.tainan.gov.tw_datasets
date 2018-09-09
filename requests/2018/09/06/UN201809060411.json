@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809060411",
+    "requested_datetime": "2018-09-06 23:38:58",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "永康區永大路三段618巷10號附近 施工噪音",
+    "address_string": "永康區永大路三段618巷10號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-07 11:11:19",
+    "expected_datetime": "2018-10-06 23:38:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070283",
+    "requested_datetime": "2018-09-07 15:47:42",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面掏空、塌陷",
+    "description": "南區西門路一段左轉新都路   路面下陷",
+    "address_string": "南區西門路一段新都路",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-07 15:43:00"
+}

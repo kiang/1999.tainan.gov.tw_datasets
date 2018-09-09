@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809080196",
+    "requested_datetime": "2018-09-08 14:57:45",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "南區金華路二段71巷18號 噪音舉發",
+    "address_string": "南區金華路二段71巷18號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-08 14:57:45"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809050448",
+    "requested_datetime": "2018-09-05 23:49:37",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "六甲區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "六甲區中正路868巷56弄 路燈故障",
+    "address_string": "台南市六甲區中正路868巷56弄路口",
+    "lat": "23.2317851",
+    "long": "120.34744",
+    "service_notice": {},
+    "updated_datetime": "2018-09-06 15:56:30",
+    "expected_datetime": "2018-10-05 23:49:37"
+}

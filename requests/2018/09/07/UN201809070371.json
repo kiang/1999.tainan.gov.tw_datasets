@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809070371",
+    "requested_datetime": "2018-09-07 18:44:23",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "中西區青年路215巷6號 路燈故障",
+    "address_string": "中西區青年路215巷6號",
+    "lat": "22.991647",
+    "long": "120.2113251",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-07 18:42:00"
+}
