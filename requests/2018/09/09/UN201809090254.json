@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "下營區自由路70幾號到100多號之間路段 路燈不亮",
     "address_string": "下營區自由路70號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0272246",
+    "long": "120.2056864",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-10-09 19:27:00"
