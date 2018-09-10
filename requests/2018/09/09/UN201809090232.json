@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201809090232",
     "requested_datetime": "2018-09-09 18:20:07",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "新化區",
     "service_name": "髒亂及汙染",
@@ -12,6 +12,6 @@
     "lat": "22.9759935",
     "long": "120.1953123",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-09-11 03:26:16",
     "expected_datetime": "2018-10-09 18:16:00"
 }
