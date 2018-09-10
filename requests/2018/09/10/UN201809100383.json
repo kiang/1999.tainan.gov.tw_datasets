@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809100383",
+    "requested_datetime": "2018-09-10 20:22:23",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區安平路40巷，台南大舞廳後門停車場出入口處紅線 違停",
+    "address_string": "安平區安平路40巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-10 20:21:00"
+}

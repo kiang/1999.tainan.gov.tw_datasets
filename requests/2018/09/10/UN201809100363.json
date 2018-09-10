@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809100363",
+    "requested_datetime": "2018-09-10 19:23:18",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區實踐街39巷24號 路燈不亮",
+    "address_string": "北區實踐街39巷24號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-10 19:22:00"
+}
