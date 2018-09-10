@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809100267",
+    "requested_datetime": "2018-09-10 15:27:38",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區中正路32，郵局，54，56號 違規停車",
+    "address_string": "中西區中正路32號到56號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-10 15:27:38"
+}
