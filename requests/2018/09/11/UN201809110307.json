@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809110307",
+    "requested_datetime": "2018-09-11 17:57:58",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區大橋一街與中華路口，永豐銀行 違停",
+    "address_string": "永康區大橋一街中華路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-11 17:55:00"
+}
