@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809110136",
+    "requested_datetime": "2018-09-11 11:53:44",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區海安路三段198號  路燈故障不亮",
+    "address_string": "北區海安路三段198號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-11 11:50:00"
+}
