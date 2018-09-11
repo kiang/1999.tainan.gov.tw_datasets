@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809110021",
+    "requested_datetime": "2018-09-11 07:45:15",
+    "status": {},
+    "keyword": "0",
+    "area": "善化區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局,臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "善化區陽光大道介於龍目井路與西拉雅大道之間 違規停車",
+    "address_string": "善化區陽光大道*龍目井路*西拉雅大道",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-11 07:42:00"
+}
