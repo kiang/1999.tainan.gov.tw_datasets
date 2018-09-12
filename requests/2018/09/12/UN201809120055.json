@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區海安路三段150號-200號前 路燈故障",
     "address_string": "北區海安路三段150號200號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0047612",
+    "long": "120.2001953",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-10-12 09:06:00"

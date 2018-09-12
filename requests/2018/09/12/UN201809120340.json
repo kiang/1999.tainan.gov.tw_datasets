@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809120340",
+    "requested_datetime": "2018-09-12 18:46:29",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "南區金華路一段151號前 路面坑洞",
+    "address_string": "南區金華路一段151號",
+    "lat": "22.9651469",
+    "long": "120.1895807",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-12 18:45:00"
+}

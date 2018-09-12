@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "六甲區龜子港 號誌故障",
     "address_string": "六甲區龜子港",
-    "lat": {},
-    "long": {},
+    "lat": "23.252873",
+    "long": "120.309742",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-10-12 14:05:00"
