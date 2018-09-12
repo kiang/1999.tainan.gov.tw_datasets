@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "柳營區士林里育英街119號和121號 路燈故障",
     "address_string": "柳營區士林里育英街119號",
-    "lat": {},
-    "long": {},
+    "lat": "23.2749075",
+    "long": "120.3097533",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-10-11 11:10:00"

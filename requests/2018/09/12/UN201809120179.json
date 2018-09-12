@@ -7,11 +7,11 @@
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
-    "description": "北區勝利路260號紅線轉角",
+    "description": "北區勝利路260號 違停",
     "address_string": "北區勝利路260號",
-    "lat": {},
-    "long": {},
+    "lat": "23.005656",
+    "long": "120.2189069",
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2018-10-12 12:40:00"
+    "expected_datetime": "2018-10-12 13:38:00"
 }

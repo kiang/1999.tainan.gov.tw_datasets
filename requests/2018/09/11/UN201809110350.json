@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區崇德二街、德光街 路燈不亮",
     "address_string": "東區崇德二街1號",
-    "lat": {},
-    "long": {},
+    "lat": "22.979461",
+    "long": "120.2197444",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-10-11 19:25:00"
