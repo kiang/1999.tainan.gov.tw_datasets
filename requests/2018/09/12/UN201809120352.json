@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809120352",
+    "requested_datetime": "2018-09-12 19:16:28",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "安平區光州路50號、安平區光州路和安億路口，安億路上 路燈不亮",
+    "address_string": "安平區光州路50號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-12 19:15:00"
+}
