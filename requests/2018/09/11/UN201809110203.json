@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201809110203",
     "requested_datetime": "2018-09-11 14:45:42",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "安平區",
     "service_name": "道路維修",
@@ -12,6 +12,6 @@
     "lat": "22.9997281",
     "long": "120.2270277",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-09-12 18:16:16",
     "expected_datetime": "2018-10-11 14:44:00"
 }
