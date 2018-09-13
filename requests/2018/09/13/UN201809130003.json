@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201809130003",
     "requested_datetime": "2018-09-13 00:31:46",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "後壁區",
     "service_name": "髒亂及汙染",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-09-13 14:36:26",
     "expected_datetime": "2018-10-13 00:29:00"
 }
