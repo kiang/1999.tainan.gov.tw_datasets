@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809300201",
+    "requested_datetime": "2018-09-30 18:29:27",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "永康區大灣路1014號 鍵誠紡織 空污",
+    "address_string": "永康區大灣路1014號",
+    "lat": "23.0008012",
+    "long": "120.2255972",
+    "service_notice": {},
+    "updated_datetime": "2018-10-01 11:41:27",
+    "expected_datetime": "2018-10-30 18:27:00"
+}

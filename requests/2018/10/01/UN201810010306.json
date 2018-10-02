@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810010306",
+    "requested_datetime": "2018-10-01 16:59:05",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "其他汙染舉發",
+    "description": "北區北園街124巷14弄7號與11號 其他汙染舉發",
+    "address_string": "北區北園街124巷14弄7號",
+    "lat": "22.9933112",
+    "long": "120.2073196",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-31 16:55:00"
+}

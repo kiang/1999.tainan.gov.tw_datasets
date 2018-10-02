@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810010292",
+    "requested_datetime": "2018-10-01 16:14:58",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區育平路與育平五街口 違規停車",
+    "address_string": "安平區育平路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-10-01 19:01:45",
+    "expected_datetime": "2018-10-31 16:13:00"
+}

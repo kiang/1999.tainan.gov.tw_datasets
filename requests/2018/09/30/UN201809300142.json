@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809300142",
+    "requested_datetime": "2018-09-30 15:28:04",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "寬頻管線、孔蓋損壞",
+    "description": "永康區忠孝路58號 寬頻孔蓋旁柏油凹陷",
+    "address_string": "永康區忠孝路58號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-30 15:27:00"
+}

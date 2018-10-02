@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810020140",
+    "requested_datetime": "2018-10-02 12:31:11",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區中山南路123巷與119巷交叉口  紅線違停",
+    "address_string": "永康區中山南路123巷119巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-10-02 16:06:33",
+    "expected_datetime": "2018-11-01 12:28:00"
+}

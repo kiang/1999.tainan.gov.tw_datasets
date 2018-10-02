@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810010194",
+    "requested_datetime": "2018-10-01 13:13:56",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "中西區中華西路*民生路 道路掉落物",
+    "address_string": "中西區中華西路*民生路",
+    "lat": "23.3091469",
+    "long": "120.281096",
+    "service_notice": {},
+    "updated_datetime": "2018-10-02 17:31:27",
+    "expected_datetime": "2018-10-31 13:10:00"
+}

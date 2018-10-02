@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810010234",
+    "requested_datetime": "2018-10-01 14:32:14",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "歸仁區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "歸仁區文化街三段20號 妨害安寧",
+    "address_string": "歸仁區文化街三段20號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-10-01 18:31:25",
+    "expected_datetime": "2018-10-31 14:29:00"
+}

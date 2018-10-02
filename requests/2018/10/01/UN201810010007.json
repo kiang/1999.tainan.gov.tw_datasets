@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810010007",
+    "requested_datetime": "2018-10-01 03:49:14",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "官田區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "官田區二鎮里75號 狗吠噪音",
+    "address_string": "官田區二鎮里75號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-10-01 16:21:46",
+    "expected_datetime": "2018-10-31 03:48:00"
+}

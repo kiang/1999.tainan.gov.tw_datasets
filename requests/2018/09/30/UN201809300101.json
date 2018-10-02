@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809300101",
+    "requested_datetime": "2018-09-30 12:18:55",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "歸仁區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "歸仁區南丁路與南丁路702巷口  號誌故障",
+    "address_string": "歸仁區南丁路南丁路702巷",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-10-01 15:26:31",
+    "expected_datetime": "2018-10-30 12:18:55"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810010129",
+    "requested_datetime": "2018-10-01 10:48:52",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "人孔蓋或溝蓋聲響鬆動",
+    "description": "北區育成路191巷31弄20號  汙水孔蓋鬆動",
+    "address_string": "北區育成路191巷31弄20號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-31 10:42:00"
+}

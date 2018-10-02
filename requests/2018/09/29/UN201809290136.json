@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809290136",
+    "requested_datetime": "2018-09-29 12:14:53",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "中西區永福路一段 路面坑洞",
+    "address_string": "中西區永福路一段",
+    "lat": "23.137573",
+    "long": "120.282292",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-29 12:13:00"
+}

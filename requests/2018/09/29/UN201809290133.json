@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809290133",
+    "requested_datetime": "2018-09-29 12:03:43",
+    "status": {},
+    "keyword": "0",
+    "area": "六甲區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
+    "description": "六甲區水林里中山路跟林森街交叉路口   中華電信電線杆電線脫落",
+    "address_string": "六甲區水林里中山路林森街",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-29 12:02:00"
+}

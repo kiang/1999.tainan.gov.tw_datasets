@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809280349",
+    "requested_datetime": "2018-09-28 23:50:14",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府工務局",
+    "subproject": "路面坑洞",
+    "description": "安南區理安街42號 坑洞",
+    "address_string": "安南區理安街42號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-10-02 08:16:22",
+    "expected_datetime": "2018-10-28 23:47:00"
+}

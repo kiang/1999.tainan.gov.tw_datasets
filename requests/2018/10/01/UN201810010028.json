@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810010028",
+    "requested_datetime": "2018-10-01 07:51:33",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "安南區府安路與海佃路口 號誌故障",
+    "address_string": "安南區府安路",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-10-02 15:36:18",
+    "expected_datetime": "2018-10-31 07:51:00"
+}

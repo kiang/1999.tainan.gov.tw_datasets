@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809290127",
+    "requested_datetime": "2018-09-29 11:51:38",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "永康區八德街400號 空氣汙染",
+    "address_string": "永康區八德街400號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-10-01 14:11:32",
+    "expected_datetime": "2018-10-29 11:49:00"
+}

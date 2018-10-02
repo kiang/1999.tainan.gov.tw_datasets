@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809290247",
+    "requested_datetime": "2018-09-29 18:09:27",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "區中華南路一段，介於國民路與永成路三段間，阿鳳檳榔後方 空污",
+    "address_string": "區中華南路一段",
+    "lat": "22.985705",
+    "long": "120.186813",
+    "service_notice": {},
+    "updated_datetime": "2018-10-02 18:31:13",
+    "expected_datetime": "2018-10-29 18:03:00"
+}

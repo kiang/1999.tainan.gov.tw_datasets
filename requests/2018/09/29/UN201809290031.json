@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809290031",
+    "requested_datetime": "2018-09-29 08:38:29",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "環境髒亂",
+    "description": "永康區勝利街一巷５４號　環境髒亂",
+    "address_string": "永康區勝利街一巷５４號",
+    "lat": "23.0744441",
+    "long": "120.2915069",
+    "service_notice": {},
+    "updated_datetime": "2018-10-01 14:21:22",
+    "expected_datetime": "2018-10-29 08:36:00"
+}

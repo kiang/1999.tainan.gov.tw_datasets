@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809290303",
+    "requested_datetime": "2018-09-29 21:58:27",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "永康區中正路256巷，歐洲世界社區 擴音噪音",
+    "address_string": "永康區中正路256巷",
+    "lat": "22.9674841",
+    "long": "120.1902965",
+    "service_notice": {},
+    "updated_datetime": "2018-10-01 11:16:19",
+    "expected_datetime": "2018-10-29 21:56:00"
+}

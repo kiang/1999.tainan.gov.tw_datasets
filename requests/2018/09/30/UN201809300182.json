@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809300182",
+    "requested_datetime": "2018-09-30 17:23:52",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "歸仁區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "歸仁區中山路一段與信義南路口 違停",
+    "address_string": "歸仁區中山路一段信義南路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-30 19:01:19",
+    "expected_datetime": "2018-10-30 17:22:00"
+}

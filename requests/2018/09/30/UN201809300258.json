@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809300258",
+    "requested_datetime": "2018-09-30 22:12:46",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "南區明興路與明興路1181巷 號誌故障",
+    "address_string": "明興路與明興路1181巷",
+    "lat": "23.0008012",
+    "long": "120.2255972",
+    "service_notice": {},
+    "updated_datetime": "2018-10-01 15:01:29",
+    "expected_datetime": "2018-10-30 22:12:46"
+}

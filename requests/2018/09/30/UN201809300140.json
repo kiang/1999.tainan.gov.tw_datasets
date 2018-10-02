@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809300140",
+    "requested_datetime": "2018-09-30 15:23:47",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "仁德區文心路與文南街口，興富發建設 空污",
+    "address_string": "仁德區文心路文南街",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-10-02 08:36:28",
+    "expected_datetime": "2018-10-30 15:18:00"
+}

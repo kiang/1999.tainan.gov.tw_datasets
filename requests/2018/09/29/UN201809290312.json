@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809290312",
+    "requested_datetime": "2018-09-29 22:40:41",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新化區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "新化區全興里93號旁三合院 空污",
+    "address_string": "新化區全興里93號",
+    "lat": "22.98646",
+    "long": "120.2269132",
+    "service_notice": {},
+    "updated_datetime": "2018-10-02 10:36:25",
+    "expected_datetime": "2018-10-29 22:38:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809290215",
+    "requested_datetime": "2018-09-29 16:16:52",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面掏空、塌陷",
+    "description": "永康區中山東路116號萬福金龍大樓,車道右手邊外牆邊 路面掏空",
+    "address_string": "永康區中山東路116號",
+    "lat": "22.9902101",
+    "long": "120.1922863",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-29 16:11:00"
+}

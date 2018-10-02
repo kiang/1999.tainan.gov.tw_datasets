@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809300094",
+    "requested_datetime": "2018-09-30 12:02:23",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "善化區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "善化區興農路416號 空氣汙染",
+    "address_string": "善化區興農路416號",
+    "lat": "23.1310662",
+    "long": "120.2712005",
+    "service_notice": {},
+    "updated_datetime": "2018-10-02 11:01:33",
+    "expected_datetime": "2018-10-30 12:01:00"
+}

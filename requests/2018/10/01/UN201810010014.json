@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810010014",
+    "requested_datetime": "2018-10-01 06:38:43",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區育平五街61-71號 違規停車",
+    "address_string": "安平區育平五街61-71號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-10-01 16:21:47",
+    "expected_datetime": "2018-10-31 06:37:00"
+}

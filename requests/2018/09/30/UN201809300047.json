@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809300047",
+    "requested_datetime": "2018-09-30 09:34:49",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": {},
+    "description": "北區海安路三段74巷巷口 違停",
+    "address_string": "北區海安路三段74巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-30 18:26:41",
+    "expected_datetime": "2018-10-30 09:32:00"
+}

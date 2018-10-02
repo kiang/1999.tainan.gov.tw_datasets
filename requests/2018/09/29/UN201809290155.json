@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809290155",
+    "requested_datetime": "2018-09-29 13:35:35",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "永康區大同街638號  民生管線",
+    "address_string": "永康區大同街638號",
+    "lat": "22.9848653",
+    "long": "120.2111666",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-29 13:35:35"
+}

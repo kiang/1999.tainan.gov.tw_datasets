@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809290092",
+    "requested_datetime": "2018-09-29 10:38:37",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區台南後火車站前鋒路往民族路的方向  違規停車",
+    "address_string": "東區台南後火車站",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-29 16:41:16",
+    "expected_datetime": "2018-10-29 10:36:00"
+}

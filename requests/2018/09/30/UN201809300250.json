@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809300250",
+    "requested_datetime": "2018-09-30 21:36:03",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "場所連續噪音",
+    "description": "仁德區文善街與文孝路口，上東城 噪音",
+    "address_string": "仁德區文善街文孝路",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-10-02 09:01:48",
+    "expected_datetime": "2018-10-30 21:32:00"
+}

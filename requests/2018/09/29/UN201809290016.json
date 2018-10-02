@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809290016",
+    "requested_datetime": "2018-09-29 07:28:40",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路樹傾倒",
+    "description": "南區德興路215巷2號　　路樹傾倒",
+    "address_string": "南區德興路215巷2號",
+    "lat": "22.985705",
+    "long": "120.186813",
+    "service_notice": {},
+    "updated_datetime": "2018-10-01 16:51:19",
+    "expected_datetime": "2018-10-29 07:27:00"
+}

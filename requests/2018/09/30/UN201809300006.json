@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809300006",
+    "requested_datetime": "2018-09-30 03:08:47",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "中西區金華路三段126號5樓 空氣污染＆色情按摩",
+    "address_string": "中西區金華路三段126號5樓",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-10-01 14:36:20",
+    "expected_datetime": "2018-10-30 03:09:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810010349",
+    "requested_datetime": "2018-10-01 19:09:05",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區大興街2之11號，魔王雞排前 路燈不亮",
+    "address_string": "北區大興街2之11號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-10-31 19:08:00"
+}

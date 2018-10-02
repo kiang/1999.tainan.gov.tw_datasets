@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809290235",
+    "requested_datetime": "2018-09-29 17:24:04",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "中西區永福路二段193號旁巷子內 漏水",
+    "address_string": "中西區永福路二段193號",
+    "lat": "22.9848653",
+    "long": "120.2111666",
+    "service_notice": {},
+    "updated_datetime": "2018-10-02 15:11:26",
+    "expected_datetime": "2018-10-29 17:22:00"
+}

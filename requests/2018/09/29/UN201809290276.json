@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809290276",
+    "requested_datetime": "2018-09-29 19:43:57",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "安平區育平路與慶平路口，慶平路上 號誌故障",
+    "address_string": "安平區育平路慶平路",
+    "lat": "22.9959954",
+    "long": "120.211547",
+    "service_notice": {},
+    "updated_datetime": "2018-10-01 14:46:20",
+    "expected_datetime": "2018-10-29 19:41:00"
+}

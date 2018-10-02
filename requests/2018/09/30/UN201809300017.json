@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809300017",
+    "requested_datetime": "2018-09-30 07:34:10",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "仁德區文華路二段十鼓文化村 道路散落物",
+    "address_string": "仁德區文華路二段十鼓文化村",
+    "lat": "22.9393947",
+    "long": "120.2302833",
+    "service_notice": {},
+    "updated_datetime": "2018-10-01 15:07:05",
+    "expected_datetime": "2018-10-30 07:32:00"
+}

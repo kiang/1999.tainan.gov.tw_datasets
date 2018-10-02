@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810020066",
+    "requested_datetime": "2018-10-02 09:35:59",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "善化區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府交通局",
+    "subproject": "號誌故障",
+    "description": "善化區西拉雅大道陽光路 號誌故障",
+    "address_string": "善化區西拉雅大道陽光路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-10-02 14:26:24",
+    "expected_datetime": "2018-11-01 09:35:00"
+}

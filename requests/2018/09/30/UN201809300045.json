@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809300045",
+    "requested_datetime": "2018-09-30 09:27:50",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "南區中華西路一段52巷搭棚架",
+    "address_string": "南區中華西路一段52巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-30 18:32:13",
+    "expected_datetime": "2018-10-30 09:25:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809300116",
+    "requested_datetime": "2018-09-30 13:21:28",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區新行街70號,違停",
+    "address_string": "永康區新行街70號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-30 19:06:27",
+    "expected_datetime": "2018-10-30 13:20:00"
+}

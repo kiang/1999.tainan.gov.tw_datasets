@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809290299",
+    "requested_datetime": "2018-09-29 21:43:22",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "南區建南路29號對面 路燈故障",
+    "address_string": "南區建南路29號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-10-02 09:31:25",
+    "expected_datetime": "2018-10-29 21:43:22"
+}

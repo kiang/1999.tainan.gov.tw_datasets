@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809300012",
+    "requested_datetime": "2018-09-30 06:00:33",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "道路散落物",
+    "description": "永康區仁愛街113號附近，藥廠前靠近路中間位置 狗屍",
+    "address_string": "永康區仁愛街113號",
+    "lat": "22.9947618",
+    "long": "120.2095867",
+    "service_notice": {},
+    "updated_datetime": "2018-10-01 15:07:05",
+    "expected_datetime": "2018-10-30 06:00:00"
+}

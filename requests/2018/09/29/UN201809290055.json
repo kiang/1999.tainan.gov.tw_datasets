@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809290055",
+    "requested_datetime": "2018-09-29 09:26:51",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區公園路５９９之７號前　佔用道路",
+    "address_string": "北區公園路５９９之７號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-29 15:21:13",
+    "expected_datetime": "2018-10-29 09:25:00"
+}

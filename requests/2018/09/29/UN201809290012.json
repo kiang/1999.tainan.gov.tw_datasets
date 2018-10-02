@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809290012",
+    "requested_datetime": "2018-09-29 06:56:40",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "仁德區太子南路，明直宮 廟會噪音",
+    "address_string": "仁德區太子南路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-29 15:11:32",
+    "expected_datetime": "2018-10-29 06:56:00"
+}

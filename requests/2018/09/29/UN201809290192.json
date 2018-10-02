@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809290192",
+    "requested_datetime": "2018-09-29 15:20:05",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "小廣告、旗幟",
+    "description": "新營區  髒亂及汙染",
+    "address_string": "新營區",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-10-01 17:02:55",
+    "expected_datetime": "2018-10-29 15:20:05"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809290259",
+    "requested_datetime": "2018-09-29 18:41:35",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "永康區中山北路610號 路面有垃圾",
+    "address_string": "永康區中山北路610號",
+    "lat": "22.9959954",
+    "long": "120.211547",
+    "service_notice": {},
+    "updated_datetime": "2018-10-01 15:01:28",
+    "expected_datetime": "2018-10-29 18:40:00"
+}

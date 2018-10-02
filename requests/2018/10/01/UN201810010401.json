@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810010401",
+    "requested_datetime": "2018-10-01 22:05:20",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "南區明興路和興隆路口 廟會噪音",
+    "address_string": "南區明興路興隆路",
+    "lat": "23.3091469",
+    "long": "120.281096",
+    "service_notice": {},
+    "updated_datetime": "2018-10-02 02:51:26",
+    "expected_datetime": "2018-10-31 22:05:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810010035",
+    "requested_datetime": "2018-10-01 08:05:34",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區國民路與\"幽靈小籠包 違停",
+    "address_string": "南區國民路與\"幽靈小籠包",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-10-01 16:46:25",
+    "expected_datetime": "2018-10-31 08:01:00"
+}

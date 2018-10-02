@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809300023",
+    "requested_datetime": "2018-09-30 08:02:29",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "安南區四草大道大眾路 路面散落物",
+    "address_string": "安南區四草大道大眾路",
+    "lat": "22.9393947",
+    "long": "120.2302833",
+    "service_notice": {},
+    "updated_datetime": "2018-10-01 13:51:19",
+    "expected_datetime": "2018-10-30 08:02:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809290088",
+    "requested_datetime": "2018-09-29 10:25:50",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "仁德區忠義路124號前方 電線垂落",
+    "address_string": "仁德區忠義路124號",
+    "lat": "22.985705",
+    "long": "120.186813",
+    "service_notice": {},
+    "updated_datetime": "2018-10-01 15:21:25",
+    "expected_datetime": "2018-10-29 10:25:00"
+}

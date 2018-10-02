@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809300227",
+    "requested_datetime": "2018-09-30 19:58:03",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "仁德區土庫一街82巷15號 妨害安寧",
+    "address_string": "仁德區土庫一街82巷15號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-30 23:41:23",
+    "expected_datetime": "2018-10-30 19:55:00"
+}

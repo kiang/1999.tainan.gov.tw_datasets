@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809300120",
+    "requested_datetime": "2018-09-30 13:53:55",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "歸仁區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "歸仁區台南高鐵站高鐵大道  違規停車",
+    "address_string": "歸仁區台南高鐵站高鐵大道",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-30 17:56:31",
+    "expected_datetime": "2018-10-30 13:53:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809300237",
+    "requested_datetime": "2018-09-30 20:47:49",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區小東公園近東豐路 違規停車",
+    "address_string": "北區小東公園",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-10-01 00:06:30",
+    "expected_datetime": "2018-10-30 20:46:00"
+}

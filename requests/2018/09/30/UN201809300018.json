@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809300018",
+    "requested_datetime": "2018-09-30 07:46:20",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "歸仁區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "歸仁區六甲路跟高鐵便道交叉口   妨害安寧",
+    "address_string": "歸仁區六甲路高鐵便道",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-30 18:36:35",
+    "expected_datetime": "2018-10-30 07:46:00"
+}

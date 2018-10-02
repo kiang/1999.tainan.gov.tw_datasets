@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809300194",
+    "requested_datetime": "2018-09-30 18:07:06",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區南寧街130號對面 違規停車",
+    "address_string": "中西區南寧街130號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-30 22:46:27",
+    "expected_datetime": "2018-10-30 18:07:06"
+}

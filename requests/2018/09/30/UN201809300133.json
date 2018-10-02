@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809300133",
+    "requested_datetime": "2018-09-30 14:47:17",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "民族路地下道 人行道 多車違停",
+    "address_string": "東區民族路地下道",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-30 18:51:24",
+    "expected_datetime": "2018-10-30 14:46:00"
+}

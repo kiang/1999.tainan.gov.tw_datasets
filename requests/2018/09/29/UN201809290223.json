@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809290223",
+    "requested_datetime": "2018-09-29 16:51:54",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "場所連續噪音",
+    "description": "東區仁和路107巷84號,施工機械連續噪音",
+    "address_string": "東區仁和路107巷84號",
+    "lat": "22.9674841",
+    "long": "120.1902965",
+    "service_notice": {},
+    "updated_datetime": "2018-10-02 08:56:23",
+    "expected_datetime": "2018-10-29 16:49:00"
+}

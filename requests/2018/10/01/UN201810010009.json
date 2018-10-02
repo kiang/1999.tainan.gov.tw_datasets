@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810010009",
+    "requested_datetime": "2018-10-01 05:34:28",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "動物救援",
+    "agency": "台南市政府",
+    "subproject": "犬貓急難救援",
+    "description": "永康區東橋八街25巷2弄3號 犬貓急難救援",
+    "address_string": "永康區東東橋八街25巷2弄3號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-10-02 02:36:17",
+    "expected_datetime": "2018-10-31 05:32:00"
+}

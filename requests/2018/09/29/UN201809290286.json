@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809290286",
+    "requested_datetime": "2018-09-29 20:27:50",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "東區崇聖路二段與生產路交叉口 交通運輸",
+    "address_string": "東區崇聖路二段生產路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-29 22:06:16",
+    "expected_datetime": "2018-10-29 20:27:50"
+}

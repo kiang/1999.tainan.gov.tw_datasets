@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809290178",
+    "requested_datetime": "2018-09-29 14:37:56",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區西門路四段16巷31弄   佔用道路",
+    "address_string": "北區西門路四段16巷31弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-29 17:21:19",
+    "expected_datetime": "2018-10-29 14:34:00"
+}

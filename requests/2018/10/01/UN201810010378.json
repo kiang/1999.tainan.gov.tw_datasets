@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810010378",
+    "requested_datetime": "2018-10-01 20:22:03",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區臨安路二段215號 佔用道路",
+    "address_string": "215 Section 2, Lin'an Road",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-10-01 22:56:50",
+    "expected_datetime": "2018-10-31 20:22:03"
+}

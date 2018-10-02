@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809300254",
+    "requested_datetime": "2018-09-30 21:55:12",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "仁德區德安路與德糖路口 妨害安寧",
+    "address_string": "仁德區德安路德糖路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-10-01 00:11:38",
+    "expected_datetime": "2018-10-30 21:52:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809290322",
+    "requested_datetime": "2018-09-29 23:45:41",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "東區林森路地下道 妨害安寧",
+    "address_string": "東區林森路地下道",
+    "lat": "22.98646",
+    "long": "120.2269132",
+    "service_notice": {},
+    "updated_datetime": "2018-09-30 02:26:16",
+    "expected_datetime": "2018-10-29 23:45:41"
+}

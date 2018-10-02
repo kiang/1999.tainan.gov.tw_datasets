@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810010354",
+    "requested_datetime": "2018-10-01 19:14:23",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "東區東安路30巷1號、2號巷口 佔用道路＆違停",
+    "address_string": "東區東安路30巷1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-10-02 00:26:30",
+    "expected_datetime": "2018-10-31 19:14:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809300145",
+    "requested_datetime": "2018-09-30 15:31:14",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "北區南園街101巷21弄7號，木工工廠 噪音",
+    "address_string": "北區南園街101巷21弄7號",
+    "lat": "23.0008012",
+    "long": "120.2255972",
+    "service_notice": {},
+    "updated_datetime": "2018-10-02 14:26:24",
+    "expected_datetime": "2018-10-30 15:30:00"
+}

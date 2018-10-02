@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809280347",
+    "requested_datetime": "2018-09-28 23:11:45",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "場所連續噪音",
+    "description": "安南區安昌街275巷55弄 噪音\/空污",
+    "address_string": "安南區安昌街275巷55弄",
+    "lat": "22.9892936",
+    "long": "120.2197647",
+    "service_notice": {},
+    "updated_datetime": "2018-10-02 08:41:25",
+    "expected_datetime": "2018-10-28 23:10:00"
+}

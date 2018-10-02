@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809290316",
+    "requested_datetime": "2018-09-29 23:06:13",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區中山南路123巷與中山南路119巷口 違停",
+    "address_string": "永康區中山南路123巷中山南路119巷",
+    "lat": "23.0129719",
+    "long": "120.229164",
+    "service_notice": {},
+    "updated_datetime": "2018-09-30 01:11:16",
+    "expected_datetime": "2018-10-29 23:04:00"
+}

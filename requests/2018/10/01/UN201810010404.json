@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810010404",
+    "requested_datetime": "2018-10-01 22:12:21",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新化區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "新化區崙仔頂6號 道路散落物",
+    "address_string": "新化區崙仔頂6號",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": "2018-10-02 17:31:28",
+    "expected_datetime": "2018-10-31 22:11:00"
+}

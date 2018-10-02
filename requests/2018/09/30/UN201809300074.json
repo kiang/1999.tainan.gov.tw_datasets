@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809300074",
+    "requested_datetime": "2018-09-30 10:44:08",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "動物救援",
+    "agency": "台南市政府",
+    "subproject": "犬貓急難救援",
+    "description": "永康區崑大路 崑山科大後門大排水溝 犬貓急難救援",
+    "address_string": "永康區崑大路",
+    "lat": "22.9930148",
+    "long": "120.1994672",
+    "service_notice": {},
+    "updated_datetime": "2018-10-01 16:21:46",
+    "expected_datetime": "2018-10-30 10:43:00"
+}

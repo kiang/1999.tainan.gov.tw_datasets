@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810020153",
+    "requested_datetime": "2018-10-02 12:53:23",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區和善街靠近協和街口 違規停車",
+    "address_string": "和善街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-10-02 14:41:52",
+    "expected_datetime": "2018-11-01 12:53:23"
+}

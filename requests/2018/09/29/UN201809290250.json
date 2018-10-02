@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809290250",
+    "requested_datetime": "2018-09-29 18:12:37",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "小廣告、旗幟",
+    "description": "永康區永大路二段與永大三路路口有數個建商與選舉看板 髒亂及汙染",
+    "address_string": "永康區177縣道758號",
+    "lat": "22.985705",
+    "long": "120.186813",
+    "service_notice": {},
+    "updated_datetime": "2018-10-01 10:26:43",
+    "expected_datetime": "2018-10-29 18:12:37"
+}

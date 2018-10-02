@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810010360",
+    "requested_datetime": "2018-10-01 19:27:24",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "安南區長和路一段3號 路燈故障",
+    "address_string": "安南區長和路一段3號",
+    "lat": "22.9916964",
+    "long": "120.2271097",
+    "service_notice": {},
+    "updated_datetime": "2018-10-02 09:31:27",
+    "expected_datetime": "2018-10-31 19:26:00"
+}

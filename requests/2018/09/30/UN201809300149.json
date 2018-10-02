@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201809300149",
+    "requested_datetime": "2018-09-30 15:43:07",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區北忠街  違規停車",
+    "address_string": "北區北忠街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-09-30 18:46:21",
+    "expected_datetime": "2018-10-30 15:42:00"
+}

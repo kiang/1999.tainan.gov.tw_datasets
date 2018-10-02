@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810010419",
+    "requested_datetime": "2018-10-01 23:15:06",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "佳里區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "佳里區佳東路888之1號，保安宮前 妨害安寧",
+    "address_string": "佳里區佳東路888之1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-10-02 00:21:17",
+    "expected_datetime": "2018-10-31 23:15:06"
+}
