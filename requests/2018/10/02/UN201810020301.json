@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區長東街46巷口 違停",
     "address_string": "東區長東街46巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.1228316",
+    "long": "120.2011469",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-01 18:37:00"

@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "永康區中正南路320號前 路燈故障不亮",
     "address_string": "永康區中正南路320號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9933738",
+    "long": "120.2094374",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-01 20:25:00"

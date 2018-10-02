@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安平區國平東路國平南路  路燈不亮",
     "address_string": "安平區國平東路國平南路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9815637",
+    "long": "120.1687301",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-01 18:36:00"
