@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810030280",
+    "requested_datetime": "2018-10-03 18:21:46",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "北區中華北路二段194巷45號附近和文成路 路燈不亮",
+    "address_string": "北區中華北路二段194巷45號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-02 18:21:00"
+}
