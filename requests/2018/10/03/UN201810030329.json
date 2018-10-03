@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "學甲區和平路3380號、學甲區重信路12號之4附近 路燈不亮",
     "address_string": "學甲區和平路3380號",
-    "lat": {},
-    "long": {},
+    "lat": "22.99122",
+    "long": "120.191733",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-02 19:33:00"

@@ -9,8 +9,8 @@
     "subproject": "10盞以上路燈故障",
     "description": "北區文賢路1030巷內 路燈不亮",
     "address_string": "北區文賢路1030巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.9984394",
+    "long": "120.1388823",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-02 18:29:00"

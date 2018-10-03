@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810030374",
+    "requested_datetime": "2018-10-03 23:13:58",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "安平區怡平路和怡平路468巷交叉口，金龍宮 空氣污染",
+    "address_string": "安平區怡平路怡平路468巷",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-02 23:13:00"
+}
