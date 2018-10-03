@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810030329",
+    "requested_datetime": "2018-10-03 19:36:36",
+    "status": {},
+    "keyword": "0",
+    "area": "學甲區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "學甲區和平路3380號、學甲區重信路12號之4附近 路燈不亮",
+    "address_string": "學甲區和平路3380號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-02 19:33:00"
+}
