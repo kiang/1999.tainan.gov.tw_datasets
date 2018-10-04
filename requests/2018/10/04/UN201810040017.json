@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "中西區健康路一段與南門路交叉口  號誌故障",
     "address_string": "中西區健康路一段南門路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9997281",
+    "long": "120.2270277",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-03 07:31:00"
