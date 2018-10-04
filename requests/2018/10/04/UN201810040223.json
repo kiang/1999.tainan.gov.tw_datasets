@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810040223",
+    "requested_datetime": "2018-10-04 14:50:47",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "仁德交流道從歸仁方向",
+    "address_string": "仁德區交流道",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-10-04 17:46:45",
+    "expected_datetime": "2018-11-03 14:48:00"
+}
