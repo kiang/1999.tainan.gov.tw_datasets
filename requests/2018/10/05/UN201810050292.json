@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810050292",
+    "requested_datetime": "2018-10-05 18:25:33",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "東區怡東路150巷口、東平路和怡東路口，號誌附近 路燈不亮",
+    "address_string": "東區怡東路150巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-04 18:25:00"
+}
