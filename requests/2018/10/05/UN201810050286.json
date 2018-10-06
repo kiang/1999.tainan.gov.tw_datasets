@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "北區公園路516巷口 號誌故障",
     "address_string": "北區公園路516巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.0066534",
+    "long": "120.2110305",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-04 18:00:00"

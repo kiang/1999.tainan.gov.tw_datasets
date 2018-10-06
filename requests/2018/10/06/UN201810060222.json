@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "白河區大排竹南91線4K 路燈故障",
     "address_string": "白河區大排竹南91線4K",
-    "lat": {},
-    "long": {},
+    "lat": "23.368205",
+    "long": "120.406658",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-05 18:07:00"

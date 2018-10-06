@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區文賢路99號 路燈故障",
     "address_string": "中西區文賢路99號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0013126",
+    "long": "120.1942411",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-04 17:10:00"
