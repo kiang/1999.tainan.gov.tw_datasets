@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810060236",
+    "requested_datetime": "2018-10-06 18:36:20",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "永康區中山北路431號前及隔壁 路燈不亮",
+    "address_string": "永康區中山北路431號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-05 18:35:00"
+}

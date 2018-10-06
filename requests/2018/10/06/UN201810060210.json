@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810060210",
+    "requested_datetime": "2018-10-06 17:29:03",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區小東路299巷口 妨害安寧",
+    "address_string": "北區小東路299巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-10-06 23:36:16",
+    "expected_datetime": "2018-11-05 17:28:00"
+}

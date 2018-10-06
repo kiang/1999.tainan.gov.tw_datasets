@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810060227",
+    "requested_datetime": "2018-10-06 18:19:44",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "永康區大灣五街93巷38號和36號之間 路燈不亮",
+    "address_string": "永康區大灣五街93巷38號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-05 18:18:00"
+}
