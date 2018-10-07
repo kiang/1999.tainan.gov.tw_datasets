@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "北區西門路和民德路 號誌故障",
     "address_string": "北區西門路民德路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0038408",
+    "long": "120.2043836",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-06 18:02:00"
