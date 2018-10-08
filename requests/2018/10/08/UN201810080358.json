@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "歸仁區中正南路二段轉進歸仁八路，從中正南路二段至高鐵二路 路燈故障",
     "address_string": "歸仁區歸仁八路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9268943",
+    "long": "120.2798175",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-07 20:11:29"

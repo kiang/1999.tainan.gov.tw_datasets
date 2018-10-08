@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "歸仁區高鐵大道、武當路 路燈故障",
     "address_string": "歸仁區高鐵大道武當路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9235449",
+    "long": "120.2845302",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-07 20:15:38"
