@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810060222",
     "requested_datetime": "2018-10-06 18:08:45",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "白河區",
     "service_name": "路燈故障",
@@ -12,6 +12,6 @@
     "lat": "23.368205",
     "long": "120.406658",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-08 16:26:13",
     "expected_datetime": "2018-11-05 18:07:00"
 }
