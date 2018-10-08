@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810080098",
     "requested_datetime": "2018-10-08 10:22:41",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "安南區",
     "service_name": "道路維修",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-08 17:26:22",
     "expected_datetime": "2018-11-07 10:20:00"
 }
