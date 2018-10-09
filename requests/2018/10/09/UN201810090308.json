@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810090308",
+    "requested_datetime": "2018-10-09 20:45:11",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "新營區健康路，懷德洗腎中心旁人行道 違停",
+    "address_string": "新營區健康路69號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-10-09 22:46:19",
+    "expected_datetime": "2018-11-08 20:45:00"
+}
