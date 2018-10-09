@@ -9,8 +9,8 @@
     "subproject": "路面坑洞",
     "description": "道路維修",
     "address_string": "郡安路四段跟泰安街街口",
-    "lat": {},
-    "long": {},
+    "lat": "23.0275173",
+    "long": "120.207617",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-08 22:43:22"

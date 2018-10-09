@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "永康區龍中街與竹南街口交叉口   路燈故障",
     "address_string": "永康區龍中街竹南街",
-    "lat": {},
-    "long": {},
+    "lat": "23.038246",
+    "long": "120.2618049",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-08 07:56:00"
