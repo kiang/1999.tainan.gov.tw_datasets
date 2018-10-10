@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810100151",
+    "requested_datetime": "2018-10-10 14:28:49",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "東區前鋒路與青年路 違規設攤",
+    "address_string": "東區前鋒路青年路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-10-10 15:48:56",
+    "expected_datetime": "2018-11-09 14:27:00"
+}
