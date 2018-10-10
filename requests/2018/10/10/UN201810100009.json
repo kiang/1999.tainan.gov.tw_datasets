@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "西港區西港大橋往西港方向 路燈故障",
     "address_string": "西港大橋往西港方向,過南40鄉道交叉路口後右手邊第一盞燈",
-    "lat": {},
-    "long": {},
+    "lat": "23.1069983",
+    "long": "120.2054106",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-09 02:31:04"
