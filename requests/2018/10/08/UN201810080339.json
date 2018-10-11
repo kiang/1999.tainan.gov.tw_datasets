@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810080339",
     "requested_datetime": "2018-10-08 19:07:44",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "白河區",
     "service_name": "道路維修",
@@ -12,6 +12,6 @@
     "lat": "23.3376683",
     "long": "120.5030788",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-11 18:21:16",
     "expected_datetime": "2018-11-07 19:07:00"
 }
