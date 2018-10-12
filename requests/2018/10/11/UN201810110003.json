@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810110003",
     "requested_datetime": "2018-10-11 00:40:45",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "鹽水區",
     "service_name": "髒亂及汙染",
@@ -12,6 +12,6 @@
     "lat": "23.3338668",
     "long": "120.2903101",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-12 12:01:51",
     "expected_datetime": "2018-11-10 00:40:00"
 }
