@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810120210",
+    "requested_datetime": "2018-10-12 14:50:59",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "路燈故障",
+    "agency": "臺南市政府工務局",
+    "subproject": "9盞以下路燈故障",
+    "description": "中西區湖美二街142巷33號 路燈不亮",
+    "address_string": "中西區湖美二街142巷33號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-11 14:49:00"
+}
