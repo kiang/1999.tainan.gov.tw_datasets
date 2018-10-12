@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810120354",
+    "requested_datetime": "2018-10-12 21:38:57",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "安南區觀海橋下，安明路一段往北方向 路燈不亮",
+    "address_string": "安南區安明路一段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-11 21:38:00"
+}

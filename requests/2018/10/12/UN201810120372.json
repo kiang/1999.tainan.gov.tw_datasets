@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區中華北路二段 9盞以下路燈故障",
     "address_string": "北區中華北路二段",
-    "lat": {},
-    "long": {},
+    "lat": "23.0211674",
+    "long": "120.2023325",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-11 22:52:00"

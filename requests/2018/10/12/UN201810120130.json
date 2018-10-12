@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "北區公園北路西門路 號誌故障",
     "address_string": "北區公園北路西門路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0034156",
+    "long": "120.2044904",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-11 11:29:00"

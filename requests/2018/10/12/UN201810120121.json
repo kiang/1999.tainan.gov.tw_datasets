@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "中西區金華路三段100號附近 空污",
     "address_string": "中西區金華路三段100號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9898943",
+    "long": "120.191728",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-11 11:17:00"

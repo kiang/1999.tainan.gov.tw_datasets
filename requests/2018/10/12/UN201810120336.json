@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810120336",
+    "requested_datetime": "2018-10-12 20:38:52",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區小東路373號，水源地碳烤 違停",
+    "address_string": "北區小東路373號",
+    "lat": "22.9989054",
+    "long": "120.2319979",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-11 20:38:00"
+}
