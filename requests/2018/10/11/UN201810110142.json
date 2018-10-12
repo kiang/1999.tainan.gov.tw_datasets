@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810110142",
     "requested_datetime": "2018-10-11 11:51:05",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "北門區",
     "service_name": "髒亂及汙染",
@@ -12,6 +12,6 @@
     "lat": "23.2866026",
     "long": "120.1242853",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-12 15:13:08",
     "expected_datetime": "2018-11-10 11:45:00"
 }
