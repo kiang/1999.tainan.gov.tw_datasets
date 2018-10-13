@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810130017",
+    "requested_datetime": "2018-10-13 07:16:09",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "安平區府平路興和宮 妨害安寧",
+    "address_string": "安平區府平路興和宮",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-10-13 08:16:00",
+    "expected_datetime": "2018-11-12 07:14:00"
+}
