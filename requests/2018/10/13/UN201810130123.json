@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810130123",
+    "requested_datetime": "2018-10-13 13:08:02",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "騎樓舉發",
+    "agency": "台南市政府",
+    "subproject": "騎樓舉發",
+    "description": "南區惠南街８４巷１２號  佔用騎樓",
+    "address_string": "南區惠南街８４巷１２號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-10-13 14:31:13",
+    "expected_datetime": "2018-11-12 13:07:00"
+}
