@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810130210",
+    "requested_datetime": "2018-10-13 18:48:47",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區大灣路(從崑山科大到永大路) 違停",
+    "address_string": "永康區大灣路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-12 18:48:00"
+}
