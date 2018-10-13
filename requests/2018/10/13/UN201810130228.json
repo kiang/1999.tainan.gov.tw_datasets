@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810130228",
+    "requested_datetime": "2018-10-13 19:45:50",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "701台南市東區中華東路三段318號（富邦銀行前) 違規停車",
+    "address_string": "701台南市東區中華東路三段318號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-12 19:45:50"
+}
