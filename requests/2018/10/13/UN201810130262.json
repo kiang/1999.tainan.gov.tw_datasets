@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810130262",
+    "requested_datetime": "2018-10-13 22:05:49",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "安南國中 妨害安寧",
+    "address_string": "安南國中",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-10-14 00:46:16",
+    "expected_datetime": "2018-11-12 22:05:00"
+}
