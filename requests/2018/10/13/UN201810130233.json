@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810130233",
     "requested_datetime": "2018-10-13 20:05:37",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "北區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "北區實踐街39巷57號 違停",
     "address_string": "北區實踐街39巷57號",
-    "lat": {},
-    "long": {},
+    "lat": "23.015849",
+    "long": "120.2187178",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-14 01:26:15",
     "expected_datetime": "2018-11-12 20:04:00"
 }

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810140004",
+    "requested_datetime": "2018-10-14 00:56:17",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "東區崇善路1091號卡拉OK店 妨害安寧",
+    "address_string": "東區崇善路1091號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-10-14 01:26:16",
+    "expected_datetime": "2018-11-13 00:55:00"
+}
