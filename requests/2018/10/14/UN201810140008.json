@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "新營區民族路68號路燈故障",
     "address_string": "新營區民族路68號",
-    "lat": {},
-    "long": {},
+    "lat": "23.310799",
+    "long": "120.318484",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-13 02:42:14"

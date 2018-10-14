@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區大同路一段73巷39號 路燈故障",
     "address_string": "東區大同路一段73巷39號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9868892",
+    "long": "120.2128958",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-13 18:38:00"

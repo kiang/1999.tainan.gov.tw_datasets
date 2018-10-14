@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "麻豆區麻豆市場附近中正路，從中山路到忠孝路之間路段 路燈不亮",
     "address_string": "麻豆區中正路",
-    "lat": {},
-    "long": {},
+    "lat": "23.1873751",
+    "long": "120.2508488",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-13 23:15:00"
