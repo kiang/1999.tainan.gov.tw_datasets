@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區湖美街75號 路燈不亮",
     "address_string": "中西區湖美街75號",
-    "lat": {},
-    "long": {},
+    "lat": "23.000729",
+    "long": "120.1795938",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-14 16:37:00"

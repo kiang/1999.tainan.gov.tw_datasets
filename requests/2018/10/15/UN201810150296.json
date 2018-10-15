@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區和善街91巷26號前 路燈不亮",
     "address_string": "中西區和善街91巷26號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0018271",
+    "long": "120.1894306",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-14 18:59:00"
