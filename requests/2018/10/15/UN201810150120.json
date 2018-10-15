@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201810150120",
     "requested_datetime": "2018-10-15 11:18:48",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "新營區",
     "service_name": "交通運輸",
     "agency": "台南市政府",
     "subproject": "號誌故障",
-    "description": "新營區的綠川北街與中正路口   號誌燈故障",
-    "address_string": "新營區的綠川北街中正路",
+    "description": "新營區綠川北街與中正路口   號誌燈故障",
+    "address_string": "新營區綠川北街中正路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-15 16:16:13",
     "expected_datetime": "2018-11-14 11:15:00"
 }
