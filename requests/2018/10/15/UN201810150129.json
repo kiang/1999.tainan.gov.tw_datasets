@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810150129",
+    "requested_datetime": "2018-10-15 11:54:41",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "永康區中華北路二段接中華路附近，從久井加油站開始，柴頭溪周邊 路燈不亮",
+    "address_string": "永康區中華北路二段中華路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-14 11:54:00"
+}
