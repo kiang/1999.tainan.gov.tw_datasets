@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810160024",
+    "requested_datetime": "2018-10-16 08:19:30",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區崇學路59巷與崇明路187巷   紅線違停",
+    "address_string": "東區崇學路59巷崇明路187巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-15 08:15:00"
+}
