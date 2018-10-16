@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "新營區三興街275巷空氣汙染",
     "address_string": "三興街275巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.3178949",
+    "long": "120.3074301",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-15 23:34:13"
