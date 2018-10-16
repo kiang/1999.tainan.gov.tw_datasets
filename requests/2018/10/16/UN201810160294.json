@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810160294",
+    "requested_datetime": "2018-10-16 18:17:27",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "南區明興路619巷363弄附近 路燈不亮",
+    "address_string": "南區明興路619巷363弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-15 18:17:00"
+}
