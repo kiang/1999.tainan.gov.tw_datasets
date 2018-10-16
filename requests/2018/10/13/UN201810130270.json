@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810130270",
     "requested_datetime": "2018-10-13 23:10:53",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "玉井區",
     "service_name": "髒亂及汙染",
@@ -12,6 +12,6 @@
     "lat": "23.1238885",
     "long": "120.4632501",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-16 14:06:16",
     "expected_datetime": "2018-11-12 23:10:53"
 }
