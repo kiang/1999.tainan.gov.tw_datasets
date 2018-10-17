@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810170231",
+    "requested_datetime": "2018-10-17 15:35:21",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "寬頻管線、孔蓋損壞",
+    "description": "仁德區中山路99號    寬頻孔蓋鬆動",
+    "address_string": "仁德區中山路99號",
+    "lat": "22.9942316",
+    "long": "120.2107961",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-16 15:34:00"
+}
