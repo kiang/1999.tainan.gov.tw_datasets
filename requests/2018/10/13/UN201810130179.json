@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810130179",
     "requested_datetime": "2018-10-13 16:48:53",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "東區",
     "service_name": "道路維修",
@@ -12,6 +12,6 @@
     "lat": "22.9815011",
     "long": "120.216648",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-17 08:51:42",
     "expected_datetime": "2018-11-12 16:48:00"
 }
