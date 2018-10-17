@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810170345",
     "requested_datetime": "2018-10-17 21:23:38",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "東區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "東區青年路258號旁巷口 違停",
     "address_string": "東區青年路258號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9913461",
+    "long": "120.2124453",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-18 00:26:24",
     "expected_datetime": "2018-11-16 21:23:00"
 }

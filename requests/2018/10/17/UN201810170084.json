@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "仁德區大發路40號或42號 空汙",
     "address_string": "仁德區大發路40號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9837218",
+    "long": "120.2513029",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-16 09:44:00"

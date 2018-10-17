@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區林森路二段，後甲國中附近 路燈閃爍",
     "address_string": "東區林森路二段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9929284",
+    "long": "120.2238438",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-16 17:54:00"

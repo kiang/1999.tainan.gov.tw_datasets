@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區永東街20號  路燈故障",
     "address_string": "東區永東街20號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9612217",
+    "long": "120.2363754",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-16 08:15:00"

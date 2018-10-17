@@ -9,8 +9,8 @@
     "subproject": "路面坑洞",
     "description": "北區和緯路一段    路面坑洞",
     "address_string": "北區和緯路一段",
-    "lat": {},
-    "long": {},
+    "lat": "23.009843",
+    "long": "120.2136111",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-16 11:41:00"

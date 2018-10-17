@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810170355",
     "requested_datetime": "2018-10-17 22:10:50",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "南區",
     "service_name": "噪音舉發",
@@ -9,9 +9,9 @@
     "subproject": "妨害安寧",
     "description": "南區金華路一段484巷220弄 妨害安寧",
     "address_string": "南區金華路一段484巷220弄",
-    "lat": {},
-    "long": {},
+    "lat": "22.969194",
+    "long": "120.1947429",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-18 00:21:29",
     "expected_datetime": "2018-11-16 22:09:00"
 }
