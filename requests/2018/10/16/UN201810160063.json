@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810160063",
     "requested_datetime": "2018-10-16 09:37:08",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "安平區",
     "service_name": "噪音舉發",
@@ -12,6 +12,6 @@
     "lat": "22.9926932",
     "long": "120.1609008",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-18 09:21:45",
     "expected_datetime": "2018-11-15 09:37:08"
 }
