@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810180162",
+    "requested_datetime": "2018-10-18 12:25:05",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區崇善路與中華東路三段口，正忠排骨前 違停",
+    "address_string": "東區崇善路中華東路三段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-10-18 14:26:16",
+    "expected_datetime": "2018-11-17 12:21:00"
+}
