@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810180360",
+    "requested_datetime": "2018-10-18 23:31:20",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "中西區信義街108巷57號5樓之3 妨害安寧",
+    "address_string": "中西區信義街108巷57號5樓之3",
+    "lat": "23.001099",
+    "long": "120.195104",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-17 23:31:00"
+}

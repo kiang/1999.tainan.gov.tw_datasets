@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "新營區金華路二段與新北街口 號誌故障",
     "address_string": "新營區金華路二段新北街",
-    "lat": {},
-    "long": {},
+    "lat": "23.3103928",
+    "long": "120.3032054",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-17 08:19:00"
