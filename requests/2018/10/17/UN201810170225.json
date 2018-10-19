@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810170225",
+    "requested_datetime": "2018-10-17 15:24:34",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區 路燈不亮",
+    "address_string": {},
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-10-19 08:57:18",
+    "expected_datetime": "2018-11-16 15:24:00"
+}
