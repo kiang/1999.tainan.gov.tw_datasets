@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810200234",
+    "requested_datetime": "2018-10-20 18:28:13",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "東區中華東路和東門路口，東門路左轉中華東路三段方向東門路上 號誌故障",
+    "address_string": "東區中華東路東門路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-19 18:26:00"
+}

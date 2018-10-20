@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安平區建平十一街上，文平路至永華六街 路燈故障",
     "address_string": "安平區建平十一街*文平路*永華六街",
-    "lat": {},
-    "long": {},
+    "lat": "22.994931",
+    "long": "120.1790492",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-18 18:12:00"
