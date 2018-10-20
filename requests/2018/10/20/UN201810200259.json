@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810200259",
+    "requested_datetime": "2018-10-20 20:32:55",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "東區崇明路738～952號，崇明綠邑社區大門口 路燈不亮",
+    "address_string": "東區崇明路738號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-19 20:31:00"
+}
