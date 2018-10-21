@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "東區中華東路和東門路口，東門路左轉中華東路三段方向東門路上 號誌故障",
     "address_string": "東區中華東路東門路",
-    "lat": {},
-    "long": {},
+    "lat": "22.981264",
+    "long": "120.2294035",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-19 18:26:00"

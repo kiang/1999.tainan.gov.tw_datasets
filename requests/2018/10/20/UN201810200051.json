@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區郡安路四段117號 路燈故障",
     "address_string": "安南區郡安路四段117號",
-    "lat": {},
-    "long": {},
+    "lat": "23.028124",
+    "long": "120.208653",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-19 09:34:00"

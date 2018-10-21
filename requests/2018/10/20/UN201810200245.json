@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區和緯路五段，介於華平路與西賢一街間 路燈不亮",
     "address_string": "中西區和緯路五段",
-    "lat": {},
-    "long": {},
+    "lat": "23.0050757",
+    "long": "120.1812123",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-19 19:21:00"
