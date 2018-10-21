@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810210092",
+    "requested_datetime": "2018-10-21 12:34:58",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "南區大同路二段150號 連續噪音",
+    "address_string": "南區大同路二段150號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-20 12:35:00"
+}
