@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810190252",
     "requested_datetime": "2018-10-19 17:10:48",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "佳里區",
     "service_name": "髒亂及汙染",
@@ -12,6 +12,6 @@
     "lat": "23.1484518",
     "long": "120.1792912",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-22 16:21:19",
     "expected_datetime": "2018-11-18 17:10:00"
 }
