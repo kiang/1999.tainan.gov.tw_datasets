@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810220348",
+    "requested_datetime": "2018-10-22 21:30:37",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區大武街586號後方，靠近鐵軌處 路燈不亮",
+    "address_string": "北區大武街586號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-21 21:29:00"
+}

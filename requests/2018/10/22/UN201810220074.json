@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區東寧路435巷26號 路燈故障",
     "address_string": "東區東寧路435巷26號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9904547",
+    "long": "120.2302765",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-21 09:54:00"
