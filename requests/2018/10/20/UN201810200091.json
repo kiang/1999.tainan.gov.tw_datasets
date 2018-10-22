@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810200091",
     "requested_datetime": "2018-10-20 11:27:16",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "玉井區",
     "service_name": "道路維修",
@@ -12,6 +12,6 @@
     "lat": "23.0927772",
     "long": "120.495391",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-22 09:01:25",
     "expected_datetime": "2018-11-19 11:26:00"
 }
