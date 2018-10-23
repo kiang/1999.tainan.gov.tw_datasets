@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810190370",
     "requested_datetime": "2018-10-19 23:48:39",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "麻豆區",
     "service_name": "髒亂及汙染",
@@ -12,6 +12,6 @@
     "lat": "23.2036587",
     "long": "120.2119542",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-23 10:01:25",
     "expected_datetime": "2018-11-18 23:47:00"
 }
