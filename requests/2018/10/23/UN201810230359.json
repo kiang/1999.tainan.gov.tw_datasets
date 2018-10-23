@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810230359",
     "requested_datetime": "2018-10-23 20:22:44",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "東區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "東區東門路二段158巷底近光華街  違規停車",
     "address_string": "東區東門路二段158巷*光華街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9840018",
+    "long": "120.2200484",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-24 00:31:50",
     "expected_datetime": "2018-11-22 20:21:00"
 }

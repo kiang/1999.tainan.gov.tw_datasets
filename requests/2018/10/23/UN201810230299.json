@@ -9,8 +9,8 @@
     "subproject": "10盞以上路燈故障",
     "description": "安南區安和路二段154號 路燈10以上不亮",
     "address_string": "安南區安和路二段154號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0397938",
+    "long": "120.2153089",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-22 18:15:00"

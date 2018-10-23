@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810230350",
     "requested_datetime": "2018-10-23 20:01:15",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": "交通運輸",
@@ -9,9 +9,9 @@
     "subproject": "佔用道路",
     "description": "永康區中正路跟中正路926巷轉彎處 佔用道路",
     "address_string": "永康區中正路926巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.0401065",
+    "long": "120.2392497",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-24 00:31:50",
     "expected_datetime": "2018-11-22 19:57:00"
 }

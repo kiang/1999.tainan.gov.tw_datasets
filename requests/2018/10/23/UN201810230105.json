@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "南區中華南路二段233向300號之三 路燈故障",
     "address_string": "南區中華南路二段233向300號之三",
-    "lat": {},
-    "long": {},
+    "lat": "22.9611432",
+    "long": "120.1886923",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-22 11:29:00"

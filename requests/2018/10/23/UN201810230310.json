@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810230310",
     "requested_datetime": "2018-10-23 18:43:19",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "永康區小東路647巷10弄跟685巷口 違停",
     "address_string": "永康區小東路647巷10弄小東路685巷口",
-    "lat": {},
-    "long": {},
+    "lat": "22.9990506",
+    "long": "120.239474",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-24 00:26:42",
     "expected_datetime": "2018-11-22 18:42:00"
 }

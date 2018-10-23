@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810230371",
     "requested_datetime": "2018-10-23 21:31:17",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "中西區",
     "service_name": "騎樓舉發",
@@ -9,9 +9,9 @@
     "subproject": "騎樓舉發",
     "description": "中西區永華路一段36號 騎樓舉發",
     "address_string": "中西區永華路一段36號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9876811",
+    "long": "120.196242",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-24 00:36:38",
     "expected_datetime": "2018-11-22 21:31:17"
 }

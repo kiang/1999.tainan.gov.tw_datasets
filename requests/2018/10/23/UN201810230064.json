@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810230064",
     "requested_datetime": "2018-10-23 09:41:28",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "中西區",
     "service_name": "交通運輸",
@@ -9,9 +9,9 @@
     "subproject": "佔用道路",
     "description": "中西區民族路三段241號 佔用道路",
     "address_string": "中西區民族路三段241號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9994351",
+    "long": "120.193421",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-24 00:26:38",
     "expected_datetime": "2018-11-22 09:40:00"
 }

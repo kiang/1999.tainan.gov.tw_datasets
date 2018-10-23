@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "新營區東山五路與東山中路口 號誌故障",
     "address_string": "新營區東山五路與東山中路",
-    "lat": {},
-    "long": {},
+    "lat": "23.3147646",
+    "long": "120.3342619",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-22 14:13:00"
