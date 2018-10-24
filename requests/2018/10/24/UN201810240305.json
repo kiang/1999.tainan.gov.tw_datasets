@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810240305",
     "requested_datetime": "2018-10-24 20:09:25",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "安平區",
     "service_name": "騎樓舉發",
@@ -12,6 +12,6 @@
     "lat": "22.9934315",
     "long": "120.1752559",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-25 03:06:42",
     "expected_datetime": "2018-11-23 20:08:00"
 }
