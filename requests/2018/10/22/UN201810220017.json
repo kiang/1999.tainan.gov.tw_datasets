@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810220017",
     "requested_datetime": "2018-10-22 06:53:33",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "六甲區",
     "service_name": "髒亂及汙染",
@@ -12,6 +12,6 @@
     "lat": "23.2309904",
     "long": "120.357265",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-24 10:01:24",
     "expected_datetime": "2018-11-21 06:50:00"
 }
