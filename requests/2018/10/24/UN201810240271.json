@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安平區永華六街整條 路燈故障",
     "address_string": "安平區永華六街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9938787",
+    "long": "120.1770558",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-23 18:41:00"

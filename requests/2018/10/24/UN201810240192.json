@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "國道1號北上295.5k 空氣汙染",
     "address_string": "國道1號北上295.5k",
-    "lat": {},
-    "long": {},
+    "lat": "23.3395656",
+    "long": "120.3127428",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-23 14:54:00"

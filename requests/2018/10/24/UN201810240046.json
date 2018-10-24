@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "南區新興路271號 號誌故障",
     "address_string": "南區新興路271號",
-    "lat": {},
-    "long": {},
+    "lat": "22.97626",
+    "long": "120.1926828",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-23 09:09:00"

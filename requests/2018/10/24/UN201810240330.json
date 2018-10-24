@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區長東街76號 路燈不亮",
     "address_string": "東區長東街76號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9635012",
+    "long": "120.229501",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-23 23:12:00"

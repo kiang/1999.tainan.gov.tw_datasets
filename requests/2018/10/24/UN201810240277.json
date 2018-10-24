@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區成功路396號\/北區成功路396之3號 違停",
     "address_string": "北區成功路396號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0004148",
+    "long": "120.1995279",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-23 18:53:00"
