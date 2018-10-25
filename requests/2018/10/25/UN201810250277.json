@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "東區小東路與中華東路一段口 號誌故障",
     "address_string": "東區小東路中華東路一段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9984673",
+    "long": "120.234779",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-24 20:10:00"
