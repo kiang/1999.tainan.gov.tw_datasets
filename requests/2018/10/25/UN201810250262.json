@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810250262",
+    "requested_datetime": "2018-10-25 19:05:16",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區華平路，大潤發停車場前、安平區永華路和文平路口 違停",
+    "address_string": "安平區永華路文平路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-10-25 22:21:34",
+    "expected_datetime": "2018-11-24 19:05:00"
+}
