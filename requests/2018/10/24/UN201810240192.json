@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810240192",
     "requested_datetime": "2018-10-24 14:55:37",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "新營區",
     "service_name": "髒亂及汙染",
@@ -12,6 +12,6 @@
     "lat": "23.3395656",
     "long": "120.3127428",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-25 15:16:16",
     "expected_datetime": "2018-11-23 14:54:00"
 }
