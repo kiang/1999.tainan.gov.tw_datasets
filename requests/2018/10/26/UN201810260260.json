@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "安南區安明路四段826號後面 空污",
     "address_string": "安南區安明路四段826號",
-    "lat": {},
-    "long": {},
+    "lat": "23.071193",
+    "long": "120.136635",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-25 18:05:00"

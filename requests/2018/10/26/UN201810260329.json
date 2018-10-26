@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810260329",
+    "requested_datetime": "2018-10-26 23:57:00",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "鐵板噪音 場所連續噪音",
+    "address_string": "南區中華西路一段16巷口",
+    "lat": "22.9646904",
+    "long": "120.1841811",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-25 23:56:00"
+}

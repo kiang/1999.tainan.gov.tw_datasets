@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "麻豆區自由路45之16號違規停車",
     "address_string": "麻豆區自由路45之16號",
-    "lat": {},
-    "long": {},
+    "lat": "23.186091",
+    "long": "120.2435407",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-25 20:59:05"
