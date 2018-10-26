@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810260020",
+    "requested_datetime": "2018-10-26 07:39:37",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "東區裕文一街*裕文路 號誌故障",
+    "address_string": "東區裕文一街*裕文路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-10-26 13:41:41",
+    "expected_datetime": "2018-11-25 07:39:37"
+}
