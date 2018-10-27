@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區開山路51號前 路燈不亮",
     "address_string": "中西區開山路51號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9907338",
+    "long": "120.2065627",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-26 14:48:00"

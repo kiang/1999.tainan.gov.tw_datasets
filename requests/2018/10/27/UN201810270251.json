@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "中西區保安路和大智街口 佔用道路",
     "address_string": "中西區保安路大智街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9909235",
+    "long": "120.1933462",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-26 20:13:00"

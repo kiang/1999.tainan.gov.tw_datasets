@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "南區金華路一段258號\/南區金華路一段與新都路口 路燈不亮",
     "address_string": "南區金華路一段258號",
-    "lat": {},
-    "long": {},
+    "lat": "22.967746",
+    "long": "120.190493",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-26 23:18:00"
