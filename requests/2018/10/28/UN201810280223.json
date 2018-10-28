@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810280223",
+    "requested_datetime": "2018-10-28 19:51:58",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "安平區建平十一街與健康二街,路燈故障",
+    "address_string": "安平區建平十一街健康二街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-27 19:49:00"
+}
