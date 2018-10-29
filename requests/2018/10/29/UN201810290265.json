@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區文腎二街101巷27號 路燈故障",
     "address_string": "北區文腎二街101巷27號",
-    "lat": {},
-    "long": {},
+    "lat": "23.008515",
+    "long": "120.2079953",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-28 18:10:00"

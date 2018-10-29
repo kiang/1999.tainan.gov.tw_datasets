@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "新化區中興路121之23號附近 路燈不亮",
     "address_string": "新化區中興路121之23號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0259717",
+    "long": "120.3309933",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-28 11:33:00"

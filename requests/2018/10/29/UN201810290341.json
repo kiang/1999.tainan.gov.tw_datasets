@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810290341",
+    "requested_datetime": "2018-10-29 23:59:27",
+    "status": {},
+    "keyword": "0",
+    "area": "新市區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "新市區民生路 和平街 違規停車",
+    "address_string": "民生路 和平街",
+    "lat": "22.9961943",
+    "long": "120.1939347",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-28 23:59:27"
+}
