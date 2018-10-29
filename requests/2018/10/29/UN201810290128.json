@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810290128",
+    "requested_datetime": "2018-10-29 11:34:57",
+    "status": {},
+    "keyword": "0",
+    "area": "新化區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "新化區中興路121之23號附近 路燈不亮",
+    "address_string": "新化區中興路121之23號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-28 11:33:00"
+}
