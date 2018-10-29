@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810290334",
     "requested_datetime": "2018-10-29 23:14:22",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "白河區",
     "service_name": "噪音舉發",
@@ -12,6 +12,6 @@
     "lat": "23.3501564",
     "long": "120.4153013",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-30 06:31:19",
     "expected_datetime": "2018-11-28 23:13:00"
 }
