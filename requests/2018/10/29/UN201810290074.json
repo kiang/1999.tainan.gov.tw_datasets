@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810290074",
+    "requested_datetime": "2018-10-29 09:39:42",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "北區育德路跟文成二路口 號誌綠燈不亮",
+    "address_string": "北區育德路文成二路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-28 09:38:00"
+}

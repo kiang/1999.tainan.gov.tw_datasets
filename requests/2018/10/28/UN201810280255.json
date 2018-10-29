@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810280255",
     "requested_datetime": "2018-10-28 23:42:55",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "新化區",
     "service_name": "動物救援",
@@ -12,6 +12,6 @@
     "lat": "23.037041",
     "long": "120.307395",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-29 10:11:33",
     "expected_datetime": "2018-11-27 23:43:00"
 }
