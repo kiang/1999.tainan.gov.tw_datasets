@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810280187",
     "requested_datetime": "2018-10-28 17:54:27",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "新化區",
     "service_name": "路燈故障",
@@ -12,6 +12,6 @@
     "lat": "23.0194325",
     "long": "120.3349024",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-29 08:47:07",
     "expected_datetime": "2018-11-27 17:52:00"
 }
