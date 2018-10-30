@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810260238",
     "requested_datetime": "2018-10-26 16:58:43",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "鹽水區",
     "service_name": "交通運輸",
@@ -12,6 +12,6 @@
     "lat": "23.3197104",
     "long": "120.2682762",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-30 14:22:18",
     "expected_datetime": "2018-11-25 16:57:00"
 }
