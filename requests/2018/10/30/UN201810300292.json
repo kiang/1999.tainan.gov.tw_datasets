@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810300292",
     "requested_datetime": "2018-10-30 20:23:06",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "永康區大橋一街103巷119號 違規停車",
     "address_string": "永康區大橋一街103巷119號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0192597",
+    "long": "120.2280858",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-31 00:46:46",
     "expected_datetime": "2018-11-29 20:23:06"
 }

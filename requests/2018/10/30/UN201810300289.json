@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區長德里活動中心前 路燈不亮",
     "address_string": "北區長德街101號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0040463",
+    "long": "120.2059597",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-29 20:11:00"

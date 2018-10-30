@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810300257",
     "requested_datetime": "2018-10-30 18:02:02",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "仁德區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "仁德區中正路三段22號 違規停車",
     "address_string": "仁德區中正路三段22號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9723995",
+    "long": "120.2520875",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-31 00:36:39",
     "expected_datetime": "2018-11-29 18:01:00"
 }
