@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810310274",
+    "requested_datetime": "2018-10-31 19:23:09",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區公園路528號、530號 違停",
+    "address_string": "北區公園路528號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-30 19:21:00"
+}
