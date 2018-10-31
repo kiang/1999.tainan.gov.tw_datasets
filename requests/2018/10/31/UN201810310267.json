@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810310267",
     "requested_datetime": "2018-10-31 18:57:24",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "永康區勝華街37巷42弄5號前 違規停車",
     "address_string": "永康區勝華街37巷42弄5號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0058362",
+    "long": "120.233502",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-11-01 00:26:28",
     "expected_datetime": "2018-11-30 18:57:24"
 }

@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810310246",
     "requested_datetime": "2018-10-31 17:59:48",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "北區",
     "service_name": "交通運輸",
@@ -9,9 +9,9 @@
     "subproject": "交通疏導",
     "description": "北區公園路*長榮路 交通疏導",
     "address_string": "北區公園路*長榮路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0134666",
+    "long": "120.2120866",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-11-01 00:41:13",
     "expected_datetime": "2018-11-30 17:57:00"
 }

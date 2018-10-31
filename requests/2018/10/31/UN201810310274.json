@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810310274",
     "requested_datetime": "2018-10-31 19:23:09",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "北區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "北區公園路528號、530號 違停",
     "address_string": "北區公園路528號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0066746",
+    "long": "120.2102373",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-11-01 00:11:47",
     "expected_datetime": "2018-11-30 19:21:00"
 }

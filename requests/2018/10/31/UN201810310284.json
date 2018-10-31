@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810310284",
     "requested_datetime": "2018-10-31 20:07:46",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": "噪音舉發",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-10-31 23:56:26",
     "expected_datetime": "2018-11-30 20:07:00"
 }

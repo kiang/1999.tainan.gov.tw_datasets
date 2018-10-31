@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810310248",
     "requested_datetime": "2018-10-31 18:03:00",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "永康區新行街122巷10弄1號，永康國際學苑1館 違規停車",
     "address_string": "永康區新行街122巷10弄1號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0409707",
+    "long": "120.2425759",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-11-01 00:31:22",
     "expected_datetime": "2018-11-30 18:03:00"
 }

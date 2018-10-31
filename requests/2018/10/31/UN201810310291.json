@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810310291",
     "requested_datetime": "2018-10-31 20:45:48",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "永康區南台街36號 違規停車",
     "address_string": "710台南市永康區南台街36號",
-    "lat": {},
-    "long": {},
+    "lat": "23.022328",
+    "long": "120.223467",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-11-01 00:11:48",
     "expected_datetime": "2018-11-30 20:45:48"
 }

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201810310065",
+    "requested_datetime": "2018-10-31 09:25:55",
+    "status": {},
+    "keyword": "0",
+    "area": "新市區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "新市區中正路272號路面冒水又微陷",
+    "address_string": "新市區中正路272號",
+    "lat": "23.07737",
+    "long": "120.291942",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-11-30 09:23:00"
+}

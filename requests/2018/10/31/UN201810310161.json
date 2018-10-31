@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區和緯路二段340號  路燈不亮",
     "address_string": "北區和緯路二段340號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0125548",
+    "long": "120.2047966",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-30 13:41:00"

@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "永康區和平東路上，介於中正北路995號至999號之間 路燈故障",
     "address_string": "永康區和平東路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0551085",
+    "long": "120.2651413",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-11-30 18:26:00"
