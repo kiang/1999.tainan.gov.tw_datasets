@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201810300099",
     "requested_datetime": "2018-10-30 10:45:58",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "中西區",
     "service_name": "動物救援",
@@ -12,6 +12,6 @@
     "lat": "22.9962673",
     "long": "120.2040788",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-11-01 15:21:47",
     "expected_datetime": "2018-11-29 10:42:00"
 }
