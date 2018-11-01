@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區長榮路5段222號 違規停車",
     "address_string": "長榮路5段222號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0128845",
+    "long": "120.2193371",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-01 18:15:10"
