@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811020060",
+    "requested_datetime": "2018-11-02 10:05:34",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "南區永成路與明興路619巷 號誌故障",
+    "address_string": "南區永成路明興路619巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-12-02 10:03:00"
+}
