@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201811010205",
     "requested_datetime": "2018-11-01 15:58:00",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "柳營區",
     "service_name": "動物救援",
@@ -12,6 +12,6 @@
     "lat": "23.2791758",
     "long": "120.3252823",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-11-02 09:56:30",
     "expected_datetime": "2018-12-01 15:57:00"
 }
