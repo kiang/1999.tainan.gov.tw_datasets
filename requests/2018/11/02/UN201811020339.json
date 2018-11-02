@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區文南路與健康路 違規停車",
     "address_string": "文南路與健康路交叉路口",
-    "lat": {},
-    "long": {},
+    "lat": "22.9817486",
+    "long": "120.1897194",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-02 22:16:07"

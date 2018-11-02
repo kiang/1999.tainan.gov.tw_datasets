@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "永康區南台街1號，南台科技大學 空污",
     "address_string": "永康區南台街1號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0222321",
+    "long": "120.222122",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-02 19:07:00"
