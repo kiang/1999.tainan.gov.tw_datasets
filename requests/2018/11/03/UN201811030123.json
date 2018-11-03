@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811030123",
+    "requested_datetime": "2018-11-03 13:14:32",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區大同路跟國民路  違停",
+    "address_string": "南區大同路國民路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-11-03 17:11:13",
+    "expected_datetime": "2018-12-03 13:14:00"
+}
