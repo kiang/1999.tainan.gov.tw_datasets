@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區文賢二街163號 路燈故障",
     "address_string": "北區文賢二街163號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0097838",
+    "long": "120.1976691",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-03 17:37:00"

@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "新化區台1線和國道8號口，路橋附近 空氣污染",
     "address_string": "新化區台1線國道8號",
-    "lat": {},
-    "long": {},
+    "lat": "23.1275118",
+    "long": "120.3189655",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-03 18:04:00"

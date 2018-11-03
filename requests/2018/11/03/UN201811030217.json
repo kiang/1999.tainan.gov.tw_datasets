@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安平區華平路和建平十一街口 路燈故障",
     "address_string": "安平區華平路和建平十一街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9953296",
+    "long": "120.1756714",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-03 17:35:00"

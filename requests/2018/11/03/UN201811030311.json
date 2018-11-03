@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201811030296",
-    "requested_datetime": "2018-11-03 21:48:13",
+    "service_request_id": "UN201811030311",
+    "requested_datetime": "2018-11-03 23:28:54",
     "status": {},
     "keyword": "0",
     "area": "學甲區",
@@ -9,9 +9,9 @@
     "subproject": "妨害安寧",
     "description": "學甲區三民路9-1號 妨害安寧",
     "address_string": "學甲區三民路9-1號",
-    "lat": "23.2354375",
-    "long": "120.1772323",
+    "lat": {},
+    "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2018-12-03 21:48:13"
+    "expected_datetime": "2018-12-03 23:28:54"
 }

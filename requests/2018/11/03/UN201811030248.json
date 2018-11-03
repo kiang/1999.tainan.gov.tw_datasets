@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區文成路747號路燈故障",
     "address_string": "北區文成路747號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0123424",
+    "long": "120.1962477",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-03 18:46:00"
