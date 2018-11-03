@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201811010010",
     "requested_datetime": "2018-11-01 05:34:47",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "歸仁區",
     "service_name": "路燈故障",
@@ -12,6 +12,6 @@
     "lat": "22.9099469",
     "long": "120.2743881",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-11-03 13:56:16",
     "expected_datetime": "2018-12-01 05:33:00"
 }
