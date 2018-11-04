@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "安南區安通路五段，和義安街口及理安街口 號誌故障",
     "address_string": "安南區安通路五段",
-    "lat": {},
-    "long": {},
+    "lat": "23.0299209",
+    "long": "120.1982256",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-04 21:10:00"

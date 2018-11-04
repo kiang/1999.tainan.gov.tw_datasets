@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201811040193",
     "requested_datetime": "2018-11-04 16:47:30",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "安平區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "安平區安平路500巷與安平路446巷25弄交叉路口 違規停車",
     "address_string": "安平區安平路500巷安平路446巷25弄",
-    "lat": {},
-    "long": {},
+    "lat": "22.9993199",
+    "long": "120.172437",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-11-05 00:41:38",
     "expected_datetime": "2018-12-04 16:47:30"
 }
