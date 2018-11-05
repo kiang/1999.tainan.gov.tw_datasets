@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811050364",
+    "requested_datetime": "2018-11-05 20:01:39",
+    "status": {},
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "仁德區保安路一段，嘉南醫理大學內側門口人行道擋車柱前、及附近公車站 違停",
+    "address_string": "仁德區保安路一段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-12-05 20:01:00"
+}
