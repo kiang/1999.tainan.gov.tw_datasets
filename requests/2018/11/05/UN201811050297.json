@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區崇明路589號 路燈故障",
     "address_string": "東區崇明路589號",
-    "lat": {},
-    "long": {},
+    "lat": "22.969485",
+    "long": "120.225966",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-05 17:07:00"

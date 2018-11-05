@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區台江大道，靠近總安工業區 路燈不亮",
     "address_string": "安南區台江大道",
-    "lat": {},
-    "long": {},
+    "lat": "23.0612628",
+    "long": "120.1755181",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-05 20:23:00"

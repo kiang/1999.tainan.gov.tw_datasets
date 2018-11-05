@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "北區文賢路一段文賢國中 待速空污",
     "address_string": "北區文賢路一段文賢國中",
-    "lat": {},
-    "long": {},
+    "lat": "23.005541",
+    "long": "120.196263",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-05 12:34:00"

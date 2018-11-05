@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811050305",
+    "requested_datetime": "2018-11-05 17:23:49",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "中西區青年路137巷16號對面 路面冒水",
+    "address_string": "中西區青年路137巷16號",
+    "lat": "22.9926605",
+    "long": "120.2093406",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-12-05 17:23:00"
+}

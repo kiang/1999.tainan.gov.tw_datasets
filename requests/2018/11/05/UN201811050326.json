@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "仁德區保安火車站前，往奇美博物館方向，文賢路一段道路兩側 佔用道路",
     "address_string": "仁德區文賢路一段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9341203",
+    "long": "120.2298272",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-05 18:11:00"

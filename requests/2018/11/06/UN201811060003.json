@@ -1,6 +1,6 @@
 {
-    "service_request_id": "UN201811050004",
-    "requested_datetime": "2018-11-05 00:15:34",
+    "service_request_id": "UN201811060003",
+    "requested_datetime": "2018-11-06 00:17:11",
     "status": {},
     "keyword": "0",
     "area": "新化區",
@@ -9,9 +9,9 @@
     "subproject": "空氣汙染",
     "description": "新化區東榮里\/護國里 空氣汙染",
     "address_string": "新化區東榮里\/護國里",
-    "lat": "23.0325916",
-    "long": "120.3233704",
+    "lat": {},
+    "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2018-12-05 00:14:00"
+    "expected_datetime": "2018-12-06 00:16:00"
 }

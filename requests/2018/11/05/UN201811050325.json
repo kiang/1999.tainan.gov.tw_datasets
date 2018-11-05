@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "仁德區中正路三段和正義一街口 違規停車",
     "address_string": "仁德區中正路三段正義一街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9722449",
+    "long": "120.2518914",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-05 18:10:00"

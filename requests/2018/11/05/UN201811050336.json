@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安平區育平八街口～育平九街口 路燈不亮",
     "address_string": "安平區育平八街育平九街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9950315",
+    "long": "120.1719164",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-05 18:31:00"

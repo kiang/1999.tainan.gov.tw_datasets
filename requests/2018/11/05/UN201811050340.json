@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區中華東路二段45號違規停車",
     "address_string": "東區中華東路二段45號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9873673",
+    "long": "120.2336415",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-05 18:43:13"

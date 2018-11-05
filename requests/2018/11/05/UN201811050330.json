@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "歸仁區信義南路135號對面 路燈故障",
     "address_string": "歸仁區信義南路135號",
-    "lat": {},
-    "long": {},
+    "lat": "22.962998",
+    "long": "120.2991965",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-05 18:19:00"
