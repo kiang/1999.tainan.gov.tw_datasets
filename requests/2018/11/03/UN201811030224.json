@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201811030224",
     "requested_datetime": "2018-11-03 17:48:41",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "玉井區",
     "service_name": "路燈故障",
@@ -12,6 +12,6 @@
     "lat": "23.1778596",
     "long": "120.4841935",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-11-05 09:31:25",
     "expected_datetime": "2018-12-03 17:47:00"
 }
