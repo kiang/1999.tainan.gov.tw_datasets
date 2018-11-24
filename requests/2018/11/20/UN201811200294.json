@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811200294",
+    "requested_datetime": "2018-11-20 19:56:35",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "六甲區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "六甲區建工街216巷 違規停車",
+    "address_string": "六甲區建工街216巷",
+    "lat": "23.2268876",
+    "long": "120.3456774",
+    "service_notice": {},
+    "updated_datetime": "2018-11-21 06:16:27",
+    "expected_datetime": "2018-12-20 19:56:35"
+}

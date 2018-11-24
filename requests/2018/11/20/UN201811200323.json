@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811200323",
+    "requested_datetime": "2018-11-20 22:37:14",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "空氣汙染",
+    "description": "永康區環工路1號  空氣氣染",
+    "address_string": "永康區環工路1號",
+    "lat": "23.0510196",
+    "long": "120.2755747",
+    "service_notice": {},
+    "updated_datetime": "2018-11-21 10:41:21",
+    "expected_datetime": "2018-12-20 22:34:00"
+}

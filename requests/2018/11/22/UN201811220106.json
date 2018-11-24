@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811220106",
+    "requested_datetime": "2018-11-22 12:01:18",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "道路散落物",
+    "description": "東區北門路與東豐路口",
+    "address_string": "東區北門路東豐路",
+    "lat": "23.0040331",
+    "long": "120.2135893",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-12-22 11:57:00"
+}

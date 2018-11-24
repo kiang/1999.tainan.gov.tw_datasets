@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811220289",
+    "requested_datetime": "2018-11-22 20:55:24",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "場所連續噪音",
+    "description": "安平區怡平路與國平路口，梅菲爾 噪音",
+    "address_string": "安平區怡平路國平路",
+    "lat": "22.9940991",
+    "long": "120.1714641",
+    "service_notice": {},
+    "updated_datetime": "2018-11-23 14:16:13",
+    "expected_datetime": "2018-12-22 20:52:00"
+}

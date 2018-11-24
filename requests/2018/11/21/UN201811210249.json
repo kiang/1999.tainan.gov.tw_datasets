@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811210249",
+    "requested_datetime": "2018-11-21 18:04:01",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "北區北華街110號之5   空氣汙染",
+    "address_string": "北區北華街110號之5",
+    "lat": "23.0012715",
+    "long": "120.2067642",
+    "service_notice": {},
+    "updated_datetime": "2018-11-22 10:11:22",
+    "expected_datetime": "2018-12-21 17:58:00"
+}

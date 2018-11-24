@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811230146",
+    "requested_datetime": "2018-11-23 12:42:22",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "東區裕忠路128-3號,施工噪音",
+    "address_string": "東區裕忠路128之3號",
+    "lat": "22.9870611",
+    "long": "120.2415801",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-12-23 12:38:00"
+}

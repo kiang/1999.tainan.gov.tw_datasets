@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811220266",
+    "requested_datetime": "2018-11-22 19:24:11",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "佳里區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "佳里區延平路與平等街交叉路口,烤肉攤油煙厚重",
+    "address_string": "佳里區延平路平等街",
+    "lat": "23.1569467",
+    "long": "120.1789122",
+    "service_notice": {},
+    "updated_datetime": "2018-11-23 08:56:34",
+    "expected_datetime": "2018-12-22 19:22:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811200256",
+    "requested_datetime": "2018-11-20 17:51:32",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "南區永春街40號前 路燈不亮",
+    "address_string": "南區永春街40號",
+    "lat": "22.9655251",
+    "long": "120.191746",
+    "service_notice": {},
+    "updated_datetime": "2018-11-22 08:36:27",
+    "expected_datetime": "2018-12-20 17:51:00"
+}

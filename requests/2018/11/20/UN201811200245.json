@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811200245",
+    "requested_datetime": "2018-11-20 17:21:55",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安平區安平路40巷口 違停",
+    "address_string": "安平區安平路40巷",
+    "lat": "22.9987259",
+    "long": "120.1859922",
+    "service_notice": {},
+    "updated_datetime": "2018-11-21 00:26:25",
+    "expected_datetime": "2018-12-20 17:21:00"
+}

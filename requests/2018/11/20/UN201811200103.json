@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811200103",
+    "requested_datetime": "2018-11-20 11:00:04",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區中正南路198號 違規停車",
+    "address_string": "永康區中正南路198號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-11-20 15:56:36",
+    "expected_datetime": "2018-12-20 11:00:04"
+}

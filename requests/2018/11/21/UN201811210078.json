@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811210078",
+    "requested_datetime": "2018-11-21 10:10:30",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "永康區龍國街128巷口   佔用道路",
+    "address_string": "永康區龍國街128巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-11-21 16:16:48",
+    "expected_datetime": "2018-12-21 10:09:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811200211",
+    "requested_datetime": "2018-11-20 16:22:11",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "後壁區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "其他汙染舉發",
+    "description": "後壁區頂長里",
+    "address_string": "後壁區頂長里",
+    "lat": "23.3656414",
+    "long": "120.327695",
+    "service_notice": {},
+    "updated_datetime": "2018-11-21 18:41:13",
+    "expected_datetime": "2018-12-20 16:21:00"
+}

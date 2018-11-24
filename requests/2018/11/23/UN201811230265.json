@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811230265",
+    "requested_datetime": "2018-11-23 17:22:16",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "國賓影院對面 場所連續噪音",
+    "address_string": "東區中華東路一段66號",
+    "lat": "22.9962572",
+    "long": "120.2342627",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-12-23 17:20:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811210127",
+    "requested_datetime": "2018-11-21 12:21:26",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區崇德路和崇德六街口，全家斜對面 違停",
+    "address_string": "東區崇德路崇德六街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-11-21 16:16:48",
+    "expected_datetime": "2018-12-21 12:20:00"
+}

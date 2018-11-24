@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811220232",
+    "requested_datetime": "2018-11-22 17:59:20",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "新營區太子路 民生管線",
+    "address_string": "新營區太子路",
+    "lat": "23.2981289",
+    "long": "120.2874633",
+    "service_notice": {},
+    "updated_datetime": "2018-11-23 10:06:13",
+    "expected_datetime": "2018-12-22 17:58:00"
+}

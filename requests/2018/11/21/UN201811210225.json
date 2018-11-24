@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811210225",
+    "requested_datetime": "2018-11-21 16:38:41",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "仁德區田厝三街70巷29弄6號    道路散落物",
+    "address_string": "仁德區田厝三街70巷29弄6號",
+    "lat": "22.9355202",
+    "long": "120.2448738",
+    "service_notice": {},
+    "updated_datetime": "2018-11-23 15:16:24",
+    "expected_datetime": "2018-12-21 16:36:00"
+}

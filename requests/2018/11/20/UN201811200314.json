@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811200314",
+    "requested_datetime": "2018-11-20 21:25:04",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "善化區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "善化區陽光北一路上*蓮潭路到蓮潭北一街 路燈故障",
+    "address_string": "善化區陽光北一路*蓮潭路*蓮潭北一街",
+    "lat": "23.1135887",
+    "long": "120.3052249",
+    "service_notice": {},
+    "updated_datetime": "2018-11-21 15:11:23",
+    "expected_datetime": "2018-12-20 21:23:00"
+}

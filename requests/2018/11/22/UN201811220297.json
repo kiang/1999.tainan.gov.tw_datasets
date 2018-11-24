@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811220297",
+    "requested_datetime": "2018-11-22 21:30:59",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "東區中華東路一段，國賓影城對面 妨害安寧",
+    "address_string": "東區中華東路一段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-11-23 00:04:23",
+    "expected_datetime": "2018-12-22 21:28:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811220293",
+    "requested_datetime": "2018-11-22 21:17:54",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區海安路三段358號 違規停車",
+    "address_string": "北區海安路三段358號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-11-22 22:46:41",
+    "expected_datetime": "2018-12-22 21:17:54"
+}

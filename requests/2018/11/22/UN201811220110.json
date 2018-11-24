@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811220110",
+    "requested_datetime": "2018-11-22 12:19:35",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "安南區總安街一段64號後方 空氣汙染",
+    "address_string": "安南區總安街一段64號",
+    "lat": "23.0506802",
+    "long": "120.2174623",
+    "service_notice": {},
+    "updated_datetime": "2018-11-23 08:21:33",
+    "expected_datetime": "2018-12-22 12:15:00"
+}

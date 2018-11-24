@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811230333",
+    "requested_datetime": "2018-11-23 20:35:35",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "安平區同平路127巷16弄1-5號及1號",
+    "address_string": "安平區同平路127巷16弄1之5號",
+    "lat": "22.9952568",
+    "long": "120.1534738",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-12-23 20:32:00"
+}

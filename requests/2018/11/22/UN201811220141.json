@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811220141",
+    "requested_datetime": "2018-11-22 14:16:54",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "永康區復華二街66巷 違規停車",
+    "address_string": "永康區復華二街66巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-11-22 16:06:37",
+    "expected_datetime": "2018-12-22 14:15:00"
+}

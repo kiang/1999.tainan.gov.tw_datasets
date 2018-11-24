@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811220226",
+    "requested_datetime": "2018-11-22 17:39:03",
+    "status": {},
+    "keyword": "0",
+    "area": "新化區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "新化區竹子腳100-5號隔壁 空氣汙染",
+    "address_string": "新化區竹子腳100-5號隔壁",
+    "lat": "23.0298021",
+    "long": "120.290972",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-12-22 17:37:00"
+}

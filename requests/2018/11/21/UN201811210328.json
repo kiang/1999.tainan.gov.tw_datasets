@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811210328",
+    "requested_datetime": "2018-11-21 23:17:10",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "東區大學路1號對面廣場 妨害安寧",
+    "address_string": "東區大學路1號",
+    "lat": "22.9999521",
+    "long": "120.2150467",
+    "service_notice": {},
+    "updated_datetime": "2018-11-22 04:01:22",
+    "expected_datetime": "2018-12-21 23:15:00"
+}

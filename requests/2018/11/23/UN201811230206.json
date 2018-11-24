@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811230206",
+    "requested_datetime": "2018-11-23 14:58:21",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "環境髒亂",
+    "description": "永康區國道一號下方隧道324K+090隧道",
+    "address_string": "國道一號下方隧道324+090",
+    "lat": "23.1149171",
+    "long": "120.2446871",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-12-23 14:58:21"
+}

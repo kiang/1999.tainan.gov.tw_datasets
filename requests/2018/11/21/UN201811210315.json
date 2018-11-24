@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811210315",
+    "requested_datetime": "2018-11-21 21:36:54",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區健康路二段342號 ,違規停車",
+    "address_string": "南區健康路二段342號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-11-21 23:06:31",
+    "expected_datetime": "2018-12-21 21:36:00"
+}

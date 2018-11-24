@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811210316",
+    "requested_datetime": "2018-11-21 21:50:14",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "場所連續噪音",
+    "description": "永康區正強街77號對面 噪音",
+    "address_string": "永康區正強街77號對面",
+    "lat": "23.025783",
+    "long": "120.251967",
+    "service_notice": {},
+    "updated_datetime": "2018-11-22 14:21:16",
+    "expected_datetime": "2018-12-21 21:48:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811200254",
+    "requested_datetime": "2018-11-20 17:46:26",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "仁德區中正西路二仁路一段 路燈不亮",
+    "address_string": "仁德區中正西路二仁路一段",
+    "lat": "22.9186335",
+    "long": "120.2258116",
+    "service_notice": {},
+    "updated_datetime": "2018-11-21 10:51:27",
+    "expected_datetime": "2018-12-20 17:45:00"
+}

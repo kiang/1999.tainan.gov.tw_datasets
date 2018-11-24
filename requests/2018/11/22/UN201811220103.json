@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811220103",
+    "requested_datetime": "2018-11-22 11:49:02",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "永康區大灣東路上   大灣東路與南興街112巷40號交叉口  道路維修",
+    "address_string": "永康區大灣東路上   大灣東路與南興街112巷40號交叉口",
+    "lat": "23.0026476",
+    "long": "120.2714215",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-12-22 11:49:02"
+}

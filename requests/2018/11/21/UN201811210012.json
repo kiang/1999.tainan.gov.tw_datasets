@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811210012",
+    "requested_datetime": "2018-11-21 03:22:35",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "其他汙染舉發",
+    "description": "安南區海佃路二段150巷40號  其他汙染舉發",
+    "address_string": "安南區海佃路二段150巷40號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-11-21 11:26:13",
+    "expected_datetime": "2018-12-21 03:21:00"
+}

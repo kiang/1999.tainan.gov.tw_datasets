@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811210326",
+    "requested_datetime": "2018-11-21 22:40:48",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "北區北安路一段341巷52號  妨害安寧",
+    "address_string": "北區北安路一段341巷52號",
+    "lat": "23.020458",
+    "long": "120.203403",
+    "service_notice": {},
+    "updated_datetime": "2018-11-22 04:01:21",
+    "expected_datetime": "2018-12-21 22:39:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811220230",
+    "requested_datetime": "2018-11-22 17:52:28",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "安南區本原街一段160號開始往二段方向 路燈不亮",
+    "address_string": "安南區本原街一段160號",
+    "lat": "23.0511889",
+    "long": "120.198296",
+    "service_notice": {},
+    "updated_datetime": "2018-11-23 10:11:19",
+    "expected_datetime": "2018-12-22 17:51:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811210011",
+    "requested_datetime": "2018-11-21 03:17:51",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "永康區南工街50巷11號 妨害安寧",
+    "address_string": "A-TB-2018-74246",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-11-21 06:16:28",
+    "expected_datetime": "2018-12-21 03:16:00"
+}

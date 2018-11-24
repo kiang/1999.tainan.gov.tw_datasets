@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811220254",
+    "requested_datetime": "2018-11-22 18:52:23",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區富農街二段12巷，富農街口 違規停車",
+    "address_string": "東區富農街二段12巷富農街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-11-22 21:11:46",
+    "expected_datetime": "2018-12-22 18:52:23"
+}

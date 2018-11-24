@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811200138",
+    "requested_datetime": "2018-11-20 12:47:08",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區裕農路億哥牛肉湯 違規停車",
+    "address_string": "東區裕農路億哥牛肉湯",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-11-20 14:46:21",
+    "expected_datetime": "2018-12-20 12:46:00"
+}

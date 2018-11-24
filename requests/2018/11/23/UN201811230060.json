@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811230060",
+    "requested_datetime": "2018-11-23 09:16:32",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "南區夏林路1-25號門口    佔用停車格",
+    "address_string": "南區夏林路1-25號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-11-23 17:07:00",
+    "expected_datetime": "2018-12-23 09:13:00"
+}

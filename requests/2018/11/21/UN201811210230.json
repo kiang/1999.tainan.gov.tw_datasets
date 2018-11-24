@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811210230",
+    "requested_datetime": "2018-11-21 16:56:21",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "東區林森路與小東路口 佔用道路",
+    "address_string": "東區林森路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-11-21 19:31:21",
+    "expected_datetime": "2018-12-21 16:54:00"
+}

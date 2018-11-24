@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811210330",
+    "requested_datetime": "2018-11-21 23:39:41",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新市區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "新市區復興路67號違規停車",
+    "address_string": "復興路67號",
+    "lat": "23.303158",
+    "long": "120.311744",
+    "service_notice": {},
+    "updated_datetime": "2018-11-22 04:06:27",
+    "expected_datetime": "2018-12-21 23:39:41"
+}

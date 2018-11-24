@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811210001",
+    "requested_datetime": "2018-11-21 00:03:31",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "學甲區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "學甲區廣文路80號往西一戶 妨害安寧",
+    "address_string": "學甲區廣文路80號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-11-21 06:11:15",
+    "expected_datetime": "2018-12-21 00:02:00"
+}

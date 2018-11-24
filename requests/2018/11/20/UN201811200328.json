@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811200328",
+    "requested_datetime": "2018-11-20 23:28:38",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "場所連續噪音",
+    "description": "中西區民權路四段162號對面  噪音",
+    "address_string": "中西區民權路四段162號",
+    "lat": "22.999347",
+    "long": "120.1818986",
+    "service_notice": {},
+    "updated_datetime": "2018-11-22 08:51:13",
+    "expected_datetime": "2018-12-20 23:23:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811220088",
+    "requested_datetime": "2018-11-22 10:56:05",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "安平區華平路67巷與21巷18弄 台電人孔蓋",
+    "address_string": "安平區華平路67巷與21巷18弄",
+    "lat": "22.984513",
+    "long": "120.1733926",
+    "service_notice": {},
+    "updated_datetime": "2018-11-23 10:11:18",
+    "expected_datetime": "2018-12-22 10:54:00"
+}

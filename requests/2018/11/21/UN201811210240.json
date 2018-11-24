@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811210240",
+    "requested_datetime": "2018-11-21 17:39:04",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "西港區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "西港區南45線和南40線口，南40線上 號誌故障",
+    "address_string": "西港區南45線南40線",
+    "lat": "23.1257853",
+    "long": "120.1993381",
+    "service_notice": {},
+    "updated_datetime": "2018-11-22 14:56:16",
+    "expected_datetime": "2018-12-21 17:38:00"
+}

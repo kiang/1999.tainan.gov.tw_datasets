@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811220286",
+    "requested_datetime": "2018-11-22 20:36:01",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "北區賢北街62號 路面坑洞",
+    "address_string": "北區賢北街62號",
+    "lat": "23.0075999",
+    "long": "120.183597",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-12-22 20:33:00"
+}

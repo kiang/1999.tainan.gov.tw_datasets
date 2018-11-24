@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811220083",
+    "requested_datetime": "2018-11-22 10:49:01",
+    "status": {},
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌秒差調整",
+    "description": "仁德區中山路 號誌秒差調整",
+    "address_string": "仁德區中山路",
+    "lat": "22.9713704",
+    "long": "120.254345",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-12-22 10:44:00"
+}

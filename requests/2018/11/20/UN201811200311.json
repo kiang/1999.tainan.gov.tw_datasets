@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811200311",
+    "requested_datetime": "2018-11-20 21:10:18",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "安南區郡安路五段164巷8弄21號，製鞋工廠 妨害安寧",
+    "address_string": "安南區郡安路五段164巷8弄21號",
+    "lat": "23.0278599",
+    "long": "120.1957597",
+    "service_notice": {},
+    "updated_datetime": "2018-11-21 00:36:22",
+    "expected_datetime": "2018-12-20 21:10:00"
+}

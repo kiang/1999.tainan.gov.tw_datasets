@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811210290",
+    "requested_datetime": "2018-11-21 19:45:13",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "道路散落物",
+    "description": "新營區開元路243號福懋加油站 狗屍",
+    "address_string": "新營區開元路243號",
+    "lat": "23.318585",
+    "long": "120.333563",
+    "service_notice": {},
+    "updated_datetime": "2018-11-23 15:11:13",
+    "expected_datetime": "2018-12-21 19:44:00"
+}

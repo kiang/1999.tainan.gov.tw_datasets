@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811220308",
+    "requested_datetime": "2018-11-22 23:04:46",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "市區道路路面油漬",
+    "description": "仁德區文南路與文心路口 油漬",
+    "address_string": "仁德區文南路文心路",
+    "lat": "22.9740781",
+    "long": "120.2416947",
+    "service_notice": {},
+    "updated_datetime": "2018-11-23 16:31:22",
+    "expected_datetime": "2018-12-22 23:03:00"
+}

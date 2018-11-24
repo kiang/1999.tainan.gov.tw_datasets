@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811210298",
+    "requested_datetime": "2018-11-21 20:08:32",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "動物救援",
+    "agency": "台南市政府",
+    "subproject": "犬貓急難救援",
+    "description": "南區國民路104巷29號 動物救援",
+    "address_string": "南區國民路104巷29號",
+    "lat": "22.9673496",
+    "long": "120.213166",
+    "service_notice": {},
+    "updated_datetime": "2018-11-22 15:46:49",
+    "expected_datetime": "2018-12-21 20:06:00"
+}

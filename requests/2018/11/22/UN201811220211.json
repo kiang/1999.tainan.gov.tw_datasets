@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811220211",
+    "requested_datetime": "2018-11-22 17:10:14",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "麻豆區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "麻豆區仁愛路6-4號，便當店門口、路口轉角 違規停車",
+    "address_string": "麻豆區仁愛路6-4號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-11-22 19:12:29",
+    "expected_datetime": "2018-12-22 17:10:14"
+}

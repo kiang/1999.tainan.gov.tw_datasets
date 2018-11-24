@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811230136",
+    "requested_datetime": "2018-11-23 12:01:11",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "安南區北安路三段與怡安路口   號誌燈故障",
+    "address_string": "安南區北安路三段怡安路",
+    "lat": "23.048183",
+    "long": "120.195794",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-12-23 11:54:00"
+}

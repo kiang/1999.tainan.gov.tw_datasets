@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811200321",
+    "requested_datetime": "2018-11-20 22:02:22",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "安南區郡安路六段55巷 違規停車",
+    "address_string": "安南區郡安路六段55巷",
+    "lat": "23.0271336",
+    "long": "120.1876866",
+    "service_notice": {},
+    "updated_datetime": "2018-11-21 00:36:22",
+    "expected_datetime": "2018-12-20 22:01:00"
+}

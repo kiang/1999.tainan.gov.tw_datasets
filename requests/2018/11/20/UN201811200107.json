@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811200107",
+    "requested_datetime": "2018-11-20 11:03:45",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "其他汙染舉發",
+    "description": "安南區府安路四段 垃圾包",
+    "address_string": "安南區府安路四段",
+    "lat": "23.0249211",
+    "long": "120.2105439",
+    "service_notice": {},
+    "updated_datetime": "2018-11-21 09:21:22",
+    "expected_datetime": "2018-12-20 11:01:00"
+}

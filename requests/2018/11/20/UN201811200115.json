@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811200115",
+    "requested_datetime": "2018-11-20 11:29:54",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "小廣告、旗幟",
+    "description": "永康區中華二路和中華二路266巷髒亂及汙染",
+    "address_string": "永康區中華二路266巷",
+    "lat": "23.0090211",
+    "long": "120.2329504",
+    "service_notice": {},
+    "updated_datetime": "2018-11-21 16:06:23",
+    "expected_datetime": "2018-12-20 11:29:54"
+}

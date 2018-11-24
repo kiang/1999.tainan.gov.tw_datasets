@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811230017",
+    "requested_datetime": "2018-11-23 06:59:37",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "開南街與林森路三段198號 違規停車",
+    "address_string": "林森路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-11-23 17:02:08",
+    "expected_datetime": "2018-12-23 06:59:37"
+}

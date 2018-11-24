@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811220248",
+    "requested_datetime": "2018-11-22 18:24:16",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區裕農路19巷17弄口 違停",
+    "address_string": "東區裕農路19巷17弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-11-22 21:11:45",
+    "expected_datetime": "2018-12-22 18:22:00"
+}

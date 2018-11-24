@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811200292",
+    "requested_datetime": "2018-11-20 19:45:48",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "安平區水景橋 路燈故障",
+    "address_string": "安平區水景橋",
+    "lat": "22.9981351",
+    "long": "120.1546645",
+    "service_notice": {},
+    "updated_datetime": "2018-11-21 16:11:52",
+    "expected_datetime": "2018-12-20 19:45:00"
+}

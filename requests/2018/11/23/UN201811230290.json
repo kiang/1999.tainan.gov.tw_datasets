@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811230290",
+    "requested_datetime": "2018-11-23 18:29:06",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "東區崇學路119號 噪音舉發",
+    "address_string": "東區崇學路119號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-11-23 21:21:55",
+    "expected_datetime": "2018-12-23 18:29:06"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811220129",
+    "requested_datetime": "2018-11-22 13:45:24",
+    "status": {},
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "仁德區文德路文山路口 號誌故障",
+    "address_string": "仁德區文德路文山路",
+    "lat": "22.9754194",
+    "long": "120.2482734",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-12-22 13:43:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811200315",
+    "requested_datetime": "2018-11-20 21:27:01",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "仁德區二仁路一段146號後方工廠 空氣污染",
+    "address_string": "仁德區二仁路一段146號",
+    "lat": "22.9233927",
+    "long": "120.2237426",
+    "service_notice": {},
+    "updated_datetime": "2018-11-21 16:46:24",
+    "expected_datetime": "2018-12-20 21:25:00"
+}

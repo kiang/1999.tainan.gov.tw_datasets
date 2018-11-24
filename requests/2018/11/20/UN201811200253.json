@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811200253",
+    "requested_datetime": "2018-11-20 17:45:48",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "仁德區保安工業區,中正路一段 路燈故障",
+    "address_string": "仁德區中正路一段",
+    "lat": "22.9264628",
+    "long": "120.2420578",
+    "service_notice": {},
+    "updated_datetime": "2018-11-22 08:26:16",
+    "expected_datetime": "2018-12-20 17:43:00"
+}

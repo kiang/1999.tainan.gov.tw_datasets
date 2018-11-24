@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811230013",
+    "requested_datetime": "2018-11-23 06:41:06",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區萬年路6號  違規停車",
+    "address_string": "南區萬年路6號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-11-23 17:02:08",
+    "expected_datetime": "2018-12-23 06:38:00"
+}

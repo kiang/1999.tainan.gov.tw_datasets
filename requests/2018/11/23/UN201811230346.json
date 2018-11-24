@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811230346",
+    "requested_datetime": "2018-11-23 21:51:58",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區民族路二段34號 違規停車",
+    "address_string": "中西區民族路二段34號",
+    "lat": "22.994637",
+    "long": "120.2110047",
+    "service_notice": {},
+    "updated_datetime": "2018-11-24 06:11:40",
+    "expected_datetime": "2018-12-23 21:51:58"
+}

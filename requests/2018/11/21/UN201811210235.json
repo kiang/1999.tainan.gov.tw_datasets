@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811210235",
+    "requested_datetime": "2018-11-21 17:21:43",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "人孔蓋凹陷坑洞",
+    "description": "北區文賢二街236巷17弄20號前 污水孔蓋",
+    "address_string": "北區文賢二街236巷17弄20號",
+    "lat": "23.0117614",
+    "long": "120.1976459",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-12-21 17:21:00"
+}

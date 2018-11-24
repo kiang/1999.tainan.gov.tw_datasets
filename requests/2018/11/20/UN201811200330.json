@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811200330",
+    "requested_datetime": "2018-11-20 23:40:16",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "髒亂及汙染",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "市區道路路面油漬",
+    "description": "東區東門路\/林森路 路面油漬",
+    "address_string": "東區東門路 林森路",
+    "lat": "22.9855556",
+    "long": "120.222313",
+    "service_notice": {},
+    "updated_datetime": "2018-11-21 15:06:19",
+    "expected_datetime": "2018-12-20 23:38:00"
+}

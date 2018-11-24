@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811200298",
+    "requested_datetime": "2018-11-20 20:09:08",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "仁德區保安路二段350號正前方 空氣汙染",
+    "address_string": "仁德區保安路二段350號",
+    "lat": "22.93547",
+    "long": "120.239862",
+    "service_notice": {},
+    "updated_datetime": "2018-11-21 16:51:57",
+    "expected_datetime": "2018-12-20 20:09:08"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811230249",
+    "requested_datetime": "2018-11-23 16:31:38",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "永康區小東路553號 噪音舉發",
+    "address_string": "永康區小東路553號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-11-23 21:16:19",
+    "expected_datetime": "2018-12-23 16:31:38"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811210205",
+    "requested_datetime": "2018-11-21 15:53:36",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "佔用道路",
+    "description": "永康區中正六街268號新竹鴨香飯  占用道路",
+    "address_string": "永康區中正六街268號",
+    "lat": "23.0398904",
+    "long": "120.2382459",
+    "service_notice": {},
+    "updated_datetime": "2018-11-22 04:01:21",
+    "expected_datetime": "2018-12-21 15:50:00"
+}
