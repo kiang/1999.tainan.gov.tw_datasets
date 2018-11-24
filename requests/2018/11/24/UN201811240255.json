@@ -9,8 +9,8 @@
     "subproject": "10盞以上路燈故障",
     "description": "永康區八德街140巷80號 路燈不亮",
     "address_string": "永康區八德街140巷80號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0374137",
+    "long": "120.2584005",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-24 19:58:00"
