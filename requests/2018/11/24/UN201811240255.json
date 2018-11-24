@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811240255",
+    "requested_datetime": "2018-11-24 19:59:07",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "永康區八德街140巷80號 路燈不亮",
+    "address_string": "永康區八德街140巷80號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-12-24 19:58:00"
+}
