@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區中華東路與崇德路口的85度C 違規停車",
     "address_string": "東區中華東路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9932881",
+    "long": "120.2341807",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-25 21:41:00"

@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "大內區178市道山上跟大內口 紅燈黃燈不亮",
     "address_string": "大內區178市道",
-    "lat": {},
-    "long": {},
+    "lat": "23.1421962",
+    "long": "120.4011911",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-25 13:38:00"
