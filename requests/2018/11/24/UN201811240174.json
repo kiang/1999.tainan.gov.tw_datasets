@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201811240174",
     "requested_datetime": "2018-11-24 14:52:50",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "麻豆區",
     "service_name": "道路維修",
@@ -12,6 +12,6 @@
     "lat": "23.1777229",
     "long": "120.219829",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-11-26 11:31:10",
     "expected_datetime": "2018-12-24 14:52:00"
 }
