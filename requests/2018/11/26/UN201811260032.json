@@ -9,8 +9,8 @@
     "subproject": "號誌秒差調整",
     "description": "關廟區南雄南路568號 號誌故障",
     "address_string": "關廟區南雄南路568號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9038678",
+    "long": "120.3521125",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-26 08:35:00"

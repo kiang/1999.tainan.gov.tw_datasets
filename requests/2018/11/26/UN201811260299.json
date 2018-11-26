@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201811260299",
     "requested_datetime": "2018-11-26 20:46:56",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "新市區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "新市區中正路152號，全聯福利中心前 違規停車",
     "address_string": "新市區中正路152號",
-    "lat": {},
-    "long": {},
+    "lat": "23.074054",
+    "long": "120.2914541",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-11-27 00:11:29",
     "expected_datetime": "2018-12-26 20:46:56"
 }

@@ -9,8 +9,8 @@
     "subproject": "漏水、停水、消防栓漏水或損壞",
     "description": "北區文成路與文成路750巷 路面冒水",
     "address_string": "北區文成路文成路750巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.0123424",
+    "long": "120.1962477",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-26 14:40:00"

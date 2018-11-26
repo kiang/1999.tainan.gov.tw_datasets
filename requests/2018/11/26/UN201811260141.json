@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區實踐街21號,前路燈故障乙盞",
     "address_string": "北區實踐街21號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0143679",
+    "long": "120.2176633",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-26 13:23:00"

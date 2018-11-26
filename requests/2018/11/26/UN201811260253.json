@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201811260253",
     "requested_datetime": "2018-11-26 17:42:28",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "北區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "北區成功路58號 違停",
     "address_string": "北區成功路58號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9982395",
+    "long": "120.2069478",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-11-27 00:11:31",
     "expected_datetime": "2018-12-26 17:42:00"
 }

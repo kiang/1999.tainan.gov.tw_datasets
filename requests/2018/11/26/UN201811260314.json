@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201811260314",
     "requested_datetime": "2018-11-26 22:12:59",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": "噪音舉發",
@@ -9,9 +9,9 @@
     "subproject": "妨害安寧",
     "description": "永康區龍埔街139巷10弄妨害安寧",
     "address_string": "龍埔街139巷10弄",
-    "lat": {},
-    "long": {},
+    "lat": "23.0333157",
+    "long": "120.2636372",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-11-27 00:16:33",
     "expected_datetime": "2018-12-26 22:12:59"
 }

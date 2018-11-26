@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201811260262",
     "requested_datetime": "2018-11-26 18:10:52",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "南區",
     "service_name": "騎樓舉發",
@@ -9,9 +9,9 @@
     "subproject": "騎樓舉發",
     "description": "南區中華西路一段52巷7號 佔用騎樓",
     "address_string": "南區中華西路一段52巷7號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9685581",
+    "long": "120.1839583",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-11-27 00:16:32",
     "expected_datetime": "2018-12-26 18:10:00"
 }

@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "鹽水區全利農工 空污",
     "address_string": "鹽水區全利農工",
-    "lat": {},
-    "long": {},
+    "lat": "23.335136",
+    "long": "120.2911423",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-26 16:19:00"

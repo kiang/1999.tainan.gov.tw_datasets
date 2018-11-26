@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "新營工業區八德路2號(東柏公司) 空氣汙染",
     "address_string": "新營工業區八德路2號",
-    "lat": {},
-    "long": {},
+    "lat": "23.303545",
+    "long": "120.285515",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-26 13:11:00"
