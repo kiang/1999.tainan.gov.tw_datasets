@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811260286",
+    "requested_datetime": "2018-11-26 19:51:50",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "東區崇學路261巷和德光街口 路燈閃爍",
+    "address_string": "東區崇學路261巷德光街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-12-26 19:50:00"
+}
