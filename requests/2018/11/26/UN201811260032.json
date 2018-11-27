@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201811260032",
     "requested_datetime": "2018-11-26 08:36:30",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "關廟區",
     "service_name": "交通運輸",
@@ -12,6 +12,6 @@
     "lat": "22.9038678",
     "long": "120.3521125",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-11-27 17:06:27",
     "expected_datetime": "2018-12-26 08:35:00"
 }
