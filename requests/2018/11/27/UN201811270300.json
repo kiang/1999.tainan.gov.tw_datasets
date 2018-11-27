@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201811270300",
     "requested_datetime": "2018-11-27 22:00:49",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "東區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "東區崇德路580號違規停車",
     "address_string": "崇德路580號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9716221",
+    "long": "120.227339",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-11-28 00:46:31",
     "expected_datetime": "2018-12-27 22:00:49"
 }

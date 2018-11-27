@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區安通路五段轉進義吉街 路燈不亮",
     "address_string": "安南區安通路五段*義吉街",
-    "lat": {},
-    "long": {},
+    "lat": "23.0316661",
+    "long": "120.1954102",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-27 17:46:00"

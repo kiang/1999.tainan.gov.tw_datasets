@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811270178",
+    "requested_datetime": "2018-11-27 14:29:12",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "中西區信義街46巷29號 空氣汙染",
+    "address_string": "中西區信義街46巷29號",
+    "lat": "23.000582",
+    "long": "120.196348",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-12-27 14:28:00"
+}

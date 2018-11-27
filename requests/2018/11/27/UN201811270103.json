@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811270103",
+    "requested_datetime": "2018-11-27 10:53:19",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "永康區八德街77號前路面冒水",
+    "address_string": "永康區八德街77號",
+    "lat": "23.0364746",
+    "long": "120.2601332",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-12-27 10:50:00"
+}
