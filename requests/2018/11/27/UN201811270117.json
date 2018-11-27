@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201811270117",
+    "requested_datetime": "2018-11-27 11:17:53",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區文賢三街168號    路燈不亮",
+    "address_string": "北區文賢三街168號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-12-27 11:15:00"
+}
