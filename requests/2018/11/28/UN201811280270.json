@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201811280270",
     "requested_datetime": "2018-11-28 18:59:06",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "新營區",
     "service_name": "違規停車",
@@ -12,6 +12,6 @@
     "lat": "23.3100756",
     "long": "120.307582",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-11-29 01:11:41",
     "expected_datetime": "2018-12-28 18:58:00"
 }
