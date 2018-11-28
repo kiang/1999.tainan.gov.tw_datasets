@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區東豐路305巷71號前 路燈故障",
     "address_string": "北區東豐路305巷71號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0043852",
+    "long": "120.2237932",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-28 11:41:00"

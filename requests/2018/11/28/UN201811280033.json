@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "北區中華北路一段(364號)與中華北路一段362巷",
     "address_string": "中華北路一段(364號)與中華北路一段362巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.0140036",
+    "long": "120.1868833",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-28 08:11:42"

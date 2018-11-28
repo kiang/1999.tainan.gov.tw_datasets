@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "仁德區德糖路與德安路 路燈故障",
     "address_string": "仁德區德糖路德安路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9518033",
+    "long": "120.2534726",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-28 17:47:00"

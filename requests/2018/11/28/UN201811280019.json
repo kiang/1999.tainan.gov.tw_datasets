@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "北區西門路三段 號誌故障",
     "address_string": "北區西門路三段",
-    "lat": {},
-    "long": {},
+    "lat": "23.0026653",
+    "long": "120.2035377",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-28 07:09:00"

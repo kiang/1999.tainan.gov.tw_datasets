@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "南區金華路二段跟健康路口 號誌故障",
     "address_string": "南區金華路二段健康路",
-    "lat": {},
-    "long": {},
+    "lat": "22.981529",
+    "long": "120.1914933",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-28 08:54:00"
