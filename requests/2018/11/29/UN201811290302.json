@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區健康路二段與西門路一段交叉路口 違規停車",
     "address_string": "中西區健康路二段西門路一段",
-    "lat": {},
-    "long": {},
+    "lat": "22.981492",
+    "long": "120.197571",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-29 20:00:55"

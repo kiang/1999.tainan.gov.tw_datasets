@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "安南區安中路二段與安吉路一段口 空污",
     "address_string": "安南區安中路二段安吉路一段",
-    "lat": {},
-    "long": {},
+    "lat": "23.046125",
+    "long": "120.1884941",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-29 20:17:00"

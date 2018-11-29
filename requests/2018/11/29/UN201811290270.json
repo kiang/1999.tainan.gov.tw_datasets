@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區北園街26號 違規停車",
     "address_string": "北區北園街26號",
-    "lat": {},
-    "long": {},
+    "lat": "23.010963",
+    "long": "120.223398",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-29 18:10:00"
