@@ -9,8 +9,8 @@
     "subproject": "路面下陷、凹陷",
     "description": "永康區文賢路與大彎路 路面下陷",
     "address_string": "永康區文賢路大灣路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9999077",
+    "long": "120.254803",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-30 09:49:00"

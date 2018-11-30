@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區和緯路二段，公園路到西門路 路燈故障",
     "address_string": "北區和緯路二段*公園路*西門路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0106101",
+    "long": "120.2107845",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-30 13:42:00"

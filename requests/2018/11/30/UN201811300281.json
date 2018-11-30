@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區西賢一街95巷20號對面 路燈故障",
     "address_string": "中西區西賢一街95巷20號",
-    "lat": {},
-    "long": {},
+    "lat": "23.001827",
+    "long": "120.1770579",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-30 20:37:00"
