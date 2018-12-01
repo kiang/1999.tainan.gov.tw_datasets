@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812010089",
+    "requested_datetime": "2018-12-01 11:23:53",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安南區公學路五段697巷與安興街380巷路口 違規停車",
+    "address_string": "安南區公學路五段697巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-12-01 12:46:19",
+    "expected_datetime": "2018-12-31 11:21:00"
+}
