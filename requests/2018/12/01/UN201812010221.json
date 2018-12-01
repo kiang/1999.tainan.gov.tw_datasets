@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安定區中沙里沙崙5-7號 路燈故障",
     "address_string": "安定區中沙里沙崙5-7號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0787941",
+    "long": "120.2091508",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2018-12-31 19:25:47"

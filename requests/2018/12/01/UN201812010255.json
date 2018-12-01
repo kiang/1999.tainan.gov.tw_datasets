@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812010255",
+    "requested_datetime": "2018-12-01 22:12:06",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "東區東門路三段141巷 妨害安寧",
+    "address_string": "東區東門路三段141巷",
+    "lat": "22.9783569",
+    "long": "120.2335218",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-12-31 22:12:06"
+}
