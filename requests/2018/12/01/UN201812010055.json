@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812010055",
+    "requested_datetime": "2018-12-01 09:40:13",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區青年路226巷20號   紅線違停",
+    "address_string": "中西區青年路226巷20號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2018-12-31 09:36:00"
+}
