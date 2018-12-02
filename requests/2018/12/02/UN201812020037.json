@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "北區文賢國中  空氣汙染",
     "address_string": "北區文賢國中",
-    "lat": {},
-    "long": {},
+    "lat": "23.004083",
+    "long": "120.193824",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-01 09:06:00"

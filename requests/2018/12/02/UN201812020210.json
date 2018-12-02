@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812020210",
     "requested_datetime": "2018-12-02 20:28:15",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "中西區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "中西區南門路37號 台南市美術館友愛街側邊 違規停車",
     "address_string": "中西區南門路37號",
-    "lat": {},
-    "long": {},
+    "lat": "22.990995",
+    "long": "120.2049659",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-03 00:51:55",
     "expected_datetime": "2019-01-01 20:28:15"
 }

@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "將軍區長沙里1-17號    空氣汙染",
     "address_string": "將軍區長沙里1-17號",
-    "lat": {},
-    "long": {},
+    "lat": "23.217437",
+    "long": "120.096547",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-01 09:51:00"

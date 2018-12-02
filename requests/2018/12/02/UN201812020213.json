@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812020213",
     "requested_datetime": "2018-12-02 20:33:53",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "仁德區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "仁德區田厝一街200巷 違規停車",
     "address_string": "仁德區田厝一街200巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.939754",
+    "long": "120.2427174",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-03 00:51:56",
     "expected_datetime": "2019-01-01 20:33:53"
 }

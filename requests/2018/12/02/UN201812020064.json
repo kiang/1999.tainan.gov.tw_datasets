@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區大智街74號   路燈故障",
     "address_string": "中西區大智街74號",
-    "lat": {},
-    "long": {},
+    "lat": "22.99106",
+    "long": "120.193177",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-01 10:52:00"

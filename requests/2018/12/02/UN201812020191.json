@@ -9,8 +9,8 @@
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "玉井區台20線 電路掉落",
     "address_string": "玉井區台20線",
-    "lat": {},
-    "long": {},
+    "lat": "23.1119128",
+    "long": "120.4757091",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-01 18:50:00"
