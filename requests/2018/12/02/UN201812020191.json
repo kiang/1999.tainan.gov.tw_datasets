@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812020191",
+    "requested_datetime": "2018-12-02 18:52:55",
+    "status": {},
+    "keyword": "0",
+    "area": "玉井區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "玉井區台20線 電路掉落",
+    "address_string": "玉井區台20線",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-01-01 18:50:00"
+}
