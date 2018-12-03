@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區府前路一段40號 路燈故障",
     "address_string": "中西區府前路一段40號",
-    "lat": {},
-    "long": {},
+    "lat": "22.989084",
+    "long": "120.2099069",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-02 19:31:00"

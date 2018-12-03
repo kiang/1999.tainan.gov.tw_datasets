@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "南區新建路27巷整條 路燈故障",
     "address_string": "南區新建路27巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.9708122",
+    "long": "120.1859075",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-02 21:42:25"

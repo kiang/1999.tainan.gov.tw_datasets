@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812030337",
+    "requested_datetime": "2018-12-03 23:45:39",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "永康區永康工業區周邊，竹南街附近 空氣污染",
+    "address_string": "永康區竹南街",
+    "lat": "23.0386833",
+    "long": "120.2632517",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-01-02 23:43:00"
+}
