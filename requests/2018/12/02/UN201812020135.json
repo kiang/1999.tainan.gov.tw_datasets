@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812020135",
     "requested_datetime": "2018-12-02 15:55:22",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "佳里區",
     "service_name": "道路維修",
@@ -12,6 +12,6 @@
     "lat": "23.1684838",
     "long": "120.1720727",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-04 10:21:11",
     "expected_datetime": "2019-01-01 15:50:00"
 }
