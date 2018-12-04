@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "中西區光賢街跟中華西路  號誌故障",
     "address_string": "中西區光賢街中華西路",
-    "lat": {},
-    "long": {},
+    "lat": "23.004217",
+    "long": "120.1867524",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-03 13:13:00"

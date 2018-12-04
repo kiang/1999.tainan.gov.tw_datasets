@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "南區金華路二段27巷45號 路燈不亮",
     "address_string": "南區金華路二段27巷45號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9767253",
+    "long": "120.1893465",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-03 12:01:00"

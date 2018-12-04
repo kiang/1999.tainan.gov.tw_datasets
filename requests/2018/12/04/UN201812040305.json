@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新營區健康路，三群汽車前 違停",
     "address_string": "新營區健康路128號",
-    "lat": {},
-    "long": {},
+    "lat": "23.3138987",
+    "long": "120.312401",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-03 20:21:00"
