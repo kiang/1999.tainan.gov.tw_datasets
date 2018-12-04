@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812010115",
     "requested_datetime": "2018-12-01 12:42:47",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "安南區",
     "service_name": "民生管線",
@@ -12,6 +12,6 @@
     "lat": "23.0173468",
     "long": "120.1918274",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-04 17:06:22",
     "expected_datetime": "2018-12-31 12:42:47"
 }
