@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812020191",
     "requested_datetime": "2018-12-02 18:52:55",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "玉井區",
     "service_name": "民生管線",
@@ -12,6 +12,6 @@
     "lat": "23.1119128",
     "long": "120.4757091",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-04 15:21:32",
     "expected_datetime": "2019-01-01 18:50:00"
 }
