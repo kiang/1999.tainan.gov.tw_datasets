@@ -9,8 +9,8 @@
     "subproject": "10盞以上路燈故障",
     "description": "仁德區中正西路227號附近 路燈不亮",
     "address_string": "仁德區中正西路227號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9177405",
+    "long": "120.2203621",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-04 18:15:00"

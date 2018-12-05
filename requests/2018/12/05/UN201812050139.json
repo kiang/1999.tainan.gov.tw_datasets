@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "IVR-東區林森路二段192巷與林森路二段 號誌故障",
     "address_string": "東區林森路二段192巷林森路二段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9896055",
+    "long": "120.225721",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-04 12:31:00"

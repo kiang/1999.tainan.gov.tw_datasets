@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812050263",
+    "requested_datetime": "2018-12-05 18:55:08",
+    "status": {},
+    "keyword": "0",
+    "area": "善化區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "善化區金華路223巷 紅線違停",
+    "address_string": "善化區興華路223巷",
+    "lat": "23.1270539",
+    "long": "120.2987942",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-01-04 18:54:00"
+}

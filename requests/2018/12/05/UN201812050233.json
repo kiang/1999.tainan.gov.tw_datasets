@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區育德一街221巷2之1號 路燈不亮",
     "address_string": "北區育德一街221巷2之1號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0164455",
+    "long": "120.205333",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-04 17:32:00"

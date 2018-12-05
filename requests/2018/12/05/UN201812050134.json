@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812050134",
     "requested_datetime": "2018-12-05 12:25:45",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "佳里區",
     "service_name": "髒亂及汙染",
@@ -9,9 +9,9 @@
     "subproject": "其他汙染舉發",
     "description": "佳里區佳南路512號 待速",
     "address_string": "佳里區佳南路512號",
-    "lat": {},
-    "long": {},
+    "lat": "23.1485037",
+    "long": "120.1745077",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-06 00:41:19",
     "expected_datetime": "2019-01-04 12:23:00"
 }
