@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812050248",
+    "requested_datetime": "2018-12-05 18:17:01",
+    "status": {},
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "仁德區中正西路227號附近 路燈不亮",
+    "address_string": "仁德區中正西路227號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-01-04 18:15:00"
+}
