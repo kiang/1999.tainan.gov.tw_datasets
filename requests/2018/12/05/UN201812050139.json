@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812050139",
     "requested_datetime": "2018-12-05 12:35:46",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "東區",
     "service_name": "交通運輸",
@@ -12,6 +12,6 @@
     "lat": "22.9896055",
     "long": "120.225721",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-06 13:51:13",
     "expected_datetime": "2019-01-04 12:31:00"
 }
