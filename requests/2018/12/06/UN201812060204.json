@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "永康區正南五街289巷51號 空污",
     "address_string": "永康區正南五街289巷51號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0350455",
+    "long": "120.2368236",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-05 15:47:00"

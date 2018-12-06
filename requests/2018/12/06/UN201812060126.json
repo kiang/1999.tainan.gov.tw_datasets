@@ -9,8 +9,8 @@
     "subproject": "市區道路路面油漬",
     "description": "東區中華東路與東平路,路面碎片",
     "address_string": "東區中華東路東平路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9946483",
+    "long": "120.2342987",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-05 12:31:00"

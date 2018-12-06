@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區保安路與海安路一段口，海安路一段上 路燈不亮",
     "address_string": "中西區保安路海安路一段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9905286",
+    "long": "120.1953282",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-05 18:54:00"

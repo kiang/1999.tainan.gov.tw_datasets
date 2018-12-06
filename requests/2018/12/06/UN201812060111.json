@@ -9,8 +9,8 @@
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "東區成功三街131號 漏水",
     "address_string": "東區成功三街131號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9575534",
+    "long": "120.2313768",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-05 11:57:17"
