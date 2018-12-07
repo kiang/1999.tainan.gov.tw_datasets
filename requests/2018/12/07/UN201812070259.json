@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "南區夏林路204號前 違停",
     "address_string": "南區夏林路204號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9798071",
+    "long": "120.194787",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-06 18:35:00"

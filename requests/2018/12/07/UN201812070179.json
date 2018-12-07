@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "關廟區東安街與東興路口  號誌燈故障",
     "address_string": "關廟區東安街東興路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9559673",
+    "long": "120.3312334",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-06 15:14:00"
