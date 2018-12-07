@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812060172",
     "requested_datetime": "2018-12-06 14:31:39",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "學甲區",
     "service_name": "髒亂及汙染",
@@ -12,6 +12,6 @@
     "lat": "23.2438768",
     "long": "120.1596769",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-07 16:21:21",
     "expected_datetime": "2019-01-05 14:27:00"
 }
