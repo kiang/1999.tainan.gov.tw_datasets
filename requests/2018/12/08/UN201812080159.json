@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812080159",
+    "requested_datetime": "2018-12-08 15:36:37",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區西門路四段447號跟449號中間 違停",
+    "address_string": "北區西門路四段447號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-01-07 15:35:00"
+}
