@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812080216",
+    "requested_datetime": "2018-12-08 19:25:38",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區中華東路二段46號 違規停車",
+    "address_string": "東區中華東路二段46號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-01-07 19:24:00"
+}
