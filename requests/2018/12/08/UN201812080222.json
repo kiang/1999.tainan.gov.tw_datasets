@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "永康區中華路跟中華二路口 路燈故障",
     "address_string": "永康區中華路跟中華二路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0088878",
+    "long": "120.2311423",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-07 20:09:00"

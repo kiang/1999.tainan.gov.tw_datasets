@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區崇明九街42號對面 路燈不亮",
     "address_string": "東區崇明九街42號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9756591",
+    "long": "120.2203949",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-07 15:23:00"
