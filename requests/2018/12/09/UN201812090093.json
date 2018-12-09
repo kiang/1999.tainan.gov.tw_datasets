@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區鎮安路與鎮安三街口 路燈不亮",
     "address_string": "安南區鎮安路鎮安三街",
-    "lat": {},
-    "long": {},
+    "lat": "23.0657727",
+    "long": "120.20012",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-08 12:27:00"
