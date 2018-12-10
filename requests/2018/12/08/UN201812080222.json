@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812080222",
     "requested_datetime": "2018-12-08 20:10:53",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": "路燈故障",
@@ -12,6 +12,6 @@
     "lat": "23.0088878",
     "long": "120.2311423",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-10 09:56:16",
     "expected_datetime": "2019-01-07 20:09:00"
 }
