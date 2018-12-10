@@ -9,8 +9,8 @@
     "subproject": "市區道路路面油漬",
     "description": "北區中華北路與大和路車禍路面油漬",
     "address_string": "北區中華北路大和路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0154746",
+    "long": "120.1887972",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-09 09:22:00"

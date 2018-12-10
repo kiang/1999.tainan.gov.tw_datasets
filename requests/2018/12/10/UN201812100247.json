@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "學甲區華宗橋，苓仔寮往學甲方向 號誌不亮",
     "address_string": "學甲區華宗橋",
-    "lat": {},
-    "long": {},
+    "lat": "23.2255268",
+    "long": "120.1739011",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-09 17:12:00"
