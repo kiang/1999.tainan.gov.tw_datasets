@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812080057",
     "requested_datetime": "2018-12-08 10:02:19",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": "髒亂及汙染",
@@ -12,6 +12,6 @@
     "lat": "23.0036061",
     "long": "120.2644329",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-10 09:51:21",
     "expected_datetime": "2019-01-07 10:00:00"
 }
