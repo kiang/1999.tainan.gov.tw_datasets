@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "東區林森路小東路 占用道路",
     "address_string": "東區林森路小東路",
-    "lat": {},
-    "long": {},
+    "lat": "23.00059",
+    "long": "120.2245149",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-10 16:17:00"

@@ -9,8 +9,8 @@
     "subproject": "佔用道路",
     "description": "南區慶南街跟新孝路口 違規擺攤",
     "address_string": "南區慶南街新孝路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9777277",
+    "long": "120.189991",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-10 21:50:00"

@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區海佃路四段376號 路燈故障",
     "address_string": "安南區海佃路四段376號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0627438",
+    "long": "120.1764116",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-10 18:54:00"

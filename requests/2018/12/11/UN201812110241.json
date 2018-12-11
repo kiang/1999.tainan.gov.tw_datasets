@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "東區林森路一段276號大東夜市 違停",
     "address_string": "東區林森路一段276號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9830828",
+    "long": "120.2186637",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-10 18:51:00"
