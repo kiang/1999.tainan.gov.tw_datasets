@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812100308",
     "requested_datetime": "2018-12-10 19:55:02",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "新營區",
     "service_name": "動物救援",
@@ -12,6 +12,6 @@
     "lat": "23.3115014",
     "long": "120.3021751",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-11 11:26:16",
     "expected_datetime": "2019-01-09 19:55:00"
 }
