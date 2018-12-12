@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區東興路100號 路燈故障",
     "address_string": "東區東興路100號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9925452",
+    "long": "120.2292501",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-11 14:42:00"

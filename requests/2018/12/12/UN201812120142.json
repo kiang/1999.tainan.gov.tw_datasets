@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "歸仁區和順路二段與南丁路口    號誌燈故障",
     "address_string": "歸仁區和順路二段南丁路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9922049",
+    "long": "120.277454",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-11 14:09:00"

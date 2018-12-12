@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812120255",
     "requested_datetime": "2018-12-12 19:41:40",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "善化區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "善化區中華路禾居酒屋附近 違規停車",
     "address_string": "善化區中華路",
-    "lat": {},
-    "long": {},
+    "lat": "23.1305017",
+    "long": "120.2893241",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-13 00:11:16",
     "expected_datetime": "2019-01-11 19:41:40"
 }

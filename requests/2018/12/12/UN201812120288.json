@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812120288",
     "requested_datetime": "2018-12-12 22:03:19",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "安南區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "安南區海東街和海德一路 違規停車",
     "address_string": "海東街和海德一路路口",
-    "lat": {},
-    "long": {},
+    "lat": "23.0324189",
+    "long": "120.1893387",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-13 00:21:32",
     "expected_datetime": "2019-01-11 22:03:19"
 }
