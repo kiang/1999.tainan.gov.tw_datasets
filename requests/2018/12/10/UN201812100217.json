@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812100217",
     "requested_datetime": "2018-12-10 16:05:24",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "麻豆區",
     "service_name": "動物救援",
@@ -12,6 +12,6 @@
     "lat": "23.1860363",
     "long": "120.2463499",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-13 14:46:19",
     "expected_datetime": "2019-01-09 16:02:00"
 }
