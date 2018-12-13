@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812120253",
     "requested_datetime": "2018-12-12 19:28:29",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "新營區",
     "service_name": "噪音舉發",
@@ -12,6 +12,6 @@
     "lat": "23.3154295",
     "long": "120.3045324",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-13 16:01:13",
     "expected_datetime": "2019-01-11 19:28:00"
 }
