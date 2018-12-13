@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812130277",
     "requested_datetime": "2018-12-13 21:09:31",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "永康區永大路二段與中山北路口 違停",
     "address_string": "永康區永大路二段中山北路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0274035",
+    "long": "120.2605773",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-14 00:26:35",
     "expected_datetime": "2019-01-12 21:09:00"
 }

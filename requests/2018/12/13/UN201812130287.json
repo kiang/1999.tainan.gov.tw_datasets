@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812130287",
+    "requested_datetime": "2018-12-13 22:12:19",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區興昌路和西門路口 違停",
+    "address_string": "南區興昌路西門路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-12-14 00:41:15",
+    "expected_datetime": "2019-01-12 22:10:00"
+}

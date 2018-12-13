@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812130265",
     "requested_datetime": "2018-12-13 20:01:33",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "鹽水區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "鹽水區和平路65巷  違規停車",
     "address_string": "鹽水區和平路65巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.3252034",
+    "long": "120.2734235",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-14 00:21:23",
     "expected_datetime": "2019-01-12 20:00:00"
 }

@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "六甲區和平街185號附近 空氣汙染",
     "address_string": "六甲區和平街185號",
-    "lat": {},
-    "long": {},
+    "lat": "23.2274523",
+    "long": "120.3425505",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-12 11:22:00"
