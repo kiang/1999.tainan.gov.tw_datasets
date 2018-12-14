@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812140294",
     "requested_datetime": "2018-12-14 23:33:14",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "柳營區",
     "service_name": "噪音舉發",
@@ -12,6 +12,6 @@
     "lat": "23.28231",
     "long": "120.374409",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-15 03:06:29",
     "expected_datetime": "2019-01-13 23:33:14"
 }
