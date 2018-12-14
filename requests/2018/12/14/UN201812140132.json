@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812140132",
+    "requested_datetime": "2018-12-14 13:41:32",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "南區惠南街上近健康路 違規停車",
+    "address_string": "南區惠南街*健康路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-01-13 13:40:00"
+}
