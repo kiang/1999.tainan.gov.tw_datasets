@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812140252",
+    "requested_datetime": "2018-12-14 19:08:51",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "安南區環館路358巷2號翡翠森林附近，環館一路、二路、環館路大範圍 路燈不亮",
+    "address_string": "安南區環館路358巷2號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-01-13 19:07:00"
+}
