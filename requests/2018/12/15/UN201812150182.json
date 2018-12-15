@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "安南區國道8號   號誌燈",
     "address_string": "安南區國道8號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0804498",
+    "long": "120.1952443",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-14 15:51:00"

@@ -9,8 +9,8 @@
     "subproject": "場所連續噪音",
     "description": "新化區和平街與中正路口    擴音器噪音",
     "address_string": "新化區和平街中正路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0334808",
+    "long": "120.3095204",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-14 09:09:00"

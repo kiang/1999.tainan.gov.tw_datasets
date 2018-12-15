@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "北區林森路三段與開元路口    號誌燈故障",
     "address_string": "北區林森路三段開元路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0088705",
+    "long": "120.2229195",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-14 08:37:00"

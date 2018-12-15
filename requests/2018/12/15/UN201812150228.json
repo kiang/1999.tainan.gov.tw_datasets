@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安平區平通路511號 路燈故障",
     "address_string": "安平區平通路511號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9933358",
+    "long": "120.1721593",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-14 18:15:00"

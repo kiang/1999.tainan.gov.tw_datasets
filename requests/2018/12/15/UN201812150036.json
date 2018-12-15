@@ -9,8 +9,8 @@
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "北區南園街19號前 停電",
     "address_string": "北區南園街19號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0087681",
+    "long": "120.2240624",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-14 08:34:00"

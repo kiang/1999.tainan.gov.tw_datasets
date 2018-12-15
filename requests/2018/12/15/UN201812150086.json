@@ -9,8 +9,8 @@
     "subproject": "場所連續噪音",
     "description": "新市區信義街*民生路口 噪音",
     "address_string": "新市區信義街*民生路",
-    "lat": {},
-    "long": {},
+    "lat": "23.079065",
+    "long": "120.2898813",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-14 10:45:00"

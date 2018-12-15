@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "南區文南路與建南路口    號誌故障",
     "address_string": "南區文南路建南路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9849416",
+    "long": "120.1899994",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-14 15:37:00"

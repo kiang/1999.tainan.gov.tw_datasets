@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "仁德區86快速道路    空氣汙染",
     "address_string": "仁德區86快速道路",
-    "lat": {},
-    "long": {},
+    "lat": "22.941029",
+    "long": "120.238859",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-14 16:16:00"
