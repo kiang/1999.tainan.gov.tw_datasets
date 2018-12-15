@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812150262",
+    "requested_datetime": "2018-12-15 20:07:05",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府民政局,臺南市政府警察局勤務指揮中心",
+    "subproject": "妨害安寧",
+    "description": "南區鹽埕路北極殿 妨害安寧",
+    "address_string": "南區鹽埕路北極殿",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-12-15 20:46:25",
+    "expected_datetime": "2019-01-14 20:05:00"
+}
