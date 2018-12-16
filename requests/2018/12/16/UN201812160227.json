@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區實踐街100巷19號前路燈故障",
     "address_string": "北區實踐街100巷19號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0130461",
+    "long": "120.219424",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-15 22:21:00"

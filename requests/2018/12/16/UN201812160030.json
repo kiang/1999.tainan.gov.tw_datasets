@@ -9,8 +9,8 @@
     "subproject": "場所連續噪音",
     "description": "北區海安路三段和北成路口 連續噪音",
     "address_string": "北區海安路三段北成路",
-    "lat": {},
-    "long": {},
+    "lat": "23.015347",
+    "long": "120.199843",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-15 08:48:00"

@@ -9,8 +9,8 @@
     "subproject": "場所連續噪音",
     "description": "北區中華北路和和緯路口 連續噪音",
     "address_string": "北區中華北路和緯路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0071767",
+    "long": "120.1862629",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-15 13:16:00"
