@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "北區公園路705號 號誌故障",
     "address_string": "北區公園路705號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0167981",
+    "long": "120.2146505",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-16 17:44:00"

@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安平區夕遊出張所 路燈不亮",
     "address_string": "安平區夕遊出張所",
-    "lat": {},
-    "long": {},
+    "lat": "23.0025611",
+    "long": "120.1563263",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-16 17:03:00"
