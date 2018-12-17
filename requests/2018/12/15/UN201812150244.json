@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812150244",
     "requested_datetime": "2018-12-15 18:57:07",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "楠西區",
     "service_name": "髒亂及汙染",
@@ -12,6 +12,6 @@
     "lat": "23.1602995",
     "long": "120.4893933",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-17 16:11:24",
     "expected_datetime": "2019-01-14 18:53:00"
 }
