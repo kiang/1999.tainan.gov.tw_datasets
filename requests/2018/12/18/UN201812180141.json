@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812180141",
+    "requested_datetime": "2018-12-18 12:13:30",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區復國一路284號前 違停",
+    "address_string": "永康區復國一路284號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-01-17 12:12:00"
+}
