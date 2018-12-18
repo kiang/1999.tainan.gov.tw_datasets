@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區北安路一段51巷 路燈故障",
     "address_string": "北區北安路一段51巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.0150063",
+    "long": "120.2113248",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-17 17:40:00"

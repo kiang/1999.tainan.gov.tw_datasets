@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812180373",
     "requested_datetime": "2018-12-18 23:39:38",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "北區",
     "service_name": "噪音舉發",
@@ -9,9 +9,9 @@
     "subproject": "妨害安寧",
     "description": "北區小北路俗俗的賣商店 噪音舉發",
     "address_string": "北區小北路俗俗的賣商店",
-    "lat": {},
-    "long": {},
+    "lat": "23.006925",
+    "long": "120.206641",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-19 00:41:40",
     "expected_datetime": "2019-01-17 23:39:38"
 }

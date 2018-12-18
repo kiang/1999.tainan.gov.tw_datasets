@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812180304",
     "requested_datetime": "2018-12-18 19:10:16",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "中西區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "中西區成功路*公園路口成功路29號 違規停車",
     "address_string": "中西區成功路*公園路",
-    "lat": {},
-    "long": {},
+    "lat": "22.998098",
+    "long": "120.2069647",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-19 00:21:38",
     "expected_datetime": "2019-01-17 19:07:00"
 }

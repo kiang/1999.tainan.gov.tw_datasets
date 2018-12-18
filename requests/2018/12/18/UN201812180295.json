@@ -9,8 +9,8 @@
     "subproject": "10盞以上路燈故障",
     "description": "西港區西港里45之31號 路燈故障",
     "address_string": "西港區西港里45之31號",
-    "lat": {},
-    "long": {},
+    "lat": "23.125611",
+    "long": "120.2065525",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-17 18:23:00"

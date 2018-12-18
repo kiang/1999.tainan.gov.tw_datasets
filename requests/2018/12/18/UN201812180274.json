@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812180274",
     "requested_datetime": "2018-12-18 17:52:29",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "東區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "東區東寧路385號 違規停車",
     "address_string": "東區東寧路385號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9898394",
+    "long": "120.2289562",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-19 00:21:36",
     "expected_datetime": "2019-01-17 17:52:29"
 }

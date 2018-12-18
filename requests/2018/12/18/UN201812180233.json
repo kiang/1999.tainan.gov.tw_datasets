@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812180233",
     "requested_datetime": "2018-12-18 16:01:07",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "安南區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "安南區北安路二段59號旁 違停",
     "address_string": "安南區北安路二段59號",
-    "lat": {},
-    "long": {},
+    "lat": "23.025893",
+    "long": "120.204802",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-19 00:16:31",
     "expected_datetime": "2019-01-17 15:59:00"
 }

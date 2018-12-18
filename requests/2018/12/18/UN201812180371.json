@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812180371",
     "requested_datetime": "2018-12-18 23:27:58",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "中西區",
     "service_name": "噪音舉發",
@@ -9,9 +9,9 @@
     "subproject": "妨害安寧",
     "description": "中西區大同路一段252號 噪音舉發",
     "address_string": "中西區大同路一段252號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9815896",
+    "long": "120.2117084",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-19 00:41:40",
     "expected_datetime": "2019-01-17 23:27:58"
 }

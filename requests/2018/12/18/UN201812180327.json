@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812180327",
     "requested_datetime": "2018-12-18 20:25:11",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "北區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "北區賢北街170巷尾 違規停車",
     "address_string": "北區賢北街170巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.0109252",
+    "long": "120.1830697",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-19 00:31:32",
     "expected_datetime": "2019-01-17 20:25:11"
 }
