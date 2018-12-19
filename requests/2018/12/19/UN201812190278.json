@@ -9,8 +9,8 @@
     "subproject": "交通疏導",
     "description": "北區臨安路和海安路口 交通疏導",
     "address_string": "北區臨安路和海安路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0038235",
+    "long": "120.1999876",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-18 19:10:00"

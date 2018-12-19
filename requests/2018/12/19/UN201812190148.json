@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "七股區173縣道19K，往西方向 空污",
     "address_string": "七股區173縣道",
-    "lat": {},
-    "long": {},
+    "lat": "23.0936119",
+    "long": "120.1332076",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-18 12:16:00"

@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "歸仁區光明街26號 故障閃爍",
     "address_string": "歸仁區光明街26號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9300087",
+    "long": "120.276285",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-18 18:21:00"

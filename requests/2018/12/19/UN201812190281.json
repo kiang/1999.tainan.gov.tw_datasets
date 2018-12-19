@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "安南區本田路三段接近科工區附近 空氣污染",
     "address_string": "安南區本田路三段",
-    "lat": {},
-    "long": {},
+    "lat": "23.045144",
+    "long": "120.165502",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-18 19:18:00"
