@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812200340",
+    "requested_datetime": "2018-12-20 21:09:09",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區新建路19巷24號 紅線違停",
+    "address_string": "南區新建路19巷24號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-12-20 23:16:16",
+    "expected_datetime": "2019-01-19 21:09:00"
+}
