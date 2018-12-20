@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812200021",
+    "requested_datetime": "2018-12-20 08:16:53",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區大同路一段的健康路口到開山路口雙側  紅線黃線違規停車",
+    "address_string": "中西區大同路一段的健康路開山路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-01-19 08:16:53"
+}
