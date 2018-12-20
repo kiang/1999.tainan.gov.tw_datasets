@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812200373",
+    "requested_datetime": "2018-12-20 23:48:51",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "安南區鹽田路395巷3弄22號 妨害安寧",
+    "address_string": "安南區鹽田路395巷3弄22號",
+    "lat": "23.0320059",
+    "long": "120.1403008",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-01-19 23:44:00"
+}

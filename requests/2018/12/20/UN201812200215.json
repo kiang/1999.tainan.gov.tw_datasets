@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區慶安路整條 路燈不亮",
     "address_string": "安南區慶安路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0421062",
+    "long": "120.2143224",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-19 15:21:00"

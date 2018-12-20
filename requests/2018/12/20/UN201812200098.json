@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "北區長榮路五段460號 號誌故障",
     "address_string": "北區長榮路五段460號",
-    "lat": {},
-    "long": {},
+    "lat": "23.013161",
+    "long": "120.2133214",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-19 10:22:00"

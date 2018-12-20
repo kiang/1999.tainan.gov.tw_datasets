@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區育德一街與文成二路交叉口  (育德一街北側)  路燈故障",
     "address_string": "北區育德一街",
-    "lat": {},
-    "long": {},
+    "lat": "23.015039",
+    "long": "120.2052205",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-19 20:23:00"
