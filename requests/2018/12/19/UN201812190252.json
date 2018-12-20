@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812190252",
     "requested_datetime": "2018-12-19 17:46:46",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "佳里區",
     "service_name": "交通運輸",
@@ -12,6 +12,6 @@
     "lat": "23.17989",
     "long": "120.15463",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-20 10:21:13",
     "expected_datetime": "2019-01-18 17:45:00"
 }
