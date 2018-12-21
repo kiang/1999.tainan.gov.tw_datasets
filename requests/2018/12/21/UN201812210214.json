@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812210214",
+    "requested_datetime": "2018-12-21 15:59:46",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "新營區忠義街5之6號 占用道路",
+    "address_string": "新營區忠義街5之6號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-12-21 16:41:27",
+    "expected_datetime": "2019-01-20 15:59:00"
+}
