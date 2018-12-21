@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812190072",
     "requested_datetime": "2018-12-19 09:24:56",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "山上區",
     "service_name": "噪音舉發",
@@ -12,6 +12,6 @@
     "lat": "23.0958254",
     "long": "120.3478746",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-22 05:21:13",
     "expected_datetime": "2019-01-18 09:22:00"
 }
