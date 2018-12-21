@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812210193",
+    "requested_datetime": "2018-12-21 15:02:38",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "南區興隆路382號旁空地 妨害安寧",
+    "address_string": "南區興隆路382號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-12-21 17:16:13",
+    "expected_datetime": "2019-01-20 15:01:00"
+}
