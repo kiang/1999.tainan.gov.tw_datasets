@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812200060",
     "requested_datetime": "2018-12-20 09:33:28",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "歸仁區",
     "service_name": "髒亂及汙染",
@@ -12,6 +12,6 @@
     "lat": "22.953673",
     "long": "120.30179",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-21 08:56:32",
     "expected_datetime": "2019-01-19 09:32:00"
 }
