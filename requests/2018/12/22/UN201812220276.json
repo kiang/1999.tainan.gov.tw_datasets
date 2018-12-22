@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812220276",
+    "requested_datetime": "2018-12-22 20:59:16",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區海安路三段219巷43弄*臨安路二段143巷 違規停車",
+    "address_string": "北區海安路三段219巷43弄*臨安路二段143巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-01-21 20:57:00"
+}
