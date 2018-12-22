@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "安南區大眾路與四草大道交叉口    號誌燈故障",
     "address_string": "安南區大眾路四草大道",
-    "lat": {},
-    "long": {},
+    "lat": "23.0185497",
+    "long": "120.1326336",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-21 08:40:00"

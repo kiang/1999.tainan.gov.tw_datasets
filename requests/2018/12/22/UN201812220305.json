@@ -1,17 +1,17 @@
 {
-    "service_request_id": "UN201812220285",
-    "requested_datetime": "2018-12-22 21:39:33",
+    "service_request_id": "UN201812220305",
+    "requested_datetime": "2018-12-22 23:31:06",
     "status": {},
     "keyword": "0",
     "area": "東區",
     "service_name": "噪音舉發",
     "agency": "台南市政府",
     "subproject": "妨害安寧",
-    "description": "東區府連路175巷口音樂會館 妨害安寧",
+    "description": "東區府連路175巷口，音樂會館燒烤店KTV 妨害安寧",
     "address_string": "東區府連路175巷",
-    "lat": "22.985454",
-    "long": "120.2121919",
+    "lat": {},
+    "long": {},
     "service_notice": {},
     "updated_datetime": {},
-    "expected_datetime": "2019-01-21 21:39:33"
+    "expected_datetime": "2019-01-21 23:31:00"
 }
