@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812230060",
+    "requested_datetime": "2018-12-23 10:31:14",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "南區仁南四街與仁南街口，水門宮 妨害安寧",
+    "address_string": "南區仁南四街仁南街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-12-23 11:46:13",
+    "expected_datetime": "2019-01-22 10:29:00"
+}
