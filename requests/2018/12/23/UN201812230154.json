@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "永康區東橋一路89號 違規停車",
     "address_string": "東橋一路89號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0174964",
+    "long": "120.2345281",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-22 15:15:59"

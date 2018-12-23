@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812230288",
+    "requested_datetime": "2018-12-23 23:58:47",
+    "status": {},
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "新營區復興路157號娃娃機前 違規停車",
+    "address_string": "新營區復興路157號",
+    "lat": "23.302815",
+    "long": "120.306494",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-01-22 23:58:47"
+}

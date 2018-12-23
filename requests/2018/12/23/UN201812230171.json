@@ -9,8 +9,8 @@
     "subproject": "交通疏導",
     "description": "86快速道路",
     "address_string": "南區台南機場",
-    "lat": {},
-    "long": {},
+    "lat": "22.948017",
+    "long": "120.216054",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-22 16:04:00"
