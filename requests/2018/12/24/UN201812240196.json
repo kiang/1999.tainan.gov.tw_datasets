@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812240196",
+    "requested_datetime": "2018-12-24 15:37:34",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區府連路府東街交叉口 紅線違停",
+    "address_string": "東區府連路府東街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-01-23 15:36:00"
+}
