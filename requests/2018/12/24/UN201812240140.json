@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812240140",
+    "requested_datetime": "2018-12-24 12:21:04",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區東寧路301巷30-6號旁紅線違規停車",
+    "address_string": "東區東寧路301巷30-6號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-01-23 12:21:04"
+}

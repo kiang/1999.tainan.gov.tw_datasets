@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812240146",
+    "requested_datetime": "2018-12-24 12:33:33",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區臨安路二段189號 違停",
+    "address_string": "北區臨安路二段189號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-01-23 12:32:00"
+}
