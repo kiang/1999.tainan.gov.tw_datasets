@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "永康區永大路二段1236號前 路燈故障",
     "address_string": "永康區永大路二段1236號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0210494",
+    "long": "120.261801",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-23 20:26:02"

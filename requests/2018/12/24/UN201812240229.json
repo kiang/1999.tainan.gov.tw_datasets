@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "安南區安中路五段188號，康寧大學附近 空污",
     "address_string": "安南區安中路五段188號",
-    "lat": {},
-    "long": {},
+    "lat": "23.058852",
+    "long": "120.154343",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-23 16:33:00"

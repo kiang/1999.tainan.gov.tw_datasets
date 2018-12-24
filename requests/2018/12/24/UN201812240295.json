@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812240295",
     "requested_datetime": "2018-12-24 20:08:36",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "北區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "北區西門路四段155號，肯德基前 違停",
     "address_string": "北區西門路四段155號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0095238",
+    "long": "120.2076714",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-25 00:36:24",
     "expected_datetime": "2019-01-23 20:06:00"
 }
