@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812230038",
     "requested_datetime": "2018-12-23 08:53:34",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "下營區",
     "service_name": "民生管線",
@@ -12,6 +12,6 @@
     "lat": "23.255584",
     "long": "120.293994",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-24 14:21:27",
     "expected_datetime": "2019-01-22 08:51:00"
 }
