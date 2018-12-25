@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "永康區中華路313號 路燈故障",
     "address_string": "永康區中華路313號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0077388",
+    "long": "120.2342177",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-24 19:48:55"

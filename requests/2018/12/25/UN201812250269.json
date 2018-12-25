@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區小東路307巷口 違停",
     "address_string": "北區小東路307巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.999526",
+    "long": "120.2309472",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-24 18:59:00"
