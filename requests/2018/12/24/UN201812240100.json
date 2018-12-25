@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812240100",
     "requested_datetime": "2018-12-24 10:36:56",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "白河區",
     "service_name": "動物救援",
@@ -12,6 +12,6 @@
     "lat": "23.3528043",
     "long": "120.4158138",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-25 12:01:21",
     "expected_datetime": "2019-01-23 10:34:00"
 }
