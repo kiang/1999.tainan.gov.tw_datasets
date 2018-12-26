@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區北安路三段與台江大道往南方向 路燈故障",
     "address_string": "安南區北安路三段台江大道",
-    "lat": {},
-    "long": {},
+    "lat": "23.0557981",
+    "long": "120.2136167",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-25 20:09:55"

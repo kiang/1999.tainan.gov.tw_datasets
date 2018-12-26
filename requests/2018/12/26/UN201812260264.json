@@ -9,8 +9,8 @@
     "subproject": "10盞以上路燈故障",
     "description": "玉井區大成路312號附近 路燈不亮",
     "address_string": "玉井區大成路312號",
-    "lat": {},
-    "long": {},
+    "lat": "23.126847",
+    "long": "120.4689123",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-25 17:52:00"

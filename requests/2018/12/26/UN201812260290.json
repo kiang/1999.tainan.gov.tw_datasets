@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "永康區尚頂路190號附近 空污",
     "address_string": "永康區尚頂路190號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0306483",
+    "long": "120.2272733",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-25 19:10:00"
