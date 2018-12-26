@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812260324",
+    "requested_datetime": "2018-12-26 21:35:26",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區東豐路305巷86弄轉角牆壁旁 佔用道路",
+    "address_string": "北區東豐路305巷86弄",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2018-12-27 01:46:16",
+    "expected_datetime": "2019-01-25 21:31:00"
+}
