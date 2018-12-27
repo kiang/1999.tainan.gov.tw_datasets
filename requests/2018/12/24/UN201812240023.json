@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812240023",
     "requested_datetime": "2018-12-24 07:38:06",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "善化區",
     "service_name": "道路維修",
@@ -12,6 +12,6 @@
     "lat": "23.1269189",
     "long": "120.2972926",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-27 16:41:24",
     "expected_datetime": "2019-01-23 07:37:00"
 }
