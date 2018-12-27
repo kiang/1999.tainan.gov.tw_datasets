@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812270332",
     "requested_datetime": "2018-12-27 20:25:42",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "佳里區",
     "service_name": "違規停車",
@@ -12,6 +12,6 @@
     "lat": "23.1631325",
     "long": "120.178287",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-28 01:06:35",
     "expected_datetime": "2019-01-26 20:25:42"
 }
