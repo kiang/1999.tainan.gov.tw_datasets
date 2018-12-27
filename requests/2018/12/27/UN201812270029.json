@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "南區新建路與新和東路  號誌燈故障",
     "address_string": "南區新建路新和東路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9673518",
+    "long": "120.185273",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-26 08:18:00"
