@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812250153",
     "requested_datetime": "2018-12-25 13:58:44",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "西港區",
     "service_name": "道路維修",
@@ -12,6 +12,6 @@
     "lat": "23.1349129",
     "long": "120.1981914",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-27 08:41:14",
     "expected_datetime": "2019-01-24 13:58:00"
 }
