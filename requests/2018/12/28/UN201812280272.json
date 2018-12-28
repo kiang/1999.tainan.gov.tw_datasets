@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "南區國民路609巷，619巷及629巷 路燈故障",
     "address_string": "南區國民路609巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.9740403",
+    "long": "120.2051104",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-27 18:20:00"
