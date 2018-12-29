@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812290271",
     "requested_datetime": "2018-12-29 21:12:48",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "北區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "北區海安路三段219巷與文賢二街口 違規停車",
     "address_string": "北區海安路三段219巷文賢二街",
-    "lat": {},
-    "long": {},
+    "lat": "23.0065542",
+    "long": "120.1975911",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-30 00:36:25",
     "expected_datetime": "2019-01-28 21:12:48"
 }

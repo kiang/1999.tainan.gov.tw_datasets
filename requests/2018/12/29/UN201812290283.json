@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812290283",
     "requested_datetime": "2018-12-29 22:56:31",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "安平區",
     "service_name": "噪音舉發",
@@ -9,9 +9,9 @@
     "subproject": "妨害安寧",
     "description": "安平區慶平路88號 妨害安寧",
     "address_string": "安平區慶平路88號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9971518",
+    "long": "120.181982",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-30 00:46:32",
     "expected_datetime": "2019-01-28 22:56:31"
 }

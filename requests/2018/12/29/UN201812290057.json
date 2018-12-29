@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "白河區中山路1-62號  號誌故障",
     "address_string": "白河區中山路1-62號",
-    "lat": {},
-    "long": {},
+    "lat": "23.3453375",
+    "long": "120.4120218",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-28 08:46:13"

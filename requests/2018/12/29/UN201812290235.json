@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812290235",
     "requested_datetime": "2018-12-29 18:45:39",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "鹽水區",
     "service_name": "噪音舉發",
@@ -9,9 +9,9 @@
     "subproject": "妨害安寧",
     "description": "鹽水區南門路201號噪音舉發",
     "address_string": "鹽水區南門路201號",
-    "lat": {},
-    "long": {},
+    "lat": "23.3117434",
+    "long": "120.2706391",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-30 00:31:35",
     "expected_datetime": "2019-01-28 18:45:39"
 }

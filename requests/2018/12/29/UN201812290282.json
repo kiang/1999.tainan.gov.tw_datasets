@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812290282",
     "requested_datetime": "2018-12-29 22:18:49",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "安平區",
     "service_name": "噪音舉發",
@@ -9,9 +9,9 @@
     "subproject": "場所連續噪音",
     "description": "安平區國平北路，潤隆真愛建案 施工噪音",
     "address_string": "安平區國平北路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9830977",
+    "long": "120.1699056",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-30 00:41:25",
     "expected_datetime": "2019-01-28 22:17:00"
 }

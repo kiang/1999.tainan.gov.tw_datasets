@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812290255",
     "requested_datetime": "2018-12-29 20:01:20",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "永康區復國一路373號違規停車",
     "address_string": "永康區復國一路373號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0127952",
+    "long": "120.2464857",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-30 00:31:36",
     "expected_datetime": "2019-01-28 20:01:20"
 }

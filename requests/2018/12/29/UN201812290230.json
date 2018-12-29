@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812290230",
     "requested_datetime": "2018-12-29 18:37:50",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "東區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "東區林森路二段192巷24弄9號斜對面 違停",
     "address_string": "東區林森路二段192巷24弄9號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9891453",
+    "long": "120.2254464",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-30 00:26:23",
     "expected_datetime": "2019-01-28 18:35:00"
 }

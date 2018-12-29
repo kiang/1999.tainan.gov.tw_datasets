@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812290241",
     "requested_datetime": "2018-12-29 19:07:14",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "安平區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "安平區建平十二街56號前面和建平十二街建平路口，牛武藏餐廳附近 違規停車",
     "address_string": "安平區建平十二街56號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9950137",
+    "long": "120.1833277",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-30 00:31:35",
     "expected_datetime": "2019-01-28 19:07:14"
 }

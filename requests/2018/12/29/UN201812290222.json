@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201812290222",
     "requested_datetime": "2018-12-29 18:05:49",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "東區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "東區東寧路484號 違規停車",
     "address_string": "東區東寧路484號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9892457",
+    "long": "120.2300252",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2018-12-30 00:26:22",
     "expected_datetime": "2019-01-28 18:05:49"
 }
