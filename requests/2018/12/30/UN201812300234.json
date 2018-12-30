@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區裕農路520號前圓環處路燈故障",
     "address_string": "東區裕農路520號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9883749",
+    "long": "120.232937",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-29 19:39:46"

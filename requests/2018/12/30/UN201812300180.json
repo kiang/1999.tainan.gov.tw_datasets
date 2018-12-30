@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "新化區護安街42號 空污",
     "address_string": "新化區護安街42號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0350252",
+    "long": "120.3095116",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-29 16:40:00"
