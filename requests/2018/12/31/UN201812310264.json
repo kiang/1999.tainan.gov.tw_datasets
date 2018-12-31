@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "東區後甲一路與平實三街 號誌故障",
     "address_string": "東區後甲一路與平實三街路口",
-    "lat": {},
-    "long": {},
+    "lat": "22.9957043",
+    "long": "120.2357677",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-30 21:25:00"

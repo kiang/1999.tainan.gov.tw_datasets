@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區海安路二段317號、中西區海安路二段290號～322號 違停",
     "address_string": "中西區海安路二段317號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9993575",
+    "long": "120.1981748",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-30 23:49:00"

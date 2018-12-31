@@ -9,8 +9,8 @@
     "subproject": "場所連續噪音",
     "description": "南區永成路與中華南路口    空氣汙染",
     "address_string": "南區永成路與中華南路口",
-    "lat": {},
-    "long": {},
+    "lat": "22.9622409",
+    "long": "120.1953897",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-30 09:55:00"

@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區裕農路868之7號附近 路燈不亮",
     "address_string": "東區裕農路868之7號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9893904",
+    "long": "120.2418354",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-30 20:49:00"
