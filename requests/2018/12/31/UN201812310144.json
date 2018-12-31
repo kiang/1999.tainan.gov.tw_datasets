@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812310144",
+    "requested_datetime": "2018-12-31 15:00:56",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "北區北門路二段，介北忠街與公園南路間 違停",
+    "address_string": "北區北門路二段",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-01-30 14:56:00"
+}
