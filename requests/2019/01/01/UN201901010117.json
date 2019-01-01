@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "安南區台江大道與北汕尾路交叉口    號誌燈故障",
     "address_string": "安南區台江大道北汕尾路",
-    "lat": {},
-    "long": {},
+    "lat": "23.011205",
+    "long": "120.132052",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-31 13:27:00"

@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "柳營區中山西路一段 路燈故障",
     "address_string": "柳營區中山西路一段",
-    "lat": {},
-    "long": {},
+    "lat": "23.2790811",
+    "long": "120.3216228",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-01-31 19:59:00"
