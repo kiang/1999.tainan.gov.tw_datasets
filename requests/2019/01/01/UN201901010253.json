@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901010253",
+    "requested_datetime": "2019-01-01 22:41:57",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區東門路二段158巷底近光華街 違規停車",
+    "address_string": "東區東門路二段158巷*光華街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-01-31 22:40:00"
+}
