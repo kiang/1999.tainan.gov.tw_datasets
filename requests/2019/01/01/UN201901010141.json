@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901010141",
+    "requested_datetime": "2019-01-01 14:54:10",
+    "status": {},
+    "keyword": "0",
+    "area": "佳里區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "佳里區佳北路與忠孝路路口茶的魔手前 違規停車",
+    "address_string": "佳里區佳北路*忠孝路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-01-31 14:54:10"
+}
