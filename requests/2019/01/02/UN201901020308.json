@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901020308",
+    "requested_datetime": "2019-01-02 19:08:04",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區中山南路420號旁空地 違規停車",
+    "address_string": "永康區中山南路420號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-01 19:08:04"
+}
