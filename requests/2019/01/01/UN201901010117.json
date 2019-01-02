@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901010117",
     "requested_datetime": "2019-01-01 13:34:33",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "安南區",
     "service_name": "交通運輸",
@@ -12,6 +12,6 @@
     "lat": "23.011205",
     "long": "120.132052",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-02 16:01:24",
     "expected_datetime": "2019-01-31 13:27:00"
 }
