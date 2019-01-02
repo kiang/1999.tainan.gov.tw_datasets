@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901020064",
+    "requested_datetime": "2019-01-02 10:00:48",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區民德路6號左邊 違規停車",
+    "address_string": "北區民德路6號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-01 10:00:48"
+}
