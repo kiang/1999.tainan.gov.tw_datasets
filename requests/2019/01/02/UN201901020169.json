@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901020169",
+    "requested_datetime": "2019-01-02 14:00:03",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區北門路二段572號前 違規停車",
+    "address_string": "北區北門路二段572號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-01 14:00:03"
+}
