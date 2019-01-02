@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901020055",
+    "requested_datetime": "2019-01-02 09:34:57",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區勝利街90巷全線；永康區中華一路203巷全線 違停",
+    "address_string": "永康區勝利街90巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-01 09:31:00"
+}
