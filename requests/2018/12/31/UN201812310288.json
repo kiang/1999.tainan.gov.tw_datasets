@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201812310288",
+    "requested_datetime": "2018-12-31 23:21:25",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "安北路西門國小前 路燈不亮",
+    "address_string": "安平區安北路180號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-02 15:01:36",
+    "expected_datetime": "2019-01-30 23:20:00"
+}
