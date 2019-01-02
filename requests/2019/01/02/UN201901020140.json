@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "中西區健康路*賢南街   號誌燈不亮",
     "address_string": "中西區健康路賢南街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9816707",
+    "long": "120.1897105",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-01 12:33:00"

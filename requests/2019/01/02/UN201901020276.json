@@ -9,8 +9,8 @@
     "subproject": "市區道路路面油漬",
     "description": "新市區中華路  新市火車站   路面油漬",
     "address_string": "新市區中華路  新市火車站",
-    "lat": {},
-    "long": {},
+    "lat": "23.0682531",
+    "long": "120.2900616",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-01 17:42:00"
