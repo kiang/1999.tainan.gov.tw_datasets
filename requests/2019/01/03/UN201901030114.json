@@ -9,8 +9,8 @@
     "subproject": "公車動態LED跑馬燈資訊顯示異常",
     "description": "永康區中華路 85度C門口    公車站牌的LED跑馬燈",
     "address_string": "永康區中華路826號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0190529",
+    "long": "120.2257794",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-02 11:42:00"

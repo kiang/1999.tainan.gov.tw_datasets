@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "麻豆區新生南路和興國路口 號誌故障",
     "address_string": "麻豆區新生南路和興國路",
-    "lat": {},
-    "long": {},
+    "lat": "23.176813",
+    "long": "120.2471861",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-02 18:13:00"
