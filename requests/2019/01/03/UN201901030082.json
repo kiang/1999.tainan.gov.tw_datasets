@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901030082",
+    "requested_datetime": "2019-01-03 10:46:54",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中西區樹林街二段77號   違停",
+    "address_string": "中西區樹林街二段77號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-02 10:44:00"
+}
