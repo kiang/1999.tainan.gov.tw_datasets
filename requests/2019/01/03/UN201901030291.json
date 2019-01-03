@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901030291",
+    "requested_datetime": "2019-01-03 20:48:56",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區大同路一段275巷52號 違規停車",
+    "address_string": "東區大同路一段275巷52號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-02 20:48:56"
+}
