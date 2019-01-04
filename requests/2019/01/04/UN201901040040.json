@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901040040",
+    "requested_datetime": "2019-01-04 09:15:07",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區金華公有零售市場門口 違停紅線",
+    "address_string": "南區金華路二段33巷79號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-03 09:11:00"
+}
