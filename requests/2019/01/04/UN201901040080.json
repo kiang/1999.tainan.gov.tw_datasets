@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區大同路一段131號 路燈故障",
     "address_string": "東區大同路一段131號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9858403",
+    "long": "120.2114057",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-03 11:00:00"

@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區中華北路一段632號 路燈故障",
     "address_string": "北區中華北路一段632號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0178107",
+    "long": "120.1926237",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-03 17:13:00"
