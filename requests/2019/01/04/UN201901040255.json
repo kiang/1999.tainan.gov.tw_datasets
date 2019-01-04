@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901040255",
+    "requested_datetime": "2019-01-04 18:26:01",
+    "status": {},
+    "keyword": "0",
+    "area": "佳里區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "佳里區林園街、佳東路口 違規停車",
+    "address_string": "佳里區林園街佳東路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-03 18:26:01"
+}
