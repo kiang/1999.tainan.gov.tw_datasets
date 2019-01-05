@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901050260",
+    "requested_datetime": "2019-01-05 19:44:05",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區和緯路四段139巷 橫向違停",
+    "address_string": "北區和緯路四段139巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-04 19:43:00"
+}
