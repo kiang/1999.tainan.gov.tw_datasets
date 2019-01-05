@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "仁德區中山路與文華路三段口 路燈故障",
     "address_string": "仁德區中山路文華路三段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9737514",
+    "long": "120.2439384",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-04 20:31:33"

@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": ":安南區安中路一段6號與12號 路燈故障",
     "address_string": ":安南區安中路一段6號與12號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0368019",
+    "long": "120.2063569",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-04 15:36:00"

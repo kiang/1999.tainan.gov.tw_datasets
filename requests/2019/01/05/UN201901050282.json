@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "仁德區中山路與文德路 路燈故障",
     "address_string": "仁德區中山路文德路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9724865",
+    "long": "120.248241",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-04 20:30:12"

@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "新營區三民路與三興街路 違規停車",
     "address_string": "新營區三民路三興街路",
-    "lat": {},
-    "long": {},
+    "lat": "23.3062854",
+    "long": "120.3102366",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-04 17:11:00"
