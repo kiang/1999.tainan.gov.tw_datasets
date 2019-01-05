@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901050261",
+    "requested_datetime": "2019-01-05 19:44:49",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區立賢路一段與文賢二街口 違規停車",
+    "address_string": "北區立賢路一段*文賢二街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-04 19:44:49"
+}
