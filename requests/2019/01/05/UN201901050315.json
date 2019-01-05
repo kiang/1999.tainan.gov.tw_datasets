@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901050315",
+    "requested_datetime": "2019-01-05 23:34:43",
+    "status": {},
+    "keyword": "0",
+    "area": "善化區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "善化區蓮潭北二街57號 違規停車",
+    "address_string": "善化區蓮潭北二街57號",
+    "lat": "23.1167216",
+    "long": "120.3065769",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-04 23:34:43"
+}
