@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "中西區海安路二段&民生路二段口 違停",
     "address_string": "中西區海安路二段民生路二段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9953092",
+    "long": "120.1966812",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-05 19:54:00"

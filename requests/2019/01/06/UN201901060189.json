@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區中華東路與崇信街口 路燈故障",
     "address_string": "中華東路與崇信街口",
-    "lat": {},
-    "long": {},
+    "lat": "22.9932881",
+    "long": "120.2341807",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-05 18:03:10"

@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "安平區永華路二段和永華八街 交通號誌",
     "address_string": "安平區永華路二段和永華八街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9908679",
+    "long": "120.1721649",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-05 13:45:00"

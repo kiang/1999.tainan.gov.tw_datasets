@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "柳營區雙和路107號  空污",
     "address_string": "柳營區雙和路107號",
-    "lat": {},
-    "long": {},
+    "lat": "23.2928059",
+    "long": "120.3111345",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-05 10:42:00"

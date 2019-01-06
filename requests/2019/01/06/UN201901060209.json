@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "永康區永大路三段和八德街路 交通運輸",
     "address_string": "永康區永大路三段*八德街路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0366682",
+    "long": "120.2591324",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-05 19:11:11"
