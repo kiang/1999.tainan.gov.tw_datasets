@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901060159",
     "requested_datetime": "2019-01-06 16:17:51",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "新化區",
     "service_name": "噪音舉發",
@@ -12,6 +12,6 @@
     "lat": "23.037004",
     "long": "120.304217",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-07 02:16:25",
     "expected_datetime": "2019-02-05 16:14:00"
 }
