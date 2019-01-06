@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901060248",
     "requested_datetime": "2019-01-06 22:06:23",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": "違規停車",
@@ -12,6 +12,6 @@
     "lat": "23.0174799",
     "long": "120.2275313",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-07 03:01:21",
     "expected_datetime": "2019-02-05 22:04:00"
 }
