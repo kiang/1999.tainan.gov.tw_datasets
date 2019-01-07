@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901070335",
+    "requested_datetime": "2019-01-07 22:54:55",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "東區林森路二段190巷11弄16號 妨害安寧",
+    "address_string": "東區林森路二段190巷11弄16號",
+    "lat": "22.9893357",
+    "long": "120.2241817",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-06 22:54:00"
+}
