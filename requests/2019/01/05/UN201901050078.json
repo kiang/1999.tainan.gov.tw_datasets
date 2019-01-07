@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901050078",
     "requested_datetime": "2019-01-05 10:29:45",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "仁德區",
     "service_name": "髒亂及汙染",
@@ -12,6 +12,6 @@
     "lat": "22.972579",
     "long": "120.2618482",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-07 14:26:22",
     "expected_datetime": "2019-02-04 10:27:00"
 }
