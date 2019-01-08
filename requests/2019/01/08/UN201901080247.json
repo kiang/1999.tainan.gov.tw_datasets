@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901080247",
+    "requested_datetime": "2019-01-08 17:01:38",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區中山路65到117號   違規停車",
+    "address_string": "中西區中山路65號117號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-08 18:46:19",
+    "expected_datetime": "2019-02-07 17:01:38"
+}
