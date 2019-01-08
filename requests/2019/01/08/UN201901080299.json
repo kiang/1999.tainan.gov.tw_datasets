@@ -9,8 +9,8 @@
     "subproject": "10盞以上路燈故障",
     "description": "安南區安清路，從消防局開始往焚化爐方向 路燈不亮",
     "address_string": "安南區安清路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0555511",
+    "long": "120.1300593",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-07 19:00:00"

@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "歸仁區信義北路70號~100號之間  空汙",
     "address_string": "歸仁區信義北路100號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9693745",
+    "long": "120.2976984",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-07 16:48:00"

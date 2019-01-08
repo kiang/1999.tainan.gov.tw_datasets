@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "永康區中華路跟中華二路口 號誌故障",
     "address_string": "永康區中華路跟中華二路口",
-    "lat": {},
-    "long": {},
+    "lat": "23.0084944",
+    "long": "120.2307992",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-07 10:33:00"
