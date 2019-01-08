@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901050060",
     "requested_datetime": "2019-01-05 09:44:02",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": {},
     "service_name": {},
@@ -12,6 +12,6 @@
     "lat": "23.0371626",
     "long": "120.3021677",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-08 11:31:13",
     "expected_datetime": "2019-02-04 09:44:00"
 }
