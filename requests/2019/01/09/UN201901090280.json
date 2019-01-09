@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區大同路一段137號  路燈故障",
     "address_string": "東區大同路一段137號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9857228",
+    "long": "120.2113258",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-08 19:22:00"

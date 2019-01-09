@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "再反應(新市區新港社大道和富強路口 號誌故障",
     "address_string": "新市區新港社大道富強路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0644502",
+    "long": "120.2812064",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-08 07:10:00"
