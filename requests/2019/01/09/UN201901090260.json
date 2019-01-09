@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901090260",
+    "requested_datetime": "2019-01-09 18:15:27",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "公車動態LED跑馬燈資訊顯示異常",
+    "description": "台南二中公車站牌 公車動態LED跑馬燈資訊顯示異常",
+    "address_string": {},
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-08 18:15:00"
+}
