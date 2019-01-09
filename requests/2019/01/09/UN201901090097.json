@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901090097",
+    "requested_datetime": "2019-01-09 10:31:48",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "道路維修",
+    "agency": "臺南市政府水利局",
+    "subproject": "人孔蓋聲響、凹陷、漏水",
+    "description": "<A-TB-2019-942再反應>南區文南二街55號前面污水孔蓋遺失\/冒水",
+    "address_string": "南區文南二街55號",
+    "lat": "22.9854158",
+    "long": "120.1889373",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-08 10:30:00"
+}
