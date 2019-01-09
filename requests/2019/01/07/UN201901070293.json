@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901070293",
     "requested_datetime": "2019-01-07 19:22:51",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "新營區",
     "service_name": "路燈故障",
@@ -12,6 +12,6 @@
     "lat": "23.3069189",
     "long": "120.3125008",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-09 17:11:51",
     "expected_datetime": "2019-02-06 19:22:51"
 }
