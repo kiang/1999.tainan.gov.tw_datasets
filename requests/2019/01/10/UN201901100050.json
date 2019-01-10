@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "新營區義和街&民治路口，義和街上 空污",
     "address_string": "新營區義和街民治路",
-    "lat": {},
-    "long": {},
+    "lat": "23.311101",
+    "long": "120.321399",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-09 09:34:00"

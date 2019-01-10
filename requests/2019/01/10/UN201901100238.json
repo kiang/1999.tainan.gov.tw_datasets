@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區育德三街106巷口 路燈不亮",
     "address_string": "北區育德三街106巷",
-    "lat": {},
-    "long": {},
+    "lat": "23.0146139",
+    "long": "120.2016915",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-09 16:56:00"

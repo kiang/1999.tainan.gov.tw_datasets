@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "安平區府平路&育平路口 空污",
     "address_string": "安平區府平路育平路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9871402",
+    "long": "120.1664101",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-09 13:52:00"
