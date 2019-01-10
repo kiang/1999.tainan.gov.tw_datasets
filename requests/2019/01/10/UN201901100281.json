@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901100281",
+    "requested_datetime": "2019-01-10 19:23:01",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "北區開元路340號對面 號誌故障",
+    "address_string": "北區開元路340號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-09 19:23:00"
+}
