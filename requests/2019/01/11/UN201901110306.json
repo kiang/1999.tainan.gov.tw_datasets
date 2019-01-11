@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901110306",
+    "requested_datetime": "2019-01-11 20:16:02",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "東區東寧路296巷6弄7號、9號之間 路燈不亮",
+    "address_string": "東區東寧路296巷6弄7號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-10 20:14:00"
+}
