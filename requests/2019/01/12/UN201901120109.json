@@ -1,17 +1,17 @@
 {
     "service_request_id": "UN201901120109",
     "requested_datetime": "2019-01-12 12:39:14",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "中西區",
     "service_name": "違規停車",
     "agency": "台南市政府",
     "subproject": "違規停車",
     "description": "中西區民族路二段的北門路口到西華南街口雙側紅線黃線 違規停車",
-    "address_string": "中西區民族路二段的北門路口到西華南街口雙側紅線黃線",
+    "address_string": "中西區民族路二段北門路",
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-12 17:36:46",
     "expected_datetime": "2019-02-11 12:39:14"
 }
