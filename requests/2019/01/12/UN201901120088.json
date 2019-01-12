@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901120088",
+    "requested_datetime": "2019-01-12 11:25:17",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區北成路跟中華北路二段90巷 違停",
+    "address_string": "北區北成路跟中華北路二段90巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-11 11:23:00"
+}
