@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901130206",
+    "requested_datetime": "2019-01-13 19:57:12",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區北華街170巷和公園南路721號交叉口，北華街170巷內 違停",
+    "address_string": "北區北華街170巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-14 02:31:24",
+    "expected_datetime": "2019-02-12 19:57:00"
+}
