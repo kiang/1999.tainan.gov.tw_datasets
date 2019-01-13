@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "南區中華南路一段西門路一段 號誌故障",
     "address_string": "南區中華南路一段西門路一段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9637338",
+    "long": "120.198452",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-12 15:41:00"
