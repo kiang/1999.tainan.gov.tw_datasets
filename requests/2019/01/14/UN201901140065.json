@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901140065",
+    "requested_datetime": "2019-01-14 09:35:45",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區民族路二段59-63號與66號與42號 違規停車",
+    "address_string": "民族路二段59-63號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-13 09:35:45"
+}
