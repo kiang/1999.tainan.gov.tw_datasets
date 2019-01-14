@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901120255",
     "requested_datetime": "2019-01-12 23:06:53",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "關廟區",
     "service_name": "動物救援",
@@ -12,6 +12,6 @@
     "lat": "22.9038678",
     "long": "120.3521125",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-14 14:02:02",
     "expected_datetime": "2019-02-11 23:06:00"
 }
