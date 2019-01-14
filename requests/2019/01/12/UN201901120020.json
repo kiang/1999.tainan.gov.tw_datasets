@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901120020",
     "requested_datetime": "2019-01-12 05:52:49",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "北區",
     "service_name": "噪音舉發",
@@ -12,6 +12,6 @@
     "lat": "23.0046979",
     "long": "120.2189904",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-14 15:41:19",
     "expected_datetime": "2019-02-11 05:49:00"
 }
