@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901120069",
     "requested_datetime": "2019-01-12 10:36:41",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "官田區",
     "service_name": "交通運輸",
@@ -12,6 +12,6 @@
     "lat": "23.2072455",
     "long": "120.3226994",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-14 17:26:18",
     "expected_datetime": "2019-02-11 10:34:00"
 }
