@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "永康區中華路279號前 路燈故障",
     "address_string": "永康區中華路279號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0066561",
+    "long": "120.234626",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-13 20:40:34"

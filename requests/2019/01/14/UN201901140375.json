@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901140375",
     "requested_datetime": "2019-01-14 23:35:49",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "東區",
     "service_name": "噪音舉發",
@@ -9,9 +9,9 @@
     "subproject": "妨害安寧",
     "description": "東區榮裕街272號 妨害安寧",
     "address_string": "榮裕街272號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9771256",
+    "long": "120.2214276",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-15 00:32:04",
     "expected_datetime": "2019-02-13 23:35:49"
 }

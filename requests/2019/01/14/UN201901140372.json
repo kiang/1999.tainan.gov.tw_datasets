@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901140372",
     "requested_datetime": "2019-01-14 22:56:26",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "永康區中華路58巷52號前 違規停車",
     "address_string": "永康區中華路58巷52號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0018866",
+    "long": "120.2363198",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-15 00:32:04",
     "expected_datetime": "2019-02-13 22:56:26"
 }

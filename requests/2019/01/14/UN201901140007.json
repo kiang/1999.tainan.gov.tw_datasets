@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901140007",
     "requested_datetime": "2019-01-14 01:51:45",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "北區",
     "service_name": "動物救援",
@@ -9,9 +9,9 @@
     "subproject": "犬貓急難救援",
     "description": "北區北安路一段51巷3弄6號 動物救援",
     "address_string": "北安路一段51巷3弄6號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0148189",
+    "long": "120.2114251",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-15 00:21:19",
     "expected_datetime": "2019-02-13 01:51:45"
 }

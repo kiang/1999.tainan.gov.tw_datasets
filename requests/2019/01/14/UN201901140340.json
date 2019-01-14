@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "永康區中正南路181號前 路燈故障",
     "address_string": "永康區中正南路181號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0240339",
+    "long": "120.2182405",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-13 19:43:18"

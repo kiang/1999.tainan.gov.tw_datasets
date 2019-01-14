@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901140347",
+    "requested_datetime": "2019-01-14 20:08:28",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "安南區安通三街整條 路燈不亮",
+    "address_string": "安南區安通三街",
+    "lat": "23.0313412",
+    "long": "120.2053946",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-13 20:08:00"
+}
