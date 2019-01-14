@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901110312",
     "requested_datetime": "2019-01-11 20:21:45",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": "民生管線",
@@ -12,6 +12,6 @@
     "lat": "23.0105236",
     "long": "120.2333418",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-14 13:41:32",
     "expected_datetime": "2019-02-10 20:22:00"
 }
