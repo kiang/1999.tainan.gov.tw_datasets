@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901150247",
     "requested_datetime": "2019-01-15 18:12:51",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "安平區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "安平區國平路與國平路552巷口 轉彎處 紅線 違停 車牌9978 違規停車",
     "address_string": "安平區國平路552巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.9964961",
+    "long": "120.1729982",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-16 00:16:10",
     "expected_datetime": "2019-02-14 18:12:51"
 }

@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901150267",
     "requested_datetime": "2019-01-15 19:27:43",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "永康區大灣路273號 違規停車",
     "address_string": "永康區大灣路273號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0062571",
+    "long": "120.2673302",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-16 00:41:13",
     "expected_datetime": "2019-02-14 19:27:43"
 }

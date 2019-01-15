@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901150295",
     "requested_datetime": "2019-01-15 20:55:42",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "北區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "北區區東豐路305巷25弄\/15號\/違停\/妨害安寧",
     "address_string": "北區區東豐路305巷25弄",
-    "lat": {},
-    "long": {},
+    "lat": "23.0033661",
+    "long": "120.2241055",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-16 00:41:14",
     "expected_datetime": "2019-02-14 20:54:00"
 }

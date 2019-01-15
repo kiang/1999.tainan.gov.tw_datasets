@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901150245",
     "requested_datetime": "2019-01-15 18:03:23",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "安南區",
     "service_name": "騎樓舉發",
@@ -9,9 +9,9 @@
     "subproject": "騎樓舉發",
     "description": "安南區安和路五段250號 騎樓舉發",
     "address_string": "安南區安和路五段250號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0676269",
+    "long": "120.2170785",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-16 00:21:12",
     "expected_datetime": "2019-02-14 18:03:23"
 }

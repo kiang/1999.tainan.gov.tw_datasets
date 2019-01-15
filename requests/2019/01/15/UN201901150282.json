@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901150282",
     "requested_datetime": "2019-01-15 20:02:39",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "永康區中山南路316巷8之1號 違規停車",
     "address_string": "永康區中山南路316巷8之1號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0156062",
+    "long": "120.2370705",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-16 00:36:12",
     "expected_datetime": "2019-02-14 20:01:00"
 }

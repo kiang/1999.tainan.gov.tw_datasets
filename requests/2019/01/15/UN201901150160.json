@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "歸仁區中山路高鐵便道 路燈故障",
     "address_string": "歸仁區中山路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9700162",
+    "long": "120.2657206",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-14 13:51:00"

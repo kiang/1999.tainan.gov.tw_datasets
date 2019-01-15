@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區和平街118號 路燈故障",
     "address_string": "中西區和平街118號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9967161",
+    "long": "120.194906",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-14 20:43:00"

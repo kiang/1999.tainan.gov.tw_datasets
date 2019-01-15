@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901150256",
     "requested_datetime": "2019-01-15 18:43:25",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "中西區",
     "service_name": "騎樓舉發",
@@ -9,9 +9,9 @@
     "subproject": "騎樓舉發",
     "description": "中西區衛民街152號騎樓 騎樓舉發",
     "address_string": "中西區衛民街152號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9936164",
+    "long": "120.2073712",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-16 00:31:12",
     "expected_datetime": "2019-02-14 18:43:25"
 }

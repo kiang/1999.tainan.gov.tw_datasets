@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901150238",
     "requested_datetime": "2019-01-15 17:44:00",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "中西區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "中西區中山路3到117號，2到100號 違規停車",
     "address_string": "中西區中山路3到117號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9931596",
+    "long": "120.2053099",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-16 00:21:12",
     "expected_datetime": "2019-02-14 17:44:00"
 }

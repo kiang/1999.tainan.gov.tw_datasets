@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901150234",
     "requested_datetime": "2019-01-15 17:18:04",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "新營區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "新營區隋唐街228號 違規停車",
     "address_string": "新營區隋唐街228號",
-    "lat": {},
-    "long": {},
+    "lat": "23.3084846",
+    "long": "120.2998812",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-16 00:21:11",
     "expected_datetime": "2019-02-14 17:18:04"
 }
