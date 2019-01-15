@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901130208",
     "requested_datetime": "2019-01-13 20:11:20",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "麻豆區",
     "service_name": "路燈故障",
@@ -12,6 +12,6 @@
     "lat": "23.1788134",
     "long": "120.2479211",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-15 14:06:16",
     "expected_datetime": "2019-02-12 20:11:00"
 }
