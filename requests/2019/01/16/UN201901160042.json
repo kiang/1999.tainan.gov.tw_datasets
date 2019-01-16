@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901160042",
+    "requested_datetime": "2019-01-16 08:58:52",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "北區長榮路五段460號 綠燈不亮",
+    "address_string": "北區長榮路五段460號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-15 08:58:00"
+}
