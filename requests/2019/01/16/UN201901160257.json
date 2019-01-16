@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901160257",
+    "requested_datetime": "2019-01-16 17:16:30",
+    "status": {},
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "東區林森路二段34號 違規停車",
+    "address_string": "東區林森路二段34號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-15 17:14:00"
+}
