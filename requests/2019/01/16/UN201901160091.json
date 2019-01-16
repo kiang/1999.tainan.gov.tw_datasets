@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "歸仁區大光街與 忠孝北路336號路口 號誌故障",
     "address_string": "歸仁區大光街忠孝北路336號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9741093",
+    "long": "120.2965141",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-15 10:54:00"

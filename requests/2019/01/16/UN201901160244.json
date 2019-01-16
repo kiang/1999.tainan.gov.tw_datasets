@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區仁和路&崇善四街口，仁和路上 路燈不亮",
     "address_string": "東區仁和路崇善四街",
-    "lat": {},
-    "long": {},
+    "lat": "22.9752064",
+    "long": "120.2308521",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-15 16:39:00"

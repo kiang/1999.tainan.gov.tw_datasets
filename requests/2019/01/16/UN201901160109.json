@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "歸仁區忠孝北路&中正北路一段 號誌故障",
     "address_string": "歸仁區忠孝北路中正北路一段",
-    "lat": {},
-    "long": {},
+    "lat": "22.9745183",
+    "long": "120.2959702",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-15 11:23:00"

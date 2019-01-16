@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "新營區中正路    路燈不亮",
     "address_string": "新營區中正路",
-    "lat": {},
-    "long": {},
+    "lat": "23.3177086",
+    "long": "120.3163678",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-15 08:17:00"

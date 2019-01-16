@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區府前路一段262號 路燈故障",
     "address_string": "中西區府前路一段262號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9900851",
+    "long": "120.2001893",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-15 18:35:04"
