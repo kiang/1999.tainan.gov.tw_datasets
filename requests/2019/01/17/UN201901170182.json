@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西區湖美街38號前 路燈故障",
     "address_string": "中西區湖美街38號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0006258",
+    "long": "120.1801692",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-16 13:07:00"
