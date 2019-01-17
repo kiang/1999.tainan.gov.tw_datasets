@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901170231",
+    "requested_datetime": "2019-01-17 15:00:02",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "違規停車",
+    "description": "中區民權路一段62巷跟北門路一段51巷口 違規停車",
+    "address_string": "中區民權路一段62巷北門路一段51巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-16 14:56:00"
+}
