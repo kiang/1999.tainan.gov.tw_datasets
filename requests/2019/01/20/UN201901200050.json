@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200050",
+    "requested_datetime": "2019-01-20 09:28:26",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "安平區永華十一街113巷30號 空氣汙染",
+    "address_string": "安平區永華十一街113巷30號",
+    "lat": "22.9923984",
+    "long": "120.1610155",
+    "service_notice": {},
+    "updated_datetime": "2019-01-21 15:01:17",
+    "expected_datetime": "2019-02-19 09:25:00"
+}

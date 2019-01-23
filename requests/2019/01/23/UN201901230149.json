@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901230149",
+    "requested_datetime": "2019-01-23 13:21:14",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新化區",
+    "service_name": "騎樓舉發",
+    "agency": "台南市政府",
+    "subproject": "騎樓舉發",
+    "description": "新化區和平街139號   佔用騎樓",
+    "address_string": "新化區和平街139號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-23 17:56:12",
+    "expected_datetime": "2019-02-22 13:16:00"
+}

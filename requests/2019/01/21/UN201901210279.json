@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901210279",
+    "requested_datetime": "2019-01-21 21:37:15",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "永康區振興路21號 空氣污染",
+    "address_string": "永康區振興路21號",
+    "lat": "23.0117257",
+    "long": "120.2334039",
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 09:41:11",
+    "expected_datetime": "2019-02-20 21:35:00"
+}

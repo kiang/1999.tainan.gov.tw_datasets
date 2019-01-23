@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200208",
+    "requested_datetime": "2019-01-20 20:18:57",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面下陷、凹陷",
+    "description": "東區生產路261號 路面凹陷",
+    "address_string": "東區生產路261號",
+    "lat": "22.9651143",
+    "long": "120.2286475",
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 09:51:13",
+    "expected_datetime": "2019-02-19 20:18:00"
+}

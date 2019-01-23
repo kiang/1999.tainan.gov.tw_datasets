@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901210153",
+    "requested_datetime": "2019-01-21 14:07:28",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "安南區安生街160巷19弄10號 民生管線",
+    "address_string": "安南區安生街160巷19弄10號",
+    "lat": "23.0458483",
+    "long": "120.2132083",
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 11:01:14",
+    "expected_datetime": "2019-02-20 14:05:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200111",
+    "requested_datetime": "2019-01-20 12:43:01",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "東區富農街一段189號 路面坑洞",
+    "address_string": "東區富農街一段189號",
+    "lat": "22.9828161",
+    "long": "120.2348779",
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 21:31:10",
+    "expected_datetime": "2019-02-19 12:42:00"
+}

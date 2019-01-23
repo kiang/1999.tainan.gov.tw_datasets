@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901210132",
+    "requested_datetime": "2019-01-21 12:58:22",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "環境髒亂",
+    "description": "安南區安通路六段與海前路 髒亂及汙染",
+    "address_string": "安南區安通路六段海前路",
+    "lat": "23.031266",
+    "long": "120.187173",
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 10:01:18",
+    "expected_datetime": "2019-02-20 12:58:22"
+}

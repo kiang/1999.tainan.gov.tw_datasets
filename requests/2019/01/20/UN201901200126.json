@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200126",
+    "requested_datetime": "2019-01-20 13:55:23",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "永康區大灣路1014號  空污",
+    "address_string": "永康區大灣路1014號",
+    "lat": "22.9998521",
+    "long": "120.2530293",
+    "service_notice": {},
+    "updated_datetime": "2019-01-21 10:01:22",
+    "expected_datetime": "2019-02-19 13:53:00"
+}

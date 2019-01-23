@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220328",
+    "requested_datetime": "2019-01-22 21:18:14",
+    "status": {},
+    "keyword": "0",
+    "area": "鹽水區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "鹽水區清泉路157號 路面散落物",
+    "address_string": "鹽水區清泉路157號",
+    "lat": "23.3247274",
+    "long": "120.2682273",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-21 21:17:00"
+}

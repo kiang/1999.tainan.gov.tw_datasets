@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220290",
+    "requested_datetime": "2019-01-22 19:35:09",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": {},
+    "description": "新營區健康路 路燈故障",
+    "address_string": "新營區健康路",
+    "lat": "23.3156781",
+    "long": "120.312226",
+    "service_notice": {},
+    "updated_datetime": "2019-01-23 14:16:15",
+    "expected_datetime": "2019-02-21 19:35:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220301",
+    "requested_datetime": "2019-01-22 19:47:17",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "長榮路一段冒煙的喬 空氣污染",
+    "address_string": "東區長榮路一段183號",
+    "lat": "22.9841672",
+    "long": "120.2176432",
+    "service_notice": {},
+    "updated_datetime": "2019-01-23 13:46:12",
+    "expected_datetime": "2019-02-21 19:47:00"
+}

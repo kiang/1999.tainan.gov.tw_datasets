@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220308",
+    "requested_datetime": "2019-01-22 19:56:26",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "安南區安和路五段244號，巧福火鍋店 佔用道路",
+    "address_string": "安南區安和路五段244號",
+    "lat": "23.0675189",
+    "long": "120.2171355",
+    "service_notice": {},
+    "updated_datetime": "2019-01-23 04:41:12",
+    "expected_datetime": "2019-02-21 19:56:26"
+}

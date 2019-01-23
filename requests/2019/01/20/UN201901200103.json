@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200103",
+    "requested_datetime": "2019-01-20 12:21:08",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區大橋一街139巷22弄63號 違規停車",
+    "address_string": "永康區大橋一街139巷22弄63號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-20 15:16:12",
+    "expected_datetime": "2019-02-19 12:21:08"
+}

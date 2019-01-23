@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901210193",
+    "requested_datetime": "2019-01-21 16:02:16",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "永康區中正路192號 道路維修",
+    "address_string": "永康區中正路192號",
+    "lat": "23.0308645",
+    "long": "120.2528385",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-20 16:02:16"
+}

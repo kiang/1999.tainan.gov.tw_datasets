@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200022",
+    "requested_datetime": "2019-01-20 07:38:48",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "北區東豐路227巷24弄11號-2 空氣污染",
+    "address_string": "北區東豐路227巷24弄11號之2",
+    "lat": "23.0045087",
+    "long": "120.2211467",
+    "service_notice": {},
+    "updated_datetime": "2019-01-21 15:06:16",
+    "expected_datetime": "2019-02-19 07:34:00"
+}

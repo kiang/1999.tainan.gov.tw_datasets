@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200038",
+    "requested_datetime": "2019-01-20 09:05:01",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "場所連續噪音",
+    "description": "北區武聖路138號  私人神壇法會連續噪音",
+    "address_string": "北區武聖路138號",
+    "lat": "23.0065371",
+    "long": "120.1902623",
+    "service_notice": {},
+    "updated_datetime": "2019-01-21 14:21:16",
+    "expected_datetime": "2019-02-19 09:04:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901190263",
+    "requested_datetime": "2019-01-19 21:11:28",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "安平區安北路152巷7號和安平區安北路146巷1之2號 空氣汙染",
+    "address_string": "安平區安北路152巷7號",
+    "lat": "23.0034343",
+    "long": "120.1613922",
+    "service_notice": {},
+    "updated_datetime": "2019-01-21 14:46:22",
+    "expected_datetime": "2019-02-18 21:09:00"
+}

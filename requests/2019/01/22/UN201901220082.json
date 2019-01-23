@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220082",
+    "requested_datetime": "2019-01-22 10:39:54",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "永康區永大路三段與龍國街口 號誌故障",
+    "address_string": {},
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 16:46:11",
+    "expected_datetime": "2019-02-21 10:39:00"
+}

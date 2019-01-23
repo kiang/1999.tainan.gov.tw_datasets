@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200187",
+    "requested_datetime": "2019-01-20 18:20:57",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區中山南路316巷8之1號門口及對面，和再往前22號左右，地下停車場出入口處 違停",
+    "address_string": "永康區中山南路316巷8之1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-20 21:21:12",
+    "expected_datetime": "2019-02-19 18:21:00"
+}

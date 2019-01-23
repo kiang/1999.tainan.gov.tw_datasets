@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901210225",
+    "requested_datetime": "2019-01-21 17:27:14",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "瓦斯管溝修補、孔蓋鬆動",
+    "description": "中西區西門路一段478號 孔蓋鬆動",
+    "address_string": "中西區西門路一段478號",
+    "lat": "22.9834573",
+    "long": "120.1976947",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-20 17:25:00"
+}

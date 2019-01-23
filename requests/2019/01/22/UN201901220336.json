@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220336",
+    "requested_datetime": "2019-01-22 22:40:17",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區復華五街，與復華五街55巷口 違規停車",
+    "address_string": "永康區復華五街與復華五街55巷",
+    "lat": "23.0109731",
+    "long": "120.2459226",
+    "service_notice": {},
+    "updated_datetime": "2019-01-23 04:51:10",
+    "expected_datetime": "2019-02-21 22:40:17"
+}

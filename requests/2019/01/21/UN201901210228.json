@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901210228",
+    "requested_datetime": "2019-01-21 17:34:26",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "環境髒亂",
+    "description": "永康區大灣路942巷34弄9號前 髒亂及汙染",
+    "address_string": "永康區大灣路942巷34弄9號",
+    "lat": "23.0005905",
+    "long": "120.2554515",
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 14:06:12",
+    "expected_datetime": "2019-02-20 17:34:26"
+}

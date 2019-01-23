@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901210023",
+    "requested_datetime": "2019-01-21 08:08:30",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "永康區文賢街78巷19弄102號   交通運輸",
+    "address_string": "永康區文賢街78巷19弄102號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-21 11:36:30",
+    "expected_datetime": "2019-02-20 08:08:30"
+}

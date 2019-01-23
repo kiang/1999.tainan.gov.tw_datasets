@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200069",
+    "requested_datetime": "2019-01-20 10:36:19",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "東區中華南路二段53巷124號    連續噪音",
+    "address_string": "東區中華南路二段53巷124號",
+    "lat": "22.9595574",
+    "long": "120.1940012",
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 16:26:11",
+    "expected_datetime": "2019-02-19 10:30:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901190276",
+    "requested_datetime": "2019-01-19 23:13:48",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "安南區安昌街174巷15號附近三合院內 妨害安寧",
+    "address_string": "安南區安昌街174巷15號",
+    "lat": "23.071486",
+    "long": "120.2203095",
+    "service_notice": {},
+    "updated_datetime": "2019-01-20 06:16:14",
+    "expected_datetime": "2019-02-18 23:13:48"
+}

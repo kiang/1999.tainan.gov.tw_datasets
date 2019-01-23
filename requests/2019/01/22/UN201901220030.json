@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220030",
+    "requested_datetime": "2019-01-22 08:45:48",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "市區道路路面油漬",
+    "description": "東區裕平路與裕農一街 地面油漬",
+    "address_string": "東區裕平路裕農一街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 16:51:11",
+    "expected_datetime": "2019-02-21 08:44:00"
+}

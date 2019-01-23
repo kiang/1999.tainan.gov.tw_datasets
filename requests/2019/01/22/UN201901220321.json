@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220321",
+    "requested_datetime": "2019-01-22 20:50:14",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區國平路552巷口 違規停車",
+    "address_string": "安平區國平路552巷",
+    "lat": "22.9964961",
+    "long": "120.1729982",
+    "service_notice": {},
+    "updated_datetime": "2019-01-23 04:41:11",
+    "expected_datetime": "2019-02-21 20:50:14"
+}

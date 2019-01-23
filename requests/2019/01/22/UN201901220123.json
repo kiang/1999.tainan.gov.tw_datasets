@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220123",
+    "requested_datetime": "2019-01-22 12:12:31",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區民族路二段  違停",
+    "address_string": {},
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 17:16:16",
+    "expected_datetime": "2019-02-21 12:09:00"
+}

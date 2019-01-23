@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200141",
+    "requested_datetime": "2019-01-20 14:47:07",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "東區長榮路二段跟東寧路  違規停車",
+    "address_string": "東區長榮路二段東寧路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-20 16:56:13",
+    "expected_datetime": "2019-02-19 14:45:00"
+}

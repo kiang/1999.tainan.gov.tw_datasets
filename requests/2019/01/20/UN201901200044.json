@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200044",
+    "requested_datetime": "2019-01-20 09:16:49",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "台南市永康區中正南路242巷 噪音舉發",
+    "address_string": "台南市永康區中正南路242巷",
+    "lat": "23.0269879",
+    "long": "120.2238479",
+    "service_notice": {},
+    "updated_datetime": "2019-01-21 09:31:12",
+    "expected_datetime": "2019-02-19 09:16:49"
+}

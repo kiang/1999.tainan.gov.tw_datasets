@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220142",
+    "requested_datetime": "2019-01-22 13:33:27",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區東橋三路486號 違規停車",
+    "address_string": "486 Dongqiao 3rd Road",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 17:21:14",
+    "expected_datetime": "2019-02-21 13:33:27"
+}

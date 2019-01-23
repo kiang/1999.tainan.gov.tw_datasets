@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901210263",
+    "requested_datetime": "2019-01-21 20:15:01",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "市區道路路面油漬",
+    "description": "安南區安中路靠同安路口 路面油漬",
+    "address_string": "安南區安中路同安路",
+    "lat": "23.0442674",
+    "long": "120.1934715",
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 16:31:11",
+    "expected_datetime": "2019-02-20 20:14:00"
+}

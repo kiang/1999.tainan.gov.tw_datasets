@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220311",
+    "requested_datetime": "2019-01-22 20:06:06",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區中華西路二段49巷24弄98號 違規停車",
+    "address_string": "安平區中華西路二段49巷24弄98號",
+    "lat": "22.9881887",
+    "long": "120.1862366",
+    "service_notice": {},
+    "updated_datetime": "2019-01-23 04:36:11",
+    "expected_datetime": "2019-02-21 20:04:00"
+}

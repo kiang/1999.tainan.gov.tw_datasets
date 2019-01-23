@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220116",
+    "requested_datetime": "2019-01-22 11:55:08",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "安平區育平路120號  台水工程 \/ 占用道路",
+    "address_string": "安平區育平路120號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 17:16:15",
+    "expected_datetime": "2019-02-21 11:49:00"
+}

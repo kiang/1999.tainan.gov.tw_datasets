@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901190281",
+    "requested_datetime": "2019-01-19 23:26:50",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "永康區大灣路942巷34弄15號 妨害安寧",
+    "address_string": "永康區大灣路942巷34弄15號",
+    "lat": "23.0005361",
+    "long": "120.2555959",
+    "service_notice": {},
+    "updated_datetime": "2019-01-20 06:16:16",
+    "expected_datetime": "2019-02-18 23:26:50"
+}

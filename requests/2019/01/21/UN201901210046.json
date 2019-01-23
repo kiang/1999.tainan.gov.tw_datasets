@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901210046",
+    "requested_datetime": "2019-01-21 09:02:18",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "人孔蓋或溝蓋聲響鬆動",
+    "description": "東區富農街二段108巷14號前 水溝蓋鬆動",
+    "address_string": "東區富農街二段108巷14號",
+    "lat": "22.9872897",
+    "long": "120.2362577",
+    "service_notice": {},
+    "updated_datetime": "2019-01-23 15:01:10",
+    "expected_datetime": "2019-02-20 09:02:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901190262",
+    "requested_datetime": "2019-01-19 20:47:30",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "中西區府前路一段313、353、403號前 路燈不亮",
+    "address_string": "中西區府前路一段403號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-21 09:41:16",
+    "expected_datetime": "2019-02-18 20:46:00"
+}

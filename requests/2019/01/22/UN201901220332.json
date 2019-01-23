@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220332",
+    "requested_datetime": "2019-01-22 21:57:48",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "善化區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "善化區陽光二路與蓮潭北二街口 違規停車",
+    "address_string": "善化區陽光二路與蓮潭北二街",
+    "lat": "23.1167996",
+    "long": "120.3067435",
+    "service_notice": {},
+    "updated_datetime": "2019-01-23 04:46:11",
+    "expected_datetime": "2019-02-21 21:57:48"
+}

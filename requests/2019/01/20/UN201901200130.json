@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200130",
+    "requested_datetime": "2019-01-20 14:24:59",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "白河區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "白河區虎山里木屐寮74-5號   路燈故障",
+    "address_string": "白河區虎山里木屐寮74-5號",
+    "lat": "23.352289",
+    "long": "120.469195",
+    "service_notice": {},
+    "updated_datetime": "2019-01-21 11:56:13",
+    "expected_datetime": "2019-02-19 14:24:59"
+}

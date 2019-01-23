@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901230187",
+    "requested_datetime": "2019-01-23 15:02:46",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區萬昌街151號    違規停車",
+    "address_string": "中西區萬昌街151號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-23 18:01:15",
+    "expected_datetime": "2019-02-22 15:02:46"
+}

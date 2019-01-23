@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200102",
+    "requested_datetime": "2019-01-20 12:20:04",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區夏林路上海安路到永華路 違規停車",
+    "address_string": "南區夏林路海安路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-20 15:16:12",
+    "expected_datetime": "2019-02-19 12:17:00"
+}

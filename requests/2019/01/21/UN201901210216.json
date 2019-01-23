@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901210216",
+    "requested_datetime": "2019-01-21 17:03:18",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "佳里區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "佳里區佳里郵局 違規停車",
+    "address_string": "佳里區佳里郵局",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-21 19:01:23",
+    "expected_datetime": "2019-02-20 17:03:18"
+}

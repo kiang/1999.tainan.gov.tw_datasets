@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220315",
+    "requested_datetime": "2019-01-22 20:23:06",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "永康區正北一路124號 道路維修",
+    "address_string": "永康區正北一路124號",
+    "lat": "23.049035",
+    "long": "120.260525",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-21 20:23:06"
+}

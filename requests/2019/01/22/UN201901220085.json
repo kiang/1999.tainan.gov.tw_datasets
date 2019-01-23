@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220085",
+    "requested_datetime": "2019-01-22 10:40:27",
+    "status": {},
+    "keyword": "0",
+    "area": "七股區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "七股區南34 道路坑洞",
+    "address_string": "七股區南34",
+    "lat": "23.1359717",
+    "long": "120.1436936",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-21 10:36:00"
+}

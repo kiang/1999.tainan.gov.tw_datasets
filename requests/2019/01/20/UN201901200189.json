@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200189",
+    "requested_datetime": "2019-01-20 18:23:26",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "麻豆區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "麻豆區興民街90之3號，上榮新疆烤肉串 空氣污染",
+    "address_string": "麻豆區興民街90之3號",
+    "lat": "23.1846652",
+    "long": "120.242741",
+    "service_notice": {},
+    "updated_datetime": "2019-01-21 11:31:17",
+    "expected_datetime": "2019-02-19 18:23:00"
+}

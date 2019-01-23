@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901210244",
+    "requested_datetime": "2019-01-21 18:37:04",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "新營區民權路轉育德十一街 路燈故障",
+    "address_string": "新營區民權路轉育德十一街",
+    "lat": "23.3069189",
+    "long": "120.3125008",
+    "service_notice": {},
+    "updated_datetime": "2019-01-23 17:26:13",
+    "expected_datetime": "2019-02-20 18:36:00"
+}

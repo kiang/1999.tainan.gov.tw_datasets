@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200043",
+    "requested_datetime": "2019-01-20 09:14:04",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區廣慈街 違規停車",
+    "address_string": "中西區廣慈街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-20 11:46:13",
+    "expected_datetime": "2019-02-19 09:14:04"
+}

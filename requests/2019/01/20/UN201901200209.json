@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200209",
+    "requested_datetime": "2019-01-20 20:37:53",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "中西區民權路一段靠近東門圓環 占用道路",
+    "address_string": "中西區民權路東門圓環",
+    "lat": "22.9890311",
+    "long": "120.2109114",
+    "service_notice": {},
+    "updated_datetime": "2019-01-21 00:41:12",
+    "expected_datetime": "2019-02-19 20:36:00"
+}

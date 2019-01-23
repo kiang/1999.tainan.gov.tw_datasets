@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200193",
+    "requested_datetime": "2019-01-20 18:55:07",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "東區崇德十九街120巷22號    路燈不亮",
+    "address_string": "東區崇德十九街120巷22號",
+    "lat": "22.9677925",
+    "long": "120.2309261",
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 09:31:17",
+    "expected_datetime": "2019-02-19 18:52:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220018",
+    "requested_datetime": "2019-01-22 08:06:43",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "大同路上近86快速道路匝道口 動物屍體",
+    "address_string": "大同路86快速道路匝道口",
+    "lat": "22.9437345",
+    "long": "120.2430162",
+    "service_notice": {},
+    "updated_datetime": "2019-01-23 09:31:13",
+    "expected_datetime": "2019-02-21 08:05:00"
+}

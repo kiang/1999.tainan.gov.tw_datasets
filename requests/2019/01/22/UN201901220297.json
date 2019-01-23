@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220297",
+    "requested_datetime": "2019-01-22 19:42:18",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "新營區民生路",
+    "address_string": "新營區民生路",
+    "lat": "23.3100756",
+    "long": "120.307582",
+    "service_notice": {},
+    "updated_datetime": "2019-01-23 14:16:14",
+    "expected_datetime": "2019-02-21 19:42:00"
+}

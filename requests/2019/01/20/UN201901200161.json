@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200161",
+    "requested_datetime": "2019-01-20 16:16:33",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "永康區中正路127巷44號  妨礙安寧",
+    "address_string": "永康區中正路127巷44號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-20 18:46:16",
+    "expected_datetime": "2019-02-19 16:15:00"
+}

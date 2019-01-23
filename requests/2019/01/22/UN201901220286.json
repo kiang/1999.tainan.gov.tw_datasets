@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220286",
+    "requested_datetime": "2019-01-22 19:27:06",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "10盞以上路燈故障",
+    "description": "新營區火車站",
+    "address_string": "新營區火車站",
+    "lat": "23.3067226",
+    "long": "120.3231129",
+    "service_notice": {},
+    "updated_datetime": "2019-01-23 14:16:13",
+    "expected_datetime": "2019-02-21 19:26:00"
+}

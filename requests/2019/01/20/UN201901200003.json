@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200003",
+    "requested_datetime": "2019-01-20 00:09:43",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "市區道路路面油漬",
+    "description": "中西區信義街108巷20號,路面油漬",
+    "address_string": "中西區信義街108巷20號",
+    "lat": "23.001006",
+    "long": "120.195254",
+    "service_notice": {},
+    "updated_datetime": "2019-01-21 14:46:23",
+    "expected_datetime": "2019-02-19 00:07:00"
+}

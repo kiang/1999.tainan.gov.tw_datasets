@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220318",
+    "requested_datetime": "2019-01-22 20:35:29",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "動物救援",
+    "agency": "台南市政府",
+    "subproject": "犬貓急難救援",
+    "description": "東區東門路二段289巷14號 動物救援",
+    "address_string": "東區東門路二段289巷14號",
+    "lat": "22.983692",
+    "long": "120.226402",
+    "service_notice": {},
+    "updated_datetime": "2019-01-23 13:41:11",
+    "expected_datetime": "2019-02-21 20:33:00"
+}

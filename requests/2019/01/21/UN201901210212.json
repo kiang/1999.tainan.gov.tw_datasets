@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901210212",
+    "requested_datetime": "2019-01-21 16:47:09",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "交通疏導",
+    "description": "南區中華南路 道路交通阻塞",
+    "address_string": "南區中華南路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-21 19:16:20",
+    "expected_datetime": "2019-02-20 16:45:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200073",
+    "requested_datetime": "2019-01-20 10:43:50",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "東區莊敬路與小東路交叉口   空氣汙染",
+    "address_string": "東區莊敬路小東路",
+    "lat": "22.9984733",
+    "long": "120.2332869",
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 14:26:12",
+    "expected_datetime": "2019-02-19 10:38:00"
+}

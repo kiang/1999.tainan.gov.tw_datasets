@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220285",
+    "requested_datetime": "2019-01-22 19:26:26",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "安平區安平路452號，賣茶葉蛋的店家 佔用道路",
+    "address_string": "安平區安平路452號",
+    "lat": "22.9981848",
+    "long": "120.1733435",
+    "service_notice": {},
+    "updated_datetime": "2019-01-23 04:36:12",
+    "expected_datetime": "2019-02-21 19:26:26"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901210295",
+    "requested_datetime": "2019-01-21 23:16:21",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "中西區海安路一段135號和府前路交叉口 動物屍體",
+    "address_string": "中西區海安路一段135號府前路",
+    "lat": "22.9911937",
+    "long": "120.1938794",
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 16:31:12",
+    "expected_datetime": "2019-02-20 23:14:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200062",
+    "requested_datetime": "2019-01-20 10:06:01",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "安南區台江大道與海佃路  空氣汙染",
+    "address_string": "安南區台江大道海佃路",
+    "lat": "23.0558764",
+    "long": "120.2130716",
+    "service_notice": {},
+    "updated_datetime": "2019-01-21 15:31:36",
+    "expected_datetime": "2019-02-19 10:13:00"
+}

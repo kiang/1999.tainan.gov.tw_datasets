@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901210117",
+    "requested_datetime": "2019-01-21 12:10:43",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府環境保護局",
+    "subproject": "場所連續噪音",
+    "description": "仁德區太子里長興四街90巷3號對面 噪音",
+    "address_string": "仁德區太子里長興四街90巷3號",
+    "lat": "22.9919503",
+    "long": "120.2570456",
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 09:56:20",
+    "expected_datetime": "2019-02-20 12:06:00"
+}

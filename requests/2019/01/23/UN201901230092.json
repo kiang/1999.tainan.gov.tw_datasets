@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901230092",
+    "requested_datetime": "2019-01-23 10:41:45",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區府前路二段556號 違規停車",
+    "address_string": "安平區府前路二段556號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-23 17:51:14",
+    "expected_datetime": "2019-02-22 10:41:45"
+}

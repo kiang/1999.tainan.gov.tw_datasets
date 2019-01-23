@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901210264",
+    "requested_datetime": "2019-01-21 20:19:08",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "中西區湖美二街86巷9號前 路燈閃爍",
+    "address_string": "中西區湖美二街86巷9號",
+    "lat": "23.0020935",
+    "long": "120.1818569",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-20 20:18:00"
+}

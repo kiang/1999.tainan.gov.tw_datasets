@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200040",
+    "requested_datetime": "2019-01-20 09:12:29",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "永康區大灣路和大灣一街 占用道路",
+    "address_string": "永康區大灣路大灣一街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-20 15:21:12",
+    "expected_datetime": "2019-02-19 09:11:00"
+}

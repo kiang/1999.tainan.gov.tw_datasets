@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200098",
+    "requested_datetime": "2019-01-20 12:04:45",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "下營區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "人孔蓋或溝蓋聲響鬆動",
+    "description": "下營區健康路16號   孔蓋鬆動",
+    "address_string": "下營區健康路16號",
+    "lat": "23.2317821",
+    "long": "120.2623226",
+    "service_notice": {},
+    "updated_datetime": "2019-01-21 16:31:52",
+    "expected_datetime": "2019-02-19 12:02:00"
+}

@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220172",
+    "requested_datetime": "2019-01-22 14:44:07",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "安南區海佃路二段472號 噪音舉發",
+    "address_string": "台南市安南區海佃路二段472號",
+    "lat": "23.0397806",
+    "long": "120.1880842",
+    "service_notice": {},
+    "updated_datetime": "2019-01-23 09:31:13",
+    "expected_datetime": "2019-02-21 14:44:07"
+}

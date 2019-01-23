@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901210143",
+    "requested_datetime": "2019-01-21 13:49:37",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "永康區文賢街122巷27弄2號 占用道路",
+    "address_string": "永康區文賢街122巷27弄2號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-21 18:06:28",
+    "expected_datetime": "2019-02-20 13:47:00"
+}

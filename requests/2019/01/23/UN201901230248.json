@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901230248",
+    "requested_datetime": "2019-01-23 17:11:09",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "南區明興路681巷52弄11號 噪音舉發",
+    "address_string": "南區明興路681巷52弄11號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-23 19:01:13",
+    "expected_datetime": "2019-02-22 17:11:09"
+}

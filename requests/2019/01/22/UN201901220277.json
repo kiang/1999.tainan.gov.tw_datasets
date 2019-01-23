@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220277",
+    "requested_datetime": "2019-01-22 18:58:32",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "善化區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "善化區興華路253號之3 違規停車",
+    "address_string": "善化區興華路253號之3",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 21:56:12",
+    "expected_datetime": "2019-02-21 18:57:00"
+}

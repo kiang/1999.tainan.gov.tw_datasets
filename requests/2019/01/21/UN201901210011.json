@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901210011",
+    "requested_datetime": "2019-01-21 03:25:21",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "安平區育平五街至建平七街之間區域 噪音舉發",
+    "address_string": "安平區育平五街至建平七街之間區域",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-21 15:31:37",
+    "expected_datetime": "2019-02-20 03:25:21"
+}

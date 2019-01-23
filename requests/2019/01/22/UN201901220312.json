@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220312",
+    "requested_datetime": "2019-01-22 20:14:55",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "北區育德路跟和緯路二段路口 違規停車",
+    "address_string": "北區育德路跟和緯路二段路口",
+    "lat": "23.0116157",
+    "long": "120.2062941",
+    "service_notice": {},
+    "updated_datetime": "2019-01-23 04:31:11",
+    "expected_datetime": "2019-02-21 20:14:55"
+}

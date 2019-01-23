@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901210195",
+    "requested_datetime": "2019-01-21 16:06:48",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "永康區東橋五路385號 交通運輸",
+    "address_string": "永康區東橋五路385號",
+    "lat": "23.0250837",
+    "long": "120.2334564",
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 16:36:12",
+    "expected_datetime": "2019-02-20 16:06:48"
+}

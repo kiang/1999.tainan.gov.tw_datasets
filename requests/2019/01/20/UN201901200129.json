@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200129",
+    "requested_datetime": "2019-01-20 14:19:33",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
+    "description": "北區大興街84號門口   中華電信孔蓋鬆動",
+    "address_string": "北區大興街84號",
+    "lat": "23.0115687",
+    "long": "120.1919113",
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 13:51:13",
+    "expected_datetime": "2019-02-19 14:18:00"
+}

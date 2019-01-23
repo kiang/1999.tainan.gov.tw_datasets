@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220023",
+    "requested_datetime": "2019-01-22 08:17:42",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "下營區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面下陷、凹陷",
+    "description": "下營區174線 21K處  路面坑洞",
+    "address_string": "下營區174線 21K處",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 14:16:10",
+    "expected_datetime": "2019-02-21 08:16:00"
+}

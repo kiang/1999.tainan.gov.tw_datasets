@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200219",
+    "requested_datetime": "2019-01-20 22:43:42",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "安南區安和路五段250號 妨害安寧",
+    "address_string": "安南區安和路五段250號",
+    "lat": "23.0676269",
+    "long": "120.2170785",
+    "service_notice": {},
+    "updated_datetime": "2019-01-21 00:46:12",
+    "expected_datetime": "2019-02-19 22:43:42"
+}

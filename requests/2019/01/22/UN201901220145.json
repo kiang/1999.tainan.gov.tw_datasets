@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220145",
+    "requested_datetime": "2019-01-22 13:37:39",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區安平路408-1號 違規停車",
+    "address_string": "708台灣台南市安平區安平路408-1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 18:31:13",
+    "expected_datetime": "2019-02-21 13:37:39"
+}

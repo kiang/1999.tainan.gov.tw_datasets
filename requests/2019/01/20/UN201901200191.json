@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200191",
+    "requested_datetime": "2019-01-20 18:41:11",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "民生管線",
+    "agency": "台南市政府",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "安平區安億路236號前     漏水",
+    "address_string": "安平區安億路236號",
+    "lat": "22.9936993",
+    "long": "120.1584473",
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 15:06:11",
+    "expected_datetime": "2019-02-19 18:39:00"
+}

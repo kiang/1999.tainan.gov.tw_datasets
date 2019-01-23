@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220155",
+    "requested_datetime": "2019-01-22 14:03:02",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "永康區西勢路274號-1旁   占用道路",
+    "address_string": "永康區西勢路274號之1",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 17:21:15",
+    "expected_datetime": "2019-02-21 13:54:00"
+}

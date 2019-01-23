@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220126",
+    "requested_datetime": "2019-01-22 12:23:28",
+    "status": {},
+    "keyword": "0",
+    "area": "六甲區",
+    "service_name": "騎樓舉發",
+    "agency": "台南市政府",
+    "subproject": "騎樓舉發",
+    "description": "六甲區中正路459巷34弄32號   騎樓舉發",
+    "address_string": "六甲區中正路459巷34弄32號",
+    "lat": "23.2296255",
+    "long": "120.3504363",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-21 12:23:28"
+}

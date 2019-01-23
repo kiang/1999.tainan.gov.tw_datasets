@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200163",
+    "requested_datetime": "2019-01-20 16:35:46",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "噪音舉發",
+    "agency": "臺南市政府警察局勤務指揮中心",
+    "subproject": "妨礙安寧",
+    "description": "仁德區太子一街246號  妨礙安寧",
+    "address_string": "仁德區太子一街246號",
+    "lat": "22.9889121",
+    "long": "120.2643169",
+    "service_notice": {},
+    "updated_datetime": "2019-01-21 00:41:11",
+    "expected_datetime": "2019-02-19 16:34:00"
+}

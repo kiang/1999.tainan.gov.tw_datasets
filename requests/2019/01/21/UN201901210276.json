@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901210276",
+    "requested_datetime": "2019-01-21 21:27:46",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區平通路463號  騎樓違停",
+    "address_string": "安平區平通路463號",
+    "lat": "22.9932254",
+    "long": "120.1732174",
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 02:51:22",
+    "expected_datetime": "2019-02-20 21:27:00"
+}

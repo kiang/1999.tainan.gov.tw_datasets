@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220107",
+    "requested_datetime": "2019-01-22 11:31:03",
+    "status": {},
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "南區中華南路 空氣汙染",
+    "address_string": "南區中華南路",
+    "lat": "22.9612693",
+    "long": "120.1897267",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-21 11:28:00"
+}

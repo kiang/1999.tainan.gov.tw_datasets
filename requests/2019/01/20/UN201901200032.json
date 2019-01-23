@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200032",
+    "requested_datetime": "2019-01-20 08:50:48",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "小廣告、旗幟",
+    "description": "東區光華街229巷23號  髒亂及汙染",
+    "address_string": "東區光華街229巷23號",
+    "lat": "22.9857807",
+    "long": "120.214349",
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 14:26:12",
+    "expected_datetime": "2019-02-19 08:50:48"
+}

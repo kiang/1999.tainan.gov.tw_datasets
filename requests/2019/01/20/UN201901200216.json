@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200216",
+    "requested_datetime": "2019-01-20 21:59:02",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "道路散落物",
+    "description": "東區林森路一段，從東寧路往大同路方向，過大東夜市尚未到地下道前，內車道靠近中央分隔島處 狗屍",
+    "address_string": "東區林森路一段",
+    "lat": "22.9826985",
+    "long": "120.217403",
+    "service_notice": {},
+    "updated_datetime": "2019-01-21 14:36:28",
+    "expected_datetime": "2019-02-19 21:59:00"
+}

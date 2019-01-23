@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901220051",
+    "requested_datetime": "2019-01-22 09:34:17",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "後壁區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "公車動態LED跑馬燈資訊顯示異常",
+    "description": "後壁區新東里公車站 公車動態LED跑馬燈資訊顯示異常",
+    "address_string": "新東里公車站",
+    "lat": "23.339252",
+    "long": "120.32785",
+    "service_notice": {},
+    "updated_datetime": "2019-01-23 11:16:11",
+    "expected_datetime": "2019-02-21 09:34:17"
+}

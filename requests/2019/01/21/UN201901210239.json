@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901210239",
+    "requested_datetime": "2019-01-21 18:14:26",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "南區福吉三街86號 違規停車",
+    "address_string": "南區福吉三街86號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-21 21:26:35",
+    "expected_datetime": "2019-02-20 18:13:00"
+}

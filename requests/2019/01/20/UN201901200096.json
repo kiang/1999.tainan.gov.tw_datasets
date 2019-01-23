@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200096",
+    "requested_datetime": "2019-01-20 12:02:00",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "鹽水區",
+    "service_name": "動物救援",
+    "agency": "台南市政府",
+    "subproject": "犬貓急難救援",
+    "description": "鹽水區信義路跟行昌路交接 犬貓急難救援",
+    "address_string": "鹽水區信義路行昌路",
+    "lat": "23.3186092",
+    "long": "120.271097",
+    "service_notice": {},
+    "updated_datetime": "2019-01-21 14:06:20",
+    "expected_datetime": "2019-02-19 12:00:00"
+}

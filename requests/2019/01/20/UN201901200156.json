@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901200156",
+    "requested_datetime": "2019-01-20 15:33:47",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "仁德區後壁厝三甲子30號隔壁 施工噪音",
+    "address_string": "仁德區後壁厝三甲子30號",
+    "lat": "22.952339",
+    "long": "120.251013",
+    "service_notice": {},
+    "updated_datetime": "2019-01-21 13:56:31",
+    "expected_datetime": "2019-02-19 15:33:00"
+}

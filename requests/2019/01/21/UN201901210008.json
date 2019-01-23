@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901210008",
+    "requested_datetime": "2019-01-21 01:54:36",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "鹽水區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "場所連續噪音",
+    "description": "鹽水區康樂路與文武街口 連續噪音\/妨害安寧",
+    "address_string": "鹽水區康樂路文武街",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-21 04:26:11",
+    "expected_datetime": "2019-02-20 01:51:00"
+}

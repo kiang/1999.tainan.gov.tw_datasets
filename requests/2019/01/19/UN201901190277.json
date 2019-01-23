@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901190277",
+    "requested_datetime": "2019-01-19 23:16:27",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區府緯街72巷口，仁村醫院斜對面 紅線違停",
+    "address_string": "中西區府緯街72巷",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-20 06:21:14",
+    "expected_datetime": "2019-02-18 23:14:00"
+}

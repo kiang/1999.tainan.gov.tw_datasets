@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901210294",
+    "requested_datetime": "2019-01-21 22:55:26",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "善化區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "善化區中山路231號 違規停車",
+    "address_string": "善化區中山路231號",
+    "lat": "23.1322533",
+    "long": "120.2984816",
+    "service_notice": {},
+    "updated_datetime": "2019-01-22 02:56:28",
+    "expected_datetime": "2019-02-20 22:55:26"
+}
