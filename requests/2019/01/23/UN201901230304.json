@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901230304",
+    "requested_datetime": "2019-01-23 20:25:05",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "北區實踐街17-1號 路面坑洞",
+    "address_string": "北區實踐街17之1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-22 20:21:00"
+}
