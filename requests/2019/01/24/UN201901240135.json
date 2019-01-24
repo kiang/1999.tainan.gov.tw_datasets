@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901240135",
+    "requested_datetime": "2019-01-24 12:06:56",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區安平國小華平路上側門,多部車輛違停",
+    "address_string": "安平區華平路安平國小",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-23 12:05:00"
+}
