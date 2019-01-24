@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區怡東路75號 路燈故障",
     "address_string": "東區怡東路75號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9924054",
+    "long": "120.2278294",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-23 20:25:28"

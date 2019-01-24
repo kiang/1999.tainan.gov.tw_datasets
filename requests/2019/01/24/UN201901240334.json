@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901240334",
+    "requested_datetime": "2019-01-24 23:35:57",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "長榮路五段452巷6弄 違規停車",
+    "address_string": "長榮路五段452巷6弄",
+    "lat": "23.0135608",
+    "long": "120.2137355",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-23 23:35:57"
+}

@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "佳里區延平路與平等街交叉口,空氣汙染",
     "address_string": "佳里區延平路平等街",
-    "lat": {},
-    "long": {},
+    "lat": "23.1569467",
+    "long": "120.1789122",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-23 19:45:00"

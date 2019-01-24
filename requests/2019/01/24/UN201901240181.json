@@ -9,8 +9,8 @@
     "subproject": "路面下陷、凹陷",
     "description": "86快速道路橋下 路面凹陷",
     "address_string": "歸仁區86快速道路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9366793",
+    "long": "120.2921473",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-23 14:41:00"

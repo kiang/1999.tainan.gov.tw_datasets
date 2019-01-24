@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "北區海安路三段與和緯路交接路口  違規停車",
     "address_string": "北區海安路三段和緯路三段",
-    "lat": {},
-    "long": {},
+    "lat": "23.0116187",
+    "long": "120.2006416",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-23 19:33:00"
