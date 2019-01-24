@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901240103",
+    "requested_datetime": "2019-01-24 11:17:19",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "號誌故障",
+    "description": "中西區民生路與忠義路口   號誌故障",
+    "address_string": "中西區民生路忠義路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-23 11:17:19"
+}
