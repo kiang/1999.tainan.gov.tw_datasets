@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901230256",
     "requested_datetime": "2019-01-23 17:19:23",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "官田區",
     "service_name": "髒亂及汙染",
@@ -12,6 +12,6 @@
     "lat": "23.213435",
     "long": "120.338435",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-24 17:56:18",
     "expected_datetime": "2019-02-22 17:18:00"
 }
