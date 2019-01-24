@@ -9,8 +9,8 @@
     "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
     "description": "安平區同平路178號   停電",
     "address_string": "安平區同平路178號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9946377",
+    "long": "120.1526276",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-22 12:59:00"

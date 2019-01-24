@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "安定區海寮201之20號 空汙",
     "address_string": "安定區海寮201之20號",
-    "lat": {},
-    "long": {},
+    "lat": "23.09651",
+    "long": "120.210567",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-22 15:48:00"

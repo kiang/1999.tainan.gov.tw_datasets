@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901240045",
+    "requested_datetime": "2019-01-24 09:03:20",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "台南市政府",
+    "subproject": "路面坑洞",
+    "description": "永康區河堤道路，往西方向，近永康大排抽水站 坑洞",
+    "address_string": "永康區河堤道路",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-23 08:59:00"
+}
