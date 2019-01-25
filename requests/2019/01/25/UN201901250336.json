@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "佳里區佳北路 路燈故障",
     "address_string": "佳里區佳北路",
-    "lat": {},
-    "long": {},
+    "lat": "23.1712084",
+    "long": "120.1756562",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-24 20:23:32"

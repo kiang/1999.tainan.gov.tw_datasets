@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區大同路一段197巷 路燈不亮",
     "address_string": "東區大同路一段197巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.9835239",
+    "long": "120.2123419",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-24 12:29:00"

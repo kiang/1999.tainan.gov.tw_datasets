@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "北區和緯路和育德二路 號誌故障",
     "address_string": "北區和緯路和育德二路",
-    "lat": {},
-    "long": {},
+    "lat": "23.012355",
+    "long": "120.2035942",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-24 18:04:00"

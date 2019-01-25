@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "善化區中正路626-1號　空氣汙染",
     "address_string": "中正路626-1號",
-    "lat": {},
-    "long": {},
+    "lat": "23.135108",
+    "long": "120.293703",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-24 08:16:57"
