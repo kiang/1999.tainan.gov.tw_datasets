@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901260010",
+    "requested_datetime": "2019-01-26 01:57:18",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "南區新建路20巷5號 妨害安寧",
+    "address_string": "南區新建路20巷5號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-26 02:36:12",
+    "expected_datetime": "2019-02-25 01:55:00"
+}
