@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901260355",
     "requested_datetime": "2019-01-26 23:16:40",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "北區",
     "service_name": "噪音舉發",
@@ -9,9 +9,9 @@
     "subproject": "場所連續噪音",
     "description": "北區公園南路65號 連續噪音\/妨害安寧",
     "address_string": "北區公園南路65號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0002774",
+    "long": "120.2112977",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-27 00:46:10",
     "expected_datetime": "2019-02-25 23:14:00"
 }

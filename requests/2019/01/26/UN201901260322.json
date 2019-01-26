@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901260322",
     "requested_datetime": "2019-01-26 20:08:49",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "中西區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "中西區民族路二段133號 違規停車",
     "address_string": "中西區民族路二段133號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9948885",
+    "long": "120.2077831",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-27 00:36:17",
     "expected_datetime": "2019-02-25 20:08:49"
 }

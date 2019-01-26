@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901260347",
     "requested_datetime": "2019-01-26 22:08:12",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "安南區",
     "service_name": "噪音舉發",
@@ -9,9 +9,9 @@
     "subproject": "妨害安寧",
     "description": "安南區北安路二段526號 妨害安寧",
     "address_string": "安南區北安路二段526號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0370185",
+    "long": "120.2030762",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-27 00:41:15",
     "expected_datetime": "2019-02-25 22:08:00"
 }

@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901260349",
     "requested_datetime": "2019-01-26 22:22:30",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "安平區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "安平區永華路與平通路中間的國平路 違規停車",
     "address_string": "安平區國平路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9910056",
+    "long": "120.171124",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-27 00:41:14",
     "expected_datetime": "2019-02-25 22:21:00"
 }

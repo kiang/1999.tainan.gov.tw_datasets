@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901260340",
     "requested_datetime": "2019-01-26 21:21:15",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "北區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "北區長北街與長賢街口 違規停車",
     "address_string": "北區長北街長賢街",
-    "lat": {},
-    "long": {},
+    "lat": "23.0033583",
+    "long": "120.2049403",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-27 00:41:13",
     "expected_datetime": "2019-02-25 21:21:15"
 }
