@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901270230",
+    "requested_datetime": "2019-01-27 23:27:29",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "安南區鹽田路2號 妨害安寧",
+    "address_string": "安南區鹽田路2號",
+    "lat": "23.0352222",
+    "long": "120.1484185",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-26 23:27:00"
+}
