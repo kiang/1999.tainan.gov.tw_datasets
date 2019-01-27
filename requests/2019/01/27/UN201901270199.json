@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901270199",
+    "requested_datetime": "2019-01-27 20:23:22",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "台南市政府",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區公園路994巷28號 路燈故障",
+    "address_string": "北區公園路994巷28號",
+    "lat": "23.0162114",
+    "long": "120.2160947",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-26 20:23:00"
+}

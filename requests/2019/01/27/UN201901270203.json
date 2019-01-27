@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區開元路335號 路燈故障",
     "address_string": "開元路335",
-    "lat": {},
-    "long": {},
+    "lat": "23.008451",
+    "long": "120.2218811",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-26 20:50:24"

@@ -9,8 +9,8 @@
     "subproject": "空氣汙染",
     "description": "麻豆區忠孝路與興中路口 空氣污染",
     "address_string": "麻豆區忠孝路與興中路",
-    "lat": {},
-    "long": {},
+    "lat": "23.1836685",
+    "long": "120.2552645",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-26 18:42:00"

@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "永康區永華路2號 路燈故障",
     "address_string": "永康區永華路2號",
-    "lat": {},
-    "long": {},
+    "lat": "23.0060032",
+    "long": "120.2591338",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-26 21:39:13"

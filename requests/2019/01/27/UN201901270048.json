@@ -9,8 +9,8 @@
     "subproject": "號誌故障",
     "description": "中西區民生路與忠義路路口 號誌故障",
     "address_string": "中西區民生路",
-    "lat": {},
-    "long": {},
+    "lat": "22.9935339",
+    "long": "120.202207",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-26 11:02:00"

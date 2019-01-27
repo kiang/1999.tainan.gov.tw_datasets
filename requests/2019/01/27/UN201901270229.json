@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901270229",
+    "requested_datetime": "2019-01-27 23:22:27",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "安平區安平路75巷18弄6號，何氏宗祠 噪音舉發",
+    "address_string": "安平區安平路75巷18弄6號",
+    "lat": "22.9988138",
+    "long": "120.1649588",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-26 23:22:27"
+}
