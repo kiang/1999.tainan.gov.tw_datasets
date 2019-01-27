@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901270116",
+    "requested_datetime": "2019-01-27 14:40:20",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "成功路合作金庫前 違停",
+    "address_string": "北區成功路204號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-27 18:16:14",
+    "expected_datetime": "2019-02-26 14:40:00"
+}
