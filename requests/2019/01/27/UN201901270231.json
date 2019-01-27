@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901270231",
+    "requested_datetime": "2019-01-27 23:33:24",
+    "status": {},
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安平區安平路446巷 違規停車",
+    "address_string": "安平路446巷與安平路446巷25弄交叉路口",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-26 23:33:24"
+}
