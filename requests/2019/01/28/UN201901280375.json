@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901280375",
     "requested_datetime": "2019-01-28 22:45:14",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "新市區",
     "service_name": "噪音舉發",
@@ -12,6 +12,6 @@
     "lat": {},
     "long": {},
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-29 04:46:12",
     "expected_datetime": "2019-02-27 22:44:00"
 }
