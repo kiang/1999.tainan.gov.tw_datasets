@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901250309",
     "requested_datetime": "2019-01-25 19:07:14",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "六甲區",
     "service_name": "動物救援",
@@ -12,6 +12,6 @@
     "lat": "22.9861609",
     "long": "120.2272209",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-28 10:16:11",
     "expected_datetime": "2019-02-24 19:06:00"
 }
