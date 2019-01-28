@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901260267",
     "requested_datetime": "2019-01-26 17:41:10",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "善化區",
     "service_name": "髒亂及汙染",
@@ -12,6 +12,6 @@
     "lat": "23.1316688",
     "long": "120.2928708",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-28 16:36:12",
     "expected_datetime": "2019-02-25 17:39:00"
 }
