@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901280379",
+    "requested_datetime": "2019-01-28 23:42:49",
+    "status": {},
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "永康區復華八街56巷12號 違規停車",
+    "address_string": "復華8街56巷12號對巷車道，摩特車紅線違停",
+    "lat": "22.9997281",
+    "long": "120.2270277",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-02-27 23:42:49"
+}
