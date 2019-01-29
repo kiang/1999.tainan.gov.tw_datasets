@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901280347",
+    "requested_datetime": "2019-01-28 20:37:31",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "髒亂及汙染",
+    "agency": "台南市政府",
+    "subproject": "空氣汙染",
+    "description": "民生路大學眼科附近，2號公車站牌，地上有條開口往上、約20公分左右的黑色管子 空氣污染",
+    "address_string": "中西區民生路二段56號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-29 14:06:13",
+    "expected_datetime": "2019-02-27 20:37:00"
+}
