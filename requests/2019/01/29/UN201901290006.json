@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "北區育賢街260號 路燈故障",
     "address_string": "育賢街260號前",
-    "lat": {},
-    "long": {},
+    "lat": "23.0145168",
+    "long": "120.2081251",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-02-28 01:04:59"

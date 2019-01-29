@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901290344",
     "requested_datetime": "2019-01-29 21:53:49",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "安南區",
     "service_name": "違規停車",
@@ -9,9 +9,9 @@
     "subproject": "違規停車",
     "description": "安南區公學路五段527巷16弄 違規停車",
     "address_string": "安南區公學路五段527巷16弄",
-    "lat": {},
-    "long": {},
+    "lat": "23.0718355",
+    "long": "120.1604249",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-30 00:36:12",
     "expected_datetime": "2019-02-28 21:52:00"
 }
