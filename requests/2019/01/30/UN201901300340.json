@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901300340",
+    "requested_datetime": "2019-01-30 23:52:00",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "台南市政府",
+    "subproject": "妨害安寧",
+    "description": "北區公園南路123號 妨害安寧",
+    "address_string": "北區公園南路123號",
+    "lat": "23.0011768",
+    "long": "120.2077299",
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-03-01 23:52:00"
+}
