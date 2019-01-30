@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901290347",
     "requested_datetime": "2019-01-29 22:08:14",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "中西區",
     "service_name": "騎樓舉發",
@@ -12,6 +12,6 @@
     "lat": "22.9936769",
     "long": "120.2093333",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-30 07:01:12",
     "expected_datetime": "2019-02-28 22:08:14"
 }
