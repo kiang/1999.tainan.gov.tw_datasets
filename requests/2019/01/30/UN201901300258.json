@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安平區建平十一街166號 路燈故障",
     "address_string": "安平區建平十一街166號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9948887",
+    "long": "120.1803905",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-03-01 18:03:00"

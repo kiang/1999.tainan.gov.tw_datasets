@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "安南區台江大道接堤頂道路 路燈故障",
     "address_string": "安南區台江大道*堤頂道路",
-    "lat": {},
-    "long": {},
+    "lat": "23.0585336",
+    "long": "120.1358346",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-03-01 15:19:00"
