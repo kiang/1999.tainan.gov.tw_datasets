@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201901300064",
     "requested_datetime": "2019-01-30 10:12:51",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "永康區",
     "service_name": "動物救援",
@@ -12,6 +12,6 @@
     "lat": "23.0186751",
     "long": "120.2491223",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-01-31 09:01:10",
     "expected_datetime": "2019-03-01 10:08:00"
 }
