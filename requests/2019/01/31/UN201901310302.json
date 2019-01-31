@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "山上區大庄里20-7號與23號附近 路燈故障不亮",
     "address_string": "山上區大庄里20之7號",
-    "lat": {},
-    "long": {},
+    "lat": "23.095766",
+    "long": "120.354913",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-03-02 18:15:00"

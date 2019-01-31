@@ -9,8 +9,8 @@
     "subproject": "公車動態LED跑馬燈資訊顯示異常",
     "description": "東區長榮路三段\"自強校區站\"  公車動態LED跑馬燈資訊顯示異常",
     "address_string": "東區長榮路三段",
-    "lat": {},
-    "long": {},
+    "lat": "22.995988",
+    "long": "120.2218595",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-03-02 19:45:00"
