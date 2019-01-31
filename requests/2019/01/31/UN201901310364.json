@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201901310364",
+    "requested_datetime": "2019-01-31 20:35:38",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區中成路47號 違規停車",
+    "address_string": "中成路47號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": "2019-01-31 22:41:15",
+    "expected_datetime": "2019-03-02 20:35:38"
+}
