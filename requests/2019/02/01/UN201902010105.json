@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201902010105",
+    "requested_datetime": "2019-02-01 11:24:25",
+    "status": {},
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "安南區安和路五段91號 違停",
+    "address_string": "安南區安和路五段91號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-03-03 11:23:00"
+}
