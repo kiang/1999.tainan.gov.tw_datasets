@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201902010053",
+    "requested_datetime": "2019-02-01 09:30:36",
+    "status": {},
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "台南市政府",
+    "subproject": "佔用道路",
+    "description": "北區金華路五段1號 廣告立牌占用停車格",
+    "address_string": "北區金華路五段1號",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-03-03 09:30:00"
+}
