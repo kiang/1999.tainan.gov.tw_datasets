@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201902010326",
     "requested_datetime": "2019-02-01 22:55:05",
-    "status": {},
+    "status": "已完工",
     "keyword": "0",
     "area": "鹽水區",
     "service_name": "噪音舉發",
@@ -12,6 +12,6 @@
     "lat": "23.3214539",
     "long": "120.2709159",
     "service_notice": {},
-    "updated_datetime": {},
+    "updated_datetime": "2019-02-02 01:16:11",
     "expected_datetime": "2019-03-03 22:54:00"
 }
