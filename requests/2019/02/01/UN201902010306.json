@@ -9,8 +9,8 @@
     "subproject": "違規停車",
     "description": "安南區安和路一段23號 違規停車",
     "address_string": "安和路一段23號",
-    "lat": {},
-    "long": {},
+    "lat": "23.026305",
+    "long": "120.215026",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-03-03 20:46:27"

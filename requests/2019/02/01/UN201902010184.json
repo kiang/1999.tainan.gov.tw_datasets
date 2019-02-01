@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "中西國華街三段3巷內   路燈不亮",
     "address_string": "中西國華街三段3巷",
-    "lat": {},
-    "long": {},
+    "lat": "22.9933822",
+    "long": "120.1972822",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-03-03 14:34:00"

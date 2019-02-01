@@ -9,8 +9,8 @@
     "subproject": "9盞以下路燈故障",
     "description": "東區勝利路36號 路燈故障",
     "address_string": "東區勝利路36號",
-    "lat": {},
-    "long": {},
+    "lat": "22.9907635",
+    "long": "120.2178657",
     "service_notice": {},
     "updated_datetime": {},
     "expected_datetime": "2019-03-03 18:30:00"
