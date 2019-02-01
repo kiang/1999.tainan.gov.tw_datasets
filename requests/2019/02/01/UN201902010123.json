@@ -1,0 +1,17 @@
+{
+    "service_request_id": "UN201902010123",
+    "requested_datetime": "2019-02-01 12:13:48",
+    "status": {},
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "台南市政府",
+    "subproject": "違規停車",
+    "description": "中西區民族路*海安路   水仙宮周邊  違停",
+    "address_string": "中西區民族路海安路   水仙宮",
+    "lat": {},
+    "long": {},
+    "service_notice": {},
+    "updated_datetime": {},
+    "expected_datetime": "2019-03-03 12:11:00"
+}
